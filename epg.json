@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-21T21:58:59.285667+00:00",
+  "updated": "2026-08-21T22:30:07.646565+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-21T22:00:00+02:00",
-        "stop": "2026-08-22T00:30:00+02:00",
+        "start": "2026-08-22T00:30:00+02:00",
+        "stop": "2026-08-22T01:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-22T00:30:00+02:00",
-        "stop": "2026-08-22T01:00:00+02:00",
+        "start": "2026-08-22T01:00:00+02:00",
+        "stop": "2026-08-22T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-21T23:00:08+02:00",
-        "stop": "2026-08-22T00:31:16+02:00",
+        "start": "2026-08-21T23:00:10+02:00",
+        "stop": "2026-08-22T00:31:19+02:00",
         "title": "Onze",
         "subtitle": "Julián Álvarez, engarjolat",
         "description": "'Atlètic de Madrid ha reiterat que no traspassarà el davanter argentí al Barça. Busquem la reacció des de la capital espanyola amb David Sánchez i, des del plató, hi diuen la seva Juli Garcia, Laia Cervelló, David Ibañez i Santi Ovalle. Marc Cornet condueix un Onze que també ha comptat amb la Clau Delmàs, el Colegiado Joan Fàbregas i l'Òscar Nin.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-08-22T00:31:16+02:00",
-        "stop": "2026-08-22T00:51:48+02:00",
+        "start": "2026-08-22T00:31:19+02:00",
+        "stop": "2026-08-22T01:01:51+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-21T23:48:51+02:00",
-        "stop": "2026-08-22T00:09:01+02:00",
+        "start": "2026-08-22T00:29:10+02:00",
+        "stop": "2026-08-22T00:49:19+02:00",
         "title": "Els germans Kratt",
-        "subtitle": "Fem salts ben alts!",
-        "description": "Mentre els germans Kratt investiguen els poders animals de les llagostes, la Koki i l'Aviva ajuden el Nolan i la Sani a fer una catapulta. L'equip es fa amic d'una llagosta, que bategen amb el nom de Catapulta per la manera com s'impulsa per saltar. Però llavors veuen aparèixer les aeronaus de la Donita Donata i la Paisley Paviment que van cap a les oficines del Zach Virusmàtic... Quina en porten de cap?",
+        "subtitle": "Tria un peix espasa",
+        "description": "L'Aviva és una mestra de l'esgrima i proposa als germans Kratt un repte: que triïn quin vestit de peix amb espasa prefereixen per fer un duel amb ella. L'equip aprofita l'ocasió per estudiar les semblances i les diferències entre tres tipus de peixos que tenen espasa al morro: el marlí, el peix vela i el peix espasa. Mentrestant, s'hauran d'enfrontar amb el Zach, que vol dur a terme un altre projecte malvat dels seus: capturar tots els peixos del món per vendre'ls i fer-se més ric.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T00:09:01+02:00",
-        "stop": "2026-08-22T00:29:10+02:00",
+        "start": "2026-08-22T00:49:19+02:00",
+        "stop": "2026-08-22T01:09:58+02:00",
         "title": "Els germans Kratt",
-        "subtitle": "El Bernat Americà",
-        "description": "Explorant uns pantans, els germans Kratt troben un bernat americà i, com que és de color blau, el Martin està molt content. Tots plegats queden bocabadats amb les característiques i les habilitats d'aquest ocell; tots menys el Chris, que voldria un ocell verd per ell. L'equip Kratt es posa a estudiar a fons el bernat americà per fer-ne un disc de poder animal, però alhora també s'haurà d'enfrontar amb el Zach, que miniaturitza la nau Tortuga per quedar-se tots els invents de l'equip.",
+        "subtitle": "El dragó de Komodo",
+        "description": "Els germans Kratt i els seus amics van a l'illa de Komodo perquè han vist que el Gormand s'ha posat a robar tots els ous de dragó de Komodo per una recepta malvada. És una missió urgent, perquè d'aquests dragons només n'hi ha en aquesta illa i són una espècie en perill d'extinció. Per dur a terme el rescat, necessiten el vestit de poder de dragó de Komodo, que els farà experimentar totes les capacitats d'aquest animal.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-21T23:31:30+02:00",
-        "stop": "2026-08-22T00:16:24+02:00",
-        "title": "Martin Clunes: Island of America",
-        "subtitle": " Nova York, Massachusetts i Maine",
-        "description": "En l'últim episodi de la sèrie, Martin Clunes viatjarà a l'illa de Manhattan, un dels llocs més densament poblats del planeta. Després pujarà per la costa est dels Estats Units fins a Cape Cod, per seguir el rastre dels taurons blancs que neden per les seves platges. Més cap al nord, visitarà un parell d'illes de l'estat de Maine, per entendre què fa que la gent s'entesti a viure en uns indrets tan remots.",
+        "start": "2026-08-22T00:16:24+02:00",
+        "stop": "2026-08-22T01:08:50+02:00",
+        "title": "Llocs recòndits",
+        "subtitle": "Polònia",
+        "description": "'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-22T00:16:24+02:00",
-        "stop": "2026-08-22T01:08:49+02:00",
-        "title": "Llocs recòndits",
-        "subtitle": "Polònia",
-        "description": "'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.",
+        "start": "2026-08-22T01:08:50+02:00",
+        "stop": "2026-08-22T01:59:06+02:00",
+        "title": "El gran camí",
+        "subtitle": "El Camí Inca - Perú",
+        "description": "Aquest episodi ens duu fins al Perú, a Sud-amèrica, per atènyer a peu una de les set meravelles del món: el Machu Picchu. Els camins de l'Inca és una ruta que els inques van mantenir en secret durant segles, i que ara s'ha rescatat per visitar el Machu Picchu caminant a través dels boscos subtropicals andins en un viatge inoblidable. ",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
