@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updated": "2026-08-21T21:42:54.256353+00:00",
+  "updated": "2026-08-21T21:46:12.960261+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
+  "channels": [
+    {
+      "id": "tvi",
+      "name": "tvi"
+    },
+    {
+      "id": "324",
+      "name": "3CatInfo"
+    },
+    {
+      "id": "esport3",
+      "name": "Esport3"
+    },
+    {
+      "id": "sx3",
+      "name": "SX3"
+    },
+    {
+      "id": "c33",
+      "name": "33"
+    },
+    {
+      "id": "oca1",
+      "name": "OCA 1"
+    },
+    {
+      "id": "oca2",
+      "name": "OCA 2"
+    },
+    {
+      "id": "oca3",
+      "name": "OCA 3"
+    },
+    {
+      "id": "oca4",
+      "name": "OCA 4"
+    }
+  ],
   "epg": {
     "tvi": [
       {
@@ -20,7 +58,7 @@
         "subtitle": "Mantícora",
         "description": "Julián és un reeixit dissenyador de videojocs que viu turmentat per un fosc secret. Quan Diana apareix a la seva vida, Julián sentirà propera l'oportunitat de ser feliç.Guionista i director: Carlos VermutDirectora de fotografia: Alana Mejía GonzálezMúsica: Damián SchwartzIntèrprets: Nacho Sánchez (Julián), Zoe Stein (Diana), Álvaro Sanz Rodríguez (Cristian) i Aitziber Garmendia (Sandra)Productores: Bteam Prod, SL i Punto Nemo, A.I.E",
         "genre": "PEL·LÍCULA / TELEFILM",
-        "image": null
+        "image": ""
       }
     ],
     "324": [
@@ -28,7 +66,7 @@
         "start": "2026-08-21T22:00:00+02:00",
         "stop": "2026-08-22T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
-        "subtitle": null,
+        "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
@@ -37,7 +75,7 @@
         "start": "2026-08-22T00:30:00+02:00",
         "stop": "2026-08-22T01:00:00+02:00",
         "title": "Notícies 3CatInfo",
-        "subtitle": null,
+        "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
@@ -57,7 +95,7 @@
         "start": "2026-08-22T00:31:16+02:00",
         "stop": "2026-08-22T00:51:48+02:00",
         "title": "3CatInfo Esports",
-        "subtitle": null,
+        "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
@@ -71,7 +109,7 @@
         "subtitle": "La succió de l'ós peresós",
         "description": "Mentre l'equip Kratt és a l'Índia, la Mala, dels Amics dels Germans Kratt, els avisa que hi ha un animal en perill. És un animal molt curiós i, com que l'equip no sap ben bé si es tracta d'un os o d'un peresós, decideixen estudiar-lo a fons per aclarir-ho. Al mateix temps, tenen la missió de rescatar un exemplar que la Donita Donata ha capturat per provar uns pentinats nous amb el pèl tan particular que té aquest animal.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": null
+        "image": ""
       },
       {
         "start": "2026-08-21T23:48:51+02:00",
@@ -80,7 +118,7 @@
         "subtitle": "Fem salts ben alts!",
         "description": "Mentre els germans Kratt investiguen els poders animals de les llagostes, la Koki i l'Aviva ajuden el Nolan i la Sani a fer una catapulta. L'equip es fa amic d'una llagosta, que bategen amb el nom de Catapulta per la manera com s'impulsa per saltar. Però llavors veuen aparèixer les aeronaus de la Donita Donata i la Paisley Paviment que van cap a les oficines del Zach Virusmàtic... Quina en porten de cap?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": null
+        "image": ""
       }
     ],
     "c33": [
@@ -91,7 +129,7 @@
         "subtitle": " Nova York, Massachusetts i Maine",
         "description": "En l'últim episodi de la sèrie, Martin Clunes viatjarà a l'illa de Manhattan, un dels llocs més densament poblats del planeta. Després pujarà per la costa est dels Estats Units fins a Cape Cod, per seguir el rastre dels taurons blancs que neden per les seves platges. Més cap al nord, visitarà un parell d'illes de l'estat de Maine, per entendre què fa que la gent s'entesti a viure en uns indrets tan remots.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": null
+        "image": ""
       },
       {
         "start": "2026-08-22T00:16:24+02:00",
@@ -100,7 +138,7 @@
         "subtitle": "Polònia",
         "description": "'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": null
+        "image": ""
       }
     ],
     "oca1": [],
