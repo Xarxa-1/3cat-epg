@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-08-21T21:46:12.960261+00:00",
+  "updated": "2026-08-21T21:52:06.702086+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
-      "id": "tvi",
-      "name": "tvi"
+      "id": "tv3",
+      "name": "TV3"
     },
     {
       "id": "324",
@@ -41,24 +41,24 @@
     }
   ],
   "epg": {
-    "tvi": [
+    "tv3": [
       {
-        "start": "2026-08-21T22:31:19+02:00",
-        "stop": "2026-08-21T23:50:35+02:00",
-        "title": "La Puntual",
-        "subtitle": "La Puntual: Ens posem de vint-i-un botons",
-        "description": "Àngel Llàcer torna a emprendre una ruta per Catalunya per trobar els millors actors de teatre amateurs. Aquesta temporada l'objectiu és representar 'L'auca del senyor Esteve', de Santiago Rusiñol. Per això farà parada amb el seu equip a Tàrrega, Sitges, Figueres i el Vendrell, on descobrirà el talent de desenes de candidats a formar part de la companyia.",
-        "genre": "VARIETATS",
-        "image": "https://img.ccma.cat/multimedia//jpg/7/8/1721226172787.jpg"
-      },
-      {
-        "start": "2026-08-21T23:50:35+02:00",
-        "stop": "2026-08-22T01:43:02+02:00",
+        "start": "2026-08-21T23:50:36+02:00",
+        "stop": "2026-08-22T01:43:03+02:00",
         "title": "Pel·lícula",
         "subtitle": "Mantícora",
         "description": "Julián és un reeixit dissenyador de videojocs que viu turmentat per un fosc secret. Quan Diana apareix a la seva vida, Julián sentirà propera l'oportunitat de ser feliç.Guionista i director: Carlos VermutDirectora de fotografia: Alana Mejía GonzálezMúsica: Damián SchwartzIntèrprets: Nacho Sánchez (Julián), Zoe Stein (Diana), Álvaro Sanz Rodríguez (Cristian) i Aitziber Garmendia (Sandra)Productores: Bteam Prod, SL i Punto Nemo, A.I.E",
         "genre": "PEL·LÍCULA / TELEFILM",
         "image": ""
+      },
+      {
+        "start": "2026-08-22T01:43:03+02:00",
+        "stop": "2026-08-22T02:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-21T23:27:59+02:00",
-        "stop": "2026-08-21T23:48:51+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "La succió de l'ós peresós",
-        "description": "Mentre l'equip Kratt és a l'Índia, la Mala, dels Amics dels Germans Kratt, els avisa que hi ha un animal en perill. És un animal molt curiós i, com que l'equip no sap ben bé si es tracta d'un os o d'un peresós, decideixen estudiar-lo a fons per aclarir-ho. Al mateix temps, tenen la missió de rescatar un exemplar que la Donita Donata ha capturat per provar uns pentinats nous amb el pèl tan particular que té aquest animal.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
         "start": "2026-08-21T23:48:51+02:00",
         "stop": "2026-08-22T00:09:01+02:00",
         "title": "Els germans Kratt",
         "subtitle": "Fem salts ben alts!",
         "description": "Mentre els germans Kratt investiguen els poders animals de les llagostes, la Koki i l'Aviva ajuden el Nolan i la Sani a fer una catapulta. L'equip es fa amic d'una llagosta, que bategen amb el nom de Catapulta per la manera com s'impulsa per saltar. Però llavors veuen aparèixer les aeronaus de la Donita Donata i la Paisley Paviment que van cap a les oficines del Zach Virusmàtic... Quina en porten de cap?",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T00:09:01+02:00",
+        "stop": "2026-08-22T00:29:10+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "El Bernat Americà",
+        "description": "Explorant uns pantans, els germans Kratt troben un bernat americà i, com que és de color blau, el Martin està molt content. Tots plegats queden bocabadats amb les característiques i les habilitats d'aquest ocell; tots menys el Chris, que voldria un ocell verd per ell. L'equip Kratt es posa a estudiar a fons el bernat americà per fer-ne un disc de poder animal, però alhora també s'haurà d'enfrontar amb el Zach, que miniaturitza la nau Tortuga per quedar-se tots els invents de l'equip.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
