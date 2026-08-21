@@ -10,57 +10,79 @@ URL = (
 
 OUTPUT = Path("epg.json")
 
+NOMS = {
+    "tv3": "TV3",
+    "324": "3CatInfo",
+    "esport3": "Esport3",
+    "sx3": "SX3",
+    "c33": "33",
+    "oca1": "OCA 1",
+    "oca2": "OCA 2",
+    "oca3": "OCA 3",
+    "oca4": "OCA 4"
+}
 
-def descarrega_dades():
+
+def descarrega():
     request = Request(
         URL,
-        headers={"User-Agent": "3cat-epg/1.0"}
+        headers={"User-Agent": "Mozilla/5.0"}
     )
 
     with urlopen(request, timeout=30) as resposta:
         return json.load(resposta)
 
 
-def converteix_programa(programa):
+def convertir_programa(programa):
     if not isinstance(programa, dict):
         return None
 
-    if not all([
-        programa.get("start_time"),
-        programa.get("end_time"),
-        programa.get("titol_programa")
-    ]):
+    inici = programa.get("start_time")
+    final = programa.get("end_time")
+    titol = programa.get("titol_programa")
+
+    if not inici or not final or not titol:
         return None
 
     classificacio = programa.get("classificacio") or {}
 
     return {
-        "start": programa["start_time"],
-        "stop": programa["end_time"],
-        "title": programa["titol_programa"],
-        "subtitle": programa.get("titol_capitol") or None,
-        "description": programa.get("sinopsi") or None,
-        "genre": classificacio.get("subgrup") or None,
-        "image": programa.get("destacat_imatge") or None
+        "start": inici,
+        "stop": final,
+        "title": titol,
+        "subtitle": programa.get("titol_capitol") or "",
+        "description": programa.get("sinopsi") or "",
+        "genre": classificacio.get("subgrup") or "",
+        "image": programa.get("destacat_imatge") or ""
     }
 
 
 def main():
-    dades = descarrega_dades()
+    dades = descarrega()
+
+    canals = []
     epg = {}
 
-    for canal in dades.get("canal", []):
-        atributs = canal.get("@attributes") or {}
+    for entrada in dades.get("canal", []):
+        atributs = entrada.get("@attributes") or {}
         canal_id = atributs.get("name")
 
         if not canal_id:
             continue
 
-        # Crear sempre el canal, encara que no tingui programes
+        # Afegir sempre el canal
+        canals.append({
+            "id": canal_id,
+            "name": NOMS.get(canal_id, canal_id)
+        })
+
+        # Crear sempre l'entrada EPG
         epg[canal_id] = []
 
-        for camp in ("ara_fem", "despres_fem"):
-            programa = converteix_programa(canal.get(camp))
+        for nom_camp in ("ara_fem", "despres_fem"):
+            programa = convertir_programa(
+                entrada.get(nom_camp)
+            )
 
             if programa:
                 epg[canal_id].append(programa)
@@ -73,6 +95,7 @@ def main():
         "version": 1,
         "updated": datetime.now(timezone.utc).isoformat(),
         "source": URL,
+        "channels": canals,
         "epg": epg
     }
 
