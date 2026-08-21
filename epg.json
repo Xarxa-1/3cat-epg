@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-21T23:00:10.044838+00:00",
+  "updated": "2026-08-21T23:36:43.805048+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-22T00:30:00+02:00",
-        "stop": "2026-08-22T01:00:00+02:00",
+        "start": "2026-08-22T01:00:00+02:00",
+        "stop": "2026-08-22T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-22T01:00:00+02:00",
-        "stop": "2026-08-22T06:00:00+02:00",
+        "start": "2026-08-22T06:00:00+02:00",
+        "stop": "2026-08-22T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T00:49:19+02:00",
-        "stop": "2026-08-22T01:09:58+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El dragó de Komodo",
-        "description": "Els germans Kratt i els seus amics van a l'illa de Komodo perquè han vist que el Gormand s'ha posat a robar tots els ous de dragó de Komodo per una recepta malvada. És una missió urgent, perquè d'aquests dragons només n'hi ha en aquesta illa i són una espècie en perill d'extinció. Per dur a terme el rescat, necessiten el vestit de poder de dragó de Komodo, que els farà experimentar totes les capacitats d'aquest animal.",
+        "start": "2026-08-22T01:33:06+02:00",
+        "stop": "2026-08-22T01:44:42+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Més adolescent que tu",
+        "description": "Quan la Wendy és amb la seva colla d'amigues, la Marine se'ls enganxa com un xiclet. La Wendy voldria viure la seva vida d'adolescent amb noies de la seva edat, però la Marine es defensa: a força d'espiar la seva germana, s'ha fet gran com ella. És més adolescent que la Wendy i tot! Segur? Molt bé: la Sammie proposa un concurs entre la Wendy i la Marine per saber quina de les dues és més adolescent...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T01:09:58+02:00",
-        "stop": "2026-08-22T01:21:44+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Retorn a la natura",
-        "description": "La Marine i la Wendy s'estan tornant unes capritxoses. Els seus pares decideixen passar amb elles un cap de setmana a la muntanya. No hi ha res millor que viure en contacte amb la naturalesa per retrobar l'autèntic valor de les coses! Però com podran passar les germanes un cap de setmana sense pantalles i sense botigues? Quin desastre! Han de fer el que sigui perquè els seus pares renunciïn a la seva idea.",
+        "start": "2026-08-22T01:44:42+02:00",
+        "stop": "2026-08-22T02:04:38+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Cavalca, Lapras, cavalca!",
+        "description": "Mentre l'Ash, el Pikachu, la Misty i el Brock observen els Wailmer, veuen que se'ls acosta un Lapras ràpidament des del mar. És el Lapras amic de l'Ash del viatge que van fer a les Illes Taronja. El Lapras els guia fins a una illa plena de coves on hi ha un Wailmer que ha quedat atrapat en un forat. Els nostres herois alliberen el Wailmer, però està tan content que torna a botar cap a dins d'un forat i llavors evoluciona en Wailord. Ara sí que està encallat. Amb l'ajuda del Team Rocket, tothom col·labora per alliberar el Wailord, però l'Ash queda atrapat dins una cova. L'aigua puja de nivell, però el Lapras i el Wailord obre un túnel d'escapada. L'Ash, agraït, es torna a acomiadar del Lapras, que es retroba amb el seu grup.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T00:16:24+02:00",
-        "stop": "2026-08-22T01:08:50+02:00",
-        "title": "Llocs recòndits",
-        "subtitle": "Polònia",
-        "description": "'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.",
+        "start": "2026-08-22T01:08:51+02:00",
+        "stop": "2026-08-22T01:59:07+02:00",
+        "title": "El gran camí",
+        "subtitle": "El Camí Inca - Perú",
+        "description": "Aquest episodi ens duu fins al Perú, a Sud-amèrica, per atènyer a peu una de les set meravelles del món: el Machu Picchu. Els camins de l'Inca és una ruta que els inques van mantenir en secret durant segles, i que ara s'ha rescatat per visitar el Machu Picchu caminant a través dels boscos subtropicals andins en un viatge inoblidable. ",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-22T01:08:50+02:00",
-        "stop": "2026-08-22T01:59:06+02:00",
-        "title": "El gran camí",
-        "subtitle": "El Camí Inca - Perú",
-        "description": "Aquest episodi ens duu fins al Perú, a Sud-amèrica, per atènyer a peu una de les set meravelles del món: el Machu Picchu. Els camins de l'Inca és una ruta que els inques van mantenir en secret durant segles, i que ara s'ha rescatat per visitar el Machu Picchu caminant a través dels boscos subtropicals andins en un viatge inoblidable. ",
+        "start": "2026-08-22T01:59:07+02:00",
+        "stop": "2026-08-22T02:50:19+02:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Volcans sagrats",
+        "description": "En aquest primer episodi, dedicat als volcans sagrats, coneixerem les divinitats que des de fa mil·lennis s'han associat als fenòmens volcànics, en un intent de la humanitat de comprendre l'activitat d'aquests gegants de foc i d'evitar-ne les pitjors conseqüències, sempre des del respecte i el sentiment de pertinença a una mateixa realitat natural. La ciència i la fe col·laboren per entendre i apreciar els volcans des d'una perspectiva més completa.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
