@@ -1,6 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-08-21T21:32:46.662563+00:00",
+  "updated": "2026-08-21T21:42:54.256353+00:00",
+  "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "epg": {
     "tvi": [
       {
@@ -101,6 +102,10 @@
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": null
       }
-    ]
+    ],
+    "oca1": [],
+    "oca2": [],
+    "oca3": [],
+    "oca4": []
   }
 }
