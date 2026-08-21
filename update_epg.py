@@ -10,7 +10,20 @@ URL = (
 
 OUTPUT = Path("epg.json")
 
-NOMS = {
+MAPA_CANALS = {
+    "tvi": "tv3",
+    "tv3": "tv3",
+    "324": "324",
+    "esport3": "esport3",
+    "sx3": "sx3",
+    "c33": "c33",
+    "oca1": "oca1",
+    "oca2": "oca2",
+    "oca3": "oca3",
+    "oca4": "oca4"
+}
+
+NOMS_CANALS = {
     "tv3": "TV3",
     "324": "3CatInfo",
     "esport3": "Esport3",
@@ -21,6 +34,18 @@ NOMS = {
     "oca3": "OCA 3",
     "oca4": "OCA 4"
 }
+
+CANALS_ESPERATS = [
+    "tv3",
+    "324",
+    "esport3",
+    "sx3",
+    "c33",
+    "oca1",
+    "oca2",
+    "oca3",
+    "oca4"
+]
 
 
 def descarrega():
@@ -37,19 +62,21 @@ def convertir_programa(programa):
     if not isinstance(programa, dict):
         return None
 
-    inici = programa.get("start_time")
-    final = programa.get("end_time")
-    titol = programa.get("titol_programa")
+    if not programa.get("start_time"):
+        return None
 
-    if not inici or not final or not titol:
+    if not programa.get("end_time"):
+        return None
+
+    if not programa.get("titol_programa"):
         return None
 
     classificacio = programa.get("classificacio") or {}
 
     return {
-        "start": inici,
-        "stop": final,
-        "title": titol,
+        "start": programa["start_time"],
+        "stop": programa["end_time"],
+        "title": programa["titol_programa"],
         "subtitle": programa.get("titol_capitol") or "",
         "description": programa.get("sinopsi") or "",
         "genre": classificacio.get("subgrup") or "",
@@ -60,24 +87,24 @@ def convertir_programa(programa):
 def main():
     dades = descarrega()
 
-    canals = []
-    epg = {}
+    programes_per_canal = {}
 
+    # Crear sempre tots els canals esperats
+    for canal_id in CANALS_ESPERATS:
+        programes_per_canal[canal_id] = []
+
+    # Llegir canals retornats per l'API
     for entrada in dades.get("canal", []):
         atributs = entrada.get("@attributes") or {}
-        canal_id = atributs.get("name")
+        canal_original = atributs.get("name")
+
+        if not canal_original:
+            continue
+
+        canal_id = MAPA_CANALS.get(canal_original)
 
         if not canal_id:
             continue
-
-        # Afegir sempre el canal
-        canals.append({
-            "id": canal_id,
-            "name": NOMS.get(canal_id, canal_id)
-        })
-
-        # Crear sempre l'entrada EPG
-        epg[canal_id] = []
 
         for nom_camp in ("ara_fem", "despres_fem"):
             programa = convertir_programa(
@@ -85,18 +112,27 @@ def main():
             )
 
             if programa:
-                epg[canal_id].append(programa)
+                programes_per_canal[canal_id].append(programa)
 
-        epg[canal_id].sort(
+    for canal_id in programes_per_canal:
+        programes_per_canal[canal_id].sort(
             key=lambda programa: programa["start"]
         )
+
+    channels = [
+        {
+            "id": canal_id,
+            "name": NOMS_CANALS[canal_id]
+        }
+        for canal_id in CANALS_ESPERATS
+    ]
 
     resultat = {
         "version": 1,
         "updated": datetime.now(timezone.utc).isoformat(),
         "source": URL,
-        "channels": canals,
-        "epg": epg
+        "channels": channels,
+        "epg": programes_per_canal
     }
 
     OUTPUT.write_text(
