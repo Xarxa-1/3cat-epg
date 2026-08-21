@@ -56,22 +56,23 @@ def main():
         if not canal_id:
             continue
 
-        programes = []
+        # Crear sempre el canal, encara que no tingui programes
+        epg[canal_id] = []
 
         for camp in ("ara_fem", "despres_fem"):
             programa = converteix_programa(canal.get(camp))
 
             if programa:
-                programes.append(programa)
+                epg[canal_id].append(programa)
 
-        programes.sort(key=lambda programa: programa["start"])
-
-        if programes:
-            epg[canal_id] = programes
+        epg[canal_id].sort(
+            key=lambda programa: programa["start"]
+        )
 
     resultat = {
         "version": 1,
         "updated": datetime.now(timezone.utc).isoformat(),
+        "source": URL,
         "epg": epg
     }
 
