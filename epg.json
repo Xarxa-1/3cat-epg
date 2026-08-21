@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-21T22:30:07.646565+00:00",
+  "updated": "2026-08-21T23:00:10.044838+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-21T23:00:10+02:00",
-        "stop": "2026-08-22T00:31:19+02:00",
+        "start": "2026-08-22T00:54:01+02:00",
+        "stop": "2026-08-22T02:27:10+02:00",
         "title": "Onze",
         "subtitle": "Julián Álvarez, engarjolat",
         "description": "'Atlètic de Madrid ha reiterat que no traspassarà el davanter argentí al Barça. Busquem la reacció des de la capital espanyola amb David Sánchez i, des del plató, hi diuen la seva Juli Garcia, Laia Cervelló, David Ibañez i Santi Ovalle. Marc Cornet condueix un Onze que també ha comptat amb la Clau Delmàs, el Colegiado Joan Fàbregas i l'Òscar Nin.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-08-22T00:31:19+02:00",
-        "stop": "2026-08-22T01:01:51+02:00",
+        "start": "2026-08-22T02:27:10+02:00",
+        "stop": "2026-08-22T02:48:02+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T00:29:10+02:00",
-        "stop": "2026-08-22T00:49:19+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Tria un peix espasa",
-        "description": "L'Aviva és una mestra de l'esgrima i proposa als germans Kratt un repte: que triïn quin vestit de peix amb espasa prefereixen per fer un duel amb ella. L'equip aprofita l'ocasió per estudiar les semblances i les diferències entre tres tipus de peixos que tenen espasa al morro: el marlí, el peix vela i el peix espasa. Mentrestant, s'hauran d'enfrontar amb el Zach, que vol dur a terme un altre projecte malvat dels seus: capturar tots els peixos del món per vendre'ls i fer-se més ric.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
         "start": "2026-08-22T00:49:19+02:00",
         "stop": "2026-08-22T01:09:58+02:00",
         "title": "Els germans Kratt",
         "subtitle": "El dragó de Komodo",
         "description": "Els germans Kratt i els seus amics van a l'illa de Komodo perquè han vist que el Gormand s'ha posat a robar tots els ous de dragó de Komodo per una recepta malvada. És una missió urgent, perquè d'aquests dragons només n'hi ha en aquesta illa i són una espècie en perill d'extinció. Per dur a terme el rescat, necessiten el vestit de poder de dragó de Komodo, que els farà experimentar totes les capacitats d'aquest animal.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T01:09:58+02:00",
+        "stop": "2026-08-22T01:21:44+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Retorn a la natura",
+        "description": "La Marine i la Wendy s'estan tornant unes capritxoses. Els seus pares decideixen passar amb elles un cap de setmana a la muntanya. No hi ha res millor que viure en contacte amb la naturalesa per retrobar l'autèntic valor de les coses! Però com podran passar les germanes un cap de setmana sense pantalles i sense botigues? Quin desastre! Han de fer el que sigui perquè els seus pares renunciïn a la seva idea.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
