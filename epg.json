@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T10:48:00.926710+00:00",
+  "updated": "2026-08-22T11:16:04.862011+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,34 +103,25 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T12:47:23+02:00",
-        "stop": "2026-08-22T12:53:52+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Lèmmings esmaixadors",
-        "description": "La marca de crema de cacau amb avellanes preferida d'en Grizzy i els lèmmings ha organitzat un gran concurs en què el premi és un pot de crema de cacau gegant. Per emportar-se'l, cal encertar deu pilotes seguides en una cistella de bàsquet situada per a l'ocasió a l'aparcament del supermercat. D'entrada, sembla fàcil, però la competència entre els lèmmings i en Grizzy és ferotge.",
+        "start": "2026-08-22T13:01:02+02:00",
+        "stop": "2026-08-22T13:23:33+02:00",
+        "title": "Dracs: els nou regnes",
+        "subtitle": "Plantes molt enfiladisses",
+        "description": "Els protectors baixen al Regne de la Natura seguint una pista per mirar de trobar el nom de l'autor del Llibre dels dracs. Un cop allà, una colla de dracs nous, els Cues Enfiladisses, els roben el llibre i també la tauleta de l'Alex. Però els dracs no seran l'únic entrebanc que trobaran al Món Ocult per recuperar les seves pertinences.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T12:53:52+02:00",
-        "stop": "2026-08-22T13:01:02+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "La cabana dels focs artificials",
-        "description": "De nit, quan en Grizzy intenta dormir sent molt d'enrenou fora de la cabana: els Lèmmings llisquen per la Gran Muralla sobre una caixa propulsada per coets. Mentre eviten els estratagemes d'en Grizzy per detenir-los, els Lèmmings activen per accident el mecanisme d'una torre que obre una habitació secreta. L'habitació és plena de canons i catapultes que els petits aprenents d'artificier no dubten a utilitzar...",
+        "start": "2026-08-22T13:23:33+02:00",
+        "stop": "2026-08-22T13:47:01+02:00",
+        "title": "Dracs: els nou regnes",
+        "subtitle": "Olor de drac",
+        "description": "L'Eugene es posa un esprai corporal que fa una olor molt... característica. Per culpa d'això, aviat els protectors de dracs l'hauran de salvar del niu d'un drac amb molt mala vista i amb molt olfacte. Alhora, però, també s'hauran de salvar ells mateixos i aquest drac i els seus ous, ja que el Motoserra i els seus esbirros els van al darrere.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-22T11:57:49+02:00",
-        "stop": "2026-08-22T12:50:17+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Allan",
-        "description": "Amb l'Allan Edward Hinton viatgem pel Pallars Jussà i la Noguera. Aquest experimentat viatger descobreix, amb la Ivana Miño, l'especial gastronomia de la zona i algun dels paisatges més espectaculars de Catalunya.",
-        "genre": "ALTRES",
-        "image": ""
-      },
       {
         "start": "2026-08-22T12:50:17+02:00",
         "stop": "2026-08-22T13:37:17+02:00",
@@ -139,6 +130,15 @@
         "description": "És millor pescar al riu o pescar al mar? No volem obrir aquest debat, però dediquem aquest capítol a la canya de pescar. No serà que la gent que no pesca res és perquè hi va amb la canya que no toca? O simplement és que no en sabem? Ens visita el grup Roba Estesa, que s'acomiaden dels escenaris aquest 2025. Abans de fer-ho, però, podem gaudir d'una de les seves cançons a l'escenari de 'La Renaixença'. Sortim a passejar amb en Lopes fins a la Revolució Russa del 1905, durant el motí del cuirassat Potemkin.",
         "genre": "ALTRES",
         "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+      },
+      {
+        "start": "2026-08-22T13:37:17+02:00",
+        "stop": "2026-08-22T14:04:19+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Te verd i síndrome de Down",
+        "description": "Quan esperem un fill, el primer que volem és que estigui bé, que neixi sa i fort. Només néixer la criatura, la vols veure i abraçar-la. Però, com reaccionem quan en ens n'adonem, per sorpresa, que té la síndrome de Down? La Mónica i el Bernardo han passat per aquest tràngol i l'han sabut afrontar. Al principi, la Mónica i el Bernardo es desconcerten, necessiten fer alguna cosa per canalitzar el batibull de sentiments contradictoris que tenen i comencen a filmar la seva lluita per fer, d'en Jan, un noi cada dia una mica millor. I en surt un documental: 'La historia de Jan', en el qual es veu que, el que d'entrada pot semblar una mala notícia, pot convertir-se, en realitat, en una font d'amor i d'il·lusió. Segueixen intensos programes d'estimulació per millorar la capacitat intel·lectual del nen, però els progressos són lents. A més, creen http://lahistoriadejan.com/ un blog en què passen de la por a la superació i al suport a altres pares.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       }
     ],
     "oca1": [],
