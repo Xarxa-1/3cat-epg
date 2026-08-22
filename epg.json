@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T06:31:28.830182+00:00",
+  "updated": "2026-08-22T07:18:11.684342+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-22T07:13:19+02:00",
-        "stop": "2026-08-22T08:46:39+02:00",
-        "title": "Onze",
-        "subtitle": "Julián Álvarez, engarjolat",
-        "description": "'Atlètic de Madrid ha reiterat que no traspassarà el davanter argentí al Barça. Busquem la reacció des de la capital espanyola amb David Sánchez i, des del plató, hi diuen la seva Juli Garcia, Laia Cervelló, David Ibañez i Santi Ovalle. Marc Cornet condueix un Onze que també ha comptat amb la Clau Delmàs, el Colegiado Joan Fàbregas i l'Òscar Nin.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
-      },
-      {
-        "start": "2026-08-22T08:46:39+02:00",
-        "stop": "2026-08-22T09:18:54+02:00",
+        "start": "2026-08-22T08:46:40+02:00",
+        "stop": "2026-08-22T09:18:55+02:00",
         "title": "Zona Zàping Club",
         "subtitle": "Eloi Vila s'arrisca a endevinar l'inenarrable",
         "description": "Eloi Vila pren part en el concurs 'Això acaba...', on haurà d'endevinar com acaben tres vídeos sorprenents. Mentrestant, el DJ Frande tornarà a demostrar que és capaç de convertir qualsevol moment del programa en una festa... a la seva manera.",
         "genre": "ESPECIALS",
         "image": ""
+      },
+      {
+        "start": "2026-08-22T09:18:55+02:00",
+        "stop": "2026-08-22T10:58:17+02:00",
+        "title": "Futbol",
+        "subtitle": "Trofeu Joan Gamper: FC Barcelona-Brighton & Hove Albion Women FC",
+        "description": "Des de l'Estadi Johan Cruyff, el partit corresponent a la cinquena edició del Trofeu Joan Gamper femení.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/7/1785417246971.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-22T08:18:39+02:00",
-        "stop": "2026-08-22T08:31:37+02:00",
-        "title": "Titó",
-        "subtitle": "Excursió amb excavadores",
-        "description": "Avui anem d'excursió a veure màquines de construcció: excavadores, dúmpers, buldòzers, compactadores...i en John C ens farà riure fent d'operari!",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-08-22T09:06:13+02:00",
+        "stop": "2026-08-22T09:49:54+02:00",
+        "title": "Doraemon: Corre, Doraemon! El gran premi galàctic",
+        "subtitle": "Doraemon: Corre, Doraemon! El gran premi galàctic",
+        "description": "DORAEMON: CORRE, DORAEMON! EL GRAN PREMI GALÀCTIC 'Hashire Doraemon! Ginga guranpuri'Direcció: Sôichirô ZenGuió: Fujio F. FujikoProducció: TV Asahi, ADK, Shin Ei Animation, Asatsu-DK, Bakugan Zoobles Comics, Dongwon Films, KBSAny: 2011Durada: 50País: JapóMúsica: Kan SawadaFotografia: AnimacióEn Doraemon viatja al segle XXII per assistir a una trobada d'exalumnes de l'escola de robots. Allà té una topada amb l'Alex Depon, un famós pilot que ha guanyat diverses vegades la cursa galàctica de cotxes i que es riu d'en Doraemon perquè no té orelles de gat. Quan en Nobita s'assabenta que el guanyador de la cursa galàctica pot demanar qualsevol premi, decideix participar-hi per regalar-li unes orelles a en Doraemon.",
+        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/1/1786628603419.jpg"
       },
       {
-        "start": "2026-08-22T08:31:37+02:00",
-        "stop": "2026-08-22T08:43:14+02:00",
-        "title": "Titó",
-        "subtitle": "Excursió al campanar",
-        "description": "Avui pujarem mooolt amunt. Anirem d'excursió a dalt de tot d'un campanar. Descobrirem que les campanes parlen! Segons com toquen, volen dir una cosa o una altra. Voleu que les fem sonar plegats?",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-08-22T09:49:54+02:00",
+        "stop": "2026-08-22T10:10:38+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Home o màquina",
+        "description": "La Sam, l'Alex i la Clover intentaran aturar un eixelabrat que substitueix els governants de tot el món per unes màquines que anomena 'animatrons'. La seva intenció és convertir el món en un parc d'atraccions ple de perills.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T08:00:05+02:00",
-        "stop": "2026-08-22T08:28:40+02:00",
-        "title": "Viure als Pirineus",
-        "subtitle": "Un pilot dels Pirineus (Primavera - Estiu)",
-        "description": "Zigzaguejar a 200 quilòmetres per hora entre els pics de la serralada dels Pirineus, esmunyir-se entre els núvols i la boira, portar càrregues de centenars de quilos fins a més de 2.000 metres d'altitud, fer viure l'economia de la muntanya... Heus aquí algunes de les activitats que porta a terme diàriament aquest home excepcional.Jean Brosset és tota una figura a la seva feina. Té 55 anys, és pilot professional d'helicòpter i treballa en una de les millors empreses de la regió de Pau.En Jean és el pilot a qui sempre es recorre quan cal fer alguna intervenció complicada. Les missions no s'assemblen mai les unes amb les altres, de vegades cal fer pujar algú a l'helicòpter hissant-lo o transportar des de passatgers fins a una rulot, o barrils de quitrà. En Jean no sap mai de quina mena acabaran sent les operacions que li encarreguen. A més, als Pirineus, la meteorologia i les estacions fan la seva feina tan apassionant com perillosa.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
-        "start": "2026-08-22T08:28:40+02:00",
-        "stop": "2026-08-22T08:51:34+02:00",
+        "start": "2026-08-22T08:51:34+02:00",
+        "stop": "2026-08-22T09:17:43+02:00",
         "title": "Riu avall",
-        "subtitle": "Besòs",
-        "description": "Format per la confluència del Mogent i el Congost a Montmeló, el riu Besòs té un curt recorregut, però les seves aigües venen de molt més amunt, de Collsuspina (Osona). Descobrim la sorprenent recuperació d'aquest riu, fins fa poc una claveguera a l'aire lliure, on els peixos tornen a saltar i fins i tot es pot veure la Llúdriga.",
+        "subtitle": "Anoia",
+        "description": "El riu Anoia ha estat explotat des d'antic per les indústries adoberes i papereres de la Catalunya central, però encara conserva una natura sorprenent. Viatgem cap a les muntanyes de Copons fins a les vinyes i cellers de la DO Cava i descobrim una petita delicatessen gastronòmica: el cigronet de l'Anoia.",
         "genre": "ALTRES",
         "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719609254043.jpg"
+      },
+      {
+        "start": "2026-08-22T09:17:43+02:00",
+        "stop": "2026-08-22T10:08:54+02:00",
+        "title": "El Foraster",
+        "subtitle": "Tivenys",
+        "description": "Tivenys (Baix Ebre) és un poble de ribera travessat pel riu, envoltat de tarongers i ple de vida. I quan en Quim hi arriba, no s'imagina que aquí hi viurà un retrobament inesperat i emocionant amb una vella coneguda que li farà reviure un dels moments més especials de la història del programa. Però no serà l'única sorpresa.La Gisela i la Carmen li mostraran un indret que, segons elles, no té rival, i li explicaran per què a Tivenys les cortines amaguen més vida de la que sembla. També coneixerà la Tere, una dona que ha fet del seu estil un autèntic segell personal, i en Pep, que ha trobat la manera de posar música al seu dia a dia sense sortir de la feina. La Rosita li revelarà un remei dolç per quan bufa mal vent, la canalla el guiarà fins a una casa que fa pujar les pulsacions i l'Enriqueta, amb 85 anys i una empenta encomanadissa, l'omplirà de taronges, enciams i somriures.Un poble petit amb un gran cor. I un retrobament que no s'oblida.",
+        "genre": "VARIETATS",
+        "image": ""
       }
     ],
     "oca1": [],
