@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T21:27:06.842675+00:00",
+  "updated": "2026-08-22T21:46:38.672560+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,22 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-22T22:51:34+02:00",
-        "stop": "2026-08-22T23:42:30+02:00",
-        "title": "De bon humor",
-        "subtitle": "Els monòlegs",
-        "description": "Poques arts escèniques han adquirit la condició de clàssiques en tan poc temps com els monòlegs, també coneguts com a Stand Up Comedy. El gran èxit del monòleg es deu al fet que tracta temes quotidians i d'actualitat de forma irònica, crítica i sovint descarnada.A més a més, el monòleg és una fórmula senzilla de presentar un espectacle. Amb un micròfon, gràcia i un bon guió n'hi ha prou per aconseguir el somriure del públic. En el capítol dedicat als monòlegs coneixerem diversos mestres d'aquest art. Anirem fins a Castellfollit del Boix per veure com el Quim Masferrer es prepara pel monòleg del programa El Foraster. Amb ell parlarem dels seus orígens, de la seva manera de fer i de les particularitats d'aquest monòleg televisiu on humor i emoció tenen paper a parts iguals. I del poble marxem cap a la gran ciutat, a l'Hospitalet de Llobregat per trobar-nos amb l'humorista Raül Alcaraz. Tot va començar quan va penjar al seu Facebook un enginyós monòleg sobre el particular accent de la gent de la seva ciutat i que en poca estona es va fer viral a través de WhatsApp. També anirem fins al cor del barri del Raval de Barcelona, on hi ha un petit gran teatre: El Llantiol, on cada nit hi actuen monologuistes. El Teatre Llantiol ha estat i segueix sent el planter i el primer escenari de molts dels monologuistes del nostre país. ",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-22T23:42:30+02:00",
-        "stop": "2026-08-23T00:02:16+02:00",
+        "start": "2026-08-22T23:42:31+02:00",
+        "stop": "2026-08-23T00:02:18+02:00",
         "title": "Correspondències",
         "subtitle": "Correspondències entre Luna Miguel i María Sánchez",
         "description": "En aquest capítol veurem les correspondències que l'escriptora, editora i periodista Luna Miguel va fer amb la veterinària de camp i escriptora María Sánchez.En la primera correspondència les dues escriptores reflexionen sobre la nostàlgia, sobre com la nostàlgia pot ser una font d'inspiració per escriure i com, de vegades, sentim nostàlgia de coses que no hem viscut.La segona carta parla sobre si hi ha una manera d'escriure femenina, de dona. Són els temes dels que parlen? La manera visceral des d'on escriuren? Reflexionen també sobre com, sovint, es senten petites, com quan eren una nena, insignificants i amb por, patint el que s'anomena 'la síndrome de la impostora'. La tercera carta parla sobre els viatges, com busquen refugi allà on poden i com, quan menys t'ho esperes, el trobes.El capítol acaba amb un manifest-homenatge a Agnès Varda amb diferents dones feministes que es pregunten 'què vol dir ser dona'. ",
         "genre": "DOCUMENTAL DE CREACIÓ",
         "image": ""
+      },
+      {
+        "start": "2026-08-23T00:02:18+02:00",
+        "stop": "2026-08-23T00:43:35+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T23:17:32+02:00",
-        "stop": "2026-08-22T23:28:32+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "Fins el fons",
-        "description": "En Cornelius truca la Tropa del Corral: té una llavor de rosella entre les dents que li fa molta nosa. Hi van de seguida, li treuen la llavor i tornen cap a la granja, i al cap d'una estona s'adonen que en Jo ha desaparegut. Que potser se l'ha empassat en Cornelius? Per no preocupar la Flo, en Billy l'intenta distreure mentre en Clive i la Maggie tornen a Vilanimal a rescatar en Jo.",
+        "start": "2026-08-22T23:39:28+02:00",
+        "stop": "2026-08-22T23:50:17+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "El palau dels sensepoder",
+        "description": "La Felicity i el Miguel assistiran a una festa de disfresses al Palau del Perfecte. El que no saben és que també hi anirà el Kraken Timmy, que ha convençut el Rudy perquè l'hi coli i així robarà els poders a tots els convidats.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T23:28:32+02:00",
-        "stop": "2026-08-22T23:39:28+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "Fa massa calor",
-        "description": "En Prince truca la Tropa perquè té fred. Els seus amos han marxat de cap de setmana i han apagat la calefacció. La Flo hi instal·la un dels seus invents per escalfar la casa, però funciona tan bé que l'aigua de la peixera d'en Fred i la Frida es comença a evaporar. El problema? Que el granger no deixa sortir la Tropa de la granja perquè es pensa que tenen gana i no els para de posar menjar.",
+        "start": "2026-08-22T23:50:17+02:00",
+        "stop": "2026-08-23T00:00:36+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "El cranc de la son",
+        "description": "La Felicity ha organitzat una festa, però els convidats s'estan avorrint. I tot just quan tothom es comença a animar, arriba el cranc de la son, l'encarregat de fer que tots els habitants de Mitelàndia se'n vagin a dormir.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
