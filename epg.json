@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T04:04:09.428847+00:00",
+  "updated": "2026-08-22T04:47:39.291571+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-22T06:24:08+02:00",
-        "stop": "2026-08-22T06:36:35+02:00",
-        "title": "E3",
-        "subtitle": "X Volta a Menorca en patí de vela 2026",
-        "description": "Vint anys després de la primera edició, del 13 al 17 de juliol del 2026, es va celebrar la X Volta a Menorca en patí de vela, única embarcació mediterrània sense timó.",
-        "genre": "REPORTATGES",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/8/1697728797885.jpg"
-      },
-      {
-        "start": "2026-08-22T06:36:35+02:00",
-        "stop": "2026-08-22T06:52:43+02:00",
+        "start": "2026-08-22T06:36:36+02:00",
+        "stop": "2026-08-22T06:52:45+02:00",
         "title": "Sala de Premsa",
         "subtitle": "Manolo González / Prèvia Espanyol-R.Madrid / J2",
         "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+      },
+      {
+        "start": "2026-08-22T06:52:45+02:00",
+        "stop": "2026-08-22T07:13:17+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-22T06:00:01+02:00",
-        "stop": "2026-08-22T06:22:48+02:00",
+        "start": "2026-08-22T06:44:14+02:00",
+        "stop": "2026-08-22T07:09:14+02:00",
         "title": "Les Tres Bessones",
-        "subtitle": "Les tres bessones i Leonardo da Vinci",
-        "description": "Aquesta vegada, la Bruixa envia les nenes al Renaixement italià perquè coneguin la vida del gran humanista Leonardo da Vinci. Les tres bessones ajuden Leonardo en els seus ginys i també l'ajuden a convèncer els governants de l'època que les guerres són inútils i és millor treballar per la pau.",
+        "subtitle": "Les Tres Bessones i Tutankhamon",
+        "description": "Les entremaliadures de les Bessones les han portades a Egipte, on acompanyen l'arqueòleg Howard Carter en el descobriment arqueològic més espectacular de tots els temps: la tomba de Tutankamon, el faraó nen. Però l'aventurer Belzoni i l'Avorrida no els ho posaran gens fàcil: les nenes s'enfrontaran a tempestes de sorra, als cocodrils del Nil i a la terrible maledicció del faraó…",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T06:22:48+02:00",
-        "stop": "2026-08-22T06:44:14+02:00",
-        "title": "Les Tres Bessones",
-        "subtitle": "Les tres bessones i l'Ullal Blanc",
-        "description": "Les tres germanes apareixen enmig d'un bosc nevat d'Alaska. És un paisatge fascinant i l'Anna la Teresa i l'Helena en queden meravellades. Però molt aviat es trenca l'encís, quan apareixen quatre llops ferotges. Per sort, intervé l'Ullal Blanc, un gos valent i decidit que salva les tres bessones.",
+        "start": "2026-08-22T07:09:14+02:00",
+        "stop": "2026-08-22T07:21:02+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "El rusc encantat",
+        "description": "Al rusc s'han començat a sentir uns sorolls molt misteriosos i han desaparegut dos calzes de mel. Per molt que la senyoreta Cassandra digui que els fantasmes no existeixen, totes les abelles estan convençudes que el rusc està encantat. Els més petits estan espantats i no hi ha manera que s'adormin. Els guardes aniran a veure què passa. I la Maia i el Willi els hi acompanyaran!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T06:03:05+02:00",
-        "stop": "2026-08-22T06:06:41+02:00",
-        "title": "Videoclips",
-        "subtitle": "Itaca band - Com una bala",
-        "description": "",
-        "genre": "ALTRES",
+        "start": "2026-08-22T06:20:18+02:00",
+        "stop": "2026-08-22T06:47:49+02:00",
+        "title": "Quèquicom",
+        "subtitle": "QQC i L'esmorzar",
+        "description": "Un bon pa en tomàquet amb el seu raig d'oli d'oliva, llonganissa i un suc de taronja és un esmorzar que permet assimilar una gran quantitat de ciència: des de la domesticació del blat fins als bacteris que 'cuinen' la llonganissa passant pel gluten o les propietats antioxidants de l'oli i la vitamina C dels cítrics.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-08-22T06:06:41+02:00",
-        "stop": "2026-08-22T06:09:17+02:00",
-        "title": "Videoclips",
-        "subtitle": "New George - La humanitat",
-        "description": "",
+        "start": "2026-08-22T06:47:49+02:00",
+        "stop": "2026-08-22T07:34:18+02:00",
+        "title": "La Renaixença",
+        "subtitle": "La matrícula",
+        "description": "Éreu dels que tocàveu la botzina si trobàveu un cotxe amb matrícula de Girona fent un viatge per Aragó? Aquest és el vostre capítol, perquè avui parlem de la matrícula. Ens visiten dos experts en vexil·lologia. Dit d'una altra manera, dos experts en banderes. I venen amb una sorpresa per a nosaltres i per a vosaltres. No us podeu imaginar què pot ser… A 'Històries per passejar el gos' portem la Ipa, una gossa de Navàs, fins al 1606: quan Caravaggio va assassinar a un home.",
         "genre": "ALTRES",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
