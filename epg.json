@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T23:44:02.200625+00:00",
+  "updated": "2026-08-22T23:58:46.701556+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,21 +103,21 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T01:34:41+02:00",
-        "stop": "2026-08-23T01:55:19+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Gamer 2.0",
-        "description": "El Max ha dissenyat un videojoc nou i té ganes de provar-lo amb els seus amics, però tots tenen unes vides molt atrafegades i no poden estar per ell. Això ho aprofita l'Esfinx per convertir el Max un altre cop en el malvat Gamer, però en una versió 2.0.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
         "start": "2026-08-23T01:55:19+02:00",
         "stop": "2026-08-23T02:16:26+02:00",
         "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
         "subtitle": "Climatika 2",
         "description": "En aquest episodi, que és una mena de resum d'episodis anteriors, torna a entrar en acció la Climatika, que provoca un caos a París després de ser akumatitzada, però al mateix temps l'Adrien es planteja si la noia que ha respost a la seva poesia de Sant Valentí podria ser la Marinette.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T02:16:26+02:00",
+        "stop": "2026-08-23T02:26:43+02:00",
+        "title": "Com dibuixar còmics amb el Will Sliney",
+        "subtitle": "Púrria",
+        "description": "En aquest episodi, el malvat Crònica ha creat una versió malèfica del Will, el Vil, un superdolent que té el poder de crear els superdolents que s'enfrontaran als superherois que ha creat el Will. I el primer superdolent que crearà serà el Púrria, pensat per enfrontar-se a l'Elit. Entre tots dos, el Vil i el Will, ens ensenyaran trucs per dibuixar els malvats i també coneixerem els orígens del Púrria.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
