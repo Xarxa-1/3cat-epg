@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T05:21:47.327403+00:00",
+  "updated": "2026-08-22T05:51:45.062527+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T07:21:03+02:00",
-        "stop": "2026-08-22T07:32:21+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "Temps a la carta",
-        "description": "Avui la Lara ha endevinat que plouria i ara tothom es pensa que és ella la que decideix quin temps farà. La Maia de seguida s'adona que la Lara comença a tractar tots els seus amiguets com si fossin els seus criats, i està decidida a desemmascarar-la, per mentidera. Aviat tots s'adonaran que si es fixen en els senyals que els dóna la natura, ells també poden endevinar el temps que farà!",
+        "start": "2026-08-22T07:46:42+02:00",
+        "stop": "2026-08-22T07:57:02+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Un, dos, tres, pica paret!",
+        "description": "El Mic i els seus amics juguen a l'un, dos, tres, pica paret, un joc popular que combina estratègia, suspens i dinamisme. Té unes regles molt senzilles, i els més petits poden jugar-hi acompanyats, si cal, fent equip amb algú més gran.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T07:32:21+02:00",
-        "stop": "2026-08-22T07:46:42+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "Ales de campió",
-        "description": "La Maia i en Willi acaben de conèixer el Iaio Espiadomonis, un geni de les acrobàcies que havia guanyat un munt de vegades la Copa de Pol·len, la cursa més espectacular que se celebra cada any. Està una mica trist, perquè s'ha fet gran i ja no hi pot participar. El que sí que pot fer és entrenar la Maia i en Willi per convertir-los en els reis de les acrobàcies!",
+        "start": "2026-08-22T07:57:02+02:00",
+        "stop": "2026-08-22T08:07:55+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Endevinalla de la gata",
+        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T06:47:49+02:00",
-        "stop": "2026-08-22T07:34:18+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La matrícula",
-        "description": "Éreu dels que tocàveu la botzina si trobàveu un cotxe amb matrícula de Girona fent un viatge per Aragó? Aquest és el vostre capítol, perquè avui parlem de la matrícula. Ens visiten dos experts en vexil·lologia. Dit d'una altra manera, dos experts en banderes. I venen amb una sorpresa per a nosaltres i per a vosaltres. No us podeu imaginar què pot ser… A 'Històries per passejar el gos' portem la Ipa, una gossa de Navàs, fins al 1606: quan Caravaggio va assassinar a un home.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
-      },
-      {
-        "start": "2026-08-22T07:34:18+02:00",
+        "start": "2026-08-22T07:34:19+02:00",
         "stop": "2026-08-22T08:00:05+02:00",
         "title": "Viure als Pirineus",
         "subtitle": "Un arqueòleg dels Pirineus (Primavera - Estiu)",
         "description": "Pèir Cóts és un arqueòleg historiador que s'ha passat al món de la hostaleria. És un canvi d'activitat radical i s'adona que és molt més absorbent del que es pensava. El dia a dia del negoci el porta a les feines bàsiques de planxar, fer llits, netejar i també a la gestió o la comptabilitat.En Pèir està orgullós de la seva casa rural, la casa Helipa al petit poble d'Arró, i sovint explica als clients que va utilitzar la seva experiència com a arqueòleg per restaurar-la, ja que estava abandonada des de feia 50 anys.Però en Pèir no s'acontenta fent només d'hostaler, sinó que ho aprofita per convertir-se també en un divulgador de la vida als Pirineus i de la història de la Vall d'Aran. Molt lligat a la recuperació del patrimoni aranès, ha participat en múltiples treballs de preservació de la llengua aranesa i del patrimoni arqueològic.En Pèir combina el dia a dia entre l'arqueologia i la seva pròpia història familiar i, malgrat la crisi econòmica o les diferents polítiques de restauració patrimonial, continua amb passió el camí que s'ha marcat.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T08:00:05+02:00",
+        "stop": "2026-08-22T08:28:40+02:00",
+        "title": "Viure als Pirineus",
+        "subtitle": "Un pilot dels Pirineus (Primavera - Estiu)",
+        "description": "Zigzaguejar a 200 quilòmetres per hora entre els pics de la serralada dels Pirineus, esmunyir-se entre els núvols i la boira, portar càrregues de centenars de quilos fins a més de 2.000 metres d'altitud, fer viure l'economia de la muntanya... Heus aquí algunes de les activitats que porta a terme diàriament aquest home excepcional.Jean Brosset és tota una figura a la seva feina. Té 55 anys, és pilot professional d'helicòpter i treballa en una de les millors empreses de la regió de Pau.En Jean és el pilot a qui sempre es recorre quan cal fer alguna intervenció complicada. Les missions no s'assemblen mai les unes amb les altres, de vegades cal fer pujar algú a l'helicòpter hissant-lo o transportar des de passatgers fins a una rulot, o barrils de quitrà. En Jean no sap mai de quina mena acabaran sent les operacions que li encarreguen. A més, als Pirineus, la meteorologia i les estacions fan la seva feina tan apassionant com perillosa.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
