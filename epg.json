@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T13:27:03.520667+00:00",
+  "updated": "2026-08-22T13:52:24.879575+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,21 +43,21 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-22T14:30:00+02:00",
-        "stop": "2026-08-22T15:32:26+02:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
-      },
-      {
-        "start": "2026-08-22T15:30:37+02:00",
-        "stop": "2026-08-22T17:06:06+02:00",
+        "start": "2026-08-22T15:31:57+02:00",
+        "stop": "2026-08-22T17:07:26+02:00",
         "title": "Barcelona Ciutat Neutral",
         "subtitle": "Barcelona Ciutat Neutral",
         "description": "Productora: Televisió de Catalunya, Prodigius Cinema, Stopline Films i RTP amb la col·laboració de l'ICIC i de l'ICAA, 2011Directora: Sònia SanchezGuionistes:Xesc Barceló i Mateu AdroverProductors executius de TVC : Cruz Rodríguez i Susanna Jiménez. Productor executiu Prodigius Cinema: Agustí MezquidaDirector fotografia: Mario MonteroMúsica: Arnau BatallerIntèrprets: Bernat Quintana (Karl), Nausicaa Bonnin (Glòria), Diana Gómez (Maria), Jordi Pla (Cinto), Laura Aubert (Caterina), Ramon Pujol (Sebastià), Pep Anton Muñoz (Ricardo Vélez), Laura Conejero (Teresa), Pep Pla (Pere Estruch), Albert Pérez (Daniel) i Lita Claver (Malafiga)La Primera Guerra Mundial acaba d'esclatar quan un grup de joves coincideix al port de Barcelona amb la intenció d'agafar un vaixell que no salparà mai. Allí es coneixen el Karl i la Glòria, que comparteixen l'espera amb el Sebastià i la Caterina, un matrimoni de joves pagesos; el Cinto, un pillastre que no coneix límits, i la Maria, que només vol triomfar al món de la revista. Karl és un jove arquitecte de bona família que intenta fugir d'una vida que l'atrapa; Glòria, una sindicalista plena d'ideals. Aquella llarga nit naixerà una amistat que els posarà tots a prova i que els ha d'acompanyar en aquest temps turbulents. Al Karl i a la Glòria aquesta amistat els obre la porta a un sentiment molt més profund, un amor que els sorprèn i sacseja. Aviat, però, els dos amants s'adonen dels obstacles a què s'enfronten. Les diferències entre els mons que habiten i l' hostilitat amb què es contemplen semblen insalvables. El pare d'ell és un membre de la recentment creada Mancomunitat de Catalunya; el d'ella, un anarquista acusat d'atemptar contra l'ordre públic i sobre qui pesa una condemna a mort... Tot sembla conspirar contra el delicat equilibri que sosté aquella societat. El món sencer canvia davant els ulls de tots, i el futur s'amaga en un horitzó ben fosc. En aquesta època inestable, marcada per les intrigues i l",
         "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T17:07:26+02:00",
+        "stop": "2026-08-22T18:43:11+02:00",
+        "title": "Arnau",
+        "subtitle": "(1A PART)",
+        "description": "A les terres de la frontera entre àrabs i cristians, al nord-est de la Península Ibèrica, uns bandolers sarraïns han capturat Arnau, un noble cristià.Malferit, se l'emporten a través d'un bosc i, casualment, fan parada a casa d'Agra, la bruixa. Mentre Agra els dóna menjar, la seva filla, Elna, s'acosta a Arnau. Només es veuen un moment, però entre tots dos neix una atracció tan forta que, tant l'un com l'altre, ja no podran oblidar-se mai.Fora de la cabana d'Agra, els sarraïns intenten vendre Arnau a un senyor àrab de Còrdova, Yazid, que està de viatge per aquelles terres. Yazid es queda amb Arnau i aposta amb un company que d'aquell home primitiu en farà una persona sensible.Mentrestant, en terres cristianes, la família d'Arnau, la seva dona Sància, les dues filles i Odalric, el cunyat i el noble més poderós de la regió, el donen per mort. La dona d'Odalric, Garsa, no ha pogut donar un hereu al seu marit i enveja les dues filles de Sància. Sància enveja de Garsa que tingui un marit que l'estima. Ella no va ser mai feliç amb Arnau.L'únic que no pot creure que Arnau sigui mort és el seu oncle, l'abat Ató. En té motius: sempre ha cregut que Arnau era dipositari d'un antic tresor que s'amaga a l'abadia; un tresor cobejat per tothom que desperta intrigues i és la causa d'un assassinat a la pròpia abadia.Al campament àrab, Arnau ha entès que Yazid és un estrany missatger que li pot donar una visió diferent de la vida. Accepta els seus ensenyaments i la seva amistat. Yazid li demostra que abans estava envoltat de nobles ambiciosos capitanejats per Odalric, el seu cunyat, que va ser ell qui li va preparar l'emboscada i que, ara, està ordint una traïció contra el comte de Barcelona, la màxima autoritat cristiana de totes les terres.Quan després de tres mesos, Arnau abandona el campament de Yazid, ja és un altre home. Així i tot, no ha pogut deixar de pensar en Elna, la filla de la bruixa.Durant el temps que Arnau ha estat fora, Odalric ha fet retirar",
+        "genre": "TELESÈRIE",
         "image": ""
       }
     ],
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-22T14:44:42+02:00",
-        "stop": "2026-08-22T15:36:31+02:00",
-        "title": "E3",
-        "subtitle": "L'home més fort del món 5",
-        "description": "Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/2/1780671126722.jpg"
+        "start": "2026-08-22T15:49:44+02:00",
+        "stop": "2026-08-22T17:22:20+02:00",
+        "title": "El Fitxatge",
+        "subtitle": "El fitxatge",
+        "description": "Agost del 1973, Johan Cruyff -el millor futbolista del món- arriba a l'aeroport de Barcelona on una multitud d'aficionats el rep com un ídol. El Barça fa 14 anys que no guanya la Lliga. Darrera 'del fitxatge més car de la dècada' hi ha una història d'intriga política, investigacions internacionals, xantatges i un dur enfrontament entre clubs a porta tancada als afores d'Amsterdam.",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/0/1721633615501.jpg"
       },
       {
-        "start": "2026-08-22T15:36:31+02:00",
-        "stop": "2026-08-22T15:49:42+02:00",
-        "title": "Sala de Premsa",
-        "subtitle": "Hansi Flick / Prèvia Elx-Barça / J2",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+        "start": "2026-08-22T17:22:20+02:00",
+        "stop": "2026-08-22T19:01:40+02:00",
+        "title": "Futbol",
+        "subtitle": "Trofeu Joan Gamper: FC Barcelona-Brighton & Hove Albion Women FC",
+        "description": "Des de l'Estadi Johan Cruyff, el partit corresponent a la cinquena edició del Trofeu Joan Gamper femení.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/7/1785417246971.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-22T15:20:37+02:00",
-        "stop": "2026-08-22T15:31:59+02:00",
+        "start": "2026-08-22T15:43:21+02:00",
+        "stop": "2026-08-22T15:56:27+02:00",
         "title": "Les Sisters",
-        "subtitle": "Pesades al club",
-        "description": "Demà no hi ha classe i la Marine passarà tot el dia amb la seva germaneta. Però la Wendy té un altre programa. Per desgràcia per ella, la mama treballa a l'hospital i el papa passarà el dia a casa el seu editor. La paparra està encantada: s'ho passaran superbé. A més, els pares s'han 'oblidat' de dir-li a la Wendy que la Loulou i la Nat també es quedaran tot el dia amb elles. La Wendy haurà de cuidar tres pesades!",
+        "subtitle": "El meu regne per un 'utògraf'!",
+        "description": "La Marine i la Wendy senten per la tele que l'estrella Joy D firmarà autògrafs en una sala de festes de Pom-les-Bains. Per desgràcia, els seus pares no les hi poden portar perquè la mare treballa a l'hospital i el pare té una reunió amb el seu editor per ensenyar-li uns dibuixos. Per solucionar-ho, les dues germanes faran tot el possible per anul·lar la reunió del seu pare.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T15:31:59+02:00",
-        "stop": "2026-08-22T15:43:21+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Les telesisters",
-        "description": "La Marine ha donat permís a un 'reality show' que es diu 'La família de somni' perquè gravi la seva vida a casa durant una setmana. Es tracta d'un concurs al final del qual els espectadors voten el membre de la família més simpàtic. La Marine i la Wendy volen guanyar. Per seduir el públic es dediquen a fer-se la pilota mútuament. Acabarà esclatant tanta hipocresia?",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "start": "2026-08-22T15:56:27+02:00",
+        "stop": "2026-08-22T16:38:50+02:00",
+        "title": "Doraemon: La gran batalla! Gats robot contra gossos robot",
+        "subtitle": "Doraemon: La gran batalla! Gats robot contra gossos robot",
+        "description": "DORAEMON: LA GRAN BATALLA! GATS ROBOT CONTRA GOSSOS ROBOT 'Kessen! Neko-gata robotto vs inu-gata robotto'Direcció: Sôichirô ZenGuió: Fujio F. FujikoProducció: Asatsu-DK, Bakugan Zoobles Comics, Dongwon Films, KBSAny: 2010Durada: 43País: JapóMúsica: Kan SawadaFotografia: AnimacióEl dia de l'aniversari d'en Doraemon, el professor li ordena a en Nobita que repeteixi tots els deures d'estiu perquè no ha encertat ni una resposta. Quan arriba a casa, en Nobita hi troba un gos robot que l'obliga a fer els deures. Mentrestant, en el futur s'estan substituint els gats robot per gossos robot perquè s'ha filtrat un informe que, posant en Nobita d'exemple, demostra el baix rendiment dels gats robot.",
+        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1786541412977.jpg"
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-22T15:06:37+02:00",
-        "stop": "2026-08-22T15:35:24+02:00",
-        "title": "Els hotels més remots del món",
-        "subtitle": "Budir - Islàndia",
-        "description": "Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
       {
         "start": "2026-08-22T15:35:24+02:00",
         "stop": "2026-08-22T16:01:27+02:00",
         "title": "Els hotels més remots del món",
         "subtitle": "Qasr Al Sarab d'Anantara - Emirats Àrabs Units",
         "description": "Enclavat en una vall desèrtica enmig d'immenses dunes, i davant d'unes salines, l'hotel destaca amb les seves torres de pedra, grans enreixats i fonts d'aigua, recordant una antiga fortalesa àrab. Qasr Al Sarab és pràcticament l'única estructura en un radi de diversos quilòmetres: un vaixell solitari a la deriva en un mar de sorra. L'hotel, per tant, ha de satisfer les seves pròpies necessitats. L'hotel recicla tota la seva aigua, té la seva pròpia planta de tractament i fins i tot cultiva les seves pròpies fruites i verdures en un hivernacle al desert. Va ser elegit com el gran hotel més sostenible del món l'any 2022.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T16:01:27+02:00",
+        "stop": "2026-08-22T17:00:27+02:00",
+        "title": "Rick Stein: De Venècia a Istanbul",
+        "subtitle": "Turquía",
+        "description": "Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
