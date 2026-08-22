@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T11:16:04.862011+00:00",
+  "updated": "2026-08-22T11:43:57.515557+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,15 +103,6 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T13:01:02+02:00",
-        "stop": "2026-08-22T13:23:33+02:00",
-        "title": "Dracs: els nou regnes",
-        "subtitle": "Plantes molt enfiladisses",
-        "description": "Els protectors baixen al Regne de la Natura seguint una pista per mirar de trobar el nom de l'autor del Llibre dels dracs. Un cop allà, una colla de dracs nous, els Cues Enfiladisses, els roben el llibre i també la tauleta de l'Alex. Però els dracs no seran l'únic entrebanc que trobaran al Món Ocult per recuperar les seves pertinences.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
         "start": "2026-08-22T13:23:33+02:00",
         "stop": "2026-08-22T13:47:01+02:00",
         "title": "Dracs: els nou regnes",
@@ -119,24 +110,33 @@
         "description": "L'Eugene es posa un esprai corporal que fa una olor molt... característica. Per culpa d'això, aviat els protectors de dracs l'hauran de salvar del niu d'un drac amb molt mala vista i amb molt olfacte. Alhora, però, també s'hauran de salvar ells mateixos i aquest drac i els seus ous, ja que el Motoserra i els seus esbirros els van al darrere.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
+      },
+      {
+        "start": "2026-08-22T13:47:01+02:00",
+        "stop": "2026-08-22T14:15:51+02:00",
+        "title": "Manduka family",
+        "subtitle": "Llenties estofades",
+        "description": "Quan comença a fer fred, la Paula té molt clar que els millors plats són els que es mengen amb cullera. Per això, proposarà a l'Arlet, la Matilde, la Nur i la Montse que cuinin unes llenties estofades. Algun ingredient inesperat caurà a la recepta d'una d'elles i descobrirem maneres molt originals de decorar les verdures!",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T12:50:17+02:00",
-        "stop": "2026-08-22T13:37:17+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La canya de pescar",
-        "description": "És millor pescar al riu o pescar al mar? No volem obrir aquest debat, però dediquem aquest capítol a la canya de pescar. No serà que la gent que no pesca res és perquè hi va amb la canya que no toca? O simplement és que no en sabem? Ens visita el grup Roba Estesa, que s'acomiaden dels escenaris aquest 2025. Abans de fer-ho, però, podem gaudir d'una de les seves cançons a l'escenari de 'La Renaixença'. Sortim a passejar amb en Lopes fins a la Revolució Russa del 1905, durant el motí del cuirassat Potemkin.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
-      },
-      {
-        "start": "2026-08-22T13:37:17+02:00",
-        "stop": "2026-08-22T14:04:19+02:00",
+        "start": "2026-08-22T13:37:18+02:00",
+        "stop": "2026-08-22T14:04:20+02:00",
         "title": "Quèquicom",
         "subtitle": "Te verd i síndrome de Down",
         "description": "Quan esperem un fill, el primer que volem és que estigui bé, que neixi sa i fort. Només néixer la criatura, la vols veure i abraçar-la. Però, com reaccionem quan en ens n'adonem, per sorpresa, que té la síndrome de Down? La Mónica i el Bernardo han passat per aquest tràngol i l'han sabut afrontar. Al principi, la Mónica i el Bernardo es desconcerten, necessiten fer alguna cosa per canalitzar el batibull de sentiments contradictoris que tenen i comencen a filmar la seva lluita per fer, d'en Jan, un noi cada dia una mica millor. I en surt un documental: 'La historia de Jan', en el qual es veu que, el que d'entrada pot semblar una mala notícia, pot convertir-se, en realitat, en una font d'amor i d'il·lusió. Segueixen intensos programes d'estimulació per millorar la capacitat intel·lectual del nen, però els progressos són lents. A més, creen http://lahistoriadejan.com/ un blog en què passen de la por a la superació i al suport a altres pares.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T14:04:20+02:00",
+        "stop": "2026-08-22T14:35:03+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Confiar en la moneda",
+        "description": "Com vam passar del bescanvi a la moneda? És el mateix moneda que diner? Què són el bitcoin i el blockchain? I la divisa? El crèdit genera diners? Quin paper juga la moneda en la inflació? Té sentit crear monedes locals?Sal, or o bitcoin, el diner ha estat sempre l'expressió del crèdit que mereix el seu posseïdor. Fem un viatge numismàtic per la història, entenem l'origen monetari de la inflació i desvelem la tecnologia criptogràfica del blockchain.Bitcoin, la moneda i la tecnologia Amb l'arribada de l'era digital, els diners s'han estès pel ciberespai. Targetes de crèdit i de dèbit, transferències i traspassos, o Paypal són sistemes de pagament àmpliament utilitzats. Tant, que de fet la major part dels diners que circulen pel món no s'arriben ni tan sols a fabricar físicament, són simples assentaments bancaris. Però la digitalització de la moneda ha tingut un cost: qualsevol transacció s'ha d'efectuar amb intermediaris com VISA o la banca, entitats que, a més, treballen amb sistemes informàtics incompatibles. El resultat és un alentiment de les operacions i un sobrecost en comissions. Per superar aquestes limitacions ha calgut crear una moneda nativa digital, és a dir, nascuda i dissenyada específicament per a internet. És el bitcoin, literalment la moneda de bits. Es representa com una moneda daurada amb una icona semblant al dòlar, perquè inconscientment l'associem a un objecte valuós. Creat pel mític i desconegut Satoshi Nakamoto l'any 2009, bitcoin és una plataforma de codi obert, gestionada per mitjà de criptografia avançada. Es pot enviar a través d'internet, d'una persona a una altra sense intermediaris. Això significa que les comissions són molt més baixes. És global, i el compte no pot ser congelat, ni limitat per cap contracte. És, doncs, un veritable desafiament al sistema financer actual. L'enginyer Miquel Oliver, de la Universitat Popeu Fabra, n'explica el funcionament, basat en un protocol informàtic anomenat blockchain, o ca",
         "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
