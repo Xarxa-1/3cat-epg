@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T12:50:05.467472+00:00",
+  "updated": "2026-08-22T13:27:03.520667+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T14:46:26+02:00",
-        "stop": "2026-08-22T14:57:53+02:00",
+        "start": "2026-08-22T15:20:37+02:00",
+        "stop": "2026-08-22T15:31:59+02:00",
         "title": "Les Sisters",
-        "subtitle": "Quina és la pitjor?",
-        "description": "La Marine i la Wendy fan una dolenteria rere una altra. Els seus pares n'estan farts i volen que passin les vacances separades. Per impedir-ho, les dues germanes fan mans i mànigues per demostrar-los que són adorables i que es porten superbé i els expliquen coses que els han passat. Però llavors comencen a sortir els disbarats que han fet...",
+        "subtitle": "Pesades al club",
+        "description": "Demà no hi ha classe i la Marine passarà tot el dia amb la seva germaneta. Però la Wendy té un altre programa. Per desgràcia per ella, la mama treballa a l'hospital i el papa passarà el dia a casa el seu editor. La paparra està encantada: s'ho passaran superbé. A més, els pares s'han 'oblidat' de dir-li a la Wendy que la Loulou i la Nat també es quedaran tot el dia amb elles. La Wendy haurà de cuidar tres pesades!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T14:57:53+02:00",
-        "stop": "2026-08-22T15:09:15+02:00",
+        "start": "2026-08-22T15:31:59+02:00",
+        "stop": "2026-08-22T15:43:21+02:00",
         "title": "Les Sisters",
-        "subtitle": "La feina més bonica del món",
-        "description": "Quan sigui gran, la Marine vol ser 'ninfermera', com la mama. Diu que és la feina més bonica del món. Però per això ha d'entrenar-se a curar pacients. El problema és que a casa seva no es posa mai ningú malalt. Per arreglar-ho, la Marine s'ha d'espavilar una mica...",
+        "subtitle": "Les telesisters",
+        "description": "La Marine ha donat permís a un 'reality show' que es diu 'La família de somni' perquè gravi la seva vida a casa durant una setmana. Es tracta d'un concurs al final del qual els espectadors voten el membre de la família més simpàtic. La Marine i la Wendy volen guanyar. Per seduir el públic es dediquen a fer-se la pilota mútuament. Acabarà esclatant tanta hipocresia?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T14:35:03+02:00",
-        "stop": "2026-08-22T15:06:36+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Xufla, molt més que orxata",
-        "description": "La xufla és un tresor gastronòmic i de salut, fins al punt que aquest tubercle podria ser triat per fer-lo créixer a Mart. Viurem la collita, sabrem com podem fer orxata a casa, i també pastissos o un gintònic. A més, sabrem si és afrodisíaca.Coincidint amb la temporada de collita de la xufla, la Fina Brunet va a l'Horta Nord de València, l'única zona d'Europa on es conrea aquest petit tubercle mil·lenari.'Mai havia menjat una xufla acabada de collir, és una experiència deliciosa', assegura la reportera convertida aquesta vegada en llauradora a les terres de la xufla.Si, com diu la dita: 'Al pot petit hi ha la bona confitura' la xufla n'és la demostració, perquè aquest tubercle, que no arriba a fer 8 mil·límetres, té gairebé totes les vitamines essencials, propietats diürètiques i fins i tot vasodilatadores. La propietats nutritives, energètiques, gastronòmiques, medicinals, vitamíniques i greixos no saturats de la xufla, les ha recollit en un llibre José Miguel Soriano del Castillo, director del Gastrolab, a la Universitat de València. Segons Soriano hi ha possibilitats reals que la xufla es pugui plantar al planeta Mart. La NASA ho està estudiant. A Orxateria Daniel, una de les més tradicionals d'Alboraia, hem elaborat orxata i suculentes postres amb la xufla com a protagonista.I la sorpresa final, que ens va deixar bocabadats: es pot fer gin tònic de xufla i orxata. 'És una explosió de gustos al paladar i un volcà en erupció a la copa' assegura la Fina després de tastar aquesta sorprenent combinació de ginebra, tònica, xufla i orxata.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
-      },
-      {
-        "start": "2026-08-22T15:06:36+02:00",
-        "stop": "2026-08-22T15:35:23+02:00",
+        "start": "2026-08-22T15:06:37+02:00",
+        "stop": "2026-08-22T15:35:24+02:00",
         "title": "Els hotels més remots del món",
         "subtitle": "Budir - Islàndia",
         "description": "Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T15:35:24+02:00",
+        "stop": "2026-08-22T16:01:27+02:00",
+        "title": "Els hotels més remots del món",
+        "subtitle": "Qasr Al Sarab d'Anantara - Emirats Àrabs Units",
+        "description": "Enclavat en una vall desèrtica enmig d'immenses dunes, i davant d'unes salines, l'hotel destaca amb les seves torres de pedra, grans enreixats i fonts d'aigua, recordant una antiga fortalesa àrab. Qasr Al Sarab és pràcticament l'única estructura en un radi de diversos quilòmetres: un vaixell solitari a la deriva en un mar de sorra. L'hotel, per tant, ha de satisfer les seves pròpies necessitats. L'hotel recicla tota la seva aigua, té la seva pròpia planta de tractament i fins i tot cultiva les seves pròpies fruites i verdures en un hivernacle al desert. Va ser elegit com el gran hotel més sostenible del món l'any 2022.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
