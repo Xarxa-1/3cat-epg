@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T14:16:09.924604+00:00",
+  "updated": "2026-08-22T14:46:25.131245+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -63,17 +63,17 @@
     ],
     "324": [
       {
-        "start": "2026-08-22T14:30:00+02:00",
-        "stop": "2026-08-22T16:30:00+02:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
-      },
-      {
         "start": "2026-08-22T16:30:00+02:00",
         "stop": "2026-08-22T18:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-22T18:30:00+02:00",
+        "stop": "2026-08-22T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T15:56:28+02:00",
-        "stop": "2026-08-22T16:38:51+02:00",
-        "title": "Doraemon: La gran batalla! Gats robot contra gossos robot",
-        "subtitle": "Doraemon: La gran batalla! Gats robot contra gossos robot",
-        "description": "DORAEMON: LA GRAN BATALLA! GATS ROBOT CONTRA GOSSOS ROBOT 'Kessen! Neko-gata robotto vs inu-gata robotto'Direcció: Sôichirô ZenGuió: Fujio F. FujikoProducció: Asatsu-DK, Bakugan Zoobles Comics, Dongwon Films, KBSAny: 2010Durada: 43País: JapóMúsica: Kan SawadaFotografia: AnimacióEl dia de l'aniversari d'en Doraemon, el professor li ordena a en Nobita que repeteixi tots els deures d'estiu perquè no ha encertat ni una resposta. Quan arriba a casa, en Nobita hi troba un gos robot que l'obliga a fer els deures. Mentrestant, en el futur s'estan substituint els gats robot per gossos robot perquè s'ha filtrat un informe que, posant en Nobita d'exemple, demostra el baix rendiment dels gats robot.",
-        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1786541412977.jpg"
-      },
-      {
         "start": "2026-08-22T16:38:51+02:00",
         "stop": "2026-08-22T16:49:49+02:00",
         "title": "Ideafix i els irreductibles",
         "subtitle": "Roma a la Cova del Gamarús",
         "description": "En Voldenix vol regalar un collaret a la seva estimada Dormimatina i enreda la Irreductible Turbina perquè vagi al palau de La Lloba a pispar el collaret nou de la Monalisa. Vol fer-ne una còpia mitjançant una poció de les seves i tornar l'original a la gata romana. Però com diu la Turbina, en Voldenix és tan dolent fabricant pocions com fent versos.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T16:49:49+02:00",
+        "stop": "2026-08-22T17:00:21+02:00",
+        "title": "Ideafix i els irreductibles",
+        "subtitle": "Turbina l'astuta",
+        "description": "Una nova poció del Voldenix fa que el prefecte Astutus perdi l'al·lèrgia al pèl dels animals, fins al punt que s'enamora de la Irreductible Turbina i la fa reina del palau de la Lloba. Embogida de ràbia, la Monalisa concep un pla per desfer-se de la intrusa.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
