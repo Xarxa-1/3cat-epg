@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T16:31:52.011019+00:00",
+  "updated": "2026-08-22T16:59:01.691448+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,20 +43,20 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-22T17:07:27+02:00",
-        "stop": "2026-08-22T18:42:35+02:00",
-        "title": "Arnau",
-        "subtitle": "(1A PART)",
-        "description": "A les terres de la frontera entre àrabs i cristians, al nord-est de la Península Ibèrica, uns bandolers sarraïns han capturat Arnau, un noble cristià.Malferit, se l'emporten a través d'un bosc i, casualment, fan parada a casa d'Agra, la bruixa. Mentre Agra els dóna menjar, la seva filla, Elna, s'acosta a Arnau. Només es veuen un moment, però entre tots dos neix una atracció tan forta que, tant l'un com l'altre, ja no podran oblidar-se mai.Fora de la cabana d'Agra, els sarraïns intenten vendre Arnau a un senyor àrab de Còrdova, Yazid, que està de viatge per aquelles terres. Yazid es queda amb Arnau i aposta amb un company que d'aquell home primitiu en farà una persona sensible.Mentrestant, en terres cristianes, la família d'Arnau, la seva dona Sància, les dues filles i Odalric, el cunyat i el noble més poderós de la regió, el donen per mort. La dona d'Odalric, Garsa, no ha pogut donar un hereu al seu marit i enveja les dues filles de Sància. Sància enveja de Garsa que tingui un marit que l'estima. Ella no va ser mai feliç amb Arnau.L'únic que no pot creure que Arnau sigui mort és el seu oncle, l'abat Ató. En té motius: sempre ha cregut que Arnau era dipositari d'un antic tresor que s'amaga a l'abadia; un tresor cobejat per tothom que desperta intrigues i és la causa d'un assassinat a la pròpia abadia.Al campament àrab, Arnau ha entès que Yazid és un estrany missatger que li pot donar una visió diferent de la vida. Accepta els seus ensenyaments i la seva amistat. Yazid li demostra que abans estava envoltat de nobles ambiciosos capitanejats per Odalric, el seu cunyat, que va ser ell qui li va preparar l'emboscada i que, ara, està ordint una traïció contra el comte de Barcelona, la màxima autoritat cristiana de totes les terres.Quan després de tres mesos, Arnau abandona el campament de Yazid, ja és un altre home. Així i tot, no ha pogut deixar de pensar en Elna, la filla de la bruixa.Durant el temps que Arnau ha estat fora, Odalric ha fet retirar",
-        "genre": "TELESÈRIE",
-        "image": ""
-      },
-      {
-        "start": "2026-08-22T18:42:35+02:00",
+        "start": "2026-08-22T18:42:36+02:00",
         "stop": "2026-08-22T19:42:37+02:00",
         "title": "Infidels",
         "subtitle": "",
         "description": "Un cop assabentades de la malaltia de la Paula, totes les amigues, excepte la Lídia, insisteixen perquè lluiti i s'operi. La Paula opta per ensenyar-los la seva casa nova, on sempre s'havia citat amb el seu amant. El que havia de ser un sopar d'amigues es transforma en una discussió sobre la necessitat d'operar-se o no... El marit de la Paula la segueix fins on viu i descobreix que la noia té un amant. Els dos homes es barallen i el marit de la Paula acaba explicant la malaltia.",
+        "genre": "TELESÈRIE",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T19:42:37+02:00",
+        "stop": "2026-08-22T20:06:40+02:00",
+        "title": "Jet lag",
+        "subtitle": "CACAOLAT",
+        "description": "La Ester i la Carla fan una aposta. Han d'aconseguir que la Diana tingui una aventura. L'aparició d'un client al bar i l'ajuda d'una vident precipitaran les coses. Al mateix temps, la Sílvia té un somni eròtic amb la Mariona. Més tard és la Mariona la que té un somni eròtic amb la Sílvia. Com acabarà tot això?",
         "genre": "TELESÈRIE",
         "image": ""
       }
@@ -84,7 +84,7 @@
     "esport3": [
       {
         "start": "2026-08-22T17:22:21+02:00",
-        "stop": "2026-08-22T19:01:41+02:00",
+        "stop": "2026-08-22T19:01:43+02:00",
         "title": "Futbol",
         "subtitle": "Trofeu Joan Gamper: FC Barcelona-Brighton & Hove Albion Women FC",
         "description": "Des de l'Estadi Johan Cruyff, el partit corresponent a la cinquena edició del Trofeu Joan Gamper femení.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/7/1785417246971.jpg"
       },
       {
-        "start": "2026-08-22T19:01:41+02:00",
-        "stop": "2026-08-22T19:37:18+02:00",
+        "start": "2026-08-22T19:01:43+02:00",
+        "stop": "2026-08-22T19:39:47+02:00",
         "title": "Motocròs",
         "subtitle": "Gran Premi dels Països Baixos / WMX Motocross World Championship / J1",
         "description": "La catalana Daniela Guillén aspira a recuperar el liderat de la general a la penúltima prova del Campionat del Món de Motocròs.",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T18:27:23+02:00",
-        "stop": "2026-08-22T18:33:53+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Una ovella domèstica",
-        "description": "Davant del castell els Lèmmings li fan una sessió de fotos a una ovella que posa per a ells. En Grizzy, molest per l'enrenou, envia els Lèmmings lluny de la cabana i, quan veu aquesta petita bola de llana, el cor de l'os s'estova i decideix compartir amb ella menjar i comoditats. En Grizzy cuida l'ovella i li agafa efecte, però els Lèmmings volen recuperar la seva amiga!",
+        "start": "2026-08-22T18:47:41+02:00",
+        "stop": "2026-08-22T19:09:32+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Vintage de veritat",
+        "description": "La Zerlina encarrega a les espies que esbrinin per què molts electrodomèstics de cuina es rebel·len contra els seus propietaris. Com que la torradora de la Mandy també s'hi ha rebel·lat, les noies van al seu apartament per agafar-li l'aparell i investigar qui hi ha darrere dels atacs. El Toby s'adona que tot comença en un restaurant de Nova York el propietari del qual és un conegut de la Sam.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-08-22T18:33:53+02:00",
-        "stop": "2026-08-22T18:40:23+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Xoc tèrmic!",
-        "description": "En Grizzy està assegut al sofà vora la xemeneia i els Lèmmings entren fent xivarri al menjador de la cabana muntats sobre l'aspiradora. Malhumorat, l'os els llença la seva nova joguina a la xemeneia, que acaba explotant. Això provoca que l'aire congelat de l'Antàrtida entri a la cabana. En recerca de calor, en Grizzy decideix instal·lar-se a l'hivernacle de l'estació científica, on un dron controla la temperatura. Però l'os no sap que dins el seu equipatge també hi van els Lèmmings!",
+        "start": "2026-08-22T19:09:32+02:00",
+        "stop": "2026-08-22T19:32:26+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Un examen de veritat",
+        "description": "En Toby avisa les tres espies que aviat els faran una mena d'examen per veure si continuen preparades per al món WOOHP. Les noies es posen molt nervioses i quan la Zerlina les convoca per a una missió es convencen que ja les estan examinant i que el protagonista d'uns robatoris en museus, en Bjorn la Bèstia, no és un malvat de veritat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-22T17:53:20+02:00",
-        "stop": "2026-08-22T18:38:13+02:00",
-        "title": "Tresors perduts d'Egipte",
-        "subtitle": "Alexandre el Gran",
-        "description": "Diversos arqueòlegs investiguen el faraó més temut d'Egipte, el rei guerrer més famós de la història, Alexandre el Gran. A Saqqara, descobrim com es va convertir en faraó i com s'ho va fer per conquerir els cors i les ments dels egipcis. A Filadèlfia, un equip d'excavació descobreix una catacumba singular que revela el llegat del regnat d'Alexandre. I a Taposiris Magna, els arqueòlegs fan un descobriment sorprenent en una gran tomba-temple.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
       {
         "start": "2026-08-22T18:38:13+02:00",
         "stop": "2026-08-22T19:23:13+02:00",
         "title": "Tresors perduts d'Egipte",
         "subtitle": "Secrets de les piràmides perdudes",
         "description": "Els arqueòlegs investiguen el llegat de les piràmides de Gizeh i de les misterioses piràmides que es van construir després. Busquen l'ocupant enigmàtic d'un colossal pou funerari que s'endinsa al fons de l'antiga zona de piràmides d'Abusir. També investiguen la luxosa tomba d'un membre de l'elit situada prop de la piràmide del faraó Djedkare a Saqqara, i excaven la tomba llargament perduda del faraó Sahuré, l'única tomba piràmide que encara no s'ha explorat mai.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T19:23:13+02:00",
+        "stop": "2026-08-22T20:16:39+02:00",
+        "title": "Planeta dinàmic",
+        "subtitle": "Gel",
+        "description": "El planeta s'escalfa i el gel dels tres pols -l'Àrtic, l'Antàrtida i l'Himàlaia- es desfà tan de pressa que té unes conseqüències transcendentals. Les extraordinàries persones que viuen i treballen en aquests indrets ens revelen com la ciència, la natura i els coneixements tradicionals ens poden preparar per a un futur que canvia ràpidament.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
