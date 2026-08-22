@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T14:46:25.131245+00:00",
+  "updated": "2026-08-22T15:15:25.938891+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,20 +43,20 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-22T15:31:57+02:00",
-        "stop": "2026-08-22T17:07:26+02:00",
-        "title": "Barcelona Ciutat Neutral",
-        "subtitle": "Barcelona Ciutat Neutral",
-        "description": "Productora: Televisió de Catalunya, Prodigius Cinema, Stopline Films i RTP amb la col·laboració de l'ICIC i de l'ICAA, 2011Directora: Sònia SanchezGuionistes:Xesc Barceló i Mateu AdroverProductors executius de TVC : Cruz Rodríguez i Susanna Jiménez. Productor executiu Prodigius Cinema: Agustí MezquidaDirector fotografia: Mario MonteroMúsica: Arnau BatallerIntèrprets: Bernat Quintana (Karl), Nausicaa Bonnin (Glòria), Diana Gómez (Maria), Jordi Pla (Cinto), Laura Aubert (Caterina), Ramon Pujol (Sebastià), Pep Anton Muñoz (Ricardo Vélez), Laura Conejero (Teresa), Pep Pla (Pere Estruch), Albert Pérez (Daniel) i Lita Claver (Malafiga)La Primera Guerra Mundial acaba d'esclatar quan un grup de joves coincideix al port de Barcelona amb la intenció d'agafar un vaixell que no salparà mai. Allí es coneixen el Karl i la Glòria, que comparteixen l'espera amb el Sebastià i la Caterina, un matrimoni de joves pagesos; el Cinto, un pillastre que no coneix límits, i la Maria, que només vol triomfar al món de la revista. Karl és un jove arquitecte de bona família que intenta fugir d'una vida que l'atrapa; Glòria, una sindicalista plena d'ideals. Aquella llarga nit naixerà una amistat que els posarà tots a prova i que els ha d'acompanyar en aquest temps turbulents. Al Karl i a la Glòria aquesta amistat els obre la porta a un sentiment molt més profund, un amor que els sorprèn i sacseja. Aviat, però, els dos amants s'adonen dels obstacles a què s'enfronten. Les diferències entre els mons que habiten i l' hostilitat amb què es contemplen semblen insalvables. El pare d'ell és un membre de la recentment creada Mancomunitat de Catalunya; el d'ella, un anarquista acusat d'atemptar contra l'ordre públic i sobre qui pesa una condemna a mort... Tot sembla conspirar contra el delicat equilibri que sosté aquella societat. El món sencer canvia davant els ulls de tots, i el futur s'amaga en un horitzó ben fosc. En aquesta època inestable, marcada per les intrigues i l",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
-      },
-      {
-        "start": "2026-08-22T17:07:26+02:00",
-        "stop": "2026-08-22T18:43:11+02:00",
+        "start": "2026-08-22T17:07:27+02:00",
+        "stop": "2026-08-22T18:42:35+02:00",
         "title": "Arnau",
         "subtitle": "(1A PART)",
         "description": "A les terres de la frontera entre àrabs i cristians, al nord-est de la Península Ibèrica, uns bandolers sarraïns han capturat Arnau, un noble cristià.Malferit, se l'emporten a través d'un bosc i, casualment, fan parada a casa d'Agra, la bruixa. Mentre Agra els dóna menjar, la seva filla, Elna, s'acosta a Arnau. Només es veuen un moment, però entre tots dos neix una atracció tan forta que, tant l'un com l'altre, ja no podran oblidar-se mai.Fora de la cabana d'Agra, els sarraïns intenten vendre Arnau a un senyor àrab de Còrdova, Yazid, que està de viatge per aquelles terres. Yazid es queda amb Arnau i aposta amb un company que d'aquell home primitiu en farà una persona sensible.Mentrestant, en terres cristianes, la família d'Arnau, la seva dona Sància, les dues filles i Odalric, el cunyat i el noble més poderós de la regió, el donen per mort. La dona d'Odalric, Garsa, no ha pogut donar un hereu al seu marit i enveja les dues filles de Sància. Sància enveja de Garsa que tingui un marit que l'estima. Ella no va ser mai feliç amb Arnau.L'únic que no pot creure que Arnau sigui mort és el seu oncle, l'abat Ató. En té motius: sempre ha cregut que Arnau era dipositari d'un antic tresor que s'amaga a l'abadia; un tresor cobejat per tothom que desperta intrigues i és la causa d'un assassinat a la pròpia abadia.Al campament àrab, Arnau ha entès que Yazid és un estrany missatger que li pot donar una visió diferent de la vida. Accepta els seus ensenyaments i la seva amistat. Yazid li demostra que abans estava envoltat de nobles ambiciosos capitanejats per Odalric, el seu cunyat, que va ser ell qui li va preparar l'emboscada i que, ara, està ordint una traïció contra el comte de Barcelona, la màxima autoritat cristiana de totes les terres.Quan després de tres mesos, Arnau abandona el campament de Yazid, ja és un altre home. Així i tot, no ha pogut deixar de pensar en Elna, la filla de la bruixa.Durant el temps que Arnau ha estat fora, Odalric ha fet retirar",
+        "genre": "TELESÈRIE",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T18:42:35+02:00",
+        "stop": "2026-08-22T19:42:37+02:00",
+        "title": "Infidels",
+        "subtitle": "",
+        "description": "Un cop assabentades de la malaltia de la Paula, totes les amigues, excepte la Lídia, insisteixen perquè lluiti i s'operi. La Paula opta per ensenyar-los la seva casa nova, on sempre s'havia citat amb el seu amant. El que havia de ser un sopar d'amigues es transforma en una discussió sobre la necessitat d'operar-se o no... El marit de la Paula la segueix fins on viu i descobreix que la noia té un amant. Els dos homes es barallen i el marit de la Paula acaba explicant la malaltia.",
         "genre": "TELESÈRIE",
         "image": ""
       }
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T16:38:51+02:00",
-        "stop": "2026-08-22T16:49:49+02:00",
+        "start": "2026-08-22T17:11:01+02:00",
+        "stop": "2026-08-22T17:21:41+02:00",
         "title": "Ideafix i els irreductibles",
-        "subtitle": "Roma a la Cova del Gamarús",
-        "description": "En Voldenix vol regalar un collaret a la seva estimada Dormimatina i enreda la Irreductible Turbina perquè vagi al palau de La Lloba a pispar el collaret nou de la Monalisa. Vol fer-ne una còpia mitjançant una poció de les seves i tornar l'original a la gata romana. Però com diu la Turbina, en Voldenix és tan dolent fabricant pocions com fent versos.",
+        "subtitle": "Amb un Arcabús n'hi ha prou",
+        "description": "El Labiè fa engarjolar l'Ordralfabètix, acusat injustament d'haver robat un carregament de peix. Els Irreductibles malden per alliberar-lo, però una poció del Voldenix fa un clon de l'Arcabús que encara els complica més les coses. Finalment, l'Ordralfabètix es guanya la llibertat en un combat contra el gladiador Trencarròtulus.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T16:49:49+02:00",
-        "stop": "2026-08-22T17:00:21+02:00",
+        "start": "2026-08-22T17:21:41+02:00",
+        "stop": "2026-08-22T17:32:11+02:00",
         "title": "Ideafix i els irreductibles",
-        "subtitle": "Turbina l'astuta",
-        "description": "Una nova poció del Voldenix fa que el prefecte Astutus perdi l'al·lèrgia al pèl dels animals, fins al punt que s'enamora de la Irreductible Turbina i la fa reina del palau de la Lloba. Embogida de ràbia, la Monalisa concep un pla per desfer-se de la intrusa.",
+        "subtitle": "En Devòrix en rotació",
+        "description": "Convençut que la Vitamina el troba massa gras, en Devòrix es posa a dieta i fa exercici amb una roda gegant que l'arquitecte Semblangròpius ha fabricat per al general Labiè. Però el giny rodola sense aturador amb en Devòrix atrapat a dins!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T16:01:28+02:00",
-        "stop": "2026-08-22T17:00:28+02:00",
-        "title": "Rick Stein: De Venècia a Istanbul",
-        "subtitle": "Turquía",
-        "description": "Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
         "start": "2026-08-22T17:00:28+02:00",
         "stop": "2026-08-22T17:53:20+02:00",
         "title": "Els quaderns de cuina de la Julie",
         "subtitle": "El Perche",
         "description": "En Laurent fa el pastís Tatin seguint la recepta original. I la seva mare fa unes polpetes de vedella amb sidra, amb xampinyons i amb gran varietat de carns. L'Odile fa una coca de ceps amb carn de senglar, vi blanc i calvados. En Jean-François va començar fent sidra amb una premsa manual i ara es dedica a la venta de sidra i calvados. La Mireille fa un pollastre de pagès flamejat amb calvados i guisat amb pomes i sidra.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T17:53:20+02:00",
+        "stop": "2026-08-22T18:38:13+02:00",
+        "title": "Tresors perduts d'Egipte",
+        "subtitle": "Alexandre el Gran",
+        "description": "Diversos arqueòlegs investiguen el faraó més temut d'Egipte, el rei guerrer més famós de la història, Alexandre el Gran. A Saqqara, descobrim com es va convertir en faraó i com s'ho va fer per conquerir els cors i les ments dels egipcis. A Filadèlfia, un equip d'excavació descobreix una catacumba singular que revela el llegat del regnat d'Alexandre. I a Taposiris Magna, els arqueòlegs fan un descobriment sorprenent en una gran tomba-temple.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
