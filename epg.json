@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T21:46:38.672560+00:00",
+  "updated": "2026-08-22T22:16:34.437755+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,17 +43,17 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-22T23:42:31+02:00",
-        "stop": "2026-08-23T00:02:18+02:00",
-        "title": "Correspondències",
-        "subtitle": "Correspondències entre Luna Miguel i María Sánchez",
-        "description": "En aquest capítol veurem les correspondències que l'escriptora, editora i periodista Luna Miguel va fer amb la veterinària de camp i escriptora María Sánchez.En la primera correspondència les dues escriptores reflexionen sobre la nostàlgia, sobre com la nostàlgia pot ser una font d'inspiració per escriure i com, de vegades, sentim nostàlgia de coses que no hem viscut.La segona carta parla sobre si hi ha una manera d'escriure femenina, de dona. Són els temes dels que parlen? La manera visceral des d'on escriuren? Reflexionen també sobre com, sovint, es senten petites, com quan eren una nena, insignificants i amb por, patint el que s'anomena 'la síndrome de la impostora'. La tercera carta parla sobre els viatges, com busquen refugi allà on poden i com, quan menys t'ho esperes, el trobes.El capítol acaba amb un manifest-homenatge a Agnès Varda amb diferents dones feministes que es pregunten 'què vol dir ser dona'. ",
-        "genre": "DOCUMENTAL DE CREACIÓ",
-        "image": ""
+        "start": "2026-08-23T00:02:18+02:00",
+        "stop": "2026-08-23T00:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-23T00:02:18+02:00",
-        "stop": "2026-08-23T00:43:35+02:00",
+        "start": "2026-08-23T00:30:00+02:00",
+        "stop": "2026-08-23T04:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T23:39:28+02:00",
-        "stop": "2026-08-22T23:50:17+02:00",
+        "start": "2026-08-23T00:10:55+02:00",
+        "stop": "2026-08-23T00:21:14+02:00",
         "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "El palau dels sensepoder",
-        "description": "La Felicity i el Miguel assistiran a una festa de disfresses al Palau del Perfecte. El que no saben és que també hi anirà el Kraken Timmy, que ha convençut el Rudy perquè l'hi coli i així robarà els poders a tots els convidats.",
+        "subtitle": "El calderó",
+        "description": "La Felicity coneix un follet que assegura que és el guardià del calderó de monedes d'or que hi ha al peu d'un arc iris que ella ha creat. Quan la gateta li diu que allà no hi ha cap calderó, el follet entra en una gran crisi existencial.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T23:50:17+02:00",
-        "stop": "2026-08-23T00:00:36+02:00",
+        "start": "2026-08-23T00:21:14+02:00",
+        "stop": "2026-08-23T00:32:01+02:00",
         "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "El cranc de la son",
-        "description": "La Felicity ha organitzat una festa, però els convidats s'estan avorrint. I tot just quan tothom es comença a animar, arriba el cranc de la son, l'encarregat de fer que tots els habitants de Mitelàndia se'n vagin a dormir.",
+        "subtitle": "El canvi",
+        "description": "La Felicity té una crisi existencial perquè no sap qui és en realitat. El mateix dia, ella i el Miguel han d'anar a fer de cangurs de la filla d'uns metamòrfics, i resulta que la nena té els mateixos dilemes que la Felicity.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T22:54:55+02:00",
-        "stop": "2026-08-22T23:54:15+02:00",
-        "title": "Els caps de setmana llargs d'en Rick Stein",
-        "subtitle": "Bordeus",
-        "description": "En Rick visita Bordeus a l'època de la verema. Visita diferents restaurants on menja des d'un plat emblemàtic de la ciutat a un menú del dia en un modest restaurant de poble, passant per un menú sorpresa modern i innovador, una 'côte de bœuf' molt especial en una vinya, o un àpat de musclos a la vora del mar. Entre àpat i àpat, visita algunes vinyes del país, un mercat i fa un tast de vins.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
-        "start": "2026-08-22T23:54:15+02:00",
+        "start": "2026-08-22T23:54:16+02:00",
         "stop": "2026-08-23T00:46:12+02:00",
         "title": "Els quaderns de cuina de la Julie",
         "subtitle": "La Droma provençal",
         "description": "A la Droma provençal, l'Odile conrea moltes varietats d'espígol i en fa tisanes. La Isabelle fa un plat de pasta gratinada. La Frédérique, l'Arnaud i la Sophie són els darrers fabricants de cofins, uns cabassos d'espart per a premsar les olives. En Joël rosteix una pintada farcida d'olives negres i assaonada amb una salsa feta d'olives negres. L'Hervé conrea ametllers i la Virginie fa carquinyolis. En Jean-Luc fa confitura de nous verdes.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T00:46:12+02:00",
+        "stop": "2026-08-23T01:37:09+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "La badia de Saint-Brieuc",
+        "description": "En aquest episodi, la Julie visita la badia de de Saint-Brieuc, a les Costes d'Armor, a Brentanya. Amb en Jean prepara unes mongetes de Paimpol amb tres peixos. L'Alain, un pescador jubilat, li ensenya a fer unes cloïsses a la marinera. Finalment, amb la Yveline cuina un farz, un pastís bretó típic, amb prunes seques.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
