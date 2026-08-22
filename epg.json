@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T15:59:22.961279+00:00",
+  "updated": "2026-08-22T16:31:52.011019+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-22T16:30:00+02:00",
-        "stop": "2026-08-22T18:30:00+02:00",
+        "start": "2026-08-22T18:30:00+02:00",
+        "stop": "2026-08-22T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-22T18:30:00+02:00",
-        "stop": "2026-08-22T20:00:00+02:00",
+        "start": "2026-08-22T20:00:00+02:00",
+        "stop": "2026-08-22T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T17:54:29+02:00",
-        "stop": "2026-08-22T18:01:24+02:00",
+        "start": "2026-08-22T18:27:23+02:00",
+        "stop": "2026-08-22T18:33:53+02:00",
         "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Bojos pels crancs",
-        "description": "Els Lèmmings li agafen afecte a un cranc que està en perill a la platja i decideixen protegir-lo d'una gavina que el vol fer servir per obrir cocos. Quan el duen a casa, en Grizzy no està content, perquè ell vol tranquil·litat mentre mira la televisió i menja patates. Els Lèmmings es converteixen en autèntics rescatadors de crancs i la cabana s'omple de crustacis de seguida. En Grizzy decideix utilitzar una gavina per desfer-se dels crancs, però els Lèmmings, disposats a qualsevol cosa per protegir els seus nous amics, mouen la casa a l'aigua, com si fos una barca...",
+        "subtitle": "Una ovella domèstica",
+        "description": "Davant del castell els Lèmmings li fan una sessió de fotos a una ovella que posa per a ells. En Grizzy, molest per l'enrenou, envia els Lèmmings lluny de la cabana i, quan veu aquesta petita bola de llana, el cor de l'os s'estova i decideix compartir amb ella menjar i comoditats. En Grizzy cuida l'ovella i li agafa efecte, però els Lèmmings volen recuperar la seva amiga!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T18:01:24+02:00",
-        "stop": "2026-08-22T18:07:54+02:00",
+        "start": "2026-08-22T18:33:53+02:00",
+        "stop": "2026-08-22T18:40:23+02:00",
         "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Ensinistrament digital",
-        "description": "Els Lèmmings juguen a capturar animals virtuals amb la seva tauleta per tota la cabana. Molest pel comportament dels rosegadors, en Grizzy els fa fora. Decidits a continuar el joc, però, els Lèmmings li paren un parany a l'os, però la tauleta impacta contra el disjuntor, explota i els animals del joc cobren vida! Dinosaures de glaç, caribús amb làsers, plantes carnívores gegants... La cacera a mida real ja pot començar!",
+        "subtitle": "Xoc tèrmic!",
+        "description": "En Grizzy està assegut al sofà vora la xemeneia i els Lèmmings entren fent xivarri al menjador de la cabana muntats sobre l'aspiradora. Malhumorat, l'os els llença la seva nova joguina a la xemeneia, que acaba explotant. Això provoca que l'aire congelat de l'Antàrtida entri a la cabana. En recerca de calor, en Grizzy decideix instal·lar-se a l'hivernacle de l'estació científica, on un dron controla la temperatura. Però l'os no sap que dins el seu equipatge també hi van els Lèmmings!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
