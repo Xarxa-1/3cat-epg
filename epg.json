@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T03:24:25.992781+00:00",
+  "updated": "2026-08-22T04:04:09.428847+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-22T04:45:03+02:00",
-        "stop": "2026-08-22T05:45:03+02:00",
-        "title": "Ritmes a l'estudi",
-        "subtitle": "JORDI PRATS",
-        "description": "El brillant saxofonista i arranjador barceloní ens presenta el que serà el seu primer disc en solitari. Sons pantanosos barrejats amb swing sofisticat. Ecos de Son House i J.B LeNoir, John Laurie o ambients que podrien ambientar textos de Jack Kerouak són la carta de presentació del veterà i versàtil saxofonista.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-22T05:45:03+02:00",
-        "stop": "2026-08-22T05:48:05+02:00",
-        "title": "Videoclips catalans",
-        "subtitle": "Robert Poch - La porta de sortida",
-        "description": "",
-        "genre": "ALTRES",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-08-22T01:00:00+02:00",
-        "stop": "2026-08-22T06:00:00+02:00",
+        "start": "2026-08-22T06:00:01+02:00",
+        "stop": "2026-08-22T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
+        "start": "2026-08-22T07:00:00+02:00",
+        "stop": "2026-08-22T10:00:01+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
         "start": "2026-08-22T06:00:00+02:00",
         "stop": "2026-08-22T07:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-22T07:00:00+02:00",
+        "stop": "2026-08-22T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-22T05:03:46+02:00",
-        "stop": "2026-08-22T05:35:00+02:00",
-        "title": "Zona Zàping Club",
-        "subtitle": "El Zapi està de morros... perquè no el van convidar al sopar de l'equip!",
-        "description": "En aquest programa, Pere Mas participa en el concurs i intentarà endevinar el final de tres vídeos virals per emportar-se els premis del 'Zona Zàping Club'. Però qui no comença gaire bé el programa és el Zapi, que està ben enfadat després de quedar-se sense invitació al sopar-pizza de l'equip. Aconseguiran animar-lo abans del ball final?",
-        "genre": "ESPECIALS",
-        "image": ""
+        "start": "2026-08-22T06:24:08+02:00",
+        "stop": "2026-08-22T06:36:35+02:00",
+        "title": "E3",
+        "subtitle": "X Volta a Menorca en patí de vela 2026",
+        "description": "Vint anys després de la primera edició, del 13 al 17 de juliol del 2026, es va celebrar la X Volta a Menorca en patí de vela, única embarcació mediterrània sense timó.",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/8/1697728797885.jpg"
       },
       {
-        "start": "2026-08-22T05:35:00+02:00",
-        "stop": "2026-08-22T05:55:19+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "start": "2026-08-22T06:36:35+02:00",
+        "stop": "2026-08-22T06:52:43+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Manolo González / Prèvia Espanyol-R.Madrid / J2",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-22T05:14:30+02:00",
-        "stop": "2026-08-22T05:26:00+02:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "L'estel",
-        "description": "L'Edmond ensenya als nens un estel de quan era petit, i el Pinxo està impacient per sortir a provar-lo. El problema és que fa massa vent i, com que l'estructura està vella, l'Edmond té por que es trenqui, així que els prohibeix provar-lo fins que l'hagi restaurat. Però el Pinxo no està disposat a esperar-se, i convenç els seus germans de provar-lo mentre els pares són fora. El problema és que ben aviat se'ls escapa... Aconseguiran atrapar-lo?",
+        "start": "2026-08-22T06:00:01+02:00",
+        "stop": "2026-08-22T06:22:48+02:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les tres bessones i Leonardo da Vinci",
+        "description": "Aquesta vegada, la Bruixa envia les nenes al Renaixement italià perquè coneguin la vida del gran humanista Leonardo da Vinci. Les tres bessones ajuden Leonardo en els seus ginys i també l'ajuden a convèncer els governants de l'època que les guerres són inútils i és millor treballar per la pau.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T05:26:00+02:00",
-        "stop": "2026-08-22T05:32:40+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "Mantenir la pau",
-        "description": "Després de passar-se tota la nit muntant el llit en lloc de dormir-hi, el granger es queda dormint al llit i en Bitzer s'ha d'encarregar que el seu amo pugui descansar sense que ningú el molesti. Fer que hi hagi silenci a la granja es converteix aviat en una feina descomunal, per a en Bitzer.",
+        "start": "2026-08-22T06:22:48+02:00",
+        "stop": "2026-08-22T06:44:14+02:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les tres bessones i l'Ullal Blanc",
+        "description": "Les tres germanes apareixen enmig d'un bosc nevat d'Alaska. És un paisatge fascinant i l'Anna la Teresa i l'Helena en queden meravellades. Però molt aviat es trenca l'encís, quan apareixen quatre llops ferotges. Per sort, intervé l'Ullal Blanc, un gos valent i decidit que salva les tres bessones.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T05:11:00+02:00",
-        "stop": "2026-08-22T05:30:43+02:00",
-        "title": "Les Feres",
-        "subtitle": "Gossos",
-        "description": "Amb la gira 'A reviure', la formació manresana va cloure amb una desena de concerts especials una trajectòria de 30 anys. El quintet català ha destacat al llarg de la seva carrera per conrear un pop-rock basat en les harmonies vocals dels seus components, amb un repertori en què aborden les relacions sentimentals, les reflexions personals i, també, la crítica social. I amb cançons tan emblemàtiques com el senzill 'Corren', enregistrada originalment amb la col·laboració del músic barceloní Dani Macaco.  Juanjo Muñoz, guitarra i cors Roger Farré, baix i cors Santi Serratosa, bateria Natxo Tarrés, veu i guitarra Oriol Farré, guitarra i cors  'Tot és foc' 'Deixa't portar' 'Corren' 'Zenit'  Localització: Enregistrat a Manresa Dia: Dimecres, 15 de maig del 2024  ",
+        "start": "2026-08-22T06:03:05+02:00",
+        "stop": "2026-08-22T06:06:41+02:00",
+        "title": "Videoclips",
+        "subtitle": "Itaca band - Com una bala",
+        "description": "",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
+        "image": ""
       },
       {
-        "start": "2026-08-22T05:30:43+02:00",
-        "stop": "2026-08-22T05:41:00+02:00",
-        "title": "Gran!",
-        "subtitle": "'Bola de Drac'",
-        "description": "A partir de la recerca de set boles màgiques que permeten invocar un drac que concedeix desitjos, el dibuixant i guionista Akira Toriyama va concebre l'any 1984 'Bola de drac', un manga i, més endavant, una sèrie d'animació que es va convertir en un fenomen arreu del món. Toriyama, que ja havia sorprès l'any 1980 amb la venerada sèrie 'Dr. Slump', va esquitxar amb el seu sentit de l'humor imaginatiu, absurd i trepidant un relat d'aventures fantasioses. Posteriorment, els personatges van créixer i van adquirir un to més seriós en les següents entregues (com 'Bola de Drac Z' i 'Bola de Drac GT'). Una evolució que van seguir fidelment diferents generacions d'espectadors i lectors que han contribuït a atorgar a 'Bola de Drac' la categoria d'autèntic clàssic. ",
+        "start": "2026-08-22T06:06:41+02:00",
+        "stop": "2026-08-22T06:09:17+02:00",
+        "title": "Videoclips",
+        "subtitle": "New George - La humanitat",
+        "description": "",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
+        "image": ""
       }
     ],
     "oca1": [],
