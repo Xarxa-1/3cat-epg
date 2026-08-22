@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T01:26:39.468473+00:00",
+  "updated": "2026-08-22T02:34:40.887242+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,20 +43,20 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-22T02:00:00+02:00",
-        "stop": "2026-08-22T04:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
         "start": "2026-08-22T04:00:00+02:00",
         "stop": "2026-08-22T04:45:03+02:00",
         "title": "Fusió i swing a l'estudi",
         "subtitle": "Tiziana",
         "description": "Un grup format per músics de llarga trajectòria i de diferents bagatges musicals, entre ells el jazz, la música clàssica, les músiques d'arrel mediterrània, de l'Orient Mitjà i altres músiques tradicionals del món.Tiziana són: Alex Tobías, a la bateria i percussió; Pau Figueres, a la guitarra; Miquel Àngel Cordero, al contrabaix, i Judit Neddermann, a la veu.",
+        "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T04:45:03+02:00",
+        "stop": "2026-08-22T05:45:03+02:00",
+        "title": "Ritmes a l'estudi",
+        "subtitle": "JORDI PRATS",
+        "description": "El brillant saxofonista i arranjador barceloní ens presenta el que serà el seu primer disc en solitari. Sons pantanosos barrejats amb swing sofisticat. Ecos de Son House i J.B LeNoir, John Laurie o ambients que podrien ambientar textos de Jack Kerouak són la carta de presentació del veterà i versàtil saxofonista.",
         "genre": "ALTRES",
         "image": ""
       }
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-22T02:48:05+02:00",
-        "stop": "2026-08-22T04:27:13+02:00",
-        "title": "Futbol",
-        "subtitle": "Trofeu Joan Gamper: FC Barcelona-Brighton & Hove Albion Women FC",
-        "description": "Des de l'Estadi Johan Cruyff, el partit corresponent a la cinquena edició del Trofeu Joan Gamper femení.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/7/1785417246971.jpg"
-      },
-      {
-        "start": "2026-08-22T04:27:13+02:00",
-        "stop": "2026-08-22T04:47:54+02:00",
+        "start": "2026-08-22T04:27:15+02:00",
+        "stop": "2026-08-22T04:47:56+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+      },
+      {
+        "start": "2026-08-22T04:47:56+02:00",
+        "stop": "2026-08-22T05:03:44+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Manolo González / Prèvia Espanyol-R.Madrid / J2",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-22T03:25:47+02:00",
-        "stop": "2026-08-22T03:46:26+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Oblivio",
-        "description": "Ladybug i el Gat Noir es destransformen junts per primera vegada i es converteixen en la Marinette i l'Adrien. L'únic és que han perdut la memòria i no recorden res de res, ni com es diuen ni que són superherois. A poc a poc, aniran trobant pistes que els ajudaran a tornar a la realitat.",
+        "start": "2026-08-22T04:28:04+02:00",
+        "stop": "2026-08-22T04:40:00+02:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "Els gats s'emporten una bona lliçó",
+        "description": "La Guineta, el Pinxo i el Timbal estan jugant amb les raquetes, i la pilota va a parar on hi ha els trapelles del Gatmoix i el Gatmoll, que decideixen quedar-se-la. Els primers es posen a buscar-la de seguida i, llavors, els gats aprofiten per prendre'ls també les raquetes, amb la mala sort que cauen en un forat i s'hi queden atrapats. Ara necessitaran l'ajuda dels nostres amics per sortir d'allà, però no els serà tan fàcil aconseguir-la...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T03:46:26+02:00",
-        "stop": "2026-08-22T04:07:04+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Desperada",
-        "description": "El Jagged Stone ha fet fora de la banda la seva guitarrista, la Vivica, i l'Esfinx aprofita la ràbia de la noia per convertir-la en la temible Desperada, una supermalvada amb uns poders difícils de derrotar. Ladybug i el Gat Noir necessitaran l'ajuda de l'Escurçó per derrotar-la.",
+        "start": "2026-08-22T04:40:00+02:00",
+        "stop": "2026-08-22T04:51:30+02:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "Teixó o guineu?",
+        "description": "El Pinxo i la Guineta estan decidits a determinar qui són millors, si els teixons o les guineus. Mentre cuiden la Trufa, continuen la competició, i decideixen ensenyar a la seva germana les tècniques de captura d'insectes d'una espècie i de l'altra. Però ben aviat hauran de deixar de banda les seves diferències per unir forces i rescatar la Trufa d'una situació molt perillosa...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T02:50:21+02:00",
-        "stop": "2026-08-22T03:37:44+02:00",
-        "title": "La Renaixença",
-        "subtitle": "El radar",
-        "description": "En un rànquing d''objectes més odiats del món', el radar segurament estaria dins del TOP5, clarament. Seguretat? Sí. Emprenyada quan t'arriba la multa? De les més grosses. Avui dediquem el capítol al radar. Necessitem desfogar-nos. Pugen a l'escenari de 'La Renaixença' i xerrem des de l'escó amb la P.A.W.N. Gang. Es feia trap al segle XIX? Segurament, no, però al nostre escenari, sí. Sortim a passejar amb en Chök, un brac alemany de Gurb, pel duel de Carabanchel, el 1870.",
+        "start": "2026-08-22T04:24:13+02:00",
+        "stop": "2026-08-22T04:48:56+02:00",
+        "title": "Marcians",
+        "subtitle": "La moda resistent",
+        "description": "Tot i que es mouen en un sector poc gremial, el de la moda, Miriam Ponsa, Txell Miras i Josep Abril han fet sempre 'pinya' per defensar les seves marques, ells i les seves parelles, i ara també els seus fills, que els acompanyen en aquesta aventura que dura des de finals dels anys 90 i principis del 2000. Són 'resistents de la moda', una moda que també és resistent perquè tots tres aposten per creacions duradores, fetes amb materials de bona qualitat i cosides a Catalunya. Primer van obrir junts una botiga a París, després ho van fer a Barcelona i ara, que no tenen espais físics oberts al públic, treballen en la venda online i reben els clients a casa seva. Però hi ha dues cites l'any que no es perden: les del REC d'Igualada, on tornen a compartir un espai obert al públic i fan visibles les seves creacions per a tota la gent que s'hi vulgui apropar. Ells mateixos fan el muntatge de la botiga, que durarà quatre dies, hi descarreguen la roba, la col·loquen i reben els clients, a qui recomanen peces, talles i colors. Són uns dies que viuen amb molta energia, a prop dels clients, on aprenen com funciona la seva roba amb gent real, i no amb els models o maniquins. També són uns dies en què comparteixen els seus problemes i il·lusions de futur.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "image": ""
       },
       {
-        "start": "2026-08-22T03:37:44+02:00",
-        "stop": "2026-08-22T04:24:13+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La pissarra",
-        "description": "Si parlem del Departament d'Educació hi ha dos grans debats populars: les vacances, i les pissarres. Ben bé el mateix. Tenen massa vacances? Aquesta pregunta avui no és la protagonista del programa. Dediquem el capítol a la pissarra. Pissarres de tota la vida o pissarres digitals? El guix o el llapis tàctil? Ho discutim. Ens visita l'Òscar Camps per parlar de com està la situació al mar Mediterrani el dia d'avui. També ens ha explicat per què és recordat a Torelló. I sortim a passejar amb en Cadafalch per la construcció del mur de Berlín.",
+        "start": "2026-08-22T04:48:56+02:00",
+        "stop": "2026-08-22T05:10:59+02:00",
+        "title": "Marcians",
+        "subtitle": "El rescat de la bellesa",
+        "description": "Quins efectes pot tenir la cultura i l'art en el benestar i la salut? Marcians s'acosta a tres experiències en què l'art ha acompanyat a pacients oncològics. Assistim a una sessió d'artteràpia de la mà de l'entitat Artagere, que promou projectes d'artteràpia amb impacte social en una vintena d'hospitals i impulsa la recerca científica sobre els efectes transformadors de l'art en la salut. També coneixem l'obra '360 grams' de la directora i actriu Ada Vilaró, on parla del càncer de mama que va patir, i assistim a la representació de 'Dones de ràdio', una obra escrita per Cristina Clemente que parla de tres dones que han patit un procés de càncer de mama. Enguany, La Marató de 3Cat està dedicada al càncer. ",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "image": ""
       }
     ],
     "oca1": [],
