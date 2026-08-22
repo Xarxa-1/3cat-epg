@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T22:46:26.266834+00:00",
+  "updated": "2026-08-22T23:15:38.910234+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-23T00:30:00+02:00",
-        "stop": "2026-08-23T01:00:00+02:00",
+        "start": "2026-08-23T01:00:00+02:00",
+        "stop": "2026-08-23T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-23T01:00:00+02:00",
-        "stop": "2026-08-23T06:00:00+02:00",
+        "start": "2026-08-23T06:00:00+02:00",
+        "stop": "2026-08-23T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,40 +83,40 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-22T23:27:48+02:00",
-        "stop": "2026-08-23T00:57:57+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Post Espanyol-R. Madrid / J2",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
-      },
-      {
-        "start": "2026-08-23T00:57:57+02:00",
-        "stop": "2026-08-23T01:16:29+02:00",
+        "start": "2026-08-23T01:03:42+02:00",
+        "stop": "2026-08-23T01:17:20+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+      },
+      {
+        "start": "2026-08-23T01:17:20+02:00",
+        "stop": "2026-08-23T03:17:56+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Post Espanyol-R. Madrid / J2",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-23T00:32:01+02:00",
-        "stop": "2026-08-23T00:53:08+02:00",
+        "start": "2026-08-23T01:13:46+02:00",
+        "stop": "2026-08-23T01:34:41+02:00",
         "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Startrain",
-        "description": "Els alumnes de l'institut agafen l'Startrain per anar a fer una visita escolar al Big Ben, a Londres. La conductora, la mare del Max, està esperant els resultats d'un examen molt important per poder ser astronauta, i un akuma perdut de l'Esfinx ho aprofita per dominar-la i fer sortir el tren volant cap a l'espai.",
+        "subtitle": "Festí",
+        "description": "El museu del Louvre presenta una nova peça, una escultura descoberta a les muntanyes del Tibet. Però resulta que aquesta escultura és en realitat un sentimonstre adormit i no un sentimonstre qualsevol, sinó el que va generar el mateix mestre Fu quan era jove i es preparava per convertir-se en guardià dels prodigis.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T00:53:08+02:00",
-        "stop": "2026-08-23T01:13:46+02:00",
+        "start": "2026-08-23T01:34:41+02:00",
+        "stop": "2026-08-23T01:55:19+02:00",
         "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Caçadora de Kwamis",
-        "description": "La senyora Mendeleiev, la professora de ciències de l'institut on van els nostres protagonistes, para una trampa al Plagg i la Tikki per intentar demostrar l'existència d'aquestes criatures. Això fa que la Marinette i l'Adrien estiguin a punt de descobrir les identitats de Ladybug i el Gat Noir, cosa que els obligaria a renunciar als seus poders. Per sort, amb l'ajuda de tots els altres kwamis, la Marinette salva la situació.",
+        "subtitle": "Gamer 2.0",
+        "description": "El Max ha dissenyat un videojoc nou i té ganes de provar-lo amb els seus amics, però tots tenen unes vides molt atrafegades i no poden estar per ell. Això ho aprofita l'Esfinx per convertir el Max un altre cop en el malvat Gamer, però en una versió 2.0.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
