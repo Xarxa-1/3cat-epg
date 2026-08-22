@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T20:30:29.073839+00:00",
+  "updated": "2026-08-22T20:59:12.414861+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,21 +43,21 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-22T22:00:20+02:00",
-        "stop": "2026-08-22T22:51:33+02:00",
-        "title": "Celebrem!",
-        "subtitle": "El dia sense por",
-        "description": "En aquest capítol s'ha proposat foragitar tota mena de pors. Per això celebra el dia sense por. Els convidats que no han tingut cap por de ser al programa són l'actriu i directora Leticia Dolera, l'actor Jordi Vilches i la cantant Beth Rodergas. L'actuació anirà a càrrec de la companyia de dansa de Roser López Espinosa. I el joc d'aquest dia sense por voldrà saber qui té menys por de tot Catalunya. El programa acabarà amb la secció habitual de l'Adriana Fuertes, amb un famós disfressat.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-22T22:51:33+02:00",
-        "stop": "2026-08-22T23:42:29+02:00",
+        "start": "2026-08-22T22:51:34+02:00",
+        "stop": "2026-08-22T23:42:30+02:00",
         "title": "De bon humor",
         "subtitle": "Els monòlegs",
         "description": "Poques arts escèniques han adquirit la condició de clàssiques en tan poc temps com els monòlegs, també coneguts com a Stand Up Comedy. El gran èxit del monòleg es deu al fet que tracta temes quotidians i d'actualitat de forma irònica, crítica i sovint descarnada.A més a més, el monòleg és una fórmula senzilla de presentar un espectacle. Amb un micròfon, gràcia i un bon guió n'hi ha prou per aconseguir el somriure del públic. En el capítol dedicat als monòlegs coneixerem diversos mestres d'aquest art. Anirem fins a Castellfollit del Boix per veure com el Quim Masferrer es prepara pel monòleg del programa El Foraster. Amb ell parlarem dels seus orígens, de la seva manera de fer i de les particularitats d'aquest monòleg televisiu on humor i emoció tenen paper a parts iguals. I del poble marxem cap a la gran ciutat, a l'Hospitalet de Llobregat per trobar-nos amb l'humorista Raül Alcaraz. Tot va començar quan va penjar al seu Facebook un enginyós monòleg sobre el particular accent de la gent de la seva ciutat i que en poca estona es va fer viral a través de WhatsApp. També anirem fins al cor del barri del Raval de Barcelona, on hi ha un petit gran teatre: El Llantiol, on cada nit hi actuen monologuistes. El Teatre Llantiol ha estat i segueix sent el planter i el primer escenari de molts dels monologuistes del nostre país. ",
         "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T23:42:30+02:00",
+        "stop": "2026-08-23T00:02:16+02:00",
+        "title": "Correspondències",
+        "subtitle": "Correspondències entre Luna Miguel i María Sánchez",
+        "description": "En aquest capítol veurem les correspondències que l'escriptora, editora i periodista Luna Miguel va fer amb la veterinària de camp i escriptora María Sánchez.En la primera correspondència les dues escriptores reflexionen sobre la nostàlgia, sobre com la nostàlgia pot ser una font d'inspiració per escriure i com, de vegades, sentim nostàlgia de coses que no hem viscut.La segona carta parla sobre si hi ha una manera d'escriure femenina, de dona. Són els temes dels que parlen? La manera visceral des d'on escriuren? Reflexionen també sobre com, sovint, es senten petites, com quan eren una nena, insignificants i amb por, patint el que s'anomena 'la síndrome de la impostora'. La tercera carta parla sobre els viatges, com busquen refugi allà on poden i com, quan menys t'ho esperes, el trobes.El capítol acaba amb un manifest-homenatge a Agnès Varda amb diferents dones feministes que es pregunten 'què vol dir ser dona'. ",
+        "genre": "DOCUMENTAL DE CREACIÓ",
         "image": ""
       }
     ],
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-22T21:25:00+02:00",
-        "stop": "2026-08-22T23:06:29+02:00",
+        "start": "2026-08-22T21:26:15+02:00",
+        "stop": "2026-08-22T23:26:00+02:00",
         "title": "Rugbi",
         "subtitle": "Dracs Catalans-Hull FC / Super League / J24",
         "description": "Els de Perpinyà, que en el precedent d'Anglaterra van perdre per un ajustat 24 a 20, confien en aconseguir la victòria aquesta vegada. Amb la narració de Sebastià Girard.",
@@ -92,51 +92,51 @@
         "image": "https://img.3cat.cat/multimedia/jpg/2/3/1771412542832.jpg"
       },
       {
-        "start": "2026-08-22T23:06:29+02:00",
-        "stop": "2026-08-22T23:26:00+02:00",
-        "title": "Zona Zàping Club",
-        "subtitle": "Gemma Mallorca, entre la intuïció i la casualitat",
-        "description": "La convidada accepta el desafiament del 'Zona Zàping Club' i descobrirà que res és tan evident com sembla a internet.",
-        "genre": "ESPECIALS",
-        "image": ""
+        "start": "2026-08-22T23:26:00+02:00",
+        "stop": "2026-08-23T00:56:08+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Post Espanyol-R. Madrid / J2",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-22T22:23:40+02:00",
-        "stop": "2026-08-22T22:34:15+02:00",
-        "title": "Les filles del Dad",
-        "subtitle": "Tristament famosa",
-        "description": "Quan l'Ondine apareix a la portada d'una revista local, la noia ja es veu feta una estrella i fa passar a les seves germanes un autèntic infern. Però quan s'adoni de com és la celebritat a nivell local tornarà a tocar de peus a terra.",
+        "start": "2026-08-22T22:56:14+02:00",
+        "stop": "2026-08-22T23:06:51+02:00",
+        "title": "La tropa del corral",
+        "subtitle": "Ens ha desaparegut un mossegador",
+        "description": "En Sam truca molt esverat. Un dels seus cadells ha perdut el mossegador i està desconsolat. La Maggie i la Flo l'acompanyen a buscar la joguina mentre en Clive, en Billy i en Jo distreuen els petits amb un espectacle de màgia.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T22:34:15+02:00",
-        "stop": "2026-08-22T22:45:11+02:00",
+        "start": "2026-08-22T23:06:51+02:00",
+        "stop": "2026-08-22T23:17:32+02:00",
         "title": "La tropa del corral",
-        "subtitle": "Atrapats",
-        "description": "La Tropa del Corral rep una trucada. L'Albert s'ha quedat amb atrapat dins d'un tub de paper de cuina. Surten disparats però, de sobte, la nova tanca que ha instal·lat el granger els atura. Cada cop que l'intenten travessar, salta l'alarma. Com que en Jo pot passar per sota dels rajos vermells i la Maggie els pot saltar, tots dos corren a ajudar l'Albert, mentre la Flo, en Clive i en Billy intenten trobar una manera de sortir de la granja.",
+        "subtitle": "Olor de perill",
+        "description": "La Bertha truca espantada. No vol dir què li passa, així que la Tropa la va a buscar de seguida i veuen que té el cul ple de punxes esmolades... i no sap de qui són! L'únic que ha sentit ha sigut un esternut. La Tropa es divideix: la meitat intenta descobrir qui és l'atacant misteriós, mentre la resta mira de treure-li les punxes sense rebre cap mossegada.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T21:56:27+02:00",
-        "stop": "2026-08-22T22:54:55+02:00",
-        "title": "Els caps de setmana llargs d'en Rick Stein",
-        "subtitle": "Reykjavík",
-        "description": "En Rick Stein va a Reykjavík al pic de l'hivern, a la recerca del bacallà perfecte, i farà diverses excursions fora vila, envoltat d'un paisatge glaçat. Es banyarà en una piscina termal a l'aire lliure, visitarà l'espectacular Strokkur, un dels guèisers més actius del país, i tastarà un pa de sègol cuit amb sorra volcànica. A la seva cuina de Padstow, ens farà un gratinat de bacallà amb salsa bearnesa, costelles de xai arrebossades, amb col llombarda especiada i nabius, i una sopa d'escamarlans molt bona.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
         "start": "2026-08-22T22:54:55+02:00",
         "stop": "2026-08-22T23:54:15+02:00",
         "title": "Els caps de setmana llargs d'en Rick Stein",
         "subtitle": "Bordeus",
         "description": "En Rick visita Bordeus a l'època de la verema. Visita diferents restaurants on menja des d'un plat emblemàtic de la ciutat a un menú del dia en un modest restaurant de poble, passant per un menú sorpresa modern i innovador, una 'côte de bœuf' molt especial en una vinya, o un àpat de musclos a la vora del mar. Entre àpat i àpat, visita algunes vinyes del país, un mercat i fa un tast de vins.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T23:54:15+02:00",
+        "stop": "2026-08-23T00:46:12+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "La Droma provençal",
+        "description": "A la Droma provençal, l'Odile conrea moltes varietats d'espígol i en fa tisanes. La Isabelle fa un plat de pasta gratinada. La Frédérique, l'Arnaud i la Sophie són els darrers fabricants de cofins, uns cabassos d'espart per a premsar les olives. En Joël rosteix una pintada farcida d'olives negres i assaonada amb una salsa feta d'olives negres. L'Hervé conrea ametllers i la Virginie fa carquinyolis. En Jean-Luc fa confitura de nous verdes.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
