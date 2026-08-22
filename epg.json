@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T09:23:13.672317+00:00",
+  "updated": "2026-08-22T09:50:16.238323+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,15 +103,6 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T11:11:55+02:00",
-        "stop": "2026-08-22T11:32:55+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "La mòmia",
-        "description": "Les espies viatgen a Egipte per investigar uns fets estranys que han passat en una piràmide. Descobreixen la conspiració d'un malvat arqueòleg i ressusciten una antiga maledicció egípcia, i així eviten que l'home pugui adquirir el poder etern i l'habilitat de convocar mòmies. D'altra banda, la Clover troba l'estimat anell de diamants de la Mandy i s'enfronta al dilema de tornar-li o no.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
-      },
-      {
         "start": "2026-08-22T11:32:55+02:00",
         "stop": "2026-08-22T11:54:59+02:00",
         "title": "Espies de veritat",
@@ -119,6 +110,15 @@
         "description": "Les noies investiguen el propietari d'una perruqueria diabòlica que utilitza una fórmula especial perquè els cabells dels seus clients creixin d'una forma desorbitada. El seu propòsit és fer perruques. L'únic problema és que la fórmula absorbeix la vida dels clients durant el procés. D'altra banda, les noies planegen una festa sorpresa per celebrar l'aniversari d'en Jerry.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+      },
+      {
+        "start": "2026-08-22T11:54:59+02:00",
+        "stop": "2026-08-22T12:01:54+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Franken-Grizzy",
+        "description": "En Grizzy i els Lèmmings es barallen pel comandament a distància del televisor. La disputa fa que l'os hagi de pujar a dalt de tot de la torre del castell durant una tempesta. Acaba en una habitació secreta on albira una forma humana a la llum dels llampecs. Atemorit, en Grizzy activa sense voler un mecanisme encès per la tempesta i que dona vida a una armadura medieval. L'armadura vivent s'inclina davant l'os, atònit. En Grizzy acaba de trobar un dòcil i temible aliat amb el qual podrà fer front als Lèmmings!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       }
     ],
     "c33": [
