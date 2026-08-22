@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T17:26:13.718295+00:00",
+  "updated": "2026-08-22T17:45:43.757906+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,21 +43,21 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-22T18:42:36+02:00",
-        "stop": "2026-08-22T19:42:37+02:00",
-        "title": "Infidels",
-        "subtitle": "",
-        "description": "Un cop assabentades de la malaltia de la Paula, totes les amigues, excepte la Lídia, insisteixen perquè lluiti i s'operi. La Paula opta per ensenyar-los la seva casa nova, on sempre s'havia citat amb el seu amant. El que havia de ser un sopar d'amigues es transforma en una discussió sobre la necessitat d'operar-se o no... El marit de la Paula la segueix fins on viu i descobreix que la noia té un amant. Els dos homes es barallen i el marit de la Paula acaba explicant la malaltia.",
-        "genre": "TELESÈRIE",
-        "image": ""
-      },
-      {
         "start": "2026-08-22T19:42:37+02:00",
         "stop": "2026-08-22T20:06:40+02:00",
         "title": "Jet lag",
         "subtitle": "CACAOLAT",
         "description": "La Ester i la Carla fan una aposta. Han d'aconseguir que la Diana tingui una aventura. L'aparició d'un client al bar i l'ajuda d'una vident precipitaran les coses. Al mateix temps, la Sílvia té un somni eròtic amb la Mariona. Més tard és la Mariona la que té un somni eròtic amb la Sílvia. Com acabarà tot això?",
         "genre": "TELESÈRIE",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T20:06:40+02:00",
+        "stop": "2026-08-22T20:23:50+02:00",
+        "title": "Marcians",
+        "subtitle": "Estimats oblidats",
+        "description": "'Estimats oblidats' reivindica atenció i inversions per a les Terres de l'Ebre, sempre les 'oblidades' dins del mapa territorial. Els cantautors Josep Bordes, líder del grup Pepet i Marieta, i Montse Castellà expliquen el seu paper a la societat ebrenca, que consisteix a fer servir el poder de la música per lluitar en favor dels interessos col·lectius. Bordes i Castellà han fet cançons en defensa de la terra o dels trens dignes i en contra del transvasament del riu Ebre o de la plataforma de gas Castor. La fotògrafa Paula Artés exposa al Centre d'Art de les Terres de l'Ebre, Lo Pati, un treball que denuncia els abusos de poder d'algunes empreses, que, avalades pels governs, aconsegueixen beneficis milionaris pagats pels contribuents. 'Energia submergida', que es podrà veure fins al 5 de maig, se centra en el cas de la plataforma Castor, un dipòsit de gas instal·lat enmig del mar davant de la costa de la Ràpita i Vinaròs, que ha quedat en desús perquè l'inici de la injecció de gas va provocar més de mil terratrèmols a la zona el 2013. El reportatge també dona veu al grup musical Gambardella i al poeta Martí Sales, que junts han posat en marxa el projecte 'Tot paisatge és una mentida' amb què, mitjançant música i poesia en directe i imatges i sons gravats a les Terres de l'Ebre, pretenen cridar l'atenció sobre una de les zones més empobrides de Catalunya. El projecte es podrà veure el 16 d'abril a l'espai IDEAL de Barcelona.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
@@ -83,40 +83,40 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-22T19:01:44+02:00",
-        "stop": "2026-08-22T19:39:48+02:00",
-        "title": "Motocròs",
-        "subtitle": "Gran Premi dels Països Baixos / WMX Motocross World Championship / J1",
-        "description": "La catalana Daniela Guillén aspira a recuperar el liderat de la general a la penúltima prova del Campionat del Món de Motocròs.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/4/1779284574045.jpg"
-      },
-      {
-        "start": "2026-08-22T19:39:48+02:00",
-        "stop": "2026-08-22T19:55:56+02:00",
+        "start": "2026-08-22T19:39:49+02:00",
+        "stop": "2026-08-22T19:55:58+02:00",
         "title": "Sala de Premsa",
         "subtitle": "Manolo González / Prèvia Espanyol-R.Madrid / J2",
         "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+      },
+      {
+        "start": "2026-08-22T19:55:58+02:00",
+        "stop": "2026-08-22T20:29:24+02:00",
+        "title": "Zona Zàping Club",
+        "subtitle": "En Zapi canviarà de programa i marxarà amb Xavi Valls a l''Onze'?",
+        "description": "Xavi Valls posa a prova el seu instint en un concurs en què qualsevol detall pot canviar completament el final.",
+        "genre": "ESPECIALS",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-22T19:09:32+02:00",
-        "stop": "2026-08-22T19:32:27+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Un examen de veritat",
-        "description": "En Toby avisa les tres espies que aviat els faran una mena d'examen per veure si continuen preparades per al món WOOHP. Les noies es posen molt nervioses i quan la Zerlina les convoca per a una missió es convencen que ja les estan examinant i que el protagonista d'uns robatoris en museus, en Bjorn la Bèstia, no és un malvat de veritat.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
-      },
-      {
-        "start": "2026-08-22T19:32:27+02:00",
-        "stop": "2026-08-22T19:54:52+02:00",
+        "start": "2026-08-22T19:32:28+02:00",
+        "stop": "2026-08-22T19:54:53+02:00",
         "title": "El detectiu Conan",
         "subtitle": "L’akabeko i els tres homes afortunats",
         "description": "En Conan, la Ran i la Sonoko assisteixen a la inauguració d'una exposició d'art al Nou Museu d'Art Contemporani de Beika. Un cop allà, l'artista d'akabeko Motoko Bekobe apareix estrangulada, al costat d'un missatge que ha deixat la víctima abans de morir.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T19:54:53+02:00",
+        "stop": "2026-08-22T20:17:45+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "Una novel·la juvenil que fa olor de crim",
+        "description": "Un escriptor de novel·les juvenils que rebia amenaces de mort apareix assassinat al seu apartament. Quan en Kogoro, que havia rebut un encàrrec de la víctima per investigar el passat d'un difunt, troba el cos, també és atacat i acaba traslladat a l'hospital.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
