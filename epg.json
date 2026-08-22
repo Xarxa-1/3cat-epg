@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T07:53:37.721571+00:00",
+  "updated": "2026-08-22T08:22:41.974239+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-22T07:00:00+02:00",
-        "stop": "2026-08-22T10:00:01+02:00",
+        "start": "2026-08-22T10:00:01+02:00",
+        "stop": "2026-08-22T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,8 +52,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-22T10:00:01+02:00",
-        "stop": "2026-08-22T12:00:00+02:00",
+        "start": "2026-08-22T12:00:00+02:00",
+        "stop": "2026-08-22T12:35:38+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-22T07:00:00+02:00",
-        "stop": "2026-08-22T10:00:00+02:00",
+        "start": "2026-08-22T10:00:00+02:00",
+        "stop": "2026-08-22T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-22T10:00:00+02:00",
-        "stop": "2026-08-22T12:00:00+02:00",
+        "start": "2026-08-22T12:00:00+02:00",
+        "stop": "2026-08-22T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -103,41 +103,41 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T09:49:54+02:00",
-        "stop": "2026-08-22T10:10:38+02:00",
+        "start": "2026-08-22T10:10:39+02:00",
+        "stop": "2026-08-22T10:30:53+02:00",
         "title": "Espies de veritat",
-        "subtitle": "Home o màquina",
-        "description": "La Sam, l'Alex i la Clover intentaran aturar un eixelabrat que substitueix els governants de tot el món per unes màquines que anomena 'animatrons'. La seva intenció és convertir el món en un parc d'atraccions ple de perills.",
+        "subtitle": "L'atac de l'home de gel",
+        "description": "Algú planeja congelar el món i retornar-lo a l'Edat de Gel, 'eradicant el mal que els humans han fet al medi ambient'. Clover s'enfronta a la seva reputació com una 'Reina del Gel'.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-08-22T10:10:38+02:00",
-        "stop": "2026-08-22T10:30:52+02:00",
+        "start": "2026-08-22T10:30:53+02:00",
+        "stop": "2026-08-22T10:51:56+02:00",
         "title": "Espies de veritat",
-        "subtitle": "L'atac de l'home de gel",
-        "description": "Algú planeja congelar el món i retornar-lo a l'Edat de Gel, 'eradicant el mal que els humans han fet al medi ambient'. Clover s'enfronta a la seva reputació com una 'Reina del Gel'.",
+        "subtitle": "Ha nascut una espia (I)",
+        "description": "Les espies han de lluitar contra un home roí que fa abduccions de les grans estrelles del cinema per utilitzar-les a la seva pel·lícula, un film d'acció esbojarradament perillós. Sam és escollida la 'Més popular' a l'anuari de l'escola.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T09:17:43+02:00",
-        "stop": "2026-08-22T10:08:53+02:00",
-        "title": "El Foraster",
-        "subtitle": "Tivenys",
-        "description": "Tivenys (Baix Ebre) és un poble de ribera travessat pel riu, envoltat de tarongers i ple de vida. I quan en Quim hi arriba, no s'imagina que aquí hi viurà un retrobament inesperat i emocionant amb una vella coneguda que li farà reviure un dels moments més especials de la història del programa. Però no serà l'única sorpresa.La Gisela i la Carmen li mostraran un indret que, segons elles, no té rival, i li explicaran per què a Tivenys les cortines amaguen més vida de la que sembla. També coneixerà la Tere, una dona que ha fet del seu estil un autèntic segell personal, i en Pep, que ha trobat la manera de posar música al seu dia a dia sense sortir de la feina. La Rosita li revelarà un remei dolç per quan bufa mal vent, la canalla el guiarà fins a una casa que fa pujar les pulsacions i l'Enriqueta, amb 85 anys i una empenta encomanadissa, l'omplirà de taronges, enciams i somriures.Un poble petit amb un gran cor. I un retrobament que no s'oblida.",
-        "genre": "VARIETATS",
-        "image": ""
-      },
-      {
-        "start": "2026-08-22T10:08:53+02:00",
+        "start": "2026-08-22T10:08:54+02:00",
         "stop": "2026-08-22T11:02:42+02:00",
         "title": "El Foraster",
         "subtitle": "Vall de Cardós",
         "description": "A Vall de Cardós (Pallars Sobirà) la vida transcorre entre muntanyes i silenci, i sota una sentència que defineix el tarannà dels que hi viuen: 'Per ser de la vall de Cardós, has d'haver nascut a la vall de Cardós, patit a la vall de Cardós i mort a la vall de Cardós.'En Quim es trobarà en Charlie, un home de ràdio peculiar que amaga un autèntic museu surrealista al traster; la Conxita, que als 91 anys ha arribat a una conclusió fonamentada i contundent sobre Déu, i la Carmen i en Clive, una parella que es van conèixer a Austràlia i que li explicaran com van reconstruir la seva vida a la vall després d'uns temps difícils.També parlarà amb el mossèn, que sembla custodiar els secrets de tots els pobles veïns, fins i tot els de Tor, i descobrirà un taller mecànic únic on en Cisco i en Juanito li explicaran una història increïble sobre el més enllà.En Quim també acompanyarà l'Anna en una ruta escolar plena de revolts, fauna i criatures, es deixarà portar per una teràpia poc convencional amb l'Enric i el seu ramat de cabres i, finalment, l'Àngel el convidarà a casa seva, al cim del Pui Tabaca, per delectar-se amb unes vistes úniques.",
         "genre": "VARIETATS",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T11:02:42+02:00",
+        "stop": "2026-08-22T11:57:49+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Trevor i Cori",
+        "description": "La Ivana Miño acompanya en Trevor i la Cori, una simpàtica parella nord-americana, per diferents indrets de l'Alt Empordà i de la Garrotxa. Allá tasten la millor gastronomia mediterrània i viuen moments molt emotius.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
