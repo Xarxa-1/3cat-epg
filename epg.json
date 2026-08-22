@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T16:59:01.691448+00:00",
+  "updated": "2026-08-22T17:26:13.718295+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,54 +83,45 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-22T17:22:21+02:00",
-        "stop": "2026-08-22T19:01:43+02:00",
-        "title": "Futbol",
-        "subtitle": "Trofeu Joan Gamper: FC Barcelona-Brighton & Hove Albion Women FC",
-        "description": "Des de l'Estadi Johan Cruyff, el partit corresponent a la cinquena edició del Trofeu Joan Gamper femení.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/7/1785417246971.jpg"
-      },
-      {
-        "start": "2026-08-22T19:01:43+02:00",
-        "stop": "2026-08-22T19:39:47+02:00",
+        "start": "2026-08-22T19:01:44+02:00",
+        "stop": "2026-08-22T19:39:48+02:00",
         "title": "Motocròs",
         "subtitle": "Gran Premi dels Països Baixos / WMX Motocross World Championship / J1",
         "description": "La catalana Daniela Guillén aspira a recuperar el liderat de la general a la penúltima prova del Campionat del Món de Motocròs.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.3cat.cat/multimedia/jpg/5/4/1779284574045.jpg"
+      },
+      {
+        "start": "2026-08-22T19:39:48+02:00",
+        "stop": "2026-08-22T19:55:56+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Manolo González / Prèvia Espanyol-R.Madrid / J2",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-22T18:47:41+02:00",
-        "stop": "2026-08-22T19:09:32+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Vintage de veritat",
-        "description": "La Zerlina encarrega a les espies que esbrinin per què molts electrodomèstics de cuina es rebel·len contra els seus propietaris. Com que la torradora de la Mandy també s'hi ha rebel·lat, les noies van al seu apartament per agafar-li l'aparell i investigar qui hi ha darrere dels atacs. El Toby s'adona que tot comença en un restaurant de Nova York el propietari del qual és un conegut de la Sam.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
-      },
-      {
         "start": "2026-08-22T19:09:32+02:00",
-        "stop": "2026-08-22T19:32:26+02:00",
+        "stop": "2026-08-22T19:32:27+02:00",
         "title": "Espies de veritat",
         "subtitle": "Un examen de veritat",
         "description": "En Toby avisa les tres espies que aviat els faran una mena d'examen per veure si continuen preparades per al món WOOHP. Les noies es posen molt nervioses i quan la Zerlina les convoca per a una missió es convencen que ja les estan examinant i que el protagonista d'uns robatoris en museus, en Bjorn la Bèstia, no és un malvat de veritat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+      },
+      {
+        "start": "2026-08-22T19:32:27+02:00",
+        "stop": "2026-08-22T19:54:52+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "L’akabeko i els tres homes afortunats",
+        "description": "En Conan, la Ran i la Sonoko assisteixen a la inauguració d'una exposició d'art al Nou Museu d'Art Contemporani de Beika. Un cop allà, l'artista d'akabeko Motoko Bekobe apareix estrangulada, al costat d'un missatge que ha deixat la víctima abans de morir.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-22T18:38:13+02:00",
-        "stop": "2026-08-22T19:23:13+02:00",
-        "title": "Tresors perduts d'Egipte",
-        "subtitle": "Secrets de les piràmides perdudes",
-        "description": "Els arqueòlegs investiguen el llegat de les piràmides de Gizeh i de les misterioses piràmides que es van construir després. Busquen l'ocupant enigmàtic d'un colossal pou funerari que s'endinsa al fons de l'antiga zona de piràmides d'Abusir. També investiguen la luxosa tomba d'un membre de l'elit situada prop de la piràmide del faraó Djedkare a Saqqara, i excaven la tomba llargament perduda del faraó Sahuré, l'única tomba piràmide que encara no s'ha explorat mai.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
       {
         "start": "2026-08-22T19:23:13+02:00",
         "stop": "2026-08-22T20:16:39+02:00",
@@ -139,6 +130,15 @@
         "description": "El planeta s'escalfa i el gel dels tres pols -l'Àrtic, l'Antàrtida i l'Himàlaia- es desfà tan de pressa que té unes conseqüències transcendentals. Les extraordinàries persones que viuen i treballen en aquests indrets ens revelen com la ciència, la natura i els coneixements tradicionals ens poden preparar per a un futur que canvia ràpidament.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
+      },
+      {
+        "start": "2026-08-22T20:16:39+02:00",
+        "stop": "2026-08-22T20:59:50+02:00",
+        "title": "Els rius navegables d'Europa",
+        "subtitle": "De la badia de Gdansk al districte dels llacs de Masúria",
+        "description": "Explorant Polònia per les vies fluvials d'Europa: començant des de la península de Hel, el viatge recorre el mar Bàltic fins a la ciutat hanseàtica de Gdansk, després continua pel Vístula i el canal d'Elblag fins al districte dels llacs de Masúria.La península de Hel, amb les seves platges de sorra blanca i boscos de pins d'un verd intens, acull un institut de recerca que estudia la vida al mar Bàltic, i un centre de cria de foques. A l'altra banda de la badia es troba la ciutat hanseàtica de Gdansk. Naveguem entre drassanes i antics edificis d'oficines, continuem pel Vístula i el canal d'Oberland cap a les muntanyes Rollberge, on els vaixells avancen per terra en vies de ferrocarril, en una obra històrica d'enginyeria.A la universitat d'Olstyn, la capital de Masúria, la Renata Augustyniak investiga amb èxit nous mètodes per recuperar els llacs contaminats. El viatge continua cap a l'est i arriba al riu més net del país, el Krutynia. Aquí hi ha un centre de rehabilitació per cigonyes, l'animal heràldic del país. Amb el guardabosc i fotògraf de la natura Waldemar Bzura descobrirem la rica vida salvatge de Masúria i les illes flotants de la reserva natural de Zakret, precioses amb la boira del matí.A la vora del llac Beldany, Moussa Bah, un veterinari de Mali, cria els cavalls salvatges 'Koniks', per encàrrec de l'Acadèmia Polonesa de Ciències. La seva companya, la cuidadora d'animals Marlena Boron, s'encarrega de la cria de castors al centre. Amb un veler, el viatge continua, passant per Mikolaiky, fins al canal de Masúria.Uns quilòmetres abans de la frontera russa, coneixem la pescadora Marta Gottwald, campiona del món de la seva disciplina, mentre s'entrena. El recorregut acaba en una gran resclosa de l'època nazi, convertida en una instal·lació d'escalada iaventura, per a atletes amb ganes de passar-s'ho bé i sense vertigen.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/3/1784274800434.jpg"
       }
     ],
     "oca1": [],
