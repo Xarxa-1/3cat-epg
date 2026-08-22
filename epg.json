@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T19:44:49.744439+00:00",
+  "updated": "2026-08-22T19:59:30.027970+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -123,20 +123,20 @@
     ],
     "c33": [
       {
-        "start": "2026-08-22T21:06:29+02:00",
-        "stop": "2026-08-22T21:56:27+02:00",
-        "title": "Gent de món",
-        "subtitle": "Miami i Haití",
-        "description": "Avui navegarem des de Miami fins a Haití pel mar del Carib a bord de l'Allure of the Seas, un dels creuers més grans del món. Una de les màquines de divertiment més extraordinàries que ha creat l'home. Una mena de paradís artificial pensat perquè el viatger oblidi els problemes del món real, perquè s'abandoni a la il·lusió de viure en un món perfecte on tot és net i nou i tothom et somriu. Un lloc creat per no perdre el temps pensant en les preocupacions... ni en res. Un paradís flotant on no hem de fer res més que divertir-nos i descansar. Divertir-nos i descansar fins que quedem totalment extenuats.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
         "start": "2026-08-22T21:56:27+02:00",
         "stop": "2026-08-22T22:54:55+02:00",
         "title": "Els caps de setmana llargs d'en Rick Stein",
         "subtitle": "Reykjavík",
         "description": "En Rick Stein va a Reykjavík al pic de l'hivern, a la recerca del bacallà perfecte, i farà diverses excursions fora vila, envoltat d'un paisatge glaçat. Es banyarà en una piscina termal a l'aire lliure, visitarà l'espectacular Strokkur, un dels guèisers més actius del país, i tastarà un pa de sègol cuit amb sorra volcànica. A la seva cuina de Padstow, ens farà un gratinat de bacallà amb salsa bearnesa, costelles de xai arrebossades, amb col llombarda especiada i nabius, i una sopa d'escamarlans molt bona.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T22:54:55+02:00",
+        "stop": "2026-08-22T23:54:15+02:00",
+        "title": "Els caps de setmana llargs d'en Rick Stein",
+        "subtitle": "Bordeus",
+        "description": "En Rick visita Bordeus a l'època de la verema. Visita diferents restaurants on menja des d'un plat emblemàtic de la ciutat a un menú del dia en un modest restaurant de poble, passant per un menú sorpresa modern i innovador, una 'côte de bœuf' molt especial en una vinya, o un àpat de musclos a la vora del mar. Entre àpat i àpat, visita algunes vinyes del país, un mercat i fa un tast de vins.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
