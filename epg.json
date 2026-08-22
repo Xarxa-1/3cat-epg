@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T08:55:37.571457+00:00",
+  "updated": "2026-08-22T09:23:13.672317+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-22T09:18:56+02:00",
-        "stop": "2026-08-22T10:58:18+02:00",
-        "title": "Futbol",
-        "subtitle": "Trofeu Joan Gamper: FC Barcelona-Brighton & Hove Albion Women FC",
-        "description": "Des de l'Estadi Johan Cruyff, el partit corresponent a la cinquena edició del Trofeu Joan Gamper femení.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/7/1785417246971.jpg"
-      },
-      {
-        "start": "2026-08-22T10:58:18+02:00",
-        "stop": "2026-08-22T12:39:50+02:00",
+        "start": "2026-08-22T10:58:20+02:00",
+        "stop": "2026-08-22T12:39:53+02:00",
         "title": "Futbol",
         "subtitle": "FC Barcelona - Al-Ahly / Trofeu Joan Gamper",
         "description": "La 61a edició del Gamper té com a rival l'equip l'Al-Ahly. El conjunt del Caire ha guanyat 12 vegades la Champions d'Àfrica i suma 45 lligues d'Egipte. És la primera vegada que el Gamper té la presència d'un equip africà.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.3cat.cat/multimedia/jpg/8/0/1785230848208.jpg"
+      },
+      {
+        "start": "2026-08-22T12:39:53+02:00",
+        "stop": "2026-08-22T14:12:47+02:00",
+        "title": "Onze",
+        "subtitle": "Julián Álvarez, engarjolat",
+        "description": "'Atlètic de Madrid ha reiterat que no traspassarà el davanter argentí al Barça. Busquem la reacció des de la capital espanyola amb David Sánchez i, des del plató, hi diuen la seva Juli Garcia, Laia Cervelló, David Ibañez i Santi Ovalle. Marc Cornet condueix un Onze que també ha comptat amb la Clau Delmàs, el Colegiado Joan Fàbregas i l'Òscar Nin.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-22T10:51:57+02:00",
-        "stop": "2026-08-22T11:11:54+02:00",
+        "start": "2026-08-22T11:11:55+02:00",
+        "stop": "2026-08-22T11:32:55+02:00",
         "title": "Espies de veritat",
-        "subtitle": "Ha nascut una espia (II)",
-        "description": "El malvat cineasta Lumiere rapta Alex i fa xantatge a Clover i Sam. Si volen tornar a veure la seva companya viva hauran d'actuar en la seva nova pel·lícula d'espies. Per tant, es veuen obligades a solucionar una sèrie de pistes afrontant perills, mentre Lumiere les filma. Sam intenta encobrir el misteri del seu 'admirador secret'.",
+        "subtitle": "La mòmia",
+        "description": "Les espies viatgen a Egipte per investigar uns fets estranys que han passat en una piràmide. Descobreixen la conspiració d'un malvat arqueòleg i ressusciten una antiga maledicció egípcia, i així eviten que l'home pugui adquirir el poder etern i l'habilitat de convocar mòmies. D'altra banda, la Clover troba l'estimat anell de diamants de la Mandy i s'enfronta al dilema de tornar-li o no.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-08-22T11:11:54+02:00",
-        "stop": "2026-08-22T11:32:54+02:00",
+        "start": "2026-08-22T11:32:55+02:00",
+        "stop": "2026-08-22T11:54:59+02:00",
         "title": "Espies de veritat",
-        "subtitle": "La mòmia",
-        "description": "Les espies viatgen a Egipte per investigar uns fets estranys que han passat en una piràmide. Descobreixen la conspiració d'un malvat arqueòleg i ressusciten una antiga maledicció egípcia, i així eviten que l'home pugui adquirir el poder etern i l'habilitat de convocar mòmies. D'altra banda, la Clover troba l'estimat anell de diamants de la Mandy i s'enfronta al dilema de tornar-li o no.",
+        "subtitle": "LA PERRUQUERIA DIABÒLICA",
+        "description": "Les noies investiguen el propietari d'una perruqueria diabòlica que utilitza una fórmula especial perquè els cabells dels seus clients creixin d'una forma desorbitada. El seu propòsit és fer perruques. L'únic problema és que la fórmula absorbeix la vida dels clients durant el procés. D'altra banda, les noies planegen una festa sorpresa per celebrar l'aniversari d'en Jerry.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T10:08:54+02:00",
-        "stop": "2026-08-22T11:02:42+02:00",
-        "title": "El Foraster",
-        "subtitle": "Vall de Cardós",
-        "description": "A Vall de Cardós (Pallars Sobirà) la vida transcorre entre muntanyes i silenci, i sota una sentència que defineix el tarannà dels que hi viuen: 'Per ser de la vall de Cardós, has d'haver nascut a la vall de Cardós, patit a la vall de Cardós i mort a la vall de Cardós.'En Quim es trobarà en Charlie, un home de ràdio peculiar que amaga un autèntic museu surrealista al traster; la Conxita, que als 91 anys ha arribat a una conclusió fonamentada i contundent sobre Déu, i la Carmen i en Clive, una parella que es van conèixer a Austràlia i que li explicaran com van reconstruir la seva vida a la vall després d'uns temps difícils.També parlarà amb el mossèn, que sembla custodiar els secrets de tots els pobles veïns, fins i tot els de Tor, i descobrirà un taller mecànic únic on en Cisco i en Juanito li explicaran una història increïble sobre el més enllà.En Quim també acompanyarà l'Anna en una ruta escolar plena de revolts, fauna i criatures, es deixarà portar per una teràpia poc convencional amb l'Enric i el seu ramat de cabres i, finalment, l'Àngel el convidarà a casa seva, al cim del Pui Tabaca, per delectar-se amb unes vistes úniques.",
-        "genre": "VARIETATS",
-        "image": ""
-      },
-      {
         "start": "2026-08-22T11:02:42+02:00",
         "stop": "2026-08-22T11:57:49+02:00",
         "title": "Experiència Catalana",
         "subtitle": "Trevor i Cori",
         "description": "La Ivana Miño acompanya en Trevor i la Cori, una simpàtica parella nord-americana, per diferents indrets de l'Alt Empordà i de la Garrotxa. Allá tasten la millor gastronomia mediterrània i viuen moments molt emotius.",
+        "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T11:57:49+02:00",
+        "stop": "2026-08-22T12:50:17+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Allan",
+        "description": "Amb l'Allan Edward Hinton viatgem pel Pallars Jussà i la Noguera. Aquest experimentat viatger descobreix, amb la Ivana Miño, l'especial gastronomia de la zona i algun dels paisatges més espectaculars de Catalunya.",
         "genre": "ALTRES",
         "image": ""
       }
