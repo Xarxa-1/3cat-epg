@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T13:52:24.879575+00:00",
+  "updated": "2026-08-22T14:16:09.924604+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T15:43:21+02:00",
-        "stop": "2026-08-22T15:56:27+02:00",
-        "title": "Les Sisters",
-        "subtitle": "El meu regne per un 'utògraf'!",
-        "description": "La Marine i la Wendy senten per la tele que l'estrella Joy D firmarà autògrafs en una sala de festes de Pom-les-Bains. Per desgràcia, els seus pares no les hi poden portar perquè la mare treballa a l'hospital i el pare té una reunió amb el seu editor per ensenyar-li uns dibuixos. Per solucionar-ho, les dues germanes faran tot el possible per anul·lar la reunió del seu pare.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
-        "start": "2026-08-22T15:56:27+02:00",
-        "stop": "2026-08-22T16:38:50+02:00",
+        "start": "2026-08-22T15:56:28+02:00",
+        "stop": "2026-08-22T16:38:51+02:00",
         "title": "Doraemon: La gran batalla! Gats robot contra gossos robot",
         "subtitle": "Doraemon: La gran batalla! Gats robot contra gossos robot",
         "description": "DORAEMON: LA GRAN BATALLA! GATS ROBOT CONTRA GOSSOS ROBOT 'Kessen! Neko-gata robotto vs inu-gata robotto'Direcció: Sôichirô ZenGuió: Fujio F. FujikoProducció: Asatsu-DK, Bakugan Zoobles Comics, Dongwon Films, KBSAny: 2010Durada: 43País: JapóMúsica: Kan SawadaFotografia: AnimacióEl dia de l'aniversari d'en Doraemon, el professor li ordena a en Nobita que repeteixi tots els deures d'estiu perquè no ha encertat ni una resposta. Quan arriba a casa, en Nobita hi troba un gos robot que l'obliga a fer els deures. Mentrestant, en el futur s'estan substituint els gats robot per gossos robot perquè s'ha filtrat un informe que, posant en Nobita d'exemple, demostra el baix rendiment dels gats robot.",
         "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
         "image": "https://img.3cat.cat/multimedia/jpg/7/7/1786541412977.jpg"
+      },
+      {
+        "start": "2026-08-22T16:38:51+02:00",
+        "stop": "2026-08-22T16:49:49+02:00",
+        "title": "Ideafix i els irreductibles",
+        "subtitle": "Roma a la Cova del Gamarús",
+        "description": "En Voldenix vol regalar un collaret a la seva estimada Dormimatina i enreda la Irreductible Turbina perquè vagi al palau de La Lloba a pispar el collaret nou de la Monalisa. Vol fer-ne una còpia mitjançant una poció de les seves i tornar l'original a la gata romana. Però com diu la Turbina, en Voldenix és tan dolent fabricant pocions com fent versos.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T15:35:24+02:00",
-        "stop": "2026-08-22T16:01:27+02:00",
-        "title": "Els hotels més remots del món",
-        "subtitle": "Qasr Al Sarab d'Anantara - Emirats Àrabs Units",
-        "description": "Enclavat en una vall desèrtica enmig d'immenses dunes, i davant d'unes salines, l'hotel destaca amb les seves torres de pedra, grans enreixats i fonts d'aigua, recordant una antiga fortalesa àrab. Qasr Al Sarab és pràcticament l'única estructura en un radi de diversos quilòmetres: un vaixell solitari a la deriva en un mar de sorra. L'hotel, per tant, ha de satisfer les seves pròpies necessitats. L'hotel recicla tota la seva aigua, té la seva pròpia planta de tractament i fins i tot cultiva les seves pròpies fruites i verdures en un hivernacle al desert. Va ser elegit com el gran hotel més sostenible del món l'any 2022.",
+        "start": "2026-08-22T16:01:28+02:00",
+        "stop": "2026-08-22T17:00:28+02:00",
+        "title": "Rick Stein: De Venècia a Istanbul",
+        "subtitle": "Turquía",
+        "description": "Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-22T16:01:27+02:00",
-        "stop": "2026-08-22T17:00:27+02:00",
-        "title": "Rick Stein: De Venècia a Istanbul",
-        "subtitle": "Turquía",
-        "description": "Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.",
+        "start": "2026-08-22T17:00:28+02:00",
+        "stop": "2026-08-22T17:53:20+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "El Perche",
+        "description": "En Laurent fa el pastís Tatin seguint la recepta original. I la seva mare fa unes polpetes de vedella amb sidra, amb xampinyons i amb gran varietat de carns. L'Odile fa una coca de ceps amb carn de senglar, vi blanc i calvados. En Jean-François va començar fent sidra amb una premsa manual i ara es dedica a la venta de sidra i calvados. La Mireille fa un pollastre de pagès flamejat amb calvados i guisat amb pomes i sidra.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
