@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T10:17:44.459863+00:00",
+  "updated": "2026-08-22T10:48:00.926710+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -44,7 +44,7 @@
     "tv3": [
       {
         "start": "2026-08-22T12:00:00+02:00",
-        "stop": "2026-08-22T12:35:38+02:00",
+        "stop": "2026-08-22T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,13 +52,13 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-22T12:35:30+02:00",
-        "stop": "2026-08-22T14:29:57+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-08-22T14:30:00+02:00",
+        "stop": "2026-08-22T15:32:26+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "324": [
@@ -83,40 +83,40 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-22T10:58:20+02:00",
-        "stop": "2026-08-22T12:39:53+02:00",
-        "title": "Futbol",
-        "subtitle": "FC Barcelona - Al-Ahly / Trofeu Joan Gamper",
-        "description": "La 61a edició del Gamper té com a rival l'equip l'Al-Ahly. El conjunt del Caire ha guanyat 12 vegades la Champions d'Àfrica i suma 45 lligues d'Egipte. És la primera vegada que el Gamper té la presència d'un equip africà.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/8/0/1785230848208.jpg"
-      },
-      {
-        "start": "2026-08-22T12:39:53+02:00",
-        "stop": "2026-08-22T14:12:47+02:00",
+        "start": "2026-08-22T12:39:56+02:00",
+        "stop": "2026-08-22T14:12:49+02:00",
         "title": "Onze",
         "subtitle": "Julián Álvarez, engarjolat",
         "description": "'Atlètic de Madrid ha reiterat que no traspassarà el davanter argentí al Barça. Busquem la reacció des de la capital espanyola amb David Sánchez i, des del plató, hi diuen la seva Juli Garcia, Laia Cervelló, David Ibañez i Santi Ovalle. Marc Cornet condueix un Onze que també ha comptat amb la Clau Delmàs, el Colegiado Joan Fàbregas i l'Òscar Nin.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+      },
+      {
+        "start": "2026-08-22T14:12:49+02:00",
+        "stop": "2026-08-22T14:44:39+02:00",
+        "title": "Crackòvia",
+        "subtitle": "",
+        "description": "El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.",
+        "genre": "GAGS. HUMOR",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-22T12:14:54+02:00",
-        "stop": "2026-08-22T12:21:24+02:00",
+        "start": "2026-08-22T12:47:23+02:00",
+        "stop": "2026-08-22T12:53:52+02:00",
         "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Robatori, gallines i xocolata",
-        "description": "En Grizzy troba una caixa gegant plena de crema de xocolata al voral de la carretera. L'os intenta dur discretament el botí a la cabana sense que se n'adonin els Lèmmings, però acaben descobrint el seu estratagema. En Grizzy aconsegueix fer fora els Lèmmings, però sap que és només una solució temporal. Ha de trobar un sistema eficaç de protecció contra els rosegadors i decideix utilitzar com a sistema d'alarma una gallina que confon els pots de crema de xocolata pels seus ous.",
+        "subtitle": "Lèmmings esmaixadors",
+        "description": "La marca de crema de cacau amb avellanes preferida d'en Grizzy i els lèmmings ha organitzat un gran concurs en què el premi és un pot de crema de cacau gegant. Per emportar-se'l, cal encertar deu pilotes seguides en una cistella de bàsquet situada per a l'ocasió a l'aparcament del supermercat. D'entrada, sembla fàcil, però la competència entre els lèmmings i en Grizzy és ferotge.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T12:21:24+02:00",
-        "stop": "2026-08-22T12:27:53+02:00",
+        "start": "2026-08-22T12:53:52+02:00",
+        "stop": "2026-08-22T13:01:02+02:00",
         "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Os volador",
-        "description": "Els lèmmings han aconseguit uns imants que fan levitar els objectes on s'enganxen. Com no podria ser d'una altra manera, en Grizzy n'és la primera víctima: el fan fora de la cabana a bord del seu sofà transformat en ovni. Però durant l'aterratgeen Grizzy descobreix per casualitat que l'imant que du enganxat al front li permet volar com en Peter Pan. Això segur que encaterinarà la seva Wendy plantígrada particular.",
+        "subtitle": "La cabana dels focs artificials",
+        "description": "De nit, quan en Grizzy intenta dormir sent molt d'enrenou fora de la cabana: els Lèmmings llisquen per la Gran Muralla sobre una caixa propulsada per coets. Mentre eviten els estratagemes d'en Grizzy per detenir-los, els Lèmmings activen per accident el mecanisme d'una torre que obre una habitació secreta. L'habitació és plena de canons i catapultes que els petits aprenents d'artificier no dubten a utilitzar...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
