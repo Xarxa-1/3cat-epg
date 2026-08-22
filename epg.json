@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T18:56:48.011393+00:00",
+  "updated": "2026-08-22T19:21:51.256738+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-22T20:23:59+02:00",
-        "stop": "2026-08-22T21:00:00+02:00",
-        "title": "Atrapa'm si pots. Els millors moments.",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
-        "image": ""
-      },
-      {
         "start": "2026-08-22T21:00:00+02:00",
         "stop": "2026-08-22T22:00:25+02:00",
         "title": "Telenotícies vespre",
@@ -59,18 +50,18 @@
         "description": "",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+      },
+      {
+        "start": "2026-08-22T22:00:25+02:00",
+        "stop": "2026-08-22T22:51:38+02:00",
+        "title": "Celebrem!",
+        "subtitle": "El dia sense por",
+        "description": "En aquest capítol s'ha proposat foragitar tota mena de pors. Per això celebra el dia sense por. Els convidats que no han tingut cap por de ser al programa són l'actriu i directora Leticia Dolera, l'actor Jordi Vilches i la cantant Beth Rodergas. L'actuació anirà a càrrec de la companyia de dansa de Roser López Espinosa. I el joc d'aquest dia sense por voldrà saber qui té menys por de tot Catalunya. El programa acabarà amb la secció habitual de l'Adriana Fuertes, amb un famós disfressat.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
-      {
-        "start": "2026-08-22T20:00:00+02:00",
-        "stop": "2026-08-22T21:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-08-22T21:00:00+02:00",
         "stop": "2026-08-22T23:00:00+02:00",
@@ -79,6 +70,15 @@
         "description": "",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+      },
+      {
+        "start": "2026-08-22T23:00:00+02:00",
+        "stop": "2026-08-23T00:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
@@ -103,41 +103,41 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T20:38:54+02:00",
-        "stop": "2026-08-22T21:00:03+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Alerta Espòiler",
-        "description": "Henry i Ray han de enfrontar-se a un nou villà especialment molest, el Spoiler. La Piper és portada al seu límit mentre intenta unir-se a un popular club de fans del Capità Man.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-22T21:21:03+02:00",
+        "stop": "2026-08-22T21:41:12+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Que llestos, els elefants!",
+        "description": "Els germans Kratt i tot l'equip se'n van a l'Àsia per estudiar les diferències entre els dos grans tipus d'elefants: els asiàtics i els africans. Al mateix temps, es proposen fer un experiment per demostrar al Jimmy que són uns dels animals més intel·ligents del món i que tenen sentiments i emocions com les persones. Però mentrestant, s'hauran d'enfrontar amb la malvada Paisley Paviment, que amb el seu deliri per pavimentar i edificar, vol fer servir els elefants per dur a terme un dels seus projectes de construcció massiva en plena natura.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T21:00:03+02:00",
-        "stop": "2026-08-22T21:20:56+02:00",
+        "start": "2026-08-22T21:41:12+02:00",
+        "stop": "2026-08-22T22:02:15+02:00",
         "title": "Els germans Kratt",
-        "subtitle": "Ponis salvatges",
-        "description": "Els germans Kratt descobreixen un ramat de ponis salvatges a la platja. L'Aviva i la Koki tenen moltes ganes de veure'ls, però s'acosta una tempesta i el Jimmy els recomana que tornin a la nau. Una gran onada arriba a la platja i deixa un petit poni separat del ramat. El Chris i el Martin decideixen anar-lo a buscar i portar-lo amb la seva mare. Però el petit poni és molt espantadís i el seu rescat no serà gens fàcil. ",
+        "subtitle": "La succió de l'ós peresós",
+        "description": "Mentre l'equip Kratt és a l'Índia, la Mala, dels Amics dels Germans Kratt, els avisa que hi ha un animal en perill. És un animal molt curiós i, com que l'equip no sap ben bé si es tracta d'un os o d'un peresós, decideixen estudiar-lo a fons per aclarir-ho. Al mateix temps, tenen la missió de rescatar un exemplar que la Donita Donata ha capturat per provar uns pentinats nous amb el pèl tan particular que té aquest animal.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T20:16:39+02:00",
-        "stop": "2026-08-22T20:59:50+02:00",
-        "title": "Els rius navegables d'Europa",
-        "subtitle": "De la badia de Gdansk al districte dels llacs de Masúria",
-        "description": "Explorant Polònia per les vies fluvials d'Europa: començant des de la península de Hel, el viatge recorre el mar Bàltic fins a la ciutat hanseàtica de Gdansk, després continua pel Vístula i el canal d'Elblag fins al districte dels llacs de Masúria.La península de Hel, amb les seves platges de sorra blanca i boscos de pins d'un verd intens, acull un institut de recerca que estudia la vida al mar Bàltic, i un centre de cria de foques. A l'altra banda de la badia es troba la ciutat hanseàtica de Gdansk. Naveguem entre drassanes i antics edificis d'oficines, continuem pel Vístula i el canal d'Oberland cap a les muntanyes Rollberge, on els vaixells avancen per terra en vies de ferrocarril, en una obra històrica d'enginyeria.A la universitat d'Olstyn, la capital de Masúria, la Renata Augustyniak investiga amb èxit nous mètodes per recuperar els llacs contaminats. El viatge continua cap a l'est i arriba al riu més net del país, el Krutynia. Aquí hi ha un centre de rehabilitació per cigonyes, l'animal heràldic del país. Amb el guardabosc i fotògraf de la natura Waldemar Bzura descobrirem la rica vida salvatge de Masúria i les illes flotants de la reserva natural de Zakret, precioses amb la boira del matí.A la vora del llac Beldany, Moussa Bah, un veterinari de Mali, cria els cavalls salvatges 'Koniks', per encàrrec de l'Acadèmia Polonesa de Ciències. La seva companya, la cuidadora d'animals Marlena Boron, s'encarrega de la cria de castors al centre. Amb un veler, el viatge continua, passant per Mikolaiky, fins al canal de Masúria.Uns quilòmetres abans de la frontera russa, coneixem la pescadora Marta Gottwald, campiona del món de la seva disciplina, mentre s'entrena. El recorregut acaba en una gran resclosa de l'època nazi, convertida en una instal·lació d'escalada iaventura, per a atletes amb ganes de passar-s'ho bé i sense vertigen.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/3/1784274800434.jpg"
+        "start": "2026-08-22T21:06:28+02:00",
+        "stop": "2026-08-22T21:56:26+02:00",
+        "title": "Gent de món",
+        "subtitle": "Miami i Haití",
+        "description": "Avui navegarem des de Miami fins a Haití pel mar del Carib a bord de l'Allure of the Seas, un dels creuers més grans del món. Una de les màquines de divertiment més extraordinàries que ha creat l'home. Una mena de paradís artificial pensat perquè el viatger oblidi els problemes del món real, perquè s'abandoni a la il·lusió de viure en un món perfecte on tot és net i nou i tothom et somriu. Un lloc creat per no perdre el temps pensant en les preocupacions... ni en res. Un paradís flotant on no hem de fer res més que divertir-nos i descansar. Divertir-nos i descansar fins que quedem totalment extenuats.",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-08-22T20:59:50+02:00",
-        "stop": "2026-08-22T21:00:03+02:00",
-        "title": "SENSE FI CANAL 33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-08-22T21:56:26+02:00",
+        "stop": "2026-08-22T22:54:54+02:00",
+        "title": "Els caps de setmana llargs d'en Rick Stein",
+        "subtitle": "Reykjavík",
+        "description": "En Rick Stein va a Reykjavík al pic de l'hivern, a la recerca del bacallà perfecte, i farà diverses excursions fora vila, envoltat d'un paisatge glaçat. Es banyarà en una piscina termal a l'aire lliure, visitarà l'espectacular Strokkur, un dels guèisers més actius del país, i tastarà un pa de sègol cuit amb sorra volcànica. A la seva cuina de Padstow, ens farà un gratinat de bacallà amb salsa bearnesa, costelles de xai arrebossades, amb col llombarda especiada i nabius, i una sopa d'escamarlans molt bona.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
