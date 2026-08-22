@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T19:59:30.027970+00:00",
+  "updated": "2026-08-22T20:30:29.073839+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,20 +43,20 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-22T21:00:00+02:00",
-        "stop": "2026-08-22T22:00:25+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
-        "start": "2026-08-22T22:00:25+02:00",
-        "stop": "2026-08-22T22:51:38+02:00",
+        "start": "2026-08-22T22:00:20+02:00",
+        "stop": "2026-08-22T22:51:33+02:00",
         "title": "Celebrem!",
         "subtitle": "El dia sense por",
         "description": "En aquest capítol s'ha proposat foragitar tota mena de pors. Per això celebra el dia sense por. Els convidats que no han tingut cap por de ser al programa són l'actriu i directora Leticia Dolera, l'actor Jordi Vilches i la cantant Beth Rodergas. L'actuació anirà a càrrec de la companyia de dansa de Roser López Espinosa. I el joc d'aquest dia sense por voldrà saber qui té menys por de tot Catalunya. El programa acabarà amb la secció habitual de l'Adriana Fuertes, amb un famós disfressat.",
+        "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T22:51:33+02:00",
+        "stop": "2026-08-22T23:42:29+02:00",
+        "title": "De bon humor",
+        "subtitle": "Els monòlegs",
+        "description": "Poques arts escèniques han adquirit la condició de clàssiques en tan poc temps com els monòlegs, també coneguts com a Stand Up Comedy. El gran èxit del monòleg es deu al fet que tracta temes quotidians i d'actualitat de forma irònica, crítica i sovint descarnada.A més a més, el monòleg és una fórmula senzilla de presentar un espectacle. Amb un micròfon, gràcia i un bon guió n'hi ha prou per aconseguir el somriure del públic. En el capítol dedicat als monòlegs coneixerem diversos mestres d'aquest art. Anirem fins a Castellfollit del Boix per veure com el Quim Masferrer es prepara pel monòleg del programa El Foraster. Amb ell parlarem dels seus orígens, de la seva manera de fer i de les particularitats d'aquest monòleg televisiu on humor i emoció tenen paper a parts iguals. I del poble marxem cap a la gran ciutat, a l'Hospitalet de Llobregat per trobar-nos amb l'humorista Raül Alcaraz. Tot va començar quan va penjar al seu Facebook un enginyós monòleg sobre el particular accent de la gent de la seva ciutat i que en poca estona es va fer viral a través de WhatsApp. També anirem fins al cor del barri del Raval de Barcelona, on hi ha un petit gran teatre: El Llantiol, on cada nit hi actuen monologuistes. El Teatre Llantiol ha estat i segueix sent el planter i el primer escenari de molts dels monologuistes del nostre país. ",
         "genre": "ALTRES",
         "image": ""
       }
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T21:41:12+02:00",
-        "stop": "2026-08-22T22:02:15+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "La succió de l'ós peresós",
-        "description": "Mentre l'equip Kratt és a l'Índia, la Mala, dels Amics dels Germans Kratt, els avisa que hi ha un animal en perill. És un animal molt curiós i, com que l'equip no sap ben bé si es tracta d'un os o d'un peresós, decideixen estudiar-lo a fons per aclarir-ho. Al mateix temps, tenen la missió de rescatar un exemplar que la Donita Donata ha capturat per provar uns pentinats nous amb el pèl tan particular que té aquest animal.",
+        "start": "2026-08-22T22:23:40+02:00",
+        "stop": "2026-08-22T22:34:15+02:00",
+        "title": "Les filles del Dad",
+        "subtitle": "Tristament famosa",
+        "description": "Quan l'Ondine apareix a la portada d'una revista local, la noia ja es veu feta una estrella i fa passar a les seves germanes un autèntic infern. Però quan s'adoni de com és la celebritat a nivell local tornarà a tocar de peus a terra.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T22:02:15+02:00",
-        "stop": "2026-08-22T22:13:10+02:00",
-        "title": "Les filles del Dad",
-        "subtitle": "Cap de cartell",
-        "description": "El Fred, l'actor de teatre a qui la vida li somriu, sembla que pensa que el Dad és un fracassat, així que l'Ondine i les seves germanes ideen un pla: faran passar el Dad per un actor molt sol·licitat, amb falses fotografies de rodatges i presumptes trucades de directors famosos... El Dad es torna boig i el Lewis, el fill del Fred, comença a ensumar-se la jugada.",
+        "start": "2026-08-22T22:34:15+02:00",
+        "stop": "2026-08-22T22:45:11+02:00",
+        "title": "La tropa del corral",
+        "subtitle": "Atrapats",
+        "description": "La Tropa del Corral rep una trucada. L'Albert s'ha quedat amb atrapat dins d'un tub de paper de cuina. Surten disparats però, de sobte, la nova tanca que ha instal·lat el granger els atura. Cada cop que l'intenten travessar, salta l'alarma. Com que en Jo pot passar per sota dels rajos vermells i la Maggie els pot saltar, tots dos corren a ajudar l'Albert, mentre la Flo, en Clive i en Billy intenten trobar una manera de sortir de la granja.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
