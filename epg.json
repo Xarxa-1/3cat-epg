@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T08:22:41.974239+00:00",
+  "updated": "2026-08-22T08:55:37.571457+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T10:10:39+02:00",
-        "stop": "2026-08-22T10:30:53+02:00",
+        "start": "2026-08-22T10:51:57+02:00",
+        "stop": "2026-08-22T11:11:54+02:00",
         "title": "Espies de veritat",
-        "subtitle": "L'atac de l'home de gel",
-        "description": "Algú planeja congelar el món i retornar-lo a l'Edat de Gel, 'eradicant el mal que els humans han fet al medi ambient'. Clover s'enfronta a la seva reputació com una 'Reina del Gel'.",
+        "subtitle": "Ha nascut una espia (II)",
+        "description": "El malvat cineasta Lumiere rapta Alex i fa xantatge a Clover i Sam. Si volen tornar a veure la seva companya viva hauran d'actuar en la seva nova pel·lícula d'espies. Per tant, es veuen obligades a solucionar una sèrie de pistes afrontant perills, mentre Lumiere les filma. Sam intenta encobrir el misteri del seu 'admirador secret'.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-08-22T10:30:53+02:00",
-        "stop": "2026-08-22T10:51:56+02:00",
+        "start": "2026-08-22T11:11:54+02:00",
+        "stop": "2026-08-22T11:32:54+02:00",
         "title": "Espies de veritat",
-        "subtitle": "Ha nascut una espia (I)",
-        "description": "Les espies han de lluitar contra un home roí que fa abduccions de les grans estrelles del cinema per utilitzar-les a la seva pel·lícula, un film d'acció esbojarradament perillós. Sam és escollida la 'Més popular' a l'anuari de l'escola.",
+        "subtitle": "La mòmia",
+        "description": "Les espies viatgen a Egipte per investigar uns fets estranys que han passat en una piràmide. Descobreixen la conspiració d'un malvat arqueòleg i ressusciten una antiga maledicció egípcia, i així eviten que l'home pugui adquirir el poder etern i l'habilitat de convocar mòmies. D'altra banda, la Clover troba l'estimat anell de diamants de la Mandy i s'enfronta al dilema de tornar-li o no.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
