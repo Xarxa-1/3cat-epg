@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T22:16:34.437755+00:00",
+  "updated": "2026-08-22T22:46:26.266834+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-23T00:02:18+02:00",
-        "stop": "2026-08-23T00:30:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
         "start": "2026-08-23T00:30:00+02:00",
         "stop": "2026-08-23T04:30:00+02:00",
         "title": "Notícies 3CatInfo",
@@ -59,12 +50,21 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-23T04:30:00+02:00",
+        "stop": "2026-08-23T05:16:07+02:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Mar Serra Grup",
+        "description": "El quartet ens presenta el seu projecte Opus: un petit i particular viatge per la història de la música. A cavall entre el jazz fusió i la música contemporània, Mar Serra ens va endinsant en l'esperit mediterrani a partir de sonoritats com el flamenc o la música tradicional. El poder evocador del violí de Lluna Aragón, el motor del contrabaix de Franco Molinari, la bateria de Joan Vidal i la força del piano de Mar Serra ens descobreixen un llenguatge propi.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-22T23:00:00+02:00",
-        "stop": "2026-08-23T00:30:00+02:00",
+        "start": "2026-08-23T00:30:00+02:00",
+        "stop": "2026-08-23T01:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-23T00:30:00+02:00",
-        "stop": "2026-08-23T01:00:00+02:00",
+        "start": "2026-08-23T01:00:00+02:00",
+        "stop": "2026-08-23T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-22T23:26:00+02:00",
-        "stop": "2026-08-23T00:56:08+02:00",
+        "start": "2026-08-22T23:27:48+02:00",
+        "stop": "2026-08-23T00:57:57+02:00",
         "title": "Gol a gol",
         "subtitle": "Post Espanyol-R. Madrid / J2",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-08-23T00:56:08+02:00",
-        "stop": "2026-08-23T01:14:40+02:00",
+        "start": "2026-08-23T00:57:57+02:00",
+        "stop": "2026-08-23T01:16:29+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T00:10:55+02:00",
-        "stop": "2026-08-23T00:21:14+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "El calderó",
-        "description": "La Felicity coneix un follet que assegura que és el guardià del calderó de monedes d'or que hi ha al peu d'un arc iris que ella ha creat. Quan la gateta li diu que allà no hi ha cap calderó, el follet entra en una gran crisi existencial.",
+        "start": "2026-08-23T00:32:01+02:00",
+        "stop": "2026-08-23T00:53:08+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Startrain",
+        "description": "Els alumnes de l'institut agafen l'Startrain per anar a fer una visita escolar al Big Ben, a Londres. La conductora, la mare del Max, està esperant els resultats d'un examen molt important per poder ser astronauta, i un akuma perdut de l'Esfinx ho aprofita per dominar-la i fer sortir el tren volant cap a l'espai.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T00:21:14+02:00",
-        "stop": "2026-08-23T00:32:01+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "El canvi",
-        "description": "La Felicity té una crisi existencial perquè no sap qui és en realitat. El mateix dia, ella i el Miguel han d'anar a fer de cangurs de la filla d'uns metamòrfics, i resulta que la nena té els mateixos dilemes que la Felicity.",
+        "start": "2026-08-23T00:53:08+02:00",
+        "stop": "2026-08-23T01:13:46+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Caçadora de Kwamis",
+        "description": "La senyora Mendeleiev, la professora de ciències de l'institut on van els nostres protagonistes, para una trampa al Plagg i la Tikki per intentar demostrar l'existència d'aquestes criatures. Això fa que la Marinette i l'Adrien estiguin a punt de descobrir les identitats de Ladybug i el Gat Noir, cosa que els obligaria a renunciar als seus poders. Per sort, amb l'ajuda de tots els altres kwamis, la Marinette salva la situació.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T23:54:16+02:00",
-        "stop": "2026-08-23T00:46:12+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "La Droma provençal",
-        "description": "A la Droma provençal, l'Odile conrea moltes varietats d'espígol i en fa tisanes. La Isabelle fa un plat de pasta gratinada. La Frédérique, l'Arnaud i la Sophie són els darrers fabricants de cofins, uns cabassos d'espart per a premsar les olives. En Joël rosteix una pintada farcida d'olives negres i assaonada amb una salsa feta d'olives negres. L'Hervé conrea ametllers i la Virginie fa carquinyolis. En Jean-Luc fa confitura de nous verdes.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
-        "start": "2026-08-23T00:46:12+02:00",
+        "start": "2026-08-23T00:46:13+02:00",
         "stop": "2026-08-23T01:37:09+02:00",
         "title": "Els quaderns de cuina de la Julie",
         "subtitle": "La badia de Saint-Brieuc",
         "description": "En aquest episodi, la Julie visita la badia de de Saint-Brieuc, a les Costes d'Armor, a Brentanya. Amb en Jean prepara unes mongetes de Paimpol amb tres peixos. L'Alain, un pescador jubilat, li ensenya a fer unes cloïsses a la marinera. Finalment, amb la Yveline cuina un farz, un pastís bretó típic, amb prunes seques.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T01:37:09+02:00",
+        "stop": "2026-08-23T02:22:59+02:00",
+        "title": "Martin Clunes: Island of America",
+        "subtitle": " Puerto Rico, Geòrgia, Carolina del Nord i Virgínia",
+        "description": "Martin Clunes viatjarà fins a l'illa de Puerto Rico, on aprendrà a ballar salsa i visitarà una destil·leria de rom. Després pujarà per la costa est dels Estats Units fins a unes illes on els descendents dels esclaus encara mantenen vives les seves tradicions ancestrals. I, per acabar, visitarà unes illes de la costa de Virgínia, on cada any una manada de cavalls nedadors fa una travessa aquàtica única al món.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
