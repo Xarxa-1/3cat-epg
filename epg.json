@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T19:21:51.256738+00:00",
+  "updated": "2026-08-22T19:44:49.744439+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,15 +83,6 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-22T20:29:26+02:00",
-        "stop": "2026-08-22T21:25:00+02:00",
-        "title": "Esport Club Cap de Setmana",
-        "subtitle": "Esport Club",
-        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
-      },
-      {
         "start": "2026-08-22T21:25:00+02:00",
         "stop": "2026-08-22T23:06:29+02:00",
         "title": "Rugbi",
@@ -99,18 +90,18 @@
         "description": "Els de Perpinyà, que en el precedent d'Anglaterra van perdre per un ajustat 24 a 20, confien en aconseguir la victòria aquesta vegada. Amb la narració de Sebastià Girard.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.3cat.cat/multimedia/jpg/2/3/1771412542832.jpg"
+      },
+      {
+        "start": "2026-08-22T23:06:29+02:00",
+        "stop": "2026-08-22T23:26:00+02:00",
+        "title": "Zona Zàping Club",
+        "subtitle": "Gemma Mallorca, entre la intuïció i la casualitat",
+        "description": "La convidada accepta el desafiament del 'Zona Zàping Club' i descobrirà que res és tan evident com sembla a internet.",
+        "genre": "ESPECIALS",
+        "image": ""
       }
     ],
     "sx3": [
-      {
-        "start": "2026-08-22T21:21:03+02:00",
-        "stop": "2026-08-22T21:41:12+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Que llestos, els elefants!",
-        "description": "Els germans Kratt i tot l'equip se'n van a l'Àsia per estudiar les diferències entre els dos grans tipus d'elefants: els asiàtics i els africans. Al mateix temps, es proposen fer un experiment per demostrar al Jimmy que són uns dels animals més intel·ligents del món i que tenen sentiments i emocions com les persones. Però mentrestant, s'hauran d'enfrontar amb la malvada Paisley Paviment, que amb el seu deliri per pavimentar i edificar, vol fer servir els elefants per dur a terme un dels seus projectes de construcció massiva en plena natura.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
       {
         "start": "2026-08-22T21:41:12+02:00",
         "stop": "2026-08-22T22:02:15+02:00",
@@ -119,12 +110,21 @@
         "description": "Mentre l'equip Kratt és a l'Índia, la Mala, dels Amics dels Germans Kratt, els avisa que hi ha un animal en perill. És un animal molt curiós i, com que l'equip no sap ben bé si es tracta d'un os o d'un peresós, decideixen estudiar-lo a fons per aclarir-ho. Al mateix temps, tenen la missió de rescatar un exemplar que la Donita Donata ha capturat per provar uns pentinats nous amb el pèl tan particular que té aquest animal.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
+      },
+      {
+        "start": "2026-08-22T22:02:15+02:00",
+        "stop": "2026-08-22T22:13:10+02:00",
+        "title": "Les filles del Dad",
+        "subtitle": "Cap de cartell",
+        "description": "El Fred, l'actor de teatre a qui la vida li somriu, sembla que pensa que el Dad és un fracassat, així que l'Ondine i les seves germanes ideen un pla: faran passar el Dad per un actor molt sol·licitat, amb falses fotografies de rodatges i presumptes trucades de directors famosos... El Dad es torna boig i el Lewis, el fill del Fred, comença a ensumar-se la jugada.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-22T21:06:28+02:00",
-        "stop": "2026-08-22T21:56:26+02:00",
+        "start": "2026-08-22T21:06:29+02:00",
+        "stop": "2026-08-22T21:56:27+02:00",
         "title": "Gent de món",
         "subtitle": "Miami i Haití",
         "description": "Avui navegarem des de Miami fins a Haití pel mar del Carib a bord de l'Allure of the Seas, un dels creuers més grans del món. Una de les màquines de divertiment més extraordinàries que ha creat l'home. Una mena de paradís artificial pensat perquè el viatger oblidi els problemes del món real, perquè s'abandoni a la il·lusió de viure en un món perfecte on tot és net i nou i tothom et somriu. Un lloc creat per no perdre el temps pensant en les preocupacions... ni en res. Un paradís flotant on no hem de fer res més que divertir-nos i descansar. Divertir-nos i descansar fins que quedem totalment extenuats.",
@@ -132,8 +132,8 @@
         "image": ""
       },
       {
-        "start": "2026-08-22T21:56:26+02:00",
-        "stop": "2026-08-22T22:54:54+02:00",
+        "start": "2026-08-22T21:56:27+02:00",
+        "stop": "2026-08-22T22:54:55+02:00",
         "title": "Els caps de setmana llargs d'en Rick Stein",
         "subtitle": "Reykjavík",
         "description": "En Rick Stein va a Reykjavík al pic de l'hivern, a la recerca del bacallà perfecte, i farà diverses excursions fora vila, envoltat d'un paisatge glaçat. Es banyarà en una piscina termal a l'aire lliure, visitarà l'espectacular Strokkur, un dels guèisers més actius del país, i tastarà un pa de sègol cuit amb sorra volcànica. A la seva cuina de Padstow, ens farà un gratinat de bacallà amb salsa bearnesa, costelles de xai arrebossades, amb col llombarda especiada i nabius, i una sopa d'escamarlans molt bona.",
