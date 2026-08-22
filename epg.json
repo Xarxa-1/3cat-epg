@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T15:44:45.104485+00:00",
+  "updated": "2026-08-22T15:59:22.961279+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,15 +103,6 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-22T17:42:45+02:00",
-        "stop": "2026-08-22T17:54:29+02:00",
-        "title": "Ideafix i els irreductibles",
-        "subtitle": "La xarxa exprés romana",
-        "description": "L'arquitecte Semblangròpius instal·la una xarxa subterrània de carros de cavalls que passa per les catacumbes. Cada carro que hi passa fa trontollar Lutècia i el fràgil cau dels Irreductibles corre el risc d'ensorrar-se. Mentre l'Ideafix, la Turbina i el Devòrix baixen a les catacumbes per sabotejar la xarxa, l'Asmàtix es nega a abandonar els records del gran Camulogen i la Picarina s'afanya a convèncer-lo abans no sigui massa tard.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
         "start": "2026-08-22T17:54:29+02:00",
         "stop": "2026-08-22T18:01:24+02:00",
         "title": "En Grizzy i els Lèmmings",
@@ -119,24 +110,33 @@
         "description": "Els Lèmmings li agafen afecte a un cranc que està en perill a la platja i decideixen protegir-lo d'una gavina que el vol fer servir per obrir cocos. Quan el duen a casa, en Grizzy no està content, perquè ell vol tranquil·litat mentre mira la televisió i menja patates. Els Lèmmings es converteixen en autèntics rescatadors de crancs i la cabana s'omple de crustacis de seguida. En Grizzy decideix utilitzar una gavina per desfer-se dels crancs, però els Lèmmings, disposats a qualsevol cosa per protegir els seus nous amics, mouen la casa a l'aigua, com si fos una barca...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
+      },
+      {
+        "start": "2026-08-22T18:01:24+02:00",
+        "stop": "2026-08-22T18:07:54+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Ensinistrament digital",
+        "description": "Els Lèmmings juguen a capturar animals virtuals amb la seva tauleta per tota la cabana. Molest pel comportament dels rosegadors, en Grizzy els fa fora. Decidits a continuar el joc, però, els Lèmmings li paren un parany a l'os, però la tauleta impacta contra el disjuntor, explota i els animals del joc cobren vida! Dinosaures de glaç, caribús amb làsers, plantes carnívores gegants... La cacera a mida real ja pot començar!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-22T17:00:28+02:00",
-        "stop": "2026-08-22T17:53:20+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "El Perche",
-        "description": "En Laurent fa el pastís Tatin seguint la recepta original. I la seva mare fa unes polpetes de vedella amb sidra, amb xampinyons i amb gran varietat de carns. L'Odile fa una coca de ceps amb carn de senglar, vi blanc i calvados. En Jean-François va començar fent sidra amb una premsa manual i ara es dedica a la venta de sidra i calvados. La Mireille fa un pollastre de pagès flamejat amb calvados i guisat amb pomes i sidra.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
       {
         "start": "2026-08-22T17:53:20+02:00",
         "stop": "2026-08-22T18:38:13+02:00",
         "title": "Tresors perduts d'Egipte",
         "subtitle": "Alexandre el Gran",
         "description": "Diversos arqueòlegs investiguen el faraó més temut d'Egipte, el rei guerrer més famós de la història, Alexandre el Gran. A Saqqara, descobrim com es va convertir en faraó i com s'ho va fer per conquerir els cors i les ments dels egipcis. A Filadèlfia, un equip d'excavació descobreix una catacumba singular que revela el llegat del regnat d'Alexandre. I a Taposiris Magna, els arqueòlegs fan un descobriment sorprenent en una gran tomba-temple.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-22T18:38:13+02:00",
+        "stop": "2026-08-22T19:23:13+02:00",
+        "title": "Tresors perduts d'Egipte",
+        "subtitle": "Secrets de les piràmides perdudes",
+        "description": "Els arqueòlegs investiguen el llegat de les piràmides de Gizeh i de les misterioses piràmides que es van construir després. Busquen l'ocupant enigmàtic d'un colossal pou funerari que s'endinsa al fons de l'antiga zona de piràmides d'Abusir. També investiguen la luxosa tomba d'un membre de l'elit situada prop de la piràmide del faraó Djedkare a Saqqara, i excaven la tomba llargament perduda del faraó Sahuré, l'única tomba piràmide que encara no s'ha explorat mai.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
