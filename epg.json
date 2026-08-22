@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T15:15:25.938891+00:00",
+  "updated": "2026-08-22T15:44:45.104485+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,40 +83,40 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-22T15:49:44+02:00",
-        "stop": "2026-08-22T17:22:20+02:00",
-        "title": "El Fitxatge",
-        "subtitle": "El fitxatge",
-        "description": "Agost del 1973, Johan Cruyff -el millor futbolista del món- arriba a l'aeroport de Barcelona on una multitud d'aficionats el rep com un ídol. El Barça fa 14 anys que no guanya la Lliga. Darrera 'del fitxatge més car de la dècada' hi ha una història d'intriga política, investigacions internacionals, xantatges i un dur enfrontament entre clubs a porta tancada als afores d'Amsterdam.",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/0/1721633615501.jpg"
-      },
-      {
-        "start": "2026-08-22T17:22:20+02:00",
-        "stop": "2026-08-22T19:01:40+02:00",
+        "start": "2026-08-22T17:22:21+02:00",
+        "stop": "2026-08-22T19:01:41+02:00",
         "title": "Futbol",
         "subtitle": "Trofeu Joan Gamper: FC Barcelona-Brighton & Hove Albion Women FC",
         "description": "Des de l'Estadi Johan Cruyff, el partit corresponent a la cinquena edició del Trofeu Joan Gamper femení.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/1/7/1785417246971.jpg"
+      },
+      {
+        "start": "2026-08-22T19:01:41+02:00",
+        "stop": "2026-08-22T19:37:18+02:00",
+        "title": "Motocròs",
+        "subtitle": "Gran Premi dels Països Baixos / WMX Motocross World Championship / J1",
+        "description": "La catalana Daniela Guillén aspira a recuperar el liderat de la general a la penúltima prova del Campionat del Món de Motocròs.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/4/1779284574045.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-22T17:11:01+02:00",
-        "stop": "2026-08-22T17:21:41+02:00",
+        "start": "2026-08-22T17:42:45+02:00",
+        "stop": "2026-08-22T17:54:29+02:00",
         "title": "Ideafix i els irreductibles",
-        "subtitle": "Amb un Arcabús n'hi ha prou",
-        "description": "El Labiè fa engarjolar l'Ordralfabètix, acusat injustament d'haver robat un carregament de peix. Els Irreductibles malden per alliberar-lo, però una poció del Voldenix fa un clon de l'Arcabús que encara els complica més les coses. Finalment, l'Ordralfabètix es guanya la llibertat en un combat contra el gladiador Trencarròtulus.",
+        "subtitle": "La xarxa exprés romana",
+        "description": "L'arquitecte Semblangròpius instal·la una xarxa subterrània de carros de cavalls que passa per les catacumbes. Cada carro que hi passa fa trontollar Lutècia i el fràgil cau dels Irreductibles corre el risc d'ensorrar-se. Mentre l'Ideafix, la Turbina i el Devòrix baixen a les catacumbes per sabotejar la xarxa, l'Asmàtix es nega a abandonar els records del gran Camulogen i la Picarina s'afanya a convèncer-lo abans no sigui massa tard.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-22T17:21:41+02:00",
-        "stop": "2026-08-22T17:32:11+02:00",
-        "title": "Ideafix i els irreductibles",
-        "subtitle": "En Devòrix en rotació",
-        "description": "Convençut que la Vitamina el troba massa gras, en Devòrix es posa a dieta i fa exercici amb una roda gegant que l'arquitecte Semblangròpius ha fabricat per al general Labiè. Però el giny rodola sense aturador amb en Devòrix atrapat a dins!",
+        "start": "2026-08-22T17:54:29+02:00",
+        "stop": "2026-08-22T18:01:24+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Bojos pels crancs",
+        "description": "Els Lèmmings li agafen afecte a un cranc que està en perill a la platja i decideixen protegir-lo d'una gavina que el vol fer servir per obrir cocos. Quan el duen a casa, en Grizzy no està content, perquè ell vol tranquil·litat mentre mira la televisió i menja patates. Els Lèmmings es converteixen en autèntics rescatadors de crancs i la cabana s'omple de crustacis de seguida. En Grizzy decideix utilitzar una gavina per desfer-se dels crancs, però els Lèmmings, disposats a qualsevol cosa per protegir els seus nous amics, mouen la casa a l'aigua, com si fos una barca...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
