@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T19:33:08.668985+00:00",
+  "updated": "2026-08-23T19:55:04.365535+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T21:21:03+02:00",
-        "stop": "2026-08-23T21:41:13+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El Bernat Americà",
-        "description": "Explorant uns pantans, els germans Kratt troben un bernat americà i, com que és de color blau, el Martin està molt content. Tots plegats queden bocabadats amb les característiques i les habilitats d'aquest ocell; tots menys el Chris, que voldria un ocell verd per ell. L'equip Kratt es posa a estudiar a fons el bernat americà per fer-ne un disc de poder animal, però alhora també s'haurà d'enfrontar amb el Zach, que miniaturitza la nau Tortuga per quedar-se tots els invents de l'equip.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
         "start": "2026-08-23T21:41:13+02:00",
         "stop": "2026-08-23T22:03:33+02:00",
         "title": "Els germans Kratt",
         "subtitle": "Tria un peix espasa",
         "description": "L'Aviva és una mestra de l'esgrima i proposa als germans Kratt un repte: que triïn quin vestit de peix amb espasa prefereixen per fer un duel amb ella. L'equip aprofita l'ocasió per estudiar les semblances i les diferències entre tres tipus de peixos que tenen espasa al morro: el marlí, el peix vela i el peix espasa. Mentrestant, s'hauran d'enfrontar amb el Zach, que vol dur a terme un altre projecte malvat dels seus: capturar tots els peixos del món per vendre'ls i fer-se més ric.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T22:03:33+02:00",
+        "stop": "2026-08-23T22:14:28+02:00",
+        "title": "Les filles del Dad",
+        "subtitle": "Wifi i companyia",
+        "description": "És l'hora de la sacrosanta gravació del tutorial de l'Ondine... Però Internet ha caigut! La jove entra en pànic i molesta tothom mentre busca connexió: el seu pare, els veïns, la senyora Crochon! Però res! Desesperada, té la idea del segle: anar al Cookie Café a agafar wifi! La Panda empal·lideix quan la veuarribar, sobretot quan l'Ondine fa com si estigués a casa seva i posa els clientsa ratlla perquè no facin soroll i ella pugui gravar el tutorial.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
