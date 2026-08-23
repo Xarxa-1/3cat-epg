@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T22:49:50.327975+00:00",
+  "updated": "2026-08-23T23:16:08.880464+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T00:17:07+02:00",
-        "stop": "2026-08-24T01:00:00+02:00",
-        "title": "Coolhunters",
-        "subtitle": "La moda",
-        "description": "Què està realment de moda en el món de la moda? El Serapi sap quines són les tendències actuals? Té estil o només diu que en té? Hem volgut assegurar-nos que aprèn alguna cosa trucant l'Ana Murillas, que ha vestit artistes com Rosalía, Bad Gyal o Rels B. A més, anirà a una escola de models per saber quins són els fonaments per convertir-se en un model professional. I, finalment, s'enfrontarà a una desfilada amb un jurat especialista en el món de la moda i l'espectacle. Ah, sí, i el Patrick tindrà un cara a cara amb en Marc Giró, que evidentment no callarà davant cap de les seves preguntes. Un capítol amb riures assegurats.",
-        "genre": "GAGS. HUMOR",
-        "image": ""
-      },
-      {
         "start": "2026-08-24T01:00:00+02:00",
         "stop": "2026-08-24T01:30:00+02:00",
         "title": "Notícies 3CatInfo",
@@ -63,8 +54,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-24T00:30:00+02:00",
-        "stop": "2026-08-24T01:00:00+02:00",
+        "start": "2026-08-24T01:00:00+02:00",
+        "stop": "2026-08-24T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +63,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-24T01:00:00+02:00",
-        "stop": "2026-08-24T06:00:00+02:00",
+        "start": "2026-08-24T06:00:00+02:00",
+        "stop": "2026-08-24T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,17 +74,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T00:29:00+02:00",
-        "stop": "2026-08-24T00:54:49+02:00",
-        "title": "E3D",
-        "subtitle": "Hip-hop International 4",
-        "description": "Esport3 t'ofereix les millors retransmissions esportives en directe. Viu l'esport amb nosaltres!",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/8/1697728797885.jpg"
+        "start": "2026-08-24T01:12:17+02:00",
+        "stop": "2026-08-24T02:39:49+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Post Elx-Barça / J2",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-08-24T00:54:49+02:00",
-        "stop": "2026-08-24T01:12:08+02:00",
+        "start": "2026-08-24T02:39:49+02:00",
+        "stop": "2026-08-24T02:57:05+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,20 +94,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-24T00:33:49+02:00",
-        "stop": "2026-08-24T00:54:56+02:00",
+        "start": "2026-08-24T01:15:34+02:00",
+        "stop": "2026-08-24T01:36:28+02:00",
         "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Iraki Gozen",
-        "description": "A París s'organitza un joc de pistes per parelles, i el premi és saber on s'amaga l'Adrien Agreste. L'atzar fa que la Marinette s'hagi d'aparellar amb la Kagami, i el que al principi era una rivalitat oberta s'acaba convertint en el començament d'una bona amistat. L'Esfinx, sempre amatent, intentará fer servir els sentiments de la mare de la Kagami per sembrar el caos a la ciutat. ",
+        "subtitle": "L'aixafaguitarres",
+        "description": "Els amics de l'Adrien aprofiten que el seu pare se n'ha anat de viatge, o això es pensen, per organitzar una gran festa d'amics a casa seva. Hi va un munt de gent, però el Wayem es pensa que l'han deixat de banda, i l'Esfinx aprofitarà aquest sentiment per convertir-lo en un dels malvats més potents que ha creat mai.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-24T00:54:56+02:00",
-        "stop": "2026-08-24T01:15:34+02:00",
+        "start": "2026-08-24T01:36:28+02:00",
+        "stop": "2026-08-24T01:57:06+02:00",
         "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Timetagger",
-        "description": "Mentre Ladybug i el Gat Noir estan ocupats a destransformar el Senyor Colom, un cop més, apareix un personatge que ve del futur, enviat per l'Esfinx. És un malvat molt més poderós, perquè és un adult, i els nostres herois tenen problemes per derrotar-lo fins que apareix una nova superheroïna, l'Alyx del futur convertida en la Bunnyx.",
+        "subtitle": "La Titellaire 2",
+        "description": "L'Adrien ha d'anar al museu de cera perquè han de fer una reparació a la seva estàtua i convida el Nino a acompanyar-lo. El Nino convida l'Alya, que al seu torn convida la Marinette, que fa de cangur a la Manon. A la nena li fa la sensació que ningú li fa cas, i l'Esfinx aprofita aquest sentiment d'abandó per convertir-la un altre cop en la Titellaire.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
