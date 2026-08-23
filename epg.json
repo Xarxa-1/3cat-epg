@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T21:16:42.094020+00:00",
+  "updated": "2026-08-23T21:44:07.910406+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,22 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-23T22:48:03+02:00",
-        "stop": "2026-08-23T23:19:56+02:00",
-        "title": "Oh! Europa",
-        "subtitle": "Bèlgica",
-        "description": "Camí de Brussel.les, l'autocar té un petit accident. L'Enric en surt amb un bon cop al nas. El cura la Pepa i sembla que neix una atracció entre els dos divorciats. Junts visiten un amic de l'Enric, que treballa a la seu central de la Unió Europea. A la nit, l'Enric convida la Pepa a prendre una copa de xampany a la seva habitació... però res no surt com ell havia previst.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
-        "image": ""
-      },
-      {
-        "start": "2026-08-23T23:19:56+02:00",
-        "stop": "2026-08-24T00:17:05+02:00",
+        "start": "2026-08-23T23:19:57+02:00",
+        "stop": "2026-08-24T00:17:06+02:00",
         "title": "Vosaltres mateixos",
         "subtitle": "Infiltració sorpresa",
         "description": "El reporter d'investigació Carles Tamayo s'infiltra al programa com un membre (més) de l'equip sense que ni l'Andreu ni la majoria de companys ho sàpiguen.",
         "genre": "TALK-SHOW",
         "image": "https://img.ccma.cat/multimedia/png/6/6/1698344358966.png"
+      },
+      {
+        "start": "2026-08-24T00:17:06+02:00",
+        "stop": "2026-08-24T00:58:57+02:00",
+        "title": "Coolhunters",
+        "subtitle": "La moda",
+        "description": "Què està realment de moda en el món de la moda? El Serapi sap quines són les tendències actuals? Té estil o només diu que en té? Hem volgut assegurar-nos que aprèn alguna cosa trucant l'Ana Murillas, que ha vestit artistes com Rosalía, Bad Gyal o Rels B. A més, anirà a una escola de models per saber quins són els fonaments per convertir-se en un model professional. I, finalment, s'enfrontarà a una desfilada amb un jurat especialista en el món de la moda i l'espectacle. Ah, sí, i el Patrick tindrà un cara a cara amb en Marc Giró, que evidentment no callarà davant cap de les seves preguntes. Un capítol amb riures assegurats.",
+        "genre": "GAGS. HUMOR",
+        "image": ""
       }
     ],
     "324": [
@@ -83,40 +83,40 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-23T21:25:11+02:00",
-        "stop": "2026-08-23T23:28:09+02:00",
-        "title": "Un dia de partit",
-        "subtitle": "Elx-Barça",
-        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
-      },
-      {
-        "start": "2026-08-23T23:28:09+02:00",
-        "stop": "2026-08-24T00:27:04+02:00",
+        "start": "2026-08-23T23:30:04+02:00",
+        "stop": "2026-08-24T00:28:59+02:00",
         "title": "E3D",
         "subtitle": "Hip-hop International 1",
         "description": "L'Olímpic Arena de Badalona és l'escenari d'aquest festival de dansa urbana amb la participació de 2 mil ballarins en totes les categories. En joc, el títol de campions d'Espanya i la classificació per al Mundial que es farà, aquest estiu, a la ciutat estatunidenca de Phoenix.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.3cat.cat/multimedia/jpg/5/3/1776942101335.jpg"
+      },
+      {
+        "start": "2026-08-24T00:28:59+02:00",
+        "stop": "2026-08-24T00:54:48+02:00",
+        "title": "E3D",
+        "subtitle": "Hip-hop International 4",
+        "description": "Esport3 t'ofereix les millors retransmissions esportives en directe. Viu l'esport amb nosaltres!",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/8/1697728797885.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-23T23:08:26+02:00",
-        "stop": "2026-08-23T23:19:14+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "Els tres treballs de la Tropa del Corral",
-        "description": "Un dels cadells d'en Sam ha llençat la sabatilla de l'amo al carrer, i ara l'Esther pensa que és un objecte sagrat. Diu que no els la pensa tornar fins que la Tropa no completi tres tasques inversemblants, però llavors canvia d'opinió...",
+        "start": "2026-08-23T23:41:16+02:00",
+        "stop": "2026-08-23T23:52:05+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "Amb dents i ungles",
+        "description": "A la Felicity està a punt de caure-li una dent i té por que li faci mal. El Miguel l'anima dient-li que la posarà sota el coixí i la fada dents de sabre li deixarà monedes d'or. Però vet aquí que hi ha un lladre que està robant les monedes a tothom.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T23:19:14+02:00",
-        "stop": "2026-08-23T23:30:09+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "El príncep de la foscor",
-        "description": "En Prince truca la Tropa perquè l'ajudin a desfer-se d'un ratolí que ha vist a casa. Mentre part del grup l'intenta trobar, l'altra mira d'ajudar en Prince a redescobrir els seus instints felins. Serà una missió complicada.",
+        "start": "2026-08-23T23:52:05+02:00",
+        "stop": "2026-08-24T00:02:24+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "El retorn de la poderosa meu i el superlluita",
+        "description": "La Felicity fa sortir la seva doble malvada de dins de la llegendària Roca del Mirall i causa estralls per tot Mitelàndia. L'única manera que se'ls acut a ella i al Miguel d'aturar la doble és transformar-se en la Poderosa Meu i el Superlluita.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
