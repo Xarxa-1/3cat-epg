@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T06:03:05.317419+00:00",
+  "updated": "2026-08-23T06:59:49.347298+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,54 +83,45 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-23T06:59:23+02:00",
-        "stop": "2026-08-23T08:34:51+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Post Espanyol-R. Madrid / J2",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
-      },
-      {
-        "start": "2026-08-23T08:34:51+02:00",
-        "stop": "2026-08-23T09:07:14+02:00",
+        "start": "2026-08-23T08:34:52+02:00",
+        "stop": "2026-08-23T09:07:15+02:00",
         "title": "Zona Zàping Club",
         "subtitle": "Gemma Mallorca, entre la intuïció i la casualitat",
         "description": "La convidada accepta el desafiament del 'Zona Zàping Club' i descobrirà que res és tan evident com sembla a internet.",
         "genre": "ESPECIALS",
         "image": ""
+      },
+      {
+        "start": "2026-08-23T09:07:15+02:00",
+        "stop": "2026-08-23T10:59:17+02:00",
+        "title": "Rugbi",
+        "subtitle": "Dracs Catalans-Hull FC / Super League / J24",
+        "description": "Els de Perpinyà, que en el precedent d'Anglaterra van perdre per un ajustat 24 a 20, confien en aconseguir la victòria aquesta vegada. Amb la narració de Sebastià Girard.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/3/1771412542832.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-23T07:56:47+02:00",
-        "stop": "2026-08-23T08:06:48+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "La cançó del petit mariner",
-        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
+        "start": "2026-08-23T08:51:39+02:00",
+        "stop": "2026-08-23T09:03:42+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva l'hipopòtam d'en Danny l'Audaç",
+        "description": "En Raimundo va cap a la ciutat de amb els seus hipopòtams per muntar el circ, però abans d'arribar-hi en perd un! Què faran, ara?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T08:06:48+02:00",
-        "stop": "2026-08-23T08:19:22+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "Jugar sense parar",
-        "description": "Sigui a jocs de taula, jocs tradicionals o jocs inventats, el Mic i els seus amics sempre estan a punt per jugar! ",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "start": "2026-08-23T09:03:42+02:00",
+        "stop": "2026-08-23T09:45:56+02:00",
+        "title": "Doraemon: El teixó colossal d'una nit d'estiu",
+        "subtitle": "Doraemon: El teixó colossal d'una nit d'estiu",
+        "description": "Per tenir un bon record dels últims dies de les vacances d'estiu, en Nobita i la seva colla construeixen una cabana en un arbre. L'endemà al matí, però, se la troben destrossada. Els amics decideixen posar trampes al voltant de l'arbre per capturar-ne el responsable, que resulta ser una sangonera alienígena que parasita les seves víctimes i les converteix en gegants que ho devoren tot, capaços de destruir planetes sencers.",
+        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/5/1786541153352.jpg"
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-23T07:16:59+02:00",
-        "stop": "2026-08-23T08:03:42+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La canya de pescar",
-        "description": "És millor pescar al riu o pescar al mar? No volem obrir aquest debat, però dediquem aquest capítol a la canya de pescar. No serà que la gent que no pesca res és perquè hi va amb la canya que no toca? O simplement és que no en sabem? Ens visita el grup Roba Estesa, que s'acomiaden dels escenaris aquest 2025. Abans de fer-ho, però, podem gaudir d'una de les seves cançons a l'escenari de 'La Renaixença'. Sortim a passejar amb en Lopes fins a la Revolució Russa del 1905, durant el motí del cuirassat Potemkin.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
-      },
       {
         "start": "2026-08-23T08:03:42+02:00",
         "stop": "2026-08-23T08:57:49+02:00",
@@ -139,6 +130,15 @@
         "description": "",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
+      },
+      {
+        "start": "2026-08-23T08:57:49+02:00",
+        "stop": "2026-08-23T09:22:18+02:00",
+        "title": "Riu avall",
+        "subtitle": "Corb",
+        "description": "La vall del Corb és una entitat física a cavall entre l'Urgell i la Segarra amb un paisatge singular i una personalitat pròpia molt marcada. Coneixem la sorprenent natura d'aquest territori, poblat des d'antic, i el seu rellevant patrimoni històric, tot, acompanyats per un guia d'excepció: el periodista Lluís Foix, fill de la vall.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719609254043.jpg"
       }
     ],
     "oca1": [],
