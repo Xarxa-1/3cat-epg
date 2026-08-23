@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T09:22:43.658855+00:00",
+  "updated": "2026-08-23T09:51:16.045984+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,15 +103,6 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T11:11:42+02:00",
-        "stop": "2026-08-23T11:32:42+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Triomfar per la cara",
-        "description": "Les espies investiguen un grup de pop famós perquè alguns dels seus membres comencen a desaparèixer misteriosament. Quan els membres de la banda reapareixen aparentment sans i estalvis, les espies s'adonen que les seves personalitats han sofert alguns canvis. Tot és degut a un grup que es dedica a robar les cares de les estrelles actuals del pop per reviure les seves carreres artístiques. D'altra banda, la Mandy es fa un tatuatge i informa l'Alex que la seva estètica no s'adiu a la de la seva festa a la piscina. L'Alex té el dilema de si fer-se o no un tatuatge perquè la seva imatge estigui més a to amb la dels seus companys.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
-      },
-      {
         "start": "2026-08-23T11:32:42+02:00",
         "stop": "2026-08-23T11:54:45+02:00",
         "title": "Espies de veritat",
@@ -119,24 +110,33 @@
         "description": "Quan els tsunamis comencen a destruir els llocs i les àrees de turistes arreu del món, WOOHP envia les espies perquè ho investiguin. Elles descobreixen que els tsunamis no són fenòmens naturals, sinó que estan provocats pels homes. Es tracta com d'una espècie de complot de la mà d'un ex-surfista que vol que les platges tornin al seu estat natural. D'altra banda, la Sam s'està tota una setmana fent vaga de fam per reivindicar que automatitzin el servei de menjador a l'escola. Realment, però, el que pretén és impressionar en David.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+      },
+      {
+        "start": "2026-08-23T11:54:45+02:00",
+        "stop": "2026-08-23T12:01:40+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Reacció al robatori",
+        "description": "En Grizzy i els Lèmmings es barallen per l'última cullerada de crema de xocolata, però paren quan troben, al garatge, una caixa plena de pots sense obrir. Els rosegadors s'apoderen de la caixa i se l'enduen volant amb un dron. L'os els atrapa, muntat sobre l'esquena d'un ratpenat gegant. Els pots de xocolata cauen sobre un temple maia sagrat que està ple de paranys. Però quan els recuperen, un gegant de pedra es disposa a perseguir en Grizzy i els Lèmmings!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-23T10:36:12+02:00",
-        "stop": "2026-08-23T11:30:20+02:00",
-        "title": "El Foraster",
-        "subtitle": "Begur",
-        "description": "Begur (Baix Empordà) té un escenari privilegiat que l'ha convertit en un destí turístic de primer nivell, però més enllà del paisatge i les cales, el poble manté un esperit juganer i viu - cent per cent bacanard- que només s'explica per la seva gent.Entre aquesta gent hi ha la Leila, una sirena empordanesa que desafiarà en Quim a banyar-se en aigües gèlides; en Carlus, un vigilant incansable que 'patrulla' el poble amb un xiulet de policia, i l'Ernest, defensor apassionat d'unes escales que, segons ell, haurien de tenir reconeixement mundial. En Quim també coneixerà la Rosa i en Rogeli, una parella de jubilats que es resisteixen a deixar enrere el nen que porten dins, i en Riqui, que lidera una activitat infantil dissenyada perquè els més petits reconnectin literalment amb la natura.El viatge el durà a compartir una sortida de sol inoblidable amb un grup d'excursionistes de trajectòria incerta i a pujar a la barca de l'últim pescador del poble, en Llorenç, per acabar com només es pot fer a Begur: embarcat, batejat, i una mica més bacanard.",
-        "genre": "VARIETATS",
-        "image": ""
-      },
       {
         "start": "2026-08-23T11:30:20+02:00",
         "stop": "2026-08-23T12:25:59+02:00",
         "title": "Experiència Catalana",
         "subtitle": "Jarek i Beata",
         "description": "En Jarek Kret i la Beata Tadla, dos famosos presentadors de la televisió polonesa, protagonitzen aquest capítol, on gaudeixen de les aigües termals, dels magnífics paisatges de la Costa Brava i de la diada de Sant Jordi a Barcelona.",
+        "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T12:25:59+02:00",
+        "stop": "2026-08-23T13:18:44+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Annabel",
+        "description": "Amb l'Annabel Candy, una dona australiana, visitem Montserrat i la Vall de Núria. Ja a Barcelona, la Ivana Miño la porta a la Pedrera i a l'Anella Olímpica, però el viatge no acaba aquí, sinó al Carnaval de Vilanova.",
         "genre": "ALTRES",
         "image": ""
       }
