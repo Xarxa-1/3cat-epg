@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T05:43:27.276393+00:00",
+  "updated": "2026-08-23T06:03:05.317419+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T07:33:38+02:00",
-        "stop": "2026-08-23T07:45:38+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "L'Edgar no té por",
-        "description": "L'Edgar està convençut que la mala sort l'empaita cada vegada que s'aparta del rusc. La primera vegada que en va sortir, va caure i li van trepitjar una antena, i ara ja no s'atreveix a passar d'una línia. La Maia no es pot creure que no hagi vist mai el prat i decideix acompanyar-lo a descobrir les meravelles de la natura. Abans, però, li tocarà aprendre a no tenir tanta por!",
+        "start": "2026-08-23T07:56:47+02:00",
+        "stop": "2026-08-23T08:06:48+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "La cançó del petit mariner",
+        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T07:45:38+02:00",
-        "stop": "2026-08-23T07:56:46+02:00",
+        "start": "2026-08-23T08:06:48+02:00",
+        "stop": "2026-08-23T08:19:22+02:00",
         "title": "El Mic i els seus amics",
-        "subtitle": "En Joan petit",
-        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
+        "subtitle": "Jugar sense parar",
+        "description": "Sigui a jocs de taula, jocs tradicionals o jocs inventats, el Mic i els seus amics sempre estan a punt per jugar! ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
