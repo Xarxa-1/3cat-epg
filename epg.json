@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T19:55:04.365535+00:00",
+  "updated": "2026-08-23T20:15:54.770413+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,21 +43,21 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-23T21:00:00+02:00",
-        "stop": "2026-08-23T22:05:09+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
-        "start": "2026-08-23T22:03:56+02:00",
-        "stop": "2026-08-23T22:46:55+02:00",
+        "start": "2026-08-23T22:05:04+02:00",
+        "stop": "2026-08-23T22:48:02+02:00",
         "title": "Cucut",
         "subtitle": "Capítol 5",
         "description": "El Rubio i el López capturen el Pep i la Sara. A Trinquet, l'Amat està retingut al graner del Vidal. El Cristian descobreix tota la veritat sobre el seu pare terratinent i s'hi enfronta, en un intent desesperat de defensar la Sara i evitar que ella en surti malparada.",
         "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T22:48:02+02:00",
+        "stop": "2026-08-23T23:19:55+02:00",
+        "title": "Oh! Europa",
+        "subtitle": "Bèlgica",
+        "description": "Camí de Brussel.les, l'autocar té un petit accident. L'Enric en surt amb un bon cop al nas. El cura la Pepa i sembla que neix una atracció entre els dos divorciats. Junts visiten un amic de l'Enric, que treballa a la seu central de la Unió Europea. A la nit, l'Enric convida la Pepa a prendre una copa de xampany a la seva habitació... però res no surt com ell havia previst.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       }
     ],
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T21:41:13+02:00",
-        "stop": "2026-08-23T22:03:33+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Tria un peix espasa",
-        "description": "L'Aviva és una mestra de l'esgrima i proposa als germans Kratt un repte: que triïn quin vestit de peix amb espasa prefereixen per fer un duel amb ella. L'equip aprofita l'ocasió per estudiar les semblances i les diferències entre tres tipus de peixos que tenen espasa al morro: el marlí, el peix vela i el peix espasa. Mentrestant, s'hauran d'enfrontar amb el Zach, que vol dur a terme un altre projecte malvat dels seus: capturar tots els peixos del món per vendre'ls i fer-se més ric.",
+        "start": "2026-08-23T22:14:28+02:00",
+        "stop": "2026-08-23T22:24:58+02:00",
+        "title": "Les filles del Dad",
+        "subtitle": "Els vostres desitjos són ordres",
+        "description": "L'Ondine s'ha descarregat una app que promet fer realitat els desitjos de l'usuari si fa el que li demana Moctar, l'avatar de l'app. La Panda i la Roxane pensen que és una enganyifa, però l'Ondine hi mostra una fe absoluta i executa fil per randa les consignes estrambòtiques de l'app. Tot i que sembli ridícul, el primer desig de l'Ondine es fa realitat, cosa que farà dubtar les seves germanes.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T22:03:33+02:00",
-        "stop": "2026-08-23T22:14:28+02:00",
+        "start": "2026-08-23T22:24:58+02:00",
+        "stop": "2026-08-23T22:35:33+02:00",
         "title": "Les filles del Dad",
-        "subtitle": "Wifi i companyia",
-        "description": "És l'hora de la sacrosanta gravació del tutorial de l'Ondine... Però Internet ha caigut! La jove entra en pànic i molesta tothom mentre busca connexió: el seu pare, els veïns, la senyora Crochon! Però res! Desesperada, té la idea del segle: anar al Cookie Café a agafar wifi! La Panda empal·lideix quan la veuarribar, sobretot quan l'Ondine fa com si estigués a casa seva i posa els clientsa ratlla perquè no facin soroll i ella pugui gravar el tutorial.",
+        "subtitle": "La vida és una tòmbola",
+        "description": "Quina sort que té l'Ondine! Ha guanyat el micròfon dels seus somnis en una tómbola organitzada per l'Ajuntament. Però quan li toca anar a recollir el premi, no troba el número guanyador. I, dramàtica com és, perd els estreps. Desesperades, les seves germanes li recomanen que faci servir la lògica per buscar-lo, de manera que l'Ondine decideix reconstruir fil per randa tots els fets del dia anterior per trobar el número premiat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-23T21:10:53+02:00",
-        "stop": "2026-08-23T22:01:39+02:00",
-        "title": "Gent de món",
-        "subtitle": "Jamaica i Mèxic",
-        "description": "Heu viscut mai en una ciutat flotant? Heu navegat per les rutes dels pirates més sanguinaris? Heu fet surf en onades d'una alçada d'un vintè pis? Us heu petonejat mai amb un dofí? Heu nedat mai entre ratpenats? No?Doncs prepareu-vos, perquè avui farem tot això i més en el viatge pel mar del Carib que ens portarà a conèixer Jamaica, terra de dones guapes i homes veloços i la costa de Yucatán, a Mèxic, el país dels maies.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-23T22:01:39+02:00",
-        "stop": "2026-08-23T22:55:04+02:00",
+        "start": "2026-08-23T22:01:41+02:00",
+        "stop": "2026-08-23T22:55:06+02:00",
         "title": "Planeta dinàmic",
         "subtitle": "Terra",
         "description": "El clima de la Terra canvia i els sistemes naturals que abans eren estables i dels quals depenem es desequilibren perillosament. Científics intrèpids, tribus locals i megafauna gegant, de l'Àrtic a l'Amazònia, ens revelen com la ciència, la natura i la tradició ens poden ajudar a preparar-nos per un futur que canvia molt de pressa.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T22:55:06+02:00",
+        "stop": "2026-08-23T23:46:53+02:00",
+        "title": "Planeta dinàmic",
+        "subtitle": "Foc",
+        "description": "A mesura que pugen les temperatures, els incendis forestals cremen amb virulència, s'intensifiquen les sequeres i els conflictes entre els humans i els animals, i es desestabilitzen els sistemes. Les persones que viuen i treballen a primera línia dels canvis ens revelen com la ciència, la natura i la tradició ens poden ajudar a preparar-nos per un futur que canvia molt de pressa.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
