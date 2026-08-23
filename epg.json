@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T21:59:13.920152+00:00",
+  "updated": "2026-08-23T22:28:08.188085+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,22 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-23T23:19:57+02:00",
-        "stop": "2026-08-24T00:17:06+02:00",
-        "title": "Vosaltres mateixos",
-        "subtitle": "Infiltració sorpresa",
-        "description": "El reporter d'investigació Carles Tamayo s'infiltra al programa com un membre (més) de l'equip sense que ni l'Andreu ni la majoria de companys ho sàpiguen.",
-        "genre": "TALK-SHOW",
-        "image": "https://img.ccma.cat/multimedia/png/6/6/1698344358966.png"
-      },
-      {
-        "start": "2026-08-24T00:17:06+02:00",
-        "stop": "2026-08-24T00:58:57+02:00",
+        "start": "2026-08-24T00:17:07+02:00",
+        "stop": "2026-08-24T01:00:00+02:00",
         "title": "Coolhunters",
         "subtitle": "La moda",
         "description": "Què està realment de moda en el món de la moda? El Serapi sap quines són les tendències actuals? Té estil o només diu que en té? Hem volgut assegurar-nos que aprèn alguna cosa trucant l'Ana Murillas, que ha vestit artistes com Rosalía, Bad Gyal o Rels B. A més, anirà a una escola de models per saber quins són els fonaments per convertir-se en un model professional. I, finalment, s'enfrontarà a una desfilada amb un jurat especialista en el món de la moda i l'espectacle. Ah, sí, i el Patrick tindrà un cara a cara amb en Marc Giró, que evidentment no callarà davant cap de les seves preguntes. Un capítol amb riures assegurats.",
         "genre": "GAGS. HUMOR",
         "image": ""
+      },
+      {
+        "start": "2026-08-24T01:00:00+02:00",
+        "stop": "2026-08-24T01:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T23:52:05+02:00",
-        "stop": "2026-08-24T00:02:24+02:00",
+        "start": "2026-08-24T00:23:01+02:00",
+        "stop": "2026-08-24T00:33:49+02:00",
         "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "El retorn de la poderosa meu i el superlluita",
-        "description": "La Felicity fa sortir la seva doble malvada de dins de la llegendària Roca del Mirall i causa estralls per tot Mitelàndia. L'única manera que se'ls acut a ella i al Miguel d'aturar la doble és transformar-se en la Poderosa Meu i el Superlluita.",
+        "subtitle": "My fair Yeti",
+        "description": "La Felicity, el Miguel i la Yana estan convidats a prendre el te a la mansió d'una dama molt rica. La Yana té por que se'n riguin d'ella perquè no és gens fina, però la Felicity li fa un curset accelerat d'etiqueta per a l'esdeveniment.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-24T00:02:24+02:00",
-        "stop": "2026-08-24T00:12:43+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "L'hipopòtam borinot magnètic que canta karaoke",
-        "description": "La Felicity i el Miguel coneixen un hipopòtam-borinot que es vol desempallegar dels seus poders màgics perquè, segons ell, són inútils i només li porten problemes. Però la Felicity el vol convèncer que són uns poders meravellosos i especials.",
+        "start": "2026-08-24T00:33:49+02:00",
+        "stop": "2026-08-24T00:54:56+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Iraki Gozen",
+        "description": "A París s'organitza un joc de pistes per parelles, i el premi és saber on s'amaga l'Adrien Agreste. L'atzar fa que la Marinette s'hagi d'aparellar amb la Kagami, i el que al principi era una rivalitat oberta s'acaba convertint en el començament d'una bona amistat. L'Esfinx, sempre amatent, intentará fer servir els sentiments de la mare de la Kagami per sembrar el caos a la ciutat. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
