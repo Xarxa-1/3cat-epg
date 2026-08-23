@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T11:44:01.806569+00:00",
+  "updated": "2026-08-23T11:59:22.027817+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -94,20 +94,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T13:23:27+02:00",
-        "stop": "2026-08-23T13:46:31+02:00",
-        "title": "Dracs: els nou regnes",
-        "subtitle": "Onada de fred",
-        "description": "Una gran onada de fred posa en perill els habitants de Ciutat Rakke, ja que no tenen prou recursos per enfrontar-se a les temperatures que no deixen de baixar. Els protectors de dracs han de trobar la manera d'ajudar els humans amb els seus amics dracs, però sense que ningú els vegi. Ho intenten fer tan bé com poden, però no és gens fàcil...",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
-        "start": "2026-08-23T13:46:31+02:00",
-        "stop": "2026-08-23T14:15:08+02:00",
+        "start": "2026-08-23T13:46:32+02:00",
+        "stop": "2026-08-23T14:15:09+02:00",
         "title": "Manduka family",
         "subtitle": "Truita de patates",
         "description": "Qui fa millor la truita de patates? El Nil i la Bruna pensen que la seva àvia.La truita de patates crea una gran divisió d'opinions: o t'agrada amb ceba o t'agrada sense ceba. En el que estem tots d'acord és que les àvies les fan com ningú. Això pensen el Nil i la Bruna, dos germans que pensen que cada una de les seves àvies fa la millor versió. Mentre fan la seva recepta ajudats cada un per una de les àvies, jugaran, cantaran, ballaran... i provaran de sabotejar l'equip contrari!!! Seran dos mandúkers acompanyats d'un dels xefs del segon millor restaurant del món, el Disfrutar, el xef Mateu Casañas, que decidirà quina versió de la truita és millor i guanya el concurs. ",
+        "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T14:15:09+02:00",
+        "stop": "2026-08-23T14:42:44+02:00",
+        "title": "Manduka family",
+        "subtitle": "Croquetes",
+        "description": "El Ramon i el Roc pensen que les seves àvies Teresa i Elisenda fan les millors croquetes del món. Si ens fan dir qui fa les nostres croquetes preferides, segur que diem que les que fa algun familiar (àvia, mare, avi...). Per demostrar-ho, els quatre venen preparats per cuinar-ne mentre superen jocs com la cursa d'ous, dibuixen en farina o endrecen una pila de carmanyoles. Dos mandúkers i la xef del programa 'Cuines' Gessamí Caramés les tastaran a cegues i votaran quines creuen que són les millors.",
         "genre": "ALTRES",
         "image": ""
       }
