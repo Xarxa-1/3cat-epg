@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T16:18:59.682696+00:00",
+  "updated": "2026-08-23T16:50:08.509335+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-23T16:30:00+02:00",
-        "stop": "2026-08-23T18:30:00+02:00",
+        "start": "2026-08-23T18:30:00+02:00",
+        "stop": "2026-08-23T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-23T18:30:00+02:00",
-        "stop": "2026-08-23T20:00:00+02:00",
+        "start": "2026-08-23T20:00:00+02:00",
+        "stop": "2026-08-23T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,15 +83,6 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-23T17:41:25+02:00",
-        "stop": "2026-08-23T18:36:14+02:00",
-        "title": "Motocròs",
-        "subtitle": "Gran Premi dels Països Baixos / WMX Motocross World Championship / J2",
-        "description": "Penúltima prova del Campionat del Món de Motocròs amb la participació destacada de la catalana Daniela Guillén, que està entre candidates al títol. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/4/1779284574045.jpg"
-      },
-      {
         "start": "2026-08-23T18:36:14+02:00",
         "stop": "2026-08-23T20:16:48+02:00",
         "title": "Futbol",
@@ -99,38 +90,38 @@
         "description": "La 61a edició del Gamper té com a rival l'equip l'Al-Ahly. El conjunt del Caire ha guanyat 12 vegades la Champions d'Àfrica i suma 45 lligues d'Egipte. És la primera vegada que el Gamper té la presència d'un equip africà.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.3cat.cat/multimedia/jpg/8/0/1785230848208.jpg"
+      },
+      {
+        "start": "2026-08-23T20:16:48+02:00",
+        "stop": "2026-08-23T20:30:00+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Hansi Flick / Prèvia Elx-Barça / J2",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-23T18:14:08+02:00",
-        "stop": "2026-08-23T18:20:38+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Una família d'ossos",
-        "description": "En Grizzy troba un os polar que ha caigut d'un contenidor frigorífic del zoològic. Després de consultar l'enciclopèdia, s'adona que ell i l'os són germans de la mateixa espècie. Decideix seguir al peu de la lletra com diu l'enciclopèdia que s'ha de cuidar un os polar durant la hibernació, la qual cosa va en contra de les activitats preferides dels Lèmmings. Els rosegadors decideixen crear una pàgina falsa a l'enciclopèdia que diu que ells també ho són, d'ossos. Ara en Grizzy es veu obligat a tractar-los també com a germans.",
+        "start": "2026-08-23T18:47:42+02:00",
+        "stop": "2026-08-23T19:09:33+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Trolejar el trol",
+        "description": "La Zerlina convoca la Sam, l'Alex i la Clover perquè tot d'amics s'estan barallant a tot arreu i és probable que sigui l'obra d'algun malvat. Les noies comencen a investigar i s'adonen que a tot arreu on hi ha discussions hi ha dues figures amb guants i barret. D'altra banda, la Sam acaba de llançar el seu primer videojoc i la Mandy s'ha proposat fer-lo fracassar.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-08-23T18:20:38+02:00",
-        "stop": "2026-08-23T18:27:08+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "De pèl i espasa",
-        "description": "Els lèmmings han posat tota la cabana de cap per avall per organitzar justes medievals amb l'equip d'esgrima del guardabosc. En Grizzy prova d'obrir-se pas per poder recuperar el sofà, però l'hi impedeixen els seus florets. Per fer-los front, en Grizzy ha de trobar una espasa que estigui a l'altura de les circumstàncies, i no troba res millor que un bon... peix espasa congelat. Fins que es descongela i...",
+        "start": "2026-08-23T19:09:33+02:00",
+        "stop": "2026-08-23T19:32:07+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Megaformatge lunar",
+        "description": "Les onades de les platges d'arreu del món es comporten d'una manera estranya i la Zerlina encarrega a les espies que vagin a investigar què passa. Gràcies a una mostra d'asteroide que envien al Toby perquè l'analitzi, descobreixen que ve de París, on també hi passen coses estranyes. Allà les espies coneixen en Jacques Montague, un fabricant de formatges enfadat amb les noves modes alimentàries.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-23T17:47:52+02:00",
-        "stop": "2026-08-23T18:32:52+02:00",
-        "title": "Tresors perduts d'Egipte",
-        "subtitle": "Secrets de les piràmides perdudes",
-        "description": "Els arqueòlegs investiguen el llegat de les piràmides de Gizeh i de les misterioses piràmides que es van construir després. Busquen l'ocupant enigmàtic d'un colossal pou funerari que s'endinsa al fons de l'antiga zona de piràmides d'Abusir. També investiguen la luxosa tomba d'un membre de l'elit situada prop de la piràmide del faraó Djedkare a Saqqara, i excaven la tomba llargament perduda del faraó Sahuré, l'única tomba piràmide que encara no s'ha explorat mai.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
       {
         "start": "2026-08-23T18:32:52+02:00",
         "stop": "2026-08-23T19:24:28+02:00",
@@ -139,6 +130,15 @@
         "description": "En aquest primer episodi, dedicat als volcans sagrats, coneixerem les divinitats que des de fa mil·lennis s'han associat als fenòmens volcànics, en un intent de la humanitat de comprendre l'activitat d'aquests gegants de foc i d'evitar-ne les pitjors conseqüències, sempre des del respecte i el sentiment de pertinença a una mateixa realitat natural. La ciència i la fe col·laboren per entendre i apreciar els volcans des d'una perspectiva més completa.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
+      },
+      {
+        "start": "2026-08-23T19:24:28+02:00",
+        "stop": "2026-08-23T20:07:39+02:00",
+        "title": "Els rius navegables d'Europa",
+        "subtitle": "De la badia de Gdansk al districte dels llacs de Masúria",
+        "description": "Explorant Polònia per les vies fluvials d'Europa: començant des de la península de Hel, el viatge recorre el mar Bàltic fins a la ciutat hanseàtica de Gdansk, després continua pel Vístula i el canal d'Elblag fins al districte dels llacs de Masúria.La península de Hel, amb les seves platges de sorra blanca i boscos de pins d'un verd intens, acull un institut de recerca que estudia la vida al mar Bàltic, i un centre de cria de foques. A l'altra banda de la badia es troba la ciutat hanseàtica de Gdansk. Naveguem entre drassanes i antics edificis d'oficines, continuem pel Vístula i el canal d'Oberland cap a les muntanyes Rollberge, on els vaixells avancen per terra en vies de ferrocarril, en una obra històrica d'enginyeria.A la universitat d'Olstyn, la capital de Masúria, la Renata Augustyniak investiga amb èxit nous mètodes per recuperar els llacs contaminats. El viatge continua cap a l'est i arriba al riu més net del país, el Krutynia. Aquí hi ha un centre de rehabilitació per cigonyes, l'animal heràldic del país. Amb el guardabosc i fotògraf de la natura Waldemar Bzura descobrirem la rica vida salvatge de Masúria i les illes flotants de la reserva natural de Zakret, precioses amb la boira del matí.A la vora del llac Beldany, Moussa Bah, un veterinari de Mali, cria els cavalls salvatges 'Koniks', per encàrrec de l'Acadèmia Polonesa de Ciències. La seva companya, la cuidadora d'animals Marlena Boron, s'encarrega de la cria de castors al centre. Amb un veler, el viatge continua, passant per Mikolaiky, fins al canal de Masúria.Uns quilòmetres abans de la frontera russa, coneixem la pescadora Marta Gottwald, campiona del món de la seva disciplina, mentre s'entrena. El recorregut acaba en una gran resclosa de l'època nazi, convertida en una instal·lació d'escalada iaventura, per a atletes amb ganes de passar-s'ho bé i sense vertigen.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/3/1784274800434.jpg"
       }
     ],
     "oca1": [],
