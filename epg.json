@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T23:43:39.157959+00:00",
+  "updated": "2026-08-23T23:58:07.570366+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,21 +103,21 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-24T01:36:28+02:00",
-        "stop": "2026-08-24T01:57:06+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "La Titellaire 2",
-        "description": "L'Adrien ha d'anar al museu de cera perquè han de fer una reparació a la seva estàtua i convida el Nino a acompanyar-lo. El Nino convida l'Alya, que al seu torn convida la Marinette, que fa de cangur a la Manon. A la nena li fa la sensació que ningú li fa cas, i l'Esfinx aprofita aquest sentiment d'abandó per convertir-la un altre cop en la Titellaire.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
         "start": "2026-08-24T01:57:06+02:00",
         "stop": "2026-08-24T02:18:13+02:00",
         "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
         "subtitle": "El gat blanc",
         "description": "Aprofitant avui és el sant del cinquè nom de naixement de l'Adrien, la Marinette decideix portar-li un regal. Però per entrar a casa seva, s'ha de convertir en Ladybug, i això fa que l'Adrien lligui caps i descobreixi la seva identitat secreta. Encara que sembli que a partir d'aquí tot va bé, en el futur es prepara un trasbals que pot tenir conseqüències nefastes.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
+      },
+      {
+        "start": "2026-08-24T02:18:13+02:00",
+        "stop": "2026-08-24T02:28:37+02:00",
+        "title": "Com dibuixar còmics amb el Will Sliney",
+        "subtitle": "Els herois s’apleguen",
+        "description": "Veient que el Crònica havia creat els seus propis superdolents com a antítesi dels superherois d'en Will, el dibuixant va fer una crida als espectadors del programa perquè enviessin dibuixos de superherois que poguessin contribuir a la victòria contra el Crònica. En aquest episodi ens en mostrarà uns quants i ens explicarà quins són alguns dels errors comuns que han comès els espectadors a l'hora de dissenyar els seus personatges.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
