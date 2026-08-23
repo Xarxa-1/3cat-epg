@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T12:52:46.496422+00:00",
+  "updated": "2026-08-23T13:28:32.594745+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T14:42:44+02:00",
-        "stop": "2026-08-23T14:54:30+02:00",
+        "start": "2026-08-23T15:17:14+02:00",
+        "stop": "2026-08-23T15:28:37+02:00",
         "title": "Les Sisters",
-        "subtitle": "La 'potocleosi'",
-        "description": "Avui la Wendy ha convidat el seu nòvio a mirar una pel·lícula a casa seva. Mentrestant la Marine mirarà el seu programa preferit a la tauleta de la seva germana. Mentre espera que comenci, veu un espot que avisa dels perills de la mononucleosi, una malaltia que es pot transmetre per la saliva. La Marine s'espanta: i si la seva germaneta agafa la malaltia fent-li un petó al Maxence?",
+        "subtitle": "La reina del silenci",
+        "description": "Farta del lloro de la seva germana, la Wendy li diu a la Marine que li donarà la seva tauleta si es passa un dia sencer sense obrir la boca. Però de seguida es penedeix del que ha dit! La Marine accepta el repte i es disposa a passar el dia sense dir ni piu. Si la Wendy vol conservar la seva tauleta, ha de fer parlar el plom de la seva germana abans de demà al matí!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T14:54:30+02:00",
-        "stop": "2026-08-23T15:05:52+02:00",
+        "start": "2026-08-23T15:28:37+02:00",
+        "stop": "2026-08-23T15:39:59+02:00",
         "title": "Les Sisters",
-        "subtitle": "La cangur",
-        "description": "La Wendy està supercontenta: guanyarà uns calerons cuidant la neboda petita de la senyora Georgette mentre passa la tarda amb el seu Maxence. Però quan veu que a la jove parelleta els cau la bava amb la petitona, a la Marine se li fica al cap que la seva germana voldrà tenir un munt de fills, se n'anirà de casa i la deixarà sola. Només hi ha una solució: aconseguir que avorreixi els nens petits per sempre.",
+        "subtitle": "La vida somiada a Pom-Les-Bains",
+        "description": "Un magazín electrònic ha triat la Wendy com a 'adolescent de la setmana'. Passarà el dia entrevistada i fotografiada per una periodista i un fotògraf. És l'ocasió somiada per la Wendy per convertir-se en una autèntica estrella d'internet! Però no comptava que la Marine, que sempre es fica on no la demanen, també ha decidit ser famosa...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
