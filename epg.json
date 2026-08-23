@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T10:18:18.992094+00:00",
+  "updated": "2026-08-23T10:48:53.632087+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,17 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-23T12:00:00+02:00",
-        "stop": "2026-08-23T12:45:23+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-08-23T12:47:27+02:00",
-        "stop": "2026-08-23T14:29:53+02:00",
+        "start": "2026-08-23T12:44:54+02:00",
+        "stop": "2026-08-23T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,54 +74,45 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-23T10:59:20+02:00",
-        "stop": "2026-08-23T12:39:44+02:00",
-        "title": "Futbol",
-        "subtitle": "FC Barcelona - Al-Ahly / Trofeu Joan Gamper",
-        "description": "La 61a edició del Gamper té com a rival l'equip l'Al-Ahly. El conjunt del Caire ha guanyat 12 vegades la Champions d'Àfrica i suma 45 lligues d'Egipte. És la primera vegada que el Gamper té la presència d'un equip africà.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/8/0/1785230848208.jpg"
-      },
-      {
-        "start": "2026-08-23T12:39:44+02:00",
-        "stop": "2026-08-23T14:14:59+02:00",
+        "start": "2026-08-23T12:39:46+02:00",
+        "stop": "2026-08-23T14:15:01+02:00",
         "title": "Gol a gol",
         "subtitle": "Post Espanyol-R. Madrid / J2",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+      },
+      {
+        "start": "2026-08-23T14:15:01+02:00",
+        "stop": "2026-08-23T14:46:02+02:00",
+        "title": "Crackòvia",
+        "subtitle": "",
+        "description": "El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.",
+        "genre": "GAGS. HUMOR",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-23T12:14:40+02:00",
-        "stop": "2026-08-23T12:21:10+02:00",
+        "start": "2026-08-23T12:47:09+02:00",
+        "stop": "2026-08-23T12:53:39+02:00",
         "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Batalla de bambú",
-        "description": "En Grizzy desmunta el tobogan que han construït els Lèmmings per tota la cabana i reutilitza les canyes de bambú per construir-se un jacuzzi. Quan els Lèmmings descobreixen l'obra de l'os, imaginen un parc aquàtic gegantí amb un tobogan ben gran. Com que en Grizzy preveu les intencions dels Lèmmings, prova d'atrinxerar-se dins la cabana, però els rosegadors aconsegueixen fer-lo fora. L'os torna per enfrontar-s'hi protegit amb una superarmadura de bambú...",
+        "subtitle": "Regals merescuts",
+        "description": "En Grizzy i els Lèmmings tornen a barallar-se i acaben provocant-li un accident al trineu del Pare Noel. Els rosegadors acuden al lloc de l'incident i s'apropien de la seva bústia màgica. Mentre en Grizzy endreça la cabana després de la baralla, se sorprèn quan veu els Lèmmings tornar tranquils i en silenci. Els rosegadors li canten nadales i li preparen un deliciós aperitiu abans de marxar. En Grizzy no se'n refia i decideix seguir-los. Llavors descobreix que la bústia recompensa aquells que tenen desitjos que equivalen a la seva bondat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T12:21:10+02:00",
-        "stop": "2026-08-23T12:27:40+02:00",
+        "start": "2026-08-23T12:53:39+02:00",
+        "stop": "2026-08-23T13:00:56+02:00",
         "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Os intemporal",
-        "description": "En Grizzy i els lèmmings descobreixen un antic cementiri indi sota la cabana del guardabosc. Quan activen accidentalment un disc màgic que representa la Terra, viatgen de cop a la prehistòria. Allà, en Grizzy té sort de dur una bossa de ganxets de formatge, amb la qual manté a ratlla un trio de tiranosaures rex amb cara de pocs amics. Però quan els ganxets s'acaben han d'arrencar a córrer tots.",
+        "subtitle": "Mutacions salvatges",
+        "description": "En Grizzy fa fora els Lèmmings de la cabana, on havien muntat una cursa d'obstacles molt molesta. Per fi tranquil, però ben mandrós, decideix no aixecar-se més del sofà. Els Lèmmings descobreixen un disc màgic maia que els permet triar mutacions instantànies que els donen atributs d'altres animals: ales de ratpenat, banyes de caribú, trompa d'elefant, etc. Els Lèmmings mutants tornen a la cabana, decidits a continuar el joc amb les seves noves característiques.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-23T11:30:20+02:00",
-        "stop": "2026-08-23T12:25:59+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Jarek i Beata",
-        "description": "En Jarek Kret i la Beata Tadla, dos famosos presentadors de la televisió polonesa, protagonitzen aquest capítol, on gaudeixen de les aigües termals, dels magnífics paisatges de la Costa Brava i de la diada de Sant Jordi a Barcelona.",
-        "genre": "ALTRES",
-        "image": ""
-      },
       {
         "start": "2026-08-23T12:25:59+02:00",
         "stop": "2026-08-23T13:18:44+02:00",
@@ -139,6 +121,15 @@
         "description": "Amb l'Annabel Candy, una dona australiana, visitem Montserrat i la Vall de Núria. Ja a Barcelona, la Ivana Miño la porta a la Pedrera i a l'Anella Olímpica, però el viatge no acaba aquí, sinó al Carnaval de Vilanova.",
         "genre": "ALTRES",
         "image": ""
+      },
+      {
+        "start": "2026-08-23T13:18:44+02:00",
+        "stop": "2026-08-23T14:05:18+02:00",
+        "title": "La Renaixença",
+        "subtitle": "El vàter",
+        "description": "Quantes hores podem passar asseguts a la tassa del vàter al llarg de la vida? I no volem dir que siguin hores desaprofitades, tot el contrari, sovint hi passem més temps del qual ens fa falta perquè... confessem-ho: tots ens hi emportem el mòbil. Rebem la visita de Sandra Ànima, una facialista que, com el nom indica, no ens llegirà el palmell de la mà, sinó la cara! Sabem posar cara de pòquer? A 'Històries per passejar el gos' anem amb la Guida, d'Olesa de Montserrat, fins a la guerra freda i el cas Roswell, el 1947.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
