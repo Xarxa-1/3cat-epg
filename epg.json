@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T11:59:22.027817+00:00",
+  "updated": "2026-08-23T12:52:46.496422+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,25 +43,25 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-23T12:44:54+02:00",
-        "stop": "2026-08-23T14:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-08-23T14:30:00+02:00",
+        "stop": "2026-08-23T15:33:37+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+      },
+      {
+        "start": "2026-08-23T15:30:35+02:00",
+        "stop": "2026-08-23T16:18:39+02:00",
+        "title": "Arnau",
+        "subtitle": "",
+        "description": "Arnau s'enfronta amb Odalric; l'acusa de voler-lo matar i de la mort del comte. No en té cap prova, però, a partir d'aquí, l'odi entre els dos cunyats és inevitable. Arnau, seguint els ensenyaments del noble Yazid, es preocupa de les seves terres, les fa produir i dóna dret als pagesos. Les innovacions són mal vistes pels altres nobles i, fins i tot, per l'abat Ató.Odalric contracta Mamburg, una mena de mercenari, perquè espiï tots els moviments d'Arnau. Veu amb disgust com Arnau és cada dia més popular entre la població. Ajudat per l'abadessa i per Mamburg, li posa paranys per desprestigiar-lo.Mentrestant, Arnau aconsegueix descobrir on s'amaga l'Elna, la treu del convent, abandona la dona i les filles i se'n va a viure amb ella.Garsa ja no pot continuar fent creure a Odalric que està embarassada i va a veure la bruixa perquè l'ajudi. La bruixa li fa veure que si no s'ha quedat embarassada no és per culpa seva, sinó del marit. Garsa troba en Mamburg l'home idoni per quedar embarassada.També Odalric visita Agra. Vol saber com defensar-se d'Arnau sense despertar sospites. Agra l'avisa que no vessi sang del seu cunyat si no vol que el fill que Garsa porta al ventre neixi mort. Li aconsella que l'única manera de desfer-se d'Arnau és amb la mentida.",
+        "genre": "TELESÈRIE",
+        "image": ""
       }
     ],
     "324": [
-      {
-        "start": "2026-08-23T12:00:00+02:00",
-        "stop": "2026-08-23T14:30:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-08-23T14:30:00+02:00",
         "stop": "2026-08-23T16:30:00+02:00",
@@ -70,65 +70,74 @@
         "description": "",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+      },
+      {
+        "start": "2026-08-23T16:30:00+02:00",
+        "stop": "2026-08-23T18:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-08-23T12:39:46+02:00",
-        "stop": "2026-08-23T14:15:01+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Post Espanyol-R. Madrid / J2",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-08-23T14:46:06+02:00",
+        "stop": "2026-08-23T15:34:21+02:00",
+        "title": "E3",
+        "subtitle": "L'home més fort del món Giants Live 3: The Strongman Classic",
+        "description": "Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/2/1780671126722.jpg"
       },
       {
-        "start": "2026-08-23T14:15:01+02:00",
-        "stop": "2026-08-23T14:46:02+02:00",
-        "title": "Crackòvia",
-        "subtitle": "",
-        "description": "El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.",
-        "genre": "GAGS. HUMOR",
-        "image": ""
+        "start": "2026-08-23T15:34:21+02:00",
+        "stop": "2026-08-23T16:21:55+02:00",
+        "title": "E3",
+        "subtitle": "L'home més fort del món Giants Live 4: The Strongman Open",
+        "description": "Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/2/1780671126722.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-23T13:46:32+02:00",
-        "stop": "2026-08-23T14:15:09+02:00",
-        "title": "Manduka family",
-        "subtitle": "Truita de patates",
-        "description": "Qui fa millor la truita de patates? El Nil i la Bruna pensen que la seva àvia.La truita de patates crea una gran divisió d'opinions: o t'agrada amb ceba o t'agrada sense ceba. En el que estem tots d'acord és que les àvies les fan com ningú. Això pensen el Nil i la Bruna, dos germans que pensen que cada una de les seves àvies fa la millor versió. Mentre fan la seva recepta ajudats cada un per una de les àvies, jugaran, cantaran, ballaran... i provaran de sabotejar l'equip contrari!!! Seran dos mandúkers acompanyats d'un dels xefs del segon millor restaurant del món, el Disfrutar, el xef Mateu Casañas, que decidirà quina versió de la truita és millor i guanya el concurs. ",
-        "genre": "ALTRES",
+        "start": "2026-08-23T14:42:44+02:00",
+        "stop": "2026-08-23T14:54:30+02:00",
+        "title": "Les Sisters",
+        "subtitle": "La 'potocleosi'",
+        "description": "Avui la Wendy ha convidat el seu nòvio a mirar una pel·lícula a casa seva. Mentrestant la Marine mirarà el seu programa preferit a la tauleta de la seva germana. Mentre espera que comenci, veu un espot que avisa dels perills de la mononucleosi, una malaltia que es pot transmetre per la saliva. La Marine s'espanta: i si la seva germaneta agafa la malaltia fent-li un petó al Maxence?",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T14:15:09+02:00",
-        "stop": "2026-08-23T14:42:44+02:00",
-        "title": "Manduka family",
-        "subtitle": "Croquetes",
-        "description": "El Ramon i el Roc pensen que les seves àvies Teresa i Elisenda fan les millors croquetes del món. Si ens fan dir qui fa les nostres croquetes preferides, segur que diem que les que fa algun familiar (àvia, mare, avi...). Per demostrar-ho, els quatre venen preparats per cuinar-ne mentre superen jocs com la cursa d'ous, dibuixen en farina o endrecen una pila de carmanyoles. Dos mandúkers i la xef del programa 'Cuines' Gessamí Caramés les tastaran a cegues i votaran quines creuen que són les millors.",
-        "genre": "ALTRES",
+        "start": "2026-08-23T14:54:30+02:00",
+        "stop": "2026-08-23T15:05:52+02:00",
+        "title": "Les Sisters",
+        "subtitle": "La cangur",
+        "description": "La Wendy està supercontenta: guanyarà uns calerons cuidant la neboda petita de la senyora Georgette mentre passa la tarda amb el seu Maxence. Però quan veu que a la jove parelleta els cau la bava amb la petitona, a la Marine se li fica al cap que la seva germana voldrà tenir un munt de fills, se n'anirà de casa i la deixarà sola. Només hi ha una solució: aconseguir que avorreixi els nens petits per sempre.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-23T13:18:44+02:00",
-        "stop": "2026-08-23T14:05:18+02:00",
-        "title": "La Renaixença",
-        "subtitle": "El vàter",
-        "description": "Quantes hores podem passar asseguts a la tassa del vàter al llarg de la vida? I no volem dir que siguin hores desaprofitades, tot el contrari, sovint hi passem més temps del qual ens fa falta perquè... confessem-ho: tots ens hi emportem el mòbil. Rebem la visita de Sandra Ànima, una facialista que, com el nom indica, no ens llegirà el palmell de la mà, sinó la cara! Sabem posar cara de pòquer? A 'Històries per passejar el gos' anem amb la Guida, d'Olesa de Montserrat, fins a la guerra freda i el cas Roswell, el 1947.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-08-23T14:32:19+02:00",
+        "stop": "2026-08-23T15:25:44+02:00",
+        "title": "Planeta dinàmic",
+        "subtitle": "Gel",
+        "description": "El planeta s'escalfa i el gel dels tres pols -l'Àrtic, l'Antàrtida i l'Himàlaia- es desfà tan de pressa que té unes conseqüències transcendentals. Les extraordinàries persones que viuen i treballen en aquests indrets ens revelen com la ciència, la natura i els coneixements tradicionals ens poden preparar per a un futur que canvia ràpidament.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-08-23T14:05:18+02:00",
-        "stop": "2026-08-23T14:32:19+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Viure amb filosofía",
-        "description": "José María Erustes va néixer i créixer al Raval. Des que tenia 14 anys va treballar de soldador muntador. Amb una dona i dos fills es va quedar a l'atur i es va divorciar. Les desavinences familiars i l'alcohol el van fer marxar a viure al carrer. Va ser indigent prop de cinc anys, fins que La Fundació Arrels el va ajudar a recuperar la seva vida. La paraula 'política' deriva del grec 'polis', que designava les ciutats estat a l'antiga Grècia. Moià té prop de 6.000 habitants i és la capital de la comarca del Moianès. A partir d'aquests dos exemples el programa reflexiona sobre conceptes com felicitat, virtut, justícia, Estat o poder. Hi intervenen Norbert Bilbeny, catedràtic d'Ètica, UB; Núria Sara Miras, Dept. de Filosofia Moral i Política de la UB; Dionís Guiteras, alcalde de Moià; Antoni Arenas, cap Policia Local de Moià, i l'exindigent José María Erustes.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-08-23T15:25:44+02:00",
+        "stop": "2026-08-23T16:14:33+02:00",
+        "title": "Vida",
+        "subtitle": "Caçadors i caçats",
+        "description": "Cada dia, a les selves, als prats, als deserts i a les immensitats glaçades, es lliuren, es guanyen i es perden batalles entre els carnívors i les seves preses. Contemplarem com els guepards s'uneixen per tombar una estruç, com un ermini diminut s'enfronta a un conill deu vegades més gros, cries d'elefant marí segrestades de la seva piscina per una orca, les pallassades d'un esquirol per esquivar una serp de cascavell i, finalment, amb imatges formidables enregistrades a 2.000 fotogrames per segon, l'atac d'un ratpenat pescador volant a gairebé 100km/h.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
