@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T19:02:45.963876+00:00",
+  "updated": "2026-08-23T19:33:08.668985+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-23T20:30:00+02:00",
-        "stop": "2026-08-23T21:25:32+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Prèvia Elx-Barça / J2",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
-      },
-      {
-        "start": "2026-08-23T21:25:32+02:00",
-        "stop": "2026-08-23T23:28:06+02:00",
+        "start": "2026-08-23T21:25:11+02:00",
+        "stop": "2026-08-23T23:28:09+02:00",
         "title": "Un dia de partit",
         "subtitle": "Elx-Barça",
         "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
+      },
+      {
+        "start": "2026-08-23T23:28:09+02:00",
+        "stop": "2026-08-24T00:27:04+02:00",
+        "title": "E3D",
+        "subtitle": "Hip-hop International 1",
+        "description": "L'Olímpic Arena de Badalona és l'escenari d'aquest festival de dansa urbana amb la participació de 2 mil ballarins en totes les categories. En joc, el títol de campions d'Espanya i la classificació per al Mundial que es farà, aquest estiu, a la ciutat estatunidenca de Phoenix.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/3/1776942101335.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-23T21:00:03+02:00",
-        "stop": "2026-08-23T21:20:56+02:00",
+        "start": "2026-08-23T21:21:03+02:00",
+        "stop": "2026-08-23T21:41:13+02:00",
         "title": "Els germans Kratt",
-        "subtitle": "Fem salts ben alts!",
-        "description": "Mentre els germans Kratt investiguen els poders animals de les llagostes, la Koki i l'Aviva ajuden el Nolan i la Sani a fer una catapulta. L'equip es fa amic d'una llagosta, que bategen amb el nom de Catapulta per la manera com s'impulsa per saltar. Però llavors veuen aparèixer les aeronaus de la Donita Donata i la Paisley Paviment que van cap a les oficines del Zach Virusmàtic... Quina en porten de cap?",
+        "subtitle": "El Bernat Americà",
+        "description": "Explorant uns pantans, els germans Kratt troben un bernat americà i, com que és de color blau, el Martin està molt content. Tots plegats queden bocabadats amb les característiques i les habilitats d'aquest ocell; tots menys el Chris, que voldria un ocell verd per ell. L'equip Kratt es posa a estudiar a fons el bernat americà per fer-ne un disc de poder animal, però alhora també s'haurà d'enfrontar amb el Zach, que miniaturitza la nau Tortuga per quedar-se tots els invents de l'equip.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T21:20:56+02:00",
-        "stop": "2026-08-23T21:41:05+02:00",
+        "start": "2026-08-23T21:41:13+02:00",
+        "stop": "2026-08-23T22:03:33+02:00",
         "title": "Els germans Kratt",
-        "subtitle": "El Bernat Americà",
-        "description": "Explorant uns pantans, els germans Kratt troben un bernat americà i, com que és de color blau, el Martin està molt content. Tots plegats queden bocabadats amb les característiques i les habilitats d'aquest ocell; tots menys el Chris, que voldria un ocell verd per ell. L'equip Kratt es posa a estudiar a fons el bernat americà per fer-ne un disc de poder animal, però alhora també s'haurà d'enfrontar amb el Zach, que miniaturitza la nau Tortuga per quedar-se tots els invents de l'equip.",
+        "subtitle": "Tria un peix espasa",
+        "description": "L'Aviva és una mestra de l'esgrima i proposa als germans Kratt un repte: que triïn quin vestit de peix amb espasa prefereixen per fer un duel amb ella. L'equip aprofita l'ocasió per estudiar les semblances i les diferències entre tres tipus de peixos que tenen espasa al morro: el marlí, el peix vela i el peix espasa. Mentrestant, s'hauran d'enfrontar amb el Zach, que vol dur a terme un altre projecte malvat dels seus: capturar tots els peixos del món per vendre'ls i fer-se més ric.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-23T21:01:10+02:00",
-        "stop": "2026-08-23T21:10:51+02:00",
-        "title": "Ets i uts",
-        "subtitle": "Quan vam passar por",
-        "description": "Durant el rodatge d'un dels reportatges a prop d'una masia abandonada, comencen a passar coses estranyes.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-23T21:10:51+02:00",
-        "stop": "2026-08-23T22:01:30+02:00",
+        "start": "2026-08-23T21:10:53+02:00",
+        "stop": "2026-08-23T22:01:39+02:00",
         "title": "Gent de món",
         "subtitle": "Jamaica i Mèxic",
         "description": "Heu viscut mai en una ciutat flotant? Heu navegat per les rutes dels pirates més sanguinaris? Heu fet surf en onades d'una alçada d'un vintè pis? Us heu petonejat mai amb un dofí? Heu nedat mai entre ratpenats? No?Doncs prepareu-vos, perquè avui farem tot això i més en el viatge pel mar del Carib que ens portarà a conèixer Jamaica, terra de dones guapes i homes veloços i la costa de Yucatán, a Mèxic, el país dels maies.",
         "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T22:01:39+02:00",
+        "stop": "2026-08-23T22:55:04+02:00",
+        "title": "Planeta dinàmic",
+        "subtitle": "Terra",
+        "description": "El clima de la Terra canvia i els sistemes naturals que abans eren estables i dels quals depenem es desequilibren perillosament. Científics intrèpids, tribus locals i megafauna gegant, de l'Àrtic a l'Amazònia, ens revelen com la ciència, la natura i la tradició ens poden ajudar a preparar-nos per un futur que canvia molt de pressa.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
