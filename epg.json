@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T20:15:54.770413+00:00",
+  "updated": "2026-08-23T20:47:10.592587+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T22:14:28+02:00",
-        "stop": "2026-08-23T22:24:58+02:00",
-        "title": "Les filles del Dad",
-        "subtitle": "Els vostres desitjos són ordres",
-        "description": "L'Ondine s'ha descarregat una app que promet fer realitat els desitjos de l'usuari si fa el que li demana Moctar, l'avatar de l'app. La Panda i la Roxane pensen que és una enganyifa, però l'Ondine hi mostra una fe absoluta i executa fil per randa les consignes estrambòtiques de l'app. Tot i que sembli ridícul, el primer desig de l'Ondine es fa realitat, cosa que farà dubtar les seves germanes.",
+        "start": "2026-08-23T22:46:40+02:00",
+        "stop": "2026-08-23T22:57:40+02:00",
+        "title": "La tropa del corral",
+        "subtitle": "L'Agnes i en Reggie per sempre",
+        "description": "En Reggie truca la Tropa perquè vol ballar amb l'Agnes per primer cop a la vida per celebrar el seu aniversari de noces. L'Agnes també els truca, perquè vol que l'ajudin a fer-se una bona foto per regalar-li a en Reggie. Mentre en Clive fa classes de ball a en Reggie, la Flo prepara una sessió de fotos d'allò més estrafolària per l'Agnes.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T22:24:58+02:00",
-        "stop": "2026-08-23T22:35:33+02:00",
-        "title": "Les filles del Dad",
-        "subtitle": "La vida és una tòmbola",
-        "description": "Quina sort que té l'Ondine! Ha guanyat el micròfon dels seus somnis en una tómbola organitzada per l'Ajuntament. Però quan li toca anar a recollir el premi, no troba el número guanyador. I, dramàtica com és, perd els estreps. Desesperades, les seves germanes li recomanen que faci servir la lògica per buscar-lo, de manera que l'Ondine decideix reconstruir fil per randa tots els fets del dia anterior per trobar el número premiat.",
+        "start": "2026-08-23T22:57:40+02:00",
+        "stop": "2026-08-23T23:08:26+02:00",
+        "title": "La tropa del corral",
+        "subtitle": "El cas del singlot",
+        "description": "La Crystal truca la Tropa del Corral perquè té un singlot que l'està fent parar boja. La podran ajudar? I tant! Tot i que cada membre de la Tropa té la seva pròpia manera de fer-ho, cadascuna més estranya que l'anterior. Al final, serà l'Elvis qui tingui la clau per fer-li passar el singlot.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
