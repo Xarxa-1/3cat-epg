@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T21:44:07.910406+00:00",
+  "updated": "2026-08-23T21:59:13.920152+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,15 +103,6 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T23:41:16+02:00",
-        "stop": "2026-08-23T23:52:05+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "Amb dents i ungles",
-        "description": "A la Felicity està a punt de caure-li una dent i té por que li faci mal. El Miguel l'anima dient-li que la posarà sota el coixí i la fada dents de sabre li deixarà monedes d'or. Però vet aquí que hi ha un lladre que està robant les monedes a tothom.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
         "start": "2026-08-23T23:52:05+02:00",
         "stop": "2026-08-24T00:02:24+02:00",
         "title": "La gateta Arc iris papallona unicorn",
@@ -119,24 +110,33 @@
         "description": "La Felicity fa sortir la seva doble malvada de dins de la llegendària Roca del Mirall i causa estralls per tot Mitelàndia. L'única manera que se'ls acut a ella i al Miguel d'aturar la doble és transformar-se en la Poderosa Meu i el Superlluita.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
+      },
+      {
+        "start": "2026-08-24T00:02:24+02:00",
+        "stop": "2026-08-24T00:12:43+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "L'hipopòtam borinot magnètic que canta karaoke",
+        "description": "La Felicity i el Miguel coneixen un hipopòtam-borinot que es vol desempallegar dels seus poders màgics perquè, segons ell, són inútils i només li porten problemes. Però la Felicity el vol convèncer que són uns poders meravellosos i especials.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-23T22:55:07+02:00",
-        "stop": "2026-08-23T23:46:54+02:00",
-        "title": "Planeta dinàmic",
-        "subtitle": "Foc",
-        "description": "A mesura que pugen les temperatures, els incendis forestals cremen amb virulència, s'intensifiquen les sequeres i els conflictes entre els humans i els animals, i es desestabilitzen els sistemes. Les persones que viuen i treballen a primera línia dels canvis ens revelen com la ciència, la natura i la tradició ens poden ajudar a preparar-nos per un futur que canvia molt de pressa.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
       {
         "start": "2026-08-23T23:46:54+02:00",
         "stop": "2026-08-24T00:39:03+02:00",
         "title": "Planeta dinàmic",
         "subtitle": "Aigua",
         "description": "Els nostres oceans canvien a mesura que el planeta s'escalfa, amb conseqüències de gran abast. Un extraordinari grup d'experts marins de l'Antàrtida a Austràlia, de Florida a Nova Zelanda, n'examinen l'impacte i revelen com la ciència, la natura i la saviesa tradicional ens pot preparar per un futur que canvia molt de pressa.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-24T00:39:03+02:00",
+        "stop": "2026-08-24T01:31:03+02:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Volcans beneficiosos",
+        "description": "Els volcans tenen la imatge de muntanyes de foc que amenacen l'entorn i que periòdicament causen una enorme destrucció. Tot i així, atreuen moltes persones que s'instal·len al seu voltant perquè els donen molt més del que els prenen. Emeten minerals molt importants per a l'agricultura, atreuen les pluges i també són una font d'energia que cada cop s'aprofita més arreu del món. En aquest episodi s'exploren els diversos factors beneficiosos dels volcans.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
