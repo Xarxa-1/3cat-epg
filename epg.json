@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T14:47:55.430074+00:00",
+  "updated": "2026-08-23T15:16:58.348349+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,20 +43,20 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-23T16:19:46+02:00",
-        "stop": "2026-08-23T17:06:17+02:00",
-        "title": "Arnau",
-        "subtitle": "",
-        "description": "Arnau s'acomiada de les filles i, acompanyat pel seu criat més fidel, Bernat, s'amaga per preparar la venjança. Elna no ha pogut seguir Arnau, perquè Agra ho ha impedit.Odalric no gosa fer-lo matar per por de l'amenaça de la bruixa i fa disfressar Mamburg de fals Arnau i li mana cometre atrocitats contra els pagesos i nobles fidels a Arnau perquè siguin ells mateixos els que el matin.Entre el poble sorgeixen versions diferents i contradictòries sobre Arnau: per uns és un assassí, i per altres és l'únic que els pot alliberar de les arbitrarietats d'Odalric. La visió positiva sobre'Arnau s'intensifica quan Ermengol, que es descobreix davant Sància com un noble d'un altre comtat, també decideix prendre el paper d'Arnau, formar un exèrcit i conquerir terres als àrabs en nom del nou comte de Barcelona, Berenguer, en teoria aliat d'Odalric.Odalric és cridat a Barcelona pel nou comte. I hi va amb l'esperança de fer pactes que li puguin ser favorables. Però allà es troba amb l'acusació d'haver muntat un judici fraudulent contra Arnau. És condemnat a buscar Arnau i restituir-li l'honor. Odalric se sent profundament humiliat.",
-        "genre": "TELESÈRIE",
-        "image": ""
-      },
-      {
-        "start": "2026-08-23T17:06:17+02:00",
-        "stop": "2026-08-23T18:06:21+02:00",
+        "start": "2026-08-23T17:06:18+02:00",
+        "stop": "2026-08-23T18:06:22+02:00",
         "title": "Temps de silenci",
         "subtitle": "Hereus",
         "description": "En Joaquim torna de Rússia. Sembla canviat... Neix el fill de la Isabel, però les coses no sempre van com han d'anar... I la Dolors, gelosa, necessita aferrar-se a en Ramon. I en Frederic, com tants d'altres, necessita explicar els seus sentiments... tots.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T18:06:22+02:00",
+        "stop": "2026-08-23T19:03:00+02:00",
+        "title": "Temps de silenci",
+        "subtitle": "Miratges",
+        "description": "La vaga de tramvies el 52 posa a prova l'enginy de molta gent. Uns han de decidir entre el que mana el cor i el que aconsella el cap. Altres tenen les coses prou clares i, de vegades, pocs escrúpols dins, fins i tot, de les mateixes famílies... I els nens es van fent grans... Ha nascut la Núria, la filla de la Isabel.",
         "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
@@ -83,15 +83,6 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-23T16:21:57+02:00",
-        "stop": "2026-08-23T17:08:54+02:00",
-        "title": "E3",
-        "subtitle": "L'home més fort del món Giants Live 5: World Tour Finals",
-        "description": "Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/2/1780671126722.jpg"
-      },
-      {
         "start": "2026-08-23T17:08:54+02:00",
         "stop": "2026-08-23T17:41:24+02:00",
         "title": "Zona Zàping Club",
@@ -99,44 +90,53 @@
         "description": "Xavi Valls posa a prova el seu instint en un concurs en què qualsevol detall pot canviar completament el final.",
         "genre": "ESPECIALS",
         "image": ""
+      },
+      {
+        "start": "2026-08-23T17:41:24+02:00",
+        "stop": "2026-08-23T18:36:14+02:00",
+        "title": "Motocròs",
+        "subtitle": "Gran Premi dels Països Baixos / WMX Motocross World Championship / J2",
+        "description": "Penúltima prova del Campionat del Món de Motocròs amb la participació destacada de la catalana Daniela Guillén, que està entre candidates al títol. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/4/1779284574045.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-23T16:38:46+02:00",
-        "stop": "2026-08-23T16:49:16+02:00",
+        "start": "2026-08-23T17:10:17+02:00",
+        "stop": "2026-08-23T17:20:47+02:00",
         "title": "Ideafix i els irreductibles",
-        "subtitle": "Són fosos, aquests romans!",
-        "description": "El general Labiè ordena confiscar totes les falçs d'or del pobre Amèrix per poder-les fondre i fer-ne un bust amb l'efígie del prefecte Astutus. Els Irreductibles Ideafix i Devòrix, amb l'ajut de les ratolines Sucrina i Neulina, lluitaran aferrissadament per impedir-ho.",
+        "subtitle": "Salvem l'enemic",
+        "description": "El general Labiè té un atac de fetge i s'encomana al druida gal Amnèsix perquè el guareixi. La gossa Polvorina hi veu una bona avinentesa per venjar el malaguanyat Camulogen: segrestarà la ratolina Melina i obligarà el mussol Voldenix a sabotejar la poció del druida a canvi d'alliberar-la. Com dirà l'Irreductible Ideafix: 'Cal salvar la Melina per salvar en Labiè per salvar l'Amnèsix.'",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T16:49:16+02:00",
-        "stop": "2026-08-23T16:59:47+02:00",
+        "start": "2026-08-23T17:20:47+02:00",
+        "stop": "2026-08-23T17:31:17+02:00",
         "title": "Ideafix i els irreductibles",
-        "subtitle": "Reptes a tot preu",
-        "description": "La Turbina i la Picarina juguen a llançar-se reptes, fins que provoquen la ira dels romans quan pispen el raspall de luxe de la Monalisa. El cau dels Irreductibles corre perill i cal retornar el raspall als romans com més aviat millor, però la banda de les catacumbes se l'ha fet seu. Mentrestant, la poció del Voldenix contra el catarro de l'Ideafix provoca uns efectes secundaris ben empipadors, que, tanmateix, ajudaran els Irreductibles a retornar el raspall als romans.",
+        "subtitle": "La Turbina a pas de lloba",
+        "description": "Havent fet fracassar un atemptat de la gossa Polvorina contra els romans, l'Ideafix es troba engabiat juntament amb ella. Malgrat les diferències que els separen, no tenen més remei que cooperar per poder-ne fugir. Mentrestant, la gossa Turbina i la lloba Halouina també fan plans per alliberar-los.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-23T16:14:34+02:00",
-        "stop": "2026-08-23T17:02:59+02:00",
-        "title": "Vida",
-        "subtitle": "Els habitants de les profunditats",
-        "description": "Mitjançant tècniques de parada de càmera desenvolupades especialment per fer seguiments en un entorn submarí, 'Life' emprèn un viatge als racons més inexplorats de l'oceà. És aquí on s'estan realitzant nous descobriments, on viuen les criatures més estranyes, des d'aranyes de mar gegants que s'apleguen a milers tot buscant la seguretat de la bandada quan muden la carcassa que les protegeix, fins al calamar gegant 'transvestit'. Ens afegirem a un grup de 250 calamars gegants del corrent de Humboldt en una expedició de caça, contemplarem el sacrifici desesperat d'un pop gegant del Pacífic mare que mor de gana per atendre la seva cria i ens submergirem sota el gel permanent de l'Antàrtida per observar una estora bellugadissa d'estrelles de mar mentre devoren el cos d'una cria de foca.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
         "start": "2026-08-23T17:02:59+02:00",
         "stop": "2026-08-23T17:47:52+02:00",
         "title": "Tresors perduts d'Egipte",
         "subtitle": "Alexandre el Gran",
         "description": "Diversos arqueòlegs investiguen el faraó més temut d'Egipte, el rei guerrer més famós de la història, Alexandre el Gran. A Saqqara, descobrim com es va convertir en faraó i com s'ho va fer per conquerir els cors i les ments dels egipcis. A Filadèlfia, un equip d'excavació descobreix una catacumba singular que revela el llegat del regnat d'Alexandre. I a Taposiris Magna, els arqueòlegs fan un descobriment sorprenent en una gran tomba-temple.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T17:47:52+02:00",
+        "stop": "2026-08-23T18:32:52+02:00",
+        "title": "Tresors perduts d'Egipte",
+        "subtitle": "Secrets de les piràmides perdudes",
+        "description": "Els arqueòlegs investiguen el llegat de les piràmides de Gizeh i de les misterioses piràmides que es van construir després. Busquen l'ocupant enigmàtic d'un colossal pou funerari que s'endinsa al fons de l'antiga zona de piràmides d'Abusir. També investiguen la luxosa tomba d'un membre de l'elit situada prop de la piràmide del faraó Djedkare a Saqqara, i excaven la tomba llargament perduda del faraó Sahuré, l'única tomba piràmide que encara no s'ha explorat mai.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
