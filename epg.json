@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T13:55:34.216163+00:00",
+  "updated": "2026-08-23T14:18:52.210173+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T15:51:21+02:00",
-        "stop": "2026-08-23T16:02:43+02:00",
+        "start": "2026-08-23T16:14:05+02:00",
+        "stop": "2026-08-23T16:27:48+02:00",
         "title": "Les Sisters",
-        "subtitle": "El superpremi",
-        "description": "El premi de la rifa de l'escola és una tauleta i la Marine la vol sigui com sigui. La Wendy veu que és la seva oportunitat de no haver de deixar-li la seva i decideix ajudar sa germana a comprar el màxim de bitllets per tenir més possibilitats que els toqui el premi. Però per això necessiten diners. I si munten una paradeta per vendre coses de casa?",
+        "subtitle": "Les germanes es fan grans",
+        "description": "Les germanes estan fartes de fer els deures, d'endreçar la seva habitació i de parar la taula. Estan tipes de fer feines de casa! A la Marine i a la Wendy els encantaria fer com els pares, que l'únic que fan és manar i donar ordres. El seu pare els proposa canviar els papers. La Wendy i la Marine faran de pares, i els pares, de nens petits! Si aguanten tot el cap de setmana, estaran un mes sense fer feines de casa!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T16:02:43+02:00",
-        "stop": "2026-08-23T16:14:05+02:00",
-        "title": "Les Sisters",
-        "subtitle": "La meva nova germaneta",
-        "description": "Els pares no hi són i la Wendy ha de cuidar la Marine... però avui és l'aniversari dels mil missatges de la Wendy i el Maxence, i la Wendy no vol que la pesada de la seva germana li espatlli la festa. La Wendy li demana a la Mel, la cosina del Maxence, que s'ocupi de la seva germana... però llavors s'adona que la Mel i la Marine es porten superbé.",
+        "start": "2026-08-23T16:27:48+02:00",
+        "stop": "2026-08-23T16:38:45+02:00",
+        "title": "Ideafix i els irreductibles",
+        "subtitle": "Aigües tèrboles a Lutècia",
+        "description": "L'amo de la Vitamina, l'Homeopàtix, ha obert un saló de bellesa, però l'Ideafix descobreix que els productes que hi fa servir contaminen el Sena. Els Irreductibles decideixen posar-hi fi, però en Devòrix fa el ronso, ara que, per seduir la Vitamina, ha pres un bany i va tot net i polit.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-23T15:25:44+02:00",
-        "stop": "2026-08-23T16:14:34+02:00",
-        "title": "Vida",
-        "subtitle": "Caçadors i caçats",
-        "description": "Cada dia, a les selves, als prats, als deserts i a les immensitats glaçades, es lliuren, es guanyen i es perden batalles entre els carnívors i les seves preses. Contemplarem com els guepards s'uneixen per tombar una estruç, com un ermini diminut s'enfronta a un conill deu vegades més gros, cries d'elefant marí segrestades de la seva piscina per una orca, les pallassades d'un esquirol per esquivar una serp de cascavell i, finalment, amb imatges formidables enregistrades a 2.000 fotogrames per segon, l'atac d'un ratpenat pescador volant a gairebé 100km/h.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
         "start": "2026-08-23T16:14:34+02:00",
         "stop": "2026-08-23T17:02:59+02:00",
         "title": "Vida",
         "subtitle": "Els habitants de les profunditats",
         "description": "Mitjançant tècniques de parada de càmera desenvolupades especialment per fer seguiments en un entorn submarí, 'Life' emprèn un viatge als racons més inexplorats de l'oceà. És aquí on s'estan realitzant nous descobriments, on viuen les criatures més estranyes, des d'aranyes de mar gegants que s'apleguen a milers tot buscant la seguretat de la bandada quan muden la carcassa que les protegeix, fins al calamar gegant 'transvestit'. Ens afegirem a un grup de 250 calamars gegants del corrent de Humboldt en una expedició de caça, contemplarem el sacrifici desesperat d'un pop gegant del Pacífic mare que mor de gana per atendre la seva cria i ens submergirem sota el gel permanent de l'Antàrtida per observar una estora bellugadissa d'estrelles de mar mentre devoren el cos d'una cria de foca.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T17:02:59+02:00",
+        "stop": "2026-08-23T17:47:52+02:00",
+        "title": "Tresors perduts d'Egipte",
+        "subtitle": "Alexandre el Gran",
+        "description": "Diversos arqueòlegs investiguen el faraó més temut d'Egipte, el rei guerrer més famós de la història, Alexandre el Gran. A Saqqara, descobrim com es va convertir en faraó i com s'ho va fer per conquerir els cors i les ments dels egipcis. A Filadèlfia, un equip d'excavació descobreix una catacumba singular que revela el llegat del regnat d'Alexandre. I a Taposiris Magna, els arqueòlegs fan un descobriment sorprenent en una gran tomba-temple.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
