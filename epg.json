@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T16:50:08.509335+00:00",
+  "updated": "2026-08-23T17:16:39.313041+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,21 +43,21 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-23T18:06:23+02:00",
-        "stop": "2026-08-23T19:03:01+02:00",
-        "title": "Temps de silenci",
-        "subtitle": "Miratges",
-        "description": "La vaga de tramvies el 52 posa a prova l'enginy de molta gent. Uns han de decidir entre el que mana el cor i el que aconsella el cap. Altres tenen les coses prou clares i, de vegades, pocs escrúpols dins, fins i tot, de les mateixes famílies... I els nens es van fent grans... Ha nascut la Núria, la filla de la Isabel.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
-      },
-      {
-        "start": "2026-08-23T19:03:01+02:00",
-        "stop": "2026-08-23T19:34:39+02:00",
+        "start": "2026-08-23T19:03:02+02:00",
+        "stop": "2026-08-23T19:34:40+02:00",
         "title": "Manicòmics",
         "subtitle": "Res en concret amb Andrés Fajngold",
         "description": "L'Andrés convida l'Ignasi a parlar de tot i de res mentre estenen roba. Visiten el Santuari de Puiggraciós i les monges que hi viuen per conèixer el seu estil de vida. Per acabar, l'Ignasi proposa a l'Andrés un pla ple d'adrenalina.",
         "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T19:34:40+02:00",
+        "stop": "2026-08-23T19:44:58+02:00",
+        "title": "Blog Europa.",
+        "subtitle": "",
+        "description": "",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
@@ -103,22 +103,22 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T18:47:42+02:00",
-        "stop": "2026-08-23T19:09:33+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Trolejar el trol",
-        "description": "La Zerlina convoca la Sam, l'Alex i la Clover perquè tot d'amics s'estan barallant a tot arreu i és probable que sigui l'obra d'algun malvat. Les noies comencen a investigar i s'adonen que a tot arreu on hi ha discussions hi ha dues figures amb guants i barret. D'altra banda, la Sam acaba de llançar el seu primer videojoc i la Mandy s'ha proposat fer-lo fracassar.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
-      },
-      {
         "start": "2026-08-23T19:09:33+02:00",
-        "stop": "2026-08-23T19:32:07+02:00",
+        "stop": "2026-08-23T19:32:08+02:00",
         "title": "Espies de veritat",
         "subtitle": "Megaformatge lunar",
         "description": "Les onades de les platges d'arreu del món es comporten d'una manera estranya i la Zerlina encarrega a les espies que vagin a investigar què passa. Gràcies a una mostra d'asteroide que envien al Toby perquè l'analitzi, descobreixen que ve de París, on també hi passen coses estranyes. Allà les espies coneixen en Jacques Montague, un fabricant de formatges enfadat amb les noves modes alimentàries.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+      },
+      {
+        "start": "2026-08-23T19:32:08+02:00",
+        "stop": "2026-08-23T19:54:33+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El verdader culpable s’ha fugat!",
+        "description": "Mentre juguen a pilota, els membres de la Lliga de Detectius Júnior troben un cadàver. Sembla que el rastre deixat per l'assassí no porta enlloc, però en Conan s'adonarà d'un detall que els permetrà atrapar el criminal.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       }
     ],
     "c33": [
