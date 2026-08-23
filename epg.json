@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T14:18:52.210173+00:00",
+  "updated": "2026-08-23T14:47:55.430074+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-23T15:31:41+02:00",
-        "stop": "2026-08-23T16:19:45+02:00",
-        "title": "Arnau",
-        "subtitle": "",
-        "description": "Arnau s'enfronta amb Odalric; l'acusa de voler-lo matar i de la mort del comte. No en té cap prova, però, a partir d'aquí, l'odi entre els dos cunyats és inevitable. Arnau, seguint els ensenyaments del noble Yazid, es preocupa de les seves terres, les fa produir i dóna dret als pagesos. Les innovacions són mal vistes pels altres nobles i, fins i tot, per l'abat Ató.Odalric contracta Mamburg, una mena de mercenari, perquè espiï tots els moviments d'Arnau. Veu amb disgust com Arnau és cada dia més popular entre la població. Ajudat per l'abadessa i per Mamburg, li posa paranys per desprestigiar-lo.Mentrestant, Arnau aconsegueix descobrir on s'amaga l'Elna, la treu del convent, abandona la dona i les filles i se'n va a viure amb ella.Garsa ja no pot continuar fent creure a Odalric que està embarassada i va a veure la bruixa perquè l'ajudi. La bruixa li fa veure que si no s'ha quedat embarassada no és per culpa seva, sinó del marit. Garsa troba en Mamburg l'home idoni per quedar embarassada.També Odalric visita Agra. Vol saber com defensar-se d'Arnau sense despertar sospites. Agra l'avisa que no vessi sang del seu cunyat si no vol que el fill que Garsa porta al ventre neixi mort. Li aconsella que l'única manera de desfer-se d'Arnau és amb la mentida.",
-        "genre": "TELESÈRIE",
-        "image": ""
-      },
-      {
-        "start": "2026-08-23T16:19:45+02:00",
-        "stop": "2026-08-23T17:06:16+02:00",
+        "start": "2026-08-23T16:19:46+02:00",
+        "stop": "2026-08-23T17:06:17+02:00",
         "title": "Arnau",
         "subtitle": "",
         "description": "Arnau s'acomiada de les filles i, acompanyat pel seu criat més fidel, Bernat, s'amaga per preparar la venjança. Elna no ha pogut seguir Arnau, perquè Agra ho ha impedit.Odalric no gosa fer-lo matar per por de l'amenaça de la bruixa i fa disfressar Mamburg de fals Arnau i li mana cometre atrocitats contra els pagesos i nobles fidels a Arnau perquè siguin ells mateixos els que el matin.Entre el poble sorgeixen versions diferents i contradictòries sobre Arnau: per uns és un assassí, i per altres és l'únic que els pot alliberar de les arbitrarietats d'Odalric. La visió positiva sobre'Arnau s'intensifica quan Ermengol, que es descobreix davant Sància com un noble d'un altre comtat, també decideix prendre el paper d'Arnau, formar un exèrcit i conquerir terres als àrabs en nom del nou comte de Barcelona, Berenguer, en teoria aliat d'Odalric.Odalric és cridat a Barcelona pel nou comte. I hi va amb l'esperança de fer pactes que li puguin ser favorables. Però allà es troba amb l'acusació d'haver muntat un judici fraudulent contra Arnau. És condemnat a buscar Arnau i restituir-li l'honor. Odalric se sent profundament humiliat.",
         "genre": "TELESÈRIE",
         "image": ""
+      },
+      {
+        "start": "2026-08-23T17:06:17+02:00",
+        "stop": "2026-08-23T18:06:21+02:00",
+        "title": "Temps de silenci",
+        "subtitle": "Hereus",
+        "description": "En Joaquim torna de Rússia. Sembla canviat... Neix el fill de la Isabel, però les coses no sempre van com han d'anar... I la Dolors, gelosa, necessita aferrar-se a en Ramon. I en Frederic, com tants d'altres, necessita explicar els seus sentiments... tots.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-23T14:30:00+02:00",
-        "stop": "2026-08-23T16:30:00+02:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
-      },
-      {
         "start": "2026-08-23T16:30:00+02:00",
         "stop": "2026-08-23T18:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-23T18:30:00+02:00",
+        "stop": "2026-08-23T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,40 +83,40 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-23T15:34:22+02:00",
-        "stop": "2026-08-23T16:21:56+02:00",
-        "title": "E3",
-        "subtitle": "L'home més fort del món Giants Live 4: The Strongman Open",
-        "description": "Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/2/1780671126722.jpg"
-      },
-      {
-        "start": "2026-08-23T16:21:56+02:00",
-        "stop": "2026-08-23T17:08:53+02:00",
+        "start": "2026-08-23T16:21:57+02:00",
+        "stop": "2026-08-23T17:08:54+02:00",
         "title": "E3",
         "subtitle": "L'home més fort del món Giants Live 5: World Tour Finals",
         "description": "Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.",
         "genre": "REPORTATGES",
         "image": "https://img.3cat.cat/multimedia/jpg/2/2/1780671126722.jpg"
+      },
+      {
+        "start": "2026-08-23T17:08:54+02:00",
+        "stop": "2026-08-23T17:41:24+02:00",
+        "title": "Zona Zàping Club",
+        "subtitle": "En Zapi canviarà de programa i marxarà amb Xavi Valls a l''Onze'?",
+        "description": "Xavi Valls posa a prova el seu instint en un concurs en què qualsevol detall pot canviar completament el final.",
+        "genre": "ESPECIALS",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-23T16:14:05+02:00",
-        "stop": "2026-08-23T16:27:48+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Les germanes es fan grans",
-        "description": "Les germanes estan fartes de fer els deures, d'endreçar la seva habitació i de parar la taula. Estan tipes de fer feines de casa! A la Marine i a la Wendy els encantaria fer com els pares, que l'únic que fan és manar i donar ordres. El seu pare els proposa canviar els papers. La Wendy i la Marine faran de pares, i els pares, de nens petits! Si aguanten tot el cap de setmana, estaran un mes sense fer feines de casa!",
+        "start": "2026-08-23T16:38:46+02:00",
+        "stop": "2026-08-23T16:49:16+02:00",
+        "title": "Ideafix i els irreductibles",
+        "subtitle": "Són fosos, aquests romans!",
+        "description": "El general Labiè ordena confiscar totes les falçs d'or del pobre Amèrix per poder-les fondre i fer-ne un bust amb l'efígie del prefecte Astutus. Els Irreductibles Ideafix i Devòrix, amb l'ajut de les ratolines Sucrina i Neulina, lluitaran aferrissadament per impedir-ho.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T16:27:48+02:00",
-        "stop": "2026-08-23T16:38:45+02:00",
+        "start": "2026-08-23T16:49:16+02:00",
+        "stop": "2026-08-23T16:59:47+02:00",
         "title": "Ideafix i els irreductibles",
-        "subtitle": "Aigües tèrboles a Lutècia",
-        "description": "L'amo de la Vitamina, l'Homeopàtix, ha obert un saló de bellesa, però l'Ideafix descobreix que els productes que hi fa servir contaminen el Sena. Els Irreductibles decideixen posar-hi fi, però en Devòrix fa el ronso, ara que, per seduir la Vitamina, ha pres un bany i va tot net i polit.",
+        "subtitle": "Reptes a tot preu",
+        "description": "La Turbina i la Picarina juguen a llançar-se reptes, fins que provoquen la ira dels romans quan pispen el raspall de luxe de la Monalisa. El cau dels Irreductibles corre perill i cal retornar el raspall als romans com més aviat millor, però la banda de les catacumbes se l'ha fet seu. Mentrestant, la poció del Voldenix contra el catarro de l'Ideafix provoca uns efectes secundaris ben empipadors, que, tanmateix, ajudaran els Irreductibles a retornar el raspall als romans.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
