@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22T23:58:46.701556+00:00",
+  "updated": "2026-08-23T01:42:54.830798+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-23T01:17:21+02:00",
-        "stop": "2026-08-23T02:52:40+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Post Espanyol-R. Madrid / J2",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-08-23T03:06:46+02:00",
+        "stop": "2026-08-23T04:58:36+02:00",
+        "title": "Rugbi",
+        "subtitle": "Dracs Catalans-Hull FC / Super League / J24",
+        "description": "Els de Perpinyà, que en el precedent d'Anglaterra van perdre per un ajustat 24 a 20, confien en aconseguir la victòria aquesta vegada. Amb la narració de Sebastià Girard.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/3/1771412542832.jpg"
       },
       {
-        "start": "2026-08-23T02:52:40+02:00",
-        "stop": "2026-08-23T03:06:44+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "start": "2026-08-23T04:58:36+02:00",
+        "stop": "2026-08-23T05:12:11+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Hansi Flick / Prèvia Elx-Barça / J2",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-23T01:55:19+02:00",
-        "stop": "2026-08-23T02:16:26+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Climatika 2",
-        "description": "En aquest episodi, que és una mena de resum d'episodis anteriors, torna a entrar en acció la Climatika, que provoca un caos a París després de ser akumatitzada, però al mateix temps l'Adrien es planteja si la noia que ha respost a la seva poesia de Sant Valentí podria ser la Marinette.",
+        "start": "2026-08-23T03:37:01+02:00",
+        "stop": "2026-08-23T03:47:01+02:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "L'espia Fly",
+        "description": "A l'aventura poptàstica d'avui, els amics preparen una sorpresa per la Fly. Però, quan en Hooper veu que parlen en secret, envia la Fly a espiar-los per descobrir de què es tracta.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T02:16:26+02:00",
-        "stop": "2026-08-23T02:26:43+02:00",
-        "title": "Com dibuixar còmics amb el Will Sliney",
-        "subtitle": "Púrria",
-        "description": "En aquest episodi, el malvat Crònica ha creat una versió malèfica del Will, el Vil, un superdolent que té el poder de crear els superdolents que s'enfrontaran als superherois que ha creat el Will. I el primer superdolent que crearà serà el Púrria, pensat per enfrontar-se a l'Elit. Entre tots dos, el Vil i el Will, ens ensenyaran trucs per dibuixar els malvats i també coneixerem els orígens del Púrria.",
-        "genre": "ALTRES",
+        "start": "2026-08-23T03:47:01+02:00",
+        "stop": "2026-08-23T03:57:06+02:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "Un amic terrorífic",
+        "description": "A l'aventura poptàstica d'avui, en Plom prepara una festa de pijames terrorífica pels seus amics! Però, quan en Zip agafa por i decideix quedar-se a casa, en Plom intenta demostrar-li que les coses que fan por de vegades també poden ser divertides. Anirà com estava prevista, la festa de pijames terrorífica?",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-23T01:37:10+02:00",
-        "stop": "2026-08-23T02:23:00+02:00",
-        "title": "Martin Clunes: Island of America",
-        "subtitle": " Puerto Rico, Geòrgia, Carolina del Nord i Virgínia",
-        "description": "Martin Clunes viatjarà fins a l'illa de Puerto Rico, on aprendrà a ballar salsa i visitarà una destil·leria de rom. Després pujarà per la costa est dels Estats Units fins a unes illes on els descendents dels esclaus encara mantenen vives les seves tradicions ancestrals. I, per acabar, visitarà unes illes de la costa de Virgínia, on cada any una manada de cavalls nedadors fa una travessa aquàtica única al món.",
+        "start": "2026-08-23T03:07:42+02:00",
+        "stop": "2026-08-23T04:00:07+02:00",
+        "title": "Llocs recòndits",
+        "subtitle": "Polònia",
+        "description": "'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-23T02:23:00+02:00",
-        "stop": "2026-08-23T03:07:41+02:00",
-        "title": "Martin Clunes: Island of America",
-        "subtitle": " Nova York, Massachusetts i Maine",
-        "description": "En l'últim episodi de la sèrie, Martin Clunes viatjarà a l'illa de Manhattan, un dels llocs més densament poblats del planeta. Després pujarà per la costa est dels Estats Units fins a Cape Cod, per seguir el rastre dels taurons blancs que neden per les seves platges. Més cap al nord, visitarà un parell d'illes de l'estat de Maine, per entendre què fa que la gent s'entesti a viure en uns indrets tan remots.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-08-23T04:00:07+02:00",
+        "stop": "2026-08-23T04:46:13+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 19",
+        "description": "Hem dedicat els últims quatre capítols a la guardiola, al bastonet de les orelles, al radar i a la pissarra. Temes diversos, però igual de curiosos. Ens han visitat la Maria Nicolau, en Víctor Amat, la P.A.W.N. Gang i l'Òscar Camps. Descobrir anècdotes històriques vinculades a objectes que mai ens havíem imaginat o descobrir secrets de la gent que ens visita sempre són moments que ens agrada recordar, així que us els deixem aquí ben recollidets.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
