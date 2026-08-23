@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T03:45:46.637658+00:00",
+  "updated": "2026-08-23T04:31:47.767800+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-23T05:16:07+02:00",
-        "stop": "2026-08-23T05:56:11+02:00",
-        "title": "Cava de Blues",
-        "subtitle": "A Contrablues",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
-      },
-      {
-        "start": "2026-08-23T05:56:11+02:00",
-        "stop": "2026-08-23T06:00:01+02:00",
-        "title": "Videoclips catalans",
-        "subtitle": "Maria Jacobs - Sempre tornes",
-        "description": "",
-        "genre": "ALTRES",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-08-23T01:00:00+02:00",
-        "stop": "2026-08-23T06:00:00+02:00",
+        "start": "2026-08-23T06:00:01+02:00",
+        "stop": "2026-08-23T07:00:01+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
+        "start": "2026-08-23T07:00:01+02:00",
+        "stop": "2026-08-23T09:59:59+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
         "start": "2026-08-23T06:00:00+02:00",
         "stop": "2026-08-23T07:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-23T07:00:00+02:00",
+        "stop": "2026-08-23T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,15 +83,6 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-23T05:44:36+02:00",
-        "stop": "2026-08-23T06:09:07+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
-      },
-      {
         "start": "2026-08-23T06:09:07+02:00",
         "stop": "2026-08-23T06:32:15+02:00",
         "title": "Espòiler",
@@ -99,45 +90,54 @@
         "description": "En aquest capítol ens posem al volant del nou Mercedes-Benz GLB 250+, un dels SUV més interessants de la marca alemanya amb una autonomia de fins a 630 quilòmetres. També provem el BYD ATTO 2 DM-i, que gràcies a la seva mecànica híbrida endollable es posiciona com un dels cotxes més polivalents del mercat. A més, assistim a la primera ruta multimarca que ha organitzat Quadis Gallery amb tot un seguit de superesportius espectaculars i també coneixem les novetats de GWM, una de les darreres marques en arribar al nostre mercat. ",
         "genre": "REPORTATGES",
         "image": "https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"
+      },
+      {
+        "start": "2026-08-23T06:32:15+02:00",
+        "stop": "2026-08-23T06:45:25+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Hansi Flick / Prèvia Elx-Barça / J2",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-23T05:44:10+02:00",
-        "stop": "2026-08-23T05:50:30+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "Salva la cabra",
-        "description": "El blat de moro de la granja ja està a punt per collir, però el Shaun ha deixat la Segaboca al camp i després d'endrapar tant com ha pogut s'ha quedat adormida. Haurem de veure si el Shaun pot salvar la insaciable cabra abans que tots quedin engolits per la segadora que cull el blat de moro.1",
+        "start": "2026-08-23T06:22:49+02:00",
+        "stop": "2026-08-23T06:44:14+02:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les tres bessones i el fantasma de l'òpera",
+        "description": "Les tres bessones es troben en un teatre, però aviat s'adonen que no és un teatre qualsevol. La Bruixa Avorrida s'enamora de la veu de la cantant, la Cristina, que viu un terrible drama d'amor. La Bruixa n'enveja la veu i, com sempre, posarà tots els entrebancs perquè les tres nenes no aconsegueixin que el Raül es declari a la Cristina.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T05:50:30+02:00",
-        "stop": "2026-08-23T05:52:57+02:00",
-        "title": "Looloo Kids (cançons)",
-        "subtitle": "Pluja, ves-te'n ja! (a l'escola)",
-        "description": "Plou, i a la classe d'en Jaume estan molts tristos perquè volen sortir a jugar al pati. Per això demanen a la pluja que torni un altre dia.",
+        "start": "2026-08-23T06:44:14+02:00",
+        "stop": "2026-08-23T07:10:45+02:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les tres bessones a l'Àfrica",
+        "description": "La Bruixa envia les Bessones a l'Àfrica, on coneixeran en Soco Banzo, un taxista que els mostrarà i els ensenyarà a valorar la seva cultura.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-23T05:45:27+02:00",
-        "stop": "2026-08-23T05:51:30+02:00",
-        "title": "Xarxa Natura",
-        "subtitle": "L''Albera",
-        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
+        "start": "2026-08-23T06:20:43+02:00",
+        "stop": "2026-08-23T06:51:05+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Ebola, l'amenaça del virus",
+        "description": "La lluita contra l'Ebola és una lluita solitariacontra el temps. Aquest virus és una autèntica bomba biològica.Enganya el sistema inmunitari i desfà les venes. I no hi ha altre remei que els anticossos que el mateix malatfabriqui. 'Quèquicom' desxifra tots els misteris de l'Ebola, un virus que està devastant Àfrica i que ja amenaça el món occidental.El brot de l'epidèmia d'Ebola del 2014 és el més mortifer que ha conegut el món. I el més estès de la historia de l'AfricaOccidental.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       },
       {
-        "start": "2026-08-23T05:51:30+02:00",
-        "stop": "2026-08-23T05:54:47+02:00",
-        "title": "VIDEOCLIPS CATALANS",
-        "subtitle": "- NEREA BASSART TRIO - PRESONS",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-08-23T06:51:05+02:00",
+        "stop": "2026-08-23T07:16:59+02:00",
+        "title": "Quèquicom",
+        "subtitle": "QQC i El sistema digestiu.",
+        "description": "Des de la dentició fins als pets, el sistema digestiu pas a pas. Consells dietètics per mantenir un bon equilibri intestinal. També s'expliquen, per comparació, l'estòmac dels remugadors i la digestió de les aus.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
