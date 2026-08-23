@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T20:47:10.592587+00:00",
+  "updated": "2026-08-23T21:16:42.094020+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-23T22:05:04+02:00",
-        "stop": "2026-08-23T22:48:02+02:00",
-        "title": "Cucut",
-        "subtitle": "Capítol 5",
-        "description": "El Rubio i el López capturen el Pep i la Sara. A Trinquet, l'Amat està retingut al graner del Vidal. El Cristian descobreix tota la veritat sobre el seu pare terratinent i s'hi enfronta, en un intent desesperat de defensar la Sara i evitar que ella en surti malparada.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
-      },
-      {
-        "start": "2026-08-23T22:48:02+02:00",
-        "stop": "2026-08-23T23:19:55+02:00",
+        "start": "2026-08-23T22:48:03+02:00",
+        "stop": "2026-08-23T23:19:56+02:00",
         "title": "Oh! Europa",
         "subtitle": "Bèlgica",
         "description": "Camí de Brussel.les, l'autocar té un petit accident. L'Enric en surt amb un bon cop al nas. El cura la Pepa i sembla que neix una atracció entre els dos divorciats. Junts visiten un amic de l'Enric, que treballa a la seu central de la Unió Europea. A la nit, l'Enric convida la Pepa a prendre una copa de xampany a la seva habitació... però res no surt com ell havia previst.",
         "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
+      },
+      {
+        "start": "2026-08-23T23:19:56+02:00",
+        "stop": "2026-08-24T00:17:05+02:00",
+        "title": "Vosaltres mateixos",
+        "subtitle": "Infiltració sorpresa",
+        "description": "El reporter d'investigació Carles Tamayo s'infiltra al programa com un membre (més) de l'equip sense que ni l'Andreu ni la majoria de companys ho sàpiguen.",
+        "genre": "TALK-SHOW",
+        "image": "https://img.ccma.cat/multimedia/png/6/6/1698344358966.png"
       }
     ],
     "324": [
       {
-        "start": "2026-08-23T21:00:00+02:00",
-        "stop": "2026-08-23T23:00:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
         "start": "2026-08-23T23:00:00+02:00",
         "stop": "2026-08-24T00:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-24T00:30:00+02:00",
+        "stop": "2026-08-24T01:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T22:46:40+02:00",
-        "stop": "2026-08-23T22:57:40+02:00",
+        "start": "2026-08-23T23:08:26+02:00",
+        "stop": "2026-08-23T23:19:14+02:00",
         "title": "La tropa del corral",
-        "subtitle": "L'Agnes i en Reggie per sempre",
-        "description": "En Reggie truca la Tropa perquè vol ballar amb l'Agnes per primer cop a la vida per celebrar el seu aniversari de noces. L'Agnes també els truca, perquè vol que l'ajudin a fer-se una bona foto per regalar-li a en Reggie. Mentre en Clive fa classes de ball a en Reggie, la Flo prepara una sessió de fotos d'allò més estrafolària per l'Agnes.",
+        "subtitle": "Els tres treballs de la Tropa del Corral",
+        "description": "Un dels cadells d'en Sam ha llençat la sabatilla de l'amo al carrer, i ara l'Esther pensa que és un objecte sagrat. Diu que no els la pensa tornar fins que la Tropa no completi tres tasques inversemblants, però llavors canvia d'opinió...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T22:57:40+02:00",
-        "stop": "2026-08-23T23:08:26+02:00",
+        "start": "2026-08-23T23:19:14+02:00",
+        "stop": "2026-08-23T23:30:09+02:00",
         "title": "La tropa del corral",
-        "subtitle": "El cas del singlot",
-        "description": "La Crystal truca la Tropa del Corral perquè té un singlot que l'està fent parar boja. La podran ajudar? I tant! Tot i que cada membre de la Tropa té la seva pròpia manera de fer-ho, cadascuna més estranya que l'anterior. Al final, serà l'Elvis qui tingui la clau per fer-li passar el singlot.",
+        "subtitle": "El príncep de la foscor",
+        "description": "En Prince truca la Tropa perquè l'ajudin a desfer-se d'un ratolí que ha vist a casa. Mentre part del grup l'intenta trobar, l'altra mira d'ajudar en Prince a redescobrir els seus instints felins. Serà una missió complicada.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-23T22:01:41+02:00",
-        "stop": "2026-08-23T22:55:06+02:00",
+        "start": "2026-08-23T22:55:07+02:00",
+        "stop": "2026-08-23T23:46:54+02:00",
         "title": "Planeta dinàmic",
-        "subtitle": "Terra",
-        "description": "El clima de la Terra canvia i els sistemes naturals que abans eren estables i dels quals depenem es desequilibren perillosament. Científics intrèpids, tribus locals i megafauna gegant, de l'Àrtic a l'Amazònia, ens revelen com la ciència, la natura i la tradició ens poden ajudar a preparar-nos per un futur que canvia molt de pressa.",
+        "subtitle": "Foc",
+        "description": "A mesura que pugen les temperatures, els incendis forestals cremen amb virulència, s'intensifiquen les sequeres i els conflictes entre els humans i els animals, i es desestabilitzen els sistemes. Les persones que viuen i treballen a primera línia dels canvis ens revelen com la ciència, la natura i la tradició ens poden ajudar a preparar-nos per un futur que canvia molt de pressa.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-23T22:55:06+02:00",
-        "stop": "2026-08-23T23:46:53+02:00",
+        "start": "2026-08-23T23:46:54+02:00",
+        "stop": "2026-08-24T00:39:03+02:00",
         "title": "Planeta dinàmic",
-        "subtitle": "Foc",
-        "description": "A mesura que pugen les temperatures, els incendis forestals cremen amb virulència, s'intensifiquen les sequeres i els conflictes entre els humans i els animals, i es desestabilitzen els sistemes. Les persones que viuen i treballen a primera línia dels canvis ens revelen com la ciència, la natura i la tradició ens poden ajudar a preparar-nos per un futur que canvia molt de pressa.",
+        "subtitle": "Aigua",
+        "description": "Els nostres oceans canvien a mesura que el planeta s'escalfa, amb conseqüències de gran abast. Un extraordinari grup d'experts marins de l'Antàrtida a Austràlia, de Florida a Nova Zelanda, n'examinen l'impacte i revelen com la ciència, la natura i la saviesa tradicional ens pot preparar per un futur que canvia molt de pressa.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
