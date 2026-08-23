@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T10:48:53.632087+00:00",
+  "updated": "2026-08-23T11:16:37.766139+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -94,20 +94,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T12:47:09+02:00",
-        "stop": "2026-08-23T12:53:39+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Regals merescuts",
-        "description": "En Grizzy i els Lèmmings tornen a barallar-se i acaben provocant-li un accident al trineu del Pare Noel. Els rosegadors acuden al lloc de l'incident i s'apropien de la seva bústia màgica. Mentre en Grizzy endreça la cabana després de la baralla, se sorprèn quan veu els Lèmmings tornar tranquils i en silenci. Els rosegadors li canten nadales i li preparen un deliciós aperitiu abans de marxar. En Grizzy no se'n refia i decideix seguir-los. Llavors descobreix que la bústia recompensa aquells que tenen desitjos que equivalen a la seva bondat.",
+        "start": "2026-08-23T13:00:56+02:00",
+        "stop": "2026-08-23T13:23:27+02:00",
+        "title": "Dracs: els nou regnes",
+        "subtitle": "Els agullons",
+        "description": "Quan la doctora Sledkin decideix baixar a l'avenc que dona al Regne de Gel per buscar més mostres de dragonsita, l'Olivia s'escarrassa a baixar-hi ella primer. Però acabarà paralitzada per la punxada d'un dels dracs que hi ha allà baix, un Agulló Veloç. Els protectors hauran de salvar l'Olivia i alhora impedir que l'Sledkin baixi al Món Ocult i vegi algun drac.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T12:53:39+02:00",
-        "stop": "2026-08-23T13:00:56+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Mutacions salvatges",
-        "description": "En Grizzy fa fora els Lèmmings de la cabana, on havien muntat una cursa d'obstacles molt molesta. Per fi tranquil, però ben mandrós, decideix no aixecar-se més del sofà. Els Lèmmings descobreixen un disc màgic maia que els permet triar mutacions instantànies que els donen atributs d'altres animals: ales de ratpenat, banyes de caribú, trompa d'elefant, etc. Els Lèmmings mutants tornen a la cabana, decidits a continuar el joc amb les seves noves característiques.",
+        "start": "2026-08-23T13:23:27+02:00",
+        "stop": "2026-08-23T13:46:31+02:00",
+        "title": "Dracs: els nou regnes",
+        "subtitle": "Onada de fred",
+        "description": "Una gran onada de fred posa en perill els habitants de Ciutat Rakke, ja que no tenen prou recursos per enfrontar-se a les temperatures que no deixen de baixar. Els protectors de dracs han de trobar la manera d'ajudar els humans amb els seus amics dracs, però sense que ningú els vegi. Ho intenten fer tan bé com poden, però no és gens fàcil...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
