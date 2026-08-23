@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T23:16:08.880464+00:00",
+  "updated": "2026-08-23T23:43:39.157959+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,13 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T01:00:00+02:00",
-        "stop": "2026-08-24T01:30:00+02:00",
+        "start": "2026-08-24T00:57:28+02:00",
+        "stop": "2026-08-24T04:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-24T04:30:00+02:00",
+        "stop": "2026-08-24T05:14:36+02:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Ivó Oller Quintet",
+        "description": "El trompetista ens presenta el seu Quintet amb un repertori en el qual la tradició del jazz modern adquireix nous matisos i es vesteix de singularitat. El treball d'anys amb la mateixa formació i una visió introspectiva fan que l'aproximació d'Oller al bebop es converteixi en una proposta ben personal. Marc Sort, al saxo, Martí Ventura, al piano, Dick Them, al contrabaix, Pinyu Martí, a la bateria, i el mateix Ivó Oller, a la trompeta.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
@@ -94,15 +103,6 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-24T01:15:34+02:00",
-        "stop": "2026-08-24T01:36:28+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "L'aixafaguitarres",
-        "description": "Els amics de l'Adrien aprofiten que el seu pare se n'ha anat de viatge, o això es pensen, per organitzar una gran festa d'amics a casa seva. Hi va un munt de gent, però el Wayem es pensa que l'han deixat de banda, i l'Esfinx aprofitarà aquest sentiment per convertir-lo en un dels malvats més potents que ha creat mai.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
         "start": "2026-08-24T01:36:28+02:00",
         "stop": "2026-08-24T01:57:06+02:00",
         "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
@@ -110,24 +110,33 @@
         "description": "L'Adrien ha d'anar al museu de cera perquè han de fer una reparació a la seva estàtua i convida el Nino a acompanyar-lo. El Nino convida l'Alya, que al seu torn convida la Marinette, que fa de cangur a la Manon. A la nena li fa la sensació que ningú li fa cas, i l'Esfinx aprofita aquest sentiment d'abandó per convertir-la un altre cop en la Titellaire.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
+      },
+      {
+        "start": "2026-08-24T01:57:06+02:00",
+        "stop": "2026-08-24T02:18:13+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "El gat blanc",
+        "description": "Aprofitant avui és el sant del cinquè nom de naixement de l'Adrien, la Marinette decideix portar-li un regal. Però per entrar a casa seva, s'ha de convertir en Ladybug, i això fa que l'Adrien lligui caps i descobreixi la seva identitat secreta. Encara que sembli que a partir d'aquí tot va bé, en el futur es prepara un trasbals que pot tenir conseqüències nefastes.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-24T00:39:04+02:00",
-        "stop": "2026-08-24T01:31:03+02:00",
-        "title": "Viure amb els volcans",
-        "subtitle": "Volcans beneficiosos",
-        "description": "Els volcans tenen la imatge de muntanyes de foc que amenacen l'entorn i que periòdicament causen una enorme destrucció. Tot i així, atreuen moltes persones que s'instal·len al seu voltant perquè els donen molt més del que els prenen. Emeten minerals molt importants per a l'agricultura, atreuen les pluges i també són una font d'energia que cada cop s'aprofita més arreu del món. En aquest episodi s'exploren els diversos factors beneficiosos dels volcans.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
       {
         "start": "2026-08-24T01:31:03+02:00",
         "stop": "2026-08-24T02:22:46+02:00",
         "title": "Viure amb els volcans",
         "subtitle": "Volcans destructius",
         "description": "Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-24T02:22:46+02:00",
+        "stop": "2026-08-24T03:11:14+02:00",
+        "title": "Vida",
+        "subtitle": "Caçadors i caçats",
+        "description": "Cada dia, a les selves, als prats, als deserts i a les immensitats glaçades, es lliuren, es guanyen i es perden batalles entre els carnívors i les seves preses. Contemplarem com els guepards s'uneixen per tombar una estruç, com un ermini diminut s'enfronta a un conill deu vegades més gros, cries d'elefant marí segrestades de la seva piscina per una orca, les pallassades d'un esquirol per esquivar una serp de cascavell i, finalment, amb imatges formidables enregistrades a 2.000 fotogrames per segon, l'atac d'un ratpenat pescador volant a gairebé 100km/h.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
