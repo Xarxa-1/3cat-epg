@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T11:16:37.766139+00:00",
+  "updated": "2026-08-23T11:44:01.806569+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -94,15 +94,6 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T13:00:56+02:00",
-        "stop": "2026-08-23T13:23:27+02:00",
-        "title": "Dracs: els nou regnes",
-        "subtitle": "Els agullons",
-        "description": "Quan la doctora Sledkin decideix baixar a l'avenc que dona al Regne de Gel per buscar més mostres de dragonsita, l'Olivia s'escarrassa a baixar-hi ella primer. Però acabarà paralitzada per la punxada d'un dels dracs que hi ha allà baix, un Agulló Veloç. Els protectors hauran de salvar l'Olivia i alhora impedir que l'Sledkin baixi al Món Ocult i vegi algun drac.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
         "start": "2026-08-23T13:23:27+02:00",
         "stop": "2026-08-23T13:46:31+02:00",
         "title": "Dracs: els nou regnes",
@@ -110,18 +101,18 @@
         "description": "Una gran onada de fred posa en perill els habitants de Ciutat Rakke, ja que no tenen prou recursos per enfrontar-se a les temperatures que no deixen de baixar. Els protectors de dracs han de trobar la manera d'ajudar els humans amb els seus amics dracs, però sense que ningú els vegi. Ho intenten fer tan bé com poden, però no és gens fàcil...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
+      },
+      {
+        "start": "2026-08-23T13:46:31+02:00",
+        "stop": "2026-08-23T14:15:08+02:00",
+        "title": "Manduka family",
+        "subtitle": "Truita de patates",
+        "description": "Qui fa millor la truita de patates? El Nil i la Bruna pensen que la seva àvia.La truita de patates crea una gran divisió d'opinions: o t'agrada amb ceba o t'agrada sense ceba. En el que estem tots d'acord és que les àvies les fan com ningú. Això pensen el Nil i la Bruna, dos germans que pensen que cada una de les seves àvies fa la millor versió. Mentre fan la seva recepta ajudats cada un per una de les àvies, jugaran, cantaran, ballaran... i provaran de sabotejar l'equip contrari!!! Seran dos mandúkers acompanyats d'un dels xefs del segon millor restaurant del món, el Disfrutar, el xef Mateu Casañas, que decidirà quina versió de la truita és millor i guanya el concurs. ",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-23T12:25:59+02:00",
-        "stop": "2026-08-23T13:18:44+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Annabel",
-        "description": "Amb l'Annabel Candy, una dona australiana, visitem Montserrat i la Vall de Núria. Ja a Barcelona, la Ivana Miño la porta a la Pedrera i a l'Anella Olímpica, però el viatge no acaba aquí, sinó al Carnaval de Vilanova.",
-        "genre": "ALTRES",
-        "image": ""
-      },
       {
         "start": "2026-08-23T13:18:44+02:00",
         "stop": "2026-08-23T14:05:18+02:00",
@@ -130,6 +121,15 @@
         "description": "Quantes hores podem passar asseguts a la tassa del vàter al llarg de la vida? I no volem dir que siguin hores desaprofitades, tot el contrari, sovint hi passem més temps del qual ens fa falta perquè... confessem-ho: tots ens hi emportem el mòbil. Rebem la visita de Sandra Ànima, una facialista que, com el nom indica, no ens llegirà el palmell de la mà, sinó la cara! Sabem posar cara de pòquer? A 'Històries per passejar el gos' anem amb la Guida, d'Olesa de Montserrat, fins a la guerra freda i el cas Roswell, el 1947.",
         "genre": "ALTRES",
         "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+      },
+      {
+        "start": "2026-08-23T14:05:18+02:00",
+        "stop": "2026-08-23T14:32:19+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Viure amb filosofía",
+        "description": "José María Erustes va néixer i créixer al Raval. Des que tenia 14 anys va treballar de soldador muntador. Amb una dona i dos fills es va quedar a l'atur i es va divorciar. Les desavinences familiars i l'alcohol el van fer marxar a viure al carrer. Va ser indigent prop de cinc anys, fins que La Fundació Arrels el va ajudar a recuperar la seva vida. La paraula 'política' deriva del grec 'polis', que designava les ciutats estat a l'antiga Grècia. Moià té prop de 6.000 habitants i és la capital de la comarca del Moianès. A partir d'aquests dos exemples el programa reflexiona sobre conceptes com felicitat, virtut, justícia, Estat o poder. Hi intervenen Norbert Bilbeny, catedràtic d'Ètica, UB; Núria Sara Miras, Dept. de Filosofia Moral i Política de la UB; Dionís Guiteras, alcalde de Moià; Antoni Arenas, cap Policia Local de Moià, i l'exindigent José María Erustes.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       }
     ],
     "oca1": [],
