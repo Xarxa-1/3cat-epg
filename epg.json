@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T22:28:08.188085+00:00",
+  "updated": "2026-08-23T22:49:50.327975+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-23T23:00:00+02:00",
-        "stop": "2026-08-24T00:30:00+02:00",
+        "start": "2026-08-24T00:30:00+02:00",
+        "stop": "2026-08-24T01:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-24T00:30:00+02:00",
-        "stop": "2026-08-24T01:00:00+02:00",
+        "start": "2026-08-24T01:00:00+02:00",
+        "stop": "2026-08-24T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,34 +83,25 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-23T23:30:04+02:00",
-        "stop": "2026-08-24T00:28:59+02:00",
-        "title": "E3D",
-        "subtitle": "Hip-hop International 1",
-        "description": "L'Olímpic Arena de Badalona és l'escenari d'aquest festival de dansa urbana amb la participació de 2 mil ballarins en totes les categories. En joc, el títol de campions d'Espanya i la classificació per al Mundial que es farà, aquest estiu, a la ciutat estatunidenca de Phoenix.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/3/1776942101335.jpg"
-      },
-      {
-        "start": "2026-08-24T00:28:59+02:00",
-        "stop": "2026-08-24T00:54:48+02:00",
+        "start": "2026-08-24T00:29:00+02:00",
+        "stop": "2026-08-24T00:54:49+02:00",
         "title": "E3D",
         "subtitle": "Hip-hop International 4",
         "description": "Esport3 t'ofereix les millors retransmissions esportives en directe. Viu l'esport amb nosaltres!",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/5/8/1697728797885.jpg"
+      },
+      {
+        "start": "2026-08-24T00:54:49+02:00",
+        "stop": "2026-08-24T01:12:08+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
-      {
-        "start": "2026-08-24T00:23:01+02:00",
-        "stop": "2026-08-24T00:33:49+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "My fair Yeti",
-        "description": "La Felicity, el Miguel i la Yana estan convidats a prendre el te a la mansió d'una dama molt rica. La Yana té por que se'n riguin d'ella perquè no és gens fina, però la Felicity li fa un curset accelerat d'etiqueta per a l'esdeveniment.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
       {
         "start": "2026-08-24T00:33:49+02:00",
         "stop": "2026-08-24T00:54:56+02:00",
@@ -119,24 +110,33 @@
         "description": "A París s'organitza un joc de pistes per parelles, i el premi és saber on s'amaga l'Adrien Agreste. L'atzar fa que la Marinette s'hagi d'aparellar amb la Kagami, i el que al principi era una rivalitat oberta s'acaba convertint en el començament d'una bona amistat. L'Esfinx, sempre amatent, intentará fer servir els sentiments de la mare de la Kagami per sembrar el caos a la ciutat. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
+      },
+      {
+        "start": "2026-08-24T00:54:56+02:00",
+        "stop": "2026-08-24T01:15:34+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Timetagger",
+        "description": "Mentre Ladybug i el Gat Noir estan ocupats a destransformar el Senyor Colom, un cop més, apareix un personatge que ve del futur, enviat per l'Esfinx. És un malvat molt més poderós, perquè és un adult, i els nostres herois tenen problemes per derrotar-lo fins que apareix una nova superheroïna, l'Alyx del futur convertida en la Bunnyx.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-23T23:46:54+02:00",
-        "stop": "2026-08-24T00:39:03+02:00",
-        "title": "Planeta dinàmic",
-        "subtitle": "Aigua",
-        "description": "Els nostres oceans canvien a mesura que el planeta s'escalfa, amb conseqüències de gran abast. Un extraordinari grup d'experts marins de l'Antàrtida a Austràlia, de Florida a Nova Zelanda, n'examinen l'impacte i revelen com la ciència, la natura i la saviesa tradicional ens pot preparar per un futur que canvia molt de pressa.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
-        "start": "2026-08-24T00:39:03+02:00",
+        "start": "2026-08-24T00:39:04+02:00",
         "stop": "2026-08-24T01:31:03+02:00",
         "title": "Viure amb els volcans",
         "subtitle": "Volcans beneficiosos",
         "description": "Els volcans tenen la imatge de muntanyes de foc que amenacen l'entorn i que periòdicament causen una enorme destrucció. Tot i així, atreuen moltes persones que s'instal·len al seu voltant perquè els donen molt més del que els prenen. Emeten minerals molt importants per a l'agricultura, atreuen les pluges i també són una font d'energia que cada cop s'aprofita més arreu del món. En aquest episodi s'exploren els diversos factors beneficiosos dels volcans.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-24T01:31:03+02:00",
+        "stop": "2026-08-24T02:22:46+02:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Volcans destructius",
+        "description": "Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
