@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T02:49:34.266204+00:00",
+  "updated": "2026-08-23T03:45:46.637658+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-23T04:30:00+02:00",
-        "stop": "2026-08-23T05:16:07+02:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Mar Serra Grup",
-        "description": "El quartet ens presenta el seu projecte Opus: un petit i particular viatge per la història de la música. A cavall entre el jazz fusió i la música contemporània, Mar Serra ens va endinsant en l'esperit mediterrani a partir de sonoritats com el flamenc o la música tradicional. El poder evocador del violí de Lluna Aragón, el motor del contrabaix de Franco Molinari, la bateria de Joan Vidal i la força del piano de Mar Serra ens descobreixen un llenguatge propi.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
         "start": "2026-08-23T05:16:07+02:00",
         "stop": "2026-08-23T05:56:11+02:00",
         "title": "Cava de Blues",
@@ -59,6 +50,15 @@
         "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
         "genre": "JAZZ",
         "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+      },
+      {
+        "start": "2026-08-23T05:56:11+02:00",
+        "stop": "2026-08-23T06:00:01+02:00",
+        "title": "Videoclips catalans",
+        "subtitle": "Maria Jacobs - Sempre tornes",
+        "description": "",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-23T03:06:46+02:00",
-        "stop": "2026-08-23T04:58:36+02:00",
-        "title": "Rugbi",
-        "subtitle": "Dracs Catalans-Hull FC / Super League / J24",
-        "description": "Els de Perpinyà, que en el precedent d'Anglaterra van perdre per un ajustat 24 a 20, confien en aconseguir la victòria aquesta vegada. Amb la narració de Sebastià Girard.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/3/1771412542832.jpg"
+        "start": "2026-08-23T05:44:36+02:00",
+        "stop": "2026-08-23T06:09:07+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       },
       {
-        "start": "2026-08-23T04:58:36+02:00",
-        "stop": "2026-08-23T05:12:11+02:00",
-        "title": "Sala de Premsa",
-        "subtitle": "Hansi Flick / Prèvia Elx-Barça / J2",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+        "start": "2026-08-23T06:09:07+02:00",
+        "stop": "2026-08-23T06:32:15+02:00",
+        "title": "Espòiler",
+        "subtitle": "El Mercedes-Benz GLB, el BYD ATTO 2 DM-i, la primera ruta de Quadis Gallery i les novetats de GWM",
+        "description": "En aquest capítol ens posem al volant del nou Mercedes-Benz GLB 250+, un dels SUV més interessants de la marca alemanya amb una autonomia de fins a 630 quilòmetres. També provem el BYD ATTO 2 DM-i, que gràcies a la seva mecànica híbrida endollable es posiciona com un dels cotxes més polivalents del mercat. A més, assistim a la primera ruta multimarca que ha organitzat Quadis Gallery amb tot un seguit de superesportius espectaculars i també coneixem les novetats de GWM, una de les darreres marques en arribar al nostre mercat. ",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-23T04:43:33+02:00",
-        "stop": "2026-08-23T04:50:13+02:00",
+        "start": "2026-08-23T05:44:10+02:00",
+        "stop": "2026-08-23T05:50:30+02:00",
         "title": "El xai Shaun",
-        "subtitle": "La Beeergarita",
-        "description": "Quan el granger es descuida de donar menjar a les ovelles, el Shaun i el ramat veuen que tenen la gran oportunitat de regalar-se amb una pizza. Però quan corre la veu que les millors pizzes les fan a la granja, el Shaun i el ramat es veuen obligats a augmentar el volum i muntar un sistema per començar la producció en sèrie.1",
+        "subtitle": "Salva la cabra",
+        "description": "El blat de moro de la granja ja està a punt per collir, però el Shaun ha deixat la Segaboca al camp i després d'endrapar tant com ha pogut s'ha quedat adormida. Haurem de veure si el Shaun pot salvar la insaciable cabra abans que tots quedin engolits per la segadora que cull el blat de moro.1",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T04:50:13+02:00",
-        "stop": "2026-08-23T04:56:13+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "Investigació a la granja",
-        "description": "L'empipador xiulet del Bitzer està posant les nervis de punta als residents de la granja. Però quan desapareix, el 'detectiu Shaun' sospita que ha sigut un robatori. Per tant decideix perseguir el culpable, però durant la investigació no para de trobar pistes falses que no el porten enlloc.",
+        "start": "2026-08-23T05:50:30+02:00",
+        "stop": "2026-08-23T05:52:57+02:00",
+        "title": "Looloo Kids (cançons)",
+        "subtitle": "Pluja, ves-te'n ja! (a l'escola)",
+        "description": "Plou, i a la classe d'en Jaume estan molts tristos perquè volen sortir a jugar al pati. Per això demanen a la pluja que torni un altre dia.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-23T04:46:14+02:00",
-        "stop": "2026-08-23T05:33:17+02:00",
-        "title": "La Renaixença",
-        "subtitle": "El croissant",
-        "description": "El croissant és un objecte? Aquest és un bon debat, però també és interessant explicar que els croissants no són francesos, sinó vienesos! Què ho fa que els francesos s'apoderen de tot el que poden (i una mica més)? Ens visita en Jordi Robirosa. S'ha jubilat, però sempre és un bon moment per recordar una trajectòria com la seva. També ens descobreix dues aficions que té i que poca gent coneix. A 'Històries per passejar el gos' anem amb en Bruto, un gos valencià, fins a la troballa del tresor de Villena, el 1963.",
+        "start": "2026-08-23T05:45:27+02:00",
+        "stop": "2026-08-23T05:51:30+02:00",
+        "title": "Xarxa Natura",
+        "subtitle": "L''Albera",
+        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
       },
       {
-        "start": "2026-08-23T05:33:17+02:00",
-        "stop": "2026-08-23T05:45:25+02:00",
-        "title": "Les Feres",
-        "subtitle": "Maria Hein",
-        "description": "Concert de la cantant i compositora Maria Hein, enregistrat en directe al Casino del Masnou, el 22 de gener del 2024. Una actuació marcada pel folk intimista arrelat a la tradició sense deixar de banda la seducció pels arranjaments electrònics. L'artista mallorquina interpreta cançons dels discos 'Continent i contingut' i 'Tot allò que no sap ningú', treballs que destaquen per una curada producció on hi han intervingut noms com Sr. Chen o Ferran Palau.  Maria Hein: piano i veu Nicole Torrealba: programació i MPC Cançons 'Fiu fiuuu' 'La dama de Mallorca' 'Sa pell me torna blanca' 'Mercuri i Mart'  Localització: Casino del Masnou. Carrer de Tomàs Vives, 8. El Masnou, Barcelona. Data: 22 de gener del 2024 ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
+        "start": "2026-08-23T05:51:30+02:00",
+        "stop": "2026-08-23T05:54:47+02:00",
+        "title": "VIDEOCLIPS CATALANS",
+        "subtitle": "- NEREA BASSART TRIO - PRESONS",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       }
     ],
     "oca1": [],
