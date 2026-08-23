@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T17:16:39.313041+00:00",
+  "updated": "2026-08-23T17:43:39.863109+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -42,15 +42,6 @@
   ],
   "epg": {
     "tv3": [
-      {
-        "start": "2026-08-23T19:03:02+02:00",
-        "stop": "2026-08-23T19:34:40+02:00",
-        "title": "Manicòmics",
-        "subtitle": "Res en concret amb Andrés Fajngold",
-        "description": "L'Andrés convida l'Ignasi a parlar de tot i de res mentre estenen roba. Visiten el Santuari de Puiggraciós i les monges que hi viuen per conèixer el seu estil de vida. Per acabar, l'Ignasi proposa a l'Andrés un pla ple d'adrenalina.",
-        "genre": "ALTRES",
-        "image": ""
-      },
       {
         "start": "2026-08-23T19:34:40+02:00",
         "stop": "2026-08-23T19:44:58+02:00",
@@ -103,34 +94,25 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T19:09:33+02:00",
-        "stop": "2026-08-23T19:32:08+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Megaformatge lunar",
-        "description": "Les onades de les platges d'arreu del món es comporten d'una manera estranya i la Zerlina encarrega a les espies que vagin a investigar què passa. Gràcies a una mostra d'asteroide que envien al Toby perquè l'analitzi, descobreixen que ve de París, on també hi passen coses estranyes. Allà les espies coneixen en Jacques Montague, un fabricant de formatges enfadat amb les noves modes alimentàries.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
-      },
-      {
-        "start": "2026-08-23T19:32:08+02:00",
+        "start": "2026-08-23T19:32:09+02:00",
         "stop": "2026-08-23T19:54:33+02:00",
         "title": "El detectiu Conan",
         "subtitle": "El verdader culpable s’ha fugat!",
         "description": "Mentre juguen a pilota, els membres de la Lliga de Detectius Júnior troben un cadàver. Sembla que el rastre deixat per l'assassí no porta enlloc, però en Conan s'adonarà d'un detall que els permetrà atrapar el criminal.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
+      },
+      {
+        "start": "2026-08-23T19:54:33+02:00",
+        "stop": "2026-08-23T20:17:06+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "En Kid contra l'Amuro. El Serrell de la Reina (1a part)",
+        "description": "En Kaito Kid ha anunciat que, a mitjanit, robarà la tiara dels Robanov, una peça molt valuosa que s'exhibeix en un museu. Com que l'exposició està patrocinada per en Jirokichi Suzuki, l'oncle de la Sonoko, demanen a en Conan que els ajudi. A més, l'Amuro havia anat al museu amb l'Azusa, però se sent desafiat per en Kaito Kid i decideix aturar-lo costi el que costi.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-23T18:32:52+02:00",
-        "stop": "2026-08-23T19:24:28+02:00",
-        "title": "Viure amb els volcans",
-        "subtitle": "Volcans sagrats",
-        "description": "En aquest primer episodi, dedicat als volcans sagrats, coneixerem les divinitats que des de fa mil·lennis s'han associat als fenòmens volcànics, en un intent de la humanitat de comprendre l'activitat d'aquests gegants de foc i d'evitar-ne les pitjors conseqüències, sempre des del respecte i el sentiment de pertinença a una mateixa realitat natural. La ciència i la fe col·laboren per entendre i apreciar els volcans des d'una perspectiva més completa.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
       {
         "start": "2026-08-23T19:24:28+02:00",
         "stop": "2026-08-23T20:07:39+02:00",
@@ -139,6 +121,15 @@
         "description": "Explorant Polònia per les vies fluvials d'Europa: començant des de la península de Hel, el viatge recorre el mar Bàltic fins a la ciutat hanseàtica de Gdansk, després continua pel Vístula i el canal d'Elblag fins al districte dels llacs de Masúria.La península de Hel, amb les seves platges de sorra blanca i boscos de pins d'un verd intens, acull un institut de recerca que estudia la vida al mar Bàltic, i un centre de cria de foques. A l'altra banda de la badia es troba la ciutat hanseàtica de Gdansk. Naveguem entre drassanes i antics edificis d'oficines, continuem pel Vístula i el canal d'Oberland cap a les muntanyes Rollberge, on els vaixells avancen per terra en vies de ferrocarril, en una obra històrica d'enginyeria.A la universitat d'Olstyn, la capital de Masúria, la Renata Augustyniak investiga amb èxit nous mètodes per recuperar els llacs contaminats. El viatge continua cap a l'est i arriba al riu més net del país, el Krutynia. Aquí hi ha un centre de rehabilitació per cigonyes, l'animal heràldic del país. Amb el guardabosc i fotògraf de la natura Waldemar Bzura descobrirem la rica vida salvatge de Masúria i les illes flotants de la reserva natural de Zakret, precioses amb la boira del matí.A la vora del llac Beldany, Moussa Bah, un veterinari de Mali, cria els cavalls salvatges 'Koniks', per encàrrec de l'Acadèmia Polonesa de Ciències. La seva companya, la cuidadora d'animals Marlena Boron, s'encarrega de la cria de castors al centre. Amb un veler, el viatge continua, passant per Mikolaiky, fins al canal de Masúria.Uns quilòmetres abans de la frontera russa, coneixem la pescadora Marta Gottwald, campiona del món de la seva disciplina, mentre s'entrena. El recorregut acaba en una gran resclosa de l'època nazi, convertida en una instal·lació d'escalada iaventura, per a atletes amb ganes de passar-s'ho bé i sense vertigen.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": "https://img.3cat.cat/multimedia/jpg/4/3/1784274800434.jpg"
+      },
+      {
+        "start": "2026-08-23T20:07:39+02:00",
+        "stop": "2026-08-23T20:59:51+02:00",
+        "title": "La veritat sobre la dictadura de Franco",
+        "subtitle": "Episodi 5",
+        "description": "Francisco Franco va ser un dels dictadors més enigmàtics de la història europea. Avui Espanya encara pateix el pes del seu sinistre llegat. Va arribar al poder amb una guerra civil molt cruenta i després va fer servir tots els mitjans necessaris per aferrar-s'hi. Quan el dèspota va morir el 1975 va deixar un país dividit i es va endur molts secrets a la tomba.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
