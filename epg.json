@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T15:45:52.361164+00:00",
+  "updated": "2026-08-23T16:18:59.682696+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,21 +43,21 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-23T17:06:18+02:00",
-        "stop": "2026-08-23T18:06:22+02:00",
-        "title": "Temps de silenci",
-        "subtitle": "Hereus",
-        "description": "En Joaquim torna de Rússia. Sembla canviat... Neix el fill de la Isabel, però les coses no sempre van com han d'anar... I la Dolors, gelosa, necessita aferrar-se a en Ramon. I en Frederic, com tants d'altres, necessita explicar els seus sentiments... tots.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
-      },
-      {
-        "start": "2026-08-23T18:06:22+02:00",
-        "stop": "2026-08-23T19:03:00+02:00",
+        "start": "2026-08-23T18:06:23+02:00",
+        "stop": "2026-08-23T19:03:01+02:00",
         "title": "Temps de silenci",
         "subtitle": "Miratges",
         "description": "La vaga de tramvies el 52 posa a prova l'enginy de molta gent. Uns han de decidir entre el que mana el cor i el que aconsella el cap. Altres tenen les coses prou clares i, de vegades, pocs escrúpols dins, fins i tot, de les mateixes famílies... I els nens es van fent grans... Ha nascut la Núria, la filla de la Isabel.",
         "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T19:03:01+02:00",
+        "stop": "2026-08-23T19:34:39+02:00",
+        "title": "Manicòmics",
+        "subtitle": "Res en concret amb Andrés Fajngold",
+        "description": "L'Andrés convida l'Ignasi a parlar de tot i de res mentre estenen roba. Visiten el Santuari de Puiggraciós i les monges que hi viuen per conèixer el seu estil de vida. Per acabar, l'Ignasi proposa a l'Andrés un pla ple d'adrenalina.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T17:41:53+02:00",
-        "stop": "2026-08-23T17:54:13+02:00",
-        "title": "Ideafix i els irreductibles",
-        "subtitle": "El retorn de la Polvorina",
-        "description": "L'Ideafix i els Irreductibles alliberen la cèlebre Polvorina de les urpes dels romans. Però la gossa els vol imposar la seva concepció extremista de la resistència per venjar-se del general Labiè, que vol rebre el nou prefecte de Lutècia amb tots els honors.",
+        "start": "2026-08-23T18:14:08+02:00",
+        "stop": "2026-08-23T18:20:38+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Una família d'ossos",
+        "description": "En Grizzy troba un os polar que ha caigut d'un contenidor frigorífic del zoològic. Després de consultar l'enciclopèdia, s'adona que ell i l'os són germans de la mateixa espècie. Decideix seguir al peu de la lletra com diu l'enciclopèdia que s'ha de cuidar un os polar durant la hibernació, la qual cosa va en contra de les activitats preferides dels Lèmmings. Els rosegadors decideixen crear una pàgina falsa a l'enciclopèdia que diu que ells també ho són, d'ossos. Ara en Grizzy es veu obligat a tractar-los també com a germans.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-23T17:54:13+02:00",
-        "stop": "2026-08-23T18:01:08+02:00",
+        "start": "2026-08-23T18:20:38+02:00",
+        "stop": "2026-08-23T18:27:08+02:00",
         "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Discòrdia musical",
-        "description": "Els Lèmmings improvisen un trampolí amb una gaita, però cada cop que hi salten al damunt, sona un estrèpit. En Grizzy els para el joc i llança la gaita lluny del castell. Els rosegadors la troben en una mística illa propera, on també troben cinc fades. Una d'elles dona vida a l'instrument musical i els Lèmmings tornen al castell amb cinc gaites encantades, amb què catapulten en Grizzy ben lluny. Ara és ell qui anirà a descobrir els secrets de l'illa misteriosa.",
+        "subtitle": "De pèl i espasa",
+        "description": "Els lèmmings han posat tota la cabana de cap per avall per organitzar justes medievals amb l'equip d'esgrima del guardabosc. En Grizzy prova d'obrir-se pas per poder recuperar el sofà, però l'hi impedeixen els seus florets. Per fer-los front, en Grizzy ha de trobar una espasa que estigui a l'altura de les circumstàncies, i no troba res millor que un bon... peix espasa congelat. Fins que es descongela i...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-23T17:02:59+02:00",
-        "stop": "2026-08-23T17:47:52+02:00",
-        "title": "Tresors perduts d'Egipte",
-        "subtitle": "Alexandre el Gran",
-        "description": "Diversos arqueòlegs investiguen el faraó més temut d'Egipte, el rei guerrer més famós de la història, Alexandre el Gran. A Saqqara, descobrim com es va convertir en faraó i com s'ho va fer per conquerir els cors i les ments dels egipcis. A Filadèlfia, un equip d'excavació descobreix una catacumba singular que revela el llegat del regnat d'Alexandre. I a Taposiris Magna, els arqueòlegs fan un descobriment sorprenent en una gran tomba-temple.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
         "start": "2026-08-23T17:47:52+02:00",
         "stop": "2026-08-23T18:32:52+02:00",
         "title": "Tresors perduts d'Egipte",
         "subtitle": "Secrets de les piràmides perdudes",
         "description": "Els arqueòlegs investiguen el llegat de les piràmides de Gizeh i de les misterioses piràmides que es van construir després. Busquen l'ocupant enigmàtic d'un colossal pou funerari que s'endinsa al fons de l'antiga zona de piràmides d'Abusir. També investiguen la luxosa tomba d'un membre de l'elit situada prop de la piràmide del faraó Djedkare a Saqqara, i excaven la tomba llargament perduda del faraó Sahuré, l'única tomba piràmide que encara no s'ha explorat mai.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T18:32:52+02:00",
+        "stop": "2026-08-23T19:24:28+02:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Volcans sagrats",
+        "description": "En aquest primer episodi, dedicat als volcans sagrats, coneixerem les divinitats que des de fa mil·lennis s'han associat als fenòmens volcànics, en un intent de la humanitat de comprendre l'activitat d'aquests gegants de foc i d'evitar-ne les pitjors conseqüències, sempre des del respecte i el sentiment de pertinença a una mateixa realitat natural. La ciència i la fe col·laboren per entendre i apreciar els volcans des d'una perspectiva més completa.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
