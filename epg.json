@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T07:39:35.398960+00:00",
+  "updated": "2026-08-23T08:00:44.128307+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-23T07:00:00+02:00",
-        "stop": "2026-08-23T10:00:00+02:00",
+        "start": "2026-08-23T10:00:00+02:00",
+        "stop": "2026-08-23T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,8 +52,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-23T10:00:00+02:00",
-        "stop": "2026-08-23T12:00:00+02:00",
+        "start": "2026-08-23T12:00:00+02:00",
+        "stop": "2026-08-23T12:45:23+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -103,15 +103,6 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-23T09:03:43+02:00",
-        "stop": "2026-08-23T09:45:57+02:00",
-        "title": "Doraemon: El teixó colossal d'una nit d'estiu",
-        "subtitle": "Doraemon: El teixó colossal d'una nit d'estiu",
-        "description": "Per tenir un bon record dels últims dies de les vacances d'estiu, en Nobita i la seva colla construeixen una cabana en un arbre. L'endemà al matí, però, se la troben destrossada. Els amics decideixen posar trampes al voltant de l'arbre per capturar-ne el responsable, que resulta ser una sangonera alienígena que parasita les seves víctimes i les converteix en gegants que ho devoren tot, capaços de destruir planetes sencers.",
-        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/5/1786541153352.jpg"
-      },
-      {
         "start": "2026-08-23T09:45:57+02:00",
         "stop": "2026-08-23T10:07:27+02:00",
         "title": "Espies de veritat",
@@ -119,24 +110,33 @@
         "description": "Un personatge malvat es redueix fins a tornar-se de mida microscòpica i entra dins del cos d'en Jerry. Les noies també hi hauran d'entrar, però no només per salvar el seu cap. És el món sencer el que està en perill.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+      },
+      {
+        "start": "2026-08-23T10:07:27+02:00",
+        "stop": "2026-08-23T10:28:27+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Joc net",
+        "description": "Quan l'equip de Zanzíbar tropical comença els dramàtics jocs olímpics d'hivern, hi envien les noies per investigar. Descobreixen un entrenador malvat que experimenta amb un grup de superatletes, injectant-los perilloses hormones als cossos, per augmentar-ne el rendiment. Podran les espies aturar-lo i salvar els atletes abans que guanyin? D'altra banda, les noies lluiten contra un noi, somiador i nou a l'escola, que es diu David.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-23T09:22:18+02:00",
-        "stop": "2026-08-23T09:44:12+02:00",
-        "title": "Riu avall",
-        "subtitle": "Siurana",
-        "description": "Visitem les terres altes del Priorat acullen la capçalera del riu Siurana, que neix envoltat de boscos al peu de les Muntanyes de Prades, un dels espais naturals més valuosos del nostre país. Amb el seu principal afluent, el Montsant, coneixerem uns paisatges fluvials de somni i pobles de pedra que encara conserven les essències de la vida rural.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719609254043.jpg"
-      },
       {
         "start": "2026-08-23T09:44:12+02:00",
         "stop": "2026-08-23T10:36:12+02:00",
         "title": "El Foraster",
         "subtitle": "Brunyola",
         "description": "Brunyola i Sant Martí Sapresa són els dos nuclis d'un petit municipi de la Selva i estan units per boscos ombrívols, camps d'avellaners i una història comuna.Només d'arribar, en Quim es trobarà l'Eduard i en Lluís, que li deixaran caure la primera gran veritat, o no, sobre el gran protagonista de la zona: el vent. Tot seguit, coneixerà en Janot, un pagès de soca-rel que no vol saber res de Barcelona, i la Dolors i l'Albert, que cuiden uns avellaners amb una història personal gravada a les branques.A cal Nin, el que havia de ser una visita a una casa de pagès es convertirà en un dinar multitudinari. I quan arribi la nit, amb la Núria al costat, en Quim viurà en primera persona la màgia, i el vertigen, del pessebre vivent. També coneixerà la Remei, una dona que fa exactament el que li ve de gust; en Raül, que desafia la gravetat amb la seva moto, i en Josep, un fan del programa amb qui compartirà un sopar molt especial.",
+        "genre": "VARIETATS",
+        "image": ""
+      },
+      {
+        "start": "2026-08-23T10:36:12+02:00",
+        "stop": "2026-08-23T11:30:20+02:00",
+        "title": "El Foraster",
+        "subtitle": "Begur",
+        "description": "Begur (Baix Empordà) té un escenari privilegiat que l'ha convertit en un destí turístic de primer nivell, però més enllà del paisatge i les cales, el poble manté un esperit juganer i viu - cent per cent bacanard- que només s'explica per la seva gent.Entre aquesta gent hi ha la Leila, una sirena empordanesa que desafiarà en Quim a banyar-se en aigües gèlides; en Carlus, un vigilant incansable que 'patrulla' el poble amb un xiulet de policia, i l'Ernest, defensor apassionat d'unes escales que, segons ell, haurien de tenir reconeixement mundial. En Quim també coneixerà la Rosa i en Rogeli, una parella de jubilats que es resisteixen a deixar enrere el nen que porten dins, i en Riqui, que lidera una activitat infantil dissenyada perquè els més petits reconnectin literalment amb la natura.El viatge el durà a compartir una sortida de sol inoblidable amb un grup d'excursionistes de trajectòria incerta i a pujar a la barca de l'últim pescador del poble, en Llorenç, per acabar com només es pot fer a Begur: embarcat, batejat, i una mica més bacanard.",
         "genre": "VARIETATS",
         "image": ""
       }
