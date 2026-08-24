@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T13:36:58.372418+00:00",
+  "updated": "2026-08-24T14:25:01.679823+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,20 +43,20 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T15:32:47+02:00",
-        "stop": "2026-08-24T16:26:05+02:00",
-        "title": "Gent de món",
-        "subtitle": "Venècia i mar Adriàtic",
-        "description": "Us heu enfilat mai a una muntanya seguint els passos dels apòstols? Heu contemplat una ciutat flotant mentre es perd en l'horitzó? No?Això és perquè no heu fet mai la travessa dels tres mars: l'Adriàtic, el Jònic i l'Egeu. Un viatge que ens durà des de Venècia fins a Atenes passant per Ravenna i la ciutat de Kotor, a Montenegro.Una ruta pel Mediterrani oriental on trobarem el rastre d'antigues civilitzacions desaparegudes, d'imperis caiguts, de ciutats i edificis universals, de fortaleses inexpugnables i de tombes de poetes immortals. Avui farem un viatge pels tres mars que van veure néixer Europa!",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-24T16:26:05+02:00",
-        "stop": "2026-08-24T17:00:56+02:00",
+        "start": "2026-08-24T16:26:06+02:00",
+        "stop": "2026-08-24T17:00:57+02:00",
         "title": "La Riera",
         "subtitle": "",
         "description": "L'Ignasi s'ha fet mal i, ara, les coses han canviat per a tots. També han canviat per a la Txell: després del que va descobrir, la relació entre en Mauri i ella no tornarà a ser la mateixa. A la cuina, en Joan presumeix del que va passar amb la Maribel, cosa que a ella no li agrada gens. I la Lídia disfruta dels seus plans de venjança contra en Claudi.",
+        "genre": "TELENOVEL·LA",
+        "image": ""
+      },
+      {
+        "start": "2026-08-24T17:00:57+02:00",
+        "stop": "2026-08-24T17:37:45+02:00",
+        "title": "La Riera",
+        "subtitle": "",
+        "description": "En Joan ha aconseguit que en Sergi es posi gelós, però la Txell és una altra cosa. Ni s'imagina per què està tan abatuda. La que té ganes de divertir-se com una noia normal és la Mireia, però té un nòvio... I la Lídia comença a investigar l'Estel. Està decidida a trobar alguna esquerda.",
         "genre": "TELENOVEL·LA",
         "image": ""
       }
@@ -83,54 +83,45 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T15:24:00+02:00",
-        "stop": "2026-08-24T16:17:10+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "L'Aube, a la Xampanya-Ardenes",
-        "description": "En aquest episodi, la Julie visita la regió de l'Aube, i concretament Troyes, l'antiga capital de la Xampanya. És una zona amb molta història i amb una gran riquesa culinària. En Christophe li ensenya a fer un embotit típic, l'andouille. Amb la Marie-Jeanne prepara una xucrut amb xampany. En Mathias li ensenya una recepta de coll de xai amb mongetes de Brévonnes. I, finalment, amb la Jeanine prepara un filet mignon de senglar.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
-        "start": "2026-08-24T16:17:10+02:00",
-        "stop": "2026-08-24T17:06:53+02:00",
+        "start": "2026-08-24T16:17:11+02:00",
+        "stop": "2026-08-24T17:06:55+02:00",
         "title": "Gent de món",
         "subtitle": "Mediterrani occidental 1",
         "description": "Heu vist mai el mar als peus de la muntanya de Montserrat?Heu gaudit de les vistes que contemplava el comte de Montecristo des de la seva cel·la?Avui farem un creuer per la Mediterrània occidental des de Barcelona fins a Nàpols a bord del vaixell més gran del món. Una travessa pels mars més propers farcida de ports mil·lenaris, de capitals d'imperis caiguts, de carrers desendreçats, de verges daurades i torres inclinades; de catedrals de marbre i antics deus fets de pedra. Un viatge pels orígens i la historia dels nostres veïns a traves del mar que sempre ens ha unit. ",
+        "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-08-24T17:06:55+02:00",
+        "stop": "2026-08-24T17:59:50+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Yannick et Catherine",
+        "description": "La Ivana Miño acompanya en Yannick i la Catherine, dos amics francesos, en un viatge que comença i acaba al Carnaval de Solsona. Entremig, però, coneixen els llocs més espectaculars de la comarca i els indrets més turístics de Cardona.",
         "genre": "ALTRES",
         "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-24T15:33:50+02:00",
-        "stop": "2026-08-24T15:56:49+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Danger i Thunder (Part 2)",
-        "description": "En Henry, en Ray i la Phoebe s'infiltren en la reunió de malvats liderada pel Nadó mentre en Max complica la situació amb els seus propis plans.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "start": "2026-08-24T16:17:47+02:00",
+        "stop": "2026-08-24T16:38:48+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Dits de seda",
+        "description": "L'Alex i la Clover comencen a sospitar de les activitats secretes de la Sam, que està seguint la pista d'en Jazz Handz. Desobeint les ordres d'en Jerry, seran testimonis de la trobada de la seva amiga amb el mim més malvat de la història i engegaran a rodar una missió altament confidencial. Per aturar en Jazz les Espies han d'estar més unides que mai...",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-08-24T15:56:49+02:00",
-        "stop": "2026-08-24T16:17:47+02:00",
-        "title": "Henry Danger",
-        "subtitle": "En Henry i en Henry",
-        "description": "En Henry, en Ray, la Charlotte i el Schwoz creen un doble d'en Henry per evitar un sopar amb l'oncle Mark mentre tot es complica quan el robot comença a actuar pel seu compte.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "start": "2026-08-24T16:38:48+02:00",
+        "stop": "2026-08-24T16:59:20+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Un món de mims",
+        "description": "En Jazz Handz acaba d'inaugurar el Món del Mim, un parc temàtic dedicat exclusivament al mim. Ben mirat, no és cap delicte. Però les nostres heroïnes estan convençudes que, tot plegat, forma part d'un altre dels plans malèfic d'en Jazz. Aviat descobriran que la seva intenció és crear un exèrcit de mims invencible... reclutant el públic del parc!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-24T15:29:44+02:00",
-        "stop": "2026-08-24T16:16:35+02:00",
-        "title": "La Renaixença",
-        "subtitle": "Les manuelles",
-        "description": "Pocs saben què són unes manuelles, però tothom n'ha fet servir. Normalment al gimnàs, però també pujant les bosses de la compra, carregant canalla a coll (si és que un en té) o pujant i baixant mobles durant una mudança. Sí, parlem dels pesos, però que en català correcte es diuen manuelles. Ens visita un campió de raids: Nani Roma. S'ha compromès a tornar-nos a visitar si compleix un repte que li hem proposat. L'esperem! I sortim a passejar en Marvin pel primer casino del món, que va obrir les portes el 1638, a Venècia.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
-      },
       {
         "start": "2026-08-24T16:16:35+02:00",
         "stop": "2026-08-24T17:21:35+02:00",
@@ -139,9 +130,28 @@
         "description": "En aquest capítol de 'Joc de cartes' el Marc Ribas farà les maletes per allotjar-se a la capital catalana i buscarà el Millor restaurant d'hotel amb encant a Barcelona.Els primers en mostrar l'encant del seu negoci seran els exigents i perfeccionistes Nieves i Marc del The Greenhouse, a l'Hotel Pulitzer, un restaurant que bé sembla un hivernacle al bell mig de la ciutat. Els segons a concursar seran el Jairo i el Jon del Negresco Restaurant, a l'Hotel Negresco Princess, que competiran amb la seguretat que els donen les seves vistes panoràmiques a la ciutat de Barcelona. I acabarem a l'Hotel Boutique Torre Barcelona, a Collserola, un hotel ubicat en una antiga casa modernista catalogada que gestiona el carismàtic matrimoni format per la Mercè i el Giorgio.Seran els restauradors tan encantadors com els seus negocis? Qui desplegarà millor l'encant del seus fogons? Qui s'endurà el títol de Millor restaurant d'hotel amb encant a Barcelona?",
         "genre": "ALTRES",
         "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
+      },
+      {
+        "start": "2026-08-24T17:21:35+02:00",
+        "stop": "2026-08-24T18:29:10+02:00",
+        "title": "Joc de cartes",
+        "subtitle": "La millor cuina amb gust de mar a Cadaqués i Roses",
+        "description": "La ruta de 'Joc de cartes' d'aquest estiu acabarà fent parada a la Costra Brava, on el Marc Ribas buscarà la Millor cuina amb gust de mar a Roses i Cadaqués. Les primeres concursants que coneixerà seran l'Ana i la Maria del Casa Anita, a Cadaqués, un restaurant familiar i amb molta essència amb més de sis dècades d'història. També a Cadaqués, i ben a la vora del mar, es troba el Xiringuito La Sal, i per 'salero' el que tenen el seu xef, l'Aniol, i el cap de sala, el Joan. L'últim restaurant que posarà a prova el gust de mar de la seva cuina serà el Falconera, de Roses, capitanejat als fogons pel seu xef, el Gregory, i a sala per l'Albert.Les aigües de la Costa Brava i la tramuntana seran testimoni d'aquest duel culinari amb salitre. Qui farà la millor cuina amb gust de mar? Roses o Cadaqués?",
+        "genre": "ALTRES",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
       }
     ],
-    "oca1": [],
+    "oca1": [
+      {
+        "start": "2026-08-24T16:10:00+02:00",
+        "stop": "2026-08-24T17:14:55+02:00",
+        "title": "Carlos Cuerpo compareix per la crisi de Ceuta",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/8/4/1787573782948.jpg"
+      }
+    ],
     "oca2": [],
     "oca3": [],
     "oca4": []
