@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T10:02:35.541089+00:00",
+  "updated": "2026-08-24T10:52:41.642095+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -74,54 +74,45 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T11:41:20+02:00",
-        "stop": "2026-08-24T12:15:18+02:00",
-        "title": "GR Pirineus",
-        "subtitle": "Una llengua molt viva",
-        "description": "La Vall d'Aran ens obrirà les portes per mostrar-nos tota la seva impressionant bellesa, i ho farà en aranès, perquè en aquesta ruta volem descobrir aquesta llengua autòctona i demostrar que està molt més viva del que sembla.La ruta que seguirem començarà a Bagergue i passarà per Unha, Salardú, Escunhau, Betren, Vielha, Arròs, Es Bordes, Bossost, Lles i acabarà a Bausén.Durant el trajecte aprendrem a cuinar olla aranesa, anirem a classe d'aranès, ens endinsarem en l'impressionant patrimoni natural de la vall visitant dos salts d'aigua: eths Ulhs deth Jueus i eth Saut deth Pish; coneixerem per què els esturions de la Vall d'Aran estan considerats els que donen millor caviar, i el tastarem; i acabarem amb el grup Bramatopin, cantant cançons tradicionals araneses i coneixent una romàntica però tràgica història d'amor.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "start": "2026-08-24T12:30:31+02:00",
+        "stop": "2026-08-24T13:58:03+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Post Elx-Barça / J2",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-08-24T12:15:18+02:00",
-        "stop": "2026-08-24T12:30:29+02:00",
-        "title": "Pastors i ramats: un món que se'n va",
-        "subtitle": "Ernest Sitjes",
-        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-08-24T13:58:03+02:00",
+        "stop": "2026-08-24T14:29:41+02:00",
+        "title": "Zona Zàping Club",
+        "subtitle": "El Zapi està de morros... perquè no el van convidar al sopar de l'equip!",
+        "description": "En aquest programa, Pere Mas participa en el concurs i intentarà endevinar el final de tres vídeos virals per emportar-se els premis del 'Zona Zàping Club'. Però qui no comença gaire bé el programa és el Zapi, que està ben enfadat després de quedar-se sense invitació al sopar-pizza de l'equip. Aconseguiran animar-lo abans del ball final?",
+        "genre": "ESPECIALS",
         "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-24T11:56:05+02:00",
-        "stop": "2026-08-24T12:07:33+02:00",
-        "title": "Ghost Rockers",
-        "subtitle": "",
-        "description": "En Brandon s'ha presentat a la festa i posa en perill la missió de la Mila. La mare d'en Jules continua fent passos per allunyar el seu fill de l'Alex. Per part seva, la Charlie decideix ajudar en Jimmy a buscar el manuscrit original de l'obra. La Mila es prepara per entrar a la casa de la família Silva per robar la ballarina del Bolxoi, que està guardada en una caixa forta sota un quadre dels Tres Mosqueters. ",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-24T12:39:40+02:00",
+        "stop": "2026-08-24T13:00:27+02:00",
+        "title": "Les Tortugues Ninja",
+        "subtitle": "El guerrar de l'estepa",
+        "description": "En una era postapocalíptica, trobem un Raphael molt endurit i envellit que es mou per una estepa immensa. Per subsistir en aquest entorn tan hostil, s'ha d'enfrontar contínuament amb bandes armades d'animals.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-24T12:07:33+02:00",
-        "stop": "2026-08-24T12:18:48+02:00",
-        "title": "Ghost Rockers",
-        "subtitle": "",
-        "description": "En Jimmy li toca a la Charlie una cançó romàntica que ha compost per a l'obra, i això fa que hi hagi un acostament entre tots dos. Entre l'Alex i en Jules també hi ha un retrobament. La Mila ha fet saltar l'alarma accidentalment a la casa dels Silva, i en Lucas es dirigeix cap allà. Tindrà temps, la Mila, d'obrir la caixa forta i agafar la figura sense que l'enxampi? ",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-24T13:00:27+02:00",
+        "stop": "2026-08-24T13:23:04+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El record del primer amor (2a part)",
+        "description": "L'Asami descansa a l'hospital després que la Ran la rescatés de les flames. En Kogoro defensa la teoria que la jove ha calat foc intencionadament a la casa per suïcidar-se, però en Conan, després d'examinar la sala on es va iniciar l'incendi, arriba a una altra conclusió: va patir un intent d'assassinat per part d'un dels cinc amics de la colla. En Conan adorm en Kogoro i desemmascara l'autor dels fets.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-24T11:17:49+02:00",
-        "stop": "2026-08-24T12:11:55+02:00",
-        "title": "Persona Infiltrada",
-        "subtitle": "Marta Torné - família Singh Kaur",
-        "description": "La Marta Torné és la convidada d'aquesta setmana al Persona Infiltrada. L'actriu i presentadora concursarà contra una família de Badalona amb arrels al Panjab indi. L'exotisme i el ball de Bollywood seran dos dels ingredients d'un programa amb molt de picant. La Marta haurà d'afinar mot bé la vista per fixar-se en tots els detalls i detectar quin membre de la família hi sobra. Inspeccionar la casa de dalt a baix, interrogar-los a fons i mirar de fer-los caure en contradiccions seran alguns dels recursos que tindrà al seu abast per aconseguir-ho. La família, per la seva banda, intentarà marejar-la i confondre-la tant com pugui. Al final de la jornada, la Marta s'haurà de decidir per un dels membres de la família. Si encerta la persona infiltrada, un espectador s'endurà els 5.000&euro; per sorteig. Però si la família aconsegueix enredar-la, seran ells i la persona infiltrada els qui es quedaran el premi del programa.",
-        "genre": "CONCURS",
-        "image": ""
-      },
       {
         "start": "2026-08-24T12:11:55+02:00",
         "stop": "2026-08-24T12:47:58+02:00",
@@ -130,6 +121,15 @@
         "description": "",
         "genre": "CONCURS",
         "image": "http://statics.ccma.cat/multimedia/jpg/3/7/1487784560073.jpg"
+      },
+      {
+        "start": "2026-08-24T12:47:58+02:00",
+        "stop": "2026-08-24T13:47:15+02:00",
+        "title": "Atrapa'm si pots - Especials",
+        "subtitle": "Atrapa'm si pots - estiu",
+        "description": "",
+        "genre": "CONCURS",
+        "image": ""
       }
     ],
     "oca1": [],
