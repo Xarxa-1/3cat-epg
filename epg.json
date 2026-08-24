@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T06:02:14.886018+00:00",
+  "updated": "2026-08-24T07:19:10.582479+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,54 +83,45 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T06:59:04+02:00",
-        "stop": "2026-08-24T08:26:51+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Post Elx-Barça / J2",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-08-24T09:11:14+02:00",
+        "stop": "2026-08-24T09:57:03+02:00",
+        "title": "Aire Lliure",
+        "subtitle": "Ebre, amb Peyu",
+        "description": "La majoria de les modalitats esportives que farem a les terres de l'Ebre son aquàtiques i com no podia ser d'una altra manera guarden gran relació amb el riu. En aquest episodi Núria Picas aprendrà la tècnica per practicar, riu avall: pàdel surf, rem i piragüisme. El convidat al sud de Catalunya serà l'humorista Peyu, gran aficionat a la BTT. ",
+        "genre": "REPORTATGES",
+        "image": ""
       },
       {
-        "start": "2026-08-24T08:26:51+02:00",
-        "stop": "2026-08-24T09:11:12+02:00",
-        "title": "Aire Lliure",
-        "subtitle": "Tramuntana, amb Pepa Plana",
-        "description": "En el programa que dedicarem al nord de la Costa Brava ens va acompanyar Pepa Plana que es va trobar una Núria Picas entrevistadora amb nas de pallassa. Totes dues van saltar tastant l'Aire més lliure d'Empuriabrava. L'atleta gironí Marc Pinsach ens va mostrar els trams més atractius dels famosos Camins de Ronda.",
-        "genre": "REPORTATGES",
+        "start": "2026-08-24T09:57:03+02:00",
+        "stop": "2026-08-24T10:53:41+02:00",
+        "title": "Katalonski",
+        "subtitle": "Moscou",
+        "description": "El Halldor anirà a Moscou enmig d'una tempesta de neu històrica. El presentador regalarà flors a diverses noies, una tradició d'allà. Marina Barinova explicarà un conte de titelles en què en Halldor és el protagonista; Svetlana Rúdnik el meravellarà amb els seu art flamenc; amb Mikhail Khaminsky en Halldor jugarà a un joc de preguntes i respostes difícils i en rus; Alexnadra Freydkina explicarà el seu gran amor per Barcelona i, amb Diana Narodnaya, Halldor es batrà en un duel amb espasa a mort... de riure.",
+        "genre": "Docu-Entreteniment",
         "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-24T07:54:56+02:00",
-        "stop": "2026-08-24T08:05:59+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "Els barrufets reptants",
-        "description": "El Bromista és l'encarregat de cuidar el Bebè Barrufet mentre els altres van a fer la collita de l'arítjol. Tot i que la Bombolla s'ofereix a ajudar-lo, l'Ulleres no se'n refia gens i es queda al poble a espiar-lo. El Bebè entra al laboratori del Gran Barrufet i, jugant amb una poció, acaba convertit en cargol. El Bromista i la Bombolla n'hauran de buscar l'antídot, però tot els sortirà malament.",
+        "start": "2026-08-24T09:12:07+02:00",
+        "stop": "2026-08-24T09:23:19+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla fa un rescat passat per aigua",
+        "description": "El barco del capità Turbot s'embarranca i en Ryder, en Zuma, la Skye i en Rocky han de buscar una solució plegats per rescatar-lo abans que s'enfonsi!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-24T08:05:59+02:00",
-        "stop": "2026-08-24T08:16:00+02:00",
-        "title": "Titó",
-        "subtitle": "Excursió al parc aqüàtic",
-        "description": "És estiu! En l'excursió d'avui ens refrescarem en un parc aquàtic. Tobogans, piscines, flotadors... i rialles amb en John C! ",
-        "genre": "ALTRES",
+        "start": "2026-08-24T09:23:19+02:00",
+        "stop": "2026-08-24T09:34:52+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "El Festival de Tardor",
+        "description": "Els cadells han de collir tota la fruita de la Yumi abans que arribi una nevada. Tothom té una tasca assignada menys en Chase, que haurà de trobar la manera d'ajudar.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-24T07:47:36+02:00",
-        "stop": "2026-08-24T08:39:37+02:00",
-        "title": "El Foraster",
-        "subtitle": "Horta de Sant Joan",
-        "description": "Aquesta setmana, veurem El Foraster més passat per aigua de tots. Quim Masferrer coneixerà Horta de Sant Joan –comarca de la Terra Alta, 993 habitants- entre xàfecs, tempestes i una tromba d'aigua que deixarà la pick-up embarrancada enmig dels boscos d'Horta, a tocar del Parc Natural dels Ports. Veurem si El Foraster se'n surt sol o necessita l'ajuda dels hortolans que ha conegut. Tots ells, personatges que El Foraster no oblidarà mai. Com l'Aila, que es dedica a fer rituals sioux per demanar que s'acabi l'època de sequera a Horta; la Piti, una dona que inunda el poble de pregons; o l'Eduardo –atenció a l'Eduardo-, un antic músic de l'Orquestra Esmeralda, que va perdre la il·lusió per tocar el saxo. 30 anys després, El Foraster intentarà que la recuperi. Perquè a Horta, després de la pluja, tot rebrota. ",
-        "genre": "VARIETATS",
-        "image": ""
-      },
       {
         "start": "2026-08-24T08:39:37+02:00",
         "stop": "2026-08-24T09:26:53+02:00",
@@ -139,6 +130,15 @@
         "description": "'Aquí hi viu un català', 'Ca la Pepeta', 'Cal Guarda'... Quantes rajoles catalanes donen la benvinguda a les portes de les cases i fan companyia a sobre les llars de foc? No volem que aquesta tradició es perdi, així que dediquem aquest capítol a la rajola catalana. Parlem amb Iván Morales, actor, director, dramaturg... Ha sortit en sèries tan nostrades com 'Poble Nou' i 'El cor de la ciutat'. I dirigeix pel·lícules i obres de teatre premiades arreu. Sortim a passejar la Maia pel 1952, el dia que un autobús va saltar el pont de Londres.",
         "genre": "ALTRES",
         "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+      },
+      {
+        "start": "2026-08-24T09:26:53+02:00",
+        "stop": "2026-08-24T09:56:17+02:00",
+        "title": "L'ofici de viure",
+        "subtitle": "El poder dels hàbits",
+        "description": "El programa explica com crear nous hàbits, i mantenir-los en el temps.La qualitat de la nostra vida depèn, en part, de la qualitat dels nostres hàbits.Gaspar Hernàndez en comença parlant amb Xesco Espar, exentrenador d'handbol del Barça. En Xesco és partidari d'apujar de nivell pel que fa als nostres hàbits diaris. Diu que cal cultivar els hàbits del coratge, de l'ambició i de l'excel·lència, però també l'hàbit de ser millor persona cada dia.La Mireia Grossmann és fisioterapeuta i ens anima a tenir l'hàbit de moure'ns cada dia una mica. Segons la Mireia, 'quan sortim a fer una passejada ens brillen els ulls'.I la Marta Romo, pedagoga experta en neurociències, desmenteix el tòpic que per canviar un hàbit siguin necessaris 21 dies.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/0/1625470710907.jpg"
       }
     ],
     "oca1": [],
