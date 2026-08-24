@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T08:10:39.826805+00:00",
+  "updated": "2026-08-24T09:03:29.960886+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T09:57:04+02:00",
-        "stop": "2026-08-24T10:53:42+02:00",
-        "title": "Katalonski",
-        "subtitle": "Moscou",
-        "description": "El Halldor anirà a Moscou enmig d'una tempesta de neu històrica. El presentador regalarà flors a diverses noies, una tradició d'allà. Marina Barinova explicarà un conte de titelles en què en Halldor és el protagonista; Svetlana Rúdnik el meravellarà amb els seu art flamenc; amb Mikhail Khaminsky en Halldor jugarà a un joc de preguntes i respostes difícils i en rus; Alexnadra Freydkina explicarà el seu gran amor per Barcelona i, amb Diana Narodnaya, Halldor es batrà en un duel amb espasa a mort... de riure.",
-        "genre": "Docu-Entreteniment",
-        "image": ""
-      },
-      {
-        "start": "2026-08-24T10:53:42+02:00",
-        "stop": "2026-08-24T11:41:19+02:00",
+        "start": "2026-08-24T10:53:43+02:00",
+        "stop": "2026-08-24T11:41:20+02:00",
         "title": "Cosins Germans",
         "subtitle": "El patró de la corona",
         "description": "Soldat romà, màrtir cristià, cavaller matadracs o sant guerrer protagonista de la reconquesta: són els rostres sota els quals s'ha venerat la figura de Sant Jordi. Però què hi ha de realitat i de mite al voltant del patró de l'antiga Corona d'Aragó? Per a esbrinar-ho, Ferran i Sílvia Bel viuran a Barcelona la diada cívica del llibre i la rosa. I a Alcoi, s'endinsaran a les festes de Moros i Cristians més importants i sumptuoses del País Valencià.",
         "genre": "ALTRES",
         "image": ""
+      },
+      {
+        "start": "2026-08-24T11:41:20+02:00",
+        "stop": "2026-08-24T12:15:17+02:00",
+        "title": "GR Pirineus",
+        "subtitle": "Una llengua molt viva",
+        "description": "La Vall d'Aran ens obrirà les portes per mostrar-nos tota la seva impressionant bellesa, i ho farà en aranès, perquè en aquesta ruta volem descobrir aquesta llengua autòctona i demostrar que està molt més viva del que sembla.La ruta que seguirem començarà a Bagergue i passarà per Unha, Salardú, Escunhau, Betren, Vielha, Arròs, Es Bordes, Bossost, Lles i acabarà a Bausén.Durant el trajecte aprendrem a cuinar olla aranesa, anirem a classe d'aranès, ens endinsarem en l'impressionant patrimoni natural de la vall visitant dos salts d'aigua: eths Ulhs deth Jueus i eth Saut deth Pish; coneixerem per què els esturions de la Vall d'Aran estan considerats els que donen millor caviar, i el tastarem; i acabarem amb el grup Bramatopin, cantant cançons tradicionals araneses i coneixent una romàntica però tràgica història d'amor.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-24T10:10:01+02:00",
-        "stop": "2026-08-24T10:21:04+02:00",
+        "start": "2026-08-24T10:56:27+02:00",
+        "stop": "2026-08-24T11:07:58+02:00",
         "title": "Les Sisters",
-        "subtitle": "Els perills de l'amnèsia",
-        "description": "La Marine li pren el mòbil a la seva germana i l'hi acaba trencant. Per evitar que la Wendy es posi feta una fúria, fa veure que pateix un atac d'amnèsia. La Wendy hi cau de quatre grapes i s'esforça perquè la seva germana recuperi la memòria sotmetent-la a situacions que li provoquin un xoc emocional.",
+        "subtitle": "El dibuixant misteriós",
+        "description": "La Marine i la Wendy són fans d'un còmic que es diu els Brothers. Quan la Marine sospita que el dibuixant s'inspira en la vida de les germanes per escriure els seus gags, decideix descobrir la seva identitat. Però no pot resoldre el cas sense la seva ajudanta fidel: la Wendy! Juntes les dues detectives aniran de sorpresa en sorpresa.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-24T10:21:04+02:00",
-        "stop": "2026-08-24T10:32:08+02:00",
+        "start": "2026-08-24T11:07:58+02:00",
+        "stop": "2026-08-24T11:19:20+02:00",
         "title": "Les Sisters",
-        "subtitle": "Somrieu si us hi atreviu!",
-        "description": "Per guanyar un monocicle elèctric, la Marine i la Wendy han de fer una foto graciosa d'un parent o d'un amic. Les dues germanes es trien mútuament i intenten enxampar l'altra en la postura més ridícula possible. Però cap de les dues no es vol rendir davant l'altra i acaben desesperant els pares, que els confisquen les càmeres de fotos. La Marine decideix recórrer a la seva amiga Loulou...",
+        "subtitle": "La tieta Coco",
+        "description": "La tieta Coco visita la seva germana gran després de fer la volta al món. Si la Wendy és bufona i morena com la seva mare, la Coco és guapa i rossa com la Marine. I igual de corconet que ella! I si la Marine i la Wendy es barallen sense parar, la seva mare i la tieta Coco no es queden enrere. Amb dos parells de germanes a casa, el que acaba rebent és el pare.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-24T09:56:18+02:00",
-        "stop": "2026-08-24T10:25:28+02:00",
-        "title": "L'ofici de viure",
-        "subtitle": "La incomoditat",
-        "description": "Com podem conviure amb la incomoditat? Fins a quin punt els períodes d'incomoditat poden ser oportunitats per créixer?De la incomoditat física i psicològica en parlem amb la piragüista olímpica Núria Vilarrubla. En Gaspar Hernàndez la visita al Parc Olímpic del Segre, a la Seu d'Urgell. La Núria navega en canoa per aigües braves i ha d'anar de genolls dins l'embarcació. Però la incomoditat més dura que ha d'afrontar és la gestió de les expectatives que hi ha a l'esport d'alt rendiment. La Núria cultiva l'atenció plena en les competicions. I explica que 'la violència' de l'aigua li pot jugar a favor, si la sap aprofitar.La crisi que ha esclatat a causa de la pandèmia és sinònim d'incomoditat per a molta gent. La caçatalents i advocada Arancha Ruiz explica la importància de descobrir el talent que tots tenim i de buscar solucions innovadores per donar resposta a aquesta època d'incertesa.I el doctor Miquel Samarra, metge especialitzat en Medicina Esportiva, parla de l'anomenat 'distrès' davant situacions excepcionals.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/0/1625470710907.jpg"
+        "start": "2026-08-24T10:53:02+02:00",
+        "stop": "2026-08-24T11:17:49+02:00",
+        "title": "Després de tu",
+        "subtitle": "El pla esquimal",
+        "description": "CAP 12. EL PLA ESQUIMALÒscar sospita que la iaia s'està morint i decideix investigar-ho. Pau té la reunió amb els de la plataforma que haurà d'afrontar amb Artur i la Raquel 2.0 . Alba trenca definitivament amb Cristian. Al sopar, tota eixa tensió esclatarà en una èpica discusió familiar. Un mal dia per a Pau.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       },
       {
-        "start": "2026-08-24T10:25:28+02:00",
-        "stop": "2026-08-24T10:53:02+02:00",
-        "title": "Després de tu",
-        "subtitle": "Esplèndida Encarna",
-        "description": "CAP 11. ESPLÈNDIDA ENCARNA.És l'aniversai d'Encarna i el vol celebrar amb tota la familia en un bon restaurant. En principi a ningú li va bé, però acabaran anant per a desgràcia del maitre i de la resta de comensals de tan exquisit local.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-24T11:17:49+02:00",
+        "stop": "2026-08-24T12:11:55+02:00",
+        "title": "Persona Infiltrada",
+        "subtitle": "Marta Torné - família Singh Kaur",
+        "description": "La Marta Torné és la convidada d'aquesta setmana al Persona Infiltrada. L'actriu i presentadora concursarà contra una família de Badalona amb arrels al Panjab indi. L'exotisme i el ball de Bollywood seran dos dels ingredients d'un programa amb molt de picant. La Marta haurà d'afinar mot bé la vista per fixar-se en tots els detalls i detectar quin membre de la família hi sobra. Inspeccionar la casa de dalt a baix, interrogar-los a fons i mirar de fer-los caure en contradiccions seran alguns dels recursos que tindrà al seu abast per aconseguir-ho. La família, per la seva banda, intentarà marejar-la i confondre-la tant com pugui. Al final de la jornada, la Marta s'haurà de decidir per un dels membres de la família. Si encerta la persona infiltrada, un espectador s'endurà els 5.000&euro; per sorteig. Però si la família aconsegueix enredar-la, seran ells i la persona infiltrada els qui es quedaran el premi del programa.",
+        "genre": "CONCURS",
         "image": ""
       }
     ],
