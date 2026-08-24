@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T16:30:57.699147+00:00",
+  "updated": "2026-08-24T17:14:58.387332+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,22 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T18:25:51+02:00",
-        "stop": "2026-08-24T18:57:33+02:00",
-        "title": "Art endins",
+        "start": "2026-08-24T19:03:49+02:00",
+        "stop": "2026-08-24T19:57:00+02:00",
+        "title": "Moments APM?",
         "subtitle": "",
-        "description": "'Art Endins' neix amb la clara idea d'acostar l'espectador a l'immens patrimoni en arts plàstiques que hi ha a Catalunya; de convidar-lo a fer una immersió en les històries i anècdotes, sovint desconegudes, que acompanyen les obres i els objectes de museus, fundacions, palaus, esglésies o col·leccions privades del país. Moltes de les coses que n'aprendrem són curioses, però també rigoroses i acadèmiques, i es posarà en contacte l'espectador amb el món fascinant dels historiadors, restauradors i conservadors d'art. Descobrirem, entre d'altres, pintures que es troben al Palau Güell o al monestir de Sant Benet de Montserrat. Ens fixarem en el treball escultòric procedent d'Erill la Vall i en el que atresora la Basílica del Pi de Barcelona. Ens deixarem seduir per l'art del Renaixement i el barroc, pel modernisme i el noucentisme. Visitarem els fons de reserva i les sales de molts museus, a Olot, a Lleida, a Reus, a Vic, a Solsona, a Figueres, a Valls… per fer una nova mirada a la nostra història de l'art, a la gran riquesa del nostre patrimoni artístic.Cada capítol explica a fons tres o quatre obres principals. De vegades, tot gira al voltant d'una sola obra, de vegades, al voltant d'un artista; aleshores, les seves obres formen el context. Una veu en off n'explica les històries i converteix els elements de la narració artística en un relat que pretén ser captivador i suggeridor. De tant en tant, els experts aporten les valoracions necessàries per completar el punt de vista acadèmic.En cada capítol també es presenten dues obres més, part d'un catàleg particular del programa. Durant un minut veiem l'obra des d'un nou 'punt de vista', condicionat per una banda sonora que l'acompanya a manera de so ambient. ",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "description": "Estàs de vacances i se't possa cara de pastanaga bullida només de pensar que hauràs d'aguantar dos mesos sense el teu programa preferit? Arriba 'APM?, el Multivers de l'estiu'. Durant juliol i agost TV3 emetrà un recull dels millors moments que s'han emès aquesta última temporada. Al loro! No et perdis els vídeos més divertits de la vint-i-unena temporada amb Nerea Sanfe, Joel Díaz, i tots els teus personatges preferits de l''APM?' #APM3CAT",
+        "genre": "TELEVISIÓ SOBRE TELEVISIÓ",
+        "image": "https://deliverty1.3cat.cat/deliverty/ccrtvi/resources/jpg/8/6/1784831816768.jpg"
       },
       {
-        "start": "2026-08-24T18:57:33+02:00",
-        "stop": "2026-08-24T19:03:48+02:00",
-        "title": "Xarxa Natura",
-        "subtitle": "Medes",
-        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
+        "start": "2026-08-24T19:57:00+02:00",
+        "stop": "2026-08-24T21:00:00+02:00",
+        "title": "Atrapa'm si pots, estiu",
+        "subtitle": "",
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
+        "image": ""
       }
     ],
     "324": [
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T18:10:07+02:00",
-        "stop": "2026-08-24T20:10:09+02:00",
+        "start": "2026-08-24T18:10:08+02:00",
+        "stop": "2026-08-24T19:47:18+02:00",
         "title": "Handbol",
         "subtitle": "BM Granollers-Lleida HC / Supercopa Catalunya femenina / Final",
         "description": "Des del Pavelló Municipal d'Esports del Parc Dalmau, a Calella, final femenina de la Supercopa de Catalunya d'handbol.",
@@ -92,7 +92,7 @@
         "image": "https://img.3cat.cat/multimedia/jpg/9/3/1784292968539.jpg"
       },
       {
-        "start": "2026-08-24T20:10:09+02:00",
+        "start": "2026-08-24T19:47:18+02:00",
         "stop": "2026-08-24T20:25:00+02:00",
         "title": "Tot Costa",
         "subtitle": "La idea del Barça en l'última setmana de mercat",
@@ -103,21 +103,21 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-24T18:25:48+02:00",
-        "stop": "2026-08-24T18:37:37+02:00",
-        "title": "Titó",
-        "subtitle": "Excursió al parc",
-        "description": "Avui anem d'excursió al parc. És una excursió molt especial perquè és la primera que fem amb la nostra nova amiga: la Tat! ",
-        "genre": "ALTRES",
+        "start": "2026-08-24T19:09:13+02:00",
+        "stop": "2026-08-24T19:20:18+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva el Humdingmico",
+        "description": "L'alcalde Humdinger està de vacances a la selva i troba una màscara màgica de mico molt antiga. La Patrulla, esclar, l'hauran rescatar a ell i a la màscara!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-24T18:37:37+02:00",
-        "stop": "2026-08-24T18:47:27+02:00",
-        "title": "A jugar! Amb en Titó i els Fa la la",
-        "subtitle": "A jugar a cantar",
-        "description": "Qui guanyarà el concurs de millor cantant del parc? Serà en Titó? L'Os Bru? L'Oca de l'Empordà? El Tritó del Montseny? El Ruquicorn? O la Tat? Sí, avui també veurem la Tat!!!",
-        "genre": "ALTRES",
+        "start": "2026-08-24T19:20:18+02:00",
+        "stop": "2026-08-24T19:30:51+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva el menjar que vola",
+        "description": "El senyor Porter ha començat a repartir el menjar de la botiga amb drons. Hi ha drons per tot arreu i van la mar de bé, però i si fallen?",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
@@ -143,7 +143,17 @@
     ],
     "oca1": [],
     "oca2": [],
-    "oca3": [],
+    "oca3": [
+      {
+        "start": "2026-08-24T19:00:00+02:00",
+        "stop": "2026-08-24T20:31:00+02:00",
+        "title": "Tot Costa",
+        "subtitle": "",
+        "description": "Quan falten pocs dies perquè tanqui el mercat de fitxatges, amb la Laia Tudel repassem la idea del club blaugrana. Els de Hansi Flick van debutar amb golejada, 0 a 5 a Elx, en el debut de Gordon i Adeyemi a la Lliga. A més, repassem l'inici de l'Espanyol, del Madrid i també del Sabadell i el Girona a segona.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+      }
+    ],
     "oca4": []
   }
 }
