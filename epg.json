@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T02:46:37.818478+00:00",
+  "updated": "2026-08-24T03:50:17.324696+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T04:30:00+02:00",
-        "stop": "2026-08-24T05:14:36+02:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Ivó Oller Quintet",
-        "description": "El trompetista ens presenta el seu Quintet amb un repertori en el qual la tradició del jazz modern adquireix nous matisos i es vesteix de singularitat. El treball d'anys amb la mateixa formació i una visió introspectiva fan que l'aproximació d'Oller al bebop es converteixi en una proposta ben personal. Marc Sort, al saxo, Martí Ventura, al piano, Dick Them, al contrabaix, Pinyu Martí, a la bateria, i el mateix Ivó Oller, a la trompeta.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
         "start": "2026-08-24T05:14:36+02:00",
         "stop": "2026-08-24T06:00:01+02:00",
         "title": "Cava de Blues",
@@ -59,6 +50,15 @@
         "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
         "genre": "JAZZ",
         "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+      },
+      {
+        "start": "2026-08-24T06:00:01+02:00",
+        "stop": "2026-08-24T07:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T04:36:31+02:00",
-        "stop": "2026-08-24T04:53:57+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-08-24T05:24:20+02:00",
+        "stop": "2026-08-24T06:17:07+02:00",
+        "title": "Motocròs",
+        "subtitle": "Gran Premi dels Països Baixos / WMX Motocross World Championship / J2",
+        "description": "Penúltima prova del Campionat del Món de Motocròs amb la participació destacada de la catalana Daniela Guillén, que està entre candidates al títol. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/4/1779284574045.jpg"
       },
       {
-        "start": "2026-08-24T04:53:57+02:00",
-        "stop": "2026-08-24T05:24:17+02:00",
-        "title": "Zona Zàping Club",
-        "subtitle": "Aina Cerdà intenta veure més enllà del fotograma",
-        "description": "El vídeo s'atura en el moment més inoportú. Serà capaç d'endevinar què passa després i convèncer el Zapi? No us perdeu la ballaruga final: TOP!!",
-        "genre": "ESPECIALS",
-        "image": ""
+        "start": "2026-08-24T06:17:07+02:00",
+        "stop": "2026-08-24T06:42:07+02:00",
+        "title": "E3",
+        "subtitle": "Monster Jam / Anaheim 1 / 1",
+        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-24T04:45:47+02:00",
-        "stop": "2026-08-24T04:52:26+02:00",
+        "start": "2026-08-24T05:46:23+02:00",
+        "stop": "2026-08-24T05:52:42+02:00",
         "title": "El xai Shaun",
-        "subtitle": "Va, Bitzer, va!",
-        "description": "El Bitzer ha estat vençut i humiliat pel gos del Ben, el Lexie, en la cursa del Gran Premi de karts. En veure aquest escarni que ha patit el seu amic, el Shaun decideix fer alguna cosa perquè la pròxima vegada les coses siguin una mica diferents.1",
+        "subtitle": "Carbasses en perill",
+        "description": "Som a la vigília de Halloween i el Bitzer té la missió de vigilar les tres carbasses premiades del granger. A pesar que ell, el Shaun i el ramat fan tot el que poden, les carbasses desapareixen una rere l'altra i només deixen un rastre llefiscós i misteriós. És que potser hi ha un monstre de les carbasses que campa lliurement enmig de la tenebrosa nit?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-24T04:52:26+02:00",
-        "stop": "2026-08-24T04:58:26+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "Porc premiat",
-        "description": "El Ben està guanyant tots els premis a la fira del comtat i quan un dels porcs torna de la fira amb un premi el Shaun sospita que aquí hi ha gat amagat. El nou estatus de famós del porc, que va acompanyat d'un comportament capritxós d'estrella, fa que tots s'ho creguin menys el Shaun, que està decidit a descobrir la veritat.1",
+        "start": "2026-08-24T05:52:42+02:00",
+        "stop": "2026-08-24T05:54:48+02:00",
+        "title": "Looloo Kids (cançons)",
+        "subtitle": "Tingueu unes bones festes",
+        "description": "La família del Jaume ens desitja bones festes i un molt bon any nou.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-24T04:45:44+02:00",
-        "stop": "2026-08-24T05:33:00+02:00",
-        "title": "La Renaixença",
-        "subtitle": "El submarí",
-        "description": "Poques persones han entrat en un submarí. I de les poques que hi han anat, moltes han acabat morint. Si no ho heu pogut fer, és un bon moment per decidir quedar-vos a terra ferma. Si ja ho heu fet, val més que no tempteu més la sort. Dediquem aquest capítol al submarí, tot i que al més semblant que hem pujat és el Nautilus de l'Estartit. Gaudim de tenir a dalt de l'escenari de 'La Renaixença' el músic i compositor Joan Garriga. I sortim a passejar per l'atemptat del Liceu del 1893 amb la Cleo.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-08-24T05:48:38+02:00",
+        "stop": "2026-08-24T05:54:39+02:00",
+        "title": "VIDEOCLIPS CATALANS",
+        "subtitle": "- Alidé Sans - Passat deman",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       },
       {
-        "start": "2026-08-24T05:33:00+02:00",
-        "stop": "2026-08-24T05:48:37+02:00",
-        "title": "Les Feres",
-        "subtitle": "Los Sara Fontán",
-        "description": "La proposta musical de Los Sara Fontán parteix del diàleg imaginatiu i sempre en constant mutació de la bateria i les bases d'Edi Pou i el violí i els pedals de Sara Fontán. El duet ha trobat a través de nombrosos concerts pel territori i l'estranger un espai elàstic per improvisar, modular i fer créixer les seves composicions. Però encara que la naturalesa del seu so parteixi del moment capturat en viu, Los Sara Fontán tampoc han defugit les possibilitats d'experimentar dins de l'estudi amb el seu debut 'Queda pendiente'. Sara Fontán – violí i pedals Edi Pou – bateria i bases Clara Tena -moviment  'Elektra' 'Fats Cobra' 'Wall-E' 'Visita de obra'  Localització: enregistrat a Castellar de n'Hug, al Museu del Ciment Dia: dijous, 16 de maig del 2024    ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
+        "start": "2026-08-24T05:54:39+02:00",
+        "stop": "2026-08-24T05:58:17+02:00",
+        "title": "VIDEOCLIPS CATALANS",
+        "subtitle": "- XAVI SARRIÀ - LA NIT FERIDA",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       }
     ],
     "oca1": [],
