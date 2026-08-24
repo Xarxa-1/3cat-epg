@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T22:42:49.207095+00:00",
+  "updated": "2026-08-24T23:02:17.426918+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-25T00:30:00+02:00",
-        "stop": "2026-08-25T01:00:00+02:00",
+        "start": "2026-08-25T01:00:00+02:00",
+        "stop": "2026-08-25T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-25T01:00:00+02:00",
-        "stop": "2026-08-25T06:00:00+02:00",
+        "start": "2026-08-25T06:00:00+02:00",
+        "stop": "2026-08-25T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,40 +83,40 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-25T00:33:24+02:00",
-        "stop": "2026-08-25T00:47:30+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
-      },
-      {
-        "start": "2026-08-25T00:47:30+02:00",
-        "stop": "2026-08-25T02:48:47+02:00",
+        "start": "2026-08-25T00:47:31+02:00",
+        "stop": "2026-08-25T02:21:10+02:00",
         "title": "Onze",
         "subtitle": "L'evasió de Julián; pluja de gols a Elx; Mayola, Colegiado i Nin",
         "description": "Amb Lluís Carrasco, Carles Fité, Aina Cerdà i Jordi Martí parlem dels últims esdeveniments del cas Julián Álvarez i analitzem si la sortida del davanter argentí encara és possible. Comentem la golejada del Barça a Elx per arrencar la lliga, Marc Mayola analitza el partit de Raphinha i de Xavi Espart. Amb Joan Fàbregas analitzem les polèmiques de la jornada i acabem amb l'1X1 d'Òscar Nin.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+      },
+      {
+        "start": "2026-08-25T02:21:10+02:00",
+        "stop": "2026-08-25T02:35:26+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
-      {
-        "start": "2026-08-25T00:31:50+02:00",
-        "stop": "2026-08-25T00:52:00+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Animals esgarrifossos! (2a part)",
-        "description": "L'equip dels germans Kratt segueix el Zach fins a Vilacarbassa per recuperar el miniaturitzador que els ha robat. Al final, troben l'aparell en una casa que té un aire misteriós, una casa que quan hi entren, s'adonen que la Donita, el xef Gormand, la Paisley i el Zach l'han muntada com una mena de parc d'atraccions terrorífic, amb animals esgarrifosos que han segrestat per tot el món.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
       {
         "start": "2026-08-25T00:52:00+02:00",
         "stop": "2026-08-25T01:12:38+02:00",
         "title": "Els germans Kratt",
         "subtitle": "El pigarg americà que fa quatre",
         "description": "Per estudiar de més a prop el pigarg americà, el Chris i el Martin, amagats a dins d'uns ous d'aquest ocell, van a parar a dins d'un niu. Quan surten de l'ou, els adults els tracten com si fossin dues cries més. Tot va bé fins que el Gormand es disfressa d'os negre per robar ous de pigarg i fer una recepta nova: suflé d'ou de pigarg. L'equip dels germans Kratt farà tot el possible per arreglar-ho.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
+      },
+      {
+        "start": "2026-08-25T01:12:38+02:00",
+        "stop": "2026-08-25T01:24:24+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Zero en conducta",
+        "description": "Les germanes no paren de fer malifetes i el seu pare acaba tenint un atac. Perquè es recuperi, la mare el treu a passejar per la muntanya, però abans li diu a la Wendy que es faci càrrec de la Marine i que no facin cap més malifeta. Perquè els pares la perdonin, la Marine decideix rentar el cotxe de la família. Mentrestant, la Wendy està més pendent de parlar pel mòbil amb el seu nòvio que de vigilar la seva germana...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
