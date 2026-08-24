@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T05:24:15.898545+00:00",
+  "updated": "2026-08-24T06:02:14.886018+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,34 +103,25 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-24T07:21:28+02:00",
-        "stop": "2026-08-24T07:32:55+02:00",
+        "start": "2026-08-24T07:54:56+02:00",
+        "stop": "2026-08-24T08:05:59+02:00",
         "title": "Els barrufets (3D)",
-        "subtitle": "La dent que es belluga",
-        "description": "La Barrutempesta no para d'explicar heroïcitats a les amigues, com quan li va arrencar una dent a un os, però considera que la Bombolla i la Lluerna són massa petites per seguir-la en les seves aventures. Ofeses, les dues noies decideixen anar a buscar aventures al bosc per demostrar la seva vàlua i se'ls presenta una oportunitat única: arrencar-li una dent a la Rowena i portar-la al poble. Ho aconseguiran?",
+        "subtitle": "Els barrufets reptants",
+        "description": "El Bromista és l'encarregat de cuidar el Bebè Barrufet mentre els altres van a fer la collita de l'arítjol. Tot i que la Bombolla s'ofereix a ajudar-lo, l'Ulleres no se'n refia gens i es queda al poble a espiar-lo. El Bebè entra al laboratori del Gran Barrufet i, jugant amb una poció, acaba convertit en cargol. El Bromista i la Bombolla n'hauran de buscar l'antídot, però tot els sortirà malament.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-24T07:32:55+02:00",
-        "stop": "2026-08-24T07:43:55+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "La nit més fosca",
-        "description": "El Gargamel crea un interruptor màgic amb què pot fer que sigui de nit o de dia a voluntat. Quan deixa el bosc a les fosques, els barrufets demanen ajuda a la Lluerna, que s'il·lumina i tranquil·litza tothom. Però la claror atrau el Gargamel, que els captura a tots. La Lluerna es turmenta pensant que per culpa seva els seus amics corren perill i serà ella mateixa qui els rescatarà.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-24T08:05:59+02:00",
+        "stop": "2026-08-24T08:16:00+02:00",
+        "title": "Titó",
+        "subtitle": "Excursió al parc aqüàtic",
+        "description": "És estiu! En l'excursió d'avui ens refrescarem en un parc aquàtic. Tobogans, piscines, flotadors... i rialles amb en John C! ",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-24T07:19:25+02:00",
-        "stop": "2026-08-24T07:47:36+02:00",
-        "title": "Quèquicom",
-        "subtitle": "QQC i...Estadística i Probabilitat",
-        "description": "Quèquicom divulga des de 2006 la ciència, la natura i la tecnologia d'una manera amena, clara i rigorosa amb la voluntat de fomentar l'esperit crític i la curiositat intel·lectual en l'espectador. És una producció del Departament de Documentals de TV3.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
-      },
       {
         "start": "2026-08-24T07:47:36+02:00",
         "stop": "2026-08-24T08:39:37+02:00",
@@ -139,6 +130,15 @@
         "description": "Aquesta setmana, veurem El Foraster més passat per aigua de tots. Quim Masferrer coneixerà Horta de Sant Joan –comarca de la Terra Alta, 993 habitants- entre xàfecs, tempestes i una tromba d'aigua que deixarà la pick-up embarrancada enmig dels boscos d'Horta, a tocar del Parc Natural dels Ports. Veurem si El Foraster se'n surt sol o necessita l'ajuda dels hortolans que ha conegut. Tots ells, personatges que El Foraster no oblidarà mai. Com l'Aila, que es dedica a fer rituals sioux per demanar que s'acabi l'època de sequera a Horta; la Piti, una dona que inunda el poble de pregons; o l'Eduardo –atenció a l'Eduardo-, un antic músic de l'Orquestra Esmeralda, que va perdre la il·lusió per tocar el saxo. 30 anys després, El Foraster intentarà que la recuperi. Perquè a Horta, després de la pluja, tot rebrota. ",
         "genre": "VARIETATS",
         "image": ""
+      },
+      {
+        "start": "2026-08-24T08:39:37+02:00",
+        "stop": "2026-08-24T09:26:53+02:00",
+        "title": "La Renaixença",
+        "subtitle": "La rajola catalana",
+        "description": "'Aquí hi viu un català', 'Ca la Pepeta', 'Cal Guarda'... Quantes rajoles catalanes donen la benvinguda a les portes de les cases i fan companyia a sobre les llars de foc? No volem que aquesta tradició es perdi, així que dediquem aquest capítol a la rajola catalana. Parlem amb Iván Morales, actor, director, dramaturg... Ha sortit en sèries tan nostrades com 'Poble Nou' i 'El cor de la ciutat'. I dirigeix pel·lícules i obres de teatre premiades arreu. Sortim a passejar la Maia pel 1952, el dia que un autobús va saltar el pont de Londres.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
