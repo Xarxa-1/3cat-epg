@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T04:39:26.759237+00:00",
+  "updated": "2026-08-24T05:24:15.898545+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,17 +43,17 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T05:14:36+02:00",
-        "stop": "2026-08-24T06:00:01+02:00",
-        "title": "Cava de Blues",
-        "subtitle": "Blas Picon & The Junk Express",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+        "start": "2026-08-24T07:00:00+02:00",
+        "stop": "2026-08-24T10:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-24T06:00:01+02:00",
-        "stop": "2026-08-24T07:00:00+02:00",
+        "start": "2026-08-24T10:00:00+02:00",
+        "stop": "2026-08-24T12:00:05+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-24T06:00:00+02:00",
-        "stop": "2026-08-24T07:00:00+02:00",
+        "start": "2026-08-24T07:00:00+02:00",
+        "stop": "2026-08-24T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-24T07:00:00+02:00",
-        "stop": "2026-08-24T10:00:00+02:00",
+        "start": "2026-08-24T10:00:00+02:00",
+        "stop": "2026-08-24T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T06:17:07+02:00",
-        "stop": "2026-08-24T06:42:07+02:00",
-        "title": "E3",
-        "subtitle": "Monster Jam / Anaheim 1 / 1",
-        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
+        "start": "2026-08-24T06:59:04+02:00",
+        "stop": "2026-08-24T08:26:51+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Post Elx-Barça / J2",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-08-24T06:42:07+02:00",
-        "stop": "2026-08-24T06:59:01+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-08-24T08:26:51+02:00",
+        "stop": "2026-08-24T09:11:12+02:00",
+        "title": "Aire Lliure",
+        "subtitle": "Tramuntana, amb Pepa Plana",
+        "description": "En el programa que dedicarem al nord de la Costa Brava ens va acompanyar Pepa Plana que es va trobar una Núria Picas entrevistadora amb nas de pallassa. Totes dues van saltar tastant l'Aire més lliure d'Empuriabrava. L'atleta gironí Marc Pinsach ens va mostrar els trams més atractius dels famosos Camins de Ronda.",
+        "genre": "REPORTATGES",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-24T06:34:12+02:00",
-        "stop": "2026-08-24T06:45:31+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "Temps a la carta",
-        "description": "Avui la Lara ha endevinat que plouria i ara tothom es pensa que és ella la que decideix quin temps farà. La Maia de seguida s'adona que la Lara comença a tractar tots els seus amiguets com si fossin els seus criats, i està decidida a desemmascarar-la, per mentidera. Aviat tots s'adonaran que si es fixen en els senyals que els dóna la natura, ells també poden endevinar el temps que farà!",
+        "start": "2026-08-24T07:21:28+02:00",
+        "stop": "2026-08-24T07:32:55+02:00",
+        "title": "Els barrufets (3D)",
+        "subtitle": "La dent que es belluga",
+        "description": "La Barrutempesta no para d'explicar heroïcitats a les amigues, com quan li va arrencar una dent a un os, però considera que la Bombolla i la Lluerna són massa petites per seguir-la en les seves aventures. Ofeses, les dues noies decideixen anar a buscar aventures al bosc per demostrar la seva vàlua i se'ls presenta una oportunitat única: arrencar-li una dent a la Rowena i portar-la al poble. Ho aconseguiran?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-24T06:45:31+02:00",
-        "stop": "2026-08-24T06:56:46+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "Ales de campió",
-        "description": "La Maia i en Willi acaben de conèixer el Iaio Espiadomonis, un geni de les acrobàcies que havia guanyat un munt de vegades la Copa de Pol·len, la cursa més espectacular que se celebra cada any. Està una mica trist, perquè s'ha fet gran i ja no hi pot participar. El que sí que pot fer és entrenar la Maia i en Willi per convertir-los en els reis de les acrobàcies!",
+        "start": "2026-08-24T07:32:55+02:00",
+        "stop": "2026-08-24T07:43:55+02:00",
+        "title": "Els barrufets (3D)",
+        "subtitle": "La nit més fosca",
+        "description": "El Gargamel crea un interruptor màgic amb què pot fer que sigui de nit o de dia a voluntat. Quan deixa el bosc a les fosques, els barrufets demanen ajuda a la Lluerna, que s'il·lumina i tranquil·litza tothom. Però la claror atrau el Gargamel, que els captura a tots. La Lluerna es turmenta pensant que per culpa seva els seus amics corren perill i serà ella mateixa qui els rescatarà.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-24T06:22:39+02:00",
-        "stop": "2026-08-24T06:51:10+02:00",
+        "start": "2026-08-24T07:19:25+02:00",
+        "stop": "2026-08-24T07:47:36+02:00",
         "title": "Quèquicom",
-        "subtitle": "Alcohol i embaràs",
-        "description": "La Itziar i la Carme van anar a adoptar als països de l'est. Al cap d'un temps es van adonar que les seves criatures no es desenvolupaven correctament. Van fer una visita a l'Hospital del Mar, i allí el pediatra i investigador de l'IMIM, Òscar Garcia, els va diagnosticar la Síndrome Alcohòlica Fetal. Aquesta síndrome és la deficiència intel·lectual més nombrosa d'entre les causes evitables, i a Espanya afecta, en diferent grau, a dos de cada mil nadons. Una criatura amb Síndrome Alcohòlica Fetal té una fesomia característica, però els danys més greus no es veuen. Són intel·lectuals. I són permanents. No és cosa de mares alcohòliques, també n'hi ha casos entre bevedores ocasionals. Els científics no han pogut determinar la quantitat mínima d'ingesta d'alcohol que permeti assegurar que no hi ha risc. Quan la mare pren alcohol durant l'embaràs, pot estar propiciant, sense adonar-se'n, la Síndrome Alcohòlica Fetal. Quina és la quantitat mínima que pot beure una gestant per no perjudicar el seu nadó? No se sap. Així, doncs, si es vol tenir la certesa de tenir un fill sense la Síndrome Alcohòlica Fetal, l'única seguretat és no prendre ni una copa durant tot l'embaràs. I el problema és que l'etapa més crítica és, justament, quan encara no s'ha confirmat l'embaràs. A l'Institut Hospital del Mar d'Investigacions fa temps que s'estudia, juntament amb la Vall d'Hebron i Sant Joan de Déu. El doctor en bioquímica de l'IMIM, Vicente Andreu, està buscant la manera de reduir-ne els efectes una vegada la criatura ha nascut. Molts d'aquests nens tenen greus problemes de comportament. La Raquel Sala, fundadora d'educadors familiars del projecte Koala, va a casa dels familiars per ajudar també els familiars a abordar el problema.",
+        "subtitle": "QQC i...Estadística i Probabilitat",
+        "description": "Quèquicom divulga des de 2006 la ciència, la natura i la tecnologia d'una manera amena, clara i rigorosa amb la voluntat de fomentar l'esperit crític i la curiositat intel·lectual en l'espectador. És una producció del Departament de Documentals de TV3.",
         "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-08-24T06:51:10+02:00",
-        "stop": "2026-08-24T07:19:25+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Amb el porc al cor",
-        "description": "Assistim a una operació a cor obert per implantar un vàlvula aòrtica feta amb teixit de porc. En la cirurgia és imprescindible l'anticoagulant heparina, que s'extreu del porc. Al cap de 12 dies donen d'alta el pacient, Joan Fàbregas, que durant la resta de la vida haurà de prendre medicaments, administrats en forma de pastilla o càpsula. Tant l'una com l'altra contenen gelatina extreta de la pell del porc. En Joan portarà durant la resta de la seva vida el porc al cor. I, a més, descobrirem que els derivats del porc intervenen fins i tot en la fabricació de bales, cigarrets o cervesa.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-08-24T07:47:36+02:00",
+        "stop": "2026-08-24T08:39:37+02:00",
+        "title": "El Foraster",
+        "subtitle": "Horta de Sant Joan",
+        "description": "Aquesta setmana, veurem El Foraster més passat per aigua de tots. Quim Masferrer coneixerà Horta de Sant Joan –comarca de la Terra Alta, 993 habitants- entre xàfecs, tempestes i una tromba d'aigua que deixarà la pick-up embarrancada enmig dels boscos d'Horta, a tocar del Parc Natural dels Ports. Veurem si El Foraster se'n surt sol o necessita l'ajuda dels hortolans que ha conegut. Tots ells, personatges que El Foraster no oblidarà mai. Com l'Aila, que es dedica a fer rituals sioux per demanar que s'acabi l'època de sequera a Horta; la Piti, una dona que inunda el poble de pregons; o l'Eduardo –atenció a l'Eduardo-, un antic músic de l'Orquestra Esmeralda, que va perdre la il·lusió per tocar el saxo. 30 anys després, El Foraster intentarà que la recuperi. Perquè a Horta, després de la pluja, tot rebrota. ",
+        "genre": "VARIETATS",
         "image": ""
       }
     ],
