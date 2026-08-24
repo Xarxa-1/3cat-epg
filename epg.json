@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T14:25:01.679823+00:00",
+  "updated": "2026-08-24T15:09:19.386551+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T16:26:06+02:00",
-        "stop": "2026-08-24T17:00:57+02:00",
-        "title": "La Riera",
-        "subtitle": "",
-        "description": "L'Ignasi s'ha fet mal i, ara, les coses han canviat per a tots. També han canviat per a la Txell: després del que va descobrir, la relació entre en Mauri i ella no tornarà a ser la mateixa. A la cuina, en Joan presumeix del que va passar amb la Maribel, cosa que a ella no li agrada gens. I la Lídia disfruta dels seus plans de venjança contra en Claudi.",
-        "genre": "TELENOVEL·LA",
-        "image": ""
-      },
-      {
         "start": "2026-08-24T17:00:57+02:00",
         "stop": "2026-08-24T17:37:45+02:00",
         "title": "La Riera",
@@ -59,21 +50,30 @@
         "description": "En Joan ha aconseguit que en Sergi es posi gelós, però la Txell és una altra cosa. Ni s'imagina per què està tan abatuda. La que té ganes de divertir-se com una noia normal és la Mireia, però té un nòvio... I la Lídia comença a investigar l'Estel. Està decidida a trobar alguna esquerda.",
         "genre": "TELENOVEL·LA",
         "image": ""
+      },
+      {
+        "start": "2026-08-24T17:37:45+02:00",
+        "stop": "2026-08-24T18:25:49+02:00",
+        "title": "Nervi",
+        "subtitle": "Microfestivals, Ferran Utzet, Il·lustradores, Minibús Intergalàctic",
+        "description": "El periodista musical Nando Cruz ens presenta el llibre 'Microfestivals'. Andrea Gumes entrevista el dramaturg i actor Ferran Utzet. Jacint Casademont ens presenta cinc de les il·lustradores més interessants del panorama català. Tanca el programa una actuació en directe dels Minibús Intergalàctic al Teatre-Museu Dalí de Figueres. ",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-24T14:30:00+02:00",
-        "stop": "2026-08-24T16:30:00+02:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-08-24T17:00:00+02:00",
+        "stop": "2026-08-24T18:30:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-24T16:30:00+02:00",
-        "stop": "2026-08-24T17:00:00+02:00",
+        "start": "2026-08-24T18:30:00+02:00",
+        "stop": "2026-08-24T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,15 +83,6 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T16:17:11+02:00",
-        "stop": "2026-08-24T17:06:55+02:00",
-        "title": "Gent de món",
-        "subtitle": "Mediterrani occidental 1",
-        "description": "Heu vist mai el mar als peus de la muntanya de Montserrat?Heu gaudit de les vistes que contemplava el comte de Montecristo des de la seva cel·la?Avui farem un creuer per la Mediterrània occidental des de Barcelona fins a Nàpols a bord del vaixell més gran del món. Una travessa pels mars més propers farcida de ports mil·lenaris, de capitals d'imperis caiguts, de carrers desendreçats, de verges daurades i torres inclinades; de catedrals de marbre i antics deus fets de pedra. Un viatge pels orígens i la historia dels nostres veïns a traves del mar que sempre ens ha unit. ",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
         "start": "2026-08-24T17:06:55+02:00",
         "stop": "2026-08-24T17:59:50+02:00",
         "title": "Experiència Catalana",
@@ -99,24 +90,33 @@
         "description": "La Ivana Miño acompanya en Yannick i la Catherine, dos amics francesos, en un viatge que comença i acaba al Carnaval de Solsona. Entremig, però, coneixen els llocs més espectaculars de la comarca i els indrets més turístics de Cardona.",
         "genre": "ALTRES",
         "image": ""
+      },
+      {
+        "start": "2026-08-24T17:59:50+02:00",
+        "stop": "2026-08-24T18:10:30+02:00",
+        "title": "Capacitats",
+        "subtitle": "Pepi Benítez, amb el rumb clar",
+        "description": "Pepi Benítez és invident. Amb una energia i una positivitat que s'encomanen, ha participat en quatre Jocs Paralímpics, els dos primers en ciclisme i els dos últims en rem. I als seus 57 anys, no descarta el repte de participar a Los Angeles 2028. ",
+        "genre": "ESPECIALS",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/1/1778080999014.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-24T16:17:47+02:00",
-        "stop": "2026-08-24T16:38:48+02:00",
+        "start": "2026-08-24T16:59:20+02:00",
+        "stop": "2026-08-24T17:19:53+02:00",
         "title": "Espies de veritat",
-        "subtitle": "Dits de seda",
-        "description": "L'Alex i la Clover comencen a sospitar de les activitats secretes de la Sam, que està seguint la pista d'en Jazz Handz. Desobeint les ordres d'en Jerry, seran testimonis de la trobada de la seva amiga amb el mim més malvat de la història i engegaran a rodar una missió altament confidencial. Per aturar en Jazz les Espies han d'estar més unides que mai...",
+        "subtitle": "La mascota maligna",
+        "description": "Una sèrie d'atacs a estudiants de la Universitat de Malibú han fet saltar l'alarma a la WOOHP. En Jerry de seguida ha donat la missió a l'Alex, la Clover i la Sam, que aviat descobriran que totes les víctimes són atletes. L'agressor és una criatura amb urpes a les potes, bec punxegut i plomes blanques. Pot ser que es tracti de la mascota de la universitat de Riptide State?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-08-24T16:38:48+02:00",
-        "stop": "2026-08-24T16:59:20+02:00",
+        "start": "2026-08-24T17:19:53+02:00",
+        "stop": "2026-08-24T17:43:21+02:00",
         "title": "Espies de veritat",
-        "subtitle": "Un món de mims",
-        "description": "En Jazz Handz acaba d'inaugurar el Món del Mim, un parc temàtic dedicat exclusivament al mim. Ben mirat, no és cap delicte. Però les nostres heroïnes estan convençudes que, tot plegat, forma part d'un altre dels plans malèfic d'en Jazz. Aviat descobriran que la seva intenció és crear un exèrcit de mims invencible... reclutant el públic del parc!",
+        "subtitle": "Que continuï l'espectacle, perquè si no...",
+        "description": "Després d'una actuació penosa de la Clover en una classe de teatre, l'estrany comportament d'en Virgil cridarà l'atenció de les Espies. A més d'anar vestit de cowboy, parla amb un accent desconegut! I no és pas l'únic! La Mandy es presentarà a classe vestida d'astronauta, i la Mindy, de minyona! A més, sembla que estiguin hipnotitzats! Tot un misteri!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
@@ -141,17 +141,7 @@
         "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-08-24T16:10:00+02:00",
-        "stop": "2026-08-24T17:14:55+02:00",
-        "title": "Carlos Cuerpo compareix per la crisi de Ceuta",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/4/1787573782948.jpg"
-      }
-    ],
+    "oca1": [],
     "oca2": [],
     "oca3": [],
     "oca4": []
