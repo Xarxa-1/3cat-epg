@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T12:38:43.080676+00:00",
+  "updated": "2026-08-24T13:36:58.372418+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,21 +43,21 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T14:30:00+02:00",
-        "stop": "2026-08-24T15:33:11+02:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
-      },
-      {
-        "start": "2026-08-24T15:31:24+02:00",
-        "stop": "2026-08-24T16:24:42+02:00",
+        "start": "2026-08-24T15:32:47+02:00",
+        "stop": "2026-08-24T16:26:05+02:00",
         "title": "Gent de món",
         "subtitle": "Venècia i mar Adriàtic",
         "description": "Us heu enfilat mai a una muntanya seguint els passos dels apòstols? Heu contemplat una ciutat flotant mentre es perd en l'horitzó? No?Això és perquè no heu fet mai la travessa dels tres mars: l'Adriàtic, el Jònic i l'Egeu. Un viatge que ens durà des de Venècia fins a Atenes passant per Ravenna i la ciutat de Kotor, a Montenegro.Una ruta pel Mediterrani oriental on trobarem el rastre d'antigues civilitzacions desaparegudes, d'imperis caiguts, de ciutats i edificis universals, de fortaleses inexpugnables i de tombes de poetes immortals. Avui farem un viatge pels tres mars que van veure néixer Europa!",
         "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-08-24T16:26:05+02:00",
+        "stop": "2026-08-24T17:00:56+02:00",
+        "title": "La Riera",
+        "subtitle": "",
+        "description": "L'Ignasi s'ha fet mal i, ara, les coses han canviat per a tots. També han canviat per a la Txell: després del que va descobrir, la relació entre en Mauri i ella no tornarà a ser la mateixa. A la cuina, en Joan presumeix del que va passar amb la Maribel, cosa que a ella no li agrada gens. I la Lídia disfruta dels seus plans de venjança contra en Claudi.",
+        "genre": "TELENOVEL·LA",
         "image": ""
       }
     ],
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T14:29:43+02:00",
-        "stop": "2026-08-24T14:54:45+02:00",
-        "title": "E3",
-        "subtitle": "Monster Jam / Anaheim 2 / 2",
-        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. ",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
+        "start": "2026-08-24T15:24:00+02:00",
+        "stop": "2026-08-24T16:17:10+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "L'Aube, a la Xampanya-Ardenes",
+        "description": "En aquest episodi, la Julie visita la regió de l'Aube, i concretament Troyes, l'antiga capital de la Xampanya. És una zona amb molta història i amb una gran riquesa culinària. En Christophe li ensenya a fer un embotit típic, l'andouille. Amb la Marie-Jeanne prepara una xucrut amb xampany. En Mathias li ensenya una recepta de coll de xai amb mongetes de Brévonnes. I, finalment, amb la Jeanine prepara un filet mignon de senglar.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-08-24T14:54:45+02:00",
-        "stop": "2026-08-24T15:23:57+02:00",
-        "title": "GR Barcelona",
-        "subtitle": "El tresor d'en Serrallonga",
-        "description": "Vall de Sau Collsacabra (GR2, GR2.2)Ruta de 2 jornades i d'uns 25 km a peu.Seguirem el rastre del Serrallonga per la Vall de Sau Collsacabra, la zona per on diuen es va amagar i va guardar un valuós tresor. A Vilanova de Sau, entrarem a l'obrador de l'herbolari de Sau. Navegarem fins a la torre del campanar del pantà a bord d'una llanxa a pedals. Pujarem els cingles de Tavertet i farem nit en una casa rural del poble, on cuinarem un fabulós estofat de Senglar i farem nit. L'endemà travessarem la cinglera fins a Rupit, on buscarem el tresor amagat amb l'ajut d'uns nens de la vila. I acabarem al Salt de Sallent, segurament un dels indrets més increïbles de Catalunya.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-08-24T16:17:10+02:00",
+        "stop": "2026-08-24T17:06:53+02:00",
+        "title": "Gent de món",
+        "subtitle": "Mediterrani occidental 1",
+        "description": "Heu vist mai el mar als peus de la muntanya de Montserrat?Heu gaudit de les vistes que contemplava el comte de Montecristo des de la seva cel·la?Avui farem un creuer per la Mediterrània occidental des de Barcelona fins a Nàpols a bord del vaixell més gran del món. Una travessa pels mars més propers farcida de ports mil·lenaris, de capitals d'imperis caiguts, de carrers desendreçats, de verges daurades i torres inclinades; de catedrals de marbre i antics deus fets de pedra. Un viatge pels orígens i la historia dels nostres veïns a traves del mar que sempre ens ha unit. ",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-24T14:28:11+02:00",
-        "stop": "2026-08-24T14:50:29+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Una bona oportunitat de disparar contra el planeta endimoniat",
-        "description": "Encegat per la ràbia que sent i desesperat per derrotar els seus enemics, el fill d'en Gàrlic obre una Zona Morta molt perillosa. Ara, amb en Cor Petit i en Krilin fora de joc, l'únic que el pot aturar és en Son Gohan. Però, serà capaç de parar-li els peus i de salvar la Terra, encara que per aconseguir-ho hagi de sacrificar els seus amics?",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-24T15:33:50+02:00",
+        "stop": "2026-08-24T15:56:49+02:00",
+        "title": "Henry Danger",
+        "subtitle": "Danger i Thunder (Part 2)",
+        "description": "En Henry, en Ray i la Phoebe s'infiltren en la reunió de malvats liderada pel Nadó mentre en Max complica la situació amb els seus propis plans.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-08-24T14:50:29+02:00",
-        "stop": "2026-08-24T15:11:00+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Una afirmació d'en Krilin: és dur ser un home",
-        "description": "Després d'haver vençut el fill d'en Gàrlic, els guerrers tornen a fer la seva vida de sempre i la pau ha tornat a la Terra. En Krilin, després de conèixer la llegenda de la Llàgrima de la Sirena, una perla llegendària, se n'anirà a buscar-la per fer feliç la Maron, la seva nòvia. Quan torni d'aquesta gran aventura amb en Son Gohan, haurà de prendre una decisió molt important.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-24T15:56:49+02:00",
+        "stop": "2026-08-24T16:17:47+02:00",
+        "title": "Henry Danger",
+        "subtitle": "En Henry i en Henry",
+        "description": "En Henry, en Ray, la Charlotte i el Schwoz creen un doble d'en Henry per evitar un sopar amb l'oncle Mark mentre tot es complica quan el robot comença a actuar pel seu compte.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-24T13:47:15+02:00",
-        "stop": "2026-08-24T14:42:22+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Trevor i Cori",
-        "description": "La Ivana Miño acompanya en Trevor i la Cori, una simpàtica parella nord-americana, per diferents indrets de l'Alt Empordà i de la Garrotxa. Allá tasten la millor gastronomia mediterrània i viuen moments molt emotius.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-24T14:42:22+02:00",
-        "stop": "2026-08-24T15:29:44+02:00",
+        "start": "2026-08-24T15:29:44+02:00",
+        "stop": "2026-08-24T16:16:35+02:00",
         "title": "La Renaixença",
-        "subtitle": "La targeta sanitària",
-        "description": "Heu de saber que el DNI us dirà qui sou, però la targeta sanitària és l'única que us serà útil en cas d'emergència mèdica urgent. És a dir, el DNI es pot cremar si no us agrada el que hi posa, però la targeta sanitària MAI. Rebem la visita d'en Ramon Mirabet, que puja a l'escenari del nostre local per interpretar 'Per sempre més', juntament amb l'Arnau Tordera i la Laia Glück. A 'Històries per passejar el gos' anem amb en Blat pel gran incendi de Chicago el 8 d'octubre del 1871.",
+        "subtitle": "Les manuelles",
+        "description": "Pocs saben què són unes manuelles, però tothom n'ha fet servir. Normalment al gimnàs, però també pujant les bosses de la compra, carregant canalla a coll (si és que un en té) o pujant i baixant mobles durant una mudança. Sí, parlem dels pesos, però que en català correcte es diuen manuelles. Ens visita un campió de raids: Nani Roma. S'ha compromès a tornar-nos a visitar si compleix un repte que li hem proposat. L'esperem! I sortim a passejar en Marvin pel primer casino del món, que va obrir les portes el 1638, a Venècia.",
         "genre": "ALTRES",
         "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+      },
+      {
+        "start": "2026-08-24T16:16:35+02:00",
+        "stop": "2026-08-24T17:21:35+02:00",
+        "title": "Joc de cartes",
+        "subtitle": "El millor restaurant d'hotel amb encant a Barcelona",
+        "description": "En aquest capítol de 'Joc de cartes' el Marc Ribas farà les maletes per allotjar-se a la capital catalana i buscarà el Millor restaurant d'hotel amb encant a Barcelona.Els primers en mostrar l'encant del seu negoci seran els exigents i perfeccionistes Nieves i Marc del The Greenhouse, a l'Hotel Pulitzer, un restaurant que bé sembla un hivernacle al bell mig de la ciutat. Els segons a concursar seran el Jairo i el Jon del Negresco Restaurant, a l'Hotel Negresco Princess, que competiran amb la seguretat que els donen les seves vistes panoràmiques a la ciutat de Barcelona. I acabarem a l'Hotel Boutique Torre Barcelona, a Collserola, un hotel ubicat en una antiga casa modernista catalogada que gestiona el carismàtic matrimoni format per la Mercè i el Giorgio.Seran els restauradors tan encantadors com els seus negocis? Qui desplegarà millor l'encant del seus fogons? Qui s'endurà el títol de Millor restaurant d'hotel amb encant a Barcelona?",
+        "genre": "ALTRES",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
       }
     ],
     "oca1": [],
