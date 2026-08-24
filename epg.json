@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23T23:58:07.570366+00:00",
+  "updated": "2026-08-24T01:27:37.396369+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T01:12:17+02:00",
-        "stop": "2026-08-24T02:39:49+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Post Elx-Barça / J2",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-08-24T02:57:07+02:00",
+        "stop": "2026-08-24T04:36:29+02:00",
+        "title": "Futbol",
+        "subtitle": "Trofeu Joan Gamper: FC Barcelona-Brighton & Hove Albion Women FC",
+        "description": "Des de l'Estadi Johan Cruyff, el partit corresponent a la cinquena edició del Trofeu Joan Gamper femení.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/7/1785417246971.jpg"
       },
       {
-        "start": "2026-08-24T02:39:49+02:00",
-        "stop": "2026-08-24T02:57:05+02:00",
+        "start": "2026-08-24T04:36:29+02:00",
+        "stop": "2026-08-24T04:53:54+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-24T01:57:06+02:00",
-        "stop": "2026-08-24T02:18:13+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "El gat blanc",
-        "description": "Aprofitant avui és el sant del cinquè nom de naixement de l'Adrien, la Marinette decideix portar-li un regal. Però per entrar a casa seva, s'ha de convertir en Ladybug, i això fa que l'Adrien lligui caps i descobreixi la seva identitat secreta. Encara que sembli que a partir d'aquí tot va bé, en el futur es prepara un trasbals que pot tenir conseqüències nefastes.",
+        "start": "2026-08-24T03:18:48+02:00",
+        "stop": "2026-08-24T03:29:18+02:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "El gran Hooperini",
+        "description": "En l'aventura poptàstica d'avui, el Hooper farà un espectacle de màgia sensacional. Però ha de preparar moltes coses i té molt poc temps. Serà capaç de fer un espectacle de màgia digne de ser recordat, el Gran Hooperini?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-24T02:18:13+02:00",
-        "stop": "2026-08-24T02:28:37+02:00",
-        "title": "Com dibuixar còmics amb el Will Sliney",
-        "subtitle": "Els herois s’apleguen",
-        "description": "Veient que el Crònica havia creat els seus propis superdolents com a antítesi dels superherois d'en Will, el dibuixant va fer una crida als espectadors del programa perquè enviessin dibuixos de superherois que poguessin contribuir a la victòria contra el Crònica. En aquest episodi ens en mostrarà uns quants i ens explicarà quins són alguns dels errors comuns que han comès els espectadors a l'hora de dissenyar els seus personatges.",
-        "genre": "ALTRES",
+        "start": "2026-08-24T03:29:18+02:00",
+        "stop": "2026-08-24T03:39:18+02:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "Les fugitives de la granja",
+        "description": "En l'aventura poptàstica d'avui, el Plom ha de cuidar unes noves amigues peludes: un ramat d'alpaques! El Plom decideix treure les pop-paques a passejar, però se li escapen. Podrà fer tornar les seves amigues a la granja a temps per a la inauguració del mercat de la popgranja de paper?",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-24T01:31:03+02:00",
-        "stop": "2026-08-24T02:22:46+02:00",
-        "title": "Viure amb els volcans",
-        "subtitle": "Volcans destructius",
-        "description": "Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.",
+        "start": "2026-08-24T03:11:16+02:00",
+        "stop": "2026-08-24T03:59:08+02:00",
+        "title": "Vida",
+        "subtitle": "Els habitants de les profunditats",
+        "description": "Mitjançant tècniques de parada de càmera desenvolupades especialment per fer seguiments en un entorn submarí, 'Life' emprèn un viatge als racons més inexplorats de l'oceà. És aquí on s'estan realitzant nous descobriments, on viuen les criatures més estranyes, des d'aranyes de mar gegants que s'apleguen a milers tot buscant la seguretat de la bandada quan muden la carcassa que les protegeix, fins al calamar gegant 'transvestit'. Ens afegirem a un grup de 250 calamars gegants del corrent de Humboldt en una expedició de caça, contemplarem el sacrifici desesperat d'un pop gegant del Pacífic mare que mor de gana per atendre la seva cria i ens submergirem sota el gel permanent de l'Antàrtida per observar una estora bellugadissa d'estrelles de mar mentre devoren el cos d'una cria de foca.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-24T02:22:46+02:00",
-        "stop": "2026-08-24T03:11:14+02:00",
-        "title": "Vida",
-        "subtitle": "Caçadors i caçats",
-        "description": "Cada dia, a les selves, als prats, als deserts i a les immensitats glaçades, es lliuren, es guanyen i es perden batalles entre els carnívors i les seves preses. Contemplarem com els guepards s'uneixen per tombar una estruç, com un ermini diminut s'enfronta a un conill deu vegades més gros, cries d'elefant marí segrestades de la seva piscina per una orca, les pallassades d'un esquirol per esquivar una serp de cascavell i, finalment, amb imatges formidables enregistrades a 2.000 fotogrames per segon, l'atac d'un ratpenat pescador volant a gairebé 100km/h.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-08-24T03:59:08+02:00",
+        "stop": "2026-08-24T04:45:43+02:00",
+        "title": "La Renaixença",
+        "subtitle": "El xumet",
+        "description": "A quina edat s'ha de treure el xumet a la canalla? Quina és la millor manera de fer-ho? En anglès es coneix com a 'pacifier', que significa 'pacificador'. Si no fos perquè la paraula 'xumet' és de les més boniques en català, 'pacificador' seria la millor alternativa. Ens visita la Duna Ametller, modista especialitzada en roba d'època catalana. La moda no para de canviar i la millor sempre és la que deixem enrere. Sortim a passejar amb la Coco per la mort del Gran Lafayette, el 1911 a Escòcia.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
