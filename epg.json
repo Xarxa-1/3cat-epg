@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T19:53:27.018136+00:00",
+  "updated": "2026-08-24T20:23:50.146888+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,20 +43,20 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T21:00:00+02:00",
-        "stop": "2026-08-24T22:02:39+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
-        "start": "2026-08-24T22:02:39+02:00",
-        "stop": "2026-08-24T22:41:53+02:00",
+        "start": "2026-08-24T22:03:05+02:00",
+        "stop": "2026-08-24T22:42:19+02:00",
         "title": "Jo mai mai",
         "subtitle": "Nervis",
         "description": "La Mai arriba a l'estiu en un moment vital molt intens. Gairebé sense adonar-se'n, s'ha promès amb la Su i torna a Les Guilles per fer de monitora del grup dels grans, amb un ajudant inesperat: el Billy. Però cap dels dos té el cap posat del tot en les colònies. Mentre la Mai s'ofega entre els preparatius d'un casament que ha acceptat de forma precipitada, el Billy arrossega les seves pròpies inseguretats dins de la relació a distància que té amb la Rita.L'arribada d'un nou grup, on sembla que tothom també amaga alguna cosa, ho farà saltar tot pels aires.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
+      },
+      {
+        "start": "2026-08-24T22:42:19+02:00",
+        "stop": "2026-08-24T23:11:02+02:00",
+        "title": "Jo mai mai",
+        "subtitle": "Confusió",
+        "description": "Els preparatius del casament avancen i la Mai se sent cada cop més acorralada. En canvi, l'Eva veu en la celebració de la seva filla a Les Guilles com el cas pràctic perfecte pel treball final del màster. Dins del grup, la Judit i la Laura viuen una història d'amor de pel·lícula i en Karim, mirant d'enlluernar la Martina, amb qui ha connectat des del principi, s'escapa de la casa i el seu germà és a punt d'enganxar-lo. Però la Martina sembla no estar per relacions i el rebutja ja que encara no se sent preparada per tornar a estimar després de la ruptura amb en Guim.",
         "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T20:20:10+02:00",
-        "stop": "2026-08-24T22:11:26+02:00",
-        "title": "Handbol",
-        "subtitle": "Barça-BM Granollers / Supercopa Catalunya masculina / Final",
-        "description": "Final masculina de la Supercopa de Catalunya d'handbol des del Pavelló Municipal d'Esports del Parc Dalmau, a Calella.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/3/1784292968539.jpg"
-      },
-      {
-        "start": "2026-08-24T22:11:26+02:00",
+        "start": "2026-08-24T22:20:34+02:00",
         "stop": "2026-08-24T23:00:00+02:00",
         "title": "Tot Costa",
         "subtitle": "La idea del Barça en l'última setmana de mercat",
         "description": "Quan falten pocs dies perquè tanqui el mercat de fitxatges, amb la Laia Tudel repassem la idea del club blaugrana. Els de Hansi Flick van debutar amb golejada, 0 a 5 a Elx, en el debut de Gordon i Adeyemi a la Lliga. A més, repassem l'inici de l'Espanyol, del Madrid i també del Sabadell i el Girona a segona.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+      },
+      {
+        "start": "2026-08-24T23:00:00+02:00",
+        "stop": "2026-08-25T00:30:57+02:00",
+        "title": "Onze",
+        "subtitle": "L'evasió de Julián; pluja de gols a Elx; Mayola, Colegiado i Nin",
+        "description": "Amb Lluís Carrasco, Carles Fité, Aina Cerdà i Jordi Martí parlem dels últims esdeveniments del cas Julián Álvarez i analitzem si la sortida del davanter argentí encara és possible. Comentem la golejada del Barça a Elx per arrencar la lliga, Marc Mayola analitza el partit de Raphinha i de Xavi Espart. Amb Joan Fàbregas analitzem les polèmiques de la jornada i acabem amb l'1X1 d'Òscar Nin.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-24T21:42:54+02:00",
-        "stop": "2026-08-24T22:04:33+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Guanyaré en Freezer. Un jove misteriós",
-        "description": "Quan encara falten tres hores perquè torni en Son Goku, la Terra s'enfronta a una de les pitjors crisis que ha viscut mai: l'amenaça d'en Freezer, acompanyat del seu pare. Però quan tot semblava perdut, del no res, apareix un jove misteriós que assegura que és capaç de plantar cara a en Freezer. Qui deu ser?",
+        "start": "2026-08-24T22:04:33+02:00",
+        "stop": "2026-08-24T22:27:10+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El record del primer amor (2a part)",
+        "description": "L'Asami descansa a l'hospital després que la Ran la rescatés de les flames. En Kogoro defensa la teoria que la jove ha calat foc intencionadament a la casa per suïcidar-se, però en Conan, després d'examinar la sala on es va iniciar l'incendi, arriba a una altra conclusió: va patir un intent d'assassinat per part d'un dels cinc amics de la colla. En Conan adorm en Kogoro i desemmascara l'autor dels fets.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-24T22:04:33+02:00",
-        "stop": "2026-08-24T22:27:09+02:00",
+        "start": "2026-08-24T22:27:10+02:00",
+        "stop": "2026-08-24T22:47:56+02:00",
         "title": "El detectiu Conan",
-        "subtitle": "El record del primer amor (2a part)",
-        "description": "L'Asami descansa a l'hospital després que la Ran la rescatés de les flames. En Kogoro defensa la teoria que la jove ha calat foc intencionadament a la casa per suïcidar-se, però en Conan, després d'examinar la sala on es va iniciar l'incendi, arriba a una altra conclusió: va patir un intent d'assassinat per part d'un dels cinc amics de la colla. En Conan adorm en Kogoro i desemmascara l'autor dels fets.",
+        "subtitle": "El cas de l'assassinat de les pel·lícules de samurais (1a part)",
+        "description": "El famós actor de pel·lícules de samurais Kozaburo Hijikata farà de detectiu a la seva següent pel·lícula i demana assessorament a en Kogoro Mouri. Quan en Kogoro, la Ran i en Conan són al balcó del pis d'en Hijikata, veuen com la seva dona, la Isami, cau morta al balcó del pis del costat, propietat d'un altre actor famós, en Hojimi Okita. Sembla clar que eren amants i que ell l'ha assassinada.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-24T21:37:37+02:00",
-        "stop": "2026-08-24T22:05:06+02:00",
-        "title": "Plats bruts",
-        "subtitle": "Tinc enyorances",
-        "description": "El Lopes i el David viuen en un estat de deixadesa provocat per la marxa de l'Emma, l'administrador del bloc vol llogar la caseta a un nou llogater, això fa que el David i el Lopes vagin a la recerca de l'Emma. D'altra banda el Ramon deixa la feina de la ràdio perquè es creu infravalorat.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
-        "image": ""
-      },
-      {
-        "start": "2026-08-24T22:05:06+02:00",
+        "start": "2026-08-24T22:05:07+02:00",
         "stop": "2026-08-24T22:52:02+02:00",
         "title": "La Renaixença",
         "subtitle": "Millors moments - setmana 37",
         "description": "Aquesta setmana hem parlat del paracaigudes, del llaüt, el cromo i la tinta. Sempre hi trobem alguna anècdota que ens desbloqueja records (o que som a temps d'inventar-nos, perquè imaginar què ha passat sempre és divertit). Hem parlat amb l'Àlex Crivillé, l'Ofèlia Drags, els Pork Chop Boys i l'Albert Manera. Us deixem un recull dels millors moments, però podeu recuperar els capítols sencers per tornar a riure una estona més.",
         "genre": "ALTRES",
         "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+      },
+      {
+        "start": "2026-08-24T22:52:02+02:00",
+        "stop": "2026-08-24T23:43:09+02:00",
+        "title": "L'ascens dels Nazis",
+        "subtitle": "La ruta de les rates",
+        "description": "Els nazis de rang més alt han estat executats o empresonats després del judici internacional de Nuremberg, però molts dels pitjors criminals encara estan en llibertat, com ara Adolf Eichmann, de 39 anys, que va organitzar el transport de milions de jueus d'Europa a camps d'extermini. Ja s'ha escapat d'un camp d'internament aliat i ara viu als boscos del nord d'Alemanya sota una identitat falsa.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/2/1783932639827.jpg"
       }
     ],
     "oca1": [],
