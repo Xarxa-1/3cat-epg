@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T23:02:17.426918+00:00",
+  "updated": "2026-08-24T23:34:00.545004+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-25T00:26:21+02:00",
-        "stop": "2026-08-25T01:13:09+02:00",
-        "title": "La Renaixença",
-        "subtitle": "Millors moments - setmana 21",
-        "description": "Aquests dies ens han vingut a veure a 'La Renaixença' Txabi Franquesa, Jaume Campistol (exjutge de cadira de tenis), Eduard Gener i Josep Pascual (topògraf i meteoròleg aficionat). També hem parlat del tap d'ampolla, la cinta de casset, el braser i l'imant de nevera. Us deixem un recull dels millors moments, perquè els pugueu reviure i riure una estona més, com hem fet nosaltres.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
-      },
-      {
         "start": "2026-08-25T01:13:09+02:00",
         "stop": "2026-08-25T04:30:00+02:00",
         "title": "Notícies 3CatInfo",
@@ -59,6 +50,15 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-25T04:30:00+02:00",
+        "stop": "2026-08-25T05:09:54+02:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Martí Ventura Trio",
+        "description": "Martí Ventura Trio presenta el seu tercer treball discogràfic: 'Transicions'. La complicitat i el diàleg constant entre els membres del trio, fan que les composicions del pianista es converteixin en un joc musical d'allò més orgànic. Miquel Àngel Cordero al contrabaix, Lluís Ribalta a la bateria i Martí Ventura al piano.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-25T00:52:00+02:00",
-        "stop": "2026-08-25T01:12:38+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El pigarg americà que fa quatre",
-        "description": "Per estudiar de més a prop el pigarg americà, el Chris i el Martin, amagats a dins d'uns ous d'aquest ocell, van a parar a dins d'un niu. Quan surten de l'ou, els adults els tracten com si fossin dues cries més. Tot va bé fins que el Gormand es disfressa d'os negre per robar ous de pigarg i fer una recepta nova: suflé d'ou de pigarg. L'equip dels germans Kratt farà tot el possible per arreglar-ho.",
+        "start": "2026-08-25T01:24:25+02:00",
+        "stop": "2026-08-25T01:35:47+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Germanes contra pares",
+        "description": "Els pares de la Wendy i la Marine decideixen fer un viatge llarg. La mare vol anar al tròpic, però el pare s'estima més anar al pol nord. Llavors demanen a les germanes que decideixin. La Wendy vol anar al tròpic i la Marine, al pol nord. Dos contra dos, empatats una altra vegada! Però la Marine, que es mor de ganes de veure els ossos polars, no dubta a recórrer a tota mena de mitjans per aconseguir el seu objectiu.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-25T01:12:38+02:00",
-        "stop": "2026-08-25T01:24:24+02:00",
+        "start": "2026-08-25T01:35:47+02:00",
+        "stop": "2026-08-25T01:47:17+02:00",
         "title": "Les Sisters",
-        "subtitle": "Zero en conducta",
-        "description": "Les germanes no paren de fer malifetes i el seu pare acaba tenint un atac. Perquè es recuperi, la mare el treu a passejar per la muntanya, però abans li diu a la Wendy que es faci càrrec de la Marine i que no facin cap més malifeta. Perquè els pares la perdonin, la Marine decideix rentar el cotxe de la família. Mentrestant, la Wendy està més pendent de parlar pel mòbil amb el seu nòvio que de vigilar la seva germana...",
+        "subtitle": "Visca la vaga!",
+        "description": "Les Sisters estan fartes que els pares els facin fer feines de casa. Diuen que com que tots viuen junts, elles també hi han de col·laborar. Però així no hi ha manera de posar-se morena! La Marine convenç la seva germana de fer vaga de tot: d'endreçar, de fer els deures, de fer abraçades... fins que els pares cedeixin una mica. Però aquests no pensen deixar que les seves filles se surtin amb la seva. Qui es rendirà abans?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
