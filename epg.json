@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T03:50:17.324696+00:00",
+  "updated": "2026-08-24T04:39:26.759237+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-24T01:00:00+02:00",
-        "stop": "2026-08-24T06:00:00+02:00",
+        "start": "2026-08-24T06:00:00+02:00",
+        "stop": "2026-08-24T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-24T06:00:00+02:00",
-        "stop": "2026-08-24T07:00:00+02:00",
+        "start": "2026-08-24T07:00:00+02:00",
+        "stop": "2026-08-24T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,15 +83,6 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T05:24:20+02:00",
-        "stop": "2026-08-24T06:17:07+02:00",
-        "title": "Motocròs",
-        "subtitle": "Gran Premi dels Països Baixos / WMX Motocross World Championship / J2",
-        "description": "Penúltima prova del Campionat del Món de Motocròs amb la participació destacada de la catalana Daniela Guillén, que està entre candidates al títol. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/4/1779284574045.jpg"
-      },
-      {
         "start": "2026-08-24T06:17:07+02:00",
         "stop": "2026-08-24T06:42:07+02:00",
         "title": "E3",
@@ -99,45 +90,54 @@
         "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.",
         "genre": "REPORTATGES",
         "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
+      },
+      {
+        "start": "2026-08-24T06:42:07+02:00",
+        "stop": "2026-08-24T06:59:01+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-24T05:46:23+02:00",
-        "stop": "2026-08-24T05:52:42+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "Carbasses en perill",
-        "description": "Som a la vigília de Halloween i el Bitzer té la missió de vigilar les tres carbasses premiades del granger. A pesar que ell, el Shaun i el ramat fan tot el que poden, les carbasses desapareixen una rere l'altra i només deixen un rastre llefiscós i misteriós. És que potser hi ha un monstre de les carbasses que campa lliurement enmig de la tenebrosa nit?",
+        "start": "2026-08-24T06:34:12+02:00",
+        "stop": "2026-08-24T06:45:31+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "Temps a la carta",
+        "description": "Avui la Lara ha endevinat que plouria i ara tothom es pensa que és ella la que decideix quin temps farà. La Maia de seguida s'adona que la Lara comença a tractar tots els seus amiguets com si fossin els seus criats, i està decidida a desemmascarar-la, per mentidera. Aviat tots s'adonaran que si es fixen en els senyals que els dóna la natura, ells també poden endevinar el temps que farà!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-24T05:52:42+02:00",
-        "stop": "2026-08-24T05:54:48+02:00",
-        "title": "Looloo Kids (cançons)",
-        "subtitle": "Tingueu unes bones festes",
-        "description": "La família del Jaume ens desitja bones festes i un molt bon any nou.",
+        "start": "2026-08-24T06:45:31+02:00",
+        "stop": "2026-08-24T06:56:46+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "Ales de campió",
+        "description": "La Maia i en Willi acaben de conèixer el Iaio Espiadomonis, un geni de les acrobàcies que havia guanyat un munt de vegades la Copa de Pol·len, la cursa més espectacular que se celebra cada any. Està una mica trist, perquè s'ha fet gran i ja no hi pot participar. El que sí que pot fer és entrenar la Maia i en Willi per convertir-los en els reis de les acrobàcies!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-24T05:48:38+02:00",
-        "stop": "2026-08-24T05:54:39+02:00",
-        "title": "VIDEOCLIPS CATALANS",
-        "subtitle": "- Alidé Sans - Passat deman",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-08-24T06:22:39+02:00",
+        "stop": "2026-08-24T06:51:10+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Alcohol i embaràs",
+        "description": "La Itziar i la Carme van anar a adoptar als països de l'est. Al cap d'un temps es van adonar que les seves criatures no es desenvolupaven correctament. Van fer una visita a l'Hospital del Mar, i allí el pediatra i investigador de l'IMIM, Òscar Garcia, els va diagnosticar la Síndrome Alcohòlica Fetal. Aquesta síndrome és la deficiència intel·lectual més nombrosa d'entre les causes evitables, i a Espanya afecta, en diferent grau, a dos de cada mil nadons. Una criatura amb Síndrome Alcohòlica Fetal té una fesomia característica, però els danys més greus no es veuen. Són intel·lectuals. I són permanents. No és cosa de mares alcohòliques, també n'hi ha casos entre bevedores ocasionals. Els científics no han pogut determinar la quantitat mínima d'ingesta d'alcohol que permeti assegurar que no hi ha risc. Quan la mare pren alcohol durant l'embaràs, pot estar propiciant, sense adonar-se'n, la Síndrome Alcohòlica Fetal. Quina és la quantitat mínima que pot beure una gestant per no perjudicar el seu nadó? No se sap. Així, doncs, si es vol tenir la certesa de tenir un fill sense la Síndrome Alcohòlica Fetal, l'única seguretat és no prendre ni una copa durant tot l'embaràs. I el problema és que l'etapa més crítica és, justament, quan encara no s'ha confirmat l'embaràs. A l'Institut Hospital del Mar d'Investigacions fa temps que s'estudia, juntament amb la Vall d'Hebron i Sant Joan de Déu. El doctor en bioquímica de l'IMIM, Vicente Andreu, està buscant la manera de reduir-ne els efectes una vegada la criatura ha nascut. Molts d'aquests nens tenen greus problemes de comportament. La Raquel Sala, fundadora d'educadors familiars del projecte Koala, va a casa dels familiars per ajudar també els familiars a abordar el problema.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-08-24T05:54:39+02:00",
-        "stop": "2026-08-24T05:58:17+02:00",
-        "title": "VIDEOCLIPS CATALANS",
-        "subtitle": "- XAVI SARRIÀ - LA NIT FERIDA",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-08-24T06:51:10+02:00",
+        "stop": "2026-08-24T07:19:25+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Amb el porc al cor",
+        "description": "Assistim a una operació a cor obert per implantar un vàlvula aòrtica feta amb teixit de porc. En la cirurgia és imprescindible l'anticoagulant heparina, que s'extreu del porc. Al cap de 12 dies donen d'alta el pacient, Joan Fàbregas, que durant la resta de la vida haurà de prendre medicaments, administrats en forma de pastilla o càpsula. Tant l'una com l'altra contenen gelatina extreta de la pell del porc. En Joan portarà durant la resta de la seva vida el porc al cor. I, a més, descobrirem que els derivats del porc intervenen fins i tot en la fabricació de bales, cigarrets o cervesa.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
