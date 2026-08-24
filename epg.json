@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T11:22:24.882084+00:00",
+  "updated": "2026-08-24T11:52:52.151264+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,13 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T12:00:04+02:00",
-        "stop": "2026-08-24T13:32:46+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-08-24T13:51:31+02:00",
+        "stop": "2026-08-24T13:59:56+02:00",
+        "title": "Cuines",
+        "subtitle": "Tiramisú de carquinyolis",
+        "description": "Amb permís del panettone, el tiramisú són les postres italianes que més ràpid s'han estès per tot el món. Fem un tiramisú exprés i amb carquinyolis.",
+        "genre": "CUINA",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+      },
+      {
+        "start": "2026-08-24T13:59:56+02:00",
+        "stop": "2026-08-24T14:30:00+02:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "324": [
@@ -94,34 +103,25 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-24T13:00:27+02:00",
-        "stop": "2026-08-24T13:23:04+02:00",
+        "start": "2026-08-24T13:45:18+02:00",
+        "stop": "2026-08-24T14:05:17+02:00",
         "title": "El detectiu Conan",
-        "subtitle": "El record del primer amor (2a part)",
-        "description": "L'Asami descansa a l'hospital després que la Ran la rescatés de les flames. En Kogoro defensa la teoria que la jove ha calat foc intencionadament a la casa per suïcidar-se, però en Conan, després d'examinar la sala on es va iniciar l'incendi, arriba a una altra conclusió: va patir un intent d'assassinat per part d'un dels cinc amics de la colla. En Conan adorm en Kogoro i desemmascara l'autor dels fets.",
+        "subtitle": "El cas de l'assassinat de les pel·lícules de samurais (2a part)",
+        "description": "Un petit objecte metàl·lic que en Conan troba al pis del senyor Hijikata i les abrasions que presenta el cadàver de la Isami l'ajuden a lligar caps: ja no té cap dubte que l'assassí és el marit, el senyor Hijikata. Davant d'un nodrit grup de periodistes que interroguen en Kogoro sobre el cas, en Conan l'adorm amb un dard anestèsic i comença a desgranar els fets per exculpar el senyor Okita.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-24T13:23:04+02:00",
-        "stop": "2026-08-24T13:45:17+02:00",
+        "start": "2026-08-24T14:05:17+02:00",
+        "stop": "2026-08-24T14:28:11+02:00",
         "title": "El detectiu Conan",
-        "subtitle": "El cas de l'assassinat de les pel·lícules de samurais (1a part)",
-        "description": "El famós actor de pel·lícules de samurais Kozaburo Hijikata farà de detectiu a la seva següent pel·lícula i demana assessorament a en Kogoro Mouri. Quan en Kogoro, la Ran i en Conan són al balcó del pis d'en Hijikata, veuen com la seva dona, la Isami, cau morta al balcó del pis del costat, propietat d'un altre actor famós, en Hojimi Okita. Sembla clar que eren amants i que ell l'ha assassinada.",
+        "subtitle": "El cas de la mansió misteriosa de la banda de malfactors (1a part)",
+        "description": "El Kogoro rep una carta en què el conviden a anar a una mansió a investigar uns fets estranys. Els dos germans que viuen a la casa la van heretar del seu avi, el reputat rellotger Monjiro, que va acumular una enorme col·lecció de rellotges amb figures d'animals. A les onze del matí, sonen les alarmes de tots els rellotges digitals. Els germans, a més, diuen que se senten observats.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-24T12:47:58+02:00",
-        "stop": "2026-08-24T13:47:15+02:00",
-        "title": "Atrapa'm si pots - Especials",
-        "subtitle": "Atrapa'm si pots - estiu",
-        "description": "",
-        "genre": "CONCURS",
-        "image": ""
-      },
       {
         "start": "2026-08-24T13:47:15+02:00",
         "stop": "2026-08-24T14:42:22+02:00",
@@ -130,6 +130,15 @@
         "description": "La Ivana Miño acompanya en Trevor i la Cori, una simpàtica parella nord-americana, per diferents indrets de l'Alt Empordà i de la Garrotxa. Allá tasten la millor gastronomia mediterrània i viuen moments molt emotius.",
         "genre": "ALTRES",
         "image": ""
+      },
+      {
+        "start": "2026-08-24T14:42:22+02:00",
+        "stop": "2026-08-24T15:29:44+02:00",
+        "title": "La Renaixença",
+        "subtitle": "La targeta sanitària",
+        "description": "Heu de saber que el DNI us dirà qui sou, però la targeta sanitària és l'única que us serà útil en cas d'emergència mèdica urgent. És a dir, el DNI es pot cremar si no us agrada el que hi posa, però la targeta sanitària MAI. Rebem la visita d'en Ramon Mirabet, que puja a l'escenari del nostre local per interpretar 'Per sempre més', juntament amb l'Arnau Tordera i la Laia Glück. A 'Històries per passejar el gos' anem amb en Blat pel gran incendi de Chicago el 8 d'octubre del 1871.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
