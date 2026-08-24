@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T15:54:54.077987+00:00",
+  "updated": "2026-08-24T16:30:57.699147+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T17:37:46+02:00",
-        "stop": "2026-08-24T18:25:50+02:00",
-        "title": "Nervi",
-        "subtitle": "Microfestivals, Ferran Utzet, Il·lustradores, Minibús Intergalàctic",
-        "description": "El periodista musical Nando Cruz ens presenta el llibre 'Microfestivals'. Andrea Gumes entrevista el dramaturg i actor Ferran Utzet. Jacint Casademont ens presenta cinc de les il·lustradores més interessants del panorama català. Tanca el programa una actuació en directe dels Minibús Intergalàctic al Teatre-Museu Dalí de Figueres. ",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-24T18:25:50+02:00",
-        "stop": "2026-08-24T18:57:32+02:00",
+        "start": "2026-08-24T18:25:51+02:00",
+        "stop": "2026-08-24T18:57:33+02:00",
         "title": "Art endins",
         "subtitle": "",
         "description": "'Art Endins' neix amb la clara idea d'acostar l'espectador a l'immens patrimoni en arts plàstiques que hi ha a Catalunya; de convidar-lo a fer una immersió en les històries i anècdotes, sovint desconegudes, que acompanyen les obres i els objectes de museus, fundacions, palaus, esglésies o col·leccions privades del país. Moltes de les coses que n'aprendrem són curioses, però també rigoroses i acadèmiques, i es posarà en contacte l'espectador amb el món fascinant dels historiadors, restauradors i conservadors d'art. Descobrirem, entre d'altres, pintures que es troben al Palau Güell o al monestir de Sant Benet de Montserrat. Ens fixarem en el treball escultòric procedent d'Erill la Vall i en el que atresora la Basílica del Pi de Barcelona. Ens deixarem seduir per l'art del Renaixement i el barroc, pel modernisme i el noucentisme. Visitarem els fons de reserva i les sales de molts museus, a Olot, a Lleida, a Reus, a Vic, a Solsona, a Figueres, a Valls… per fer una nova mirada a la nostra història de l'art, a la gran riquesa del nostre patrimoni artístic.Cada capítol explica a fons tres o quatre obres principals. De vegades, tot gira al voltant d'una sola obra, de vegades, al voltant d'un artista; aleshores, les seves obres formen el context. Una veu en off n'explica les històries i converteix els elements de la narració artística en un relat que pretén ser captivador i suggeridor. De tant en tant, els experts aporten les valoracions necessàries per completar el punt de vista acadèmic.En cada capítol també es presenten dues obres més, part d'un catàleg particular del programa. Durant un minut veiem l'obra des d'un nou 'punt de vista', condicionat per una banda sonora que l'acompanya a manera de so ambient. ",
         "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
+      },
+      {
+        "start": "2026-08-24T18:57:33+02:00",
+        "stop": "2026-08-24T19:03:48+02:00",
+        "title": "Xarxa Natura",
+        "subtitle": "Medes",
+        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-08-24T17:00:00+02:00",
-        "stop": "2026-08-24T18:30:00+02:00",
+        "start": "2026-08-24T18:30:00+02:00",
+        "stop": "2026-08-24T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-24T18:30:00+02:00",
-        "stop": "2026-08-24T20:00:00+02:00",
+        "start": "2026-08-24T20:00:00+02:00",
+        "stop": "2026-08-24T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T17:06:55+02:00",
-        "stop": "2026-08-24T17:59:50+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Yannick et Catherine",
-        "description": "La Ivana Miño acompanya en Yannick i la Catherine, dos amics francesos, en un viatge que comença i acaba al Carnaval de Solsona. Entremig, però, coneixen els llocs més espectaculars de la comarca i els indrets més turístics de Cardona.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-08-24T18:10:07+02:00",
+        "stop": "2026-08-24T20:10:09+02:00",
+        "title": "Handbol",
+        "subtitle": "BM Granollers-Lleida HC / Supercopa Catalunya femenina / Final",
+        "description": "Des del Pavelló Municipal d'Esports del Parc Dalmau, a Calella, final femenina de la Supercopa de Catalunya d'handbol.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/3/1784292968539.jpg"
       },
       {
-        "start": "2026-08-24T17:59:50+02:00",
-        "stop": "2026-08-24T18:10:30+02:00",
-        "title": "Capacitats",
-        "subtitle": "Pepi Benítez, amb el rumb clar",
-        "description": "Pepi Benítez és invident. Amb una energia i una positivitat que s'encomanen, ha participat en quatre Jocs Paralímpics, els dos primers en ciclisme i els dos últims en rem. I als seus 57 anys, no descarta el repte de participar a Los Angeles 2028. ",
-        "genre": "ESPECIALS",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/1/1778080999014.jpg"
+        "start": "2026-08-24T20:10:09+02:00",
+        "stop": "2026-08-24T20:25:00+02:00",
+        "title": "Tot Costa",
+        "subtitle": "La idea del Barça en l'última setmana de mercat",
+        "description": "Quan falten pocs dies perquè tanqui el mercat de fitxatges, amb la Laia Tudel repassem la idea del club blaugrana. Els de Hansi Flick van debutar amb golejada, 0 a 5 a Elx, en el debut de Gordon i Adeyemi a la Lliga. A més, repassem l'inici de l'Espanyol, del Madrid i també del Sabadell i el Girona a segona.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-24T17:54:04+02:00",
-        "stop": "2026-08-24T18:04:18+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "Jugar amb triangles",
-        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-24T18:25:48+02:00",
+        "stop": "2026-08-24T18:37:37+02:00",
+        "title": "Titó",
+        "subtitle": "Excursió al parc",
+        "description": "Avui anem d'excursió al parc. És una excursió molt especial perquè és la primera que fem amb la nostra nova amiga: la Tat! ",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-08-24T18:04:18+02:00",
-        "stop": "2026-08-24T18:15:36+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "La caputxa i la pluja",
-        "description": "Avui el Mic porta un impermeable amb caputxa i té ganes que plogui per poder estar a sota la pluja ben tapat.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-24T18:37:37+02:00",
+        "stop": "2026-08-24T18:47:27+02:00",
+        "title": "A jugar! Amb en Titó i els Fa la la",
+        "subtitle": "A jugar a cantar",
+        "description": "Qui guanyarà el concurs de millor cantant del parc? Serà en Titó? L'Os Bru? L'Oca de l'Empordà? El Tritó del Montseny? El Ruquicorn? O la Tat? Sí, avui també veurem la Tat!!!",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-24T17:21:35+02:00",
-        "stop": "2026-08-24T18:29:10+02:00",
-        "title": "Joc de cartes",
-        "subtitle": "La millor cuina amb gust de mar a Cadaqués i Roses",
-        "description": "La ruta de 'Joc de cartes' d'aquest estiu acabarà fent parada a la Costra Brava, on el Marc Ribas buscarà la Millor cuina amb gust de mar a Roses i Cadaqués. Les primeres concursants que coneixerà seran l'Ana i la Maria del Casa Anita, a Cadaqués, un restaurant familiar i amb molta essència amb més de sis dècades d'història. També a Cadaqués, i ben a la vora del mar, es troba el Xiringuito La Sal, i per 'salero' el que tenen el seu xef, l'Aniol, i el cap de sala, el Joan. L'últim restaurant que posarà a prova el gust de mar de la seva cuina serà el Falconera, de Roses, capitanejat als fogons pel seu xef, el Gregory, i a sala per l'Albert.Les aigües de la Costa Brava i la tramuntana seran testimoni d'aquest duel culinari amb salitre. Qui farà la millor cuina amb gust de mar? Roses o Cadaqués?",
-        "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
-      },
       {
         "start": "2026-08-24T18:29:10+02:00",
         "stop": "2026-08-24T19:22:27+02:00",
         "title": "Llocs recòndits",
         "subtitle": "Polònia",
         "description": "'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-24T19:22:27+02:00",
+        "stop": "2026-08-24T20:11:17+02:00",
+        "title": "Vida",
+        "subtitle": "Caçadors i caçats",
+        "description": "Cada dia, a les selves, als prats, als deserts i a les immensitats glaçades, es lliuren, es guanyen i es perden batalles entre els carnívors i les seves preses. Contemplarem com els guepards s'uneixen per tombar una estruç, com un ermini diminut s'enfronta a un conill deu vegades més gros, cries d'elefant marí segrestades de la seva piscina per una orca, les pallassades d'un esquirol per esquivar una serp de cascavell i, finalment, amb imatges formidables enregistrades a 2.000 fotogrames per segon, l'atac d'un ratpenat pescador volant a gairebé 100km/h.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
