@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T07:19:10.582479+00:00",
+  "updated": "2026-08-24T08:10:39.826805+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T07:00:00+02:00",
-        "stop": "2026-08-24T10:00:00+02:00",
+        "start": "2026-08-24T10:00:00+02:00",
+        "stop": "2026-08-24T12:00:05+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,8 +52,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-24T10:00:00+02:00",
-        "stop": "2026-08-24T12:00:05+02:00",
+        "start": "2026-08-24T12:00:00+02:00",
+        "stop": "2026-08-24T13:32:47+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-24T07:00:00+02:00",
-        "stop": "2026-08-24T10:00:00+02:00",
+        "start": "2026-08-24T10:00:00+02:00",
+        "stop": "2026-08-24T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-24T10:00:00+02:00",
-        "stop": "2026-08-24T12:00:00+02:00",
+        "start": "2026-08-24T12:00:00+02:00",
+        "stop": "2026-08-24T14:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-24T09:11:14+02:00",
-        "stop": "2026-08-24T09:57:03+02:00",
-        "title": "Aire Lliure",
-        "subtitle": "Ebre, amb Peyu",
-        "description": "La majoria de les modalitats esportives que farem a les terres de l'Ebre son aquàtiques i com no podia ser d'una altra manera guarden gran relació amb el riu. En aquest episodi Núria Picas aprendrà la tècnica per practicar, riu avall: pàdel surf, rem i piragüisme. El convidat al sud de Catalunya serà l'humorista Peyu, gran aficionat a la BTT. ",
-        "genre": "REPORTATGES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-24T09:57:03+02:00",
-        "stop": "2026-08-24T10:53:41+02:00",
+        "start": "2026-08-24T09:57:04+02:00",
+        "stop": "2026-08-24T10:53:42+02:00",
         "title": "Katalonski",
         "subtitle": "Moscou",
         "description": "El Halldor anirà a Moscou enmig d'una tempesta de neu històrica. El presentador regalarà flors a diverses noies, una tradició d'allà. Marina Barinova explicarà un conte de titelles en què en Halldor és el protagonista; Svetlana Rúdnik el meravellarà amb els seu art flamenc; amb Mikhail Khaminsky en Halldor jugarà a un joc de preguntes i respostes difícils i en rus; Alexnadra Freydkina explicarà el seu gran amor per Barcelona i, amb Diana Narodnaya, Halldor es batrà en un duel amb espasa a mort... de riure.",
         "genre": "Docu-Entreteniment",
         "image": ""
+      },
+      {
+        "start": "2026-08-24T10:53:42+02:00",
+        "stop": "2026-08-24T11:41:19+02:00",
+        "title": "Cosins Germans",
+        "subtitle": "El patró de la corona",
+        "description": "Soldat romà, màrtir cristià, cavaller matadracs o sant guerrer protagonista de la reconquesta: són els rostres sota els quals s'ha venerat la figura de Sant Jordi. Però què hi ha de realitat i de mite al voltant del patró de l'antiga Corona d'Aragó? Per a esbrinar-ho, Ferran i Sílvia Bel viuran a Barcelona la diada cívica del llibre i la rosa. I a Alcoi, s'endinsaran a les festes de Moros i Cristians més importants i sumptuoses del País Valencià.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-24T09:12:07+02:00",
-        "stop": "2026-08-24T09:23:19+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla fa un rescat passat per aigua",
-        "description": "El barco del capità Turbot s'embarranca i en Ryder, en Zuma, la Skye i en Rocky han de buscar una solució plegats per rescatar-lo abans que s'enfonsi!",
+        "start": "2026-08-24T10:10:01+02:00",
+        "stop": "2026-08-24T10:21:04+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Els perills de l'amnèsia",
+        "description": "La Marine li pren el mòbil a la seva germana i l'hi acaba trencant. Per evitar que la Wendy es posi feta una fúria, fa veure que pateix un atac d'amnèsia. La Wendy hi cau de quatre grapes i s'esforça perquè la seva germana recuperi la memòria sotmetent-la a situacions que li provoquin un xoc emocional.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-24T09:23:19+02:00",
-        "stop": "2026-08-24T09:34:52+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "El Festival de Tardor",
-        "description": "Els cadells han de collir tota la fruita de la Yumi abans que arribi una nevada. Tothom té una tasca assignada menys en Chase, que haurà de trobar la manera d'ajudar.",
+        "start": "2026-08-24T10:21:04+02:00",
+        "stop": "2026-08-24T10:32:08+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Somrieu si us hi atreviu!",
+        "description": "Per guanyar un monocicle elèctric, la Marine i la Wendy han de fer una foto graciosa d'un parent o d'un amic. Les dues germanes es trien mútuament i intenten enxampar l'altra en la postura més ridícula possible. Però cap de les dues no es vol rendir davant l'altra i acaben desesperant els pares, que els confisquen les càmeres de fotos. La Marine decideix recórrer a la seva amiga Loulou...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-24T08:39:37+02:00",
-        "stop": "2026-08-24T09:26:53+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La rajola catalana",
-        "description": "'Aquí hi viu un català', 'Ca la Pepeta', 'Cal Guarda'... Quantes rajoles catalanes donen la benvinguda a les portes de les cases i fan companyia a sobre les llars de foc? No volem que aquesta tradició es perdi, així que dediquem aquest capítol a la rajola catalana. Parlem amb Iván Morales, actor, director, dramaturg... Ha sortit en sèries tan nostrades com 'Poble Nou' i 'El cor de la ciutat'. I dirigeix pel·lícules i obres de teatre premiades arreu. Sortim a passejar la Maia pel 1952, el dia que un autobús va saltar el pont de Londres.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
-      },
-      {
-        "start": "2026-08-24T09:26:53+02:00",
-        "stop": "2026-08-24T09:56:17+02:00",
+        "start": "2026-08-24T09:56:18+02:00",
+        "stop": "2026-08-24T10:25:28+02:00",
         "title": "L'ofici de viure",
-        "subtitle": "El poder dels hàbits",
-        "description": "El programa explica com crear nous hàbits, i mantenir-los en el temps.La qualitat de la nostra vida depèn, en part, de la qualitat dels nostres hàbits.Gaspar Hernàndez en comença parlant amb Xesco Espar, exentrenador d'handbol del Barça. En Xesco és partidari d'apujar de nivell pel que fa als nostres hàbits diaris. Diu que cal cultivar els hàbits del coratge, de l'ambició i de l'excel·lència, però també l'hàbit de ser millor persona cada dia.La Mireia Grossmann és fisioterapeuta i ens anima a tenir l'hàbit de moure'ns cada dia una mica. Segons la Mireia, 'quan sortim a fer una passejada ens brillen els ulls'.I la Marta Romo, pedagoga experta en neurociències, desmenteix el tòpic que per canviar un hàbit siguin necessaris 21 dies.",
+        "subtitle": "La incomoditat",
+        "description": "Com podem conviure amb la incomoditat? Fins a quin punt els períodes d'incomoditat poden ser oportunitats per créixer?De la incomoditat física i psicològica en parlem amb la piragüista olímpica Núria Vilarrubla. En Gaspar Hernàndez la visita al Parc Olímpic del Segre, a la Seu d'Urgell. La Núria navega en canoa per aigües braves i ha d'anar de genolls dins l'embarcació. Però la incomoditat més dura que ha d'afrontar és la gestió de les expectatives que hi ha a l'esport d'alt rendiment. La Núria cultiva l'atenció plena en les competicions. I explica que 'la violència' de l'aigua li pot jugar a favor, si la sap aprofitar.La crisi que ha esclatat a causa de la pandèmia és sinònim d'incomoditat per a molta gent. La caçatalents i advocada Arancha Ruiz explica la importància de descobrir el talent que tots tenim i de buscar solucions innovadores per donar resposta a aquesta època d'incertesa.I el doctor Miquel Samarra, metge especialitzat en Medicina Esportiva, parla de l'anomenat 'distrès' davant situacions excepcionals.",
         "genre": "MAGAZINE ESPECIALITZAT",
         "image": "https://img.ccma.cat/multimedia/jpg/7/0/1625470710907.jpg"
+      },
+      {
+        "start": "2026-08-24T10:25:28+02:00",
+        "stop": "2026-08-24T10:53:02+02:00",
+        "title": "Després de tu",
+        "subtitle": "Esplèndida Encarna",
+        "description": "CAP 11. ESPLÈNDIDA ENCARNA.És l'aniversai d'Encarna i el vol celebrar amb tota la familia en un bon restaurant. En principi a ningú li va bé, però acabaran anant per a desgràcia del maitre i de la resta de comensals de tan exquisit local.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       }
     ],
     "oca1": [],
