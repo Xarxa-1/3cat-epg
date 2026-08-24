@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T09:03:29.960886+00:00",
+  "updated": "2026-08-24T10:02:35.541089+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,17 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T10:00:00+02:00",
-        "stop": "2026-08-24T12:00:05+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-08-24T12:00:00+02:00",
-        "stop": "2026-08-24T13:32:47+02:00",
+        "start": "2026-08-24T12:00:04+02:00",
+        "stop": "2026-08-24T13:32:46+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,15 +54,6 @@
     ],
     "324": [
       {
-        "start": "2026-08-24T10:00:00+02:00",
-        "stop": "2026-08-24T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
         "start": "2026-08-24T12:00:00+02:00",
         "stop": "2026-08-24T14:00:00+02:00",
         "title": "Notícies 3CatInfo",
@@ -79,58 +61,58 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-24T14:00:00+02:00",
+        "stop": "2026-08-24T14:30:00+02:00",
+        "title": "Telenotícies comarques",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-08-24T10:53:43+02:00",
-        "stop": "2026-08-24T11:41:20+02:00",
-        "title": "Cosins Germans",
-        "subtitle": "El patró de la corona",
-        "description": "Soldat romà, màrtir cristià, cavaller matadracs o sant guerrer protagonista de la reconquesta: són els rostres sota els quals s'ha venerat la figura de Sant Jordi. Però què hi ha de realitat i de mite al voltant del patró de l'antiga Corona d'Aragó? Per a esbrinar-ho, Ferran i Sílvia Bel viuran a Barcelona la diada cívica del llibre i la rosa. I a Alcoi, s'endinsaran a les festes de Moros i Cristians més importants i sumptuoses del País Valencià.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
         "start": "2026-08-24T11:41:20+02:00",
-        "stop": "2026-08-24T12:15:17+02:00",
+        "stop": "2026-08-24T12:15:18+02:00",
         "title": "GR Pirineus",
         "subtitle": "Una llengua molt viva",
         "description": "La Vall d'Aran ens obrirà les portes per mostrar-nos tota la seva impressionant bellesa, i ho farà en aranès, perquè en aquesta ruta volem descobrir aquesta llengua autòctona i demostrar que està molt més viva del que sembla.La ruta que seguirem començarà a Bagergue i passarà per Unha, Salardú, Escunhau, Betren, Vielha, Arròs, Es Bordes, Bossost, Lles i acabarà a Bausén.Durant el trajecte aprendrem a cuinar olla aranesa, anirem a classe d'aranès, ens endinsarem en l'impressionant patrimoni natural de la vall visitant dos salts d'aigua: eths Ulhs deth Jueus i eth Saut deth Pish; coneixerem per què els esturions de la Vall d'Aran estan considerats els que donen millor caviar, i el tastarem; i acabarem amb el grup Bramatopin, cantant cançons tradicionals araneses i coneixent una romàntica però tràgica història d'amor.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+      },
+      {
+        "start": "2026-08-24T12:15:18+02:00",
+        "stop": "2026-08-24T12:30:29+02:00",
+        "title": "Pastors i ramats: un món que se'n va",
+        "subtitle": "Ernest Sitjes",
+        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-24T10:56:27+02:00",
-        "stop": "2026-08-24T11:07:58+02:00",
-        "title": "Les Sisters",
-        "subtitle": "El dibuixant misteriós",
-        "description": "La Marine i la Wendy són fans d'un còmic que es diu els Brothers. Quan la Marine sospita que el dibuixant s'inspira en la vida de les germanes per escriure els seus gags, decideix descobrir la seva identitat. Però no pot resoldre el cas sense la seva ajudanta fidel: la Wendy! Juntes les dues detectives aniran de sorpresa en sorpresa.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-24T11:56:05+02:00",
+        "stop": "2026-08-24T12:07:33+02:00",
+        "title": "Ghost Rockers",
+        "subtitle": "",
+        "description": "En Brandon s'ha presentat a la festa i posa en perill la missió de la Mila. La mare d'en Jules continua fent passos per allunyar el seu fill de l'Alex. Per part seva, la Charlie decideix ajudar en Jimmy a buscar el manuscrit original de l'obra. La Mila es prepara per entrar a la casa de la família Silva per robar la ballarina del Bolxoi, que està guardada en una caixa forta sota un quadre dels Tres Mosqueters. ",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-08-24T11:07:58+02:00",
-        "stop": "2026-08-24T11:19:20+02:00",
-        "title": "Les Sisters",
-        "subtitle": "La tieta Coco",
-        "description": "La tieta Coco visita la seva germana gran després de fer la volta al món. Si la Wendy és bufona i morena com la seva mare, la Coco és guapa i rossa com la Marine. I igual de corconet que ella! I si la Marine i la Wendy es barallen sense parar, la seva mare i la tieta Coco no es queden enrere. Amb dos parells de germanes a casa, el que acaba rebent és el pare.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-24T12:07:33+02:00",
+        "stop": "2026-08-24T12:18:48+02:00",
+        "title": "Ghost Rockers",
+        "subtitle": "",
+        "description": "En Jimmy li toca a la Charlie una cançó romàntica que ha compost per a l'obra, i això fa que hi hagi un acostament entre tots dos. Entre l'Alex i en Jules també hi ha un retrobament. La Mila ha fet saltar l'alarma accidentalment a la casa dels Silva, i en Lucas es dirigeix cap allà. Tindrà temps, la Mila, d'obrir la caixa forta i agafar la figura sense que l'enxampi? ",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-24T10:53:02+02:00",
-        "stop": "2026-08-24T11:17:49+02:00",
-        "title": "Després de tu",
-        "subtitle": "El pla esquimal",
-        "description": "CAP 12. EL PLA ESQUIMALÒscar sospita que la iaia s'està morint i decideix investigar-ho. Pau té la reunió amb els de la plataforma que haurà d'afrontar amb Artur i la Raquel 2.0 . Alba trenca definitivament amb Cristian. Al sopar, tota eixa tensió esclatarà en una èpica discusió familiar. Un mal dia per a Pau.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
-      },
       {
         "start": "2026-08-24T11:17:49+02:00",
         "stop": "2026-08-24T12:11:55+02:00",
@@ -139,6 +121,15 @@
         "description": "La Marta Torné és la convidada d'aquesta setmana al Persona Infiltrada. L'actriu i presentadora concursarà contra una família de Badalona amb arrels al Panjab indi. L'exotisme i el ball de Bollywood seran dos dels ingredients d'un programa amb molt de picant. La Marta haurà d'afinar mot bé la vista per fixar-se en tots els detalls i detectar quin membre de la família hi sobra. Inspeccionar la casa de dalt a baix, interrogar-los a fons i mirar de fer-los caure en contradiccions seran alguns dels recursos que tindrà al seu abast per aconseguir-ho. La família, per la seva banda, intentarà marejar-la i confondre-la tant com pugui. Al final de la jornada, la Marta s'haurà de decidir per un dels membres de la família. Si encerta la persona infiltrada, un espectador s'endurà els 5.000&euro; per sorteig. Però si la família aconsegueix enredar-la, seran ells i la persona infiltrada els qui es quedaran el premi del programa.",
         "genre": "CONCURS",
         "image": ""
+      },
+      {
+        "start": "2026-08-24T12:11:55+02:00",
+        "stop": "2026-08-24T12:47:58+02:00",
+        "title": "Tot o res",
+        "subtitle": "Tot o res",
+        "description": "",
+        "genre": "CONCURS",
+        "image": "http://statics.ccma.cat/multimedia/jpg/3/7/1487784560073.jpg"
       }
     ],
     "oca1": [],
