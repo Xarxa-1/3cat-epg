@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T21:30:44.102739+00:00",
+  "updated": "2026-08-24T22:00:11.391255+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,22 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T23:11:02+02:00",
-        "stop": "2026-08-24T23:50:06+02:00",
-        "title": "Jo mai mai",
-        "subtitle": "Angoixa",
-        "description": "La Su arriba a Les Guilles perquè el casament és cada cop més a prop i vol que tot surti perfecte. La Mai, però, se sent cada cop més ofegada, i la Su no pot evitar sentir-se gelosa d'en Manu, amb qui la Mai té molt bona connexió. El Billy organitza una nit de terror per al grup i, entre fantasmes i persecucions, es fa evident la incomoditat entre en Karim i la Martina i també l'amor apassionat entre la Judit i la Laura. Ara bé, el veritable ensurt de la nit se l'endú el Billy, que descobreix que ser monitor dels grans no és tan fàcil com ell pensava.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
-      },
-      {
-        "start": "2026-08-24T23:50:06+02:00",
-        "stop": "2026-08-25T00:25:13+02:00",
+        "start": "2026-08-24T23:50:08+02:00",
+        "stop": "2026-08-25T00:25:15+02:00",
         "title": "Jo mai mai",
         "subtitle": "Secrets",
         "description": "La Rita visita el Billy, que està més preocupat pensant amb qui s'ha pogut enrotllar la Rita que de gaudir del temps amb ella. La Blau s'enrotlla amb els dos germans sense que ho sàpiguen. A més, descobreix que en Tom és tutelat i ho explica a tot el grup. La Mai, cada vegada més ofegada amb els preparatius del casament, demana consell al Pere. A Les Guilles hi ha un lladre i la Blau, carregada de prejudicis, acusa en Karim. En Karim es mostra cada vegada més distant, la Martina se n'adona i l'enxampa provocant-se el vòmit.",
         "genre": "SÈRIE DRAMÀTICA",
         "image": ""
+      },
+      {
+        "start": "2026-08-25T00:25:15+02:00",
+        "stop": "2026-08-25T01:12:02+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 21",
+        "description": "Aquests dies ens han vingut a veure a 'La Renaixença' Txabi Franquesa, Jaume Campistol (exjutge de cadira de tenis), Eduard Gener i Josep Pascual (topògraf i meteoròleg aficionat). També hem parlat del tap d'ampolla, la cinta de casset, el braser i l'imant de nevera. Us deixem un recull dels millors moments, perquè els pugueu reviure i riure una estona més, com hem fet nosaltres.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "324": [
@@ -84,7 +84,7 @@
     "esport3": [
       {
         "start": "2026-08-24T23:00:03+02:00",
-        "stop": "2026-08-25T00:30:59+02:00",
+        "stop": "2026-08-25T00:31:00+02:00",
         "title": "Onze",
         "subtitle": "L'evasió de Julián; pluja de gols a Elx; Mayola, Colegiado i Nin",
         "description": "Amb Lluís Carrasco, Carles Fité, Aina Cerdà i Jordi Martí parlem dels últims esdeveniments del cas Julián Álvarez i analitzem si la sortida del davanter argentí encara és possible. Comentem la golejada del Barça a Elx per arrencar la lliga, Marc Mayola analitza el partit de Raphinha i de Xavi Espart. Amb Joan Fàbregas analitzem les polèmiques de la jornada i acabem amb l'1X1 d'Òscar Nin.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-08-25T00:30:59+02:00",
-        "stop": "2026-08-25T00:51:46+02:00",
+        "start": "2026-08-25T00:31:00+02:00",
+        "stop": "2026-08-25T01:01:48+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,15 +103,6 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-24T23:30:39+02:00",
-        "stop": "2026-08-24T23:51:32+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El viatge de l'heroïna (1a part)",
-        "description": "Per Nadal l'Aviva li va regalar al Chris un val per un Saltatemps. Encara no l'ha pogut fabricar però ja n'ha fet un dels elements més difícils: el propulsor temporal. El problema és que els ha caigut a l'aigua i ha quedat enganxat a un salmó roig que acaba de començar la migració riu amunt cap al lloc on va néixer. L'equip dels germans Kratt fa tot el possible per recuperar-lo.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
         "start": "2026-08-24T23:51:32+02:00",
         "stop": "2026-08-25T00:11:41+02:00",
         "title": "Els germans Kratt",
@@ -119,26 +110,35 @@
         "description": "L'equip dels germans Kratt continua el seu viatge riu amunt seguint l'Heroïna i el salmó que té el propulsor temporal en el seu trajecte cap al lloc on van néixer. Però no sembla que hagi de ser gens fàcil, el riu és ple de perills i només hi arriba un salmó de cada mil. L'equip dels germans Kratt haurà de recórrer a uns quants poders animals per ajudar-los i mirar de recuperar el propulsor temporal. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
+      },
+      {
+        "start": "2026-08-25T00:11:41+02:00",
+        "stop": "2026-08-25T00:31:50+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Animals esgarrifossos! (1a part)",
+        "description": "Arriba la festa de Halloween i l'equip dels germans Kratt es prepara per celebrar-la. Els dos germans decideixen disfressar-se d'algun animal esgarrifós: el Chris tria el vampir comú i el Martin la taràntula Goliat. L'Aviva els promet que si els troben, els en farà un vestit de poder animal. Mentrestant, el Zach s'empesca un pla per fer-se ric amb la festa de Halloween: muntar una casa encantada i omplir-la d'animals esfereïdors. Per trobar-los demana ajuda als seus companys malvats.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-24T22:52:03+02:00",
-        "stop": "2026-08-24T23:43:10+02:00",
-        "title": "L'ascens dels Nazis",
-        "subtitle": "La ruta de les rates",
-        "description": "Els nazis de rang més alt han estat executats o empresonats després del judici internacional de Nuremberg, però molts dels pitjors criminals encara estan en llibertat, com ara Adolf Eichmann, de 39 anys, que va organitzar el transport de milions de jueus d'Europa a camps d'extermini. Ja s'ha escapat d'un camp d'internament aliat i ara viu als boscos del nord d'Alemanya sota una identitat falsa.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/2/1783932639827.jpg"
-      },
-      {
-        "start": "2026-08-24T23:43:10+02:00",
+        "start": "2026-08-24T23:43:11+02:00",
         "stop": "2026-08-25T00:29:48+02:00",
         "title": "L'ascens dels Nazis",
         "subtitle": "El moment de passar comptes",
         "description": "Al final dels anys 60, l'Alemanya Occidental és un democràcia pròspera. Kurt Kiesinger n'és el canceller. Tanmateix, una jove alemanya, Beate Klarsfeld, sap que Kiesinger és un antic nazi i decideix explicar-ho a tot el món donant-li una bufetada públicament quan està a punt de pronunciar un discurs en la conferència anual del seu partit.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": "https://img.3cat.cat/multimedia/jpg/7/2/1783932639827.jpg"
+      },
+      {
+        "start": "2026-08-25T00:29:48+02:00",
+        "stop": "2026-08-25T01:40:05+02:00",
+        "title": "Un vas d'aigua per a l'Elio",
+        "subtitle": "Un vas d'aigua per a l'Elio",
+        "description": "",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1787038481671.jpg"
       }
     ],
     "oca1": [],
