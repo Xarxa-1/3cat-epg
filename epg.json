@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24T15:09:19.386551+00:00",
+  "updated": "2026-08-24T15:54:54.077987+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,21 +43,21 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-24T17:00:57+02:00",
-        "stop": "2026-08-24T17:37:45+02:00",
-        "title": "La Riera",
-        "subtitle": "",
-        "description": "En Joan ha aconseguit que en Sergi es posi gelós, però la Txell és una altra cosa. Ni s'imagina per què està tan abatuda. La que té ganes de divertir-se com una noia normal és la Mireia, però té un nòvio... I la Lídia comença a investigar l'Estel. Està decidida a trobar alguna esquerda.",
-        "genre": "TELENOVEL·LA",
-        "image": ""
-      },
-      {
-        "start": "2026-08-24T17:37:45+02:00",
-        "stop": "2026-08-24T18:25:49+02:00",
+        "start": "2026-08-24T17:37:46+02:00",
+        "stop": "2026-08-24T18:25:50+02:00",
         "title": "Nervi",
         "subtitle": "Microfestivals, Ferran Utzet, Il·lustradores, Minibús Intergalàctic",
         "description": "El periodista musical Nando Cruz ens presenta el llibre 'Microfestivals'. Andrea Gumes entrevista el dramaturg i actor Ferran Utzet. Jacint Casademont ens presenta cinc de les il·lustradores més interessants del panorama català. Tanca el programa una actuació en directe dels Minibús Intergalàctic al Teatre-Museu Dalí de Figueres. ",
         "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-08-24T18:25:50+02:00",
+        "stop": "2026-08-24T18:57:32+02:00",
+        "title": "Art endins",
+        "subtitle": "",
+        "description": "'Art Endins' neix amb la clara idea d'acostar l'espectador a l'immens patrimoni en arts plàstiques que hi ha a Catalunya; de convidar-lo a fer una immersió en les històries i anècdotes, sovint desconegudes, que acompanyen les obres i els objectes de museus, fundacions, palaus, esglésies o col·leccions privades del país. Moltes de les coses que n'aprendrem són curioses, però també rigoroses i acadèmiques, i es posarà en contacte l'espectador amb el món fascinant dels historiadors, restauradors i conservadors d'art. Descobrirem, entre d'altres, pintures que es troben al Palau Güell o al monestir de Sant Benet de Montserrat. Ens fixarem en el treball escultòric procedent d'Erill la Vall i en el que atresora la Basílica del Pi de Barcelona. Ens deixarem seduir per l'art del Renaixement i el barroc, pel modernisme i el noucentisme. Visitarem els fons de reserva i les sales de molts museus, a Olot, a Lleida, a Reus, a Vic, a Solsona, a Figueres, a Valls… per fer una nova mirada a la nostra història de l'art, a la gran riquesa del nostre patrimoni artístic.Cada capítol explica a fons tres o quatre obres principals. De vegades, tot gira al voltant d'una sola obra, de vegades, al voltant d'un artista; aleshores, les seves obres formen el context. Una veu en off n'explica les històries i converteix els elements de la narració artística en un relat que pretén ser captivador i suggeridor. De tant en tant, els experts aporten les valoracions necessàries per completar el punt de vista acadèmic.En cada capítol també es presenten dues obres més, part d'un catàleg particular del programa. Durant un minut veiem l'obra des d'un nou 'punt de vista', condicionat per una banda sonora que l'acompanya a manera de so ambient. ",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
@@ -103,34 +103,25 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-24T16:59:20+02:00",
-        "stop": "2026-08-24T17:19:53+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "La mascota maligna",
-        "description": "Una sèrie d'atacs a estudiants de la Universitat de Malibú han fet saltar l'alarma a la WOOHP. En Jerry de seguida ha donat la missió a l'Alex, la Clover i la Sam, que aviat descobriran que totes les víctimes són atletes. L'agressor és una criatura amb urpes a les potes, bec punxegut i plomes blanques. Pot ser que es tracti de la mascota de la universitat de Riptide State?!",
+        "start": "2026-08-24T17:54:04+02:00",
+        "stop": "2026-08-24T18:04:18+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Jugar amb triangles",
+        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+        "image": ""
       },
       {
-        "start": "2026-08-24T17:19:53+02:00",
-        "stop": "2026-08-24T17:43:21+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Que continuï l'espectacle, perquè si no...",
-        "description": "Després d'una actuació penosa de la Clover en una classe de teatre, l'estrany comportament d'en Virgil cridarà l'atenció de les Espies. A més d'anar vestit de cowboy, parla amb un accent desconegut! I no és pas l'únic! La Mandy es presentarà a classe vestida d'astronauta, i la Mindy, de minyona! A més, sembla que estiguin hipnotitzats! Tot un misteri!",
+        "start": "2026-08-24T18:04:18+02:00",
+        "stop": "2026-08-24T18:15:36+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "La caputxa i la pluja",
+        "description": "Avui el Mic porta un impermeable amb caputxa i té ganes que plogui per poder estar a sota la pluja ben tapat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+        "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-24T16:16:35+02:00",
-        "stop": "2026-08-24T17:21:35+02:00",
-        "title": "Joc de cartes",
-        "subtitle": "El millor restaurant d'hotel amb encant a Barcelona",
-        "description": "En aquest capítol de 'Joc de cartes' el Marc Ribas farà les maletes per allotjar-se a la capital catalana i buscarà el Millor restaurant d'hotel amb encant a Barcelona.Els primers en mostrar l'encant del seu negoci seran els exigents i perfeccionistes Nieves i Marc del The Greenhouse, a l'Hotel Pulitzer, un restaurant que bé sembla un hivernacle al bell mig de la ciutat. Els segons a concursar seran el Jairo i el Jon del Negresco Restaurant, a l'Hotel Negresco Princess, que competiran amb la seguretat que els donen les seves vistes panoràmiques a la ciutat de Barcelona. I acabarem a l'Hotel Boutique Torre Barcelona, a Collserola, un hotel ubicat en una antiga casa modernista catalogada que gestiona el carismàtic matrimoni format per la Mercè i el Giorgio.Seran els restauradors tan encantadors com els seus negocis? Qui desplegarà millor l'encant del seus fogons? Qui s'endurà el títol de Millor restaurant d'hotel amb encant a Barcelona?",
-        "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
-      },
       {
         "start": "2026-08-24T17:21:35+02:00",
         "stop": "2026-08-24T18:29:10+02:00",
@@ -139,6 +130,15 @@
         "description": "La ruta de 'Joc de cartes' d'aquest estiu acabarà fent parada a la Costra Brava, on el Marc Ribas buscarà la Millor cuina amb gust de mar a Roses i Cadaqués. Les primeres concursants que coneixerà seran l'Ana i la Maria del Casa Anita, a Cadaqués, un restaurant familiar i amb molta essència amb més de sis dècades d'història. També a Cadaqués, i ben a la vora del mar, es troba el Xiringuito La Sal, i per 'salero' el que tenen el seu xef, l'Aniol, i el cap de sala, el Joan. L'últim restaurant que posarà a prova el gust de mar de la seva cuina serà el Falconera, de Roses, capitanejat als fogons pel seu xef, el Gregory, i a sala per l'Albert.Les aigües de la Costa Brava i la tramuntana seran testimoni d'aquest duel culinari amb salitre. Qui farà la millor cuina amb gust de mar? Roses o Cadaqués?",
         "genre": "ALTRES",
         "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
+      },
+      {
+        "start": "2026-08-24T18:29:10+02:00",
+        "stop": "2026-08-24T19:22:27+02:00",
+        "title": "Llocs recòndits",
+        "subtitle": "Polònia",
+        "description": "'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
