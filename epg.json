@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T15:22:10.978119+00:00",
+  "updated": "2026-08-25T16:07:31.226199+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,21 +43,21 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-25T16:59:47+02:00",
-        "stop": "2026-08-25T17:37:27+02:00",
-        "title": "La Riera",
-        "subtitle": "",
-        "description": "La Txell decideix intervenir per evitar que el seu pare acabi fent una barbaritat. Mentrestant, la Lídia, amb la col·laboració d'un detectiu, ha descobert que el pare de l'Estel no està net, i posa en marxa el seu pla. Avui és la festa sorpresa d'en Nil a la Marina. La Mireia s'hi presenta amb l'Oriol... i hi haurà problemes.",
-        "genre": "TELENOVEL·LA",
-        "image": ""
-      },
-      {
-        "start": "2026-08-25T17:37:27+02:00",
-        "stop": "2026-08-25T18:23:55+02:00",
+        "start": "2026-08-25T17:37:28+02:00",
+        "stop": "2026-08-25T18:23:56+02:00",
         "title": "Nervi",
         "subtitle": "Maria Arnal, Quimi Portet, prescripció cultural, Mazoni  ",
         "description": "Andrea Gumes entrevista la cantant i compositora Maria Arnal, que ha editat l'àlbum 'Ama'. 'Gran!' explica la història del disc 'Hockey sobre pedres', de Quimi Portet. Mariona Borrull reflexiona sobre la prescripció cultural. Actuació en directe de Mazoni a la Bisbal d'Empordà.  ",
         "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-08-25T18:23:56+02:00",
+        "stop": "2026-08-25T18:55:22+02:00",
+        "title": "Art endins",
+        "subtitle": "",
+        "description": "'Art Endins' neix amb la clara idea d'acostar l'espectador a l'immens patrimoni en arts plàstiques que hi ha a Catalunya; de convidar-lo a fer una immersió en les històries i anècdotes, sovint desconegudes, que acompanyen les obres i els objectes de museus, fundacions, palaus, esglésies o col·leccions privades del país. Moltes de les coses que n'aprendrem són curioses, però també rigoroses i acadèmiques, i es posarà en contacte l'espectador amb el món fascinant dels historiadors, restauradors i conservadors d'art. Descobrirem, entre d'altres, pintures que es troben al Palau Güell o al monestir de Sant Benet de Montserrat. Ens fixarem en el treball escultòric procedent d'Erill la Vall i en el que atresora la Basílica del Pi de Barcelona. Ens deixarem seduir per l'art del Renaixement i el barroc, pel modernisme i el noucentisme. Visitarem els fons de reserva i les sales de molts museus, a Olot, a Lleida, a Reus, a Vic, a Solsona, a Figueres, a Valls… per fer una nova mirada a la nostra història de l'art, a la gran riquesa del nostre patrimoni artístic.Cada capítol explica a fons tres o quatre obres principals. De vegades, tot gira al voltant d'una sola obra, de vegades, al voltant d'un artista; aleshores, les seves obres formen el context. Una veu en off n'explica les històries i converteix els elements de la narració artística en un relat que pretén ser captivador i suggeridor. De tant en tant, els experts aporten les valoracions necessàries per completar el punt de vista acadèmic.En cada capítol també es presenten dues obres més, part d'un catàleg particular del programa. Durant un minut veiem l'obra des d'un nou 'punt de vista', condicionat per una banda sonora que l'acompanya a manera de so ambient. ",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
@@ -83,42 +83,42 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-25T17:16:39+02:00",
-        "stop": "2026-08-25T18:05:53+02:00",
-        "title": "Gent de món",
-        "subtitle": "Mediterrani occidental 2",
-        "description": "Avui comencem a Florència, una ciutat que, tot i que no té port, és una de les més visitades pels creueristes de tot el món. Reprenem un viatge que en aquest capítol ens durà per tot Itàlia, de nord a sud. Continuarem per Roma, que per a molts altres, que no són els d'abans, és també la més bonica ; i acabarem a Nàpols, que no és la més maca per a ningú, però potser és la més interessant.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
         "start": "2026-08-25T18:05:53+02:00",
-        "stop": "2026-08-25T18:59:56+02:00",
+        "stop": "2026-08-25T18:59:57+02:00",
         "title": "Experiència Catalana",
         "subtitle": "Robert Englund",
         "description": "L'actor de Hollywood Robert Englund, el mític Freddy Krueger, visita Catalunya de la mà d''Experiència catalana' i la Ivana Miño. Junts visiten el cementiri de Montjuïc, els banys jueus de Besalú i el Restaurant Hispània d'Arenys. Tot plegat, just abans d'enfrontar-se a una nit d'espant a Mataró.",
         "genre": "ALTRES",
         "image": ""
+      },
+      {
+        "start": "2026-08-25T18:59:57+02:00",
+        "stop": "2026-08-25T20:30:39+02:00",
+        "title": "Tot Costa",
+        "subtitle": "La decisió amb el 9",
+        "description": "El Barça valora la possibilitat de no fitxar a cap 9 en aquest final de mercat en cas de no poder incorporar a Julián Álvarez. Després de la reunió entre Laporta i Deco, el club ha de decidir quina línia seguir en aquest final de mercat. A més, amb la Laia Bonals i el Santi Jiménez parlem del futur de Koundé i Balde i del debut de Mourinho al Bernabéu a la Lliga.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-25T17:05:30+02:00",
-        "stop": "2026-08-25T17:26:03+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Tampoc és tan divertit...",
-        "description": "Després de passar-se tot el dia de compres al centre comecial The Groove i d'adonar-se que hi passen coses força estranyes, les noies es trobaran atrapades per un camp de força invisible que els impedirà sortir del recinte. Els atacs dels androides només seran un entrenament per una missió molt especial: detenir el temible Tecnobot de Tòquio!",
+        "start": "2026-08-25T17:58:14+02:00",
+        "stop": "2026-08-25T18:08:46+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "El Mic és el rei del mar",
+        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+        "image": ""
       },
       {
-        "start": "2026-08-25T17:26:03+02:00",
-        "stop": "2026-08-25T17:47:53+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Un pare Noel dolent",
-        "description": "En plena febre de vacances de Nadal, i en plena festa de la universitat!, en Jerry ha enviat les espies de missió. Avui els toca investigar un objecte volador no identificat que sobrevola Beverly Hills. De seguida s'adonaran que no es tracta d'un OVNI. Només és un globus sonda, que d'entrada sembla inofensiu... Però només d'entrada...",
+        "start": "2026-08-25T18:08:46+02:00",
+        "stop": "2026-08-25T18:19:50+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "La fada i el mag",
+        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+        "image": ""
       }
     ],
     "c33": [
