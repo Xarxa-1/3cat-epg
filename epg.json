@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T03:30:14.839986+00:00",
+  "updated": "2026-08-25T04:22:54.202221+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-25T05:09:54+02:00",
-        "stop": "2026-08-25T05:54:47+02:00",
-        "title": "Cava de Blues",
-        "subtitle": "Bullfrog Electric Blues Experience",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
-      },
-      {
-        "start": "2026-08-25T05:54:47+02:00",
-        "stop": "2026-08-25T05:58:22+02:00",
-        "title": "Videoclips",
-        "subtitle": "Manu Guix - Com dues gotes d'aigua",
-        "description": "",
-        "genre": "ALTRES",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-08-25T01:00:00+02:00",
-        "stop": "2026-08-25T06:00:00+02:00",
+        "start": "2026-08-25T06:00:00+02:00",
+        "stop": "2026-08-25T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
+        "start": "2026-08-25T07:00:00+02:00",
+        "stop": "2026-08-25T10:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
         "start": "2026-08-25T06:00:00+02:00",
         "stop": "2026-08-25T07:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-25T07:00:00+02:00",
+        "stop": "2026-08-25T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-25T04:08:25+02:00",
-        "stop": "2026-08-25T05:51:41+02:00",
-        "title": "Tot Costa",
-        "subtitle": "La idea del Barça en l'última setmana de mercat",
-        "description": "Quan falten pocs dies perquè tanqui el mercat de fitxatges, amb la Laia Tudel repassem la idea del club blaugrana. Els de Hansi Flick van debutar amb golejada, 0 a 5 a Elx, en el debut de Gordon i Adeyemi a la Lliga. A més, repassem l'inici de l'Espanyol, del Madrid i també del Sabadell i el Girona a segona.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
-      },
-      {
-        "start": "2026-08-25T05:51:41+02:00",
-        "stop": "2026-08-25T06:16:38+02:00",
+        "start": "2026-08-25T06:16:40+02:00",
+        "stop": "2026-08-25T06:41:27+02:00",
         "title": "E3",
-        "subtitle": "Monster Jam / Anaheim 2 / 2",
+        "subtitle": "Monster Jam / San Diego 1 / 3",
         "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. ",
         "genre": "REPORTATGES",
         "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
+      },
+      {
+        "start": "2026-08-25T06:41:27+02:00",
+        "stop": "2026-08-25T06:55:40+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-25T05:19:16+02:00",
-        "stop": "2026-08-25T05:30:50+02:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "La tómbola",
-        "description": "A la Guineta li encantaria guanyar el premi de la tómbola d'aquest any: un lot de pintures de tots els colors que sembla fet a mida per a ella! Així que, quan s'assabenta que els trapelles del Gatmoix i el Gatmoll tenen la intenció de fer trampes per guanyar el premi i malbaratar-lo... decideix fer trampes ella també per evitar-ho.",
+        "start": "2026-08-25T06:11:50+02:00",
+        "stop": "2026-08-25T06:22:53+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "Els túnels de la Molly",
+        "description": "Avui la Maia ha conegut la Molly, una grill talp que recull provisions i les guarda al seu cau per l'hivern. Aviat, però, s'adonarà que la Molly, per culpa d'una patacada, ha perdut la memòria i no se'n recorda on té el rebost. El problema és que la Molly no para d'excavar túnels i està posant en perill tot el prat! Què poden fer per ajudar-la?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-25T05:30:50+02:00",
-        "stop": "2026-08-25T05:37:30+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "Ídol de pega",
-        "description": "No has de conèixer els teus herois. L'ídol del rock and roll del granger acaba perdut a la granja quan se li espatlla la seva limusina. De seguida es comença a veure que és un hipòcrita consentit i en Shaun decideix donar-li una bona lliçó des de l'Escola de Rock.",
+        "start": "2026-08-25T06:22:53+02:00",
+        "stop": "2026-08-25T06:33:57+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "L'Edgar no té por",
+        "description": "L'Edgar està convençut que la mala sort l'empaita cada vegada que s'aparta del rusc. La primera vegada que en va sortir, va caure i li van trepitjar una antena, i ara ja no s'atreveix a passar d'una línia. La Maia no es pot creure que no hagi vist mai el prat i decideix acompanyar-lo a descobrir les meravelles de la natura. Abans, però, li tocarà aprendre a no tenir tanta por!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-25T05:05:53+02:00",
-        "stop": "2026-08-25T05:35:22+02:00",
-        "title": "Marcians",
-        "subtitle": "Amants del teatre, teatre amateur",
-        "description": "En el seu darrer musical, 'L'amor venia en taxi', La Cubana fan un homenatge al teatre amateur. No deixa de ser un homenatge a la pròpia companyia, que té les seves arrels en aquesta activitat tan estesa per tot Catalunya.En aquest reportatge fem un recorregut pel país i per diferents grups del que els 'cubaneros' anomenen teatre d'aficionats.L'iniciem amb en Rubèn Montañá un dels intèrprets i coautor de 'L'amor venia en taxi', que es va iniciar en l'ofici a través del Círcol de Badalona, una de les institucions més antigues i amb la qual encara continua vinculat, combinant professionalitat i amateurisme.D'un grup històric passem al Teatre Jove Bellver que celebra el desè aniversari. El 2016 una colla de joves de la Cerdanya al voltant dels 14 anys, va crear el seu propi grup que continua en actiu i ja ha vist com ha inspirat a una segona generació que segueix els seus passos.Molts grups de teatre amateur estan vinculats a ateneus o institucions en què hi conviuen diferents activitats. Aquest és el cas d'un altre espai més que centenari, el Centre de Llorenç del Penedès. S'hi fan produccions en què hi arriben a participar més de cent persones i l'any que acabem de deixar enrere han arribat a estrenar quatre obres diferents.I acabem aquest circuit amb un grup amb més de trenta anys d'història i dels més singulars del país. Es tracta de Tràfec Teatre, una agrupació que s'ha especialitzat en el teatre de gest i visual. Una disciplina aquí sovint vinculada a la comèdia, tot i que elles mai han conreat l'humor, sinó el drama i la tragèdia, sense pronunciar una sola paraula. Aquesta característica també els ha convertit en un dels grups amb més projecció internacional en el circuit amateur europeu.",
+        "start": "2026-08-25T06:06:14+02:00",
+        "stop": "2026-08-25T06:18:16+02:00",
+        "title": "Les Feres",
+        "subtitle": "Maria Hein",
+        "description": "Concert de la cantant i compositora Maria Hein, enregistrat en directe al Casino del Masnou, el 22 de gener del 2024. Una actuació marcada pel folk intimista arrelat a la tradició sense deixar de banda la seducció pels arranjaments electrònics. L'artista mallorquina interpreta cançons dels discos 'Continent i contingut' i 'Tot allò que no sap ningú', treballs que destaquen per una curada producció on hi han intervingut noms com Sr. Chen o Ferran Palau.  Maria Hein: piano i veu Nicole Torrealba: programació i MPC Cançons 'Fiu fiuuu' 'La dama de Mallorca' 'Sa pell me torna blanca' 'Mercuri i Mart'  Localització: Casino del Masnou. Carrer de Tomàs Vives, 8. El Masnou, Barcelona. Data: 22 de gener del 2024 ",
         "genre": "ALTRES",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
       },
       {
-        "start": "2026-08-25T05:35:22+02:00",
-        "stop": "2026-08-25T05:41:16+02:00",
-        "title": "Xarxa Natura",
-        "subtitle": "Medes",
-        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
+        "start": "2026-08-25T06:18:16+02:00",
+        "stop": "2026-08-25T06:47:41+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Efectes especials",
+        "description": "Els efectes especials van molt lligats al cinema. La reportera Samantha Vall descobreix alguns dels trucs que es fan servir en aquest món i protagonitza una seqüència de persecució que l'obligarà a saltar des del terrat d'un edifici. L'Esther Ballesteros, doble de la Samantha, mostra quins moviments s'han de fer a l'aire quan se salta des d'una altura i poder caure bé. Per això es tiren sobre un coixí d'aire dels més grossos d'Europa. La reportera també vol conèixer de primera mà els creadors del monstre de la pel·lícula 'Un monstre em ve a veure', els guanyadors multipremiats David Martí i Montse Ribé. Es deixa fer un impressionant maquillatge a la cara, un bon tall, amb silicona. I el meteoròleg Francesc Mauri també col·labora en aquest programa fent la previsió del temps. El que no sap és que en directe patirà els efectes meteorològics de la seva predicció. Aquests efectes els crea l'empresa Nasa Fx. La reportera va a l'estació d'esquí Masella per veure si la neu falsa que fan servir als anuncis pot enganyar els millors esquiadors. Al plató s'ha volgut fer un homenatge als primers efectes especials en el cinema, recordant una escena de l'any 1936 de la pel·lícula 'Temps moderns', de Charles Chaplin. Pau Garcia, campió d'Europa de patinatge artístic, emula Charlot evolucionant a la vora d'un virtualment perillós esvoranc obert al terra del plató.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       }
     ],
     "oca1": [],
