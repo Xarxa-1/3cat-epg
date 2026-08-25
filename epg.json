@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T16:07:31.226199+00:00",
+  "updated": "2026-08-25T16:54:23.713738+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-25T17:37:28+02:00",
-        "stop": "2026-08-25T18:23:56+02:00",
-        "title": "Nervi",
-        "subtitle": "Maria Arnal, Quimi Portet, prescripció cultural, Mazoni  ",
-        "description": "Andrea Gumes entrevista la cantant i compositora Maria Arnal, que ha editat l'àlbum 'Ama'. 'Gran!' explica la història del disc 'Hockey sobre pedres', de Quimi Portet. Mariona Borrull reflexiona sobre la prescripció cultural. Actuació en directe de Mazoni a la Bisbal d'Empordà.  ",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-25T18:23:56+02:00",
-        "stop": "2026-08-25T18:55:22+02:00",
+        "start": "2026-08-25T18:23:57+02:00",
+        "stop": "2026-08-25T18:55:23+02:00",
         "title": "Art endins",
         "subtitle": "",
         "description": "'Art Endins' neix amb la clara idea d'acostar l'espectador a l'immens patrimoni en arts plàstiques que hi ha a Catalunya; de convidar-lo a fer una immersió en les històries i anècdotes, sovint desconegudes, que acompanyen les obres i els objectes de museus, fundacions, palaus, esglésies o col·leccions privades del país. Moltes de les coses que n'aprendrem són curioses, però també rigoroses i acadèmiques, i es posarà en contacte l'espectador amb el món fascinant dels historiadors, restauradors i conservadors d'art. Descobrirem, entre d'altres, pintures que es troben al Palau Güell o al monestir de Sant Benet de Montserrat. Ens fixarem en el treball escultòric procedent d'Erill la Vall i en el que atresora la Basílica del Pi de Barcelona. Ens deixarem seduir per l'art del Renaixement i el barroc, pel modernisme i el noucentisme. Visitarem els fons de reserva i les sales de molts museus, a Olot, a Lleida, a Reus, a Vic, a Solsona, a Figueres, a Valls… per fer una nova mirada a la nostra història de l'art, a la gran riquesa del nostre patrimoni artístic.Cada capítol explica a fons tres o quatre obres principals. De vegades, tot gira al voltant d'una sola obra, de vegades, al voltant d'un artista; aleshores, les seves obres formen el context. Una veu en off n'explica les històries i converteix els elements de la narració artística en un relat que pretén ser captivador i suggeridor. De tant en tant, els experts aporten les valoracions necessàries per completar el punt de vista acadèmic.En cada capítol també es presenten dues obres més, part d'un catàleg particular del programa. Durant un minut veiem l'obra des d'un nou 'punt de vista', condicionat per una banda sonora que l'acompanya a manera de so ambient. ",
         "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
+      },
+      {
+        "start": "2026-08-25T18:55:23+02:00",
+        "stop": "2026-08-25T19:03:11+02:00",
+        "title": "Capacitats",
+        "subtitle": "Escola inclusiva de vela",
+        "description": "L'esport adaptat i els seus protagonistes. Històries de superació a través de la pràctica esportiva.",
+        "genre": "ESPECIALS",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/1/1778080999014.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-08-25T17:00:00+02:00",
-        "stop": "2026-08-25T18:30:00+02:00",
+        "start": "2026-08-25T18:30:00+02:00",
+        "stop": "2026-08-25T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-25T18:30:00+02:00",
-        "stop": "2026-08-25T20:00:00+02:00",
+        "start": "2026-08-25T20:00:00+02:00",
+        "stop": "2026-08-25T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -103,34 +103,25 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-25T17:58:14+02:00",
-        "stop": "2026-08-25T18:08:46+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "El Mic és el rei del mar",
-        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-25T18:47:17+02:00",
+        "stop": "2026-08-25T18:57:17+02:00",
+        "title": "A jugar! Amb en Titó i els Fa la la",
+        "subtitle": "A jugar amb un robot",
+        "description": "L'Os Bru construeix un robot per endreçar les joguines i així tots poden continuar jugant sense haver de recollir res de res. Però quan el robot detecta que són ells els que ho desordenen tot, decideix atrapar-los! Aconseguiran escapar-se?",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-08-25T18:08:46+02:00",
-        "stop": "2026-08-25T18:19:50+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "La fada i el mag",
-        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
+        "start": "2026-08-25T18:57:17+02:00",
+        "stop": "2026-08-25T19:08:29+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva un os sumnàbul",
+        "description": "La Patrulla ha de fer tornar un os somnàmbul al cau abans que es desperti.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-25T17:21:01+02:00",
-        "stop": "2026-08-25T18:29:05+02:00",
-        "title": "Joc de cartes",
-        "subtitle": "La millor recepta amb pollastre de pota blava",
-        "description": "Marc Ribas visita la comarca del Baix Llobregat a la recerca de la millor recepta amb pollastre de Pota Blava. Tres restaurants del Prat i un de Cervelló competiran per veure qui cuina millor aquesta raça autòctona de pollastre amb Indicació Geogràfica Protegida. La primera visita serà a la Masia Sánchez-Casal, on veurem què ens ofereix en Sergi Bonillo, director de serveis d'un restaurant ubicat dins d'un club esportiu. La següent parada la farem a la Masia Can Guitart Vell, a Cervelló, un restaurant amb més de 70 anys d'història i codirigit des de fa gairebé 2 anys pel Daniel Pairada i el seu soci. El tercer àpat, de tornada al Prat, serà al Cèntric Gastrobar, regentat per la Susana Aragón, o com se la coneix a la zona, la Xef Pota Blava. I acabarem al Cafè de l'Artesà, el restaurant del teatre centenari del mateix nom, i que ara porta el Lluís Aguado, un enamorat d'aquest pollastre i la seva història. ",
-        "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
-      },
       {
         "start": "2026-08-25T18:29:05+02:00",
         "stop": "2026-08-25T19:19:48+02:00",
@@ -139,11 +130,30 @@
         "description": "Aquest episodi ens duu fins al Perú, a Sud-amèrica, per atènyer a peu una de les set meravelles del món: el Machu Picchu. Els camins de l'Inca és una ruta que els inques van mantenir en secret durant segles, i que ara s'ha rescatat per visitar el Machu Picchu caminant a través dels boscos subtropicals andins en un viatge inoblidable. ",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
+      },
+      {
+        "start": "2026-08-25T19:19:48+02:00",
+        "stop": "2026-08-25T20:04:58+02:00",
+        "title": "La Gran Barrera de Corall",
+        "subtitle": "",
+        "description": "La Gran Barrera de Corall és un ecosistema format per entorns molt diferents. Si bé el primer que ens ve al cap és la vida submarina entre els esculls, amb el pas dels segles les estructures de corall han creat illes per damunt de la superfície de l'aigua on també trobem moltes espècies animals que no associem tan de pressa amb la Gran Barrera, com ara ualabis i coales, o la fregata, un curiós ocell marí que no es pot mullar les plomes. Aquests animals terrestres conviuen sense saber-ho amb una rica fauna submarina formada per peixos verinosos, taurons i cocodrils.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/8/1786350114581.jpg"
       }
     ],
     "oca1": [],
     "oca2": [],
-    "oca3": [],
+    "oca3": [
+      {
+        "start": "2026-08-25T18:49:30+02:00",
+        "stop": "2026-08-25T20:29:25+02:00",
+        "title": "Tot Costa",
+        "subtitle": "",
+        "description": "El Barça valora la possibilitat de no fitxar a cap 9 en aquest final de mercat en cas de no poder incorporar a Julián Álvarez. Després de la reunió entre Laporta i Deco, el club ha de decidir quina línia seguir en aquest final de mercat. A més, amb la Laia Bonals i el Santi Jiménez parlem del futur de Koundé i Balde i del debut de Mourinho al Bernabéu a la Lliga.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+      }
+    ],
     "oca4": []
   }
 }
