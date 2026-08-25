@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T07:30:04.814745+00:00",
+  "updated": "2026-08-25T08:10:22.751339+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-25T07:00:00+02:00",
-        "stop": "2026-08-25T10:00:00+02:00",
+        "start": "2026-08-25T10:00:00+02:00",
+        "stop": "2026-08-25T11:55:27+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,8 +52,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-25T10:00:00+02:00",
-        "stop": "2026-08-25T11:55:27+02:00",
+        "start": "2026-08-25T11:55:22+02:00",
+        "stop": "2026-08-25T13:30:03+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-25T07:00:00+02:00",
-        "stop": "2026-08-25T10:00:00+02:00",
+        "start": "2026-08-25T10:00:00+02:00",
+        "stop": "2026-08-25T13:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-25T10:00:00+02:00",
-        "stop": "2026-08-25T13:30:00+02:00",
+        "start": "2026-08-25T13:30:00+02:00",
+        "stop": "2026-08-25T14:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-25T08:29:15+02:00",
-        "stop": "2026-08-25T10:01:53+02:00",
-        "title": "Handbol",
-        "subtitle": "Barça-BM Granollers / Supercopa Catalunya masculina / Final",
-        "description": "Final masculina de la Supercopa de Catalunya d'handbol des del Pavelló Municipal d'Esports del Parc Dalmau, a Calella.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/3/1784292968539.jpg"
-      },
-      {
-        "start": "2026-08-25T10:01:53+02:00",
-        "stop": "2026-08-25T10:56:43+02:00",
+        "start": "2026-08-25T10:01:56+02:00",
+        "stop": "2026-08-25T10:56:46+02:00",
         "title": "Katalonski",
         "subtitle": "Sao Paulo",
         "description": "Halldor Mar anirà a Sao Paulo en plena celebració del carnaval. Thaisa Bestetti el convidarà a la seva escola de samba, la Vai-Vai, i aniran al sambòdrom per veure aquesta festa monumental; amb la seva amiga Lili Mendoça aprendrà a fer una autèntica caipirinha brasilera; i després coneixerà la penya barcelonista de Sao Paulo mentre veuen el clàssic Reial Madrid-Barça; amb Raul Ribas visitarà una fàbrica on fan fuets i botifarres, una empresa familiar d'origen català, i coneixerà la seva dona, la fotògrafa Vanessa Zanforlin, una autèntica katalonski; anirà a casa de Núria Vives, que sotmetrà en Halldor a una sessió d'acupuntura; i amb Luciana Vilela i Jefferson Ribeiro, el presentador aprendrà a fer pole dance.",
         "genre": "Docu-Entreteniment",
         "image": ""
+      },
+      {
+        "start": "2026-08-25T10:56:46+02:00",
+        "stop": "2026-08-25T11:43:38+02:00",
+        "title": "Cosins Germans",
+        "subtitle": "Entre dos móns",
+        "description": "Hi ha cultures paganes que dividien l'any en dos grans períodes: el temps clar, associat a la vida, i el fosc, relacionat amb la mort. Simbòlicament, la tardor marca l'època de transició entre tots dos mons. Al Matarranya, Ferran i Araceli Segarra cercaran bolets en els boscos màgics de la tardor. Amb Elisabet Carnicé, viurem la vigília de Tots Sants a Viladrau, en companyia de bruixes de tota mena. I al cementiri de Montjuïc, Ferran i Llucia Ramis recordaran alguns difunts emblemàtics.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-25T09:22:17+02:00",
-        "stop": "2026-08-25T09:33:56+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla salva un tren",
-        "description": "En Ryder, en Rubble i en Rocky demanen ajuda a en Chase per rescatar un tren que té la via tallada perquè hi ha hagut una esllavissada de roques. Al tren hi van la Katie i la Cali.",
+        "start": "2026-08-25T10:08:49+02:00",
+        "stop": "2026-08-25T10:20:17+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Duo de germanes",
+        "description": "La Wendy canta unes cançons que rebenten les orelles de tothom. La Marine no pot més i comencen a barallar-se. El productor del programa 'Talents amagats' les sent i proposa a les germanes participar en una audició. Els amics de la Marine i la Wendy les convencen que cantin en duo, però els assajos són complicats perquè les germanes no paren de discutir.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-25T09:33:56+02:00",
-        "stop": "2026-08-25T09:44:30+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "Bub-bub bugui",
-        "description": "La Patrulla Peluda ha d'anar corrents a l'estació de Badia Aventures a treure de la via un vagó que ha descarrilat i a arreglar els raïls abans que arribi el pròxim tren.",
+        "start": "2026-08-25T10:20:17+02:00",
+        "stop": "2026-08-25T10:31:38+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Pesades al club",
+        "description": "Demà no hi ha classe i la Marine passarà tot el dia amb la seva germaneta. Però la Wendy té un altre programa. Per desgràcia per ella, la mama treballa a l'hospital i el papa passarà el dia a casa el seu editor. La paparra està encantada: s'ho passaran superbé. A més, els pares s'han 'oblidat' de dir-li a la Wendy que la Loulou i la Nat també es quedaran tot el dia amb elles. La Wendy haurà de cuidar tres pesades!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-25T08:39:42+02:00",
-        "stop": "2026-08-25T09:26:11+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La matrícula",
-        "description": "Éreu dels que tocàveu la botzina si trobàveu un cotxe amb matrícula de Girona fent un viatge per Aragó? Aquest és el vostre capítol, perquè avui parlem de la matrícula. Ens visiten dos experts en vexil·lologia. Dit d'una altra manera, dos experts en banderes. I venen amb una sorpresa per a nosaltres i per a vosaltres. No us podeu imaginar què pot ser… A 'Històries per passejar el gos' portem la Ipa, una gossa de Navàs, fins al 1606: quan Caravaggio va assassinar a un home.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
-      },
-      {
-        "start": "2026-08-25T09:26:11+02:00",
-        "stop": "2026-08-25T09:53:41+02:00",
+        "start": "2026-08-25T09:53:41+02:00",
+        "stop": "2026-08-25T10:22:48+02:00",
         "title": "L'ofici de viure",
-        "subtitle": "L'ofici de conviure",
-        "description": "A causa de la pandèmia ens ha tocat aprendre més que mai l'ofici de conviure.La psicòloga i experta en relacions sentimentals Sílvia Congost dona eines per teletreballar quan hem de compartir els espais de casa amb els fills i amb la parella. Com podem relacionar-nos amb més assertivitat? I com hem d'afrontar les discussions?Pel mestre i guia espiritual Daniel Gabarró, conviure 'és difícil i se n'ha d'aprendre'. Daniel Gabarró explica a Gaspar Hernàndez com podem cultivar la mirada apreciativa i no esperar que les relacions siguin perfectes. I recorda que per estimar els altres primer hem d'aprendre a estimar-nos a nosaltres.I el psicòleg esportiu Pep Marí compara una família amb un equip d'alt rendiment. Què podem aprendre dels equips esportius per millorar la convivència amb els de casa? Qui ha de ser el líder? I com hem de celebrar els èxits de cada membre per aconseguir ser una família cohesionada?",
+        "subtitle": "Obrir el cor",
+        "description": "El programa s'ocupa dels bloquejos emocionals. Dona eines per gestionar –i expressar– emocions com la ràbia o la tristesa. I també per cultivar l'altruisme i la compassió.Hi ha vegades que vivim situacions doloroses que ens fan tancar el cor per por de tornar a patir. La psicòloga Sònia Cervantes ens mostra com donar sortida a aquestes emocions.D'altra banda, Xuan Lan comparteix com el ioga ens pot ajudar a ser més compassius i altruistes. La Xuan, de petita, era una nena tímida que s'amagava de la gent. Avui és tot un referent del món del ioga. Segons ella, el ioga ens pot ajudar a obrir-nos als altres gràcies a l'obertura física del cos.I el periodista econòmic Enric Tintoré, des d'una mirada espiritual, parla de com amb petits actes de bondat quotidians podem transformar-nos a nosaltres i al nostre entorn.",
         "genre": "MAGAZINE ESPECIALITZAT",
         "image": "https://img.ccma.cat/multimedia/jpg/7/0/1625470710907.jpg"
+      },
+      {
+        "start": "2026-08-25T10:22:48+02:00",
+        "stop": "2026-08-25T10:48:21+02:00",
+        "title": "Després de tu",
+        "subtitle": "Capoeira",
+        "description": "CAP 13. CAPOEIRAÒscar està vivint temporalment a casa d'Artur. Pau, preocupat pel seu fill, acaba confessant a la psiquiatra que Raquel continua present i revolucionada. Alba i Àlex reforcen la seua amistat, anant a fer capoeira, mentre la iaia continua al Montgó.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       }
     ],
     "oca1": [],
