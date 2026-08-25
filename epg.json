@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T23:20:47.480483+00:00",
+  "updated": "2026-08-25T23:47:42.143173+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,22 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-26T00:13:05+02:00",
-        "stop": "2026-08-26T01:21:15+02:00",
-        "title": "Nits Sense ficció",
-        "subtitle": "La banda del pati",
-        "description": "'La banda del pati' és una producció de 3Cat produïda per Astronaut Films.Descobreix la revolució musical catalana amb 'La banda del pati', un documental dirigit per Dani Feixas que captura l'essència vibrant de la nova escena musical en català. Aquest documental revela com una nova generació d'artistes ha impactat els joves i ha arribat al cim de les llistes d'èxits a Catalunya en temps rècord. Amb un pop urbà enèrgic, mainstream i desacomplexat, 'La banda del pati' situa la música en català en el seu millor moment històric.  El documental se centra en les bandes emergents que lideren festivals i mitjans de comunicació, com The Tyets, Julieta, Mushka, Figa Flawas, Flashy Ice Cream, 31 FAM, i moltes més. Aquestes formacions han aconseguit unir-se a les bandes més consolidades del panorama musical català, compartint escenari amb Oques Grasses, Buhos, Doctor Prats, Stay Homas, La Pegatina, entre d'altres.  'La banda del pati' és un documental coral que reuneix 40 artistes i experts en una conversa enriquidora. Analitzem aquest fenomen musical d'arrels llatines que, després de conquerir el món, ha trobat la seva versió catalana. Debatrem sobre els canvis de tendència, la forma de crear dels nous artistes, de l'evolució natural dels grups i de la música i de la importància que té el consum de música en català entre els joves per a la nostra llengua i cultura. ",
-        "genre": "DOCUMENTAL",
-        "image": ""
-      },
-      {
-        "start": "2026-08-26T01:21:15+02:00",
-        "stop": "2026-08-26T02:08:09+02:00",
+        "start": "2026-08-26T01:23:25+02:00",
+        "stop": "2026-08-26T02:10:19+02:00",
         "title": "La Renaixença",
         "subtitle": "Millors moments - setmana 22",
         "description": "En els quatre capítols d'aquesta setmana hem parlat del paper d'alumini, la cinta americana, el cadenat i la ferradura. No és que vulguem fer cap invent estrany amb totes aquestes eines, però tenen la seva gràcia per separat. Hem rebut la visita de Ramon Madaula, Albert Batlle, Alosa i Xavier Freixas. Tenim sort amb els nostres convidats, perquè sempre ens emportem sorpreses i riures.",
         "genre": "ALTRES",
         "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+      },
+      {
+        "start": "2026-08-26T02:10:19+02:00",
+        "stop": "2026-08-26T04:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-26T01:10:30+02:00",
-        "stop": "2026-08-26T01:22:17+02:00",
+        "start": "2026-08-26T01:45:09+02:00",
+        "stop": "2026-08-26T01:56:45+02:00",
         "title": "Les Sisters",
-        "subtitle": "Les germanes ventafocs",
-        "description": "La Wendy i la Marine descobreixen que els seus pares van a un concert del Joy D. sense elles. S'adonen llavors que no ajuden gens ni mica en les feines de casa. Amb l'esperança de rebre una recompensa, decideixen fer dissabte. Però a força de netejar i endreçar, s'acaben tornant maniàtiques de la neteja i es converteixen en les germanes Ventafocs!",
+        "subtitle": "Perfum de princesa",
+        "description": "La Wendy acaba de rebre un perfum que ha comprat. Fa molt bona olor i vol ensenyar-l'hi al Maxence. Però a la Marine també li agradaria fer la mateixa olor que una princesa. I posats a fer, voldria compartir-la amb les seves amigues i els seus gairebé mil ninos. La Wendy s'hi nega, però per fer realitat els seus desitjos, la Marine està disposada a fer el que calgui.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-26T01:22:17+02:00",
-        "stop": "2026-08-26T01:33:38+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Missió papa i mama",
-        "description": "Missió molt arriscada per les dues germanes. Es pensen que els pares han discutit per culpa seva i perquè facin les paus volen preparar-los un sopar romàntic. La Wendy i la Marine inicien una batalla de 'sorpreses romàntiques' i comencen a discutir. El sopar amb espelmes corre el risc de convertir-se en una autèntica desgràcia...",
+        "start": "2026-08-26T01:56:45+02:00",
+        "stop": "2026-08-26T02:19:03+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Arriba el Pikachu",
+        "description": "A Vila Paleta, el jove Ash Ketchum està molt il·lusionat i impacient, perquè anirà al campament Pokémon del professor Oak. Però quan arriba el dia, el noi s'adorm, i el professor Oak i els altres alumnes se'n van sense ell. Dos nois, el Goh i la Chloe, se separen del grup i troben el mític pokémon Mew, i el Goh jura que un dia l'atraparà. Mentrestant, un pichu solitari es passa el dia amb un grup de kangaskhans que l'acullen, però quan arriba el moment que marxar per espavilar-se sol, llavors de cop evoluciona i es converteix en el Pikachu. Al cap d'un temps, resulta que va a parar al laboratori del professor Oak, però això ja és una altra història.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
