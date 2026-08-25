@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T01:16:40.850384+00:00",
+  "updated": "2026-08-25T02:36:10.577163+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-25T01:13:09+02:00",
-        "stop": "2026-08-25T04:30:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
         "start": "2026-08-25T04:30:00+02:00",
         "stop": "2026-08-25T05:09:54+02:00",
         "title": "Fusió i swing a l'estudi",
@@ -59,6 +50,15 @@
         "description": "Martí Ventura Trio presenta el seu tercer treball discogràfic: 'Transicions'. La complicitat i el diàleg constant entre els membres del trio, fan que les composicions del pianista es converteixin en un joc musical d'allò més orgànic. Miquel Àngel Cordero al contrabaix, Lluís Ribalta a la bateria i Martí Ventura al piano.",
         "genre": "ALTRES",
         "image": ""
+      },
+      {
+        "start": "2026-08-25T05:09:54+02:00",
+        "stop": "2026-08-25T05:54:47+02:00",
+        "title": "Cava de Blues",
+        "subtitle": "Bullfrog Electric Blues Experience",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
       }
     ],
     "324": [
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-25T02:35:29+02:00",
-        "stop": "2026-08-25T04:08:22+02:00",
-        "title": "Handbol",
-        "subtitle": "Barça-BM Granollers / Supercopa Catalunya masculina / Final",
-        "description": "Final masculina de la Supercopa de Catalunya d'handbol des del Pavelló Municipal d'Esports del Parc Dalmau, a Calella.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/3/1784292968539.jpg"
-      },
-      {
-        "start": "2026-08-25T04:08:22+02:00",
+        "start": "2026-08-25T04:08:25+02:00",
         "stop": "2026-08-25T05:51:41+02:00",
         "title": "Tot Costa",
         "subtitle": "La idea del Barça en l'última setmana de mercat",
         "description": "Quan falten pocs dies perquè tanqui el mercat de fitxatges, amb la Laia Tudel repassem la idea del club blaugrana. Els de Hansi Flick van debutar amb golejada, 0 a 5 a Elx, en el debut de Gordon i Adeyemi a la Lliga. A més, repassem l'inici de l'Espanyol, del Madrid i també del Sabadell i el Girona a segona.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+      },
+      {
+        "start": "2026-08-25T05:51:41+02:00",
+        "stop": "2026-08-25T06:16:38+02:00",
+        "title": "E3",
+        "subtitle": "Monster Jam / Anaheim 2 / 2",
+        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. ",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-25T03:00:12+02:00",
-        "stop": "2026-08-25T03:21:27+02:00",
+        "start": "2026-08-25T04:23:20+02:00",
+        "stop": "2026-08-25T04:44:21+02:00",
         "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Fèlix",
-        "description": "Avui fa un any que es va morir la mare de l'Adrien, i els seus amics decideixen enviar-li un vídeo per dir-li que pensen en ell i que li fan costat. El problema és que qui veu el vídeo no és l'Adrien, sinó el seu cosí Félix, que se li assembla molt. L'Esfinx aprofitarà la confusió per intentar aconseguir, un cop més, els prodigis de Ladybug i el Gat Noir.",
+        "subtitle": "Veritat",
+        "description": "Des que es va convertir en la nova guardiana de la Capsa dels Prodigis, la Marinette està desbordada. Ja no queda amb els seus amics, deixa plantat el Gat Noir i falla a totes les cites amb el Luka. Ell està convençut que la Marinette té un secret, però ella no l'hi pot dir que quan desapareix és perquè es transforma en Ladybug i salva París. El Luka està molt dolgut perquè la Marinette no confia prou en ell per explicar-li el seu secret, i l'Esfinx se n'aprofita per transformar-lo en Veritat. Ara té el poder d'obligar la gent a dir la veritat i vol descobrir el secret de la Marinette... i el de Ladybug i el Gat Negre també!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-25T03:21:27+02:00",
-        "stop": "2026-08-25T03:42:05+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Ladybug",
-        "description": "La Lila, empesa per l'Esfinx, li para una trampa a la Marinette perquè tothom es pensi que ha copiat les respostes en un examen. La Mayura també hi col·labora amb un sentimonstre molt especial, una reproducció gairebé perfecta de Ladybug. Al Gat Noir li costarà distingir quina de les dues és l'autèntica.",
+        "start": "2026-08-25T04:44:21+02:00",
+        "stop": "2026-08-25T04:56:16+02:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "L'espectacle de la Guineta",
+        "description": "És el dia dels avis, i la Guineta decideix preparar-los un espectacle com a regal. Malauradament, sembla que ella és l'única que s'ho pren seriosament, ja que els bessons no paren de queixar-se, i fins i tot l'Edmond la deixa plantada uns moments abans de la representació. Finalment, es desanima i decideix rendir-se, però el Pinxo i el Timbal han tingut una idea per poder tirar endavant l'espectacle...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-25T02:30:15+02:00",
-        "stop": "2026-08-25T03:20:31+02:00",
-        "title": "El gran camí",
-        "subtitle": "El Camí Inca - Perú",
-        "description": "Aquest episodi ens duu fins al Perú, a Sud-amèrica, per atènyer a peu una de les set meravelles del món: el Machu Picchu. Els camins de l'Inca és una ruta que els inques van mantenir en secret durant segles, i que ara s'ha rescatat per visitar el Machu Picchu caminant a través dels boscos subtropicals andins en un viatge inoblidable. ",
+        "start": "2026-08-25T04:14:05+02:00",
+        "stop": "2026-08-25T04:39:20+02:00",
+        "title": "Viure als Pirineus",
+        "subtitle": "Un hoteler dels Pirineus (Tardor - Hivern))",
+        "description": "Cinto Gabriel és hoteler, però quan arriba la tardor i els clients són menys nombrosos, ho aprofita per fer excursions i sortir de l'hotel. En aquest cas, ho fa amb la Coloma, la petita de la casa, que sembla voler seguir la seva petja, i evoquen la història familiar durant la Guerra Civil. Un altre dia ho fa també amb la Lluïsa, la seva dona, i evoquen els seus primers records com a parella.Quan s'acosta Tots Sants, en Cinto també cultiva l'art de les flors per honorar els seus avantpassats. I més tard, als volts de Nadal, temps de vacances per a la majoria, per ell és el moment de tornar al bosc a buscar molsa i altres materials, ja que ha arribat el moment de fer el pessebre. Una col·lecció més que cultiva des de petit. Per Nadal, en Cinto tanca l'hotel, per fi pot dedicar el seu temps a altres aficions. I, com que també li agrada el teatre, actua en una companyia d'Esterri d'Àneu. Ara assagen una versió d''Els pastorets' que reflecteix prou bé el que passa a les seves muntanyes. Els protagonistes són contrabandistes, emigrants clandestins i gent del país enmig d'un paisatge nevat. I amb la primera neu esquia tot evocant la seva infància, però les vacances s'acaben i demà tornarà a fer d'hoteler, el centre de la seva vida.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-25T03:20:31+02:00",
-        "stop": "2026-08-25T03:47:09+02:00",
+        "start": "2026-08-25T04:39:20+02:00",
+        "stop": "2026-08-25T05:05:53+02:00",
         "title": "Viure als Pirineus",
-        "subtitle": "Un hoteler dels Pirineus (Primavera - Estiu)",
-        "description": "En Cinto Gabriel és fill d'una nissaga d'hotelers que regenta l'hotel Cardós ajudat per la família. La seva feina és l'atenció als clients, però, en realitat, fa una mica de tot.En Cinto és un col·leccionista nat del qual se'n podria destacar la passió pels bolets, per les papallones o per la fotografia, entre moltes altres. Aficions totes inculcades per antics clients. Però on se sent realment lliure és a dalt de les muntanyes on gaudeix dels seus paisatges preferits, tant per tradició familiar com per la seva bellesa natural, com el pla de Nèqua, a 2.000 metres. Un lloc on els seus clients acostumen a anar-hi un any sí i l'altre també. Amb tot, la seva afició més gran és l'òpera. N'escolta cada dia i l'ha incorporat a tots els actes importants de la seva vida, i això l'ha portat a abocar-se també en la conservació activa del patrimoni històric de la vall de Cardós, participant en el teatre o fent de campaner.",
+        "subtitle": "Un guarda de refugi dels Pirineus (Tardor - Hivern)",
+        "description": "D'ençà que en Jean s'ha jubilat, l'Anthony i la Camille ara són els nous guardes del refugi Jeandel. Aquesta primera temporada serà tota una prova per a la jove parella perquè la neu arriba tard al massís de La Pierre-Saint-Martin.Tot i això, l'Anthony i la Camille no perden l'esperança i conserven la motivació i l'entusiasme. Volen demostrar a en Jean que estan a l'alçada de la tasca que els espera. Dignes hereus de l'anterior guarda, acullen cordialment els visitants i conserven l'ambient agradable i obert del refugi. L'Anthony i la Camille saben que poden comptar amb en Jean, que no és mai gaire lluny i que sempre està disposat a compartir la seva experiència de tants anys.En Jean està satisfet, sap que ha sabut transmetre als seus fills la seva passió, el seu gust per compartir les coses i per interactuar amb la gent. D'aquesta manera, els amants de la muntanya podran gaudir encara durant molt temps de la calidesa de l'acollida del refugi Jeandel.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
