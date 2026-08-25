@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T08:59:22.942545+00:00",
+  "updated": "2026-08-25T09:41:45.057674+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,34 +103,25 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-25T10:54:12+02:00",
-        "stop": "2026-08-25T11:06:34+02:00",
+        "start": "2026-08-25T11:40:31+02:00",
+        "stop": "2026-08-25T11:52:50+02:00",
         "title": "Les Sisters",
-        "subtitle": "Retorn a la natura",
-        "description": "La Marine i la Wendy s'estan tornant unes capritxoses. Els seus pares decideixen passar amb elles un cap de setmana a la muntanya. No hi ha res millor que viure en contacte amb la naturalesa per retrobar l'autèntic valor de les coses! Però com podran passar les germanes un cap de setmana sense pantalles i sense botigues? Quin desastre! Han de fer el que sigui perquè els seus pares renunciïn a la seva idea.",
+        "subtitle": "Les Sisters Panteres",
+        "description": "La Marine i les seves amigues espien la Wendy i el Maxence al parc quan, de sobte, el Maxence s'aixeca i crida: 'Gol'. Estava mirant un partit de futbol mentre feia un petó a la Wendy! La Wendy es pensa que al Maxou li agrada més el futbol que ella. Però apareix la Marine per salvar la seva germana. Potser la millor manera perquè els dos colomins facin les paus és jugar junts a futbol!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-25T11:06:34+02:00",
-        "stop": "2026-08-25T11:17:56+02:00",
-        "title": "Les Sisters",
-        "subtitle": "La festa del corconet",
-        "description": "És l'aniversari de la Marine i la Wendy li vol organitzar la seva primera festa de gran. Al corconet li fa moltíssima il·lusió. Però es fa enrere quan descobreix que a les seves festes, els grans ballen enganxats i les noies i els nois es fan petons... ecs, quin fàstic! La Marine ha de sabotejar la seva festa, com sigui!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-25T11:52:50+02:00",
+        "stop": "2026-08-25T12:06:17+02:00",
+        "title": "Ghost Rockers",
+        "subtitle": "",
+        "description": "Els Ghost Rockers tenen uns quants motius d'alegria: en Jimmy i la Charlie s'han fet el primer petó i l'Alex i en Jules s'han reconciliat. A més, el pla de la Mila d'infiltrar-se a la Serp d'Or sembla que ha funcionat i sent una conversa molt reveladora. Mentrestant, en Jimmy ha de presentar l'obra per classificar-se al concurs de musicals. Aconseguirà guanyar a l'escola de l'envejosa Maaike?",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-25T10:48:21+02:00",
-        "stop": "2026-08-25T11:16:18+02:00",
-        "title": "Després de tu",
-        "subtitle": "De sofà en sofà",
-        "description": "CAP 14. DE SOFÀ EN SOFÀPau inicia una teràpia de dol mentre intenta averiguar, amb desesperació, on està Òscar després d'haver-se'n anat de casa d'Artur. Quan sembla que res pot empitjorar, Pau rep una telefonada de l'hospital de La Marina amb notícies d'Encarna.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
-      },
       {
         "start": "2026-08-25T11:16:18+02:00",
         "stop": "2026-08-25T12:12:47+02:00",
@@ -139,6 +130,15 @@
         "description": "Lluís Marquina és el convidat d'aquesta setmana al 'Persona infiltrada'. El periodista i presentador del 'Tot es mou' s'enfrontarà a una de les famílies més peculiars que han passat pel programa: una família on un ex i una nova parella poden conviure plàcidament... El programa es trasllada a Santa Fe del Penedès, on el Lluís haurà d'estar molt despert per copsar totes les particularitats d'una estructura familiar ben original. Tindrem també alguns esbossos de la vida al camp amb diverses proves on les gallines i els ous seran els protagonistes. I, a més, molts dubtes, un escorcoll domiciliari, un interrogatori i, sobretot, nervis, misteri i diversió. Al final de la jornada, el Lluís haurà d'assenyalar un dels membres de la família. Si encerta la persona infiltrada, un espectador s'endurà els 5.000 &euro; per sorteig. Però si la família aconsegueix enredar-lo, seran ells i la persona infiltrada els que es quedaran el premi del programa.",
         "genre": "CONCURS",
         "image": ""
+      },
+      {
+        "start": "2026-08-25T12:12:47+02:00",
+        "stop": "2026-08-25T12:48:01+02:00",
+        "title": "Tot o res",
+        "subtitle": "Tot o res",
+        "description": "",
+        "genre": "CONCURS",
+        "image": "http://statics.ccma.cat/multimedia/jpg/3/7/1487784560073.jpg"
       }
     ],
     "oca1": [],
