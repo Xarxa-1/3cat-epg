@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T22:53:28.119335+00:00",
+  "updated": "2026-08-25T23:20:47.480483+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-26T00:30:00+02:00",
-        "stop": "2026-08-26T01:00:00+02:00",
+        "start": "2026-08-26T01:00:00+02:00",
+        "stop": "2026-08-26T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-26T01:00:00+02:00",
-        "stop": "2026-08-26T06:00:00+02:00",
+        "start": "2026-08-26T06:00:00+02:00",
+        "stop": "2026-08-26T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-26T00:49:52+02:00",
-        "stop": "2026-08-26T01:10:30+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Taques al desert",
-        "description": "El Chris està enfeinat organitzant els discos de poder animal, quan reben una trucada del Manuel, un dels membres de l'equip dels germans Kratt que viu al desert de Sonora. Diu que ha vist un ocelot vora casa seva. Un ocelot al desert? És molt estrany, ja que aquests felins salvatges acostumen a viure a la selva. L'equip dels germans Kratt es proposa una nova missió animal: trobar un ocelot al desert.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
         "start": "2026-08-26T01:10:30+02:00",
         "stop": "2026-08-26T01:22:17+02:00",
         "title": "Les Sisters",
         "subtitle": "Les germanes ventafocs",
         "description": "La Wendy i la Marine descobreixen que els seus pares van a un concert del Joy D. sense elles. S'adonen llavors que no ajuden gens ni mica en les feines de casa. Amb l'esperança de rebre una recompensa, decideixen fer dissabte. Però a força de netejar i endreçar, s'acaben tornant maniàtiques de la neteja i es converteixen en les germanes Ventafocs!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
+      },
+      {
+        "start": "2026-08-26T01:22:17+02:00",
+        "stop": "2026-08-26T01:33:38+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Missió papa i mama",
+        "description": "Missió molt arriscada per les dues germanes. Es pensen que els pares han discutit per culpa seva i perquè facin les paus volen preparar-los un sopar romàntic. La Wendy i la Marine inicien una batalla de 'sorpreses romàntiques' i comencen a discutir. El sopar amb espelmes corre el risc de convertir-se en una autèntica desgràcia...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
