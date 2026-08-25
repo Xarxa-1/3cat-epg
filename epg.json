@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T11:22:19.220834+00:00",
+  "updated": "2026-08-25T11:53:23.254514+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -54,15 +54,6 @@
     ],
     "324": [
       {
-        "start": "2026-08-25T10:00:00+02:00",
-        "stop": "2026-08-25T13:30:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
         "start": "2026-08-25T13:30:00+02:00",
         "stop": "2026-08-25T14:00:00+02:00",
         "title": "Notícies 3CatInfo",
@@ -70,6 +61,15 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-25T14:00:00+02:00",
+        "stop": "2026-08-25T14:30:00+02:00",
+        "title": "Telenotícies comarques",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "esport3": [
@@ -94,34 +94,25 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-25T12:51:07+02:00",
-        "stop": "2026-08-25T13:11:46+02:00",
-        "title": "Les Tortugues Ninja",
-        "subtitle": "Carmaggedon!",
-        "description": "El Raphael ha de lluitar contra els grans líders dels dos clans de guerrers de la carretera per guanyar-se la seva lleialtat. Però després, encara s'haurà d'enfrontar amb l'enemic més temut de tota l'estepa, si vol arribar al Paradís Verd que busca tothom.",
+        "start": "2026-08-25T13:34:22+02:00",
+        "stop": "2026-08-25T13:55:40+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El cas de l'assassinat de les fotografies d'exclusives",
+        "description": "En Kogoro rep d'un client una invitació per assistir a l'entrega d'un premi de fotografia molt prestigiós. En Conan i la Ran l'hi acompanyen. El guanyador del guardó és en Ryuichi Yanase, un fotògraf que s'ha especialitzat en instantànies espectaculars d'incendis. Un periodista, el senyor Nakai, se'n burla. Al cap d'unes hores, es produeix un incendi al domicili d'en Nakai i en Yanase el fotografia caient envoltat en flames pel balcó.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-25T13:11:46+02:00",
-        "stop": "2026-08-25T13:34:22+02:00",
+        "start": "2026-08-25T13:55:40+02:00",
+        "stop": "2026-08-25T14:16:26+02:00",
         "title": "El detectiu Conan",
-        "subtitle": "El cas de la mansió misteriosa de la banda de malfactors (2a part)",
-        "description": "En Conan comença a lligar caps: l'hora en què s'activen els rellotges digitals, la inicial que porten al cap els dimonis que surten del rellotge de cucut, el mirall adherit a la taula del despatx, el recull de retalls de diari sobre els Bandits de l'Huracà, la bossa de pals de golf... Tot sembla indicar que el difunt senyor Monjiro havia ideat un elaborat joc de pistes amb un objectiu concret.",
+        "subtitle": "El cas del misteri d'en Mogra l'extraterrestre (1a part)",
+        "description": "El senyor Watanuki es nega a tornar una pilota de beisbol als nens de la Lliga de Detectius Júnior. Resignats, se'n van tots al despatx d'en Kogoro, on arriba un tal Masao Koda, que explica que busca la seva germana Sanae. Segons ell, la va assassinar un client insatisfet amb la seva gestió financera. El presumpte homicida és, casualment, el senyor Watanuki. En Koda afirma que l'home la té enterrada al jardí.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-25T12:48:01+02:00",
-        "stop": "2026-08-25T13:48:47+02:00",
-        "title": "Atrapa'm si pots - Especials",
-        "subtitle": "Atrapa'm si pots - estiu",
-        "description": "",
-        "genre": "CONCURS",
-        "image": ""
-      },
       {
         "start": "2026-08-25T13:48:47+02:00",
         "stop": "2026-08-25T14:41:16+02:00",
@@ -130,23 +121,22 @@
         "description": "Amb l'Allan Edward Hinton viatgem pel Pallars Jussà i la Noguera. Aquest experimentat viatger descobreix, amb la Ivana Miño, l'especial gastronomia de la zona i algun dels paisatges més espectaculars de Catalunya.",
         "genre": "ALTRES",
         "image": ""
-      }
-    ],
-    "oca1": [
+      },
       {
-        "start": "2026-08-25T12:32:38+02:00",
-        "stop": "2026-08-25T14:32:33+02:00",
-        "title": "Roda de premsa posterior al Consell Executiu",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/2/1723647268726.jpg"
+        "start": "2026-08-25T14:41:16+02:00",
+        "stop": "2026-08-25T15:27:02+02:00",
+        "title": "La Renaixença",
+        "subtitle": "El molí",
+        "description": "Molins de vent, molins d'aigua, molins eòlics, molinets de jardí... En teniu algun enganxat a una torratxa del balcó? Avui dediquem el capítol al molí, que les últimes setmanes deuen haver tingut feina amb ratxes de vent de gairebé 200?km/h. Ve a xerrar una estona la Tina Diedhiou, model de marques tan importants com Prada. Va venir del Senegal a Artés en plena pandèmia per amor. Li demanarem què en pensa d'Artés, que sempre ens fa gràcia parlar de nosaltres mateixos. Sortim a passejar amb en Ramon per la defensa de la Corunya del 1589.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
+    "oca1": [],
     "oca2": [
       {
-        "start": "2026-08-25T12:25:00+02:00",
-        "stop": "2026-08-25T14:29:55+02:00",
+        "start": "2026-08-25T13:42:54+02:00",
+        "stop": "2026-08-25T15:42:49+02:00",
         "title": "Roda de premsa posterior al Consell de Ministres",
         "subtitle": "",
         "description": "",
