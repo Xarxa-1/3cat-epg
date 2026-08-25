@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T02:36:10.577163+00:00",
+  "updated": "2026-08-25T03:30:14.839986+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-25T04:30:00+02:00",
-        "stop": "2026-08-25T05:09:54+02:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Martí Ventura Trio",
-        "description": "Martí Ventura Trio presenta el seu tercer treball discogràfic: 'Transicions'. La complicitat i el diàleg constant entre els membres del trio, fan que les composicions del pianista es converteixin en un joc musical d'allò més orgànic. Miquel Àngel Cordero al contrabaix, Lluís Ribalta a la bateria i Martí Ventura al piano.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
         "start": "2026-08-25T05:09:54+02:00",
         "stop": "2026-08-25T05:54:47+02:00",
         "title": "Cava de Blues",
@@ -59,6 +50,15 @@
         "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
         "genre": "JAZZ",
         "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+      },
+      {
+        "start": "2026-08-25T05:54:47+02:00",
+        "stop": "2026-08-25T05:58:22+02:00",
+        "title": "Videoclips",
+        "subtitle": "Manu Guix - Com dues gotes d'aigua",
+        "description": "",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
@@ -103,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-25T04:23:20+02:00",
-        "stop": "2026-08-25T04:44:21+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Veritat",
-        "description": "Des que es va convertir en la nova guardiana de la Capsa dels Prodigis, la Marinette està desbordada. Ja no queda amb els seus amics, deixa plantat el Gat Noir i falla a totes les cites amb el Luka. Ell està convençut que la Marinette té un secret, però ella no l'hi pot dir que quan desapareix és perquè es transforma en Ladybug i salva París. El Luka està molt dolgut perquè la Marinette no confia prou en ell per explicar-li el seu secret, i l'Esfinx se n'aprofita per transformar-lo en Veritat. Ara té el poder d'obligar la gent a dir la veritat i vol descobrir el secret de la Marinette... i el de Ladybug i el Gat Negre també!",
+        "start": "2026-08-25T05:19:16+02:00",
+        "stop": "2026-08-25T05:30:50+02:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "La tómbola",
+        "description": "A la Guineta li encantaria guanyar el premi de la tómbola d'aquest any: un lot de pintures de tots els colors que sembla fet a mida per a ella! Així que, quan s'assabenta que els trapelles del Gatmoix i el Gatmoll tenen la intenció de fer trampes per guanyar el premi i malbaratar-lo... decideix fer trampes ella també per evitar-ho.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-25T04:44:21+02:00",
-        "stop": "2026-08-25T04:56:16+02:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "L'espectacle de la Guineta",
-        "description": "És el dia dels avis, i la Guineta decideix preparar-los un espectacle com a regal. Malauradament, sembla que ella és l'única que s'ho pren seriosament, ja que els bessons no paren de queixar-se, i fins i tot l'Edmond la deixa plantada uns moments abans de la representació. Finalment, es desanima i decideix rendir-se, però el Pinxo i el Timbal han tingut una idea per poder tirar endavant l'espectacle...",
+        "start": "2026-08-25T05:30:50+02:00",
+        "stop": "2026-08-25T05:37:30+02:00",
+        "title": "El xai Shaun",
+        "subtitle": "Ídol de pega",
+        "description": "No has de conèixer els teus herois. L'ídol del rock and roll del granger acaba perdut a la granja quan se li espatlla la seva limusina. De seguida es comença a veure que és un hipòcrita consentit i en Shaun decideix donar-li una bona lliçó des de l'Escola de Rock.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-25T04:14:05+02:00",
-        "stop": "2026-08-25T04:39:20+02:00",
-        "title": "Viure als Pirineus",
-        "subtitle": "Un hoteler dels Pirineus (Tardor - Hivern))",
-        "description": "Cinto Gabriel és hoteler, però quan arriba la tardor i els clients són menys nombrosos, ho aprofita per fer excursions i sortir de l'hotel. En aquest cas, ho fa amb la Coloma, la petita de la casa, que sembla voler seguir la seva petja, i evoquen la història familiar durant la Guerra Civil. Un altre dia ho fa també amb la Lluïsa, la seva dona, i evoquen els seus primers records com a parella.Quan s'acosta Tots Sants, en Cinto també cultiva l'art de les flors per honorar els seus avantpassats. I més tard, als volts de Nadal, temps de vacances per a la majoria, per ell és el moment de tornar al bosc a buscar molsa i altres materials, ja que ha arribat el moment de fer el pessebre. Una col·lecció més que cultiva des de petit. Per Nadal, en Cinto tanca l'hotel, per fi pot dedicar el seu temps a altres aficions. I, com que també li agrada el teatre, actua en una companyia d'Esterri d'Àneu. Ara assagen una versió d''Els pastorets' que reflecteix prou bé el que passa a les seves muntanyes. Els protagonistes són contrabandistes, emigrants clandestins i gent del país enmig d'un paisatge nevat. I amb la primera neu esquia tot evocant la seva infància, però les vacances s'acaben i demà tornarà a fer d'hoteler, el centre de la seva vida.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-08-25T05:05:53+02:00",
+        "stop": "2026-08-25T05:35:22+02:00",
+        "title": "Marcians",
+        "subtitle": "Amants del teatre, teatre amateur",
+        "description": "En el seu darrer musical, 'L'amor venia en taxi', La Cubana fan un homenatge al teatre amateur. No deixa de ser un homenatge a la pròpia companyia, que té les seves arrels en aquesta activitat tan estesa per tot Catalunya.En aquest reportatge fem un recorregut pel país i per diferents grups del que els 'cubaneros' anomenen teatre d'aficionats.L'iniciem amb en Rubèn Montañá un dels intèrprets i coautor de 'L'amor venia en taxi', que es va iniciar en l'ofici a través del Círcol de Badalona, una de les institucions més antigues i amb la qual encara continua vinculat, combinant professionalitat i amateurisme.D'un grup històric passem al Teatre Jove Bellver que celebra el desè aniversari. El 2016 una colla de joves de la Cerdanya al voltant dels 14 anys, va crear el seu propi grup que continua en actiu i ja ha vist com ha inspirat a una segona generació que segueix els seus passos.Molts grups de teatre amateur estan vinculats a ateneus o institucions en què hi conviuen diferents activitats. Aquest és el cas d'un altre espai més que centenari, el Centre de Llorenç del Penedès. S'hi fan produccions en què hi arriben a participar més de cent persones i l'any que acabem de deixar enrere han arribat a estrenar quatre obres diferents.I acabem aquest circuit amb un grup amb més de trenta anys d'història i dels més singulars del país. Es tracta de Tràfec Teatre, una agrupació que s'ha especialitzat en el teatre de gest i visual. Una disciplina aquí sovint vinculada a la comèdia, tot i que elles mai han conreat l'humor, sinó el drama i la tragèdia, sense pronunciar una sola paraula. Aquesta característica també els ha convertit en un dels grups amb més projecció internacional en el circuit amateur europeu.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-08-25T04:39:20+02:00",
-        "stop": "2026-08-25T05:05:53+02:00",
-        "title": "Viure als Pirineus",
-        "subtitle": "Un guarda de refugi dels Pirineus (Tardor - Hivern)",
-        "description": "D'ençà que en Jean s'ha jubilat, l'Anthony i la Camille ara són els nous guardes del refugi Jeandel. Aquesta primera temporada serà tota una prova per a la jove parella perquè la neu arriba tard al massís de La Pierre-Saint-Martin.Tot i això, l'Anthony i la Camille no perden l'esperança i conserven la motivació i l'entusiasme. Volen demostrar a en Jean que estan a l'alçada de la tasca que els espera. Dignes hereus de l'anterior guarda, acullen cordialment els visitants i conserven l'ambient agradable i obert del refugi. L'Anthony i la Camille saben que poden comptar amb en Jean, que no és mai gaire lluny i que sempre està disposat a compartir la seva experiència de tants anys.En Jean està satisfet, sap que ha sabut transmetre als seus fills la seva passió, el seu gust per compartir les coses i per interactuar amb la gent. D'aquesta manera, els amants de la muntanya podran gaudir encara durant molt temps de la calidesa de l'acollida del refugi Jeandel.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-08-25T05:35:22+02:00",
+        "stop": "2026-08-25T05:41:16+02:00",
+        "title": "Xarxa Natura",
+        "subtitle": "Medes",
+        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
       }
     ],
     "oca1": [],
