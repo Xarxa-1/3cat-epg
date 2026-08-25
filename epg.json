@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T10:08:04.477897+00:00",
+  "updated": "2026-08-25T10:48:39.150240+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -74,54 +74,45 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-25T11:43:40+02:00",
-        "stop": "2026-08-25T12:16:50+02:00",
-        "title": "GR Pirineus",
-        "subtitle": "De vall a vall",
-        "description": "Avui el nostre viatge comença a la Vall d'Aran i acaba a la Vall de Boí. Sortirem de Casau, el balcó de Vielha e Mijaran, i travessant el seu famós túnel farem un tram llarg de carretera passant per Senet de Barravés, Vilaller i després ens endinsarem de cap a la Vall de Boí. I què no podem deixar de fer aquí? sobretot descobrir el seu romànic, una meravella. I acabarem el dia a Erill la Vall, on coneixerem uns germans molt vinculats a la vaca bruna: amb un la pasturarem, i amb l'altre..., eeeh!, la tastarem. L'endemà matinarem per passejar pel Parc Nacional d'Aigüestortes i Estany de Sant Maurici. Anirem a Barruera per aprendre a tocar l'acordió diatònic... I tancarem la ruta anant de falles. A València no, a Durro! Una festa molt emblemàtica.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "start": "2026-08-25T12:32:32+02:00",
+        "stop": "2026-08-25T14:04:54+02:00",
+        "title": "Onze",
+        "subtitle": "L'evasió de Julián; pluja de gols a Elx; Mayola, Colegiado i Nin",
+        "description": "Amb Lluís Carrasco, Carles Fité, Aina Cerdà i Jordi Martí parlem dels últims esdeveniments del cas Julián Álvarez i analitzem si la sortida del davanter argentí encara és possible. Comentem la golejada del Barça a Elx per arrencar la lliga, Marc Mayola analitza el partit de Raphinha i de Xavi Espart. Amb Joan Fàbregas analitzem les polèmiques de la jornada i acabem amb l'1X1 d'Òscar Nin.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-08-25T12:16:50+02:00",
-        "stop": "2026-08-25T12:32:30+02:00",
-        "title": "Pastors i ramats: un món que se'n va",
-        "subtitle": "Gemma Clarena",
-        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-08-25T14:04:54+02:00",
+        "stop": "2026-08-25T14:37:30+02:00",
+        "title": "Zona Zàping Club",
+        "subtitle": "Eloi Vila s'arrisca a endevinar l'inenarrable",
+        "description": "Eloi Vila pren part en el concurs 'Això acaba...', on haurà d'endevinar com acaben tres vídeos sorprenents. Mentrestant, el DJ Frande tornarà a demostrar que és capaç de convertir qualsevol moment del programa en una festa... a la seva manera.",
+        "genre": "ESPECIALS",
         "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-25T12:06:17+02:00",
-        "stop": "2026-08-25T12:17:50+02:00",
-        "title": "Ghost Rockers",
-        "subtitle": "",
-        "description": "La Mila descobreix, per fi, com pot demostrar la innocència del seu pare. Per aconseguir-ho, haurà de trobar el calze enverinat de Florència, perquè conté les empremtes dactilars de l'autèntic assassí de l'Helena. En Jonas comença a acostar-se a la Fenne. En Jimmy ha de muntar l'equip per preparar el musical, i sembla que no serà una missió fàcil. Com tampoc ho és la relació entre en Jules i l'Alex, per culpa de l'Emily, la mare d'en Jules.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-25T12:30:15+02:00",
+        "stop": "2026-08-25T12:51:07+02:00",
+        "title": "Les Tortugues Ninja",
+        "subtitle": "El desert impossible",
+        "description": "Tot vagant per una estepa deserta, els nostres amics busquen un ermità misteriós que és la clau per trobar el mític Oasi.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-25T12:17:50+02:00",
-        "stop": "2026-08-25T12:30:15+02:00",
-        "title": "Ghost Rockers",
-        "subtitle": "",
-        "description": "L'alegria de la Charlie i en Jimmy contrasta amb la decepció de l'Alex, que ha sabut que en Jules ha acordat amb la seva mare que el deixarà de veure. La Mila està desesperada: en Brandon li fa el buit i tria una altra parella de ball, i el nou professor de dansa també se li posa en contra. Mentrestant, en Jonas vol esbrinar la relació entre la ballarina de Bolxoi i el calze enverinat de Florència.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-25T12:51:07+02:00",
+        "stop": "2026-08-25T13:11:46+02:00",
+        "title": "Les Tortugues Ninja",
+        "subtitle": "Carmaggedon!",
+        "description": "El Raphael ha de lluitar contra els grans líders dels dos clans de guerrers de la carretera per guanyar-se la seva lleialtat. Però després, encara s'haurà d'enfrontar amb l'enemic més temut de tota l'estepa, si vol arribar al Paradís Verd que busca tothom.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-25T11:16:18+02:00",
-        "stop": "2026-08-25T12:12:47+02:00",
-        "title": "Persona Infiltrada",
-        "subtitle": "Lluís Marquina - família Surià Calvo",
-        "description": "Lluís Marquina és el convidat d'aquesta setmana al 'Persona infiltrada'. El periodista i presentador del 'Tot es mou' s'enfrontarà a una de les famílies més peculiars que han passat pel programa: una família on un ex i una nova parella poden conviure plàcidament... El programa es trasllada a Santa Fe del Penedès, on el Lluís haurà d'estar molt despert per copsar totes les particularitats d'una estructura familiar ben original. Tindrem també alguns esbossos de la vida al camp amb diverses proves on les gallines i els ous seran els protagonistes. I, a més, molts dubtes, un escorcoll domiciliari, un interrogatori i, sobretot, nervis, misteri i diversió. Al final de la jornada, el Lluís haurà d'assenyalar un dels membres de la família. Si encerta la persona infiltrada, un espectador s'endurà els 5.000 &euro; per sorteig. Però si la família aconsegueix enredar-lo, seran ells i la persona infiltrada els que es quedaran el premi del programa.",
-        "genre": "CONCURS",
-        "image": ""
-      },
       {
         "start": "2026-08-25T12:12:47+02:00",
         "stop": "2026-08-25T12:48:01+02:00",
@@ -130,11 +121,50 @@
         "description": "",
         "genre": "CONCURS",
         "image": "http://statics.ccma.cat/multimedia/jpg/3/7/1487784560073.jpg"
+      },
+      {
+        "start": "2026-08-25T12:48:01+02:00",
+        "stop": "2026-08-25T13:48:47+02:00",
+        "title": "Atrapa'm si pots - Especials",
+        "subtitle": "Atrapa'm si pots - estiu",
+        "description": "",
+        "genre": "CONCURS",
+        "image": ""
       }
     ],
-    "oca1": [],
-    "oca2": [],
-    "oca3": [],
+    "oca1": [
+      {
+        "start": "2026-08-25T12:32:38+02:00",
+        "stop": "2026-08-25T14:32:33+02:00",
+        "title": "Roda de premsa posterior al Consell Executiu",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/6/2/1723647268726.jpg"
+      }
+    ],
+    "oca2": [
+      {
+        "start": "2026-08-25T12:25:00+02:00",
+        "stop": "2026-08-25T14:29:55+02:00",
+        "title": "Roda de premsa posterior al Consell de Ministres",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/6/2/1723647268726.jpg"
+      }
+    ],
+    "oca3": [
+      {
+        "start": "2026-08-25T12:27:32+02:00",
+        "stop": "2026-08-25T14:27:27+02:00",
+        "title": "Compareixença al Congrés de la ministra de Defensa, Margarita Robles, per la crisi a Ceuta",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/8/2/1787576145828.jpg"
+      }
+    ],
     "oca4": []
   }
 }
