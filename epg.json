@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T17:26:50.099440+00:00",
+  "updated": "2026-08-25T17:56:04.813775+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,21 +103,21 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-25T19:20:03+02:00",
-        "stop": "2026-08-25T19:41:09+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "Missió Peluda: La Patrulla salva el tron reial",
-        "description": "La Sweetie ha tornat a idear un pla malvat per ser la reina de Bordaburg. Aquesta vegada, vol robar el tron reial! Ho podrà evitar, la Patrulla Peluda?",
+        "start": "2026-08-25T19:53:04+02:00",
+        "stop": "2026-08-25T20:15:48+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Un dia de gossos",
+        "description": "La Sam, la Clover i l'Alex han de cuidar el gos d'en Jerry, però la Zerlina necessita les espies per esbrinar per què en un castell de la reialesa europea desapareixen peces de gran valor. Com que han de resoldre el cas de seguida, abans que el lladre no robi una maça molt preada, la Zerlina envia les noies al castell dels Tibats amb el gos d'en Jerry, el Quisso.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-08-25T19:41:09+02:00",
-        "stop": "2026-08-25T19:53:03+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla salva en Gegant Pelut",
-        "description": "La Patrulla ha de fer pujar un mico gegant al Patrullabús per tornar-lo a la selva.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-25T20:15:48+02:00",
+        "stop": "2026-08-25T20:36:55+02:00",
+        "title": "Henry Danger",
+        "subtitle": "Sé el teu secret",
+        "description": "En Henry rep una nota misteriosa d'algú que diu que coneix el seu secret, mentre la Piper munta un negoci improvisat de bronzejat a casa.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
