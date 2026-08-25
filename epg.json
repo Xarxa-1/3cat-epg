@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T21:22:09.738737+00:00",
+  "updated": "2026-08-25T21:52:08.689319+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -84,7 +84,7 @@
     "esport3": [
       {
         "start": "2026-08-25T23:00:04+02:00",
-        "stop": "2026-08-26T00:31:24+02:00",
+        "stop": "2026-08-26T00:31:25+02:00",
         "title": "Onze",
         "subtitle": "Operació sortida; Segueix el pols per Julián i 'Onzeclopèdia'",
         "description": "Fem tertúlia amb Sique Rodríguez, Ivan san Antonio, Irati Vidal i Víctor Lozano. Actualitzem el cas Julián amb Juan Gato, Joaquín Maroto ens parla del Reial Madrid i torna l'Onzeclopèdia de Fran Domènech. Acabem amb l'1x1 d'Òscar Nin.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-08-26T00:31:24+02:00",
-        "stop": "2026-08-26T00:52:21+02:00",
+        "start": "2026-08-26T00:31:25+02:00",
+        "stop": "2026-08-26T00:52:22+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,20 +103,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-25T23:07:32+02:00",
-        "stop": "2026-08-25T23:28:31+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El cas del misteri d'en Mogra l'extraterrestre (2a part)",
-        "description": "El senyor Koda enterra les joies robades en multitud de forats repartits pel jardí del senyor Watanuki. A continuació, truca a la policia i s'entrega. Com sospitava en Conan, en Koda pretén que la policia busqui les joies i, de passada, trobi el cadàver de la seva germana Sanae. Però els esforços de les autoritats són en va. Tanmateix, en Conan està convençut que en Watanuki sí que va assassinar-la.",
+        "start": "2026-08-25T23:49:24+02:00",
+        "stop": "2026-08-26T00:09:33+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Hèrcules, l'escarabat gegant",
+        "description": "L'equip dels germans Kratt és a la selva pluvial de l'Amèrica Central per estudiar les característiques de l'escarabat hèrcules, l'escarabat més gros i més fort que hi ha. A causa d'un accident amb el miniaturitzador, un escarabat d'aquests es fa més gros i es transforma en un escarabat gegant que amenaça de destruir la selva i una ciutat que hi ha a prop. L'equip dels germans Kratt haurà de trobar la manera d'evitar-ho i de fer-lo tornar a la mida normal. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-25T23:28:31+02:00",
-        "stop": "2026-08-25T23:49:24+02:00",
+        "start": "2026-08-26T00:09:33+02:00",
+        "stop": "2026-08-26T00:29:42+02:00",
         "title": "Els germans Kratt",
-        "subtitle": "L'exterminiador",
-        "description": "Arriba l'hivern i la majoria d'ocells volen cap al sud, però alguns, com la mallerenga, no migren. L'Aviva promet als germans Kratt que si són capaços de trobar uns quants poders d'aquest ocell, els en farà un vestit de poder. Mentre estudien les mallerengues, el Martin es distreu amb un animal que passa corrents, se separa del Chris i li cau l'animal-pod. Quan veu de prop l'animal que l'ha despistat, s'adona és un ermini.",
+        "subtitle": "Conills de primavera",
+        "description": "Els germans Kratt tenen feina pintant ous de colors per Pasqua. El Chris i el Martin decideixen que seria una aventura genial buscar l'autèntic conill de Pasqua. El Chris creu que hauria de ser una llebre americana, mentre que el Martin creu que hauria de ser una llebre antílop. Decideixen separar-se i el primer es dirigeix al nord, mentre que el segon es dirigeix al sud per mirar de trobar el conill de Pasqua ideal.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
