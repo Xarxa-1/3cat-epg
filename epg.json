@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T18:35:58.435610+00:00",
+  "updated": "2026-08-25T19:17:32.307883+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-25T19:57:35+02:00",
-        "stop": "2026-08-25T21:00:00+02:00",
-        "title": "Atrapa'm si pots, estiu",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
-        "image": ""
-      },
-      {
         "start": "2026-08-25T21:00:00+02:00",
         "stop": "2026-08-25T22:05:02+02:00",
         "title": "Telenotícies vespre",
@@ -59,18 +50,18 @@
         "description": "",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+      },
+      {
+        "start": "2026-08-25T22:00:06+02:00",
+        "stop": "2026-08-25T22:54:52+02:00",
+        "title": "Nits Sense ficció",
+        "subtitle": "Jarabe contra el càncer",
+        "description": "'Jarabe contra el cáncer', dirigit per Albert Solé i coproduït per Minimal Films, TV3 i Movistar, explica la lluita del cantant Pau Donés contra aquesta malaltia, i, alhora, mostra l'univers de l'Hospital de la Vall d'Hebron.Pau Donés i Albert Solé van treballar durant mesos en col·laboració amb el Vall d'Hebron Barcelona Hospital Campus en la realització d'aquest documental que retrata la lluita del cantant contra el càncer de còlon avançat, que se li va diagnosticar l'agost del 2015 i, alhora, una fotografia de com és el dia a dia dels pacients i professionals que conviuen amb aquesta malaltia.En aquesta producció, Pau Donés va decidir donar visibilitat als tractaments a què era sotmès i a les seves pròpies reflexions amb l'objectiu de desestigmatitzar la malaltia i transmetre un missatge positiu. La seva vida, com la de tots els pacients, va canviar radicalment. Ara està pautada pels controls, les cirurgies i les sessions de quimioteràpia que rep periòdicament a l'hospital Vall d'Hebron de Barcelona, un dels més actius en oncologia. El seu missatge és clar: mentre el cos aguanti continuarà fent una vida al més normal possible. Sense drames i amb realisme. Pau Donés ha preparat un nou disc i un llibre anomenats '50 palos' i una nova gira que comença a Mèxic al març, continua a l'abril als Estats Units, on la van deixar quan li van diagnosticar el càncer, i acaba al maig per tot Espanya.El 20 de maig actuarà al Gran Teatre del Liceu.A més, a través de la lluita diària contra la malaltia del Pau, a la qual se suma la de dos pacients més, el Marc Pairó i la Meritxell Jané, i la d'una infermera, la Carolina Buendia, el documental mostra com es mou l'univers de metges, investigadors, infermeres, personal tècnic i administratiu d'un gran hospital públic.",
+        "genre": "DOCUMENTAL",
+        "image": ""
       }
     ],
     "324": [
-      {
-        "start": "2026-08-25T20:00:00+02:00",
-        "stop": "2026-08-25T21:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-08-25T21:00:00+02:00",
         "stop": "2026-08-25T23:00:00+02:00",
@@ -79,65 +70,74 @@
         "description": "",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+      },
+      {
+        "start": "2026-08-25T23:00:00+02:00",
+        "stop": "2026-08-26T00:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-08-25T20:30:52+02:00",
-        "stop": "2026-08-25T21:02:13+02:00",
-        "title": "Crackòvia",
-        "subtitle": "",
-        "description": "El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.",
-        "genre": "GAGS. HUMOR",
-        "image": ""
+        "start": "2026-08-25T21:12:12+02:00",
+        "stop": "2026-08-25T22:28:16+02:00",
+        "title": "Tot Costa",
+        "subtitle": "La decisió amb el 9",
+        "description": "El Barça valora la possibilitat de no fitxar a cap 9 en aquest final de mercat en cas de no poder incorporar a Julián Álvarez. Després de la reunió entre Laporta i Deco, el club ha de decidir quina línia seguir en aquest final de mercat. A més, amb la Laia Bonals i el Santi Giménez parlem del futur de Koundé i Balde i del debut de Mourinho al Bernabéu a la Lliga.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       },
       {
-        "start": "2026-08-25T21:02:13+02:00",
-        "stop": "2026-08-25T21:11:05+02:00",
-        "title": "Zona UFEC",
-        "subtitle": "",
-        "description": "'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.",
-        "genre": "REPORTATGES",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"
+        "start": "2026-08-25T22:28:16+02:00",
+        "stop": "2026-08-25T23:00:00+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Mourinho / Prèvia R. Madrid-R .Societat / J1",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-25T20:15:49+02:00",
-        "stop": "2026-08-25T20:36:56+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Sé el teu secret",
-        "description": "En Henry rep una nota misteriosa d'algú que diu que coneix el seu secret, mentre la Piper munta un negoci improvisat de bronzejat a casa.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-25T21:00:06+02:00",
+        "stop": "2026-08-25T21:22:23+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "En Freezer cau destrossat. Un altre superguerrer",
+        "description": "El jove misteriós que assegura que pot derrotar en Freezer resulta que és un altre superguerrer llegendari. Ben aviat demostrarà la seva gran superioritat i posarà fi a la diabòlica venjança que tenien planejada en Freezer i el seu pare. En Vegeta i companyia es quedaran bocabadats davant de la presència d'un altre superguerrer.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-25T20:36:56+02:00",
-        "stop": "2026-08-25T21:00:00+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Comença el perill (Part 1)",
-        "description": "Un adolescent normal, en Henry Hart, busca una feina i acaba descobrint que el seu nou cap és el superheroi Capità Man.Quan accepta convertir-se en el seu ajudant secret, neix Kid Danger i comença una doble vida plena d'aventures i perills.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-25T21:22:23+02:00",
+        "stop": "2026-08-25T21:41:36+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Quant de temps sense veure'ns! En Son Goku ha tornat",
+        "description": "Després d'haver derrotat i d'haver fet bocins en Freezer i el seu pare sense cap problema, el jove superguerrer anuncia el lloc i l'hora exacta de l'arribada d'en Son Goku a la Terra. El més sorprenent de tot és que quan en Son Goku apareix, tampoc no té idea de qui és el jove misteriós. Pot ser que vingui d'un altre temps?",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-25T20:33:45+02:00",
-        "stop": "2026-08-25T20:59:48+02:00",
-        "title": "Els hotels més remots del món",
-        "subtitle": "Qasr Al Sarab d'Anantara - Emirats Àrabs Units",
-        "description": "Enclavat en una vall desèrtica enmig d'immenses dunes, i davant d'unes salines, l'hotel destaca amb les seves torres de pedra, grans enreixats i fonts d'aigua, recordant una antiga fortalesa àrab. Qasr Al Sarab és pràcticament l'única estructura en un radi de diversos quilòmetres: un vaixell solitari a la deriva en un mar de sorra. L'hotel, per tant, ha de satisfer les seves pròpies necessitats. L'hotel recicla tota la seva aigua, té la seva pròpia planta de tractament i fins i tot cultiva les seves pròpies fruites i verdures en un hivernacle al desert. Va ser elegit com el gran hotel més sostenible del món l'any 2022.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-08-25T21:10:12+02:00",
+        "stop": "2026-08-25T21:39:43+02:00",
+        "title": "Plats bruts",
+        "subtitle": "Tenim un merder",
+        "description": "El David i el Lopes no saben què fer amb un paquet de droga que els ha arribat per equivocació. D'altra banda, el Pol, l'Emma i el Ramon estan fent una timba de pòquer al bar Maurici.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       },
       {
-        "start": "2026-08-25T20:59:48+02:00",
-        "stop": "2026-08-25T21:00:57+02:00",
-        "title": "SENSE FI CANAL 33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-08-25T21:39:43+02:00",
+        "stop": "2026-08-25T22:05:20+02:00",
+        "title": "Plats bruts",
+        "subtitle": "Tinc hipoteca",
+        "description": "L'Emma vol demanar l'atur, però li diuen que ha de fer un examen per a un curset: la Carbonell i la Mercedes l'ajudaran. En David i en Lopes es plantegen comprar el pis i demanar una hipoteca.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       }
     ],
