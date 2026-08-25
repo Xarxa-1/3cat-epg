@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T09:41:45.057674+00:00",
+  "updated": "2026-08-25T10:08:04.477897+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,17 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-25T10:00:00+02:00",
-        "stop": "2026-08-25T11:55:27+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-08-25T11:55:22+02:00",
-        "stop": "2026-08-25T11:59:59+02:00",
+        "start": "2026-08-25T12:00:00+02:00",
+        "stop": "2026-08-25T13:29:52+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,40 +74,40 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-25T10:56:47+02:00",
-        "stop": "2026-08-25T11:43:39+02:00",
-        "title": "Cosins Germans",
-        "subtitle": "Entre dos móns",
-        "description": "Hi ha cultures paganes que dividien l'any en dos grans períodes: el temps clar, associat a la vida, i el fosc, relacionat amb la mort. Simbòlicament, la tardor marca l'època de transició entre tots dos mons. Al Matarranya, Ferran i Araceli Segarra cercaran bolets en els boscos màgics de la tardor. Amb Elisabet Carnicé, viurem la vigília de Tots Sants a Viladrau, en companyia de bruixes de tota mena. I al cementiri de Montjuïc, Ferran i Llucia Ramis recordaran alguns difunts emblemàtics.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-25T11:43:39+02:00",
-        "stop": "2026-08-25T12:16:49+02:00",
+        "start": "2026-08-25T11:43:40+02:00",
+        "stop": "2026-08-25T12:16:50+02:00",
         "title": "GR Pirineus",
         "subtitle": "De vall a vall",
         "description": "Avui el nostre viatge comença a la Vall d'Aran i acaba a la Vall de Boí. Sortirem de Casau, el balcó de Vielha e Mijaran, i travessant el seu famós túnel farem un tram llarg de carretera passant per Senet de Barravés, Vilaller i després ens endinsarem de cap a la Vall de Boí. I què no podem deixar de fer aquí? sobretot descobrir el seu romànic, una meravella. I acabarem el dia a Erill la Vall, on coneixerem uns germans molt vinculats a la vaca bruna: amb un la pasturarem, i amb l'altre..., eeeh!, la tastarem. L'endemà matinarem per passejar pel Parc Nacional d'Aigüestortes i Estany de Sant Maurici. Anirem a Barruera per aprendre a tocar l'acordió diatònic... I tancarem la ruta anant de falles. A València no, a Durro! Una festa molt emblemàtica.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+      },
+      {
+        "start": "2026-08-25T12:16:50+02:00",
+        "stop": "2026-08-25T12:32:30+02:00",
+        "title": "Pastors i ramats: un món que se'n va",
+        "subtitle": "Gemma Clarena",
+        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-25T11:40:31+02:00",
-        "stop": "2026-08-25T11:52:50+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Les Sisters Panteres",
-        "description": "La Marine i les seves amigues espien la Wendy i el Maxence al parc quan, de sobte, el Maxence s'aixeca i crida: 'Gol'. Estava mirant un partit de futbol mentre feia un petó a la Wendy! La Wendy es pensa que al Maxou li agrada més el futbol que ella. Però apareix la Marine per salvar la seva germana. Potser la millor manera perquè els dos colomins facin les paus és jugar junts a futbol!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-25T12:06:17+02:00",
+        "stop": "2026-08-25T12:17:50+02:00",
+        "title": "Ghost Rockers",
+        "subtitle": "",
+        "description": "La Mila descobreix, per fi, com pot demostrar la innocència del seu pare. Per aconseguir-ho, haurà de trobar el calze enverinat de Florència, perquè conté les empremtes dactilars de l'autèntic assassí de l'Helena. En Jonas comença a acostar-se a la Fenne. En Jimmy ha de muntar l'equip per preparar el musical, i sembla que no serà una missió fàcil. Com tampoc ho és la relació entre en Jules i l'Alex, per culpa de l'Emily, la mare d'en Jules.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-08-25T11:52:50+02:00",
-        "stop": "2026-08-25T12:06:17+02:00",
+        "start": "2026-08-25T12:17:50+02:00",
+        "stop": "2026-08-25T12:30:15+02:00",
         "title": "Ghost Rockers",
         "subtitle": "",
-        "description": "Els Ghost Rockers tenen uns quants motius d'alegria: en Jimmy i la Charlie s'han fet el primer petó i l'Alex i en Jules s'han reconciliat. A més, el pla de la Mila d'infiltrar-se a la Serp d'Or sembla que ha funcionat i sent una conversa molt reveladora. Mentrestant, en Jimmy ha de presentar l'obra per classificar-se al concurs de musicals. Aconseguirà guanyar a l'escola de l'envejosa Maaike?",
+        "description": "L'alegria de la Charlie i en Jimmy contrasta amb la decepció de l'Alex, que ha sabut que en Jules ha acordat amb la seva mare que el deixarà de veure. La Mila està desesperada: en Brandon li fa el buit i tria una altra parella de ball, i el nou professor de dansa també se li posa en contra. Mentrestant, en Jonas vol esbrinar la relació entre la ballarina de Bolxoi i el calze enverinat de Florència.",
         "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
