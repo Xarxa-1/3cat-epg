@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T05:46:42.448126+00:00",
+  "updated": "2026-08-25T06:37:46.800133+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,54 +83,45 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-25T06:55:42+02:00",
-        "stop": "2026-08-25T08:29:14+02:00",
-        "title": "Onze",
-        "subtitle": "L'evasió de Julián; pluja de gols a Elx; Mayola, Colegiado i Nin",
-        "description": "Amb Lluís Carrasco, Carles Fité, Aina Cerdà i Jordi Martí parlem dels últims esdeveniments del cas Julián Álvarez i analitzem si la sortida del davanter argentí encara és possible. Comentem la golejada del Barça a Elx per arrencar la lliga, Marc Mayola analitza el partit de Raphinha i de Xavi Espart. Amb Joan Fàbregas analitzem les polèmiques de la jornada i acabem amb l'1X1 d'Òscar Nin.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
-      },
-      {
-        "start": "2026-08-25T08:29:14+02:00",
-        "stop": "2026-08-25T10:01:52+02:00",
+        "start": "2026-08-25T08:29:15+02:00",
+        "stop": "2026-08-25T10:01:53+02:00",
         "title": "Handbol",
         "subtitle": "Barça-BM Granollers / Supercopa Catalunya masculina / Final",
         "description": "Final masculina de la Supercopa de Catalunya d'handbol des del Pavelló Municipal d'Esports del Parc Dalmau, a Calella.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.3cat.cat/multimedia/jpg/9/3/1784292968539.jpg"
+      },
+      {
+        "start": "2026-08-25T10:01:53+02:00",
+        "stop": "2026-08-25T10:56:43+02:00",
+        "title": "Katalonski",
+        "subtitle": "Sao Paulo",
+        "description": "Halldor Mar anirà a Sao Paulo en plena celebració del carnaval. Thaisa Bestetti el convidarà a la seva escola de samba, la Vai-Vai, i aniran al sambòdrom per veure aquesta festa monumental; amb la seva amiga Lili Mendoça aprendrà a fer una autèntica caipirinha brasilera; i després coneixerà la penya barcelonista de Sao Paulo mentre veuen el clàssic Reial Madrid-Barça; amb Raul Ribas visitarà una fàbrica on fan fuets i botifarres, una empresa familiar d'origen català, i coneixerà la seva dona, la fotògrafa Vanessa Zanforlin, una autèntica katalonski; anirà a casa de Núria Vives, que sotmetrà en Halldor a una sessió d'acupuntura; i amb Luciana Vilela i Jefferson Ribeiro, el presentador aprendrà a fer pole dance.",
+        "genre": "Docu-Entreteniment",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-25T07:36:38+02:00",
-        "stop": "2026-08-25T07:47:38+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "La pedra més bonica del món",
-        "description": "El Gargamel posa en marxa un altre dels seus recargolats plans per capturar barrufets. Aquest cop, fa servir unes pedres encantades per atraure'ls i atrapar-los en gàbies. La primera víctima és la Flor de Lis, que abandona el Voltaire per les boniques pedres. Els barrufets, però, no van cap a les gàbies com havia previst el bruixot, que haurà de perfeccionar el pla amb una enorme i irresistible roca brillant.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-25T08:29:50+02:00",
+        "stop": "2026-08-25T08:39:48+02:00",
+        "title": "A jugar! Amb en Titó i els Fa la la",
+        "subtitle": "A jugar a pirates",
+        "description": "En Titó i els Fa La La troben al mar una ampolla amb un missatge de rescat! Aquest és l'inici d'una aventura pirata que portarà la tripulació del capità Os a enfrontar-se als temibles Crancs pirates. Qui guanyarà?",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-08-25T07:47:38+02:00",
-        "stop": "2026-08-25T07:58:38+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "Un menjar per a gats barruliciós",
-        "description": "El Cuiner i la Flor de Lis estan preparant un pícnic enmig del bosc, però l'Azrael els veu i els empaita. Per treure-se'l de sobre, la Flor de Lis li llança muffins del Cuiner, però el gat els escup. El xef, molt ofès, es proposa preparar-li un menjar que li encantarà. La Flor de Lis aprofita per afegir-hi unes llavors màgiques de la Barrusalze per convertir-lo en un gatet juganer i mansoi.",
+        "start": "2026-08-25T08:39:48+02:00",
+        "stop": "2026-08-25T08:50:47+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "El Mic va a la platja",
+        "description": "Fa molt de sol i cal vigilar que no ens toqui massa. En Cincsegons estira la tovallola i fa que el Mic quedi a sota el para-sol.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-25T07:16:46+02:00",
-        "stop": "2026-08-25T07:47:21+02:00",
-        "title": "Quèquicom",
-        "subtitle": "El caganer",
-        "description": "Ben mirat tots som caganers. Al llarg de la vida ens passem uns 50 dies asseguts a la tassa del wàter. Produïm entre cent grams i un quilo d'excrements al dia. Si arribem a vells abandonarem aquest món havent deixat entre 4 i 5 tones de merda, fins i tot els qui pateixen restrenyiment crònic, que són un 15% de la població i que podran ser tractats amb un dispositiu ideat per una empresa catalana.Es diu que en aquest país som escatològics. Tenim el caganer, el tió ens caga regals, i a escala industrial l'empresa Roca produeix més de 30 milions d'unitats de porcellana a l'any i és una de les més importants del món en fabricació d'inodors. En aquest episodi entendrem la tecnologia hidràulica que els fa funcionar i veurem com han evolucionat en pro de la comoditat fins a les sofisticades tasses de vàter actuals que eixuguen i assequen, però també cal posar atenció al que hi dipositem a dins, que és un indicador molt notable de la qualitat de la nostra digestió. Una referència per classificar els excrements és l'escala de Bristol. A més, descobrirem com la genòmica detectivesca pot aconseguir reduir els excrements de gos al carrer. Quedarem descansats.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
-      },
       {
         "start": "2026-08-25T07:47:21+02:00",
         "stop": "2026-08-25T08:39:42+02:00",
@@ -139,6 +130,15 @@
         "description": "Un programa d'humor en què un monologuista ambulant recorre Catalunya a la recerca del paisatge humà dels pobles de menys de mil habitants. Cada capítol, un poble diferent. I a cada poble, un repte: fer un monòleg a mida dels seus habitants.Quim Masferrer arriba a cada poble atent a les sorpreses, sense xarxa, amb la vista i l'oïda a punt per detectar moments irrepetibles, disposat a deixar-se portar pels veïns i descobrir els racons inèdits, els costums locals, els somnis particulars i sobretot el seu sentit de l'humor. Per fer-ho, disposa només de 48 hores.I després reuneix tots els veïns al teatre del poble i exposa la seva visió particular del que ha descobert. Tots hi són presents i tots poden aparèixer en qualsevol moment al monòleg. Durant uns quants segons poden ser el centre d'atenció. El resultat: un programa d'humor on els veïns són, al mateix temps, públic i protagonistes, i amb un format que combina els moments de monòleg amb les entrevistes i recerca dels personatges més entranyables, curiosos, savis, divertits o peculiars.El programa és una oportunitat per conèixer el territori i els costums de la Catalunya rural. Cada poble és una reproducció a escala del país.Una producció de TV3 amb la col·laboració de Brutal Media.'El Foraster' és l'adaptació per a TV3 del format danès 'Comedy on the edge', que des de fa dues temporades triomfa al canal DR1 de Dinamarca.",
         "genre": "VARIETATS",
         "image": ""
+      },
+      {
+        "start": "2026-08-25T08:39:42+02:00",
+        "stop": "2026-08-25T09:26:11+02:00",
+        "title": "La Renaixença",
+        "subtitle": "La matrícula",
+        "description": "Éreu dels que tocàveu la botzina si trobàveu un cotxe amb matrícula de Girona fent un viatge per Aragó? Aquest és el vostre capítol, perquè avui parlem de la matrícula. Ens visiten dos experts en vexil·lologia. Dit d'una altra manera, dos experts en banderes. I venen amb una sorpresa per a nosaltres i per a vosaltres. No us podeu imaginar què pot ser… A 'Històries per passejar el gos' portem la Ipa, una gossa de Navàs, fins al 1606: quan Caravaggio va assassinar a un home.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
