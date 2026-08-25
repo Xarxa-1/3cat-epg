@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T04:22:54.202221+00:00",
+  "updated": "2026-08-25T05:03:37.179881+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-25T06:00:00+02:00",
-        "stop": "2026-08-25T07:00:00+02:00",
+        "start": "2026-08-25T07:00:00+02:00",
+        "stop": "2026-08-25T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,8 +52,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-25T07:00:00+02:00",
-        "stop": "2026-08-25T10:00:00+02:00",
+        "start": "2026-08-25T10:00:00+02:00",
+        "stop": "2026-08-25T11:55:27+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-25T06:00:00+02:00",
-        "stop": "2026-08-25T07:00:00+02:00",
+        "start": "2026-08-25T07:00:00+02:00",
+        "stop": "2026-08-25T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-25T07:00:00+02:00",
-        "stop": "2026-08-25T10:00:00+02:00",
+        "start": "2026-08-25T10:00:00+02:00",
+        "stop": "2026-08-25T13:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-25T06:16:40+02:00",
-        "stop": "2026-08-25T06:41:27+02:00",
-        "title": "E3",
-        "subtitle": "Monster Jam / San Diego 1 / 3",
-        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. ",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
+        "start": "2026-08-25T06:55:42+02:00",
+        "stop": "2026-08-25T08:29:14+02:00",
+        "title": "Onze",
+        "subtitle": "L'evasió de Julián; pluja de gols a Elx; Mayola, Colegiado i Nin",
+        "description": "Amb Lluís Carrasco, Carles Fité, Aina Cerdà i Jordi Martí parlem dels últims esdeveniments del cas Julián Álvarez i analitzem si la sortida del davanter argentí encara és possible. Comentem la golejada del Barça a Elx per arrencar la lliga, Marc Mayola analitza el partit de Raphinha i de Xavi Espart. Amb Joan Fàbregas analitzem les polèmiques de la jornada i acabem amb l'1X1 d'Òscar Nin.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-08-25T06:41:27+02:00",
-        "stop": "2026-08-25T06:55:40+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-08-25T08:29:14+02:00",
+        "stop": "2026-08-25T10:01:52+02:00",
+        "title": "Handbol",
+        "subtitle": "Barça-BM Granollers / Supercopa Catalunya masculina / Final",
+        "description": "Final masculina de la Supercopa de Catalunya d'handbol des del Pavelló Municipal d'Esports del Parc Dalmau, a Calella.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/3/1784292968539.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-25T06:11:50+02:00",
-        "stop": "2026-08-25T06:22:53+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "Els túnels de la Molly",
-        "description": "Avui la Maia ha conegut la Molly, una grill talp que recull provisions i les guarda al seu cau per l'hivern. Aviat, però, s'adonarà que la Molly, per culpa d'una patacada, ha perdut la memòria i no se'n recorda on té el rebost. El problema és que la Molly no para d'excavar túnels i està posant en perill tot el prat! Què poden fer per ajudar-la?!",
+        "start": "2026-08-25T06:58:48+02:00",
+        "stop": "2026-08-25T07:25:10+02:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les Tres Bessones i els capitans intrèpids",
+        "description": "La Bruixa Avorrida ha enviat les Bessones a una goleta pesquera, on en Manuel, un pescador, salva en Harvey, un noi que ha caigut al mar des d'un vapor. Ell exigeix que el portin a terra, però això és impossible; encara els queden tres mesos de pesca. En Harvey s'enfada, però les nenes i en Manuel, aconseguiran que aquella vida li acabi agradant i, sobretot, que aprengui el valor de l'amistat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-25T06:22:53+02:00",
-        "stop": "2026-08-25T06:33:57+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "L'Edgar no té por",
-        "description": "L'Edgar està convençut que la mala sort l'empaita cada vegada que s'aparta del rusc. La primera vegada que en va sortir, va caure i li van trepitjar una antena, i ara ja no s'atreveix a passar d'una línia. La Maia no es pot creure que no hagi vist mai el prat i decideix acompanyar-lo a descobrir les meravelles de la natura. Abans, però, li tocarà aprendre a no tenir tanta por!",
+        "start": "2026-08-25T07:25:10+02:00",
+        "stop": "2026-08-25T07:36:37+02:00",
+        "title": "Els barrufets (3D)",
+        "subtitle": "Els bombers van a peu",
+        "description": "El Tanoca i el Pocatraça no paren de barallar-se per conduir el camió de bombers. Per posar fi a les discussions, el Tanoca proposa abandonar-lo al bosc. Després hi ha un incendi al laboratori i, quan van a apagar el foc a peu, el Gran Barrufet els ordena que recuperin el vehicle immediatament. Però primer el troba l'ogre Bocagrossa i, després, la mare del Gargamel, que el regala als nets.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-25T06:06:14+02:00",
-        "stop": "2026-08-25T06:18:16+02:00",
-        "title": "Les Feres",
-        "subtitle": "Maria Hein",
-        "description": "Concert de la cantant i compositora Maria Hein, enregistrat en directe al Casino del Masnou, el 22 de gener del 2024. Una actuació marcada pel folk intimista arrelat a la tradició sense deixar de banda la seducció pels arranjaments electrònics. L'artista mallorquina interpreta cançons dels discos 'Continent i contingut' i 'Tot allò que no sap ningú', treballs que destaquen per una curada producció on hi han intervingut noms com Sr. Chen o Ferran Palau.  Maria Hein: piano i veu Nicole Torrealba: programació i MPC Cançons 'Fiu fiuuu' 'La dama de Mallorca' 'Sa pell me torna blanca' 'Mercuri i Mart'  Localització: Casino del Masnou. Carrer de Tomàs Vives, 8. El Masnou, Barcelona. Data: 22 de gener del 2024 ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
+        "start": "2026-08-25T06:47:41+02:00",
+        "stop": "2026-08-25T07:16:46+02:00",
+        "title": "Quèquicom",
+        "subtitle": "QQC i...tecnologia a casa",
+        "description": "Com cus la màquina de cosir si l'agulla no passa mai a l'altre costat? Sabíeu que un purista no talla mai res amb tisores? Si de cas, cisalla. Les cuines d'inducció han transformat la metal·lúrgia de les bateries de cuina. Ara cal barrejar capes de metall ferromagnètic per aconseguir que els atuells s'escalfin. A casa hi tenim una tecnologia més sofisticada del que podíem pensar.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       },
       {
-        "start": "2026-08-25T06:18:16+02:00",
-        "stop": "2026-08-25T06:47:41+02:00",
+        "start": "2026-08-25T07:16:46+02:00",
+        "stop": "2026-08-25T07:47:21+02:00",
         "title": "Quèquicom",
-        "subtitle": "Efectes especials",
-        "description": "Els efectes especials van molt lligats al cinema. La reportera Samantha Vall descobreix alguns dels trucs que es fan servir en aquest món i protagonitza una seqüència de persecució que l'obligarà a saltar des del terrat d'un edifici. L'Esther Ballesteros, doble de la Samantha, mostra quins moviments s'han de fer a l'aire quan se salta des d'una altura i poder caure bé. Per això es tiren sobre un coixí d'aire dels més grossos d'Europa. La reportera també vol conèixer de primera mà els creadors del monstre de la pel·lícula 'Un monstre em ve a veure', els guanyadors multipremiats David Martí i Montse Ribé. Es deixa fer un impressionant maquillatge a la cara, un bon tall, amb silicona. I el meteoròleg Francesc Mauri també col·labora en aquest programa fent la previsió del temps. El que no sap és que en directe patirà els efectes meteorològics de la seva predicció. Aquests efectes els crea l'empresa Nasa Fx. La reportera va a l'estació d'esquí Masella per veure si la neu falsa que fan servir als anuncis pot enganyar els millors esquiadors. Al plató s'ha volgut fer un homenatge als primers efectes especials en el cinema, recordant una escena de l'any 1936 de la pel·lícula 'Temps moderns', de Charles Chaplin. Pau Garcia, campió d'Europa de patinatge artístic, emula Charlot evolucionant a la vora d'un virtualment perillós esvoranc obert al terra del plató.",
+        "subtitle": "El caganer",
+        "description": "Ben mirat tots som caganers. Al llarg de la vida ens passem uns 50 dies asseguts a la tassa del wàter. Produïm entre cent grams i un quilo d'excrements al dia. Si arribem a vells abandonarem aquest món havent deixat entre 4 i 5 tones de merda, fins i tot els qui pateixen restrenyiment crònic, que són un 15% de la població i que podran ser tractats amb un dispositiu ideat per una empresa catalana.Es diu que en aquest país som escatològics. Tenim el caganer, el tió ens caga regals, i a escala industrial l'empresa Roca produeix més de 30 milions d'unitats de porcellana a l'any i és una de les més importants del món en fabricació d'inodors. En aquest episodi entendrem la tecnologia hidràulica que els fa funcionar i veurem com han evolucionat en pro de la comoditat fins a les sofisticades tasses de vàter actuals que eixuguen i assequen, però també cal posar atenció al que hi dipositem a dins, que és un indicador molt notable de la qualitat de la nostra digestió. Una referència per classificar els excrements és l'escala de Bristol. A més, descobrirem com la genòmica detectivesca pot aconseguir reduir els excrements de gos al carrer. Quedarem descansats.",
         "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
