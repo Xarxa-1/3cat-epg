@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T14:27:13.464030+00:00",
+  "updated": "2026-08-25T15:22:10.978119+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-25T16:22:28+02:00",
-        "stop": "2026-08-25T16:59:46+02:00",
-        "title": "La Riera",
-        "subtitle": "",
-        "description": "La Mercè no pot carregar amb la culpa pel que va fer a l'Ignasi. Ho da d'explicar a algú. A la Txell li passa el mateix amb el que sap d'en Mauri. No s'ho pot guardar per a ella sola. I, mentre en Daniel es queda sense feina, en Lluís recupera la seva al bar de la fonda. A la cuina, la Valeria ha aconseguit neutralitzar la gelosia d'en Sergi.",
-        "genre": "TELENOVEL·LA",
-        "image": ""
-      },
-      {
-        "start": "2026-08-25T16:59:46+02:00",
-        "stop": "2026-08-25T17:37:26+02:00",
+        "start": "2026-08-25T16:59:47+02:00",
+        "stop": "2026-08-25T17:37:27+02:00",
         "title": "La Riera",
         "subtitle": "",
         "description": "La Txell decideix intervenir per evitar que el seu pare acabi fent una barbaritat. Mentrestant, la Lídia, amb la col·laboració d'un detectiu, ha descobert que el pare de l'Estel no està net, i posa en marxa el seu pla. Avui és la festa sorpresa d'en Nil a la Marina. La Mireia s'hi presenta amb l'Oriol... i hi haurà problemes.",
         "genre": "TELENOVEL·LA",
         "image": ""
+      },
+      {
+        "start": "2026-08-25T17:37:27+02:00",
+        "stop": "2026-08-25T18:23:55+02:00",
+        "title": "Nervi",
+        "subtitle": "Maria Arnal, Quimi Portet, prescripció cultural, Mazoni  ",
+        "description": "Andrea Gumes entrevista la cantant i compositora Maria Arnal, que ha editat l'àlbum 'Ama'. 'Gran!' explica la història del disc 'Hockey sobre pedres', de Quimi Portet. Mariona Borrull reflexiona sobre la prescripció cultural. Actuació en directe de Mazoni a la Bisbal d'Empordà.  ",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-25T14:30:00+02:00",
-        "stop": "2026-08-25T16:30:00+02:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-08-25T17:00:00+02:00",
+        "stop": "2026-08-25T18:30:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-25T16:30:00+02:00",
-        "stop": "2026-08-25T17:00:00+02:00",
+        "start": "2026-08-25T18:30:00+02:00",
+        "stop": "2026-08-25T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,54 +83,45 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-25T16:23:12+02:00",
-        "stop": "2026-08-25T17:16:38+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "Beauce, a Eure i Loir",
-        "description": "En aquest episodi, la Julie ens porta a Beauce, al centre de França, al departament d'Eure i Loir, una zona coneguda pels camps de cereals i considerada el graner de França. Amb la Marie-Thérèse i l'Anne-Marie elabora una culata de bou a l'estil de Beauce, mentre que la Marie-Paule li ensenya a preparar unes magdalenes dignes de Proust. Per acabar. amb en Jean-Pierre, un crític gastronòmic televisiu molt conegut a França, preparen un paté.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
-        "start": "2026-08-25T17:16:38+02:00",
-        "stop": "2026-08-25T18:05:52+02:00",
+        "start": "2026-08-25T17:16:39+02:00",
+        "stop": "2026-08-25T18:05:53+02:00",
         "title": "Gent de món",
         "subtitle": "Mediterrani occidental 2",
         "description": "Avui comencem a Florència, una ciutat que, tot i que no té port, és una de les més visitades pels creueristes de tot el món. Reprenem un viatge que en aquest capítol ens durà per tot Itàlia, de nord a sud. Continuarem per Roma, que per a molts altres, que no són els d'abans, és també la més bonica ; i acabarem a Nàpols, que no és la més maca per a ningú, però potser és la més interessant.",
+        "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-08-25T18:05:53+02:00",
+        "stop": "2026-08-25T18:59:56+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Robert Englund",
+        "description": "L'actor de Hollywood Robert Englund, el mític Freddy Krueger, visita Catalunya de la mà d''Experiència catalana' i la Ivana Miño. Junts visiten el cementiri de Montjuïc, els banys jueus de Besalú i el Restaurant Hispània d'Arenys. Tot plegat, just abans d'enfrontar-se a una nit d'espant a Mataró.",
         "genre": "ALTRES",
         "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-25T16:23:55+02:00",
-        "stop": "2026-08-25T16:44:57+02:00",
+        "start": "2026-08-25T17:05:30+02:00",
+        "stop": "2026-08-25T17:26:03+02:00",
         "title": "Espies de veritat",
-        "subtitle": "De pobre noi a heroi",
-        "description": "En Virgil, després de veure les noies arribar a la universitat vestides d'espies, ha descobert que l'Alex no és una noia qualsevol. Ara té més clar que mai que la manera d'impressionar-la és convertint-se en un superheroi: l'Home Megamusculat! Com s'ho farà? Fent servir una poció increïble, però amb uns efectes secundaris desastrosos!",
+        "subtitle": "Tampoc és tan divertit...",
+        "description": "Després de passar-se tot el dia de compres al centre comecial The Groove i d'adonar-se que hi passen coses força estranyes, les noies es trobaran atrapades per un camp de força invisible que els impedirà sortir del recinte. Els atacs dels androides només seran un entrenament per una missió molt especial: detenir el temible Tecnobot de Tòquio!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-08-25T16:44:57+02:00",
-        "stop": "2026-08-25T17:05:30+02:00",
+        "start": "2026-08-25T17:26:03+02:00",
+        "stop": "2026-08-25T17:47:53+02:00",
         "title": "Espies de veritat",
-        "subtitle": "Superwoohp!",
-        "description": "L'Alex i la Sam encara no s'ho poden creure. I és que aquest any, el premi a l'agent més SuperWOOHP ha sigut per la Clover, per haver detingut el senyor Midó. A partir d'ara tindrà accés exclusiu a la limusina voladora, una ajudanta-robot i un despatx al costat d'en Jerry! Aviat, però, li pujaran els fums al cap i comenceran els problemes de debò...",
+        "subtitle": "Un pare Noel dolent",
+        "description": "En plena febre de vacances de Nadal, i en plena festa de la universitat!, en Jerry ha enviat les espies de missió. Avui els toca investigar un objecte volador no identificat que sobrevola Beverly Hills. De seguida s'adonaran que no es tracta d'un OVNI. Només és un globus sonda, que d'entrada sembla inofensiu... Però només d'entrada...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-25T16:14:16+02:00",
-        "stop": "2026-08-25T17:21:01+02:00",
-        "title": "Joc de cartes",
-        "subtitle": "La millor cuina creativa a Girona",
-        "description": "'Joc de cartes' torna a terres gironines a la recerca de la millor cuina creativa de la zona. Girona, Llagostera, Vidreres i Santa Coloma de Farners es veuran les cares en un nou duel gastronòmic i empresarial ple de retrobaments i sorpreses.El primer restaurant que visitarem serà el Mimolet, al bell mig del barri vell de Girona. El seu propietari, en Xavier Garcia, ens obrirà les portes de casa seva per oferir-nos una degustació dels plats més creatius de la seva cuina. Després anirem a The Main, a Vidreres, on la seva encarregada i xef, la Vanessa Pijuan, mirarà de demostrar que la cuina creativa i els restaurants de carretera no estan renyits. Mas Solà, a Santa Coloma de Farners, acollirà el tercer àpat, i el seu propietari, el polifacètic Xavier Bruset, mirarà de conquerir-nos amb els plats que s'elaboren a la seva cuina, una de les més envejades de la història del programa. Per últim, marxarem fins a Llagostera per visitar Can Bufí, un restaurant dins d'una masia que tot just comença a caminar de la mà del seu jove cap de cuina i propietari, en Pol Casadevall. ",
-        "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
-      },
       {
         "start": "2026-08-25T17:21:01+02:00",
         "stop": "2026-08-25T18:29:05+02:00",
@@ -139,6 +130,15 @@
         "description": "Marc Ribas visita la comarca del Baix Llobregat a la recerca de la millor recepta amb pollastre de Pota Blava. Tres restaurants del Prat i un de Cervelló competiran per veure qui cuina millor aquesta raça autòctona de pollastre amb Indicació Geogràfica Protegida. La primera visita serà a la Masia Sánchez-Casal, on veurem què ens ofereix en Sergi Bonillo, director de serveis d'un restaurant ubicat dins d'un club esportiu. La següent parada la farem a la Masia Can Guitart Vell, a Cervelló, un restaurant amb més de 70 anys d'història i codirigit des de fa gairebé 2 anys pel Daniel Pairada i el seu soci. El tercer àpat, de tornada al Prat, serà al Cèntric Gastrobar, regentat per la Susana Aragón, o com se la coneix a la zona, la Xef Pota Blava. I acabarem al Cafè de l'Artesà, el restaurant del teatre centenari del mateix nom, i que ara porta el Lluís Aguado, un enamorat d'aquest pollastre i la seva història. ",
         "genre": "ALTRES",
         "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
+      },
+      {
+        "start": "2026-08-25T18:29:05+02:00",
+        "stop": "2026-08-25T19:19:48+02:00",
+        "title": "El gran camí",
+        "subtitle": "El Camí Inca - Perú",
+        "description": "Aquest episodi ens duu fins al Perú, a Sud-amèrica, per atènyer a peu una de les set meravelles del món: el Machu Picchu. Els camins de l'Inca és una ruta que els inques van mantenir en secret durant segles, i que ara s'ha rescatat per visitar el Machu Picchu caminant a través dels boscos subtropicals andins en un viatge inoblidable. ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
