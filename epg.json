@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T13:34:15.506739+00:00",
+  "updated": "2026-08-25T14:27:13.464030+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,20 +43,20 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-25T15:30:12+02:00",
-        "stop": "2026-08-25T16:22:27+02:00",
-        "title": "Gent de món",
-        "subtitle": "Les illes gregues (Míkonos i Santorí)",
-        "description": "Heu navegat mai pel cràter d'un volcà? Heu caminat pel continent perdut de l'Atlàntida? Heu descobert l'últim paradís creat per l'home? No? Doncs prepareu-vos, perquè avui viatjarem per les illes Cíclades del mar Egeu.Coneixerem Santorí, famosa al món sencer per les casetes blanques espurnejades de cúpules blaves, pels penya-segats imponents d'un inquietant color volcànic i perquè diuen els geòlegs que aquí hi va haver un dels desastres naturals més descomunals que ha viscut la humanitat. I acabarem a Míkonos, l'illa que durant segles va ser un indret pobre i mancat d'aigua, un racó encantador i oblidat del Mediterrani fins que als anys 50 el turisme britànic la va descobrir. Avui té uns 10.000 habitants i és un paradís per a la comunitat gai de tot el món.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-25T16:22:27+02:00",
-        "stop": "2026-08-25T16:59:45+02:00",
+        "start": "2026-08-25T16:22:28+02:00",
+        "stop": "2026-08-25T16:59:46+02:00",
         "title": "La Riera",
         "subtitle": "",
         "description": "La Mercè no pot carregar amb la culpa pel que va fer a l'Ignasi. Ho da d'explicar a algú. A la Txell li passa el mateix amb el que sap d'en Mauri. No s'ho pot guardar per a ella sola. I, mentre en Daniel es queda sense feina, en Lluís recupera la seva al bar de la fonda. A la cuina, la Valeria ha aconseguit neutralitzar la gelosia d'en Sergi.",
+        "genre": "TELENOVEL·LA",
+        "image": ""
+      },
+      {
+        "start": "2026-08-25T16:59:46+02:00",
+        "stop": "2026-08-25T17:37:26+02:00",
+        "title": "La Riera",
+        "subtitle": "",
+        "description": "La Txell decideix intervenir per evitar que el seu pare acabi fent una barbaritat. Mentrestant, la Lídia, amb la col·laboració d'un detectiu, ha descobert que el pare de l'Estel no està net, i posa en marxa el seu pla. Avui és la festa sorpresa d'en Nil a la Marina. La Mireia s'hi presenta amb l'Oriol... i hi haurà problemes.",
         "genre": "TELENOVEL·LA",
         "image": ""
       }
@@ -83,54 +83,45 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-25T15:31:25+02:00",
-        "stop": "2026-08-25T16:23:12+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "El Morvan, a la Borgonya",
-        "description": "En aquest episodi, la Julie visita el Morvan, un massís boscós situat al bell mig de la Borgonya. Amb en Claude elabora unes gourgères, una mena de lioneses salades. Després, amb en Pierre, un saupiquet de pernil del Morvan. I, finalment, amb la Nicole, elabora un pastís de sèmola típic de la regió.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
         "start": "2026-08-25T16:23:12+02:00",
-        "stop": "2026-08-25T17:16:45+02:00",
+        "stop": "2026-08-25T17:16:38+02:00",
         "title": "Els quaderns de cuina de la Julie",
         "subtitle": "Beauce, a Eure i Loir",
         "description": "En aquest episodi, la Julie ens porta a Beauce, al centre de França, al departament d'Eure i Loir, una zona coneguda pels camps de cereals i considerada el graner de França. Amb la Marie-Thérèse i l'Anne-Marie elabora una culata de bou a l'estil de Beauce, mentre que la Marie-Paule li ensenya a preparar unes magdalenes dignes de Proust. Per acabar. amb en Jean-Pierre, un crític gastronòmic televisiu molt conegut a França, preparen un paté.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
+      },
+      {
+        "start": "2026-08-25T17:16:38+02:00",
+        "stop": "2026-08-25T18:05:52+02:00",
+        "title": "Gent de món",
+        "subtitle": "Mediterrani occidental 2",
+        "description": "Avui comencem a Florència, una ciutat que, tot i que no té port, és una de les més visitades pels creueristes de tot el món. Reprenem un viatge que en aquest capítol ens durà per tot Itàlia, de nord a sud. Continuarem per Roma, que per a molts altres, que no són els d'abans, és també la més bonica ; i acabarem a Nàpols, que no és la més maca per a ningú, però potser és la més interessant.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-25T15:19:52+02:00",
-        "stop": "2026-08-25T15:41:26+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Quant de temps sense veure'ns! En Son Goku ha tornat",
-        "description": "Després d'haver derrotat i d'haver fet bocins en Freezer i el seu pare sense cap problema, el jove superguerrer anuncia el lloc i l'hora exacta de l'arribada d'en Son Goku a la Terra. El més sorprenent de tot és que quan en Son Goku apareix, tampoc no té idea de qui és el jove misteriós. Pot ser que vingui d'un altre temps?",
+        "start": "2026-08-25T16:23:55+02:00",
+        "stop": "2026-08-25T16:44:57+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "De pobre noi a heroi",
+        "description": "En Virgil, després de veure les noies arribar a la universitat vestides d'espies, ha descobert que l'Alex no és una noia qualsevol. Ara té més clar que mai que la manera d'impressionar-la és convertint-se en un superheroi: l'Home Megamusculat! Com s'ho farà? Fent servir una poció increïble, però amb uns efectes secundaris desastrosos!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-08-25T15:41:26+02:00",
-        "stop": "2026-08-25T16:02:34+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Danger a la tomba",
-        "description": "En Ray comença a patir fenòmens estranys i en Henry i la Charlotte sospiten que en Brad, l'invisible, podria tenir-hi alguna cosa a veure.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "start": "2026-08-25T16:44:57+02:00",
+        "stop": "2026-08-25T17:05:30+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Superwoohp!",
+        "description": "L'Alex i la Sam encara no s'ho poden creure. I és que aquest any, el premi a l'agent més SuperWOOHP ha sigut per la Clover, per haver detingut el senyor Midó. A partir d'ara tindrà accés exclusiu a la limusina voladora, una ajudanta-robot i un despatx al costat d'en Jerry! Aviat, però, li pujaran els fums al cap i comenceran els problemes de debò...",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-25T15:27:02+02:00",
-        "stop": "2026-08-25T16:14:16+02:00",
-        "title": "La Renaixença",
-        "subtitle": "El pijama",
-        "description": "Si sou dels que podeu passar-vos el diumenge sencer en pijama, aquest és el vostre programa. Estem davant de la peça de roba més còmoda? Quan deixarà de ser mal vist anar a treballar amb el pijama posat? També hi ha qui el fa servir per baixar les escombraries. Tot glamur. Dediquem el capítol al pijama. Parlem amb Jordi Alcover, un exsoldador submarí que ens ha confessat quin és l'únic aliment que es pot menjar sota l'aigua. I sortim a passejar amb en Cobi per la matança de Sant Valentí del 1929 a Chicago.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
-      },
       {
         "start": "2026-08-25T16:14:16+02:00",
         "stop": "2026-08-25T17:21:01+02:00",
@@ -139,21 +130,20 @@
         "description": "'Joc de cartes' torna a terres gironines a la recerca de la millor cuina creativa de la zona. Girona, Llagostera, Vidreres i Santa Coloma de Farners es veuran les cares en un nou duel gastronòmic i empresarial ple de retrobaments i sorpreses.El primer restaurant que visitarem serà el Mimolet, al bell mig del barri vell de Girona. El seu propietari, en Xavier Garcia, ens obrirà les portes de casa seva per oferir-nos una degustació dels plats més creatius de la seva cuina. Després anirem a The Main, a Vidreres, on la seva encarregada i xef, la Vanessa Pijuan, mirarà de demostrar que la cuina creativa i els restaurants de carretera no estan renyits. Mas Solà, a Santa Coloma de Farners, acollirà el tercer àpat, i el seu propietari, el polifacètic Xavier Bruset, mirarà de conquerir-nos amb els plats que s'elaboren a la seva cuina, una de les més envejades de la història del programa. Per últim, marxarem fins a Llagostera per visitar Can Bufí, un restaurant dins d'una masia que tot just comença a caminar de la mà del seu jove cap de cuina i propietari, en Pol Casadevall. ",
         "genre": "ALTRES",
         "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
+      },
+      {
+        "start": "2026-08-25T17:21:01+02:00",
+        "stop": "2026-08-25T18:29:05+02:00",
+        "title": "Joc de cartes",
+        "subtitle": "La millor recepta amb pollastre de pota blava",
+        "description": "Marc Ribas visita la comarca del Baix Llobregat a la recerca de la millor recepta amb pollastre de Pota Blava. Tres restaurants del Prat i un de Cervelló competiran per veure qui cuina millor aquesta raça autòctona de pollastre amb Indicació Geogràfica Protegida. La primera visita serà a la Masia Sánchez-Casal, on veurem què ens ofereix en Sergi Bonillo, director de serveis d'un restaurant ubicat dins d'un club esportiu. La següent parada la farem a la Masia Can Guitart Vell, a Cervelló, un restaurant amb més de 70 anys d'història i codirigit des de fa gairebé 2 anys pel Daniel Pairada i el seu soci. El tercer àpat, de tornada al Prat, serà al Cèntric Gastrobar, regentat per la Susana Aragón, o com se la coneix a la zona, la Xef Pota Blava. I acabarem al Cafè de l'Artesà, el restaurant del teatre centenari del mateix nom, i que ara porta el Lluís Aguado, un enamorat d'aquest pollastre i la seva història. ",
+        "genre": "ALTRES",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
       }
     ],
     "oca1": [],
     "oca2": [],
-    "oca3": [
-      {
-        "start": "2026-08-25T12:27:32+02:00",
-        "stop": "2026-08-25T14:27:27+02:00",
-        "title": "Compareixença al Congrés de la ministra de Defensa, Margarita Robles, per la crisi a Ceuta",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/2/1787576145828.jpg"
-      }
-    ],
+    "oca3": [],
     "oca4": []
   }
 }
