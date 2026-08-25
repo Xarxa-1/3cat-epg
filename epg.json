@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T11:53:23.254514+00:00",
+  "updated": "2026-08-25T12:37:41.088354+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,71 +43,80 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-25T12:00:00+02:00",
-        "stop": "2026-08-25T13:29:52+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-08-25T14:30:00+02:00",
+        "stop": "2026-08-25T15:32:11+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+      },
+      {
+        "start": "2026-08-25T15:34:27+02:00",
+        "stop": "2026-08-25T16:26:41+02:00",
+        "title": "Gent de món",
+        "subtitle": "Les illes gregues (Míkonos i Santorí)",
+        "description": "Heu navegat mai pel cràter d'un volcà? Heu caminat pel continent perdut de l'Atlàntida? Heu descobert l'últim paradís creat per l'home? No? Doncs prepareu-vos, perquè avui viatjarem per les illes Cíclades del mar Egeu.Coneixerem Santorí, famosa al món sencer per les casetes blanques espurnejades de cúpules blaves, pels penya-segats imponents d'un inquietant color volcànic i perquè diuen els geòlegs que aquí hi va haver un dels desastres naturals més descomunals que ha viscut la humanitat. I acabarem a Míkonos, l'illa que durant segles va ser un indret pobre i mancat d'aigua, un racó encantador i oblidat del Mediterrani fins que als anys 50 el turisme britànic la va descobrir. Avui té uns 10.000 habitants i és un paradís per a la comunitat gai de tot el món.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-25T13:30:00+02:00",
-        "stop": "2026-08-25T14:00:00+02:00",
+        "start": "2026-08-25T14:30:00+02:00",
+        "stop": "2026-08-25T16:30:00+02:00",
+        "title": "Telenotícies migdia",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+      },
+      {
+        "start": "2026-08-25T16:30:00+02:00",
+        "stop": "2026-08-25T17:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-08-25T14:00:00+02:00",
-        "stop": "2026-08-25T14:30:00+02:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-08-25T12:32:32+02:00",
-        "stop": "2026-08-25T14:04:54+02:00",
-        "title": "Onze",
-        "subtitle": "L'evasió de Julián; pluja de gols a Elx; Mayola, Colegiado i Nin",
-        "description": "Amb Lluís Carrasco, Carles Fité, Aina Cerdà i Jordi Martí parlem dels últims esdeveniments del cas Julián Álvarez i analitzem si la sortida del davanter argentí encara és possible. Comentem la golejada del Barça a Elx per arrencar la lliga, Marc Mayola analitza el partit de Raphinha i de Xavi Espart. Amb Joan Fàbregas analitzem les polèmiques de la jornada i acabem amb l'1X1 d'Òscar Nin.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-08-25T14:37:31+02:00",
+        "stop": "2026-08-25T15:01:46+02:00",
+        "title": "E3",
+        "subtitle": "Monster Jam / San Diego 2 / 4",
+        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
       },
       {
-        "start": "2026-08-25T14:04:54+02:00",
-        "stop": "2026-08-25T14:37:30+02:00",
-        "title": "Zona Zàping Club",
-        "subtitle": "Eloi Vila s'arrisca a endevinar l'inenarrable",
-        "description": "Eloi Vila pren part en el concurs 'Això acaba...', on haurà d'endevinar com acaben tres vídeos sorprenents. Mentrestant, el DJ Frande tornarà a demostrar que és capaç de convertir qualsevol moment del programa en una festa... a la seva manera.",
-        "genre": "ESPECIALS",
+        "start": "2026-08-25T15:01:46+02:00",
+        "stop": "2026-08-25T15:31:24+02:00",
+        "title": "GR Barcelona",
+        "subtitle": "A uns quants metres sota terra",
+        "description": "Barcelona subterrània.Ruta per algunes propostes interessants per descobrir la ciutat per sota dels nostres peus. Farem un viatge pel passat i el present del metro, visitarem una estació fantasma, recorrerem les galeries del clavegueram, coneixerem com és la vida de músic de metro i acabarem a l'interior de la font de Montjuïc, una obra d'art intacta des de la seva construcció.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-25T13:34:22+02:00",
-        "stop": "2026-08-25T13:55:40+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El cas de l'assassinat de les fotografies d'exclusives",
-        "description": "En Kogoro rep d'un client una invitació per assistir a l'entrega d'un premi de fotografia molt prestigiós. En Conan i la Ran l'hi acompanyen. El guanyador del guardó és en Ryuichi Yanase, un fotògraf que s'ha especialitzat en instantànies espectaculars d'incendis. Un periodista, el senyor Nakai, se'n burla. Al cap d'unes hores, es produeix un incendi al domicili d'en Nakai i en Yanase el fotografia caient envoltat en flames pel balcó.",
+        "start": "2026-08-25T14:38:06+02:00",
+        "stop": "2026-08-25T15:00:23+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Guanyaré en Freezer. Un jove misteriós",
+        "description": "Quan encara falten tres hores perquè torni en Son Goku, la Terra s'enfronta a una de les pitjors crisis que ha viscut mai: l'amenaça d'en Freezer, acompanyat del seu pare. Però quan tot semblava perdut, del no res, apareix un jove misteriós que assegura que és capaç de plantar cara a en Freezer. Qui deu ser?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-25T13:55:40+02:00",
-        "stop": "2026-08-25T14:16:26+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El cas del misteri d'en Mogra l'extraterrestre (1a part)",
-        "description": "El senyor Watanuki es nega a tornar una pilota de beisbol als nens de la Lliga de Detectius Júnior. Resignats, se'n van tots al despatx d'en Kogoro, on arriba un tal Masao Koda, que explica que busca la seva germana Sanae. Segons ell, la va assassinar un client insatisfet amb la seva gestió financera. El presumpte homicida és, casualment, el senyor Watanuki. En Koda afirma que l'home la té enterrada al jardí.",
+        "start": "2026-08-25T15:00:23+02:00",
+        "stop": "2026-08-25T15:19:52+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "En Freezer cau destrossat. Un altre superguerrer",
+        "description": "El jove misteriós que assegura que pot derrotar en Freezer resulta que és un altre superguerrer llegendari. Ben aviat demostrarà la seva gran superioritat i posarà fi a la diabòlica venjança que tenien planejada en Freezer i el seu pare. En Vegeta i companyia es quedaran bocabadats davant de la presència d'un altre superguerrer.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
