@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T05:49:25.310792+00:00",
+  "updated": "2026-08-26T06:39:31.666828+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -53,7 +53,7 @@
       },
       {
         "start": "2026-08-26T10:00:00+02:00",
-        "stop": "2026-08-26T11:54:21+02:00",
+        "stop": "2026-08-26T11:54:23+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,54 +83,45 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-26T06:37:05+02:00",
-        "stop": "2026-08-26T08:08:54+02:00",
-        "title": "Onze",
-        "subtitle": "Operació sortida; Segueix el pols per Julián i 'Onzeclopèdia'",
-        "description": "Fem tertúlia amb Sique Rodríguez, Ivan san Antonio, Irati Vidal i Víctor Lozano. Actualitzem el cas Julián amb Juan Gato, Joaquín Maroto ens parla del Reial Madrid i torna l'Onzeclopèdia de Fran Domènech. Acabem amb l'1x1 d'Òscar Nin.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
-      },
-      {
-        "start": "2026-08-26T08:08:54+02:00",
-        "stop": "2026-08-26T08:54:27+02:00",
+        "start": "2026-08-26T08:08:55+02:00",
+        "stop": "2026-08-26T08:54:28+02:00",
         "title": "Aire Lliure",
         "subtitle": "Ceretània, amb Judit Mascó",
         "description": "Judit Mascó, absolutament enamorada de la Cerdanya , serà la convidada de Núria Picas en aquest capítol gravat a la comarca pirinenca. Les dues amazones faran un preciós recorregut a cavall pels voltants de Llívia. Però la Cerdanya més esportiva dona per molt: farem esquí alpí , esquí de fons i vol sense motor. I no marxarem sense aprendre a fer un bon trinxat. ",
+        "genre": "REPORTATGES",
+        "image": ""
+      },
+      {
+        "start": "2026-08-26T08:54:28+02:00",
+        "stop": "2026-08-26T09:40:34+02:00",
+        "title": "Aire Lliure",
+        "subtitle": "Terra de Volcans, amb Carme Ruscalleda",
+        "description": "Si hi ha una comarca atractiva per ser visitada en plena tardor, és, sense dubte, La Garrotxa. Núria Picas i Aire Lliure la van visitar en companyia de la cuinera Carme Ruscalleda que va gaudir d'una espectacular travessa en globus. També visitarem la fageda d'en Jordà i el volcà de St. Margarida ",
         "genre": "REPORTATGES",
         "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-26T07:47:23+02:00",
-        "stop": "2026-08-26T07:58:23+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "El gosset del Gargamel",
-        "description": "El Gargamel li promet al Dwayne una consola si li porta un barrufet. Per aconseguir-ho, el nen prepara una poció per transformar-se en un supercaçador, però el beuratge falla i es converteix en gos. El Gargamel n'està encantat, perquè el seu nebot té ara un olfacte extraordinari que el pot portar fins al poble Barrufet. Però els barrufets contraataquen amb una pudor tan forta que el Dwayne no els podrà localitzar.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-26T08:31:48+02:00",
+        "stop": "2026-08-26T08:43:02+02:00",
+        "title": "A jugar! Amb en Titó i els Fa la la",
+        "subtitle": "A jugar amb la Capidzilla",
+        "description": "El Ruquicorn, sense voler, ha convertit una de les germanes capibares en una criatura gegant amb una fam insaciable de polos: la Capidzilla! En Titó i els Fa La La hauran d'aturar-la abans no ho arrasi tot. Però no serà fàcil!",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-08-26T07:58:23+02:00",
-        "stop": "2026-08-26T08:09:26+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "La timbalera",
-        "description": "La Meteorit perd el timbal al bosc quan el Gargamel les empaita a ella i a la Barrutempesta. El bruixot s'endú l'instrument i hi aplica un encanteri perquè emeti un so que hipnotitzi els barrufets i els atregui cap a casa seva. L'encanteri és tan potent que tot el poble de les noies cau sota el seu influx. Només la Barrutempesta i la Meteorit, que porten taps a les orelles, hi seran immunes.",
+        "start": "2026-08-26T08:43:02+02:00",
+        "stop": "2026-08-26T08:53:52+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Carbassa i carbassó",
+        "description": "Síndria, meló, poma, albergínia, cireres, carbassa i carbassó. El Mic observa, en diu el nom i menja hortalisses i fruita.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-26T07:05:55+02:00",
-        "stop": "2026-08-26T07:55:06+02:00",
-        "title": "El Foraster",
-        "subtitle": "Foradada",
-        "description": "Aquesta setmana, El Foraster passarà una nit de pel·lícula en un castell de pel·lícula. Una fortificació medieval situada a Foradada -95 habitants, comarca de la Noguera-, residència dels senyors de Montsonís i barons d'Albi. Però Quim Masferrer no només dormirà al castell, també reunirà tot el poble –inclosos el baró i la baronessa- per fer el monòleg. Entre armadures i escuts nobiliaris, repassarà alguns dels personatges que ha conegut, alguns d'ells dignes d'aparèixer en la millor de les històries de cavallers. En Josepó és un pagès que té poders paranormals; la Maria Dolors és una dona aficionada a collir caragols de nit, a la llum de les estrelles; i en Ferran i en Benjamí són dos amics que es passen el dia discutint, fins i tot quan surten a córrer junts. A Foradada, l'humor no fa distincions entre nobles i plebeus. Al castell n'hi haurà per tothom.",
-        "genre": "VARIETATS",
-        "image": ""
-      },
       {
         "start": "2026-08-26T07:55:06+02:00",
         "stop": "2026-08-26T08:41:49+02:00",
@@ -139,6 +130,15 @@
         "description": "És millor pescar al riu o pescar al mar? No volem obrir aquest debat, però dediquem aquest capítol a la canya de pescar. No serà que la gent que no pesca res és perquè hi va amb la canya que no toca? O simplement és que no en sabem? Ens visita el grup Roba Estesa, que s'acomiaden dels escenaris aquest 2025. Abans de fer-ho, però, podem gaudir d'una de les seves cançons a l'escenari de 'La Renaixença'. Sortim a passejar amb en Lopes fins a la Revolució Russa del 1905, durant el motí del cuirassat Potemkin.",
         "genre": "ALTRES",
         "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+      },
+      {
+        "start": "2026-08-26T08:41:49+02:00",
+        "stop": "2026-08-26T09:10:57+02:00",
+        "title": "L'ofici de viure",
+        "subtitle": "Benestar emocional",
+        "description": "El programa explica què és, exactament, el benestar emocional, i com aconseguir-lo. El benestar emocional no consisteix a estar bé cada dia, i és compatible amb els alts i baixos, maldecaps i fins i tot els tràngols. No sempre podem estar bé. Tanmateix, ¿a partir de quin moment hem de demanar ajut? ¿Com podem saber si tenim benestar emocional i psicològic, o no? Nosaltres i les persones del nostre entorn.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/0/1625470710907.jpg"
       }
     ],
     "oca1": [],
