@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T14:10:06.284346+00:00",
+  "updated": "2026-08-26T15:53:50.531331+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-26T15:31:57+02:00",
-        "stop": "2026-08-26T16:22:16+02:00",
-        "title": "Gent de món",
-        "subtitle": "Mediterrani occidental 1",
-        "description": "Heu vist mai el mar als peus de la muntanya de Montserrat?Heu gaudit de les vistes que contemplava el comte de Montecristo des de la seva cel·la?Avui farem un creuer per la Mediterrània occidental des de Barcelona fins a Nàpols a bord del vaixell més gran del món. Una travessa pels mars més propers farcida de ports mil·lenaris, de capitals d'imperis caiguts, de carrers desendreçats, de verges daurades i torres inclinades; de catedrals de marbre i antics deus fets de pedra. Un viatge pels orígens i la historia dels nostres veïns a traves del mar que sempre ens ha unit. ",
+        "start": "2026-08-26T17:35:09+02:00",
+        "stop": "2026-08-26T18:22:05+02:00",
+        "title": "Nervi",
+        "subtitle": "Alicia Kopf, Ricard Ruiz Garzón, Joan Colomo, 'Grumpy old men'",
+        "description": "Andrea Gumes conversa amb l'artista visual, investigadora i escriptora Alicia Kopf, que torna a l'escriptura amb la novel·la 'Memòria d'Eco'. L'escriptor Ricard Ruiz Garzón ens parla de la creació artística vinculada a la salut mental, tema al qual ha dedicat el seu recull de relats breus 'Les veus del laberint'. Jacint Casademont fa un retrat robot dels 'Grumpy old men', actors veterans que dediquen la seva maduresa a repartir llenya a pel·lícules i sèries. Tanca el programa una actuació de Joan Colomo i la seva banda als peus del Montnegre, a Sant Celoni. ",
         "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-08-26T16:22:16+02:00",
-        "stop": "2026-08-26T16:59:40+02:00",
-        "title": "La Riera",
+        "start": "2026-08-26T18:22:05+02:00",
+        "stop": "2026-08-26T18:53:36+02:00",
+        "title": "Art endins",
         "subtitle": "",
-        "description": "La Lídia aconsegueix el seu objectiu i en Claudi parla de la Pineda amb en Balló. A la cuina, la Maribel veu com en Sergi s'escapa i com en Joan no pot estar per ella perquè la Txell el necessita. A can Guitart, l'estrany accident de l'Ignasi continua portant conseqüències. I al pis de la Maribel, l'Ona i en Daniel no poden continuar defugint-se.",
-        "genre": "TELENOVEL·LA",
+        "description": "'Art Endins' neix amb la clara idea d'acostar l'espectador a l'immens patrimoni en arts plàstiques que hi ha a Catalunya; de convidar-lo a fer una immersió en les històries i anècdotes, sovint desconegudes, que acompanyen les obres i els objectes de museus, fundacions, palaus, esglésies o col·leccions privades del país. Moltes de les coses que n'aprendrem són curioses, però també rigoroses i acadèmiques, i es posarà en contacte l'espectador amb el món fascinant dels historiadors, restauradors i conservadors d'art. Descobrirem, entre d'altres, pintures que es troben al Palau Güell o al monestir de Sant Benet de Montserrat. Ens fixarem en el treball escultòric procedent d'Erill la Vall i en el que atresora la Basílica del Pi de Barcelona. Ens deixarem seduir per l'art del Renaixement i el barroc, pel modernisme i el noucentisme. Visitarem els fons de reserva i les sales de molts museus, a Olot, a Lleida, a Reus, a Vic, a Solsona, a Figueres, a Valls… per fer una nova mirada a la nostra història de l'art, a la gran riquesa del nostre patrimoni artístic.Cada capítol explica a fons tres o quatre obres principals. De vegades, tot gira al voltant d'una sola obra, de vegades, al voltant d'un artista; aleshores, les seves obres formen el context. Una veu en off n'explica les històries i converteix els elements de la narració artística en un relat que pretén ser captivador i suggeridor. De tant en tant, els experts aporten les valoracions necessàries per completar el punt de vista acadèmic.En cada capítol també es presenten dues obres més, part d'un catàleg particular del programa. Durant un minut veiem l'obra des d'un nou 'punt de vista', condicionat per una banda sonora que l'acompanya a manera de so ambient. ",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-26T14:30:00+02:00",
-        "stop": "2026-08-26T16:30:00+02:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-08-26T17:00:00+02:00",
+        "stop": "2026-08-26T18:30:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-26T16:30:00+02:00",
-        "stop": "2026-08-26T17:00:00+02:00",
+        "start": "2026-08-26T18:30:00+02:00",
+        "stop": "2026-08-26T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-26T15:28:09+02:00",
-        "stop": "2026-08-26T16:20:16+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "El Llac d'Annecy, a l'Alta Savoia",
-        "description": "En aquest episodi la Julie visita l'Alta Savoia, i més concretament la zona del voltant del llac i de la ciutat d'Annecy, plena d'història, d'esglésies i de convents. Amb un pescador aficionat autòcton, en Gilles, prepara unes truites alpines del llac d'Annecy. Després, amb la Maryline, cull unes herbes silvestres per fer-ne una sopa. En Laurent, un mestre xocolater, li prepara unes típiques campanetes de xocolata. I, finalment amb la Marielle, cuinen un fricassé de porc.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-08-26T17:13:53+02:00",
+        "stop": "2026-08-26T18:06:53+02:00",
+        "title": "Gent de món",
+        "subtitle": "Bàltic 1",
+        "description": "Heu navegat per un mar on no es fa de nit? Heu passejat pel monument més inquietant d'Europa? Doncs avui tindreu l'oportunitat de conèixer algunes de les ciutats més vives i engrescadores del nord d'Europa. Salpant des d'Amsterdam arribarem fins a Sant Petersburg, antiga capital de Rússia, passant per Alemanya, on visitarem Berlín , la ciutat que il·lustra més bé les tragèdies del s. XX. Cordeu-vos el cinturó o, més ben dit, poseu-vos el salvavides, perquè avui navegarem pel Bàltic.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-08-26T16:20:16+02:00",
-        "stop": "2026-08-26T17:13:52+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "Les Landes, a la Gascunya",
-        "description": "A les Landes, en Dédé convida la Julie a una cassoleta d'anguiles. La Lucienne guisa una saboga amb prunes i vi blanc que cal coure durant dos dies i mig per poder-se-la menjar amb espines i tot! L'Hervé és productor de kiwis pol·linitzats per borinots. L'Annie i la Valérie ensenyen la Julie a elaborar el famós pastís landes. La Gilou guisa un pollastre groc amb ceba. I en Jean-Charles produeix un vi negre molt ric en tanins.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-08-26T18:06:53+02:00",
+        "stop": "2026-08-26T19:00:00+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Mary Jean i Kelly",
+        "description": "La Mary Jean Jecklin i el Kelley Rea són un matrimoni dels Estats Units a qui l'any 2012 la revista National Geographic va anomenar viatgers de l'any. La Ivana Miño s'ha proposat que viatgin per Catalunya i els acompanya a descobrir el Montseny, l'Anoia i el Penedès.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-26T16:06:28+02:00",
-        "stop": "2026-08-26T16:28:29+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Comença el perill (Part 1)",
-        "description": "Un adolescent normal, en Henry Hart, busca una feina i acaba descobrint que el seu nou cap és el superheroi Capità Man.Quan accepta convertir-se en el seu ajudant secret, neix Kid Danger i comença una doble vida plena d'aventures i perills.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-26T17:52:27+02:00",
+        "stop": "2026-08-26T18:02:51+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "El llapis curt",
+        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-26T16:28:29+02:00",
-        "stop": "2026-08-26T16:49:32+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Fàstic de veritat",
-        "description": "Després d'unes quantes investigacions, les espies han descobert que els fenòmens tan estranys que estan deixant Beverly Hills fet un fàstic, podrien tenir relació amb una empresa anomenada Malalts de la Neteja. Els tornados d'escombreries i les inundacions de fang podrien acabar afectant el medi ambient. La missió està servida!",
+        "start": "2026-08-26T18:02:51+02:00",
+        "stop": "2026-08-26T18:13:06+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "En Cincsegons fa d'home del temps",
+        "description": "Avui en Cincsegons porta corbata i, des de dalt del turó, va dient quin temps hi fa.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+        "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-26T15:29:20+02:00",
-        "stop": "2026-08-26T16:40:27+02:00",
-        "title": "Joc de cartes",
-        "subtitle": "La millor cuina empordanesa",
-        "description": "'Joc de cartes' continua el seu recorregut per Catalunya. En aquest capítol de la cinquena temporada la furgoneta del programa farà parada a l'Empordà, on les arrels de la seva cuina encara tenen molt a dir en la restauració que s'hi ofereix actualment. El primer d'ensenyar les seves cartes serà el restaurant Mas Molí de Peralada, on el seu propietari, en Marc Joli, demostrarà que ni a ell ni a la seva cuina els manca caràcter. La segona visita ens portarà fins a Maçanet de Cabrenys, on la Rosanna Masip transmetrà tot el seu tarannà amb el restaurant El Fau. Continuarem la nostra ruta gastronòmica per Maçanet de Cabrenys visitant l'Hotel-Restaurant Els Caçadors, de la mà d'en Santi Valls, un cuiner que ha voltat pels fogons de mig món. I finalitzarem aquest programa a la capital del Baix Empordà. A la Bisbal visitarem l'Escalipatxo, on el Sergi Casellas, el seu propietari, es deixarà la pell.",
-        "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
+        "start": "2026-08-26T17:49:48+02:00",
+        "stop": "2026-08-26T18:43:14+02:00",
+        "title": "Planeta dinàmic",
+        "subtitle": "Terra",
+        "description": "El clima de la Terra canvia i els sistemes naturals que abans eren estables i dels quals depenem es desequilibren perillosament. Científics intrèpids, tribus locals i megafauna gegant, de l'Àrtic a l'Amazònia, ens revelen com la ciència, la natura i la tradició ens poden ajudar a preparar-nos per un futur que canvia molt de pressa.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-08-26T16:40:27+02:00",
-        "stop": "2026-08-26T17:49:47+02:00",
-        "title": "Joc de cartes",
-        "subtitle": "El millor restaurant de cuina sostenible a Barcelona",
-        "description": "Aquest any, Barcelona és la capital mundial de l'alimentació sostenible i, a 'Joc de Cartes', ho volem celebrar com millor sabem. Quatre negocis que comparteixen la seva preocupació pel medi ambient lluitaran per convertir-se en el millor restaurant de cuina sostenible de la ciutat.La primera parada serà a l'Eixample, a La Barra del Gourmet, on el xef Marc Grañó beu de la cuina basca i francesa, però amb el millor producte català de proximitat. Tot seguit, anirem fins a les Corts per conèixer el restaurant L'Ariadna i en Jordi i la seva cap de sala, Ariadna Soteras, que, a part de fer el servei a taula, també assessora els clients perquè mengin de manera saludable.Tornarem a l'Eixample per visitar La Forquilla. Allà, el Vidal Gravalosa ho gestiona tot sense cap ajuda, des de la cuina fins a la neteja dels lavabos, i, tot i així, treu temps per fer-ho de manera sostenible. I tancarem el programa al Contracorrent Bar, al Fort Pienc, un petit local on la sommelier Anna Pla i la seva parella posen sobre la taula els productes del seu hort urbà.",
-        "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
+        "start": "2026-08-26T18:43:14+02:00",
+        "stop": "2026-08-26T19:29:57+02:00",
+        "title": "Martin Clunes: Island of America",
+        "subtitle": " Puerto Rico, Geòrgia, Carolina del Nord i Virgínia",
+        "description": "Martin Clunes viatjarà fins a l'illa de Puerto Rico, on aprendrà a ballar salsa i visitarà una destil·leria de rom. Després pujarà per la costa est dels Estats Units fins a unes illes on els descendents dels esclaus encara mantenen vives les seves tradicions ancestrals. I, per acabar, visitarà unes illes de la costa de Virgínia, on cada any una manada de cavalls nedadors fa una travessa aquàtica única al món.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
