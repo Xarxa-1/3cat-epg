@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T01:00:06.391439+00:00",
+  "updated": "2026-08-26T02:36:08.692740+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-26T02:10:19+02:00",
-        "stop": "2026-08-26T04:30:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
         "start": "2026-08-26T04:30:00+02:00",
         "stop": "2026-08-26T05:09:09+02:00",
         "title": "Fusió i swing a l'estudi",
@@ -59,6 +50,15 @@
         "description": "Animals Exòtics és la nova proposta de Xavi Maureta, on combina la sonoritat del jazz més contemporani amb melodies i ritmes que provenen de músiques 'cosines', com ara el flamenc, les músiques folklòriques de Llatinoamèrica, el blues o les musiques africanes. Són Guim Garcia Balach, al saxo alt, amb Marco Mezquida, al piano i teclats; Rai Ferrer, al contrabaix, i el mateix Xavi Maureta, a la bateria.",
         "genre": "ALTRES",
         "image": ""
+      },
+      {
+        "start": "2026-08-26T05:09:09+02:00",
+        "stop": "2026-08-26T05:55:26+02:00",
+        "title": "Cava de Blues",
+        "subtitle": "Dusan's Flying Blues Band",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
       }
     ],
     "324": [
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-26T02:32:48+02:00",
-        "stop": "2026-08-26T04:03:41+02:00",
-        "title": "Tot Costa",
-        "subtitle": "La decisió amb el 9",
-        "description": "El Barça valora la possibilitat de no fitxar a cap 9 en aquest final de mercat en cas de no poder incorporar a Julián Álvarez. Després de la reunió entre Laporta i Deco, el club ha de decidir quina línia seguir en aquest final de mercat. A més, amb la Laia Bonals i el Santi Giménez parlem del futur de Koundé i Balde i del debut de Mourinho al Bernabéu a la Lliga.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+        "start": "2026-08-26T04:18:13+02:00",
+        "stop": "2026-08-26T05:57:37+02:00",
+        "title": "Handbol",
+        "subtitle": "Barça-BM Granollers / Supercopa Catalunya masculina / Final",
+        "description": "Final masculina de la Supercopa de Catalunya d'handbol des del Pavelló Municipal d'Esports del Parc Dalmau, a Calella.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/3/1784292968539.jpg"
       },
       {
-        "start": "2026-08-26T04:03:41+02:00",
-        "stop": "2026-08-26T04:18:10+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-08-26T05:57:37+02:00",
+        "stop": "2026-08-26T06:22:49+02:00",
+        "title": "E3",
+        "subtitle": "Monster Jam / San Luis / 5",
+        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. ",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-26T02:59:20+02:00",
-        "stop": "2026-08-26T03:20:28+02:00",
+        "start": "2026-08-26T04:23:12+02:00",
+        "stop": "2026-08-26T04:44:11+02:00",
         "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Mentida",
-        "description": "Des que l'Adrien ha conegut la Kagami, ha descobert una nova forma d'independència sense el seu vestit de superheroi. La Kagami té una vida programada al minut, com l'Adrien, i ella sap crear moments màgics en què s'escapen junts, en secret. Però quan l'Adrien s'ha de transformar en el Gat Noir, no pot dir la veritat a la Kagami. I ella s'adona que l'enganya. Amb el cor trencat, es transforma en Mentida, una implacable supermalvada que vol fer desaparèixer les mentides del món i tots els mentiders, inclosos els superherois!",
+        "subtitle": "Fu Furiós",
+        "description": "La Marinette coneix Su-Han, el guardià celestial dels prodigis. Sap que ella és Ladybug i vol que li torni la capsa dels prodigis, convençut que l'ha robada. Quan Su-Han s'assabenta que l'hi va donar el mestre Fu, decideix castigar-lo i li pren el seu bastó de guardià. Amnèsic, Fu no reconeix el guardià celestial i el pren per un lladre. Quan se sent atacat s'enfada molt i és akumatitzat. Es tranforma en Fu Furiós i vol que Su-Han li torni el bastó i que li demani perdó. Ladybug aconseguirà salvar el mestre Fu i demostrar que és digna de ser la guardiana dels prodigis?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-26T03:20:28+02:00",
-        "stop": "2026-08-26T03:41:05+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "La banda dels secrets",
-        "description": "La Marinette pensa que no podrà trobar mai l'amor de veritat mentre enganyi tothom per protegir la seva identitat secreta. Incapaç de confiar en ningú, es tanca i s'allunya dels que l'estimen. Les seves amigues Alya, Rose, Juleka, Alix i Mylène, preocupades, decideixen salvar la seva amiga fent que els hi expliqui tots els seus secrets. Però per culpa d'un malentès, la Marinette es baralla amb elles i les noies són akumatitzades. Transformades en la Banda dels Secrets, estan decidides a salvar la Marinette, tant si vol com si no vol. Serà capaç de continuar amagant-los el seu secret?",
+        "start": "2026-08-26T04:44:11+02:00",
+        "stop": "2026-08-26T04:56:07+02:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "Les pintures de la Guineta",
+        "description": "Ara que ha arribat l'estiu, és l'hora de condicionar la cabana, que ha rebut alguns desperfectes durant l'hivern. Davant la insistència del Timbal, la Guineta li deixa les seves estimades pintures per pintar un emblema en un tros de fusta i penjar-lo a la porta. El problema vindrà quan descobreixi que, durant la seva absència, el Timbal ha deixat les pintures al Pinxo i aquest n'hi ha buidat dos pots! Els bessons hauran de trobar-hi una solució perquè la Guineta els perdoni.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-26T02:14:11+02:00",
-        "stop": "2026-08-26T03:12:39+02:00",
-        "title": "Els caps de setmana llargs d'en Rick Stein",
-        "subtitle": "Reykjavík",
-        "description": "En Rick Stein va a Reykjavík al pic de l'hivern, a la recerca del bacallà perfecte, i farà diverses excursions fora vila, envoltat d'un paisatge glaçat. Es banyarà en una piscina termal a l'aire lliure, visitarà l'espectacular Strokkur, un dels guèisers més actius del país, i tastarà un pa de sègol cuit amb sorra volcànica. A la seva cuina de Padstow, ens farà un gratinat de bacallà amb salsa bearnesa, costelles de xai arrebossades, amb col llombarda especiada i nabius, i una sopa d'escamarlans molt bona.",
+        "start": "2026-08-26T04:11:26+02:00",
+        "stop": "2026-08-26T04:37:32+02:00",
+        "title": "Viure als Pirineus",
+        "subtitle": "Una cuinera dels Pirineus (Primavera - Estiu)",
+        "description": "Eva Martínez-Picó s'afanya entre la cuina, la botiga i el restaurant Can Jordi i, alhora, és la responsable del refugi per a excursionistes creat aprofitant les antigues escoles d'Espinavell, un petit poble de la comarca del Ripollès. Periodista de formació que va treballar en molts gabinets de comunicació públics i privats de mig món, un dia decideix marxar de Barcelona, o com ella mateixa diu: 'Tu fas que les coses passin.' I va descobrir Espinavell on ja viu des de fa onze anys i on el seu primer marit va morir poc temps després d'arribar-hi.L' Eva va decidir quedar-s'hi i reobrir el petit restaurant on fa de cuinera, cambrera i el que faci falta i especialitzar-se en la carn de poltre que es cria a les muntanyes que veu des de casa seva. Incansable, amb els altres hostalers de la comarca ha creat una plataforma que ofereix serveis turístics de qualitat que inclouen excursions de descoberta de la natura i del patrimoni de la vall de Camprodon fins a la difusió de la cuina tradicional. Ara veu realitzada la proposta que la vall de Camprodon sigui Parc Natural mentre prepara un llibre sobre les famílies de la població i participa en l'organització de la cursa Molló Trail.'El món està dintre, no fora' ens diu, en referència al seu gran món interior i al fet d'estar sola molts dies, ja que l'Àngel, la seva parella actual, és un ramader molt enfeinat amb les seves eugues i vaques.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-26T03:12:39+02:00",
-        "stop": "2026-08-26T04:11:25+02:00",
-        "title": "Els caps de setmana llargs d'en Rick Stein",
-        "subtitle": "Bordeus",
-        "description": "En Rick visita Bordeus a l'època de la verema. Visita diferents restaurants on menja des d'un plat emblemàtic de la ciutat a un menú del dia en un modest restaurant de poble, passant per un menú sorpresa modern i innovador, una 'côte de bœuf' molt especial en una vinya, o un àpat de musclos a la vora del mar. Entre àpat i àpat, visita algunes vinyes del país, un mercat i fa un tast de vins.",
+        "start": "2026-08-26T04:37:32+02:00",
+        "stop": "2026-08-26T05:04:07+02:00",
+        "title": "Viure als Pirineus",
+        "subtitle": "Un ramader dels Pirineus (Primavera - Estiu)",
+        "description": "Al peu del pic d'Orhi, Larrau és un poble de 200 ànimes molt lligades a la seva terra ancestral. Aquest poble d'alta muntanya, situat al cor de la regió de la Sola, ha sabut conservar les seves tradicions camperoles i el seu art de viure. Aquí encara hi ha nissagues de pastors, que transmeten l'ofici de pares a fills, tot respectant les tradicions ancestrals. En aquest episodi coneixerem una figura emblemàtica del poble, Marcel Accocéberry, que treballa de pagès des de fa més de 50 anys, i també el seu fill Ximun, que continua l'explotació familiar. En Marcel i en Ximun s'ocupen de les vaques i de les eugues que viuen en llibertat a la muntanya. A la regió de la Sola, la transhumància és a la mateixa arrel de l'ofici dels pastors, que cada estiu porten les ovelles a les pastures de les zones més altes. És el cas d'en Sébastien, un pastor que també segueix la tradició de l'explotació familiar. En Sébastien i d'altres pastors de la vall apleguen els seus ramats a les pastures d'estiu i els vigilen seguint un rigorós ordre de tanda.En l'episodi, nosaltres seguirem en Marcel, en Ximun i en Sébastien mentre condueixen els ramats cap a les muntanyes. En plena naturalesa, les tasques quotidianes dels pastors són vigilar les ovelles, munyir-les i, quan cal, curar-les. Parlant amb aquests pastors també descobrirem quines són les seves esperances i les seves pors de cara al futur de la seva feina.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
