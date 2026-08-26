@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T07:31:58.709360+00:00",
+  "updated": "2026-08-26T08:23:46.024495+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-26T07:00:00+02:00",
-        "stop": "2026-08-26T10:00:00+02:00",
+        "start": "2026-08-26T10:00:00+02:00",
+        "stop": "2026-08-26T11:54:23+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,8 +52,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-26T10:00:00+02:00",
-        "stop": "2026-08-26T11:54:23+02:00",
+        "start": "2026-08-26T11:54:16+02:00",
+        "stop": "2026-08-26T11:59:59+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-26T07:00:00+02:00",
-        "stop": "2026-08-26T10:00:00+02:00",
+        "start": "2026-08-26T10:00:00+02:00",
+        "stop": "2026-08-26T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-26T10:00:00+02:00",
-        "stop": "2026-08-26T12:00:00+02:00",
+        "start": "2026-08-26T12:00:00+02:00",
+        "stop": "2026-08-26T14:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-26T08:54:29+02:00",
-        "stop": "2026-08-26T09:40:35+02:00",
-        "title": "Aire Lliure",
-        "subtitle": "Terra de Volcans, amb Carme Ruscalleda",
-        "description": "Si hi ha una comarca atractiva per ser visitada en plena tardor, és, sense dubte, La Garrotxa. Núria Picas i Aire Lliure la van visitar en companyia de la cuinera Carme Ruscalleda que va gaudir d'una espectacular travessa en globus. També visitarem la fageda d'en Jordà i el volcà de St. Margarida ",
-        "genre": "REPORTATGES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-26T09:40:35+02:00",
-        "stop": "2026-08-26T10:34:56+02:00",
+        "start": "2026-08-26T09:40:36+02:00",
+        "stop": "2026-08-26T10:34:57+02:00",
         "title": "Katalonski",
         "subtitle": "Madrid",
         "description": "El Halldor arriba a Madrid i ho fa en tren, on coneixerà l'hoste Arturo Rodríguez, que li ensenyarà el seu ofici; escoltarà la bonica història d'Alejandro Molina, que ha après ara el català en homenatge a la seva mare, que va morir fa uns quants anys; amb ell farà pilates, assistirà a una classe de català a Blanquerna i acabarà al seu barri, Carabanchel, menjant els típics entresijos amb el seu pare, un militar retirat; aprendrà a fer ioga polonesa i tastarà el menjar polonès amb Klaudia Matysiak; el Halldor ensenyarà com Silvia Nuere i els seus companys, vestits amb una samarreta amb els pronoms febles, aprenen català assajant una obra de teatre; acompanyarà a un càsting l'actor Adrián Expósito i, a la nit, anirà amb ell a dues estrenes de pel·lícules, en què aprendrà a posar per a un 'photocall'.",
         "genre": "Docu-Entreteniment",
         "image": ""
+      },
+      {
+        "start": "2026-08-26T10:34:57+02:00",
+        "stop": "2026-08-26T11:29:35+02:00",
+        "title": "Cosins Germans",
+        "subtitle": "L'Alguer",
+        "description": "Ferran visita els cosins més llunyans, a l'Alguer, l'indret més oriental del nostre domini lingüístic. Però com és l'Alguer del present? Per a trobar la resposta comprovarem la salut de la llengua. Navegarem entre penya-segats, i hi reviurem antigues batalles navals, visitarem Franca Masu, una de les veus alguereses més universals, anirem a classe de català, i Ferran fins i tot presentarà un premi literari. Benvinguts a la ciutat catalana de Sardenya.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-26T09:26:14+02:00",
-        "stop": "2026-08-26T09:37:40+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La cursa de globus",
-        "description": "L'alcaldessa de Badia Aventures s'enlaira sense voler amb un globus i en Ryder i els cadells han de fer un rescat espectacular per salvar-la i guanyar una cursa.",
+        "start": "2026-08-26T10:22:41+02:00",
+        "stop": "2026-08-26T10:34:12+02:00",
+        "title": "Les Sisters",
+        "subtitle": "He sigut jo!",
+        "description": "La Wendy, la castiguen per una cosa que ha fet la Marine. I quan la petita vol dir la veritat per tornar a ser amiga de la seva germana, els pares no se la creuen. Llavors intenta que la castiguin per coses que no ha fet, però al final n'acaba fent una de grossa.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-26T09:37:40+02:00",
-        "stop": "2026-08-26T09:48:13+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla a la neu",
-        "description": "En Ryder i la Patrulla Peluda han de rescatar l'Alex i en Jake, que han quedat encallats en un pendent de la muntanya.",
+        "start": "2026-08-26T10:34:12+02:00",
+        "stop": "2026-08-26T10:45:16+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Un germanet per les germanes",
+        "description": "La Marine sent una conversa entre els seus pares i creu que la seva mare espera un fill. La Wendy salta d'alegria: la Marine serà la germana gran del menut i la deixarà tranquil·la! La Marine li demana a un amic el seu germà petit per poder practicar-hi i se l'endú a casa. Però cuidar un nen petit no és tan fàcil...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-26T09:10:57+02:00",
-        "stop": "2026-08-26T09:39:06+02:00",
-        "title": "L'ofici de viure",
-        "subtitle": "Prevenir el suïcidi",
-        "description": "El programa posa èmfasi, com el seu títol indica, en la prevenció. Sobretot adreçat a pares i familiars de joves adolescents. Però també donarà veu a testimonis que, després d'haver tingut idees o fins i tot temptatives suïcides, han refet la seva vida.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/0/1625470710907.jpg"
+        "start": "2026-08-26T10:07:44+02:00",
+        "stop": "2026-08-26T10:32:18+02:00",
+        "title": "Després de tu",
+        "subtitle": "La Closca",
+        "description": "CAP 16. LA CLOSCAAlba acull Closca, una percussionista, a la seua habitació durant un parell de nits, entre les dos naix una química més enllà de l'amistat . Òscar i Àlex tallaran la seua relació i Òscar tornarà a la casa familiar sense fer les paus amb Pau, qui, a teràpia, comença a obrir-se davant la resta de pacients. ",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       },
       {
-        "start": "2026-08-26T09:39:06+02:00",
-        "stop": "2026-08-26T10:07:43+02:00",
-        "title": "Després de tu",
-        "subtitle": "La nova convivència",
-        "description": "CAP 15. LA NOVA CONVIVÈNCIAEncarna, amb el turmell trencat, s'instal·la a la casa de Pau. La família viurà uns dies d'adaptació amb la convivència amb la iaia impedida. (Per a Encarna són temps de baixada i anada cap a la nostàlgia.)",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-26T10:32:18+02:00",
+        "stop": "2026-08-26T11:25:04+02:00",
+        "title": "Persona Infiltrada",
+        "subtitle": "Jair Domínguez - família Borràs Rayo",
+        "description": "En Jair Domínguez és el convidat d'aquesta setmana al 'Persona infiltrada'. L'escriptor, guionista i col·laborador del programa 'Està passant' viatjarà fins a terres del Baix Camp per conèixer una família de Reus. Amb ells gaudirà de la majestuositat de l'anomenat Beverly Hills reusenc i descobrirà les vinyes i els vins que produeix la família. Allà, en Jair haurà de fer gala de les seves habilitats periodístiques si vol detectar a temps les 'fake news' familiars. Per això, haurà d'estar ben despert a l'interrogatori i a les proves en què competiran durant el dia. A més, haurà d'evitar que els tastets de vins de la zona li facin perdre la concentració. Al final de la jornada, en Jair haurà d'assenyalar un dels membres de la família. Si encerta la persona infiltrada, un espectador s'endurà els 5.000 &euro; per sorteig. Però si la família aconsegueix enredar-lo, seran ells i la persona infiltrada els qui es quedaran el premi del programa.",
+        "genre": "CONCURS",
         "image": ""
       }
     ],
