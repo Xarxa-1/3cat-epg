@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T04:23:28.867601+00:00",
+  "updated": "2026-08-26T05:03:57.658957+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-26T05:59:50+02:00",
-        "stop": "2026-08-26T07:00:00+02:00",
+        "start": "2026-08-26T07:00:00+02:00",
+        "stop": "2026-08-26T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,8 +52,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-26T07:00:00+02:00",
-        "stop": "2026-08-26T10:00:00+02:00",
+        "start": "2026-08-26T10:00:00+02:00",
+        "stop": "2026-08-26T11:54:21+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-26T06:00:00+02:00",
-        "stop": "2026-08-26T07:00:00+02:00",
+        "start": "2026-08-26T07:00:00+02:00",
+        "stop": "2026-08-26T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-26T07:00:00+02:00",
-        "stop": "2026-08-26T10:00:00+02:00",
+        "start": "2026-08-26T10:00:00+02:00",
+        "stop": "2026-08-26T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,54 +83,45 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-26T06:22:51+02:00",
-        "stop": "2026-08-26T06:37:04+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
-      },
-      {
-        "start": "2026-08-26T06:37:04+02:00",
-        "stop": "2026-08-26T08:08:53+02:00",
+        "start": "2026-08-26T06:37:05+02:00",
+        "stop": "2026-08-26T08:08:54+02:00",
         "title": "Onze",
         "subtitle": "Operació sortida; Segueix el pols per Julián i 'Onzeclopèdia'",
         "description": "Fem tertúlia amb Sique Rodríguez, Ivan san Antonio, Irati Vidal i Víctor Lozano. Actualitzem el cas Julián amb Juan Gato, Joaquín Maroto ens parla del Reial Madrid i torna l'Onzeclopèdia de Fran Domènech. Acabem amb l'1x1 d'Òscar Nin.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+      },
+      {
+        "start": "2026-08-26T08:08:54+02:00",
+        "stop": "2026-08-26T08:54:27+02:00",
+        "title": "Aire Lliure",
+        "subtitle": "Ceretània, amb Judit Mascó",
+        "description": "Judit Mascó, absolutament enamorada de la Cerdanya , serà la convidada de Núria Picas en aquest capítol gravat a la comarca pirinenca. Les dues amazones faran un preciós recorregut a cavall pels voltants de Llívia. Però la Cerdanya més esportiva dona per molt: farem esquí alpí , esquí de fons i vol sense motor. I no marxarem sense aprendre a fer un bon trinxat. ",
+        "genre": "REPORTATGES",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-26T06:22:55+02:00",
-        "stop": "2026-08-26T06:34:13+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "La Maia, comandant en cap",
-        "description": "En Paul ha descobert que hi ha un grup de formigues lladres que estan saquejant els formiguers del prat, i la Maia i en Willi s'han ofert voluntaris per guiar una altra tropa de formigues a buscar una reserva de llavors energètiques. Però, és clar, per guiar un escamot de formigues abans hauran d'aprendre a superar obstacles a peu, sense volar!",
+        "start": "2026-08-26T06:59:50+02:00",
+        "stop": "2026-08-26T07:24:56+02:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les tres bessones i la Ventafocs",
+        "description": "Quan les Bessones apareixen al castell, la Ventafocs està molt enfeinada: hi fa de minyona per ser a prop del príncep. Ell se l'estima, però es veu obligat a prometre's amb una de les seves germanastres per no perdre el castell, que té hipotecat. Les nenes organitzen una gran festa per evitar aquest casament.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-26T06:34:13+02:00",
-        "stop": "2026-08-26T06:45:32+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "Fruita prohibida",
-        "description": "Les formigues fan guàrdia davant d'un gerd que li volen regalar a la reina pel Festival de la Fruita que faran demà passat al formiguer. Quan el gerd desapareix, les formigues en donen la culpa a en Willi, que estava jugant per allà a prop. La Maia té clar que no ha sigut ell, però per demostrar-ho haurà de trobar el culpable. Qui deu haver estat?!",
+        "start": "2026-08-26T07:24:56+02:00",
+        "stop": "2026-08-26T07:36:23+02:00",
+        "title": "Els barrufets (3D)",
+        "subtitle": "La barrudisco",
+        "description": "La Meteorit se sent frustrada perquè no pot ballar i sentir música tant com voldria. El Gargamel aprofita aquesta informació per crear un bolet màgic que té una discoteca a l'interior. Els barrufets se senten atrets per la música i hi van entrant d'un en un, fins que el bruixot els captura a tots. Per alliberar els seus amics, la Meteorit desafiarà el Gargamel a una competició de ball.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-26T06:12:12+02:00",
-        "stop": "2026-08-26T06:38:26+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Conviure amb la migranya",
-        "description": "La setena malaltia més invalidant del món és la migranya. En tenen 1.000 milions de persones a tot el món, de totes les cultures i condició. Dura hores o dies i impedeix dur una vida normal. L'actor Marc García Coté, de la sèrie de TV3 La Riera, fa 18 anys que hi conviu. Aprofita quan no té migranya per estudiar els guions. Nota com si els cucs li mengessin el cervell, i quan li ve dalt l'escenari, s'ha de medicar. La reportera Samantha Vall el repta a fer-se una prova d'electroestimulació, però el Marc ho rebutja, perquè fa sis dies que no té migranya, tota una victòria i té por que fent la prova se li presenti un brot. Així, doncs, la Samantha fa la prova al centre tecnològic d'estimulació cerebral Starlab Neuroelectrics. Allí es constata que un cervell no migranyós és capaç de concentrar-se, tot i tenir un so que el destorbi, a diferència d'un migranyós, que no ho tolera. La migranya no té cura, però la neuròloga Patricia Pozo, de l'Hospital Universitari Vall d'Hebron, recomana que tot migranyós porti una vida endreçada, faci activitat física, rebaixi l'estrès i no abusi de la medicació. Una de les seves pacients és Rosa Barberan, a qui tot l'afecta: una colònia, el sol a la cara, estar en dejú... La doctora li aconsella injeccions de Botox sota els cabells i amb això aconsegueix reduir la migranya a quatre cops al mes. La pacient Isabel Ruiz té migranya des que té la menopausa, però també se li desencadena quan veu objectes o formes amb patrons molt repetitius i brillants, com unes escales mecàniques. Sap dibuixar perfectament les seves aures en plena crisi i diu que la migranya li condiciona molt la vida. Coneix l'investigador del Centre de Visió per Computador de la UAB Xavier Otazu, que li ensenya una futura aplicació que prediu quines formes de la vida quotidiana li poden desencadenar un brot. A la Facultat de Genètica de la UB, Bru Cormand explica que hi ha una forma monogènica de la migranya però que n'han descobert almenys 40 gen",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
-      },
       {
         "start": "2026-08-26T06:38:26+02:00",
         "stop": "2026-08-26T07:05:55+02:00",
@@ -138,6 +129,15 @@
         "subtitle": "El vaivé de les platges",
         "description": "Cada hivern, en algun moment, el mar Mediterrani ens mostra la seva cara més ferotge. Però només molt de tant en tant ofereix un espectacle digne de ser recordat. Amb ones de fins a 7 metres d'alçada, el temporal del gener del 2017 és un d'aquests casos excepcionals. Més enllà del perill evident per a la navegació, cal preguntar-se fins a quin punt aquesta força destructiva és, o no, una amenaça per al litoral. Per això, el reporter Pere Renom s'acosta a una platja durant el temporal, acompanyat de Vicenç Gràcia, del Laboratori d'Enginyeria Marítima (UPC).Quan passa el temporal, deixa efectes devastadors en molts punts del litoral. Grans esvorancs, passejos i edificis destruïts, arbres desarrelats i sorra amuntegada terra endins. L'Institut Cartogràfic i Geològic de Catalunya va sobrevolar i fotografiar, en una sol dia, tota la costa catalana. Amb les imatges va generar una aplicació que permet comparar el litoral d'abans i de després del temporal.",
         "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
+      },
+      {
+        "start": "2026-08-26T07:05:55+02:00",
+        "stop": "2026-08-26T07:55:06+02:00",
+        "title": "El Foraster",
+        "subtitle": "Foradada",
+        "description": "Aquesta setmana, El Foraster passarà una nit de pel·lícula en un castell de pel·lícula. Una fortificació medieval situada a Foradada -95 habitants, comarca de la Noguera-, residència dels senyors de Montsonís i barons d'Albi. Però Quim Masferrer no només dormirà al castell, també reunirà tot el poble –inclosos el baró i la baronessa- per fer el monòleg. Entre armadures i escuts nobiliaris, repassarà alguns dels personatges que ha conegut, alguns d'ells dignes d'aparèixer en la millor de les històries de cavallers. En Josepó és un pagès que té poders paranormals; la Maria Dolors és una dona aficionada a collir caragols de nit, a la llum de les estrelles; i en Ferran i en Benjamí són dos amics que es passen el dia discutint, fins i tot quan surten a córrer junts. A Foradada, l'humor no fa distincions entre nobles i plebeus. Al castell n'hi haurà per tothom.",
+        "genre": "VARIETATS",
         "image": ""
       }
     ],
