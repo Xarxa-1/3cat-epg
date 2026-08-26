@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T09:56:32.251493+00:00",
+  "updated": "2026-08-26T10:33:49.557192+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-26T11:54:18+02:00",
-        "stop": "2026-08-26T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
         "start": "2026-08-26T12:00:00+02:00",
         "stop": "2026-08-26T13:29:08+02:00",
         "title": "Notícies 3CatInfo",
@@ -63,15 +54,6 @@
     ],
     "324": [
       {
-        "start": "2026-08-26T10:00:00+02:00",
-        "stop": "2026-08-26T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
         "start": "2026-08-26T12:00:00+02:00",
         "stop": "2026-08-26T14:00:00+02:00",
         "title": "Notícies 3CatInfo",
@@ -79,58 +61,58 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-26T14:00:00+02:00",
+        "stop": "2026-08-26T14:30:00+02:00",
+        "title": "Telenotícies comarques",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-08-26T11:29:37+02:00",
-        "stop": "2026-08-26T12:00:00+02:00",
-        "title": "GR Pirineus",
-        "subtitle": "Pura energia",
-        "description": "Avui el nostre viatge transcorrerà pel Pallars Jussà, des de la Vall Fosca fins a Tremp!Començarem a la capçalera de la Vall, a l'estany de Sallente, on primer pujarem amb el telefèric per visitar l'estany Gento i després baixarem a l'interior de la Terra per descobrir la central hidroelèctrica més gran de Catalunya. A partir d'aquí creuarem la Vall per anar fins al seu límit, Senterada, on tastarem la girella, l'embotit típic del Pallars i hi farem nit.L'endemà matinarem per visitar la Pobla de Segur i Salàs, el poble de les botigues. Passarem per Talarn, on ens endinsarem de ple en el món del vi, i acabarem la ruta a la capital, Tremp.En total, uns 50 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb telefèric... ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "start": "2026-08-26T12:17:30+02:00",
+        "stop": "2026-08-26T13:49:05+02:00",
+        "title": "Onze",
+        "subtitle": "Operació sortida; Segueix el pols per Julián i 'Onzeclopèdia'",
+        "description": "Fem tertúlia amb Sique Rodríguez, Ivan san Antonio, Irati Vidal i Víctor Lozano. Actualitzem el cas Julián amb Juan Gato, Joaquín Maroto ens parla del Reial Madrid i torna l'Onzeclopèdia de Fran Domènech. Acabem amb l'1x1 d'Òscar Nin.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-08-26T12:00:00+02:00",
-        "stop": "2026-08-26T12:14:06+02:00",
-        "title": "Sala de Premsa",
-        "subtitle": "Hansi Flick / Prèvia Barça-Ath. Club / J1",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+        "start": "2026-08-26T13:49:05+02:00",
+        "stop": "2026-08-26T14:21:12+02:00",
+        "title": "Zona Zàping Club",
+        "subtitle": "Gemma Mallorca, entre la intuïció i la casualitat",
+        "description": "La convidada accepta el desafiament del 'Zona Zàping Club' i descobrirà que res és tan evident com sembla a internet.",
+        "genre": "ESPECIALS",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-26T11:54:37+02:00",
-        "stop": "2026-08-26T12:07:02+02:00",
-        "title": "Ghost Rockers",
-        "subtitle": "",
-        "description": "En Jonas se sent afalagat quan en Jimmy el tria a ell i a la Fenne per als papers principals del musical. Mentrestant, la Mila rep un nou encàrrec de la Serp d'Or, i per fi en Brandon li fa costat. Per esbrinar més coses sobre l'estatueta de la ballarina, decideixen escoltar d'amagat la banda de delinqüents, i per fer-ho la Mila ha d'introduir un micròfon a la bossa on guarden l'estatueta. ",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-26T12:30:24+02:00",
+        "stop": "2026-08-26T12:52:08+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "La mare cocodril",
+        "description": "En Chris i en Martin estan decidits a demostrar a l'Aviva que el gran cocodril del Nil africà, un dels més grossos del món, a més d'espantar una mica, també sap fer altres coses. Ho faran miniaturitzant-se, disfressant-se d'ous de cocodril i ficant-se al niu de la mare cocodril! Ben aviat sabrem que no és veritat que sempre es volen cruspir tot el que troben! Oi?!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-26T12:07:02+02:00",
-        "stop": "2026-08-26T12:18:59+02:00",
-        "title": "Ghost Rockers",
-        "subtitle": "",
-        "description": "La Charlie descobreix que la Mila i en Brandon surten junts, i la Mila li demana que de moment no ho digui a ningú. D'altra banda, la colla segueix una nova pista sobre el calze enverinat de Florència que els condueix a una antiquària amb antecedents penals. La Mila està decidida a esbrinar què conté el misteriós paquet que ha de rebre la marxant d'art. Però abans, els Ghost Rockers reben una pista dels fantasmes.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-26T12:52:08+02:00",
+        "stop": "2026-08-26T13:14:43+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Balenes i calamars",
+        "description": "Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-26T11:25:05+02:00",
-        "stop": "2026-08-26T12:01:11+02:00",
-        "title": "Tot o res",
-        "subtitle": "Tot o res",
-        "description": "",
-        "genre": "CONCURS",
-        "image": "http://statics.ccma.cat/multimedia/jpg/3/7/1487784560073.jpg"
-      },
       {
         "start": "2026-08-26T12:01:11+02:00",
         "stop": "2026-08-26T12:59:34+02:00",
@@ -139,19 +121,18 @@
         "description": "",
         "genre": "CONCURS",
         "image": ""
-      }
-    ],
-    "oca1": [
+      },
       {
-        "start": "2026-08-26T11:50:00+02:00",
-        "stop": "2026-08-26T12:29:55+02:00",
-        "title": "Sala de Premsa",
-        "subtitle": "- Hansi Flick / Prèvia Barça-Ath. Club / J1",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+        "start": "2026-08-26T12:59:34+02:00",
+        "stop": "2026-08-26T13:55:14+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Jarek i Beata",
+        "description": "En Jarek Kret i la Beata Tadla, dos famosos presentadors de la televisió polonesa, protagonitzen aquest capítol, on gaudeixen de les aigües termals, dels magnífics paisatges de la Costa Brava i de la diada de Sant Jordi a Barcelona.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
+    "oca1": [],
     "oca2": [],
     "oca3": [],
     "oca4": []
