@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T06:39:31.666828+00:00",
+  "updated": "2026-08-26T07:31:58.709360+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-26T08:08:55+02:00",
-        "stop": "2026-08-26T08:54:28+02:00",
-        "title": "Aire Lliure",
-        "subtitle": "Ceretània, amb Judit Mascó",
-        "description": "Judit Mascó, absolutament enamorada de la Cerdanya , serà la convidada de Núria Picas en aquest capítol gravat a la comarca pirinenca. Les dues amazones faran un preciós recorregut a cavall pels voltants de Llívia. Però la Cerdanya més esportiva dona per molt: farem esquí alpí , esquí de fons i vol sense motor. I no marxarem sense aprendre a fer un bon trinxat. ",
-        "genre": "REPORTATGES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-26T08:54:28+02:00",
-        "stop": "2026-08-26T09:40:34+02:00",
+        "start": "2026-08-26T08:54:29+02:00",
+        "stop": "2026-08-26T09:40:35+02:00",
         "title": "Aire Lliure",
         "subtitle": "Terra de Volcans, amb Carme Ruscalleda",
         "description": "Si hi ha una comarca atractiva per ser visitada en plena tardor, és, sense dubte, La Garrotxa. Núria Picas i Aire Lliure la van visitar en companyia de la cuinera Carme Ruscalleda que va gaudir d'una espectacular travessa en globus. També visitarem la fageda d'en Jordà i el volcà de St. Margarida ",
         "genre": "REPORTATGES",
         "image": ""
+      },
+      {
+        "start": "2026-08-26T09:40:35+02:00",
+        "stop": "2026-08-26T10:34:56+02:00",
+        "title": "Katalonski",
+        "subtitle": "Madrid",
+        "description": "El Halldor arriba a Madrid i ho fa en tren, on coneixerà l'hoste Arturo Rodríguez, que li ensenyarà el seu ofici; escoltarà la bonica història d'Alejandro Molina, que ha après ara el català en homenatge a la seva mare, que va morir fa uns quants anys; amb ell farà pilates, assistirà a una classe de català a Blanquerna i acabarà al seu barri, Carabanchel, menjant els típics entresijos amb el seu pare, un militar retirat; aprendrà a fer ioga polonesa i tastarà el menjar polonès amb Klaudia Matysiak; el Halldor ensenyarà com Silvia Nuere i els seus companys, vestits amb una samarreta amb els pronoms febles, aprenen català assajant una obra de teatre; acompanyarà a un càsting l'actor Adrián Expósito i, a la nit, anirà amb ell a dues estrenes de pel·lícules, en què aprendrà a posar per a un 'photocall'.",
+        "genre": "Docu-Entreteniment",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-26T08:31:48+02:00",
-        "stop": "2026-08-26T08:43:02+02:00",
-        "title": "A jugar! Amb en Titó i els Fa la la",
-        "subtitle": "A jugar amb la Capidzilla",
-        "description": "El Ruquicorn, sense voler, ha convertit una de les germanes capibares en una criatura gegant amb una fam insaciable de polos: la Capidzilla! En Titó i els Fa La La hauran d'aturar-la abans no ho arrasi tot. Però no serà fàcil!",
-        "genre": "ALTRES",
+        "start": "2026-08-26T09:26:14+02:00",
+        "stop": "2026-08-26T09:37:40+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La cursa de globus",
+        "description": "L'alcaldessa de Badia Aventures s'enlaira sense voler amb un globus i en Ryder i els cadells han de fer un rescat espectacular per salvar-la i guanyar una cursa.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-26T08:43:02+02:00",
-        "stop": "2026-08-26T08:53:52+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "Carbassa i carbassó",
-        "description": "Síndria, meló, poma, albergínia, cireres, carbassa i carbassó. El Mic observa, en diu el nom i menja hortalisses i fruita.",
+        "start": "2026-08-26T09:37:40+02:00",
+        "stop": "2026-08-26T09:48:13+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla a la neu",
+        "description": "En Ryder i la Patrulla Peluda han de rescatar l'Alex i en Jake, que han quedat encallats en un pendent de la muntanya.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-26T07:55:06+02:00",
-        "stop": "2026-08-26T08:41:49+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La canya de pescar",
-        "description": "És millor pescar al riu o pescar al mar? No volem obrir aquest debat, però dediquem aquest capítol a la canya de pescar. No serà que la gent que no pesca res és perquè hi va amb la canya que no toca? O simplement és que no en sabem? Ens visita el grup Roba Estesa, que s'acomiaden dels escenaris aquest 2025. Abans de fer-ho, però, podem gaudir d'una de les seves cançons a l'escenari de 'La Renaixença'. Sortim a passejar amb en Lopes fins a la Revolució Russa del 1905, durant el motí del cuirassat Potemkin.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
-      },
-      {
-        "start": "2026-08-26T08:41:49+02:00",
-        "stop": "2026-08-26T09:10:57+02:00",
+        "start": "2026-08-26T09:10:57+02:00",
+        "stop": "2026-08-26T09:39:06+02:00",
         "title": "L'ofici de viure",
-        "subtitle": "Benestar emocional",
-        "description": "El programa explica què és, exactament, el benestar emocional, i com aconseguir-lo. El benestar emocional no consisteix a estar bé cada dia, i és compatible amb els alts i baixos, maldecaps i fins i tot els tràngols. No sempre podem estar bé. Tanmateix, ¿a partir de quin moment hem de demanar ajut? ¿Com podem saber si tenim benestar emocional i psicològic, o no? Nosaltres i les persones del nostre entorn.",
+        "subtitle": "Prevenir el suïcidi",
+        "description": "El programa posa èmfasi, com el seu títol indica, en la prevenció. Sobretot adreçat a pares i familiars de joves adolescents. Però també donarà veu a testimonis que, després d'haver tingut idees o fins i tot temptatives suïcides, han refet la seva vida.",
         "genre": "MAGAZINE ESPECIALITZAT",
         "image": "https://img.ccma.cat/multimedia/jpg/7/0/1625470710907.jpg"
+      },
+      {
+        "start": "2026-08-26T09:39:06+02:00",
+        "stop": "2026-08-26T10:07:43+02:00",
+        "title": "Després de tu",
+        "subtitle": "La nova convivència",
+        "description": "CAP 15. LA NOVA CONVIVÈNCIAEncarna, amb el turmell trencat, s'instal·la a la casa de Pau. La família viurà uns dies d'adaptació amb la convivència amb la iaia impedida. (Per a Encarna són temps de baixada i anada cap a la nostàlgia.)",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       }
     ],
     "oca1": [],
