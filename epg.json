@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25T23:47:42.143173+00:00",
+  "updated": "2026-08-26T01:00:06.391439+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-26T01:23:25+02:00",
-        "stop": "2026-08-26T02:10:19+02:00",
-        "title": "La Renaixença",
-        "subtitle": "Millors moments - setmana 22",
-        "description": "En els quatre capítols d'aquesta setmana hem parlat del paper d'alumini, la cinta americana, el cadenat i la ferradura. No és que vulguem fer cap invent estrany amb totes aquestes eines, però tenen la seva gràcia per separat. Hem rebut la visita de Ramon Madaula, Albert Batlle, Alosa i Xavier Freixas. Tenim sort amb els nostres convidats, perquè sempre ens emportem sorpreses i riures.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
-      },
-      {
         "start": "2026-08-26T02:10:19+02:00",
         "stop": "2026-08-26T04:30:00+02:00",
         "title": "Notícies 3CatInfo",
@@ -59,6 +50,15 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-26T04:30:00+02:00",
+        "stop": "2026-08-26T05:09:09+02:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": " Xavi Maureta Animals Exòtics",
+        "description": "Animals Exòtics és la nova proposta de Xavi Maureta, on combina la sonoritat del jazz més contemporani amb melodies i ritmes que provenen de músiques 'cosines', com ara el flamenc, les músiques folklòriques de Llatinoamèrica, el blues o les musiques africanes. Són Guim Garcia Balach, al saxo alt, amb Marco Mezquida, al piano i teclats; Rai Ferrer, al contrabaix, i el mateix Xavi Maureta, a la bateria.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-26T00:46:31+02:00",
-        "stop": "2026-08-26T02:18:30+02:00",
-        "title": "Onze",
-        "subtitle": "Operació sortida; Segueix el pols per Julián i 'Onzeclopèdia'",
-        "description": "Fem tertúlia amb Sique Rodríguez, Ivan san Antonio, Irati Vidal i Víctor Lozano. Actualitzem el cas Julián amb Juan Gato, Joaquín Maroto ens parla del Reial Madrid i torna l'Onzeclopèdia de Fran Domènech. Acabem amb l'1x1 d'Òscar Nin.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-08-26T02:32:48+02:00",
+        "stop": "2026-08-26T04:03:41+02:00",
+        "title": "Tot Costa",
+        "subtitle": "La decisió amb el 9",
+        "description": "El Barça valora la possibilitat de no fitxar a cap 9 en aquest final de mercat en cas de no poder incorporar a Julián Álvarez. Després de la reunió entre Laporta i Deco, el club ha de decidir quina línia seguir en aquest final de mercat. A més, amb la Laia Bonals i el Santi Giménez parlem del futur de Koundé i Balde i del debut de Mourinho al Bernabéu a la Lliga.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       },
       {
-        "start": "2026-08-26T02:18:30+02:00",
-        "stop": "2026-08-26T02:32:46+02:00",
+        "start": "2026-08-26T04:03:41+02:00",
+        "stop": "2026-08-26T04:18:10+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-26T01:45:09+02:00",
-        "stop": "2026-08-26T01:56:45+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Perfum de princesa",
-        "description": "La Wendy acaba de rebre un perfum que ha comprat. Fa molt bona olor i vol ensenyar-l'hi al Maxence. Però a la Marine també li agradaria fer la mateixa olor que una princesa. I posats a fer, voldria compartir-la amb les seves amigues i els seus gairebé mil ninos. La Wendy s'hi nega, però per fer realitat els seus desitjos, la Marine està disposada a fer el que calgui.",
+        "start": "2026-08-26T02:59:20+02:00",
+        "stop": "2026-08-26T03:20:28+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Mentida",
+        "description": "Des que l'Adrien ha conegut la Kagami, ha descobert una nova forma d'independència sense el seu vestit de superheroi. La Kagami té una vida programada al minut, com l'Adrien, i ella sap crear moments màgics en què s'escapen junts, en secret. Però quan l'Adrien s'ha de transformar en el Gat Noir, no pot dir la veritat a la Kagami. I ella s'adona que l'enganya. Amb el cor trencat, es transforma en Mentida, una implacable supermalvada que vol fer desaparèixer les mentides del món i tots els mentiders, inclosos els superherois!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-26T01:56:45+02:00",
-        "stop": "2026-08-26T02:19:03+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Arriba el Pikachu",
-        "description": "A Vila Paleta, el jove Ash Ketchum està molt il·lusionat i impacient, perquè anirà al campament Pokémon del professor Oak. Però quan arriba el dia, el noi s'adorm, i el professor Oak i els altres alumnes se'n van sense ell. Dos nois, el Goh i la Chloe, se separen del grup i troben el mític pokémon Mew, i el Goh jura que un dia l'atraparà. Mentrestant, un pichu solitari es passa el dia amb un grup de kangaskhans que l'acullen, però quan arriba el moment que marxar per espavilar-se sol, llavors de cop evoluciona i es converteix en el Pikachu. Al cap d'un temps, resulta que va a parar al laboratori del professor Oak, però això ja és una altra història.",
+        "start": "2026-08-26T03:20:28+02:00",
+        "stop": "2026-08-26T03:41:05+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "La banda dels secrets",
+        "description": "La Marinette pensa que no podrà trobar mai l'amor de veritat mentre enganyi tothom per protegir la seva identitat secreta. Incapaç de confiar en ningú, es tanca i s'allunya dels que l'estimen. Les seves amigues Alya, Rose, Juleka, Alix i Mylène, preocupades, decideixen salvar la seva amiga fent que els hi expliqui tots els seus secrets. Però per culpa d'un malentès, la Marinette es baralla amb elles i les noies són akumatitzades. Transformades en la Banda dels Secrets, estan decidides a salvar la Marinette, tant si vol com si no vol. Serà capaç de continuar amagant-los el seu secret?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-26T00:35:27+02:00",
-        "stop": "2026-08-26T02:14:10+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Lasa i Zabala",
-        "description": "LASA I ZABALAProductora: Abra Producciones, 2014Director: Pablo MaloGuió: Joanes UrkixoDirector de fotografia: Aitor MantxolaMúsica: Pascal GaigneIntèrprets: Unax Ugalde (Iñigo), Francesc Orella (Galindo), Jon Anxa (Joxean Lasa), Cristian Merchan (Joxi Zabala), Oriol Vila (Bayo), Ricard Sales (Dorado), Javier Mora (Vaquero), Sergi Calleja (Jesús García) i Pep Tosar (jutge instructor)Octubre de 1983. Els refugiats bascos Joxean Lasa i Joxi Zabala desapareixen a Baiona sense deixar rastre abans d'una onada d'atemptats que reivindiquen els GAL. Íñigo, el jove advocat de les famílies, haurà d'encarar la convicció cada cop més estesa que els nois no apareixeran mai. 1995. Han passat dotze anys quan Jesús García, policia d'Alacant, tot seguint revelacions sobre els GAL, reobre el cas de dos cossos que han estat deu anys sense identificar després d'haver estat assassinats i enterrats en calç viva. Les seves sospites es confirmen: són Joxean i Joxi. Els cossos són repatriats i són enterrats a Tolosa, enmig d'una gran tensió amb els ertzaines desplegats. Un cop obert el sumari, Íñigo i el seu ajudant, el jove advocat Fede, amb la col·laboració del jutge instructor i el fiscal investiguen l'entorn del coronel de la Guàrdia Civil Rodríguez Galindo i de l'exgovernador Elorriaga, i troben indicis de responsabilitat en el segrest i assassinat dels nois. Però, en el llarg i recargolat camí per a demostrar-ho, hauran d'enfrontar-se al joc brut d'un entorn aferrat al poder, hauran de superar els propis conflictes i fins i tot hauran de posar en perill les seves vides.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/3/1758013360032.jpg"
-      },
-      {
-        "start": "2026-08-26T02:14:10+02:00",
-        "stop": "2026-08-26T03:12:38+02:00",
+        "start": "2026-08-26T02:14:11+02:00",
+        "stop": "2026-08-26T03:12:39+02:00",
         "title": "Els caps de setmana llargs d'en Rick Stein",
         "subtitle": "Reykjavík",
         "description": "En Rick Stein va a Reykjavík al pic de l'hivern, a la recerca del bacallà perfecte, i farà diverses excursions fora vila, envoltat d'un paisatge glaçat. Es banyarà en una piscina termal a l'aire lliure, visitarà l'espectacular Strokkur, un dels guèisers més actius del país, i tastarà un pa de sègol cuit amb sorra volcànica. A la seva cuina de Padstow, ens farà un gratinat de bacallà amb salsa bearnesa, costelles de xai arrebossades, amb col llombarda especiada i nabius, i una sopa d'escamarlans molt bona.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
+      },
+      {
+        "start": "2026-08-26T03:12:39+02:00",
+        "stop": "2026-08-26T04:11:25+02:00",
+        "title": "Els caps de setmana llargs d'en Rick Stein",
+        "subtitle": "Bordeus",
+        "description": "En Rick visita Bordeus a l'època de la verema. Visita diferents restaurants on menja des d'un plat emblemàtic de la ciutat a un menú del dia en un modest restaurant de poble, passant per un menú sorpresa modern i innovador, una 'côte de bœuf' molt especial en una vinya, o un àpat de musclos a la vora del mar. Entre àpat i àpat, visita algunes vinyes del país, un mercat i fa un tast de vins.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
