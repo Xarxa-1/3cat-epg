@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T10:33:49.557192+00:00",
+  "updated": "2026-08-26T11:05:55.292586+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -94,20 +94,20 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-26T12:30:24+02:00",
-        "stop": "2026-08-26T12:52:08+02:00",
+        "start": "2026-08-26T12:52:08+02:00",
+        "stop": "2026-08-26T13:14:44+02:00",
         "title": "Els germans Kratt",
-        "subtitle": "La mare cocodril",
-        "description": "En Chris i en Martin estan decidits a demostrar a l'Aviva que el gran cocodril del Nil africà, un dels més grossos del món, a més d'espantar una mica, també sap fer altres coses. Ho faran miniaturitzant-se, disfressant-se d'ous de cocodril i ficant-se al niu de la mare cocodril! Ben aviat sabrem que no és veritat que sempre es volen cruspir tot el que troben! Oi?!",
+        "subtitle": "Balenes i calamars",
+        "description": "Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-26T12:52:08+02:00",
-        "stop": "2026-08-26T13:14:43+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Balenes i calamars",
-        "description": "Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!",
+        "start": "2026-08-26T13:14:44+02:00",
+        "stop": "2026-08-26T13:37:20+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El cas de la gran persecució de la lliga de detectius junior",
+        "description": "Després d'atrapar un lladre, la Lliga de Detectius Júnior surt a tots els diaris. Al cap de poc, un esportiu vermell envesteix l'Ayumi sense conseqüències greus. En Conan, en Genta i en Mitsuhiko el persegueixen amb el monopatí. El conductor acaba parant a davant d'una comissaria i s'entrega. Aquell mateix dia, en Kogoro rep un avís d'en Megré: s'ha produït un assassinat en una fàbrica per on els nens havien passat seguint el cotxe.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
