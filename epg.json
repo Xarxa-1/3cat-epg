@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T09:10:05.987422+00:00",
+  "updated": "2026-08-26T09:56:32.251493+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-26T10:00:00+02:00",
-        "stop": "2026-08-26T11:54:23+02:00",
+        "start": "2026-08-26T11:54:18+02:00",
+        "stop": "2026-08-26T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,8 +52,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-26T11:54:16+02:00",
-        "stop": "2026-08-26T11:59:59+02:00",
+        "start": "2026-08-26T12:00:00+02:00",
+        "stop": "2026-08-26T13:29:08+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,65 +83,75 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-26T10:34:58+02:00",
-        "stop": "2026-08-26T11:29:36+02:00",
-        "title": "Cosins Germans",
-        "subtitle": "L'Alguer",
-        "description": "Ferran visita els cosins més llunyans, a l'Alguer, l'indret més oriental del nostre domini lingüístic. Però com és l'Alguer del present? Per a trobar la resposta comprovarem la salut de la llengua. Navegarem entre penya-segats, i hi reviurem antigues batalles navals, visitarem Franca Masu, una de les veus alguereses més universals, anirem a classe de català, i Ferran fins i tot presentarà un premi literari. Benvinguts a la ciutat catalana de Sardenya.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-26T11:29:36+02:00",
+        "start": "2026-08-26T11:29:37+02:00",
         "stop": "2026-08-26T12:00:00+02:00",
         "title": "GR Pirineus",
         "subtitle": "Pura energia",
         "description": "Avui el nostre viatge transcorrerà pel Pallars Jussà, des de la Vall Fosca fins a Tremp!Començarem a la capçalera de la Vall, a l'estany de Sallente, on primer pujarem amb el telefèric per visitar l'estany Gento i després baixarem a l'interior de la Terra per descobrir la central hidroelèctrica més gran de Catalunya. A partir d'aquí creuarem la Vall per anar fins al seu límit, Senterada, on tastarem la girella, l'embotit típic del Pallars i hi farem nit.L'endemà matinarem per visitar la Pobla de Segur i Salàs, el poble de les botigues. Passarem per Talarn, on ens endinsarem de ple en el món del vi, i acabarem la ruta a la capital, Tremp.En total, uns 50 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb telefèric... ",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+      },
+      {
+        "start": "2026-08-26T12:00:00+02:00",
+        "stop": "2026-08-26T12:14:06+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Hansi Flick / Prèvia Barça-Ath. Club / J1",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-26T11:09:03+02:00",
-        "stop": "2026-08-26T11:20:25+02:00",
-        "title": "Les Sisters",
-        "subtitle": "La 'Napocalipsi'",
-        "description": "És de nit. Les dues germanes tremolen de por mentre miren 'L'apocalipsi de l'any 2.000', una vella pel·lícula de zombis. De cop i volta se'n va la llum. La casa i tot el barri es queden a les fosques. La Marine i la Wendy no les tenen totes, ja que els pares no són a casa. Les dues germanes estan mortes de por, però fan pinya i decideixen preparar-se per un possible atac de zombis...",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-26T11:54:37+02:00",
+        "stop": "2026-08-26T12:07:02+02:00",
+        "title": "Ghost Rockers",
+        "subtitle": "",
+        "description": "En Jonas se sent afalagat quan en Jimmy el tria a ell i a la Fenne per als papers principals del musical. Mentrestant, la Mila rep un nou encàrrec de la Serp d'Or, i per fi en Brandon li fa costat. Per esbrinar més coses sobre l'estatueta de la ballarina, decideixen escoltar d'amagat la banda de delinqüents, i per fer-ho la Mila ha d'introduir un micròfon a la bossa on guarden l'estatueta. ",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-08-26T11:20:25+02:00",
-        "stop": "2026-08-26T11:31:47+02:00",
-        "title": "Les Sisters",
-        "subtitle": "El meu tresor",
-        "description": "Remenant pel garatge les germanes troben un vell mapa d'un tresor en una capsa. La Wendy creu que no és autèntic, però la Marine surt disparada a buscar el tresor pels carrers de Pom-les-Bains. Però la Wendy té els seus dubtes i no es pot estar de seguir la seva germana a distància.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-26T12:07:02+02:00",
+        "stop": "2026-08-26T12:18:59+02:00",
+        "title": "Ghost Rockers",
+        "subtitle": "",
+        "description": "La Charlie descobreix que la Mila i en Brandon surten junts, i la Mila li demana que de moment no ho digui a ningú. D'altra banda, la colla segueix una nova pista sobre el calze enverinat de Florència que els condueix a una antiquària amb antecedents penals. La Mila està decidida a esbrinar què conté el misteriós paquet que ha de rebre la marxant d'art. Però abans, els Ghost Rockers reben una pista dels fantasmes.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-26T10:32:18+02:00",
-        "stop": "2026-08-26T11:25:04+02:00",
-        "title": "Persona Infiltrada",
-        "subtitle": "Jair Domínguez - família Borràs Rayo",
-        "description": "En Jair Domínguez és el convidat d'aquesta setmana al 'Persona infiltrada'. L'escriptor, guionista i col·laborador del programa 'Està passant' viatjarà fins a terres del Baix Camp per conèixer una família de Reus. Amb ells gaudirà de la majestuositat de l'anomenat Beverly Hills reusenc i descobrirà les vinyes i els vins que produeix la família. Allà, en Jair haurà de fer gala de les seves habilitats periodístiques si vol detectar a temps les 'fake news' familiars. Per això, haurà d'estar ben despert a l'interrogatori i a les proves en què competiran durant el dia. A més, haurà d'evitar que els tastets de vins de la zona li facin perdre la concentració. Al final de la jornada, en Jair haurà d'assenyalar un dels membres de la família. Si encerta la persona infiltrada, un espectador s'endurà els 5.000 &euro; per sorteig. Però si la família aconsegueix enredar-lo, seran ells i la persona infiltrada els qui es quedaran el premi del programa.",
-        "genre": "CONCURS",
-        "image": ""
-      },
-      {
-        "start": "2026-08-26T11:25:04+02:00",
+        "start": "2026-08-26T11:25:05+02:00",
         "stop": "2026-08-26T12:01:11+02:00",
         "title": "Tot o res",
         "subtitle": "Tot o res",
         "description": "",
         "genre": "CONCURS",
         "image": "http://statics.ccma.cat/multimedia/jpg/3/7/1487784560073.jpg"
+      },
+      {
+        "start": "2026-08-26T12:01:11+02:00",
+        "stop": "2026-08-26T12:59:34+02:00",
+        "title": "Atrapa'm si pots - Especials",
+        "subtitle": "Atrapa'm si pots - estiu",
+        "description": "",
+        "genre": "CONCURS",
+        "image": ""
       }
     ],
-    "oca1": [],
+    "oca1": [
+      {
+        "start": "2026-08-26T11:50:00+02:00",
+        "stop": "2026-08-26T12:29:55+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "- Hansi Flick / Prèvia Barça-Ath. Club / J1",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+      }
+    ],
     "oca2": [],
     "oca3": [],
     "oca4": []
