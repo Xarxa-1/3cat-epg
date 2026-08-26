@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T05:03:57.658957+00:00",
+  "updated": "2026-08-26T05:49:25.310792+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -103,34 +103,25 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-26T06:59:50+02:00",
-        "stop": "2026-08-26T07:24:56+02:00",
-        "title": "Les Tres Bessones",
-        "subtitle": "Les tres bessones i la Ventafocs",
-        "description": "Quan les Bessones apareixen al castell, la Ventafocs està molt enfeinada: hi fa de minyona per ser a prop del príncep. Ell se l'estima, però es veu obligat a prometre's amb una de les seves germanastres per no perdre el castell, que té hipotecat. Les nenes organitzen una gran festa per evitar aquest casament.",
+        "start": "2026-08-26T07:47:23+02:00",
+        "stop": "2026-08-26T07:58:23+02:00",
+        "title": "Els barrufets (3D)",
+        "subtitle": "El gosset del Gargamel",
+        "description": "El Gargamel li promet al Dwayne una consola si li porta un barrufet. Per aconseguir-ho, el nen prepara una poció per transformar-se en un supercaçador, però el beuratge falla i es converteix en gos. El Gargamel n'està encantat, perquè el seu nebot té ara un olfacte extraordinari que el pot portar fins al poble Barrufet. Però els barrufets contraataquen amb una pudor tan forta que el Dwayne no els podrà localitzar.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-26T07:24:56+02:00",
-        "stop": "2026-08-26T07:36:23+02:00",
+        "start": "2026-08-26T07:58:23+02:00",
+        "stop": "2026-08-26T08:09:26+02:00",
         "title": "Els barrufets (3D)",
-        "subtitle": "La barrudisco",
-        "description": "La Meteorit se sent frustrada perquè no pot ballar i sentir música tant com voldria. El Gargamel aprofita aquesta informació per crear un bolet màgic que té una discoteca a l'interior. Els barrufets se senten atrets per la música i hi van entrant d'un en un, fins que el bruixot els captura a tots. Per alliberar els seus amics, la Meteorit desafiarà el Gargamel a una competició de ball.",
+        "subtitle": "La timbalera",
+        "description": "La Meteorit perd el timbal al bosc quan el Gargamel les empaita a ella i a la Barrutempesta. El bruixot s'endú l'instrument i hi aplica un encanteri perquè emeti un so que hipnotitzi els barrufets i els atregui cap a casa seva. L'encanteri és tan potent que tot el poble de les noies cau sota el seu influx. Només la Barrutempesta i la Meteorit, que porten taps a les orelles, hi seran immunes.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-26T06:38:26+02:00",
-        "stop": "2026-08-26T07:05:55+02:00",
-        "title": "Quèquicom",
-        "subtitle": "El vaivé de les platges",
-        "description": "Cada hivern, en algun moment, el mar Mediterrani ens mostra la seva cara més ferotge. Però només molt de tant en tant ofereix un espectacle digne de ser recordat. Amb ones de fins a 7 metres d'alçada, el temporal del gener del 2017 és un d'aquests casos excepcionals. Més enllà del perill evident per a la navegació, cal preguntar-se fins a quin punt aquesta força destructiva és, o no, una amenaça per al litoral. Per això, el reporter Pere Renom s'acosta a una platja durant el temporal, acompanyat de Vicenç Gràcia, del Laboratori d'Enginyeria Marítima (UPC).Quan passa el temporal, deixa efectes devastadors en molts punts del litoral. Grans esvorancs, passejos i edificis destruïts, arbres desarrelats i sorra amuntegada terra endins. L'Institut Cartogràfic i Geològic de Catalunya va sobrevolar i fotografiar, en una sol dia, tota la costa catalana. Amb les imatges va generar una aplicació que permet comparar el litoral d'abans i de després del temporal.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
-      },
       {
         "start": "2026-08-26T07:05:55+02:00",
         "stop": "2026-08-26T07:55:06+02:00",
@@ -139,6 +130,15 @@
         "description": "Aquesta setmana, El Foraster passarà una nit de pel·lícula en un castell de pel·lícula. Una fortificació medieval situada a Foradada -95 habitants, comarca de la Noguera-, residència dels senyors de Montsonís i barons d'Albi. Però Quim Masferrer no només dormirà al castell, també reunirà tot el poble –inclosos el baró i la baronessa- per fer el monòleg. Entre armadures i escuts nobiliaris, repassarà alguns dels personatges que ha conegut, alguns d'ells dignes d'aparèixer en la millor de les històries de cavallers. En Josepó és un pagès que té poders paranormals; la Maria Dolors és una dona aficionada a collir caragols de nit, a la llum de les estrelles; i en Ferran i en Benjamí són dos amics que es passen el dia discutint, fins i tot quan surten a córrer junts. A Foradada, l'humor no fa distincions entre nobles i plebeus. Al castell n'hi haurà per tothom.",
         "genre": "VARIETATS",
         "image": ""
+      },
+      {
+        "start": "2026-08-26T07:55:06+02:00",
+        "stop": "2026-08-26T08:41:49+02:00",
+        "title": "La Renaixença",
+        "subtitle": "La canya de pescar",
+        "description": "És millor pescar al riu o pescar al mar? No volem obrir aquest debat, però dediquem aquest capítol a la canya de pescar. No serà que la gent que no pesca res és perquè hi va amb la canya que no toca? O simplement és que no en sabem? Ens visita el grup Roba Estesa, que s'acomiaden dels escenaris aquest 2025. Abans de fer-ho, però, podem gaudir d'una de les seves cançons a l'escenari de 'La Renaixença'. Sortim a passejar amb en Lopes fins a la Revolució Russa del 1905, durant el motí del cuirassat Potemkin.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
