@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T12:05:03.783456+00:00",
+  "updated": "2026-08-26T13:15:42.698779+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-26T13:59:58+02:00",
-        "stop": "2026-08-26T14:30:00+02:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
-      },
-      {
         "start": "2026-08-26T14:30:00+02:00",
         "stop": "2026-08-26T15:33:58+02:00",
         "title": "Telenotícies migdia",
@@ -59,78 +50,78 @@
         "description": "",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+      },
+      {
+        "start": "2026-08-26T15:30:26+02:00",
+        "stop": "2026-08-26T16:20:45+02:00",
+        "title": "Gent de món",
+        "subtitle": "Mediterrani occidental 1",
+        "description": "Heu vist mai el mar als peus de la muntanya de Montserrat?Heu gaudit de les vistes que contemplava el comte de Montecristo des de la seva cel·la?Avui farem un creuer per la Mediterrània occidental des de Barcelona fins a Nàpols a bord del vaixell més gran del món. Una travessa pels mars més propers farcida de ports mil·lenaris, de capitals d'imperis caiguts, de carrers desendreçats, de verges daurades i torres inclinades; de catedrals de marbre i antics deus fets de pedra. Un viatge pels orígens i la historia dels nostres veïns a traves del mar que sempre ens ha unit. ",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-26T12:00:00+02:00",
-        "stop": "2026-08-26T14:00:00+02:00",
+        "start": "2026-08-26T14:30:00+02:00",
+        "stop": "2026-08-26T16:30:00+02:00",
+        "title": "Telenotícies migdia",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+      },
+      {
+        "start": "2026-08-26T16:30:00+02:00",
+        "stop": "2026-08-26T17:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-08-26T14:00:00+02:00",
-        "stop": "2026-08-26T14:30:00+02:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-08-26T13:49:06+02:00",
-        "stop": "2026-08-26T14:21:13+02:00",
-        "title": "Zona Zàping Club",
-        "subtitle": "Gemma Mallorca, entre la intuïció i la casualitat",
-        "description": "La convidada accepta el desafiament del 'Zona Zàping Club' i descobrirà que res és tan evident com sembla a internet.",
-        "genre": "ESPECIALS",
+        "start": "2026-08-26T14:56:53+02:00",
+        "stop": "2026-08-26T15:28:07+02:00",
+        "title": "GR Barcelona",
+        "subtitle": "El camí del cava",
+        "description": "Alt Penedès. Camins del vi i del cava. Ruta Subirat Parent.Ruta d'1 jornada i d'uns 10 km a peu.A la comarca del Penedès seguirem els camins del Vi i del Cava des del mirador del Circell a Les Gunyoles. D'aquí anirem fins a l'aeròdrom d'Avinyonet on dalt d'un ultralleuger contemplarem les vinyes. Passarem per Cantallops, Sant Pau d'Ordal i a Lavern, coneixerem una família que viu i treballa al voltant d'un producte poc conegut però molt suculent, el préssec d'Ordal. Acabarem a Sant Sadurní de Noia, la capital mundial del cava, coneixent la història d'aquest producte tant Internacional i descobrint el seu procés d'elaboració.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-26T14:21:13+02:00",
-        "stop": "2026-08-26T14:46:00+02:00",
-        "title": "E3",
-        "subtitle": "Monster Jam / San Antonio / 6",
-        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. ",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
+        "start": "2026-08-26T15:28:07+02:00",
+        "stop": "2026-08-26T16:20:15+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "El Llac d'Annecy, a l'Alta Savoia",
+        "description": "En aquest episodi la Julie visita l'Alta Savoia, i més concretament la zona del voltant del llac i de la ciutat d'Annecy, plena d'història, d'esglésies i de convents. Amb un pescador aficionat autòcton, en Gilles, prepara unes truites alpines del llac d'Annecy. Després, amb la Maryline, cull unes herbes silvestres per fer-ne una sopa. En Laurent, un mestre xocolater, li prepara unes típiques campanetes de xocolata. I, finalment amb la Marielle, cuinen un fricassé de porc.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-26T13:58:47+02:00",
-        "stop": "2026-08-26T14:19:04+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El cas de l'assassinat de la classe de cuina (2a part)",
-        "description": "La mort a l'hospital de la mestra Uemori converteix el cas d'agressió en un d'homicidi. Els tres alumnes del curs de cuina i l'ajudanta de la mestra en són sospitosos, ja que tots quatre tenien motius per voler-la morta. La clau per resoldre el cas és la identificació de l'objecte punxant que l'assassí li ha clavat a l'esquena. Quan en Conan lliga caps, adorm en Kogoro i desemmascara el criminal.",
+        "start": "2026-08-26T15:04:16+02:00",
+        "stop": "2026-08-26T15:23:39+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "La nova tècnica d'en Son Goku",
+        "description": "Després d'haver posat tothom al corrent de la profecia del jove del futur, tots els guerrers decideixen dedicar els pròxims tres anys a entrenar-se més que mai per esperar l'arribada dels dos androides. A més, en Son Goku farà una demostració de la nova tècnica que ha adquirit i que li permet transportar-se de manera instantània a qualsevol lloc de l'univers.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-26T14:19:04+02:00",
-        "stop": "2026-08-26T14:41:59+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El cas dels 7 misteris de l'escola Teitan",
-        "description": "A l'Escola de Primària Teitan passen unes coses inexplicables: bustos de pedra de la classe d'art que es mouen, un model anatòmic de la infermeria que cobra vida i un subdirector que ha desaparegut. Els membres de la Lliga de Detectius Júnior entren a l'escola de nit per mirar de desentranyar els misteris. En Conan haurà de buscar la lògica en uns fets que posen els pèls de punta als seus amics.",
+        "start": "2026-08-26T15:23:39+02:00",
+        "stop": "2026-08-26T15:45:21+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "El rei dels superguerrers. La cursa pel combat",
+        "description": "En Son Goku, en Cor Petit, en Son Gohan, en Vegeta i la resta de guerrers inicien una etapa molt dura d'entrenaments perquè el futur infernal que els va pintar en Trunks no arribi mai a fer-se realitat. En Vegeta, obsessionat a superar en Son Goku, s'entrena amb una gravetat que no pot aguantar i s'acaba fent mal.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
-      {
-        "start": "2026-08-26T13:55:14+02:00",
-        "stop": "2026-08-26T14:41:38+02:00",
-        "title": "La Renaixença",
-        "subtitle": "Millors moments - setmana 27",
-        "description": "Aquesta setmana hem parlat de l'àncora, el mocador, la targeta sanitària i el molí. Són objectes prou curiosos i diversos, i ens hem quedat amb anècdotes que criden força l'atenció i que segur que no havíeu sentit mai. Hem petat la xerrada amb en Roger Escapa, en Miquel Grandio, en Ramon Mirabet i la Tina Diedhiou. Escolteu-los, que són savis i bojos interessants.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
-      },
       {
         "start": "2026-08-26T14:41:38+02:00",
         "stop": "2026-08-26T15:29:19+02:00",
@@ -139,6 +130,15 @@
         "description": "L'estetoscopi té dos punts de vista: l'estri que porten els metges penjats al coll com qui porta un collaret o aquell aparell que et posen a l'esquena o a la panxa que et fa fotre un salt de tan fred que està. Ens visita Ypnosi, un grup que a les xarxes es descriu com a post eroski psycho funk. No sabem què és, però semblen simpàtics. Interpreten 'La història', amb Arnau Tordera i Laia Glück. A 'Històries per passejar el gos', portem la Lluna a l'incendi del circ de Niterói (el Brasil), el 1961.",
         "genre": "ALTRES",
         "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+      },
+      {
+        "start": "2026-08-26T15:29:19+02:00",
+        "stop": "2026-08-26T16:40:27+02:00",
+        "title": "Joc de cartes",
+        "subtitle": "La millor cuina empordanesa",
+        "description": "'Joc de cartes' continua el seu recorregut per Catalunya. En aquest capítol de la cinquena temporada la furgoneta del programa farà parada a l'Empordà, on les arrels de la seva cuina encara tenen molt a dir en la restauració que s'hi ofereix actualment. El primer d'ensenyar les seves cartes serà el restaurant Mas Molí de Peralada, on el seu propietari, en Marc Joli, demostrarà que ni a ell ni a la seva cuina els manca caràcter. La segona visita ens portarà fins a Maçanet de Cabrenys, on la Rosanna Masip transmetrà tot el seu tarannà amb el restaurant El Fau. Continuarem la nostra ruta gastronòmica per Maçanet de Cabrenys visitant l'Hotel-Restaurant Els Caçadors, de la mà d'en Santi Valls, un cuiner que ha voltat pels fogons de mig món. I finalitzarem aquest programa a la capital del Baix Empordà. A la Bisbal visitarem l'Escalipatxo, on el Sergi Casellas, el seu propietari, es deixarà la pell.",
+        "genre": "ALTRES",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/4/1722288466144.jpg"
       }
     ],
     "oca1": [],
