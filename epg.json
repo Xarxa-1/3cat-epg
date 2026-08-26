@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T18:27:41.975542+00:00",
+  "updated": "2026-08-26T20:34:33.815095+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,34 +43,25 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-26T19:55:32+02:00",
-        "stop": "2026-08-26T21:00:00+02:00",
-        "title": "Atrapa'm si pots, estiu",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "start": "2026-08-26T22:27:10+02:00",
+        "stop": "2026-08-26T22:55:56+02:00",
+        "title": "L'un per l'altre",
+        "subtitle": "No pot ser",
+        "description": "La Rosa i el Poppins estan fent obres al seu pis i, mentre duren, decideixen instal.lar-se al pis del Toni i la Maria. Al principi la convivència sembla difícil, però enlloc d'arreglar-se, la cosa cada cop va a pitjor. Tant , que es posa en perill la continuïtat de les dues parelles... i de la sèrie.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       },
       {
-        "start": "2026-08-26T21:00:00+02:00",
-        "stop": "2026-08-26T22:01:54+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "start": "2026-08-26T22:55:56+02:00",
+        "stop": "2026-08-26T23:26:47+02:00",
+        "title": "Blanc sobre blanc",
+        "subtitle": "Límits",
+        "description": "Els límitsXavier Mascaró ens obre les portes de la nau on treballa les seves esculturesmonumentals de ferro i ens parla dels límits que comprenen el seu universcreatiu. Per a Víctor Pedra, els límits no existeixen a l'hora de crear. Ens ho explica a Alberola (Lleida), un poble de vuit habitants que l'acull des de fa unsanys i on exposa la seva obra de caràcter surrealista",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "324": [
-      {
-        "start": "2026-08-26T20:00:00+02:00",
-        "stop": "2026-08-26T21:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-08-26T21:00:00+02:00",
         "stop": "2026-08-26T23:00:00+02:00",
@@ -79,81 +70,80 @@
         "description": "",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+      },
+      {
+        "start": "2026-08-26T23:00:00+02:00",
+        "stop": "2026-08-27T00:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-08-26T18:59:52+02:00",
-        "stop": "2026-08-26T20:30:35+02:00",
-        "title": "Tot Costa",
-        "subtitle": "El Barça no renuncia a Julián",
-        "description": "El president del Barça Joan Laporta assegura que l'oferta per Julián encara és vigent i que l'Atlètic de Madrid no vol escoltar-la. A més, el president ha afirmat que no hi haurà homenatge als campions del món. Mentrestant, el Barça debuta al Camp Nou contra l'Athletic Club. Què n'ha dit Flick? En parlem amb el Miguel Rico i la Gemma Herrero.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+        "start": "2026-08-26T22:27:28+02:00",
+        "stop": "2026-08-26T23:00:22+02:00",
+        "title": "Zona Zàping Club",
+        "subtitle": "Gemma Mallorca, entre la intuïció i la casualitat",
+        "description": "La convidada accepta el desafiament del 'Zona Zàping Club' i descobrirà que res és tan evident com sembla a internet.",
+        "genre": "ESPECIALS",
+        "image": ""
       },
       {
-        "start": "2026-08-26T20:30:35+02:00",
-        "stop": "2026-08-26T20:45:54+02:00",
-        "title": "Sala de Premsa",
-        "subtitle": "Hansi Flick / Prèvia Barça-Ath. Club / J1",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+        "start": "2026-08-26T23:00:22+02:00",
+        "stop": "2026-08-27T00:31:31+02:00",
+        "title": "Onze",
+        "subtitle": "El missatge de Laporta; Madrid-Reial Societat i el Predicador",
+        "description": "Fem tertúlia amb Lluis Carrasco, Juvenal Edjogo, Gemma Mallorca i Joan Poquí. Comentem el missatge de Joan Laporta sobre el fitxatge de Julián Álvarez i la suspensió de l'homenatge als campions del món. Veiem el resum del Madrid-Reial Societat i escoltem les paraules de Mourinho. I torna a l'Onze el Predicador, Òscar Pérez-Dolz.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-26T20:16:45+02:00",
-        "stop": "2026-08-26T20:37:53+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Comença el perill (Part 2)",
-        "description": "En el seu segon dia com a ajudant secret, Henry ha de triar entre anar a la festa d'aniversari del seu millor amic o ajudar el Capità Man a aturar el Nadó.Quan el superheroi és capturat, Henry es converteix en Kid Danger per primera vegada i salva la ciutat sense fallar als seus amics.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-26T22:25:29+02:00",
+        "stop": "2026-08-26T22:46:15+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El cas de l'assassinat de la classe de cuina (1a part)",
+        "description": "La Ran assisteix a un curs de cuina francesa acompanyada per en Kogoro i la Ran. La mestra Michi Uemori, una dona molt dèspota i malcarada, imparteix les classes al seu domicili. Al cap de poc de començar la classe, se'n va la llum. Durant l'apagada, algú punxa la mestra Uemori a l'esquena amb un objecte molt fi i li perfora el pulmó. L'inspector Megré sosté que l'agressor és un dels presents.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-26T20:37:53+02:00",
-        "stop": "2026-08-26T21:00:06+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Més perill, més problemes",
-        "description": "En Henry intenta compaginar l'escola, la família i la seva vida secreta com a Kid Danger, però el cansament el fa suspendre un examen important.Amb l'ajuda d'un invent del Capità Man, aconsegueix aprovar, tot i patir efectes secundaris divertits que li compliquen encara més la vida.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-26T22:46:15+02:00",
+        "stop": "2026-08-26T23:06:33+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El cas de l'assassinat de la classe de cuina (2a part)",
+        "description": "La mort a l'hospital de la mestra Uemori converteix el cas d'agressió en un d'homicidi. Els tres alumnes del curs de cuina i l'ajudanta de la mestra en són sospitosos, ja que tots quatre tenien motius per voler-la morta. La clau per resoldre el cas és la identificació de l'objecte punxant que l'assassí li ha clavat a l'esquena. Quan en Conan lliga caps, adorm en Kogoro i desemmascara el criminal.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-26T20:16:40+02:00",
-        "stop": "2026-08-26T20:59:51+02:00",
-        "title": "Els rius navegables d'Europa",
-        "subtitle": "De la badia de Gdansk al districte dels llacs de Masúria",
-        "description": "Explorant Polònia per les vies fluvials d'Europa: començant des de la península de Hel, el viatge recorre el mar Bàltic fins a la ciutat hanseàtica de Gdansk, després continua pel Vístula i el canal d'Elblag fins al districte dels llacs de Masúria.La península de Hel, amb les seves platges de sorra blanca i boscos de pins d'un verd intens, acull un institut de recerca que estudia la vida al mar Bàltic, i un centre de cria de foques. A l'altra banda de la badia es troba la ciutat hanseàtica de Gdansk. Naveguem entre drassanes i antics edificis d'oficines, continuem pel Vístula i el canal d'Oberland cap a les muntanyes Rollberge, on els vaixells avancen per terra en vies de ferrocarril, en una obra històrica d'enginyeria.A la universitat d'Olstyn, la capital de Masúria, la Renata Augustyniak investiga amb èxit nous mètodes per recuperar els llacs contaminats. El viatge continua cap a l'est i arriba al riu més net del país, el Krutynia. Aquí hi ha un centre de rehabilitació per cigonyes, l'animal heràldic del país. Amb el guardabosc i fotògraf de la natura Waldemar Bzura descobrirem la rica vida salvatge de Masúria i les illes flotants de la reserva natural de Zakret, precioses amb la boira del matí.A la vora del llac Beldany, Moussa Bah, un veterinari de Mali, cria els cavalls salvatges 'Koniks', per encàrrec de l'Acadèmia Polonesa de Ciències. La seva companya, la cuidadora d'animals Marlena Boron, s'encarrega de la cria de castors al centre. Amb un veler, el viatge continua, passant per Mikolaiky, fins al canal de Masúria.Uns quilòmetres abans de la frontera russa, coneixem la pescadora Marta Gottwald, campiona del món de la seva disciplina, mentre s'entrena. El recorregut acaba en una gran resclosa de l'època nazi, convertida en una instal·lació d'escalada iaventura, per a atletes amb ganes de passar-s'ho bé i sense vertigen.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/3/1784274800434.jpg"
+        "start": "2026-08-26T22:00:33+02:00",
+        "stop": "2026-08-26T22:47:20+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 39",
+        "description": "Aquesta setmana hem descobert anècdotes i curiositats sobre les aletes de busseig, el megàfon, el perfum i el caminador. També hem parlat amb la Núria Picas, l'Oscar Elgarrista, la Ven'nus i en Vicenç Tomàs. Si us agraden les seves anècdotes, us recomanem que recupereu el capítol sencer, perquè ens ho hem passat molt bé! ",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-08-26T20:59:51+02:00",
-        "stop": "2026-08-26T21:01:32+02:00",
-        "title": "SENSE FI CANAL 33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
+        "start": "2026-08-26T22:47:20+02:00",
+        "stop": "2026-08-26T23:30:48+02:00",
+        "title": "Europa des de l'aire",
+        "subtitle": "La costa polonesa",
+        "description": "La costa polonesa, vista des de l'aire al llarg de les estacions, revela una combinació fascinant de paisatges bàltics, patrimoni històric, tradicions marineres i grans obres d'enginyeria que expliquen la seva identitat i evolució.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1784274422020.jpg"
       }
     ],
     "oca1": [],
     "oca2": [],
-    "oca3": [
-      {
-        "start": "2026-08-26T18:59:43+02:00",
-        "stop": "2026-08-26T20:30:43+02:00",
-        "title": "Tot Costa",
-        "subtitle": "",
-        "description": "El president del Barça Joan Laporta assegura que l'oferta per Julián encara és vigent i que l'Atlètic de Madrid no vol escoltar-la. A més, el president ha afirmat que no hi haurà homenatge als campions del món. Mentrestant, el Barça debuta al Camp Nou contra l'Athletic Club. Què n'ha dit Flick? En parlem amb el Miguel Rico i la Gemma Herrero.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
-      }
-    ],
+    "oca3": [],
     "oca4": []
   }
 }
