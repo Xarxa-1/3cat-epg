@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T11:43:35.526879+00:00",
+  "updated": "2026-08-26T12:05:03.783456+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,22 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-26T13:29:09+02:00",
-        "stop": "2026-08-26T13:51:09+02:00",
-        "title": "Cuines",
-        "subtitle": "Sopa freda d'avellanes",
-        "description": "La sopa freda d'avellanes potser no té la fama d'altres sopes fredes com el gaspatxo o l'ajoblanco, però és un plat molt tradicional de la cuina catalana. La Gessamí Caramés en fa una que acompanya amb porros confitats i sardines curades.",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-08-26T13:59:58+02:00",
+        "stop": "2026-08-26T14:30:00+02:00",
+        "title": "Telenotícies comarques",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       },
       {
-        "start": "2026-08-26T13:51:09+02:00",
-        "stop": "2026-08-26T13:59:57+02:00",
-        "title": "Cuines",
-        "subtitle": "Crema de meló i alvocat",
-        "description": "L'Arnau París proposa una crema de meló i alvocat que bé podria competir amb un gaspatxo o un salmorejo. Una crema fresca, pràctica, i que es fa en un pim-pam.",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-08-26T14:30:00+02:00",
+        "stop": "2026-08-26T15:33:58+02:00",
+        "title": "Telenotícies migdia",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "324": [
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-26T12:17:30+02:00",
-        "stop": "2026-08-26T13:49:05+02:00",
-        "title": "Onze",
-        "subtitle": "Operació sortida; Segueix el pols per Julián i 'Onzeclopèdia'",
-        "description": "Fem tertúlia amb Sique Rodríguez, Ivan san Antonio, Irati Vidal i Víctor Lozano. Actualitzem el cas Julián amb Juan Gato, Joaquín Maroto ens parla del Reial Madrid i torna l'Onzeclopèdia de Fran Domènech. Acabem amb l'1x1 d'Òscar Nin.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
-      },
-      {
-        "start": "2026-08-26T13:49:05+02:00",
-        "stop": "2026-08-26T14:21:12+02:00",
+        "start": "2026-08-26T13:49:06+02:00",
+        "stop": "2026-08-26T14:21:13+02:00",
         "title": "Zona Zàping Club",
         "subtitle": "Gemma Mallorca, entre la intuïció i la casualitat",
         "description": "La convidada accepta el desafiament del 'Zona Zàping Club' i descobrirà que res és tan evident com sembla a internet.",
         "genre": "ESPECIALS",
         "image": ""
+      },
+      {
+        "start": "2026-08-26T14:21:13+02:00",
+        "stop": "2026-08-26T14:46:00+02:00",
+        "title": "E3",
+        "subtitle": "Monster Jam / San Antonio / 6",
+        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. ",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-26T13:37:20+02:00",
-        "stop": "2026-08-26T13:58:46+02:00",
+        "start": "2026-08-26T13:58:47+02:00",
+        "stop": "2026-08-26T14:19:04+02:00",
         "title": "El detectiu Conan",
-        "subtitle": "El cas de l'assassinat de la classe de cuina (1a part)",
-        "description": "La Ran assisteix a un curs de cuina francesa acompanyada per en Kogoro i la Ran. La mestra Michi Uemori, una dona molt dèspota i malcarada, imparteix les classes al seu domicili. Al cap de poc de començar la classe, se'n va la llum. Durant l'apagada, algú punxa la mestra Uemori a l'esquena amb un objecte molt fi i li perfora el pulmó. L'inspector Megré sosté que l'agressor és un dels presents.",
+        "subtitle": "El cas de l'assassinat de la classe de cuina (2a part)",
+        "description": "La mort a l'hospital de la mestra Uemori converteix el cas d'agressió en un d'homicidi. Els tres alumnes del curs de cuina i l'ajudanta de la mestra en són sospitosos, ja que tots quatre tenien motius per voler-la morta. La clau per resoldre el cas és la identificació de l'objecte punxant que l'assassí li ha clavat a l'esquena. Quan en Conan lliga caps, adorm en Kogoro i desemmascara el criminal.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-26T13:58:46+02:00",
-        "stop": "2026-08-26T14:19:03+02:00",
+        "start": "2026-08-26T14:19:04+02:00",
+        "stop": "2026-08-26T14:41:59+02:00",
         "title": "El detectiu Conan",
-        "subtitle": "El cas de l'assassinat de la classe de cuina (2a part)",
-        "description": "La mort a l'hospital de la mestra Uemori converteix el cas d'agressió en un d'homicidi. Els tres alumnes del curs de cuina i l'ajudanta de la mestra en són sospitosos, ja que tots quatre tenien motius per voler-la morta. La clau per resoldre el cas és la identificació de l'objecte punxant que l'assassí li ha clavat a l'esquena. Quan en Conan lliga caps, adorm en Kogoro i desemmascara el criminal.",
+        "subtitle": "El cas dels 7 misteris de l'escola Teitan",
+        "description": "A l'Escola de Primària Teitan passen unes coses inexplicables: bustos de pedra de la classe d'art que es mouen, un model anatòmic de la infermeria que cobra vida i un subdirector que ha desaparegut. Els membres de la Lliga de Detectius Júnior entren a l'escola de nit per mirar de desentranyar els misteris. En Conan haurà de buscar la lògica en uns fets que posen els pèls de punta als seus amics.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-26T12:59:34+02:00",
-        "stop": "2026-08-26T13:55:14+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Jarek i Beata",
-        "description": "En Jarek Kret i la Beata Tadla, dos famosos presentadors de la televisió polonesa, protagonitzen aquest capítol, on gaudeixen de les aigües termals, dels magnífics paisatges de la Costa Brava i de la diada de Sant Jordi a Barcelona.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
         "start": "2026-08-26T13:55:14+02:00",
         "stop": "2026-08-26T14:41:38+02:00",
         "title": "La Renaixença",
         "subtitle": "Millors moments - setmana 27",
         "description": "Aquesta setmana hem parlat de l'àncora, el mocador, la targeta sanitària i el molí. Són objectes prou curiosos i diversos, i ens hem quedat amb anècdotes que criden força l'atenció i que segur que no havíeu sentit mai. Hem petat la xerrada amb en Roger Escapa, en Miquel Grandio, en Ramon Mirabet i la Tina Diedhiou. Escolteu-los, que són savis i bojos interessants.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+      },
+      {
+        "start": "2026-08-26T14:41:38+02:00",
+        "stop": "2026-08-26T15:29:19+02:00",
+        "title": "La Renaixença",
+        "subtitle": "L'estetoscopi",
+        "description": "L'estetoscopi té dos punts de vista: l'estri que porten els metges penjats al coll com qui porta un collaret o aquell aparell que et posen a l'esquena o a la panxa que et fa fotre un salt de tan fred que està. Ens visita Ypnosi, un grup que a les xarxes es descriu com a post eroski psycho funk. No sabem què és, però semblen simpàtics. Interpreten 'La història', amb Arnau Tordera i Laia Glück. A 'Històries per passejar el gos', portem la Lluna a l'incendi del circ de Niterói (el Brasil), el 1961.",
         "genre": "ALTRES",
         "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
