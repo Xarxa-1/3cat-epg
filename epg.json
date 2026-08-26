@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T15:53:50.531331+00:00",
+  "updated": "2026-08-26T16:44:35.584551+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-26T17:35:09+02:00",
-        "stop": "2026-08-26T18:22:05+02:00",
-        "title": "Nervi",
-        "subtitle": "Alicia Kopf, Ricard Ruiz Garzón, Joan Colomo, 'Grumpy old men'",
-        "description": "Andrea Gumes conversa amb l'artista visual, investigadora i escriptora Alicia Kopf, que torna a l'escriptura amb la novel·la 'Memòria d'Eco'. L'escriptor Ricard Ruiz Garzón ens parla de la creació artística vinculada a la salut mental, tema al qual ha dedicat el seu recull de relats breus 'Les veus del laberint'. Jacint Casademont fa un retrat robot dels 'Grumpy old men', actors veterans que dediquen la seva maduresa a repartir llenya a pel·lícules i sèries. Tanca el programa una actuació de Joan Colomo i la seva banda als peus del Montnegre, a Sant Celoni. ",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-26T18:22:05+02:00",
-        "stop": "2026-08-26T18:53:36+02:00",
+        "start": "2026-08-26T18:22:06+02:00",
+        "stop": "2026-08-26T18:53:37+02:00",
         "title": "Art endins",
         "subtitle": "",
         "description": "'Art Endins' neix amb la clara idea d'acostar l'espectador a l'immens patrimoni en arts plàstiques que hi ha a Catalunya; de convidar-lo a fer una immersió en les històries i anècdotes, sovint desconegudes, que acompanyen les obres i els objectes de museus, fundacions, palaus, esglésies o col·leccions privades del país. Moltes de les coses que n'aprendrem són curioses, però també rigoroses i acadèmiques, i es posarà en contacte l'espectador amb el món fascinant dels historiadors, restauradors i conservadors d'art. Descobrirem, entre d'altres, pintures que es troben al Palau Güell o al monestir de Sant Benet de Montserrat. Ens fixarem en el treball escultòric procedent d'Erill la Vall i en el que atresora la Basílica del Pi de Barcelona. Ens deixarem seduir per l'art del Renaixement i el barroc, pel modernisme i el noucentisme. Visitarem els fons de reserva i les sales de molts museus, a Olot, a Lleida, a Reus, a Vic, a Solsona, a Figueres, a Valls… per fer una nova mirada a la nostra història de l'art, a la gran riquesa del nostre patrimoni artístic.Cada capítol explica a fons tres o quatre obres principals. De vegades, tot gira al voltant d'una sola obra, de vegades, al voltant d'un artista; aleshores, les seves obres formen el context. Una veu en off n'explica les històries i converteix els elements de la narració artística en un relat que pretén ser captivador i suggeridor. De tant en tant, els experts aporten les valoracions necessàries per completar el punt de vista acadèmic.En cada capítol també es presenten dues obres més, part d'un catàleg particular del programa. Durant un minut veiem l'obra des d'un nou 'punt de vista', condicionat per una banda sonora que l'acompanya a manera de so ambient. ",
         "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
+      },
+      {
+        "start": "2026-08-26T18:53:37+02:00",
+        "stop": "2026-08-26T19:11:47+02:00",
+        "title": "Marcians",
+        "subtitle": "Vicenç Huedo, ensenyar a mirar",
+        "description": "Diu que és un gironí voluntari. Nascut a la Manxa, amb vint anys Vicenç Huedo es va enamorar de Girona i va decidir quedar-s'hi. Els seus quadres hiperrealistes de les cases del riu Onyar el van fer famós, i com a mestre de dibuix clàssic a l'Escola Municipal d'Art de Girona ha ensenyat a dibuixar i mirar el món a generacions de gironins i gironines. 'Per mi, la vida és un camí. Pinto i dibuixo el que em crida l'atenció d'aquest camí. Un arbre, una flor. Coses intemporals que t'acompanyaran tota la vida i podràs dir que has viscut. Tot això és aprendre a mirar.'Huedo podia haver fet carrera als Estats Units, però va decidir quedar-se a la seva ciutat adoptiva. Ara Girona li reconeix aquest amor amb una retrospectiva, 'Vicenç Huedo: (res) és veritat', repartida en vuit espais de la ciutat, que mostra les moltes dimensions d'un artista savi, compromès amb Girona i que reivindica la bellesa de la senzillesa. ",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-26T17:00:00+02:00",
-        "stop": "2026-08-26T18:30:00+02:00",
+        "start": "2026-08-26T18:30:00+02:00",
+        "stop": "2026-08-26T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-26T18:30:00+02:00",
-        "stop": "2026-08-26T20:00:00+02:00",
+        "start": "2026-08-26T20:00:00+02:00",
+        "stop": "2026-08-26T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,41 +83,41 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-26T17:13:53+02:00",
-        "stop": "2026-08-26T18:06:53+02:00",
-        "title": "Gent de món",
-        "subtitle": "Bàltic 1",
-        "description": "Heu navegat per un mar on no es fa de nit? Heu passejat pel monument més inquietant d'Europa? Doncs avui tindreu l'oportunitat de conèixer algunes de les ciutats més vives i engrescadores del nord d'Europa. Salpant des d'Amsterdam arribarem fins a Sant Petersburg, antiga capital de Rússia, passant per Alemanya, on visitarem Berlín , la ciutat que il·lustra més bé les tragèdies del s. XX. Cordeu-vos el cinturó o, més ben dit, poseu-vos el salvavides, perquè avui navegarem pel Bàltic.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-26T18:06:53+02:00",
+        "start": "2026-08-26T18:06:54+02:00",
         "stop": "2026-08-26T19:00:00+02:00",
         "title": "Experiència Catalana",
         "subtitle": "Mary Jean i Kelly",
         "description": "La Mary Jean Jecklin i el Kelley Rea són un matrimoni dels Estats Units a qui l'any 2012 la revista National Geographic va anomenar viatgers de l'any. La Ivana Miño s'ha proposat que viatgin per Catalunya i els acompanya a descobrir el Montseny, l'Anoia i el Penedès.",
         "genre": "ALTRES",
         "image": ""
+      },
+      {
+        "start": "2026-08-26T19:00:00+02:00",
+        "stop": "2026-08-26T20:30:43+02:00",
+        "title": "Tot Costa",
+        "subtitle": "El Barça no renuncia a Julián",
+        "description": "El president del Barça Joan Laporta assegura que l'oferta per Julián encara és vigent i que l'Atlètic de Madrid no vol escoltar-la. A més, el president ha afirmat que no hi haurà homenatge als campions del món. Mentrestant, el Barça debuta al Camp Nou contra l'Athletic Club. Què n'ha dit Flick? En parlem amb el Miguel Rico i la Gemma Herrero.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-26T17:52:27+02:00",
-        "stop": "2026-08-26T18:02:51+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "El llapis curt",
-        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-26T18:36:37+02:00",
+        "stop": "2026-08-26T18:48:52+02:00",
+        "title": "Titó",
+        "subtitle": "Excursió a Tàrraco",
+        "description": "Avui anem d'excursió a Tàrraco amb la Tat! Fa molts anys a Tarragona hi vivien els romans i avui descobrirem l'aqüeducte, la muralla, l'amfiteatre, el circ... i en John C ens portarà una nina! La Nina d'Ivori.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-08-26T18:02:51+02:00",
-        "stop": "2026-08-26T18:13:06+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "En Cincsegons fa d'home del temps",
-        "description": "Avui en Cincsegons porta corbata i, des de dalt del turó, va dient quin temps hi fa.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-26T18:48:52+02:00",
+        "stop": "2026-08-26T18:57:47+02:00",
+        "title": "A jugar! Amb en Titó i els Fa la la",
+        "subtitle": "A jugar amb extraterrestres",
+        "description": "Un extraterrestre s'ha estavellat al parc. O més ben dit, en Tritó ha fet que s'estavelli tirant sense voler una pilota de beisbol contra el seu platet volador. Hem d'ajudar-lo a tornar a casa seva!",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
