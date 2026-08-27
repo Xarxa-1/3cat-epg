@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-27T09:44:51.446678+00:00",
+  "updated": "2026-08-27T20:00:28.730783+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-27T10:00:00+02:00",
-        "stop": "2026-08-27T11:56:11+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-08-27T21:00:00+02:00",
+        "stop": "2026-08-27T22:00:11+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-08-27T11:56:11+02:00",
-        "stop": "2026-08-27T12:26:22+02:00",
-        "title": "Salut i muntanyes",
-        "subtitle": "Salàs de Pallars",
-        "description": "La reportera Eva Clausó Estival anirà a visitar la comarca del Pallars Jussà. La primera parada serà a Salàs de Pallars on entrarà a la Torre de Barta del s. IX on hi viu l'Anna amb el seu marit. Després descobrirà els secrets de les botiguetes de Salàs de finals del s. XIX amb la Rosalia i el Sisco. La ruta continuarà fins arribar als paratges de la Vall Fosca on coneixerà la Carol a la Plana de Mont ros que fa vestits d'època que ven als Estats Units i parlarà amb alguns veïns del poble que li explicaran la història del poble que alguns van batejar com la petita Barcelona del Pallars Jussà. L'Eva acabarà gaudint de les vistes de l'Estany Gento i el Refugi de la Colomina, al Parc Nacional d'Aigües Tortes i Estany de Sant Maurici on coneixerà un personatge, molt curiós , l'enginyer Albert Keller, que té més anys que Matusalem i li explicarà algunes anècdotes de la construcció de la Central Hidroelèctrica de Capdella. ",
+        "start": "2026-08-27T22:00:11+02:00",
+        "stop": "2026-08-27T22:29:15+02:00",
+        "title": "Vinagreta",
+        "subtitle": "Els 'pijos' també ploren",
+        "description": "El Larry atura una cleptòmana molt perillosa. L'Eli i la Yeni venen preservatius d'oferta. El Marçal mira de gestionar la gelosia que sent pel David Verdaguer. Una influencer dinamita la poca paciència del vells de Cadaqués.",
         "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-27T10:00:00+02:00",
-        "stop": "2026-08-27T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-08-27T21:00:00+02:00",
+        "stop": "2026-08-27T23:00:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-08-27T12:00:00+02:00",
-        "stop": "2026-08-27T14:00:00+02:00",
+        "start": "2026-08-27T23:00:00+02:00",
+        "stop": "2026-08-28T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,76 +83,66 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-27T11:31:41+02:00",
-        "stop": "2026-08-27T11:46:31+02:00",
-        "title": "Pastors i ramats: un món que se'n va",
-        "subtitle": "Rut Urrutia i Pere Espelt",
-        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-08-27T20:56:28+02:00",
+        "stop": "2026-08-27T22:50:09+02:00",
+        "title": "Un dia de partit",
+        "subtitle": "Barça-Ath. Club",
+        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
       },
       {
-        "start": "2026-08-27T11:46:31+02:00",
-        "stop": "2026-08-27T12:15:56+02:00",
-        "title": "GR Pirineus",
-        "subtitle": "El mont més sec",
-        "description": "Avui la nostra ruta creuarà d'extrem a extrem la serra del Montsec.Començarem a Vilanova de Meià on coneixerem una raça de cabra catalana en perill d'extinció. Després enfilarem camí fins a Sant Martí de Barcedana, on visitarem una casa rural, on fan unes confitures per llepar-se'n els dits! Passarem per Sant Cristòfol de la Vall, Llimiana i arribarem a l'embassament de Terradets, on farem nit i tastarem la cuina de la terra amb un toc molt innovador.L'endemà començarem la jornada a sobre d'un caiac remant pel pantà. Anirem a Guàrdia de Noguera, el castell de Mur i ens endinsarem a la Vall d'Àger, on gaudirem, primer, del cel des de la terra, observant l'univers amb un telescopi; i, posteriorment, de la terra des del cel, practicant el parapent. I acabarem al congost de Mont-rebei, l'anomenat Gran Canó català. En total 65 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb parapent. Un mont molt sec, però amb molta vida.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "start": "2026-08-27T22:50:09+02:00",
+        "stop": "2026-08-27T23:37:40+02:00",
+        "title": "E3",
+        "subtitle": "L'home més fort del món Giants Live 1: Britain's Strongest Man",
+        "description": "Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/2/1780671126722.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-27T11:43:39+02:00",
-        "stop": "2026-08-27T11:55:35+02:00",
-        "title": "Les Sisters",
-        "subtitle": "De tal germana, tal germana",
-        "description": "La Marine imita la Wendy com si fossin germanes bessones. Al principi a la gran li fa gràcia, però de seguida es converteix en una murga, sobretot quan la Marine entra amb ella a la piscina. Sempre els passa el mateix: per culpa de les rucades que fa la Marine, el socorrista acaba fent fora de la piscina la Wendy i els seus amics.",
+        "start": "2026-08-27T21:41:18+02:00",
+        "stop": "2026-08-27T22:02:44+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "En Son Goku rep per partida doble: una malaltia i els seus enemics",
+        "description": "La batalla entre en Son Goku i l'A-19 cada cop és més intensa. L'A-19 absorbeix sense cap problema el Kamehame d'en Goku, que comença a mostrar un comportament força estrany. Aviat en Son Gohan s'adonarà que el que va predir en Trunks és veritat i que els problemes cardíacs d'en Son Goku són una realitat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-27T11:55:35+02:00",
-        "stop": "2026-08-27T12:06:57+02:00",
-        "title": "Ghost Rockers",
-        "subtitle": "",
-        "description": "Mentre la colla intenta desxifrar el codi de la figura del cavall de Troia, en Jimmy s'enfronta a un dilema: o fa fora en Jonas com a protagonista del musical o en Vince el farà fora a ell com a director. Pressionat per la situació, decideix prescindir del seu amic i això el posa en contra també de la Charlie i la Fenne. En Jules se n'ha anat de casa i l'Alex es proposa ajudar-lo a trobar un lloc on estar-se. ",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-27T22:02:44+02:00",
+        "stop": "2026-08-27T22:25:20+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El cas de l'assassinat de la platja blanca",
+        "description": "En Conan i la Ran estan bussejant al mar i troben el cadàver submergit d'una noia, la Mitsuko Sekine, amb una roca lligada als peus. El metge del poble, el doctor Tanaka, determina que es tracta d'un suïcidi, però una amiga de la morta l'acusa d'haver-la assassinat. El doctor, tanmateix, té una coartada sòlida. En Conan demostrarà que menteix gràcies a unes deixalles de la platja.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-27T11:29:03+02:00",
-        "stop": "2026-08-27T12:24:16+02:00",
-        "title": "Persona Infiltrada",
-        "subtitle": "Pep Plaza - família Monguilod Casas",
-        "description": "Pep Plaza és el convidat d'aquesta setmana a 'Persona infiltrada'. El popular còmic i imitador es convertirà en Pep 'Mason' Plaza per mirar de resoldre el misteri d'una família del Maresme. S'enfrontarà amb un pare, una mare, dues filles, una cosina i una gran mentida. Haurà de fer gala de tots els seus dots d'imitador per mirar de trobar quin membre de la família està fingint ser qui no és. Per això, podrà escorcollar la casa, interrogar-los i sotmetre'ls a algunes proves compromeses. Al final de la jornada, en Pep haurà d'assenyalar un dels membres de la família. Si encerta la persona infiltrada, un espectador s'endurà els 5.000 &euro; per sorteig. Però, si la família aconsegueix enredar-lo, seran ells i la persona infiltrada que es quedaran el premi del programa.",
-        "genre": "CONCURS",
+        "start": "2026-08-27T21:35:08+02:00",
+        "stop": "2026-08-27T22:04:58+02:00",
+        "title": "Plats bruts",
+        "subtitle": "Tinc castanyes",
+        "description": "El David munta una festa per celebrar la diada de Halloween, malgrat que el Lopes prefereix celebrar la castanyada. D'altra banda, l'administrador de la finca els avisa que per Tots Sants hi ha fantasmes que volten pel pis.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       },
       {
-        "start": "2026-08-27T12:24:16+02:00",
-        "stop": "2026-08-27T12:57:45+02:00",
-        "title": "Tot o res",
-        "subtitle": "Tot o res",
-        "description": "",
-        "genre": "CONCURS",
-        "image": "http://statics.ccma.cat/multimedia/jpg/3/7/1487784560073.jpg"
+        "start": "2026-08-27T22:04:58+02:00",
+        "stop": "2026-08-27T22:52:28+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 40",
+        "description": "Aquesta setmana hem parlat del setrill, l'hamaca, la caixa forta i el tobogan. Semblen objectes simples, però tots tenen coses que ningú coneixia. També hem parlat amb la Natza Farré, en Pau Segalés, membres del grup de Vidres a la Sang, i amb en Martí Romero. Una periodista, un mag de Pallassos sense Fronteres, un grup de heavy metall i un lutier. A Catalunya tenim moltes coses i a vegades ni nosaltres mateixos en sabem presumir.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
-    "oca2": [
-      {
-        "start": "2026-08-27T10:01:30+02:00",
-        "stop": "2026-08-27T12:01:25+02:00",
-        "title": "Compareixença al Congrés del ministre de Presidència, Justícia i Relacions amb les Corts, Félix...",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/3/1772115424538.jpg"
-      }
-    ],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
