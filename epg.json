@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-26T20:34:33.815095+00:00",
+  "updated": "2026-08-27T00:05:24.641389+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-26T22:27:10+02:00",
-        "stop": "2026-08-26T22:55:56+02:00",
-        "title": "L'un per l'altre",
-        "subtitle": "No pot ser",
-        "description": "La Rosa i el Poppins estan fent obres al seu pis i, mentre duren, decideixen instal.lar-se al pis del Toni i la Maria. Al principi la convivència sembla difícil, però enlloc d'arreglar-se, la cosa cada cop va a pitjor. Tant , que es posa en perill la continuïtat de les dues parelles... i de la sèrie.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
-        "image": ""
+        "start": "2026-08-27T01:23:06+02:00",
+        "stop": "2026-08-27T04:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-26T22:55:56+02:00",
-        "stop": "2026-08-26T23:26:47+02:00",
-        "title": "Blanc sobre blanc",
-        "subtitle": "Límits",
-        "description": "Els límitsXavier Mascaró ens obre les portes de la nau on treballa les seves esculturesmonumentals de ferro i ens parla dels límits que comprenen el seu universcreatiu. Per a Víctor Pedra, els límits no existeixen a l'hora de crear. Ens ho explica a Alberola (Lleida), un poble de vuit habitants que l'acull des de fa unsanys i on exposa la seva obra de caràcter surrealista",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-08-27T04:30:00+02:00",
+        "stop": "2026-08-27T05:11:46+02:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Moya Kalongo",
+        "description": "Moya Kalongo és un grup de Barcelona amb músics de diferents procedències, com ara Moçambic, Costa d'Ivori, Uruguai i Catalunya. Tots ells uneixen els seus orígens musicals per crear un repertori únic de funk i afrobeat, que els ha convertit en pioners d'aquest estil a casa nostra. Els Moya Kalongo són Marc Thió a la bateria, Noé Escolà al saxo i la flauta, Roqui Alvero a la trompeta, Cesc Pasqual a la guitarra, Pito Rosas al baix i Simonal Bie a la veu.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-26T21:00:00+02:00",
-        "stop": "2026-08-26T23:00:00+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-08-27T01:00:00+02:00",
+        "stop": "2026-08-27T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-26T23:00:00+02:00",
-        "stop": "2026-08-27T00:30:00+02:00",
+        "start": "2026-08-27T06:00:00+02:00",
+        "stop": "2026-08-27T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-26T22:27:28+02:00",
-        "stop": "2026-08-26T23:00:22+02:00",
-        "title": "Zona Zàping Club",
-        "subtitle": "Gemma Mallorca, entre la intuïció i la casualitat",
-        "description": "La convidada accepta el desafiament del 'Zona Zàping Club' i descobrirà que res és tan evident com sembla a internet.",
-        "genre": "ESPECIALS",
-        "image": ""
-      },
-      {
-        "start": "2026-08-26T23:00:22+02:00",
-        "stop": "2026-08-27T00:31:31+02:00",
+        "start": "2026-08-27T00:52:02+02:00",
+        "stop": "2026-08-27T02:25:04+02:00",
         "title": "Onze",
         "subtitle": "El missatge de Laporta; Madrid-Reial Societat i el Predicador",
         "description": "Fem tertúlia amb Lluis Carrasco, Juvenal Edjogo, Gemma Mallorca i Joan Poquí. Comentem el missatge de Joan Laporta sobre el fitxatge de Julián Álvarez i la suspensió de l'homenatge als campions del món. Veiem el resum del Madrid-Reial Societat i escoltem les paraules de Mourinho. I torna a l'Onze el Predicador, Òscar Pérez-Dolz.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+      },
+      {
+        "start": "2026-08-27T02:25:04+02:00",
+        "stop": "2026-08-27T02:42:46+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-26T22:25:29+02:00",
-        "stop": "2026-08-26T22:46:15+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El cas de l'assassinat de la classe de cuina (1a part)",
-        "description": "La Ran assisteix a un curs de cuina francesa acompanyada per en Kogoro i la Ran. La mestra Michi Uemori, una dona molt dèspota i malcarada, imparteix les classes al seu domicili. Al cap de poc de començar la classe, se'n va la llum. Durant l'apagada, algú punxa la mestra Uemori a l'esquena amb un objecte molt fi i li perfora el pulmó. L'inspector Megré sosté que l'agressor és un dels presents.",
+        "start": "2026-08-27T01:59:07+02:00",
+        "stop": "2026-08-27T02:19:03+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Coneixem l’Scorbunny!",
+        "description": "L'Ash i el Goh es dirigeixen a la regió de Galar per veure un fenomen curiós: uns pokémons que es tornen gegantins, però s'han d'esperar una estona fins que surti el seu tren. Per aprofitar l'espera decideixen menjar alguna cosa, però un scorbunny trapella i un trio de nickits els distreuen i s'emporten el seu menjar... i la motxilla de l'Ash! Els nostres herois empaiten els pokémons, però quan un botiguer enfadat enxampa l'scorbunny, el Goh mira d'ajudar el pokémon dient que és el seu entrenador! El botiguer sap la veritat, però deixa anar el pokémon. Finalment l'Ash i el Goh tornen al tren... seguits de prop en secret per l'scorbunny!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-26T22:46:15+02:00",
-        "stop": "2026-08-26T23:06:33+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El cas de l'assassinat de la classe de cuina (2a part)",
-        "description": "La mort a l'hospital de la mestra Uemori converteix el cas d'agressió en un d'homicidi. Els tres alumnes del curs de cuina i l'ajudanta de la mestra en són sospitosos, ja que tots quatre tenien motius per voler-la morta. La clau per resoldre el cas és la identificació de l'objecte punxant que l'assassí li ha clavat a l'esquena. Quan en Conan lliga caps, adorm en Kogoro i desemmascara el criminal.",
+        "start": "2026-08-27T02:19:03+02:00",
+        "stop": "2026-08-27T02:37:47+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Un Dynamax al·lucinant",
+        "description": "L'Ash i el Goh, els companys investigadors, se'n van a explorar a l'Àrea Silvestre de la regió de Galar, famosa pel dinamax, un fenomen que fa que els pokémons puguin créixer fins a mides gegantines. Els nostres herois fan el viatge en tren plens d'il·lusió, i l'entremaliat Scorbunny resulta que també s'ha apuntat al viatge en secret. Després troben un snorlax que de sobte creix fins a una mida gegantina i queda estirat damunt la via del tren, ben adormit. Un tren s'acosta ràpidament i l'Scorbunny apareix per ajudar. Treballant en equip, aconsegueixen apartar l'snorlax dinamax de la via just a temps, i l'Scorbunny convenç el Goh perquè sigui el seu entrenador.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-26T22:00:33+02:00",
-        "stop": "2026-08-26T22:47:20+02:00",
-        "title": "La Renaixença",
-        "subtitle": "Millors moments - setmana 39",
-        "description": "Aquesta setmana hem descobert anècdotes i curiositats sobre les aletes de busseig, el megàfon, el perfum i el caminador. També hem parlat amb la Núria Picas, l'Oscar Elgarrista, la Ven'nus i en Vicenç Tomàs. Si us agraden les seves anècdotes, us recomanem que recupereu el capítol sencer, perquè ens ho hem passat molt bé! ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-08-27T01:50:04+02:00",
+        "stop": "2026-08-27T02:42:00+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "La Droma provençal",
+        "description": "A la Droma provençal, l'Odile conrea moltes varietats d'espígol i en fa tisanes. La Isabelle fa un plat de pasta gratinada. La Frédérique, l'Arnaud i la Sophie són els darrers fabricants de cofins, uns cabassos d'espart per a premsar les olives. En Joël rosteix una pintada farcida d'olives negres i assaonada amb una salsa feta d'olives negres. L'Hervé conrea ametllers i la Virginie fa carquinyolis. En Jean-Luc fa confitura de nous verdes.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-08-26T22:47:20+02:00",
-        "stop": "2026-08-26T23:30:48+02:00",
-        "title": "Europa des de l'aire",
-        "subtitle": "La costa polonesa",
-        "description": "La costa polonesa, vista des de l'aire al llarg de les estacions, revela una combinació fascinant de paisatges bàltics, patrimoni històric, tradicions marineres i grans obres d'enginyeria que expliquen la seva identitat i evolució.",
+        "start": "2026-08-27T02:42:00+02:00",
+        "stop": "2026-08-27T03:32:45+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "La badia de Saint-Brieuc",
+        "description": "En aquest episodi, la Julie visita la badia de de Saint-Brieuc, a les Costes d'Armor, a Brentanya. Amb en Jean prepara unes mongetes de Paimpol amb tres peixos. L'Alain, un pescador jubilat, li ensenya a fer unes cloïsses a la marinera. Finalment, amb la Yveline cuina un farz, un pastís bretó típic, amb prunes seques.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1784274422020.jpg"
+        "image": ""
       }
     ],
     "oca1": [],
