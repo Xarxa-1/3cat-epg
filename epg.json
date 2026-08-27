@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-27T00:05:24.641389+00:00",
+  "updated": "2026-08-27T09:44:51.446678+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-27T01:23:06+02:00",
-        "stop": "2026-08-27T04:30:00+02:00",
+        "start": "2026-08-27T10:00:00+02:00",
+        "stop": "2026-08-27T11:56:11+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-27T04:30:00+02:00",
-        "stop": "2026-08-27T05:11:46+02:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Moya Kalongo",
-        "description": "Moya Kalongo és un grup de Barcelona amb músics de diferents procedències, com ara Moçambic, Costa d'Ivori, Uruguai i Catalunya. Tots ells uneixen els seus orígens musicals per crear un repertori únic de funk i afrobeat, que els ha convertit en pioners d'aquest estil a casa nostra. Els Moya Kalongo són Marc Thió a la bateria, Noé Escolà al saxo i la flauta, Roqui Alvero a la trompeta, Cesc Pasqual a la guitarra, Pito Rosas al baix i Simonal Bie a la veu.",
+        "start": "2026-08-27T11:56:11+02:00",
+        "stop": "2026-08-27T12:26:22+02:00",
+        "title": "Salut i muntanyes",
+        "subtitle": "Salàs de Pallars",
+        "description": "La reportera Eva Clausó Estival anirà a visitar la comarca del Pallars Jussà. La primera parada serà a Salàs de Pallars on entrarà a la Torre de Barta del s. IX on hi viu l'Anna amb el seu marit. Després descobrirà els secrets de les botiguetes de Salàs de finals del s. XIX amb la Rosalia i el Sisco. La ruta continuarà fins arribar als paratges de la Vall Fosca on coneixerà la Carol a la Plana de Mont ros que fa vestits d'època que ven als Estats Units i parlarà amb alguns veïns del poble que li explicaran la història del poble que alguns van batejar com la petita Barcelona del Pallars Jussà. L'Eva acabarà gaudint de les vistes de l'Estany Gento i el Refugi de la Colomina, al Parc Nacional d'Aigües Tortes i Estany de Sant Maurici on coneixerà un personatge, molt curiós , l'enginyer Albert Keller, que té més anys que Matusalem i li explicarà algunes anècdotes de la construcció de la Central Hidroelèctrica de Capdella. ",
         "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-27T01:00:00+02:00",
-        "stop": "2026-08-27T06:00:00+02:00",
+        "start": "2026-08-27T10:00:00+02:00",
+        "stop": "2026-08-27T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-27T06:00:00+02:00",
-        "stop": "2026-08-27T07:00:00+02:00",
+        "start": "2026-08-27T12:00:00+02:00",
+        "stop": "2026-08-27T14:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,66 +83,76 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-27T00:52:02+02:00",
-        "stop": "2026-08-27T02:25:04+02:00",
-        "title": "Onze",
-        "subtitle": "El missatge de Laporta; Madrid-Reial Societat i el Predicador",
-        "description": "Fem tertúlia amb Lluis Carrasco, Juvenal Edjogo, Gemma Mallorca i Joan Poquí. Comentem el missatge de Joan Laporta sobre el fitxatge de Julián Álvarez i la suspensió de l'homenatge als campions del món. Veiem el resum del Madrid-Reial Societat i escoltem les paraules de Mourinho. I torna a l'Onze el Predicador, Òscar Pérez-Dolz.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-08-27T11:31:41+02:00",
+        "stop": "2026-08-27T11:46:31+02:00",
+        "title": "Pastors i ramats: un món que se'n va",
+        "subtitle": "Rut Urrutia i Pere Espelt",
+        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-08-27T02:25:04+02:00",
-        "stop": "2026-08-27T02:42:46+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-08-27T11:46:31+02:00",
+        "stop": "2026-08-27T12:15:56+02:00",
+        "title": "GR Pirineus",
+        "subtitle": "El mont més sec",
+        "description": "Avui la nostra ruta creuarà d'extrem a extrem la serra del Montsec.Començarem a Vilanova de Meià on coneixerem una raça de cabra catalana en perill d'extinció. Després enfilarem camí fins a Sant Martí de Barcedana, on visitarem una casa rural, on fan unes confitures per llepar-se'n els dits! Passarem per Sant Cristòfol de la Vall, Llimiana i arribarem a l'embassament de Terradets, on farem nit i tastarem la cuina de la terra amb un toc molt innovador.L'endemà començarem la jornada a sobre d'un caiac remant pel pantà. Anirem a Guàrdia de Noguera, el castell de Mur i ens endinsarem a la Vall d'Àger, on gaudirem, primer, del cel des de la terra, observant l'univers amb un telescopi; i, posteriorment, de la terra des del cel, practicant el parapent. I acabarem al congost de Mont-rebei, l'anomenat Gran Canó català. En total 65 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb parapent. Un mont molt sec, però amb molta vida.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-27T01:59:07+02:00",
-        "stop": "2026-08-27T02:19:03+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Coneixem l’Scorbunny!",
-        "description": "L'Ash i el Goh es dirigeixen a la regió de Galar per veure un fenomen curiós: uns pokémons que es tornen gegantins, però s'han d'esperar una estona fins que surti el seu tren. Per aprofitar l'espera decideixen menjar alguna cosa, però un scorbunny trapella i un trio de nickits els distreuen i s'emporten el seu menjar... i la motxilla de l'Ash! Els nostres herois empaiten els pokémons, però quan un botiguer enfadat enxampa l'scorbunny, el Goh mira d'ajudar el pokémon dient que és el seu entrenador! El botiguer sap la veritat, però deixa anar el pokémon. Finalment l'Ash i el Goh tornen al tren... seguits de prop en secret per l'scorbunny!",
+        "start": "2026-08-27T11:43:39+02:00",
+        "stop": "2026-08-27T11:55:35+02:00",
+        "title": "Les Sisters",
+        "subtitle": "De tal germana, tal germana",
+        "description": "La Marine imita la Wendy com si fossin germanes bessones. Al principi a la gran li fa gràcia, però de seguida es converteix en una murga, sobretot quan la Marine entra amb ella a la piscina. Sempre els passa el mateix: per culpa de les rucades que fa la Marine, el socorrista acaba fent fora de la piscina la Wendy i els seus amics.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-27T02:19:03+02:00",
-        "stop": "2026-08-27T02:37:47+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Un Dynamax al·lucinant",
-        "description": "L'Ash i el Goh, els companys investigadors, se'n van a explorar a l'Àrea Silvestre de la regió de Galar, famosa pel dinamax, un fenomen que fa que els pokémons puguin créixer fins a mides gegantines. Els nostres herois fan el viatge en tren plens d'il·lusió, i l'entremaliat Scorbunny resulta que també s'ha apuntat al viatge en secret. Després troben un snorlax que de sobte creix fins a una mida gegantina i queda estirat damunt la via del tren, ben adormit. Un tren s'acosta ràpidament i l'Scorbunny apareix per ajudar. Treballant en equip, aconsegueixen apartar l'snorlax dinamax de la via just a temps, i l'Scorbunny convenç el Goh perquè sigui el seu entrenador.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-27T11:55:35+02:00",
+        "stop": "2026-08-27T12:06:57+02:00",
+        "title": "Ghost Rockers",
+        "subtitle": "",
+        "description": "Mentre la colla intenta desxifrar el codi de la figura del cavall de Troia, en Jimmy s'enfronta a un dilema: o fa fora en Jonas com a protagonista del musical o en Vince el farà fora a ell com a director. Pressionat per la situació, decideix prescindir del seu amic i això el posa en contra també de la Charlie i la Fenne. En Jules se n'ha anat de casa i l'Alex es proposa ajudar-lo a trobar un lloc on estar-se. ",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-27T01:50:04+02:00",
-        "stop": "2026-08-27T02:42:00+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "La Droma provençal",
-        "description": "A la Droma provençal, l'Odile conrea moltes varietats d'espígol i en fa tisanes. La Isabelle fa un plat de pasta gratinada. La Frédérique, l'Arnaud i la Sophie són els darrers fabricants de cofins, uns cabassos d'espart per a premsar les olives. En Joël rosteix una pintada farcida d'olives negres i assaonada amb una salsa feta d'olives negres. L'Hervé conrea ametllers i la Virginie fa carquinyolis. En Jean-Luc fa confitura de nous verdes.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-08-27T11:29:03+02:00",
+        "stop": "2026-08-27T12:24:16+02:00",
+        "title": "Persona Infiltrada",
+        "subtitle": "Pep Plaza - família Monguilod Casas",
+        "description": "Pep Plaza és el convidat d'aquesta setmana a 'Persona infiltrada'. El popular còmic i imitador es convertirà en Pep 'Mason' Plaza per mirar de resoldre el misteri d'una família del Maresme. S'enfrontarà amb un pare, una mare, dues filles, una cosina i una gran mentida. Haurà de fer gala de tots els seus dots d'imitador per mirar de trobar quin membre de la família està fingint ser qui no és. Per això, podrà escorcollar la casa, interrogar-los i sotmetre'ls a algunes proves compromeses. Al final de la jornada, en Pep haurà d'assenyalar un dels membres de la família. Si encerta la persona infiltrada, un espectador s'endurà els 5.000 &euro; per sorteig. Però, si la família aconsegueix enredar-lo, seran ells i la persona infiltrada que es quedaran el premi del programa.",
+        "genre": "CONCURS",
         "image": ""
       },
       {
-        "start": "2026-08-27T02:42:00+02:00",
-        "stop": "2026-08-27T03:32:45+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "La badia de Saint-Brieuc",
-        "description": "En aquest episodi, la Julie visita la badia de de Saint-Brieuc, a les Costes d'Armor, a Brentanya. Amb en Jean prepara unes mongetes de Paimpol amb tres peixos. L'Alain, un pescador jubilat, li ensenya a fer unes cloïsses a la marinera. Finalment, amb la Yveline cuina un farz, un pastís bretó típic, amb prunes seques.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-08-27T12:24:16+02:00",
+        "stop": "2026-08-27T12:57:45+02:00",
+        "title": "Tot o res",
+        "subtitle": "Tot o res",
+        "description": "",
+        "genre": "CONCURS",
+        "image": "http://statics.ccma.cat/multimedia/jpg/3/7/1487784560073.jpg"
       }
     ],
     "oca1": [],
-    "oca2": [],
+    "oca2": [
+      {
+        "start": "2026-08-27T10:01:30+02:00",
+        "stop": "2026-08-27T12:01:25+02:00",
+        "title": "Compareixença al Congrés del ministre de Presidència, Justícia i Relacions amb les Corts, Félix...",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/8/3/1772115424538.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
