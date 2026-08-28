@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-28T04:21:28.324949+00:00",
+  "updated": "2026-08-28T16:47:13.388913+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-28T06:00:00+02:00",
-        "stop": "2026-08-28T07:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-08-28T18:29:00+02:00",
+        "stop": "2026-08-28T19:00:11+02:00",
+        "title": "Art endins",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "'Art Endins' neix amb la clara idea d'acostar l'espectador a l'immens patrimoni en arts plàstiques que hi ha a Catalunya; de convidar-lo a fer una immersió en les històries i anècdotes, sovint desconegudes, que acompanyen les obres i els objectes de museus, fundacions, palaus, esglésies o col·leccions privades del país. Moltes de les coses que n'aprendrem són curioses, però també rigoroses i acadèmiques, i es posarà en contacte l'espectador amb el món fascinant dels historiadors, restauradors i conservadors d'art. Descobrirem, entre d'altres, pintures que es troben al Palau Güell o al monestir de Sant Benet de Montserrat. Ens fixarem en el treball escultòric procedent d'Erill la Vall i en el que atresora la Basílica del Pi de Barcelona. Ens deixarem seduir per l'art del Renaixement i el barroc, pel modernisme i el noucentisme. Visitarem els fons de reserva i les sales de molts museus, a Olot, a Lleida, a Reus, a Vic, a Solsona, a Figueres, a Valls… per fer una nova mirada a la nostra història de l'art, a la gran riquesa del nostre patrimoni artístic.Cada capítol explica a fons tres o quatre obres principals. De vegades, tot gira al voltant d'una sola obra, de vegades, al voltant d'un artista; aleshores, les seves obres formen el context. Una veu en off n'explica les històries i converteix els elements de la narració artística en un relat que pretén ser captivador i suggeridor. De tant en tant, els experts aporten les valoracions necessàries per completar el punt de vista acadèmic.En cada capítol també es presenten dues obres més, part d'un catàleg particular del programa. Durant un minut veiem l'obra des d'un nou 'punt de vista', condicionat per una banda sonora que l'acompanya a manera de so ambient. ",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       },
       {
-        "start": "2026-08-28T07:00:00+02:00",
-        "stop": "2026-08-28T10:00:01+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-08-28T19:00:11+02:00",
+        "stop": "2026-08-28T19:06:00+02:00",
+        "title": "Capacitats",
+        "subtitle": "Aspasim, correm junts",
+        "description": "L'esport i l'activitat física són claus en la vida dels usuaris d'Aspasim, una associació barcelonina que treballa pel benestar i la inclusió de les persones amb greus discapacitats intel·lectuals. ",
+        "genre": "ESPECIALS",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/1/1778080999014.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-08-28T06:00:00+02:00",
-        "stop": "2026-08-28T07:00:00+02:00",
+        "start": "2026-08-28T18:30:00+02:00",
+        "stop": "2026-08-28T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-28T07:00:00+02:00",
-        "stop": "2026-08-28T10:00:00+02:00",
+        "start": "2026-08-28T20:00:00+02:00",
+        "stop": "2026-08-28T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-28T06:33:27+02:00",
-        "stop": "2026-08-28T06:58:45+02:00",
-        "title": "E3",
-        "subtitle": "Monster Jam / Seattle / 9",
-        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. ",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
+        "start": "2026-08-28T18:40:00+02:00",
+        "stop": "2026-08-28T19:30:00+02:00",
+        "title": "Futbol sala",
+        "subtitle": "Esportiu Rubí FS-Catgas Energia Santa Coloma / Copa Catalunya / 1a semifinal",
+        "description": "Primera semifinal de la Supercopa de Catalunya masculina de futbol sala que es disputa a Santa Coloma de Gramenet.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
       },
       {
-        "start": "2026-08-28T06:58:45+02:00",
-        "stop": "2026-08-28T07:17:41+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "start": "2026-08-28T19:30:00+02:00",
+        "stop": "2026-08-28T19:38:30+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Manolo González / Prèvia R.Societat-Espanyol / J3",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-28T06:11:47+02:00",
-        "stop": "2026-08-28T06:22:55+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "Espiadimonis exprés",
-        "description": "Avui la Maia i en Willi han conegut la Jackie, una aprenenta de missatgera per Espiadimonis Exprés que acaba de tenir un accident. De ben petita que vol ser missatgera, però és la primera entrega que fa i ha perdut el paquet. A més, el pitjor de tot és que, encara que el trobin, no recorda on l'havia de portar! Sort que té la Maia i en Willi que l'ajudaran!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-28T18:37:19+02:00",
+        "stop": "2026-08-28T18:48:17+02:00",
+        "title": "Titó",
+        "subtitle": "Excursió amb jocs tradicionals",
+        "description": "Avui hem sortit a la plaça del poble per jugar a jocs tradicionals. A la Tat li encanta jugar, així que ha vingut encantada a aquesta excursió! Jugarem a tocar i parar, a fet i amagar, al pica paret...",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-08-28T06:22:55+02:00",
-        "stop": "2026-08-28T06:34:12+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "Les granotes golafres",
-        "description": "L'Úrsula i el Coco són dues granotes afamades que farien qualsevol cosa per cruspir-se una abella. La Maia i en Willi també farien qualsevol cosa per ajudar en Ben a recuperar la seva bola de fem, que ha anat a parar molt a prop de les granotes. Granotes i abelles començaran perseguint-se, però encara que no ho sàpiguen, ben aviat acabaran ajudant-se!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-28T18:48:17+02:00",
+        "stop": "2026-08-28T18:58:56+02:00",
+        "title": "A jugar! Amb en Titó i els Fa la la",
+        "subtitle": "A jugar a la gimcana australiana",
+        "description": "En Titó i els Fa La La viatgen a Austràlia per participar en una gimcana preparada per en John C. Si superen tres proves, descobriran la gran sorpresa final: l'aparició d'en John C. real. Però… ho aconseguiran?",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-28T06:14:31+02:00",
-        "stop": "2026-08-28T06:24:42+02:00",
-        "title": "Gran!",
-        "subtitle": "'Bola de Drac'",
-        "description": "A partir de la recerca de set boles màgiques que permeten invocar un drac que concedeix desitjos, el dibuixant i guionista Akira Toriyama va concebre l'any 1984 'Bola de drac', un manga i, més endavant, una sèrie d'animació que es va convertir en un fenomen arreu del món. Toriyama, que ja havia sorprès l'any 1980 amb la venerada sèrie 'Dr. Slump', va esquitxar amb el seu sentit de l'humor imaginatiu, absurd i trepidant un relat d'aventures fantasioses. Posteriorment, els personatges van créixer i van adquirir un to més seriós en les següents entregues (com 'Bola de Drac Z' i 'Bola de Drac GT'). Una evolució que van seguir fidelment diferents generacions d'espectadors i lectors que han contribuït a atorgar a 'Bola de Drac' la categoria d'autèntic clàssic. ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
+        "start": "2026-08-28T18:32:10+02:00",
+        "stop": "2026-08-28T18:58:52+02:00",
+        "title": "Els hotels més remots del món",
+        "subtitle": "Casa de Sao Lourenco -Portugal",
+        "description": "La Casa de São Lourenço, situada al cim de la vall glacial de Zêzere, és un refugi de muntanya serè, dissenyat al voltant de la històrica Pousada de São Lourenço a Manteigas. Originari de la dècada de 1940, aquest establiment s'erigeix com un dels hotels pioners de Portugal. Després d'arribar a estar en un estat ruïnós, aquesta bella dorment va romandre abandonada durant anys, fins que el 2018, la Isabel Costa i el seu marit, el João Tomás, la van trobar i van decidir rescatar-la i fer-la ressorgir de les seves cendres.L'objectiu principal de la parella va ser preservar la rica història de l'estructura original i la seva perfecta integració amb el paisatge de l'entorn: un punt de vista únic situat al cor de la Reserva Natural de la Serra da Estrela, que compta amb alguns dels cims més alts del país, coberts per les nevades hivernals.Combinant un disseny contemporani i els interiors decorats per la Maria Keil, la Casa de São Lourenço ret homenatge a la llana de burell, un teixit local elaborat en una activa fàbrica propera, també recuperada per la Isabel i el João.En els darrers anys, la Isabel i el João han dedicat de tot cor tots els seus esforços al rescat i la preservació d'aquesta regió, amb una determinació decidida, un sentit de missió clarament definit i, sobretot, un profund compromís amb les estimades comunitats locals.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-08-28T06:24:42+02:00",
-        "stop": "2026-08-28T06:43:48+02:00",
-        "title": "Les Feres",
-        "subtitle": "Flashy Ice Cream",
-        "description": "Sneaky Flex (Arnau Sabater) i Pol Giancana porten les brides d'un dels grups més populars de l'escena urbana en català. En el seu cas, l'etiqueta del trap s'expandeix cap a altres direccions per abraçar també el dancehall i el rap. Els Flashy Ice Cream defensen ja una discografia creixent, amb dos guardons a millor disc de música urbana per la crítica als Premis Enderrock: 'Don Gelato', l'any 2021, i «Aftersun», dos anys després. Les col·laboracions, habituals en els registres en què es mouen, els han portat a viatjar fins a l'Argentina per preparar directament el disc 'Sempre joves' i treballar amb l'escena urbana local.  Pol Giancana i Sneaky Flex (Arnau Sabater) - veus Carles Turú - dissenyador, dj i 'papamanager' Lluís Lowis Borrell –baix i sinte Ricard Perpinyà -bateria Néstor Pérez -guitarra   'Alba' 'Estic bé sol' 'Glaç' 'Sant Hilari' 'Això és l'estiu' 'Boig x tu'  Localització: Creu Alta de Sabadell Dia: 17 de setembre del 2024 ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
+        "start": "2026-08-28T18:58:52+02:00",
+        "stop": "2026-08-28T19:26:18+02:00",
+        "title": "Els hotels més remots del món",
+        "subtitle": "El Torridon - Escòcia",
+        "description": "Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
