@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-29T19:52:28.680746+00:00",
+  "updated": "2026-08-29T22:13:35.061285+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-29T21:00:00+02:00",
-        "stop": "2026-08-29T22:01:06+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "start": "2026-08-30T00:05:38+02:00",
+        "stop": "2026-08-30T01:17:14+02:00",
+        "title": "Documental",
+        "subtitle": "L'eternitat",
+        "description": "'L'ETERNITAT' (2020). Una producció de ANGELA FILMS produït amb la col·laboració de Televisió de Catalunya i amb la col·laboració del Departament de Cultura de la Generalitat de Catalunya.L'Eternitat és un cant d'amor a la pagesia catalana en perill de desaparèixer definitivamentdesprés de segles i segles d'existència. A través de la vida d'una familia de pastors entrarem enun món inaudit on la força de les imatges, la clarividència dels diàlegs i l'entensitat dels sons ensevocaran un entorn autèntic i crepuscular a cavall dels segles XIX i XXI.Director: Christophe Farnarier.Guió: Christophe Farnarier i Àngels Tresserres.Fotografia, edició i so: Christophe Farnarier.Edició de so i mescles: Jonathan Darch.Etalonatge i postproducció: Xavier Pérez.Direcció artística: Àngels Tresserres.Música original: Joe Farnarier.Producció executiva: Àngels Tresserres.Producció executiva TVC: Jordi Ambròs.Producció delegada TVC: Daniel Barea.",
+        "genre": "DOCUMENTAL DE CREACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-08-29T22:01:06+02:00",
-        "stop": "2026-08-29T22:26:30+02:00",
-        "title": "Emocionari Il·lustrat",
-        "subtitle": "La tristesa",
-        "description": "Al capítol sobre la tristesa de l''Emocionari Il·lustrat', l'artista Lily Brick visitarà l'estudi d'un dels noms més importants del muralisme a tot el món: Octavi Arrizabalaga, conegut com a Aryz. Junts conversaran sobre l'ús del color per transmetre emocions. Seguirem estirant el fil de la tristesa amb Marc Torices, autor del còmic 'La alegre vida del triste perro Cornelius' i veurem com dibuixa una de les seves tires. Per acabar, la Lily aprendrà a dissenyar un personatge de videojoc de la mà d'un dels millors: Conrad Roset, guanyador del Premi Nacional de Cultura 2024. Amb ell descobrirem el viatge emocional de les protagonistes del seu últim èxit, 'Neva'.",
-        "genre": "ALTRES",
+        "start": "2026-08-30T01:17:14+02:00",
+        "stop": "2026-08-30T01:36:43+02:00",
+        "title": "Correspondències",
+        "subtitle": "Correspondències entre Míriam Hatibi i Hajar Brown",
+        "description": "L'escriptora, activista musulmana i feminista Míriam Hatibi ha escollit cartejar-se amb l'actriu feminista, musulmana i influencer Hajar Brown. A la seva primera correspondència la Míriam i l'Hajar reflexionen sobre la identitat. Qui són? D'on vénen? Són la suma de totes les dones que han viscut abans a la seva família? Les dones de la seva vida eren feministes sense etiquetar-se i elles ho han viscut des de petites, simplement, elles ara li han posat nom a la seva manera de viure. A la segona correspondència s'escriuren sobre el fet que a les dones se'ns demana més que als homes, hem de ser el doble per arribar a la meitat. Que és una cosa que han sentit sempre a la seva família i que, ara, elles creuen que ja n'hi ha prou. Que amb elles ja fan, que no cal demostrar a tothom i, sobretot, a una mateixa, que pots amb tot.El capítol acaba amb un manifest-homenatge a Agnès Varda amb diferents dones feministes que es pregunten 'què vol dir ser dona'. ",
+        "genre": "DOCUMENTAL DE CREACIÓ",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-29T21:00:00+02:00",
-        "stop": "2026-08-29T23:00:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
         "start": "2026-08-29T23:00:00+02:00",
         "stop": "2026-08-30T00:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-30T00:30:00+02:00",
+        "stop": "2026-08-30T01:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-29T21:00:00+02:00",
-        "stop": "2026-08-29T22:06:57+02:00",
+        "start": "2026-08-29T23:30:00+02:00",
+        "stop": "2026-08-30T00:31:08+02:00",
         "title": "Gol a gol",
-        "subtitle": "Post R.Societat-Espanyol / J3",
+        "subtitle": "Anàlisi de la jornada / J3 / Dissabte",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-08-29T22:06:57+02:00",
-        "stop": "2026-08-29T23:30:00+02:00",
-        "title": "Futbol",
-        "subtitle": "SD Eibar-RCD Espanyol / Lliga F / J1",
-        "description": "Les blanc-i-blaves van ocupar l'onzena posició final la temporada passada. L'equip basc va acabar en la tretzena, amb 3 punts menys. La narració, a càrrec de Gemma Mallorca i l'anàlisi, de Juli Garcia.  ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "start": "2026-08-30T00:31:08+02:00",
+        "stop": "2026-08-30T00:51:40+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-29T21:41:13+02:00",
-        "stop": "2026-08-29T22:03:25+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El viatge de l'heroïna (2a part)",
-        "description": "L'equip dels germans Kratt continua el seu viatge riu amunt seguint l'Heroïna i el salmó que té el propulsor temporal en el seu trajecte cap al lloc on van néixer. Però no sembla que hagi de ser gens fàcil, el riu és ple de perills i només hi arriba un salmó de cada mil. L'equip dels germans Kratt haurà de recórrer a uns quants poders animals per ajudar-los i mirar de recuperar el propulsor temporal. ",
+        "start": "2026-08-30T00:11:32+02:00",
+        "stop": "2026-08-30T00:21:50+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "El monstre del llac Gens Net",
+        "description": "El Miguel té una casa tan i tan bruta que se l'hi instal·la un convidat no desitjat: un monstre que viu entre la brutícia. La Felicity convida el seu amic a dormir a casa seva mentre arriba l'exterminador, però en poques hores el Miquel ho deixa tot fet un desastre.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-29T22:03:25+02:00",
-        "stop": "2026-08-29T22:14:20+02:00",
-        "title": "Les filles del Dad",
-        "subtitle": "Música!",
-        "description": "L'Ondine ha decidit organitzar un concert al terrat de l'edifici de casa seva amb la Béa i el Mehdi i ha anunciat que el retransmetrà en directe per internet per tots els seus seguidors. L'únic problema és que desafina tant quan canta que els seus companys d'institut la deixen penjada per no haver de tocar amb ella i haurà de demanar a la seva família que actuïn amb ella.",
+        "start": "2026-08-30T00:21:50+02:00",
+        "stop": "2026-08-30T00:32:09+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "Temps mort",
+        "description": "La Felicity ha d'anar a fer-se la revisió al veterinari, però està morta de por. Per escapolir-se'n li demana al Pare Temps el seu rellotge, amb el qual pot parar el temps o retrocedir al passat. Però quan ella i els seus amics van a la prehistòria, tot es complica.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-29T21:16:51+02:00",
-        "stop": "2026-08-29T22:08:49+02:00",
-        "title": "Gent de món",
-        "subtitle": "Venècia i mar Adriàtic",
-        "description": "Us heu enfilat mai a una muntanya seguint els passos dels apòstols? Heu contemplat una ciutat flotant mentre es perd en l'horitzó? No?Això és perquè no heu fet mai la travessa dels tres mars: l'Adriàtic, el Jònic i l'Egeu. Un viatge que ens durà des de Venècia fins a Atenes passant per Ravenna i la ciutat de Kotor, a Montenegro.Una ruta pel Mediterrani oriental on trobarem el rastre d'antigues civilitzacions desaparegudes, d'imperis caiguts, de ciutats i edificis universals, de fortaleses inexpugnables i de tombes de poetes immortals. Avui farem un viatge pels tres mars que van veure néixer Europa!",
-        "genre": "ALTRES",
+        "start": "2026-08-30T00:06:12+02:00",
+        "stop": "2026-08-30T00:57:46+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "El Borbonès",
+        "description": "En Lucien, un enginyer agroalimentari, fa un pastís salat de patata tal com l'ha après de l'àvia Hélène. La Simone i l'Olivier, mare i fill, són fabricants de la famosa mostassa de Charós, que entra en algunes receptes típiques del Borbonès. L'Hubert, editor de llibres de cuina, sap guisar l'ànec a la Duchambais, una salsa de nata amb vi i mostassa. L'Arnaud, horticultor, es dedica a crear noves varietats de pomes i de peres. I la Françoise fa un pastís de peres guarnit per damunt amb peres senceres en almívar.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-29T22:08:49+02:00",
-        "stop": "2026-08-29T23:07:12+02:00",
-        "title": "Els caps de setmana llargs d'en Rick Stein",
-        "subtitle": "Berlín",
-        "description": "En Rick no ha estat mai a Berlín. El sorprèn moltíssim el seu ambient de novel·la negra i el dinamisme dels berlinesos. La gastronomia de la ciutat es caracteritza per la presència simultània de restaurants que ofereixen menjar tradicional i locals moderns amb cuiners que fan versions noves de plats clàssics. A més, hi ha cuiners innovadors i agosarats que trenquen motlles organitzant esdeveniments únics en entorns d'allò més inusuals.",
+        "start": "2026-08-30T00:57:46+02:00",
+        "stop": "2026-08-30T01:48:28+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "La Corresa",
+        "description": "En aquest episodi la Julie visita el departament de la Corresa. Primer de tot visita el noguerar d'en David, on es produeix una nou molt apreciada. Amb la Karine prepara un magret d'ànec amb crosta de nous. Després visita la Sylvie, que produeix un licor de nous típic de la regió. Tot seguit, amb la Michèle, prepara unes gofres amb nata crua. Finalment, la Laurence li ensenya una recepta de pit de vedella farcit.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
