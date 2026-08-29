@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-29T07:36:14.111497+00:00",
+  "updated": "2026-08-29T13:21:47.651675+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-29T07:00:00+02:00",
-        "stop": "2026-08-29T10:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-08-29T14:30:00+02:00",
+        "stop": "2026-08-29T15:38:17+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-08-29T10:00:00+02:00",
-        "stop": "2026-08-29T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-08-29T15:34:07+02:00",
+        "stop": "2026-08-29T16:19:45+02:00",
+        "title": "Arnau",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "Arnau s'acomiada de les filles i, acompanyat pel seu criat més fidel, Bernat, s'amaga per preparar la venjança. Elna no ha pogut seguir Arnau, perquè Agra ho ha impedit.Odalric no gosa fer-lo matar per por de l'amenaça de la bruixa i fa disfressar Mamburg de fals Arnau i li mana cometre atrocitats contra els pagesos i nobles fidels a Arnau perquè siguin ells mateixos els que el matin.Entre el poble sorgeixen versions diferents i contradictòries sobre Arnau: per uns és un assassí, i per altres és l'únic que els pot alliberar de les arbitrarietats d'Odalric. La visió positiva sobre'Arnau s'intensifica quan Ermengol, que es descobreix davant Sància com un noble d'un altre comtat, també decideix prendre el paper d'Arnau, formar un exèrcit i conquerir terres als àrabs en nom del nou comte de Barcelona, Berenguer, en teoria aliat d'Odalric.Odalric és cridat a Barcelona pel nou comte. I hi va amb l'esperança de fer pactes que li puguin ser favorables. Però allà es troba amb l'acusació d'haver muntat un judici fraudulent contra Arnau. És condemnat a buscar Arnau i restituir-li l'honor. Odalric se sent profundament humiliat.",
+        "genre": "TELESÈRIE",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-29T07:00:00+02:00",
-        "stop": "2026-08-29T10:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-08-29T14:30:00+02:00",
+        "stop": "2026-08-29T16:30:00+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-08-29T10:00:00+02:00",
-        "stop": "2026-08-29T12:00:00+02:00",
+        "start": "2026-08-29T16:30:00+02:00",
+        "stop": "2026-08-29T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,66 +83,76 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-29T09:31:42+02:00",
-        "stop": "2026-08-29T10:50:40+02:00",
-        "title": "Futbol sala",
-        "subtitle": "Sala 5 Martorell-Barça / Copa Catalunya / 2a semifinal",
-        "description": "El guanyador d'aquest partit serà el segon finalista de la Supercopa de Catalunya masculina de futbol sala que s'està disputant a Santa Coloma de Gramenet. ",
+        "start": "2026-08-29T12:25:08+02:00",
+        "stop": "2026-08-29T15:55:00+02:00",
+        "title": "Curses de Muntanya",
+        "subtitle": "UTMB Mont Blanc",
+        "description": "Arribades a les curses finals de les UTMB World Series que es disputen al Mont Blanc. És la prova ultra de trail running més important del calendari mundial. Amb la narració de Miquel Ribas.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1771322643173.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1787745006771.jpg"
       },
       {
-        "start": "2026-08-29T10:50:40+02:00",
-        "stop": "2026-08-29T12:25:00+02:00",
-        "title": "Onze",
-        "subtitle": "Barça, líder golejador; la batussa per Julián; Delmàs, Fàbregas i Nin",
-        "description": "Jordi Gil condueix la tertúlia amb Santi Ovalle, Irati Vidal, Paula Reverter i David Ibáñez. Amb David Sánchez comentem la batussa dialèctica entre l'Atlètic de Madrid i el Barça per Julián Álvarez. Àlex Delmàs ens porta la clau del Rayo-Barça. Amb Joan Fàbregas comentem les polèmiques arbitrals de la setmana i acabem amb l'1X1 d'Òscar Nin. ",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-08-29T15:55:00+02:00",
+        "stop": "2026-08-29T17:48:40+02:00",
+        "title": "Futbol sala",
+        "subtitle": "Lainco Esportiu Rubí FS-AE Les Corts UBAE / Copa Catalunya femenina / Final",
+        "description": "Final femenina de la Supercopa de Catalunya de futbol sala que es disputa a Santa Coloma de Gramenet.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-29T08:56:51+02:00",
-        "stop": "2026-08-29T09:39:39+02:00",
-        "title": "Doraemon: La gran evasió de la Formigonera",
-        "subtitle": "Doraemon: La gran evasió de la Formigonera",
-        "description": "És el primer dia de classe després de les vacances d'estiu. Com que en Nobita no ha fet els deures, en Doraemon s'enfada amb ell. Fart que tothom el renyi, en Nobita decideix fer servir la cabina dels desitjos per crear un món on estigui prohibit renyar, cosa que portarà conseqüències inesperades en el futur. En Nobita i els seus amics hauran de viatjar al futur per alliberar en Doraemon d'una presó molt peculiar.",
-        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/1/1786696144010.jpg"
+        "start": "2026-08-29T15:11:19+02:00",
+        "stop": "2026-08-29T15:22:41+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Gat amagat",
+        "description": "La Marine troba un gatet al carrer i el porta a casa sense dir-ne res als pares. Aconsegueix convèncer la seva germana perquè l'ajudi a amagar-lo... fins que aquesta descobreix que el seu nòvio Maxence té al·lèrgia al pèl de gat. Llavors la Wendy no vol que el gat es quedi a casa per res del món. Però la Marine no es dona per vençuda...",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       },
       {
-        "start": "2026-08-29T09:39:39+02:00",
-        "stop": "2026-08-29T10:01:09+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "El dia de la mare",
-        "description": "És el dia de la mare i les espies decideixen regalar-li l'estada en un balneari exclusiu. Tanmateix, quan hi arriben, intueixen que les seves mares actuen d'una forma molt estranya. De fet, aviat s'adonen que el que pretenen és matar-les. Resulta que les seves mares són controlades per un dels seus enemics. Podran les espies salvar les seves mares i gaudir una mica del balneari? D'altra banda, en Jerry passa el dia a Anglaterra amb la seva mare.",
+        "start": "2026-08-29T15:22:41+02:00",
+        "stop": "2026-08-29T15:34:02+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Quin coco!",
+        "description": "La Marine contesta correctament les preguntes d'un famós concurs de ràdio... sense dir-li a la Wendy que era una reemissió i que el dia abans havia sentit totes les respostes. La Wendy queda bocabadada amb la nova intel·ligència de la seva germana. La Marine hauria d'estar contenta, però es veu que la Wendy estima més la nova Marine, amb la seva passada de quocient intel·lectual, que la Marine de tota la vida.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+        "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-29T09:22:27+02:00",
-        "stop": "2026-08-29T09:44:58+02:00",
-        "title": "Riu avall",
-        "subtitle": "Llobregat (part 2)",
-        "description": "Continuem el recorregut pel Llobregat i coneixem millor el seu destacable patrimoni industrial. Un espai on la indústria del tèxtil produïa amb intensitat, però la natura no ha desaparegut. Ho demostra la natura que acullen el Parc Natural de la Muntanya de Montserrat i el de les Reserves del Delta del Llobregat.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719609254043.jpg"
+        "start": "2026-08-29T14:53:53+02:00",
+        "stop": "2026-08-29T15:40:10+02:00",
+        "title": "Illes d'Austràlia, amb Martin Clunes",
+        "subtitle": "",
+        "description": "Martin Clunes continua el seu viatge al voltant d'Austràlia anant d'illa en illa. Alguna illa només està habitada per aborígens, altres estan deshabitades, en algunes hi viuen pescadors, i l'última és un centre turístic amb una història sinistra. El mar que les envolta, en canvi, sempre és ple de vida. El Martin se submergeix per veure de prop els esculls de corall i els peixos grans i petits que hi viuen.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-08-29T09:44:58+02:00",
-        "stop": "2026-08-29T10:34:20+02:00",
-        "title": "El Foraster",
-        "subtitle": "Castellví de la Marca",
-        "description": "Castellví de la Marca està situat en un racó apartat de l'Alt Penedès, un indret que, a primer cop d'ull, sembla tranquil i serè. Aviat, però, en Quim descobrirà que sota aquesta calma aparent s'hi amaguen moltes sorpreses.Només d'arribar-hi es trobarà en Ché, un apassionat dels petards, un home de traca que no sembla tenir por de res. El nivell de decibels no baixarà perquè, a la carnisseria del poble, en Quim hi descobrirà el riure de la Montse. I entre les vinyes que envolten el poble coneixerà en Trixu, que només és feliç quan és dalt del tractor i amb la música a tot drap.Amb la Sònia i la Iolanda, en Quim pujarà fins al cim del Castellot i entendrà per què aquest indret és tan especial per a tots els vilatans. I en un hort petit i modest, hi trobarà l'Estevet, un home que ha vist canviar el món i que ha deixat empremta en el caràcter del poble. A la sabateria, en Jordi i la Palmira li demostraran que, amb la tècnica adequada, qualsevol pot sortir amb sabates noves. El viatge agafarà embranzida amb en Toni i l'Ivan, que el convidaran a pujar a un kart-cross, no sense algun contratemps, i acabarà de la millor manera: parant la fresca amb diferents veïns que li deixaran ben clar que a Castellví de la Marca, la vida pot ser lenta, però mai avorrida.",
-        "genre": "VARIETATS",
+        "start": "2026-08-29T15:40:10+02:00",
+        "stop": "2026-08-29T16:39:13+02:00",
+        "title": "Els caps de setmana llargs d'en Rick Stein",
+        "subtitle": "Reykjavík",
+        "description": "En Rick Stein va a Reykjavík al pic de l'hivern, a la recerca del bacallà perfecte, i farà diverses excursions fora vila, envoltat d'un paisatge glaçat. Es banyarà en una piscina termal a l'aire lliure, visitarà l'espectacular Strokkur, un dels guèisers més actius del país, i tastarà un pa de sègol cuit amb sorra volcànica. A la seva cuina de Padstow, ens farà un gratinat de bacallà amb salsa bearnesa, costelles de xai arrebossades, amb col llombarda especiada i nabius, i una sopa d'escamarlans molt bona.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "oca1": [],
-    "oca2": [],
+    "oca2": [
+      {
+        "start": "2026-08-29T12:25:08+02:00",
+        "stop": "2026-08-29T18:00:03+02:00",
+        "title": "Curses de Muntanya",
+        "subtitle": "- UTMB Mont Blanc",
+        "description": "Arribades a les curses finals de les UTMB World Series que es disputen al Mont Blanc. És la prova ultra de trail running més important del calendari mundial. Amb la narració de Miquel Ribas.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1787745006771.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
