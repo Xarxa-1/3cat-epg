@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-28T16:47:13.388913+00:00",
+  "updated": "2026-08-29T00:50:01.508748+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-28T18:29:00+02:00",
-        "stop": "2026-08-28T19:00:11+02:00",
-        "title": "Art endins",
-        "subtitle": "",
-        "description": "'Art Endins' neix amb la clara idea d'acostar l'espectador a l'immens patrimoni en arts plàstiques que hi ha a Catalunya; de convidar-lo a fer una immersió en les històries i anècdotes, sovint desconegudes, que acompanyen les obres i els objectes de museus, fundacions, palaus, esglésies o col·leccions privades del país. Moltes de les coses que n'aprendrem són curioses, però també rigoroses i acadèmiques, i es posarà en contacte l'espectador amb el món fascinant dels historiadors, restauradors i conservadors d'art. Descobrirem, entre d'altres, pintures que es troben al Palau Güell o al monestir de Sant Benet de Montserrat. Ens fixarem en el treball escultòric procedent d'Erill la Vall i en el que atresora la Basílica del Pi de Barcelona. Ens deixarem seduir per l'art del Renaixement i el barroc, pel modernisme i el noucentisme. Visitarem els fons de reserva i les sales de molts museus, a Olot, a Lleida, a Reus, a Vic, a Solsona, a Figueres, a Valls… per fer una nova mirada a la nostra història de l'art, a la gran riquesa del nostre patrimoni artístic.Cada capítol explica a fons tres o quatre obres principals. De vegades, tot gira al voltant d'una sola obra, de vegades, al voltant d'un artista; aleshores, les seves obres formen el context. Una veu en off n'explica les històries i converteix els elements de la narració artística en un relat que pretén ser captivador i suggeridor. De tant en tant, els experts aporten les valoracions necessàries per completar el punt de vista acadèmic.En cada capítol també es presenten dues obres més, part d'un catàleg particular del programa. Durant un minut veiem l'obra des d'un nou 'punt de vista', condicionat per una banda sonora que l'acompanya a manera de so ambient. ",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
-      },
-      {
-        "start": "2026-08-28T19:00:11+02:00",
-        "stop": "2026-08-28T19:06:00+02:00",
-        "title": "Capacitats",
-        "subtitle": "Aspasim, correm junts",
-        "description": "L'esport i l'activitat física són claus en la vida dels usuaris d'Aspasim, una associació barcelonina que treballa pel benestar i la inclusió de les persones amb greus discapacitats intel·lectuals. ",
-        "genre": "ESPECIALS",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/1/1778080999014.jpg"
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-08-28T18:30:00+02:00",
-        "stop": "2026-08-28T20:00:00+02:00",
+        "start": "2026-08-29T01:19:19+02:00",
+        "stop": "2026-08-29T04:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-28T20:00:00+02:00",
-        "stop": "2026-08-28T21:00:00+02:00",
+        "start": "2026-08-29T04:30:00+02:00",
+        "stop": "2026-08-29T05:10:57+02:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Matías Míguez",
+        "description": "Matías Miguez ens presenta el seu nou repertori, on explora la diversitat. La malenconia del tango amb la llibertat del jazz. El ritme d'anada i tornada entre el Mediterrani i la música afroamericana. Amb aquesta formació, en la veu del bandoneó ens explica històries urbanes en el marc escaient d'un so contemporàni. L'acompanyen Xavier Tribolet, als teclats; Gustavo Rocha, a la guitarra; Marcelo Mercadante, al bandoneó, i Alberto Pérez, a la percussió.",
+        "genre": "ALTRES",
+        "image": ""
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-08-29T01:00:00+02:00",
+        "stop": "2026-08-29T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-29T06:00:00+02:00",
+        "stop": "2026-08-29T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-28T18:40:00+02:00",
-        "stop": "2026-08-28T19:30:00+02:00",
+        "start": "2026-08-29T02:45:51+02:00",
+        "stop": "2026-08-29T04:05:08+02:00",
+        "title": "Futbol sala",
+        "subtitle": "Sala 5 Martorell-Barça / Copa Catalunya / 2a semifinal",
+        "description": "El guanyador d'aquest partit serà el segon finalista de la Supercopa de Catalunya masculina de futbol sala que s'està disputant a Santa Coloma de Gramenet. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1771322643173.jpg"
+      },
+      {
+        "start": "2026-08-29T04:05:08+02:00",
+        "stop": "2026-08-29T05:31:31+02:00",
         "title": "Futbol sala",
         "subtitle": "Esportiu Rubí FS-Catgas Energia Santa Coloma / Copa Catalunya / 1a semifinal",
         "description": "Primera semifinal de la Supercopa de Catalunya masculina de futbol sala que es disputa a Santa Coloma de Gramenet.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
-      },
-      {
-        "start": "2026-08-28T19:30:00+02:00",
-        "stop": "2026-08-28T19:38:30+02:00",
-        "title": "Sala de Premsa",
-        "subtitle": "Manolo González / Prèvia R.Societat-Espanyol / J3",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-28T18:37:19+02:00",
-        "stop": "2026-08-28T18:48:17+02:00",
-        "title": "Titó",
-        "subtitle": "Excursió amb jocs tradicionals",
-        "description": "Avui hem sortit a la plaça del poble per jugar a jocs tradicionals. A la Tat li encanta jugar, així que ha vingut encantada a aquesta excursió! Jugarem a tocar i parar, a fet i amagar, al pica paret...",
-        "genre": "ALTRES",
+        "start": "2026-08-29T02:38:09+02:00",
+        "stop": "2026-08-29T02:58:06+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Fulgor de Titans!",
+        "description": "Se celebra la Sèrie Mundial de Coronació i l'Ash i el Goh tenen entrades per veure'n el combat final! En una batalla emocionant, el Lance, un entrenador dels quatre suprems de Kanto, i el seu Gyarados vermell s'enfronten al Lionel, el campió invicte de la regió de Galar, i el seu Charizard. El ritme s'accelera al màxim quan el Gyarados es transforma en un Gyarados Dinamax i el Charizard en un Charizard Gigamax. Els dos Pokémon es llancen atacs contundents, però la Gigaflamarada del Charizard deixa el Gyarados fora de combat i proporciona al Lionel una nova victòria! Però just quan s'acaba el combat apareix un Drednaw Gigamax i comença a causar estralls a l'estadi. Què passarà a continuació?",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-28T18:48:17+02:00",
-        "stop": "2026-08-28T18:58:56+02:00",
-        "title": "A jugar! Amb en Titó i els Fa la la",
-        "subtitle": "A jugar a la gimcana australiana",
-        "description": "En Titó i els Fa La La viatgen a Austràlia per participar en una gimcana preparada per en John C. Si superen tres proves, descobriran la gran sorpresa final: l'aparició d'en John C. real. Però… ho aconseguiran?",
-        "genre": "ALTRES",
+        "start": "2026-08-29T02:58:06+02:00",
+        "stop": "2026-08-29T03:19:34+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Llàgrima letal",
+        "description": "La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-28T18:32:10+02:00",
-        "stop": "2026-08-28T18:58:52+02:00",
-        "title": "Els hotels més remots del món",
-        "subtitle": "Casa de Sao Lourenco -Portugal",
-        "description": "La Casa de São Lourenço, situada al cim de la vall glacial de Zêzere, és un refugi de muntanya serè, dissenyat al voltant de la històrica Pousada de São Lourenço a Manteigas. Originari de la dècada de 1940, aquest establiment s'erigeix com un dels hotels pioners de Portugal. Després d'arribar a estar en un estat ruïnós, aquesta bella dorment va romandre abandonada durant anys, fins que el 2018, la Isabel Costa i el seu marit, el João Tomás, la van trobar i van decidir rescatar-la i fer-la ressorgir de les seves cendres.L'objectiu principal de la parella va ser preservar la rica història de l'estructura original i la seva perfecta integració amb el paisatge de l'entorn: un punt de vista únic situat al cor de la Reserva Natural de la Serra da Estrela, que compta amb alguns dels cims més alts del país, coberts per les nevades hivernals.Combinant un disseny contemporani i els interiors decorats per la Maria Keil, la Casa de São Lourenço ret homenatge a la llana de burell, un teixit local elaborat en una activa fàbrica propera, també recuperada per la Isabel i el João.En els darrers anys, la Isabel i el João han dedicat de tot cor tots els seus esforços al rescat i la preservació d'aquesta regió, amb una determinació decidida, un sentit de missió clarament definit i, sobretot, un profund compromís amb les estimades comunitats locals.",
+        "start": "2026-08-29T02:13:05+02:00",
+        "stop": "2026-08-29T03:05:04+02:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Volcans beneficiosos",
+        "description": "Els volcans tenen la imatge de muntanyes de foc que amenacen l'entorn i que periòdicament causen una enorme destrucció. Tot i així, atreuen moltes persones que s'instal·len al seu voltant perquè els donen molt més del que els prenen. Emeten minerals molt importants per a l'agricultura, atreuen les pluges i també són una font d'energia que cada cop s'aprofita més arreu del món. En aquest episodi s'exploren els diversos factors beneficiosos dels volcans.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-28T18:58:52+02:00",
-        "stop": "2026-08-28T19:26:18+02:00",
-        "title": "Els hotels més remots del món",
-        "subtitle": "El Torridon - Escòcia",
-        "description": "Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.",
+        "start": "2026-08-29T03:05:04+02:00",
+        "stop": "2026-08-29T03:56:47+02:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Volcans destructius",
+        "description": "Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
