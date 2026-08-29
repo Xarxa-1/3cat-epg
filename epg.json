@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-29T17:17:03.608590+00:00",
+  "updated": "2026-08-29T19:52:28.680746+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-29T19:01:54+02:00",
-        "stop": "2026-08-29T19:56:56+02:00",
-        "title": "Sota terra",
-        "subtitle": "Batalla de Talamanca 1714: la darrera victòria catalana",
-        "description": "En el marc de la Guerra de Successió, a l'agost de 1714 va tenir lloc al poble de Talamanca una gran batalla entre l'exèrcit català i el borbònic de Felip V. El comandant de les tropes catalanes, el marquès del Poal, va deixar escrita la narració de l'enfrontament. Amb gran detall, explicava com havia transcorregut la victòria catalana, que seria la darrera abans de la desfeta de l'Onze de setembre i de la capitulació final. En aquest capítol fem una excavació força atípica: usant la tecnologia (detectors de metalls, localitzadors de GPS,…) intentarem saber com va anar la batalla amb exactitud. Si trobem projectils i esbrinem quin exèrcit els van disparar, podrem saber si la batalla va transcórrer com descriu el marquès del Poal en el seu text i, per tant, certificar científicament que l'exèrcit català va guanyar aquell enfrontament. També buscarem unes desenes de cadàvers que, segons diu la tradició, són de soldats morts durant la batalla i que estan enterrats a la plaça del poble. ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-08-29T21:00:00+02:00",
+        "stop": "2026-08-29T22:01:06+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+      },
+      {
+        "start": "2026-08-29T22:01:06+02:00",
+        "stop": "2026-08-29T22:26:30+02:00",
+        "title": "Emocionari Il·lustrat",
+        "subtitle": "La tristesa",
+        "description": "Al capítol sobre la tristesa de l''Emocionari Il·lustrat', l'artista Lily Brick visitarà l'estudi d'un dels noms més importants del muralisme a tot el món: Octavi Arrizabalaga, conegut com a Aryz. Junts conversaran sobre l'ús del color per transmetre emocions. Seguirem estirant el fil de la tristesa amb Marc Torices, autor del còmic 'La alegre vida del triste perro Cornelius' i veurem com dibuixa una de les seves tires. Per acabar, la Lily aprendrà a dissenyar un personatge de videojoc de la mà d'un dels millors: Conrad Roset, guanyador del Premi Nacional de Cultura 2024. Amb ell descobrirem el viatge emocional de les protagonistes del seu últim èxit, 'Neva'.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-29T18:30:00+02:00",
-        "stop": "2026-08-29T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-08-29T21:00:00+02:00",
+        "stop": "2026-08-29T23:00:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-08-29T20:00:00+02:00",
-        "stop": "2026-08-29T21:00:00+02:00",
+        "start": "2026-08-29T23:00:00+02:00",
+        "stop": "2026-08-30T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -74,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-29T18:20:00+02:00",
-        "stop": "2026-08-29T20:38:24+02:00",
-        "title": "Futbol sala",
-        "subtitle": "Copa Catalunya masculina / Final",
-        "description": "Final masculina de la Supercopa de Catalunya de futbol sala que s'està disputant a Santa Coloma de Gramenet. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
+        "start": "2026-08-29T21:00:00+02:00",
+        "stop": "2026-08-29T22:06:57+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Post R.Societat-Espanyol / J3",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-08-29T20:38:24+02:00",
-        "stop": "2026-08-29T20:55:00+02:00",
-        "title": "WRC",
-        "subtitle": "Ral·li del Paraguai / WRC 2026 / J1",
-        "description": "Onzena de les catorze proves del Campionat del Món. El Ral·li del Paraguai té un recorregut total de 359 quilòmetres cronometrats dividits en 22 trams, majoritàriament sobre carreteres de terra. Us oferim el més destacat de la jornada amb la conducció de Noel Rodríguez i l'assistència de Santi Torres.",
+        "start": "2026-08-29T22:06:57+02:00",
+        "stop": "2026-08-29T23:30:00+02:00",
+        "title": "Futbol",
+        "subtitle": "SD Eibar-RCD Espanyol / Lliga F / J1",
+        "description": "Les blanc-i-blaves van ocupar l'onzena posició final la temporada passada. L'equip basc va acabar en la tretzena, amb 3 punts menys. La narració, a càrrec de Gemma Mallorca i l'anàlisi, de Juli Garcia.  ",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-29T19:11:04+02:00",
-        "stop": "2026-08-29T19:32:44+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Cabres de mentida",
-        "description": "La Zerlina convoca la Sam, la Clover i l'Alex perquè a Saint-Moritz, on se celebra un campionat internacional de surf de neu, desapareixen esquiadors. La Clover i l'Alex hi va molt contentes: la primera perquè podrà veure en Blaine, de qui està enamorada, i la segona perquè es considera una esportista excepcional i allà ho podrà continuar demostrant. La Sam farà d'entrenadora de l'esquiadora Alex/Alexa.",
+        "start": "2026-08-29T21:41:13+02:00",
+        "stop": "2026-08-29T22:03:25+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "El viatge de l'heroïna (2a part)",
+        "description": "L'equip dels germans Kratt continua el seu viatge riu amunt seguint l'Heroïna i el salmó que té el propulsor temporal en el seu trajecte cap al lloc on van néixer. Però no sembla que hagi de ser gens fàcil, el riu és ple de perills i només hi arriba un salmó de cada mil. L'equip dels germans Kratt haurà de recórrer a uns quants poders animals per ajudar-los i mirar de recuperar el propulsor temporal. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+        "image": ""
       },
       {
-        "start": "2026-08-29T19:32:44+02:00",
-        "stop": "2026-08-29T19:55:58+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "En Kid contra l'Amuro. El Serrell de la Reina (2a part)",
-        "description": "En Kaito Kid ha anunciat que robarà el Serrell de la Reina, una tiara molt valuosa que hi ha exposada en un museu. La policia està a punt per capturar-lo juntament amb en Conan, l'Amuro i en Kazami, a més de l'Azusa, que vol veure en Kid. De sobte, però, un fum blanc omple la sala i la tiara desapareix. Sembla que en Kid hagi fugit, però en Conan sospita que deu estar disfressat d'algú altre.",
+        "start": "2026-08-29T22:03:25+02:00",
+        "stop": "2026-08-29T22:14:20+02:00",
+        "title": "Les filles del Dad",
+        "subtitle": "Música!",
+        "description": "L'Ondine ha decidit organitzar un concert al terrat de l'edifici de casa seva amb la Béa i el Mehdi i ha anunciat que el retransmetrà en directe per internet per tots els seus seguidors. L'únic problema és que desafina tant quan canta que els seus companys d'institut la deixen penjada per no haver de tocar amb ella i haurà de demanar a la seva família que actuïn amb ella.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-29T18:30:43+02:00",
-        "stop": "2026-08-29T19:22:45+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "La badia de Saint-Brieuc",
-        "description": "En aquest episodi, la Julie visita la badia de de Saint-Brieuc, a les Costes d'Armor, a Brentanya. Amb en Jean prepara unes mongetes de Paimpol amb tres peixos. L'Alain, un pescador jubilat, li ensenya a fer unes cloïsses a la marinera. Finalment, amb la Yveline cuina un farz, un pastís bretó típic, amb prunes seques.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-08-29T21:16:51+02:00",
+        "stop": "2026-08-29T22:08:49+02:00",
+        "title": "Gent de món",
+        "subtitle": "Venècia i mar Adriàtic",
+        "description": "Us heu enfilat mai a una muntanya seguint els passos dels apòstols? Heu contemplat una ciutat flotant mentre es perd en l'horitzó? No?Això és perquè no heu fet mai la travessa dels tres mars: l'Adriàtic, el Jònic i l'Egeu. Un viatge que ens durà des de Venècia fins a Atenes passant per Ravenna i la ciutat de Kotor, a Montenegro.Una ruta pel Mediterrani oriental on trobarem el rastre d'antigues civilitzacions desaparegudes, d'imperis caiguts, de ciutats i edificis universals, de fortaleses inexpugnables i de tombes de poetes immortals. Avui farem un viatge pels tres mars que van veure néixer Europa!",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-08-29T19:22:45+02:00",
-        "stop": "2026-08-29T20:11:03+02:00",
-        "title": "Vida",
-        "subtitle": "Plantes",
-        "description": "L'espectacle del món vegetal no es pot apreciar a simple vista. Però, gràcies a la tecnologia més puntera, tot es revela: una atrapamosques que es tanca de cop sobre la seva presa; els ganxos d'agafada semblants a animals de l'ungla de gat i els coixinets enganxosos de l'heura de Boston en la seva lluita per la llum. Vola amb la llavor que va inspirar el disseny dels planadors i observa com la planta de creixement més ràpid de la Terra s'enfila 60 cm al dia. Descobreix les habilitats per atrapar aigua de l'estrany arbre de sang de drac, que regalima saba vermella de les seves branques.",
+        "start": "2026-08-29T22:08:49+02:00",
+        "stop": "2026-08-29T23:07:12+02:00",
+        "title": "Els caps de setmana llargs d'en Rick Stein",
+        "subtitle": "Berlín",
+        "description": "En Rick no ha estat mai a Berlín. El sorprèn moltíssim el seu ambient de novel·la negra i el dinamisme dels berlinesos. La gastronomia de la ciutat es caracteritza per la presència simultània de restaurants que ofereixen menjar tradicional i locals moderns amb cuiners que fan versions noves de plats clàssics. A més, hi ha cuiners innovadors i agosarats que trenquen motlles organitzant esdeveniments únics en entorns d'allò més inusuals.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
