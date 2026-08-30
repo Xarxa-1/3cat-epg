@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-30T10:41:13.730994+00:00",
+  "updated": "2026-08-30T15:00:58.378290+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,19 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-30T12:30:02+02:00",
-        "stop": "2026-08-30T14:33:42+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-08-30T15:32:25+02:00",
+        "stop": "2026-08-30T17:09:45+02:00",
+        "title": "Tarda de cine",
+        "subtitle": "Assassinats a Pont-Aven",
+        "description": "ASSASSINATS A PONT-AVEN 'Meurtres en Berry'Direcció: Floriane CrépinGuió: Natascha Cucheval, Iris DucorpsProducció: Quad Télévision, France TV, AT Production, RTBF (Télévision Belge), Ciclic - Région Centre, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2021Durada: 95País: FrançaMúsica: Emilien Levistre, Xiaoxi LevistreFotografia: Patrick GhiringhelliIntèrprets: Aurélien Wiik, Fauve Hautot, David Mora, Boris Terral, Julie-Anne Roth, Clarisse Lhoni-Botte, Bérangère McNeese, Niseema Theillaud, Noémie Zeitoun, Arthur Verret. La tinenta Marion Darosa investiga l'assassinat d'un jove galerista que en el passat havia estat condemnat pel tràfic de pintures falses. Formarà equip amb el capità Le Mezec, que torna a la regió després d'haver estat destinat molts anys a París. Precisament el capità Le Mezec va encapçalar la investigació de la mort, en principi accidental, de la mare de la Marion quan ella era petita. El pare de la Marion no ha superat mai la mort de la seva dona, i la tornada de Le Mezec reobrirà antigues ferides.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
+      },
+      {
+        "start": "2026-08-30T17:09:45+02:00",
+        "stop": "2026-08-30T18:53:10+02:00",
+        "title": "Tarda de cine",
+        "subtitle": "Els secrets de Finisterre",
+        "description": "ELS SECRETS DE FINISTERRE 'Les Secrets du Finistère'Direcció: François Basset, Anne PéjeanGuió: Emmanuelle Rey-Magnan, Pascal FontanilleProducció: Fontaram Productions, France TV, AT-Production, RTBF (Télévision Belge), TV5 MondeAny: 2023Durada: 92País: FrançaMúsica: François StaalFotografia: Dominique BouilleretIntèrprets: Evelyne Bouix, Jeremy Banster, Myriam Bourguignon, Yanig Samot, Nathalie Besancon, Martine Chevallier, David Brécourt, Jérôme Bertin, Céline Vitcoq De tornada a la seva Bretanya natal, la Morgane Ledantec, capitana de la gendarmeria, s'enfronta al descobriment d'uns ossos humans enterrats al peu d'un roure sagrat que ha caigut durant una tempesta. La víctima era una adepta del druïdisme, una pràctica en la qual la Morgane havia estat introduïda per la seva amiga Katell quan era adolescent. La Morgane, dotada d'una sensibilitat especial, a vegades desconcertant i que sempre ha intentat ocultar, haurà de retrobar-se amb una antiga amiga que sembla que li amaga alguna cosa.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-30T12:00:00+02:00",
-        "stop": "2026-08-30T14:30:00+02:00",
+        "start": "2026-08-30T16:30:00+02:00",
+        "stop": "2026-08-30T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,73 +72,73 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-30T14:30:00+02:00",
-        "stop": "2026-08-30T16:30:00+02:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-08-30T18:30:00+02:00",
+        "stop": "2026-08-30T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-08-30T11:55:00+02:00",
-        "stop": "2026-08-30T13:58:00+02:00",
-        "title": "Futbol",
-        "subtitle": "Athletic Club-FC Badalona Women / Lliga F / J1",
-        "description": "Després d'acabar desenes a l'últim campionat, les badalonines s'estrenen al nou curs a Lezama. Amb la narració de Gemma Mallorca i l'anàlisi de Juli Garcia. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "start": "2026-08-30T16:55:54+02:00",
+        "stop": "2026-08-30T18:00:13+02:00",
+        "title": "Núñez",
+        "subtitle": "Del malson al dream team",
+        "description": "El somni de la final de Sevilla esdevé un malson. El trauma de perdre la final de la Copa d'Europa a casa, contra un rival desconegut, i sense haver estat capaç de marcar ni un sol gol a la tanda de penals s'arrossega durant dos anys, fins a esclatar en la rebel·lió de la plantilla contra el president en el conegut com a Motí de l'Hesperia, avivat també pels problemes dels contractes amb Hisenda. Després de deu anys, a Núñez només li queda una carta abans de deixar el càrrec: apostar per una carta guanyadora, Johann Cruyff. Salvant tota mena d'obstacles, amb ell viurà els millors moments de la seva història com a president, però també els inicis d'una rivalitat que esquinçarà el club en el futur. Com a conseqüència d'aquesta rivalitat, tres dies abans del dia més important de la història del Barça, la final de Wembley, Núñez anuncia una decisió inesperada.",
+        "genre": "Docu-Entreteniment",
+        "image": ""
       },
       {
-        "start": "2026-08-30T13:58:00+02:00",
-        "stop": "2026-08-30T15:49:15+02:00",
-        "title": "Futbol",
-        "subtitle": "SD Eibar-RCD Espanyol / Lliga F / J1",
-        "description": "Les blanc-i-blaves van ocupar l'onzena posició final la temporada passada. L'equip basc va acabar en la tretzena, amb 3 punts menys. La narració, a càrrec de Gemma Mallorca i l'anàlisi, de Juli Garcia.  ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "start": "2026-08-30T18:00:13+02:00",
+        "stop": "2026-08-30T19:03:43+02:00",
+        "title": "Núñez",
+        "subtitle": "L'home que volia ser estimat",
+        "description": "Coincidint amb l'eufòria dels Jocs Olímpics de Barcelona, Núñez aconsegueix per fi el que havia promès: el Barça és l'equip més gran d'Europa. El 'Dream team', que deu el seu nom precisament a l'equip de bàsquet dels Estats Units durant els Jocs, és admirat per tothom. Però, coincidint amb una altra final de Copa d'Europa, el somni es trenca i esdevé un malson que conduirà a una de les rodes de premsa més famoses i grotesques de la història: la de la destitució de Johann Cruyff. L'intent de Núñez de reconstruir el seu projecte i unir el barcelonisme tindrà alts i baixos, però coincidint amb les primeres informacions dels suborns de l'empresa Núñez i Navarro a inspectors d'Hisenda, abandonarà la presidència del club. Han estat vint-i-dos anys de mandat, plens de llums i obres, d'èxits i de fracassos, emmirallats en vint-i-tres anys de la presidència d'un altre símbol: Jordi Pujol. El final és irònicament similar per a tots dos. És el final d'una etapa del Barça i de Catalunya.",
+        "genre": "Docu-Entreteniment",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-30T12:38:18+02:00",
-        "stop": "2026-08-30T12:44:48+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Sobrecàrrega parental",
-        "description": "Mentre es barallen per un pot de crema de xocolata, en Grizzy i els Lèmmings es troben un cadell d'os polar que no para de plorar. Quan ell els veu, es posa a plorar encara més fort. Molests pels plors del cadell, en Grizzy i els Lèmmings intenten tranquil·litzar-lo, però res sembla funcionar. Després de donar-li menjar i canviar-li el bolquer, el cadell per fi es queda adormit. Com s'ho faran per continuar la baralla pel pot de crema de xocolata sense despertar el petit os polar?",
+        "start": "2026-08-30T16:53:50+02:00",
+        "stop": "2026-08-30T17:04:21+02:00",
+        "title": "Ideafix i els irreductibles",
+        "subtitle": "L'escut de Camulogen",
+        "description": "El general Labiè vol ser aclamat per tots els lutecians damunt l'escut de Camulogen, el malaguanyat capitost dels gals. El vell colom Asmàtix, escandalitzat davant de tal injúria, demana ajut a la Irreductible Turbina per impedir-ho.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-30T12:44:48+02:00",
-        "stop": "2026-08-30T12:52:06+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Esperits llaminers",
-        "description": "En Grizzy persegueix els Lèmmings per tot el castell per recuperar les postres de gelatina que li han robat. En un cul-de-sac, l'os es topa amb un fantasma, però quan li passa l'ensurt, s'adona que són els Lèmmings disfressats amb un llençol. En Grizzy recupera les seves postres i tanca els rosegadors dins un bagul. Allà, els Lèmmings troben l'estatueta d'un fantasma que els converteix en esperits. Llavors surten del bagul i decideixen turmentar l'os per treure-li la gelatina.",
+        "start": "2026-08-30T17:04:21+02:00",
+        "stop": "2026-08-30T17:15:14+02:00",
+        "title": "Ideafix i els irreductibles",
+        "subtitle": "A en Devorix li falten vitamines",
+        "description": "Quan la Monalisa descobreix que el Devòrix s'ha enamorat de la Vitamina, engega un pla maquiavèl·lic: cal aconseguir que la Vitamina s'enamori de l'Arcabús a fi de desmoralitzar el Devòrix. El pla funciona i els Irreductibles perden la potència brutal d'un dels membres, que fins i tot decideix abandonar Lutècia. Però l'Ideafix, la Turbina i la Picarina s'escarrassen per destapar el pla de la Monalisa i tornar la moral al Devòrix.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-30T12:06:15+02:00",
-        "stop": "2026-08-30T12:59:09+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Corno",
-        "description": "Amb el Corno van der Berg, un jove holandès, visitem diferents indrets naturals dels Pallars i coneixem la tradicional baixada de falles d'Isil. A més, al circuit Barcelona-Catalunya gaudeix d'una experiència al límit.",
-        "genre": "ALTRES",
+        "start": "2026-08-30T16:34:16+02:00",
+        "stop": "2026-08-30T17:27:41+02:00",
+        "title": "Planeta dinàmic",
+        "subtitle": "Terra",
+        "description": "El clima de la Terra canvia i els sistemes naturals que abans eren estables i dels quals depenem es desequilibren perillosament. Científics intrèpids, tribus locals i megafauna gegant, de l'Àrtic a l'Amazònia, ens revelen com la ciència, la natura i la tradició ens poden ajudar a preparar-nos per un futur que canvia molt de pressa.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-30T12:59:09+02:00",
-        "stop": "2026-08-30T13:46:40+02:00",
-        "title": "La Renaixença",
-        "subtitle": "El mirall",
-        "description": "Trencar un mirall són 7 anys de mala sort. Algú ens pot confirmar si aquesta superstició és certa perquè ho ha viscut en primera persona? També pots tenir mala sort per defecte, sense haver trencat res. Dediquem aquest capítol al mirall. Ens visita la Regina Rodríguez Sirvent, autora de 'Les calces al sol': ens fa espòilers sobre la seva següent novel·la, i també parlem de diners. I sortim a passejar en Plum, un gos de Cornudella de Montsant, per la Conspiració de la Pólvora del 1606",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-08-30T17:27:41+02:00",
+        "stop": "2026-08-30T18:21:07+02:00",
+        "title": "Planeta dinàmic",
+        "subtitle": "Foc",
+        "description": "A mesura que pugen les temperatures, els incendis forestals cremen amb virulència, s'intensifiquen les sequeres i els conflictes entre els humans i els animals, i es desestabilitzen els sistemes. Les persones que viuen i treballen a primera línia dels canvis ens revelen com la ciència, la natura i la tradició ens poden ajudar a preparar-nos per un futur que canvia molt de pressa.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
