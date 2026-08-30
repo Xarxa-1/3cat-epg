@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-30T05:37:36.396674+00:00",
+  "updated": "2026-08-30T10:41:13.730994+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,17 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-30T07:00:00+02:00",
-        "stop": "2026-08-30T10:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-08-30T10:00:00+02:00",
-        "stop": "2026-08-30T12:00:00+02:00",
+        "start": "2026-08-30T12:30:02+02:00",
+        "stop": "2026-08-30T14:33:42+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +54,8 @@
     ],
     "324": [
       {
-        "start": "2026-08-30T07:00:00+02:00",
-        "stop": "2026-08-30T10:00:00+02:00",
+        "start": "2026-08-30T12:00:00+02:00",
+        "stop": "2026-08-30T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,73 +63,73 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-30T10:00:00+02:00",
-        "stop": "2026-08-30T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-08-30T14:30:00+02:00",
+        "stop": "2026-08-30T16:30:00+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-08-30T07:31:47+02:00",
-        "stop": "2026-08-30T08:35:17+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J3 / Dissabte",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-08-30T11:55:00+02:00",
+        "stop": "2026-08-30T13:58:00+02:00",
+        "title": "Futbol",
+        "subtitle": "Athletic Club-FC Badalona Women / Lliga F / J1",
+        "description": "Després d'acabar desenes a l'últim campionat, les badalonines s'estrenen al nou curs a Lezama. Amb la narració de Gemma Mallorca i l'anàlisi de Juli Garcia. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       },
       {
-        "start": "2026-08-30T08:35:17+02:00",
-        "stop": "2026-08-30T10:07:40+02:00",
-        "title": "Futbol sala",
-        "subtitle": "Catgas Energia Santa Coloma-Barça / Copa Catalunya masculina / Final",
-        "description": "Final masculina de la Supercopa de Catalunya de futbol sala que s'està disputant a Santa Coloma de Gramenet. ",
+        "start": "2026-08-30T13:58:00+02:00",
+        "stop": "2026-08-30T15:49:15+02:00",
+        "title": "Futbol",
+        "subtitle": "SD Eibar-RCD Espanyol / Lliga F / J1",
+        "description": "Les blanc-i-blaves van ocupar l'onzena posició final la temporada passada. L'equip basc va acabar en la tretzena, amb 3 punts menys. La narració, a càrrec de Gemma Mallorca i l'anàlisi, de Juli Garcia.  ",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-30T07:31:49+02:00",
-        "stop": "2026-08-30T07:43:11+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "Fruita prohibida",
-        "description": "Les formigues fan guàrdia davant d'un gerd que li volen regalar a la reina pel Festival de la Fruita que faran demà passat al formiguer. Quan el gerd desapareix, les formigues en donen la culpa a en Willi, que estava jugant per allà a prop. La Maia té clar que no ha sigut ell, però per demostrar-ho haurà de trobar el culpable. Qui deu haver estat?!",
+        "start": "2026-08-30T12:38:18+02:00",
+        "stop": "2026-08-30T12:44:48+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Sobrecàrrega parental",
+        "description": "Mentre es barallen per un pot de crema de xocolata, en Grizzy i els Lèmmings es troben un cadell d'os polar que no para de plorar. Quan ell els veu, es posa a plorar encara més fort. Molests pels plors del cadell, en Grizzy i els Lèmmings intenten tranquil·litzar-lo, però res sembla funcionar. Després de donar-li menjar i canviar-li el bolquer, el cadell per fi es queda adormit. Com s'ho faran per continuar la baralla pel pot de crema de xocolata sense despertar el petit os polar?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-30T07:43:11+02:00",
-        "stop": "2026-08-30T07:54:17+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "Tirem coets inventats!",
-        "description": "Hi ha uns focs artificials que no fan por. Surten d'una capsa inventada i cadascú pot triar-ne el color i quants pets fan. Al Mi i en Cincsegons els encanta jugar a aquest joc! ",
+        "start": "2026-08-30T12:44:48+02:00",
+        "stop": "2026-08-30T12:52:06+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Esperits llaminers",
+        "description": "En Grizzy persegueix els Lèmmings per tot el castell per recuperar les postres de gelatina que li han robat. En un cul-de-sac, l'os es topa amb un fantasma, però quan li passa l'ensurt, s'adona que són els Lèmmings disfressats amb un llençol. En Grizzy recupera les seves postres i tanca els rosegadors dins un bagul. Allà, els Lèmmings troben l'estatueta d'un fantasma que els converteix en esperits. Llavors surten del bagul i decideixen turmentar l'os per treure-li la gelatina.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-30T07:05:22+02:00",
-        "stop": "2026-08-30T07:51:24+02:00",
-        "title": "La Renaixença",
-        "subtitle": "Millors moments - setmana 12",
-        "description": "Us deixem un resum dels capítols d'aquesta setmana. Hem parlat de coses tan nostrades com la rajola catalana; nostàlgiques com saludar un cotxe amb matrícula de prop de casa; consells pràctics sobre la canya de pescar; o un lloc on tots som ben iguals: el vàter. Aquests dies ens han vingut a veure Iván Morales, dos experts en vexil·lologia, el grup Roba Estesa i Sandra Ànima, una facialista emocional. Recupereu els millors moments de la setmana!",
+        "start": "2026-08-30T12:06:15+02:00",
+        "stop": "2026-08-30T12:59:09+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Corno",
+        "description": "Amb el Corno van der Berg, un jove holandès, visitem diferents indrets naturals dels Pallars i coneixem la tradicional baixada de falles d'Isil. A més, al circuit Barcelona-Catalunya gaudeix d'una experiència al límit.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "image": ""
       },
       {
-        "start": "2026-08-30T07:51:24+02:00",
-        "stop": "2026-08-30T08:45:03+02:00",
-        "title": "Viure als Pirineus- A banda i banda",
-        "subtitle": "Xavi Llongueras i Jean-François Rechoulet - Primavera",
-        "description": "",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-08-30T12:59:09+02:00",
+        "stop": "2026-08-30T13:46:40+02:00",
+        "title": "La Renaixença",
+        "subtitle": "El mirall",
+        "description": "Trencar un mirall són 7 anys de mala sort. Algú ens pot confirmar si aquesta superstició és certa perquè ho ha viscut en primera persona? També pots tenir mala sort per defecte, sense haver trencat res. Dediquem aquest capítol al mirall. Ens visita la Regina Rodríguez Sirvent, autora de 'Les calces al sol': ens fa espòilers sobre la seva següent novel·la, i també parlem de diners. I sortim a passejar en Plum, un gos de Cornudella de Montsant, per la Conspiració de la Pólvora del 1606",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
