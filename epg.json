@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-30T21:34:23.572847+00:00",
+  "updated": "2026-08-30T23:52:08.368284+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-30T23:06:33+02:00",
-        "stop": "2026-08-31T00:10:10+02:00",
-        "title": "Diades castelleres especials",
-        "subtitle": "Diada Castellera de Sant Fèlix a Vilafranca",
-        "description": "La gran diada castellera de Sant Fèlix tanca el mes d'agost amb una exhibició de les millors colles de la temporada. Vilafranca del Penedès es converteix en l'epicentre de món casteller on s'aixequen els castells més difícils i on es respira la màxima rivalitat. En aquesta edició la diada l'obrirà la Colla Vella dels Xiquets de Valls, seguida de la Colla Jove dels Xiquets de Tarragona, Castellers de Vilafranca i la Colla Joves Xiquets de Valls per tancar les rondes d'actuació.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
-      },
-      {
-        "start": "2026-08-31T00:09:53+02:00",
-        "stop": "2026-08-31T01:54:16+02:00",
+        "start": "2026-08-31T00:09:54+02:00",
+        "stop": "2026-08-31T01:54:18+02:00",
         "title": "Pel·lícula",
         "subtitle": "Libertad",
         "description": "LIBERTADProductores: Lastor Media, Avalon PC i Bulletproof Cupid, 2021Direcció i guió: Clara RoquetDirecció de fotografia: Gris JordanaMúsica: Paul TyanIntèrprets: María Morera (Nora), Nicolle García (Libertad), Vicky Peña (Ángela), Nora Navas (Teresa) i Carol Hurtado (Rosana)La vida de la Nora canviarà quan la Libertad, la filla de la cuidadora colombiana que es fa càrrec de la seva àvia, arriba a la casa d'estiueig de la família. La nova i intensa amistat entre les dues joves, de procedència diferent, marcarà el seu despertar adolescent. ",
         "genre": "PEL·LÍCULA / TELEFILM",
         "image": ""
+      },
+      {
+        "start": "2026-08-31T01:54:18+02:00",
+        "stop": "2026-08-31T01:59:59+02:00",
+        "title": "Els últims artesans",
+        "subtitle": "Joan Ferré - Cisteller",
+        "description": "Des del taller situat a Folgueroles, en Joan Ferré fa més de 30 anys que treballa per assolir la perfecta simbiosi entre la tècnica tradicional de cisteller i la innovació del disseny. Els seus projectes amb vímet viu són testimonis de l'èxit del seu propòsit.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-30T23:00:00+02:00",
-        "stop": "2026-08-31T00:30:00+02:00",
+        "start": "2026-08-31T01:00:00+02:00",
+        "stop": "2026-08-31T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-31T00:30:00+02:00",
-        "stop": "2026-08-31T01:00:00+02:00",
+        "start": "2026-08-31T06:00:00+02:00",
+        "stop": "2026-08-31T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-30T23:30:00+02:00",
-        "stop": "2026-08-31T00:46:30+02:00",
+        "start": "2026-08-31T01:03:04+02:00",
+        "stop": "2026-08-31T02:14:27+02:00",
         "title": "Gol a gol",
         "subtitle": "Anàlisi de la jornada / J3 / Diumenge",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
@@ -92,51 +92,51 @@
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-08-31T00:46:30+02:00",
-        "stop": "2026-08-31T01:05:24+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-08-31T02:14:27+02:00",
+        "stop": "2026-08-31T04:05:47+02:00",
+        "title": "Futbol",
+        "subtitle": "FC Barcelona-CD Tenerife / Lliga F / J1",
+        "description": "Les blaugranes comencen, a l'Estadi Johan Cruyff, el camí cap a una nova Lliga de futbol. Seria la vuitena consecutiva. Amb la narració de Gemma Mallorca i l'anàlisi de Mireia Vera.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-30T23:27:31+02:00",
-        "stop": "2026-08-30T23:38:36+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "La gran cursa",
-        "description": "Després de llegir La llebre i la tortuga, en Reggie desafia la Maggie a una cursa per veure si el conte és realitat o ficció. La Maggie accepta de seguida, convençuda que guanyarà, però podrà evitar que les distraccions li facin perdre el ritme? ",
+        "start": "2026-08-31T01:33:53+02:00",
+        "stop": "2026-08-31T01:54:33+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Destrucció",
+        "description": "I si el pitjor malson de Ladybug es fes realitat? I si el Monarca obligués els kwamis a ensenyar-li on viu Ladybug? Els pobres l'haurien d'obeir per força. I si el Monarca es presentés a casa dels Dupain-Cheng, es podria escapar la Marinette?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-30T23:38:36+02:00",
-        "stop": "2026-08-30T23:49:25+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "El gat horripilant",
-        "description": "La Felicity, el Miguel, la Yana i l'Athena reben un val per menjar un cupcake de franc. Per anar a la botiga on els serveixen, però, hauran de passar pel Bosc de les Fòbies, que es diu així perquè el menjar que hi ha provoca unes fòbies terrorífiques.",
+        "start": "2026-08-31T01:54:33+02:00",
+        "stop": "2026-08-31T02:15:28+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Joia",
+        "description": "La Marinette descobreix sorpresa que una excompanya d'escola que es diu Socqueline es fa passar per Ladybug. Intenta dissuadir-la de posar-se en perill d'aquesta manera, però el Monarca la persegueix, convençut que és l'autèntica Ladybug. El Monarca confia a un malvat akumatitzat el poder del prodigi de la joia, que revela els secrets més amagats de la gent. Podran l'autèntica Ladybug i el Gat Noir esquivar aquest poder?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-30T22:56:49+02:00",
-        "stop": "2026-08-30T23:48:09+02:00",
-        "title": "La Camarga, salvatge i fràgil",
-        "subtitle": "El regne de l'aigua dolça",
-        "description": "L'Alta Camarga és el regne de l'aigua dolça, amb una densa xarxa de canals que abasteixen cultius, i zones protegides amb la seva fauna i flora. Al delta del Roine hi fan escala moltes aus migratòries, que conviuen amb espècies amenaçades que pateixen els efectes de la contaminació ambiental i de les espècies invasores. El futur de la Camarga d'aigua dolça depèn, doncs, de l'equilibri entre l'activitat humana i la conservació de la natura.",
+        "start": "2026-08-31T01:31:57+02:00",
+        "stop": "2026-08-31T02:23:49+02:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Terres de descobriments",
+        "description": "En molts aspectes, la història de la humanitat està lligada a la història dels volcans. Estudiant els volcans, els científics no només en revelen els misteris, sinó que revolucionen la nostra visió del món. Els investigadors treballen incansablement perquè les societats humanes puguin, de descobriment en descobriment, aprofitar al màxim aquestes muntanyes vives. En la nostra eterna recerca de coneixement i de progrés, els volcans són els nostres millors aliats i el terreny d'una infinitat de descobriments.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-30T23:48:09+02:00",
-        "stop": "2026-08-31T00:39:40+02:00",
-        "title": "Viure amb els volcans",
-        "subtitle": "Els guardians dels volcans",
-        "description": "Els volcans són una força de la natura. El seu poder indomable es desferma al nostre planeta des de fa milions d'anys, i amenaça cinc-cents milions de persones a tot el món. Davant d'aquest perill, un grup d'homes i dones apassionats s'han proposat la missió de comprendre i protegir. Són els guardians dels volcans, persones que, en col·laboració amb els científics, miren d'entendre aquests gegants de foc i preveure'n el comportament.",
+        "start": "2026-08-31T02:23:49+02:00",
+        "stop": "2026-08-31T03:11:36+02:00",
+        "title": "Vida",
+        "subtitle": "Plantes",
+        "description": "L'espectacle del món vegetal no es pot apreciar a simple vista. Però, gràcies a la tecnologia més puntera, tot es revela: una atrapamosques que es tanca de cop sobre la seva presa; els ganxos d'agafada semblants a animals de l'ungla de gat i els coixinets enganxosos de l'heura de Boston en la seva lluita per la llum. Vola amb la llavor que va inspirar el disseny dels planadors i observa com la planta de creixement més ràpid de la Terra s'enfila 60 cm al dia. Descobreix les habilitats per atrapar aigua de l'estrany arbre de sang de drac, que regalima saba vermella de les seves branques.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
