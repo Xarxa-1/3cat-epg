@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-29T22:13:35.061285+00:00",
+  "updated": "2026-08-30T00:21:58.865832+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-30T00:05:38+02:00",
-        "stop": "2026-08-30T01:17:14+02:00",
-        "title": "Documental",
-        "subtitle": "L'eternitat",
-        "description": "'L'ETERNITAT' (2020). Una producció de ANGELA FILMS produït amb la col·laboració de Televisió de Catalunya i amb la col·laboració del Departament de Cultura de la Generalitat de Catalunya.L'Eternitat és un cant d'amor a la pagesia catalana en perill de desaparèixer definitivamentdesprés de segles i segles d'existència. A través de la vida d'una familia de pastors entrarem enun món inaudit on la força de les imatges, la clarividència dels diàlegs i l'entensitat dels sons ensevocaran un entorn autèntic i crepuscular a cavall dels segles XIX i XXI.Director: Christophe Farnarier.Guió: Christophe Farnarier i Àngels Tresserres.Fotografia, edició i so: Christophe Farnarier.Edició de so i mescles: Jonathan Darch.Etalonatge i postproducció: Xavier Pérez.Direcció artística: Àngels Tresserres.Música original: Joe Farnarier.Producció executiva: Àngels Tresserres.Producció executiva TVC: Jordi Ambròs.Producció delegada TVC: Daniel Barea.",
-        "genre": "DOCUMENTAL DE CREACIÓ",
-        "image": ""
-      },
-      {
-        "start": "2026-08-30T01:17:14+02:00",
-        "stop": "2026-08-30T01:36:43+02:00",
-        "title": "Correspondències",
-        "subtitle": "Correspondències entre Míriam Hatibi i Hajar Brown",
-        "description": "L'escriptora, activista musulmana i feminista Míriam Hatibi ha escollit cartejar-se amb l'actriu feminista, musulmana i influencer Hajar Brown. A la seva primera correspondència la Míriam i l'Hajar reflexionen sobre la identitat. Qui són? D'on vénen? Són la suma de totes les dones que han viscut abans a la seva família? Les dones de la seva vida eren feministes sense etiquetar-se i elles ho han viscut des de petites, simplement, elles ara li han posat nom a la seva manera de viure. A la segona correspondència s'escriuren sobre el fet que a les dones se'ns demana més que als homes, hem de ser el doble per arribar a la meitat. Que és una cosa que han sentit sempre a la seva família i que, ara, elles creuen que ja n'hi ha prou. Que amb elles ja fan, que no cal demostrar a tothom i, sobretot, a una mateixa, que pots amb tot.El capítol acaba amb un manifest-homenatge a Agnès Varda amb diferents dones feministes que es pregunten 'què vol dir ser dona'. ",
-        "genre": "DOCUMENTAL DE CREACIÓ",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-08-29T23:00:00+02:00",
-        "stop": "2026-08-30T00:30:00+02:00",
+        "start": "2026-08-30T02:21:35+02:00",
+        "stop": "2026-08-30T04:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-30T00:30:00+02:00",
-        "stop": "2026-08-30T01:00:00+02:00",
+        "start": "2026-08-30T04:30:00+02:00",
+        "stop": "2026-08-30T05:08:05+02:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Zona Wells",
+        "description": "Zona Wells és una formació que viu a cavall entre Barcelona i Lima. Tot i tenir els seus fonaments en el jazz és un amalgama de diferents estils musicals, com el reggae, el folk, la bossa, el hip hop i música electrònica. És en aquest punt de trobada on els múltiples estils es troben i es fusionen per explorar la relació entre ells i esdevenir un llenguatge mestís. Saphie Wells a la veu, Dinguisman a la veu, guitarra i caixó, Toni Pagés a la bateria, Josep Lluí Guart al piano i Joan Subirats l saxo.",
+        "genre": "ALTRES",
+        "image": ""
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-08-30T01:00:00+02:00",
+        "stop": "2026-08-30T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-30T06:00:00+02:00",
+        "stop": "2026-08-30T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-29T23:30:00+02:00",
-        "stop": "2026-08-30T00:31:08+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J3 / Dissabte",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-08-30T02:20:01+02:00",
+        "stop": "2026-08-30T02:46:33+02:00",
+        "title": "WRC",
+        "subtitle": "Ral·li del Paraguai / WRC 2026 / J1",
+        "description": "Onzena de les catorze proves del Campionat del Món. El Ral·li del Paraguai té un recorregut total de 359 quilòmetres cronometrats dividits en 22 trams, majoritàriament sobre carreteres de terra. Us oferim el més destacat de la jornada amb la conducció de Noel Rodríguez i l'assistència de Santi Torres.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"
       },
       {
-        "start": "2026-08-30T00:31:08+02:00",
-        "stop": "2026-08-30T00:51:40+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-08-30T02:46:33+02:00",
+        "stop": "2026-08-30T04:18:57+02:00",
+        "title": "Futbol sala",
+        "subtitle": "Catgas Energia Santa Coloma-Barça / Copa Catalunya masculina / Final",
+        "description": "Final masculina de la Supercopa de Catalunya de futbol sala que s'està disputant a Santa Coloma de Gramenet. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-30T00:11:32+02:00",
-        "stop": "2026-08-30T00:21:50+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "El monstre del llac Gens Net",
-        "description": "El Miguel té una casa tan i tan bruta que se l'hi instal·la un convidat no desitjat: un monstre que viu entre la brutícia. La Felicity convida el seu amic a dormir a casa seva mentre arriba l'exterminador, però en poques hores el Miquel ho deixa tot fet un desastre.",
+        "start": "2026-08-30T02:18:35+02:00",
+        "stop": "2026-08-30T02:40:21+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Rèplica (L'últim atac de l'Esfinx Fosc - 2a part)",
+        "description": "Sense sospitar que es troben sota la influència d'un akumatitzat molt perillós, Ladybug i el Gat Noir estan disposats a arriscar-se tant com calgui per tornar de seguida que puguin a la seva vida normal, on s'està a punt de capgirar el seu destí. Els nostres superherois subestimen un sentimonstre invulnerable, que a més es pensen que és l'únic enemic que tenen, i ells es van tornant cada vegada més vulnerables. I des de l'ombra, l'Esfinx Fosc espera que el seu últim pla surti bé i pugui aconseguir la seva primera victòria.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-30T00:21:50+02:00",
-        "stop": "2026-08-30T00:32:09+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "Temps mort",
-        "description": "La Felicity ha d'anar a fer-se la revisió al veterinari, però està morta de por. Per escapolir-se'n li demana al Pare Temps el seu rellotge, amb el qual pot parar el temps o retrocedir al passat. Però quan ella i els seus amics van a la prehistòria, tot es complica.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-30T02:40:21+02:00",
+        "stop": "2026-08-30T02:50:59+02:00",
+        "title": "Com dibuixar còmics amb el Will Sliney",
+        "subtitle": "Drock",
+        "description": "Finalment, l'aparentment invencible Megacrònica va trobar un rival més fort que ell, que no era cap altre que el Superfantàstic, Fabulós i Espectacular Ogam, una nova versió de la nostra pedra amiga amb superpoders. Però també es va produir un altre fet insòlit, la rebel·lió del Drock, l'esbirro rocós del Crònica, que fart dels menyspreus del seu amo li va girar l'esquena. Avui, el Will Sliney ens ensenyarà a dibuixar el Drock. ",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-30T00:06:12+02:00",
-        "stop": "2026-08-30T00:57:46+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "El Borbonès",
-        "description": "En Lucien, un enginyer agroalimentari, fa un pastís salat de patata tal com l'ha après de l'àvia Hélène. La Simone i l'Olivier, mare i fill, són fabricants de la famosa mostassa de Charós, que entra en algunes receptes típiques del Borbonès. L'Hubert, editor de llibres de cuina, sap guisar l'ànec a la Duchambais, una salsa de nata amb vi i mostassa. L'Arnaud, horticultor, es dedica a crear noves varietats de pomes i de peres. I la Françoise fa un pastís de peres guarnit per damunt amb peres senceres en almívar.",
+        "start": "2026-08-30T01:48:29+02:00",
+        "stop": "2026-08-30T02:34:15+02:00",
+        "title": "Illes d'Austràlia, amb Martin Clunes",
+        "subtitle": "",
+        "description": "En la primera etapa de la seva volta a Austràlia saltant d'illa en illa, Martin Clunes visita l'illa de Lord Howe i l'illa Norfolk, petits trossos de paradís perduts enmig del Pacífic on encara és viu el record de la colonització feta amb presos deportats de la Gran Bretanya. Després visita un Robinson modern que viu sol a l'illa de la Restauració, i salta cap a les illes de l'estret de Torres, on es barregen moltes cultures.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-30T00:57:46+02:00",
-        "stop": "2026-08-30T01:48:28+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "La Corresa",
-        "description": "En aquest episodi la Julie visita el departament de la Corresa. Primer de tot visita el noguerar d'en David, on es produeix una nou molt apreciada. Amb la Karine prepara un magret d'ànec amb crosta de nous. Després visita la Sylvie, que produeix un licor de nous típic de la regió. Tot seguit, amb la Michèle, prepara unes gofres amb nata crua. Finalment, la Laurence li ensenya una recepta de pit de vedella farcit.",
+        "start": "2026-08-30T02:34:15+02:00",
+        "stop": "2026-08-30T03:18:24+02:00",
+        "title": "Illes d'Austràlia, amb Martin Clunes",
+        "subtitle": "",
+        "description": "Martin Clunes continua el seu viatge al voltant d'Austràlia anant d'illa en illa. Alguna illa només està habitada per aborígens, altres estan deshabitades, en algunes hi viuen pescadors, i l'última és un centre turístic amb una història sinistra. El mar que les envolta, en canvi, sempre és ple de vida. El Martin se submergeix per veure de prop els esculls de corall i els peixos grans i petits que hi viuen.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
