@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-30T00:21:58.865832+00:00",
+  "updated": "2026-08-30T05:37:36.396674+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-30T02:21:35+02:00",
-        "stop": "2026-08-30T04:30:00+02:00",
+        "start": "2026-08-30T07:00:00+02:00",
+        "stop": "2026-08-30T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-30T04:30:00+02:00",
-        "stop": "2026-08-30T05:08:05+02:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Zona Wells",
-        "description": "Zona Wells és una formació que viu a cavall entre Barcelona i Lima. Tot i tenir els seus fonaments en el jazz és un amalgama de diferents estils musicals, com el reggae, el folk, la bossa, el hip hop i música electrònica. És en aquest punt de trobada on els múltiples estils es troben i es fusionen per explorar la relació entre ells i esdevenir un llenguatge mestís. Saphie Wells a la veu, Dinguisman a la veu, guitarra i caixó, Toni Pagés a la bateria, Josep Lluí Guart al piano i Joan Subirats l saxo.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-08-30T10:00:00+02:00",
+        "stop": "2026-08-30T12:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-08-30T01:00:00+02:00",
-        "stop": "2026-08-30T06:00:00+02:00",
+        "start": "2026-08-30T07:00:00+02:00",
+        "stop": "2026-08-30T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-30T06:00:00+02:00",
-        "stop": "2026-08-30T07:00:00+02:00",
+        "start": "2026-08-30T10:00:00+02:00",
+        "stop": "2026-08-30T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-30T02:20:01+02:00",
-        "stop": "2026-08-30T02:46:33+02:00",
-        "title": "WRC",
-        "subtitle": "Ral·li del Paraguai / WRC 2026 / J1",
-        "description": "Onzena de les catorze proves del Campionat del Món. El Ral·li del Paraguai té un recorregut total de 359 quilòmetres cronometrats dividits en 22 trams, majoritàriament sobre carreteres de terra. Us oferim el més destacat de la jornada amb la conducció de Noel Rodríguez i l'assistència de Santi Torres.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"
+        "start": "2026-08-30T07:31:47+02:00",
+        "stop": "2026-08-30T08:35:17+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Anàlisi de la jornada / J3 / Dissabte",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-08-30T02:46:33+02:00",
-        "stop": "2026-08-30T04:18:57+02:00",
+        "start": "2026-08-30T08:35:17+02:00",
+        "stop": "2026-08-30T10:07:40+02:00",
         "title": "Futbol sala",
         "subtitle": "Catgas Energia Santa Coloma-Barça / Copa Catalunya masculina / Final",
         "description": "Final masculina de la Supercopa de Catalunya de futbol sala que s'està disputant a Santa Coloma de Gramenet. ",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-08-30T02:18:35+02:00",
-        "stop": "2026-08-30T02:40:21+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Rèplica (L'últim atac de l'Esfinx Fosc - 2a part)",
-        "description": "Sense sospitar que es troben sota la influència d'un akumatitzat molt perillós, Ladybug i el Gat Noir estan disposats a arriscar-se tant com calgui per tornar de seguida que puguin a la seva vida normal, on s'està a punt de capgirar el seu destí. Els nostres superherois subestimen un sentimonstre invulnerable, que a més es pensen que és l'únic enemic que tenen, i ells es van tornant cada vegada més vulnerables. I des de l'ombra, l'Esfinx Fosc espera que el seu últim pla surti bé i pugui aconseguir la seva primera victòria.",
+        "start": "2026-08-30T07:31:49+02:00",
+        "stop": "2026-08-30T07:43:11+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "Fruita prohibida",
+        "description": "Les formigues fan guàrdia davant d'un gerd que li volen regalar a la reina pel Festival de la Fruita que faran demà passat al formiguer. Quan el gerd desapareix, les formigues en donen la culpa a en Willi, que estava jugant per allà a prop. La Maia té clar que no ha sigut ell, però per demostrar-ho haurà de trobar el culpable. Qui deu haver estat?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-30T02:40:21+02:00",
-        "stop": "2026-08-30T02:50:59+02:00",
-        "title": "Com dibuixar còmics amb el Will Sliney",
-        "subtitle": "Drock",
-        "description": "Finalment, l'aparentment invencible Megacrònica va trobar un rival més fort que ell, que no era cap altre que el Superfantàstic, Fabulós i Espectacular Ogam, una nova versió de la nostra pedra amiga amb superpoders. Però també es va produir un altre fet insòlit, la rebel·lió del Drock, l'esbirro rocós del Crònica, que fart dels menyspreus del seu amo li va girar l'esquena. Avui, el Will Sliney ens ensenyarà a dibuixar el Drock. ",
-        "genre": "ALTRES",
+        "start": "2026-08-30T07:43:11+02:00",
+        "stop": "2026-08-30T07:54:17+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Tirem coets inventats!",
+        "description": "Hi ha uns focs artificials que no fan por. Surten d'una capsa inventada i cadascú pot triar-ne el color i quants pets fan. Al Mi i en Cincsegons els encanta jugar a aquest joc! ",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-30T01:48:29+02:00",
-        "stop": "2026-08-30T02:34:15+02:00",
-        "title": "Illes d'Austràlia, amb Martin Clunes",
-        "subtitle": "",
-        "description": "En la primera etapa de la seva volta a Austràlia saltant d'illa en illa, Martin Clunes visita l'illa de Lord Howe i l'illa Norfolk, petits trossos de paradís perduts enmig del Pacífic on encara és viu el record de la colonització feta amb presos deportats de la Gran Bretanya. Després visita un Robinson modern que viu sol a l'illa de la Restauració, i salta cap a les illes de l'estret de Torres, on es barregen moltes cultures.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-08-30T07:05:22+02:00",
+        "stop": "2026-08-30T07:51:24+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 12",
+        "description": "Us deixem un resum dels capítols d'aquesta setmana. Hem parlat de coses tan nostrades com la rajola catalana; nostàlgiques com saludar un cotxe amb matrícula de prop de casa; consells pràctics sobre la canya de pescar; o un lloc on tots som ben iguals: el vàter. Aquests dies ens han vingut a veure Iván Morales, dos experts en vexil·lologia, el grup Roba Estesa i Sandra Ànima, una facialista emocional. Recupereu els millors moments de la setmana!",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-08-30T02:34:15+02:00",
-        "stop": "2026-08-30T03:18:24+02:00",
-        "title": "Illes d'Austràlia, amb Martin Clunes",
-        "subtitle": "",
-        "description": "Martin Clunes continua el seu viatge al voltant d'Austràlia anant d'illa en illa. Alguna illa només està habitada per aborígens, altres estan deshabitades, en algunes hi viuen pescadors, i l'última és un centre turístic amb una història sinistra. El mar que les envolta, en canvi, sempre és ple de vida. El Martin se submergeix per veure de prop els esculls de corall i els peixos grans i petits que hi viuen.",
+        "start": "2026-08-30T07:51:24+02:00",
+        "stop": "2026-08-30T08:45:03+02:00",
+        "title": "Viure als Pirineus- A banda i banda",
+        "subtitle": "Xavi Llongueras i Jean-François Rechoulet - Primavera",
+        "description": "",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
