@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-31T03:08:14.099331+00:00",
+  "updated": "2026-08-31T09:41:47.671840+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-31T04:30:00+02:00",
-        "stop": "2026-08-31T05:08:33+02:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Àlex Ventura 'Teràpia de grup'",
-        "description": "Àlex Ventura entra a l'estudi amb 'Teràpia de grup'. La formació aposta per les composicions pròpies, i pretén donar una visió ben personal i aportar una visió contemporània al latin jazz.Les seves influències: la música cubana, el jazz, la cúmbia, el reggae o el flamenc. Àlex Ventura a la bateria, David Pastor a la trompeta, Vicenç Solsona a la guitarra, Isaac Coll al baix i Lluís Alfonso Guerra a la percussió",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-08-31T05:08:33+02:00",
-        "stop": "2026-08-31T05:54:16+02:00",
-        "title": "Cava de Blues",
-        "subtitle": "JG Acoustic Gang",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-08-31T01:00:00+02:00",
-        "stop": "2026-08-31T06:00:00+02:00",
+        "start": "2026-08-31T10:00:00+02:00",
+        "stop": "2026-08-31T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-31T06:00:00+02:00",
-        "stop": "2026-08-31T07:00:00+02:00",
+        "start": "2026-08-31T12:00:00+02:00",
+        "stop": "2026-08-31T12:59:09+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-08-31T10:00:00+02:00",
+        "stop": "2026-08-31T12:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-08-31T12:00:00+02:00",
+        "stop": "2026-08-31T14:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,66 +83,86 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-31T04:05:50+02:00",
-        "stop": "2026-08-31T06:02:58+02:00",
-        "title": "Futbol",
-        "subtitle": "Gimnàstic de Tarragona-R. Saragossa / Primera Federació / J1",
-        "description": "Els tarragonins reben un històric al Nou Estadi Costa Daurada en el primer partit de Lliga. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+        "start": "2026-08-31T11:33:17+02:00",
+        "stop": "2026-08-31T12:44:34+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Anàlisi de la jornada / J3 / Diumenge",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-08-31T06:02:58+02:00",
-        "stop": "2026-08-31T06:29:22+02:00",
-        "title": "WRC",
-        "subtitle": "Ral·li del Paraguai / WRC 2026 / J2",
-        "description": "Onzena de les catorze proves del Campionat del Món. El Ral·li del Paraguai té un recorregut total de 359 quilòmetres cronometrats dividits en 22 trams, majoritàriament sobre carreteres de terra. Us oferim el més destacat de la jornada amb la conducció de Noel Rodríguez i l'assistència de Santi Torres.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"
+        "start": "2026-08-31T12:44:34+02:00",
+        "stop": "2026-08-31T13:00:00+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Hansi Flick / Prèvia Barça-Rayo / J3",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-31T05:07:13+02:00",
-        "stop": "2026-08-31T05:13:13+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "Brutícia a l'estany",
-        "description": "En un dia que fa una calor de mil dimonis, tot el ramat el que vol és fer una bona capbussadeta a l'estany. Però abans que s'hi puguin banyar, la colla ha de fer fora una parell de drapaires que han estat omplint l'estany d'objectes de rebuig i no paren.1",
+        "start": "2026-08-31T11:39:13+02:00",
+        "stop": "2026-08-31T11:51:44+02:00",
+        "title": "Les Sisters",
+        "subtitle": "En la pell de la meva germana",
+        "description": "La Wendy promet a la seva germana que li donarà el mòbil vell, però finalment l'hi dóna al Maxence. Per venjar-se, la Marine li pren a la Wendy el mòbil nou, li pren l'habitació i fins i tot... les amigues. Per recuperar les seves coses, la Wendy farà servir les mateixes armes que la seva germana.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-31T05:13:13+02:00",
-        "stop": "2026-08-31T05:19:13+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "Porquets balladors",
-        "description": "Els animals de la granja celebren la seva competició anual de ball. Com sempre, els porcs no tenen gaire bones intencions i intenten fer trampes per aconseguir la victòria. Ja veurem si el Bitzer i el Shaun poden superar les seves diferències creatives i fer que prevalgui la justícia en el ball.1",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-08-31T11:51:44+02:00",
+        "stop": "2026-08-31T12:03:12+02:00",
+        "title": "Ghost Rockers",
+        "subtitle": "",
+        "description": "En Jimmy està molt atabalat amb els últims preparatius del musical, però de cop i volta en Vince decideix retirar-se del projecte per tot l'enrenou que envolta els Ghost Rockers, que continuen amagats perquè els busca la policia. Mentrestant, l'Alex, desesperat, s'arrisca a anar fins a la casa d'en Jules per explicar-li que és innocent. Però la mare d'en Jules ja ha avisat la policia. ",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-31T04:44:55+02:00",
-        "stop": "2026-08-31T05:35:18+02:00",
-        "title": "El gran camí",
-        "subtitle": "El Camí del Kumano",
-        "description": "Viatgem est enllà per descobrir el Kumano Kodo, una antiga ruta de pelegrinatge que travessa les muntanyes sagrades i els temples de Kumano, a la península de Kii, i que ens porta pel Japó antic i rural mitjançant un camí espiritual de purificació.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-08-31T11:08:53+02:00",
+        "stop": "2026-08-31T11:57:19+02:00",
+        "title": "Aeroport",
+        "subtitle": "Passatgers",
+        "description": "Viatjar en avió pot ser tota una aventura. Especialment si els passatgers arriben justos de temps, porten el DNI caducat, o volen per primera vegada i no tenen gens clar com funciona el tema.",
+        "genre": "Docu-Entreteniment",
         "image": ""
       },
       {
-        "start": "2026-08-31T05:35:18+02:00",
-        "stop": "2026-08-31T05:42:27+02:00",
-        "title": "Gran!",
-        "subtitle": "Pau Riba: 'Dioptria'",
-        "description": "Un repàs a la història del disc doble amb què Pau Riba debutava en solitari després del seu pas pel Grup de Folk. Una obra mestra provocativa i controvertida que es va publicar en dos discos, el 1970 i 71, i que inclou clàssics de l'artista com 'Noia de porcellana', 'Ars eròtica', 'Ja s'ha mort la besàvia', 'Helena, desenganya't' o 'Mareta bufona'.  ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
+        "start": "2026-08-31T11:57:19+02:00",
+        "stop": "2026-08-31T12:32:25+02:00",
+        "title": "Tot o res",
+        "subtitle": "Tot o res",
+        "description": "",
+        "genre": "CONCURS",
+        "image": "http://statics.ccma.cat/multimedia/jpg/3/7/1487784560073.jpg"
       }
     ],
-    "oca1": [],
-    "oca2": [],
+    "oca1": [
+      {
+        "start": "2026-08-31T10:57:05+02:00",
+        "stop": "2026-08-31T12:57:00+02:00",
+        "title": "La consellera d'Educació i FP informa del nou curs i de la polèmica amb les proves PISA",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/9/1788161015892.jpg"
+      }
+    ],
+    "oca2": [
+      {
+        "start": "2026-08-31T10:59:44+02:00",
+        "stop": "2026-08-31T13:29:39+02:00",
+        "title": "La ministra de Joventut i Infància compareix al Congrés per la crisi a Ceuta",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/8/1786087746389.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
