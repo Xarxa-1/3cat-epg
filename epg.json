@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-30T23:52:08.368284+00:00",
+  "updated": "2026-08-31T03:08:14.099331+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,22 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-31T00:09:54+02:00",
-        "stop": "2026-08-31T01:54:18+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Libertad",
-        "description": "LIBERTADProductores: Lastor Media, Avalon PC i Bulletproof Cupid, 2021Direcció i guió: Clara RoquetDirecció de fotografia: Gris JordanaMúsica: Paul TyanIntèrprets: María Morera (Nora), Nicolle García (Libertad), Vicky Peña (Ángela), Nora Navas (Teresa) i Carol Hurtado (Rosana)La vida de la Nora canviarà quan la Libertad, la filla de la cuidadora colombiana que es fa càrrec de la seva àvia, arriba a la casa d'estiueig de la família. La nova i intensa amistat entre les dues joves, de procedència diferent, marcarà el seu despertar adolescent. ",
-        "genre": "PEL·LÍCULA / TELEFILM",
+        "start": "2026-08-31T04:30:00+02:00",
+        "stop": "2026-08-31T05:08:33+02:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Àlex Ventura 'Teràpia de grup'",
+        "description": "Àlex Ventura entra a l'estudi amb 'Teràpia de grup'. La formació aposta per les composicions pròpies, i pretén donar una visió ben personal i aportar una visió contemporània al latin jazz.Les seves influències: la música cubana, el jazz, la cúmbia, el reggae o el flamenc. Àlex Ventura a la bateria, David Pastor a la trompeta, Vicenç Solsona a la guitarra, Isaac Coll al baix i Lluís Alfonso Guerra a la percussió",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-08-31T01:54:18+02:00",
-        "stop": "2026-08-31T01:59:59+02:00",
-        "title": "Els últims artesans",
-        "subtitle": "Joan Ferré - Cisteller",
-        "description": "Des del taller situat a Folgueroles, en Joan Ferré fa més de 30 anys que treballa per assolir la perfecta simbiosi entre la tècnica tradicional de cisteller i la innovació del disseny. Els seus projectes amb vímet viu són testimonis de l'èxit del seu propòsit.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-08-31T05:08:33+02:00",
+        "stop": "2026-08-31T05:54:16+02:00",
+        "title": "Cava de Blues",
+        "subtitle": "JG Acoustic Gang",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
       }
     ],
     "324": [
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-31T01:03:04+02:00",
-        "stop": "2026-08-31T02:14:27+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J3 / Diumenge",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-08-31T04:05:50+02:00",
+        "stop": "2026-08-31T06:02:58+02:00",
+        "title": "Futbol",
+        "subtitle": "Gimnàstic de Tarragona-R. Saragossa / Primera Federació / J1",
+        "description": "Els tarragonins reben un històric al Nou Estadi Costa Daurada en el primer partit de Lliga. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-08-31T02:14:27+02:00",
-        "stop": "2026-08-31T04:05:47+02:00",
-        "title": "Futbol",
-        "subtitle": "FC Barcelona-CD Tenerife / Lliga F / J1",
-        "description": "Les blaugranes comencen, a l'Estadi Johan Cruyff, el camí cap a una nova Lliga de futbol. Seria la vuitena consecutiva. Amb la narració de Gemma Mallorca i l'anàlisi de Mireia Vera.",
+        "start": "2026-08-31T06:02:58+02:00",
+        "stop": "2026-08-31T06:29:22+02:00",
+        "title": "WRC",
+        "subtitle": "Ral·li del Paraguai / WRC 2026 / J2",
+        "description": "Onzena de les catorze proves del Campionat del Món. El Ral·li del Paraguai té un recorregut total de 359 quilòmetres cronometrats dividits en 22 trams, majoritàriament sobre carreteres de terra. Us oferim el més destacat de la jornada amb la conducció de Noel Rodríguez i l'assistència de Santi Torres.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-31T01:33:53+02:00",
-        "stop": "2026-08-31T01:54:33+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Destrucció",
-        "description": "I si el pitjor malson de Ladybug es fes realitat? I si el Monarca obligués els kwamis a ensenyar-li on viu Ladybug? Els pobres l'haurien d'obeir per força. I si el Monarca es presentés a casa dels Dupain-Cheng, es podria escapar la Marinette?",
+        "start": "2026-08-31T05:07:13+02:00",
+        "stop": "2026-08-31T05:13:13+02:00",
+        "title": "El xai Shaun",
+        "subtitle": "Brutícia a l'estany",
+        "description": "En un dia que fa una calor de mil dimonis, tot el ramat el que vol és fer una bona capbussadeta a l'estany. Però abans que s'hi puguin banyar, la colla ha de fer fora una parell de drapaires que han estat omplint l'estany d'objectes de rebuig i no paren.1",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-31T01:54:33+02:00",
-        "stop": "2026-08-31T02:15:28+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Joia",
-        "description": "La Marinette descobreix sorpresa que una excompanya d'escola que es diu Socqueline es fa passar per Ladybug. Intenta dissuadir-la de posar-se en perill d'aquesta manera, però el Monarca la persegueix, convençut que és l'autèntica Ladybug. El Monarca confia a un malvat akumatitzat el poder del prodigi de la joia, que revela els secrets més amagats de la gent. Podran l'autèntica Ladybug i el Gat Noir esquivar aquest poder?",
+        "start": "2026-08-31T05:13:13+02:00",
+        "stop": "2026-08-31T05:19:13+02:00",
+        "title": "El xai Shaun",
+        "subtitle": "Porquets balladors",
+        "description": "Els animals de la granja celebren la seva competició anual de ball. Com sempre, els porcs no tenen gaire bones intencions i intenten fer trampes per aconseguir la victòria. Ja veurem si el Bitzer i el Shaun poden superar les seves diferències creatives i fer que prevalgui la justícia en el ball.1",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-31T01:31:57+02:00",
-        "stop": "2026-08-31T02:23:49+02:00",
-        "title": "Viure amb els volcans",
-        "subtitle": "Terres de descobriments",
-        "description": "En molts aspectes, la història de la humanitat està lligada a la història dels volcans. Estudiant els volcans, els científics no només en revelen els misteris, sinó que revolucionen la nostra visió del món. Els investigadors treballen incansablement perquè les societats humanes puguin, de descobriment en descobriment, aprofitar al màxim aquestes muntanyes vives. En la nostra eterna recerca de coneixement i de progrés, els volcans són els nostres millors aliats i el terreny d'una infinitat de descobriments.",
+        "start": "2026-08-31T04:44:55+02:00",
+        "stop": "2026-08-31T05:35:18+02:00",
+        "title": "El gran camí",
+        "subtitle": "El Camí del Kumano",
+        "description": "Viatgem est enllà per descobrir el Kumano Kodo, una antiga ruta de pelegrinatge que travessa les muntanyes sagrades i els temples de Kumano, a la península de Kii, i que ens porta pel Japó antic i rural mitjançant un camí espiritual de purificació.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-31T02:23:49+02:00",
-        "stop": "2026-08-31T03:11:36+02:00",
-        "title": "Vida",
-        "subtitle": "Plantes",
-        "description": "L'espectacle del món vegetal no es pot apreciar a simple vista. Però, gràcies a la tecnologia més puntera, tot es revela: una atrapamosques que es tanca de cop sobre la seva presa; els ganxos d'agafada semblants a animals de l'ungla de gat i els coixinets enganxosos de l'heura de Boston en la seva lluita per la llum. Vola amb la llavor que va inspirar el disseny dels planadors i observa com la planta de creixement més ràpid de la Terra s'enfila 60 cm al dia. Descobreix les habilitats per atrapar aigua de l'estrany arbre de sang de drac, que regalima saba vermella de les seves branques.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-08-31T05:35:18+02:00",
+        "stop": "2026-08-31T05:42:27+02:00",
+        "title": "Gran!",
+        "subtitle": "Pau Riba: 'Dioptria'",
+        "description": "Un repàs a la història del disc doble amb què Pau Riba debutava en solitari després del seu pas pel Grup de Folk. Una obra mestra provocativa i controvertida que es va publicar en dos discos, el 1970 i 71, i que inclou clàssics de l'artista com 'Noia de porcellana', 'Ars eròtica', 'Ja s'ha mort la besàvia', 'Helena, desenganya't' o 'Mareta bufona'.  ",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
       }
     ],
     "oca1": [],
