@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-31T09:41:47.671840+00:00",
+  "updated": "2026-08-31T17:13:57.350770+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-08-31T10:00:00+02:00",
-        "stop": "2026-08-31T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-08-31T19:13:22+02:00",
+        "stop": "2026-08-31T19:57:11+02:00",
+        "title": "Moments APM?",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "Estàs de vacances i se't possa cara de pastanaga bullida només de pensar que hauràs d'aguantar dos mesos sense el teu programa preferit? Arriba 'APM?, el Multivers de l'estiu'. Durant juliol i agost TV3 emetrà un recull dels millors moments que s'han emès aquesta última temporada. Al loro! No et perdis els vídeos més divertits de la vint-i-unena temporada amb Nerea Sanfe, Joel Díaz, i tots els teus personatges preferits de l''APM?' #APM3CAT",
+        "genre": "TELEVISIÓ SOBRE TELEVISIÓ",
+        "image": "https://deliverty1.3cat.cat/deliverty/ccrtvi/resources/jpg/8/6/1784831816768.jpg"
       },
       {
-        "start": "2026-08-31T12:00:00+02:00",
-        "stop": "2026-08-31T12:59:09+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-08-31T19:57:11+02:00",
+        "stop": "2026-08-31T21:00:00+02:00",
+        "title": "Atrapa'm si pots, estiu",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-08-31T10:00:00+02:00",
-        "stop": "2026-08-31T12:00:00+02:00",
+        "start": "2026-08-31T18:30:00+02:00",
+        "stop": "2026-08-31T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-08-31T12:00:00+02:00",
-        "stop": "2026-08-31T14:00:00+02:00",
+        "start": "2026-08-31T20:00:00+02:00",
+        "stop": "2026-08-31T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,87 +83,77 @@
     ],
     "esport3": [
       {
-        "start": "2026-08-31T11:33:17+02:00",
-        "stop": "2026-08-31T12:44:34+02:00",
+        "start": "2026-08-31T19:00:00+02:00",
+        "stop": "2026-08-31T20:30:53+02:00",
+        "title": "Tot Costa",
+        "subtitle": "Gabriel Jesus serà el 9 del Barça",
+        "description": "El Barça tanca el fitxatge del davanter brasiler en les últimes hores de mercat. Gabriel Jesus serà el 9 que demanava Hansi Flick. Mentrestant, analitzem les últimes hores del mercat de fitxatges amb el Dani Senabre, l'Anaïs Martí i el Marcos López.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+      },
+      {
+        "start": "2026-08-31T20:30:53+02:00",
+        "stop": "2026-08-31T21:26:47+02:00",
         "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J3 / Diumenge",
+        "subtitle": "Prèvia Barça-Rayo / J3",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
-      },
-      {
-        "start": "2026-08-31T12:44:34+02:00",
-        "stop": "2026-08-31T13:00:00+02:00",
-        "title": "Sala de Premsa",
-        "subtitle": "Hansi Flick / Prèvia Barça-Rayo / J3",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-08-31T11:39:13+02:00",
-        "stop": "2026-08-31T11:51:44+02:00",
-        "title": "Les Sisters",
-        "subtitle": "En la pell de la meva germana",
-        "description": "La Wendy promet a la seva germana que li donarà el mòbil vell, però finalment l'hi dóna al Maxence. Per venjar-se, la Marine li pren a la Wendy el mòbil nou, li pren l'habitació i fins i tot... les amigues. Per recuperar les seves coses, la Wendy farà servir les mateixes armes que la seva germana.",
+        "start": "2026-08-31T19:11:16+02:00",
+        "stop": "2026-08-31T19:21:50+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva el correu",
+        "description": "En Carlos i en Tracker buscant un tresor pirata en una illa deserta i hi queden atrapats. La Patrulla els haurà de rescatar!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-08-31T11:51:44+02:00",
-        "stop": "2026-08-31T12:03:12+02:00",
-        "title": "Ghost Rockers",
-        "subtitle": "",
-        "description": "En Jimmy està molt atabalat amb els últims preparatius del musical, però de cop i volta en Vince decideix retirar-se del projecte per tot l'enrenou que envolta els Ghost Rockers, que continuen amagats perquè els busca la policia. Mentrestant, l'Alex, desesperat, s'arrisca a anar fins a la casa d'en Jules per explicar-li que és innocent. Però la mare d'en Jules ja ha avisat la policia. ",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-08-31T19:21:50+02:00",
+        "stop": "2026-08-31T19:32:23+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva una granota alcaldessa",
+        "description": "En Rubble somia què passaria si el pou que acaben de posar a Badia Aventures fos un pou dels desitjos.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-08-31T11:08:53+02:00",
-        "stop": "2026-08-31T11:57:19+02:00",
-        "title": "Aeroport",
-        "subtitle": "Passatgers",
-        "description": "Viatjar en avió pot ser tota una aventura. Especialment si els passatgers arriben justos de temps, porten el DNI caducat, o volen per primera vegada i no tenen gens clar com funciona el tema.",
-        "genre": "Docu-Entreteniment",
+        "start": "2026-08-31T18:28:43+02:00",
+        "stop": "2026-08-31T19:21:05+02:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Els habitants dels extrems",
+        "description": "Arreu del món s'han establert societats humanes al peu de volcans actius. Viure en aquestes terres inestables té un preu. D'un dia per l'altre, els volcans es poden endur el que han permès que es construís. Per als homes i dones que viuen en aquestes terres, anar-se'n no és una opció. Estan decidits a continuar vivint on han viscut, passi el que passi. En aquest documental coneixerem aquests habitants dels extrems.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-08-31T11:57:19+02:00",
-        "stop": "2026-08-31T12:32:25+02:00",
-        "title": "Tot o res",
-        "subtitle": "Tot o res",
-        "description": "",
-        "genre": "CONCURS",
-        "image": "http://statics.ccma.cat/multimedia/jpg/3/7/1487784560073.jpg"
+        "start": "2026-08-31T19:21:05+02:00",
+        "stop": "2026-08-31T20:14:31+02:00",
+        "title": "Llocs recòndits",
+        "subtitle": "L'Aràbia Saudita",
+        "description": "Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
-    "oca1": [
+    "oca1": [],
+    "oca2": [],
+    "oca3": [
       {
-        "start": "2026-08-31T10:57:05+02:00",
-        "stop": "2026-08-31T12:57:00+02:00",
-        "title": "La consellera d'Educació i FP informa del nou curs i de la polèmica amb les proves PISA",
+        "start": "2026-08-31T18:59:55+02:00",
+        "stop": "2026-08-31T20:29:50+02:00",
+        "title": "Tot Costa",
         "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/9/1788161015892.jpg"
+        "description": "El Barça tanca el fitxatge del davanter brasiler en les últimes hores de mercat. Gabriel Jesus serà el 9 que demanava Hansi Flick. Mentrestant, analitzem les últimes hores del mercat de fitxatges amb el Dani Senabre, l'Anaïs Martí i el Marcos López.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       }
     ],
-    "oca2": [
-      {
-        "start": "2026-08-31T10:59:44+02:00",
-        "stop": "2026-08-31T13:29:39+02:00",
-        "title": "La ministra de Joventut i Infància compareix al Congrés per la crisi a Ceuta",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/8/1786087746389.jpg"
-      }
-    ],
-    "oca3": [],
     "oca4": []
   }
 }
