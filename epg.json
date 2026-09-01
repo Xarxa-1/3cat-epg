@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-01T11:37:10.918192+00:00",
+  "updated": "2026-09-01T15:32:41.098986+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-01T13:28:09+02:00",
-        "stop": "2026-09-01T13:51:14+02:00",
-        "title": "Cuines",
-        "subtitle": "Croque - madame",
-        "description": "Si pensem en un entrepà calent i bo, segur que us ve al cap un biquini. Però, i si resulta que hi posem un ou ferrat a sobre? Llavors, aquest entrepà es converteix en un croque-madame. Un biquini? Sí, però sofisticat.",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-09-01T17:03:28+02:00",
+        "stop": "2026-09-01T17:40:51+02:00",
+        "title": "La Riera",
+        "subtitle": "",
+        "description": "És el dia dels comiats de solters de l'Oriol i la Mireia. El d'ella resulta sorprenentment divertit. El d'ell, avorrit, però amb una sorpresa que no ens podíem imaginar, ja que l'Oriol amaga un secret. Un gran secret. I en Lluís es voldria replantejar el futur comptant amb la Irene, però ella... no.",
+        "genre": "TELENOVEL·LA",
+        "image": ""
       },
       {
-        "start": "2026-09-01T13:51:14+02:00",
-        "stop": "2026-09-01T13:59:53+02:00",
-        "title": "Cuines",
-        "subtitle": "Amanida de llenties vermelles",
-        "description": "L'Arnau París prepara una amanida amb llenties vermelles. Aquest llegum és un gran amic de la cuina pim-pamera perquè no els cal ni remull ni una cocció llarga. Amb alguns vegetals i una bona vinagreta, tindreu un plat per entaular-vos, dur-lo a la carmanyola... o totes dues coses! ",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-09-01T17:40:51+02:00",
+        "stop": "2026-09-01T18:35:25+02:00",
+        "title": "Nervi",
+        "subtitle": "Especialistes d'acció, Nao Albet i Marcel Borràs, Kelly Isaiah, Miquel Serra",
+        "description": "Mastegots, explosions i caigudes al buit. Entrem a In Extremis, a Barberà del Vallès, una agència d'efectes especials i un centre de referència mundial en l'entrenament i formació d'especialistes d'acció. Ells són els protagonistes de l'última gamberrada teatral de Nao Albet i Marcel Borràs, que ara s'atreveixen amb una òpera al Teatre Lliure, 'Els estunmen'. L'hi expliquen tot a Andrea Gumes, que també conversa amb el músic Kelly Isaiah, exvocalista de Koers i pioner de l'afrobeat en català. Acabem el programa amb el directe de Miquel Serra, gravat a Can Lliro, a Manacor, Mallorca. ",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-01T13:00:00+02:00",
-        "stop": "2026-09-01T14:00:00+02:00",
+        "start": "2026-09-01T17:00:00+02:00",
+        "stop": "2026-09-01T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,97 +72,77 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-01T14:00:00+02:00",
-        "stop": "2026-09-01T14:30:00+02:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-09-01T18:30:00+02:00",
+        "stop": "2026-09-01T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-01T13:00:14+02:00",
-        "stop": "2026-09-01T14:01:13+02:00",
-        "title": "Esport Club",
-        "subtitle": "Rayo-Barça, Gabriel Jesus i lligues catalanes de bàsquet",
-        "description": "Analitzem el Rayo-Barça amb el microscopi de l'Àlex Delmàs. Estem pendents de la presentació de Gabriel Jesus, prevista per a aquesta tarda. Ja s'han presentat les lligues catalanes de bàsquet, que es jugaran a Tarragona i a Reus. A la tertúlia ens acompanyen Iris Miquel, Raúl Fuentes i Joan Poquí.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-01T16:53:53+02:00",
+        "stop": "2026-09-01T17:36:51+02:00",
+        "title": "Arxipèlag blau",
+        "subtitle": "Albuferes i aigües somes",
+        "description": "En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-01T14:01:13+02:00",
-        "stop": "2026-09-01T15:02:32+02:00",
-        "title": "Esport Club",
-        "subtitle": "Rayo-Barça, Gabriel Jesus i lligues catalanes de bàsquet",
-        "description": "Analitzem el Rayo-Barça amb el microscopi de l'Àlex Delmàs. Estem pendents de la presentació de Gabriel Jesus, prevista per a aquesta tarda. Ja s'han presentat les lligues catalanes de bàsquet, que es jugaran a Tarragona i a Reus. A la tertúlia ens acompanyen Iris Miquel, Raúl Fuentes i Joan Poquí.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-01T17:36:51+02:00",
+        "stop": "2026-09-01T17:43:49+02:00",
+        "title": "Xarxa Natura",
+        "subtitle": "L''Albera",
+        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-01T13:29:45+02:00",
-        "stop": "2026-09-01T13:50:23+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El cas de l'assassinat del franctirador misteriós (2a part)",
-        "description": "El president Ishimoto reconeix que en Shiro Hiraoka el va amenaçar de revelar secrets que enfonsarien l'empresa, però que es va negar a pagar-li un milió de iens. Sembla, doncs, que en Hiraoka va voler complir la seva amenaça d'assassinar-lo, però que va errar el tret i va matar el diputat Takada. En Conan, tanmateix, sap que la mort d'en Hiraoka no ha estat un accident, sinó un assassinat per fer-lo callar.",
+        "start": "2026-09-01T17:19:52+02:00",
+        "stop": "2026-09-01T17:41:48+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "El col·legueta",
+        "description": "La WHOOP ha detectat una sèrie de fenòmens estranys en alguns dels paratges naturals més valuosos del planeta. El Grand Canyon i el Mont Everest, per exemple, han aparegut asfaltats de dalt a baix. Les Espies aviat descobriran que hi ha un friqui de l'skate que està intentant transformar el món sencer en un parc immens per patinar. La pròxima parada és a les Cascades Victòria!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-09-01T13:50:23+02:00",
-        "stop": "2026-09-01T14:11:10+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El cas de l'assassinat de la companyia de teatre itinerant (1a part)",
-        "description": "A la classe de la Ran i la Sonoko hi ha un alumne nou: en Tamanosuke Ido, el jove director d'una companyia teatral itinerant. Al teatre, les noies i la Lliga de Detectius Júnior presencien una baralla entre en Tamanosuke i l'autor de l'obra que han de representar, el mestre Chikaishi. Després de l'assaig general, en Chikaishi apareix mort d'un cop al cap i el disquet amb l'obra no hi és.",
+        "start": "2026-09-01T17:41:48+02:00",
+        "stop": "2026-09-01T17:51:46+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Trens amunt i avall",
+        "description": "En Cincsegons busca un pot per fer el soroll del tren, la Mosca i el Cargol fan un tren de sabates lligades i el Mic juga que la bicicleta és un tren. Avui hi ha molts trens amunt i avall.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-01T12:41:38+02:00",
-        "stop": "2026-09-01T13:41:30+02:00",
-        "title": "Atrapa'm si pots - Especials",
-        "subtitle": "Atrapa'm si pots - estiu",
-        "description": "",
-        "genre": "CONCURS",
+        "start": "2026-09-01T17:17:09+02:00",
+        "stop": "2026-09-01T17:43:24+02:00",
+        "title": "Catalunya salvatge",
+        "subtitle": "La selva humida",
+        "description": "'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-01T13:41:30+02:00",
-        "stop": "2026-09-01T14:34:39+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Puan",
-        "description": "La Putri Anindya, més coneguda com la 'Puan', és una jove indonèsia que, acompanyada de la Ivana Miño, descobreix la Sagrada Família, el Tibidabo i llocs magnífics del Berguedà. A més, a Berga, l'espera una experiència única; la Patum.",
-        "genre": "ALTRES",
+        "start": "2026-09-01T17:43:24+02:00",
+        "stop": "2026-09-01T18:35:35+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "El Borbonès",
+        "description": "En Lucien, un enginyer agroalimentari, fa un pastís salat de patata tal com l'ha après de l'àvia Hélène. La Simone i l'Olivier, mare i fill, són fabricants de la famosa mostassa de Charós, que entra en algunes receptes típiques del Borbonès. L'Hubert, editor de llibres de cuina, sap guisar l'ànec a la Duchambais, una salsa de nata amb vi i mostassa. L'Arnaud, horticultor, es dedica a crear noves varietats de pomes i de peres. I la Françoise fa un pastís de peres guarnit per damunt amb peres senceres en almívar.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-09-01T12:07:32+02:00",
-        "stop": "2026-09-01T15:07:27+02:00",
-        "title": "Roda de premsa posterior al Consell Executiu",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/2/1723647268726.jpg"
-      }
-    ],
-    "oca2": [
-      {
-        "start": "2026-09-01T12:50:05+02:00",
-        "stop": "2026-09-01T15:50:00+02:00",
-        "title": "Roda de premsa posterior al Consell de Ministres",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/5/1766758430658.jpg"
-      }
-    ],
+    "oca1": [],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
