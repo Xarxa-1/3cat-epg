@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-01T06:02:41.543455+00:00",
+  "updated": "2026-09-01T11:37:10.918192+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-01T07:00:01+02:00",
-        "stop": "2026-09-01T10:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-01T13:28:09+02:00",
+        "stop": "2026-09-01T13:51:14+02:00",
+        "title": "Cuines",
+        "subtitle": "Croque - madame",
+        "description": "Si pensem en un entrepà calent i bo, segur que us ve al cap un biquini. Però, i si resulta que hi posem un ou ferrat a sobre? Llavors, aquest entrepà es converteix en un croque-madame. Un biquini? Sí, però sofisticat.",
+        "genre": "CUINA",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
       },
       {
-        "start": "2026-09-01T10:00:00+02:00",
-        "stop": "2026-09-01T12:30:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-01T13:51:14+02:00",
+        "stop": "2026-09-01T13:59:53+02:00",
+        "title": "Cuines",
+        "subtitle": "Amanida de llenties vermelles",
+        "description": "L'Arnau París prepara una amanida amb llenties vermelles. Aquest llegum és un gran amic de la cuina pim-pamera perquè no els cal ni remull ni una cocció llarga. Amb alguns vegetals i una bona vinagreta, tindreu un plat per entaular-vos, dur-lo a la carmanyola... o totes dues coses! ",
+        "genre": "CUINA",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-01T07:00:00+02:00",
-        "stop": "2026-09-01T10:00:00+02:00",
+        "start": "2026-09-01T13:00:00+02:00",
+        "stop": "2026-09-01T14:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,77 +72,97 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-01T10:00:00+02:00",
-        "stop": "2026-09-01T13:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-01T14:00:00+02:00",
+        "stop": "2026-09-01T14:30:00+02:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-01T07:31:57+02:00",
-        "stop": "2026-09-01T08:47:30+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Post Barça-Rayo / J3",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-09-01T13:00:14+02:00",
+        "stop": "2026-09-01T14:01:13+02:00",
+        "title": "Esport Club",
+        "subtitle": "Rayo-Barça, Gabriel Jesus i lligues catalanes de bàsquet",
+        "description": "Analitzem el Rayo-Barça amb el microscopi de l'Àlex Delmàs. Estem pendents de la presentació de Gabriel Jesus, prevista per a aquesta tarda. Ja s'han presentat les lligues catalanes de bàsquet, que es jugaran a Tarragona i a Reus. A la tertúlia ens acompanyen Iris Miquel, Raúl Fuentes i Joan Poquí.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       },
       {
-        "start": "2026-09-01T08:47:30+02:00",
-        "stop": "2026-09-01T09:29:16+02:00",
-        "title": "Aire Lliure",
-        "subtitle": "Terra de vinyes",
-        "description": "Terra de vinyes  En el quart programa visitarem diferents comarques tarragonines acompanyats de dos grans esportistes: Àlex Roca i Òscar Cadiach. A Terra de vinyes, Judit Mascó no només farà verema, sinó que trepitjarà raïm i tastarà els millors vins del Priorat. També visitarà les monges del Monestir de Vallbona i les coves de l'Espluga de Francolí ",
-        "genre": "REPORTATGES",
-        "image": ""
+        "start": "2026-09-01T14:01:13+02:00",
+        "stop": "2026-09-01T15:02:32+02:00",
+        "title": "Esport Club",
+        "subtitle": "Rayo-Barça, Gabriel Jesus i lligues catalanes de bàsquet",
+        "description": "Analitzem el Rayo-Barça amb el microscopi de l'Àlex Delmàs. Estem pendents de la presentació de Gabriel Jesus, prevista per a aquesta tarda. Ja s'han presentat les lligues catalanes de bàsquet, que es jugaran a Tarragona i a Reus. A la tertúlia ens acompanyen Iris Miquel, Raúl Fuentes i Joan Poquí.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-01T07:54:59+02:00",
-        "stop": "2026-09-01T08:06:01+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "El regal d'aniversari del Gran Barrufet",
-        "description": "És l'aniversari del Gran Barrufet i tothom li fa regals. El Tanoca i la Begònia n'hi fan un de ben peculiar: un conjunt de color groc amb un pneumàtic de cinturó. El Gran Barrufet creu que és una broma, però els dos barrufets volen que se'l posi per anar al sopar que li ha preparat la Barrusalze. El Gran Barrufet no sap què fer per desempallegar-se del conjunt i no ofendre'ls.",
+        "start": "2026-09-01T13:29:45+02:00",
+        "stop": "2026-09-01T13:50:23+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El cas de l'assassinat del franctirador misteriós (2a part)",
+        "description": "El president Ishimoto reconeix que en Shiro Hiraoka el va amenaçar de revelar secrets que enfonsarien l'empresa, però que es va negar a pagar-li un milió de iens. Sembla, doncs, que en Hiraoka va voler complir la seva amenaça d'assassinar-lo, però que va errar el tret i va matar el diputat Takada. En Conan, tanmateix, sap que la mort d'en Hiraoka no ha estat un accident, sinó un assassinat per fer-lo callar.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-01T08:06:01+02:00",
-        "stop": "2026-09-01T08:15:12+02:00",
-        "title": "Titó",
-        "subtitle": "Excursió amb cargols",
-        "description": "Sabeu quin animaló surt després de ploure? El cargol! Avui anirem d'excursió amb en Titó a veure si en trobem algun. I tindrem molta sort perquè no només trobarem cargols, sinó també ous de cargol! I, atenció, perquè en JohnC ens proposarà una divertida cursa de cargols.",
-        "genre": "ALTRES",
+        "start": "2026-09-01T13:50:23+02:00",
+        "stop": "2026-09-01T14:11:10+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El cas de l'assassinat de la companyia de teatre itinerant (1a part)",
+        "description": "A la classe de la Ran i la Sonoko hi ha un alumne nou: en Tamanosuke Ido, el jove director d'una companyia teatral itinerant. Al teatre, les noies i la Lliga de Detectius Júnior presencien una baralla entre en Tamanosuke i l'autor de l'obra que han de representar, el mestre Chikaishi. Després de l'assaig general, en Chikaishi apareix mort d'un cop al cap i el disquet amb l'obra no hi és.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-01T07:48:31+02:00",
-        "stop": "2026-09-01T08:45:32+02:00",
-        "title": "El Foraster",
-        "subtitle": "Andorra especial",
-        "description": "Aquesta vegada, El Foraster té un nou repte: 48 hores per conèixer un país sencer. En comptes de visitar un petit gran poble, Quim Masferrer s'endinsa en un petit gran estat, Andorra. Després d'un pas per la duana excepcional, Quim Masferrer aprendrà què vol dir fer-se l'andorrà, descobrirà les propietats afrodisíaques de l'aigua d'Andorra i sabrà, de la mà de la Rosario, què vol dir guanyar-se la vida amb el contraban. Però el que sembla un viatge plàcid, deixa de ser-ho quan El Foraster coneix una andorrana amb caràcter, la Roser, i els dos es plantegen baixar pel tobogan més llarg del món. És El Foraster a l'Andorra menys coneguda.",
-        "genre": "VARIETATS",
+        "start": "2026-09-01T12:41:38+02:00",
+        "stop": "2026-09-01T13:41:30+02:00",
+        "title": "Atrapa'm si pots - Especials",
+        "subtitle": "Atrapa'm si pots - estiu",
+        "description": "",
+        "genre": "CONCURS",
         "image": ""
       },
       {
-        "start": "2026-09-01T08:45:32+02:00",
-        "stop": "2026-09-01T09:31:52+02:00",
-        "title": "La Renaixença",
-        "subtitle": "El pintallavis",
-        "description": "El pintallavis existeix des de l'any 2000 aC. Es feien amb formigues aixafades i carmí. Ara es fa de molts elements químics que segurament són pitjor que les formigues aixafades, però ningú es posa les mans al cap. Aquest capítol el dediquem al pintallavis. Venen la companyia de teatre musical Impro Side Story. Actuen sense lletra ni partitura perquè basen els seus espectacles en allò que diu el públic. A 'Històries per passejar el gos' anem amb la Sas fins a l'incendi del funicular de Kaprun (Àustria) que es va produir a principis de segle, l'any 2000.",
+        "start": "2026-09-01T13:41:30+02:00",
+        "stop": "2026-09-01T14:34:39+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Puan",
+        "description": "La Putri Anindya, més coneguda com la 'Puan', és una jove indonèsia que, acompanyada de la Ivana Miño, descobreix la Sagrada Família, el Tibidabo i llocs magnífics del Berguedà. A més, a Berga, l'espera una experiència única; la Patum.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "image": ""
       }
     ],
-    "oca1": [],
-    "oca2": [],
+    "oca1": [
+      {
+        "start": "2026-09-01T12:07:32+02:00",
+        "stop": "2026-09-01T15:07:27+02:00",
+        "title": "Roda de premsa posterior al Consell Executiu",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/6/2/1723647268726.jpg"
+      }
+    ],
+    "oca2": [
+      {
+        "start": "2026-09-01T12:50:05+02:00",
+        "stop": "2026-09-01T15:50:00+02:00",
+        "title": "Roda de premsa posterior al Consell de Ministres",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/8/5/1766758430658.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
