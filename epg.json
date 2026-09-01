@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-01T15:32:41.098986+00:00",
+  "updated": "2026-09-01T18:50:07.800028+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-01T17:03:28+02:00",
-        "stop": "2026-09-01T17:40:51+02:00",
-        "title": "La Riera",
+        "start": "2026-09-01T19:59:49+02:00",
+        "stop": "2026-09-01T21:00:00+02:00",
+        "title": "Atrapa'm si pots, estiu",
         "subtitle": "",
-        "description": "És el dia dels comiats de solters de l'Oriol i la Mireia. El d'ella resulta sorprenentment divertit. El d'ell, avorrit, però amb una sorpresa que no ens podíem imaginar, ja que l'Oriol amaga un secret. Un gran secret. I en Lluís es voldria replantejar el futur comptant amb la Irene, però ella... no.",
-        "genre": "TELENOVEL·LA",
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
         "image": ""
       },
       {
-        "start": "2026-09-01T17:40:51+02:00",
-        "stop": "2026-09-01T18:35:25+02:00",
-        "title": "Nervi",
-        "subtitle": "Especialistes d'acció, Nao Albet i Marcel Borràs, Kelly Isaiah, Miquel Serra",
-        "description": "Mastegots, explosions i caigudes al buit. Entrem a In Extremis, a Barberà del Vallès, una agència d'efectes especials i un centre de referència mundial en l'entrenament i formació d'especialistes d'acció. Ells són els protagonistes de l'última gamberrada teatral de Nao Albet i Marcel Borràs, que ara s'atreveixen amb una òpera al Teatre Lliure, 'Els estunmen'. L'hi expliquen tot a Andrea Gumes, que també conversa amb el músic Kelly Isaiah, exvocalista de Koers i pioner de l'afrobeat en català. Acabem el programa amb el directe de Miquel Serra, gravat a Can Lliro, a Manacor, Mallorca. ",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-01T21:00:00+02:00",
+        "stop": "2026-09-01T22:04:55+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-01T17:00:00+02:00",
-        "stop": "2026-09-01T18:30:00+02:00",
+        "start": "2026-09-01T20:00:00+02:00",
+        "stop": "2026-09-01T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-01T18:30:00+02:00",
-        "stop": "2026-09-01T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-01T21:00:00+02:00",
+        "stop": "2026-09-01T23:00:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-01T16:53:53+02:00",
-        "stop": "2026-09-01T17:36:51+02:00",
-        "title": "Arxipèlag blau",
-        "subtitle": "Albuferes i aigües somes",
-        "description": "En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-01T20:31:22+02:00",
+        "stop": "2026-09-01T21:01:48+02:00",
+        "title": "Crackòvia",
+        "subtitle": "",
+        "description": "El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.",
+        "genre": "GAGS. HUMOR",
         "image": ""
       },
       {
-        "start": "2026-09-01T17:36:51+02:00",
-        "stop": "2026-09-01T17:43:49+02:00",
-        "title": "Xarxa Natura",
-        "subtitle": "L''Albera",
-        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
+        "start": "2026-09-01T21:01:48+02:00",
+        "stop": "2026-09-01T21:24:46+02:00",
+        "title": "Crackòvia",
+        "subtitle": "",
+        "description": "El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.",
+        "genre": "GAGS. HUMOR",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-01T17:19:52+02:00",
-        "stop": "2026-09-01T17:41:48+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "El col·legueta",
-        "description": "La WHOOP ha detectat una sèrie de fenòmens estranys en alguns dels paratges naturals més valuosos del planeta. El Grand Canyon i el Mont Everest, per exemple, han aparegut asfaltats de dalt a baix. Les Espies aviat descobriran que hi ha un friqui de l'skate que està intentant transformar el món sencer en un parc immens per patinar. La pròxima parada és a les Cascades Victòria!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+        "start": "2026-09-01T20:38:42+02:00",
+        "stop": "2026-09-01T21:00:12+02:00",
+        "title": "Henry Danger",
+        "subtitle": "En Henry, la bèstia humana",
+        "description": "En Henry es transforma en una bèstia incontrolable i el Capità Man ha de trobar la manera de tornar-lo a la normalitat.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       },
       {
-        "start": "2026-09-01T17:41:48+02:00",
-        "stop": "2026-09-01T17:51:46+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "Trens amunt i avall",
-        "description": "En Cincsegons busca un pot per fer el soroll del tren, la Mosca i el Cargol fan un tren de sabates lligades i el Mic juga que la bicicleta és un tren. Avui hi ha molts trens amunt i avall.",
+        "start": "2026-09-01T21:00:12+02:00",
+        "stop": "2026-09-01T21:22:29+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Una androide d'aspecte atractiu amb força de superguerrer. L'A-18 no té falles",
+        "description": "Per fi comença la gran batalla entre en Vegeta i l'A-18, una androide molt atractiva amb força de superguerrer. En Trunks i els altres també hi volen intervenir, però en Vegeta insisteix a lluitar tot sol contra una enemiga que, d'entrada, no mostra cap punt dèbil. Al final, en Trunks decideix donar-li un cop de mà, però l'A-17 també hi dirà la seva.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-01T17:17:09+02:00",
-        "stop": "2026-09-01T17:43:24+02:00",
-        "title": "Catalunya salvatge",
-        "subtitle": "La selva humida",
-        "description": "'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)",
+        "start": "2026-09-01T20:13:41+02:00",
+        "stop": "2026-09-01T20:59:58+02:00",
+        "title": "Illes d'Austràlia, amb Martin Clunes",
+        "subtitle": "",
+        "description": "Martin Clunes continua el seu viatge al voltant d'Austràlia anant d'illa en illa. Alguna illa només està habitada per aborígens, altres estan deshabitades, en algunes hi viuen pescadors, i l'última és un centre turístic amb una història sinistra. El mar que les envolta, en canvi, sempre és ple de vida. El Martin se submergeix per veure de prop els esculls de corall i els peixos grans i petits que hi viuen.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-01T17:43:24+02:00",
-        "stop": "2026-09-01T18:35:35+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "El Borbonès",
-        "description": "En Lucien, un enginyer agroalimentari, fa un pastís salat de patata tal com l'ha après de l'àvia Hélène. La Simone i l'Olivier, mare i fill, són fabricants de la famosa mostassa de Charós, que entra en algunes receptes típiques del Borbonès. L'Hubert, editor de llibres de cuina, sap guisar l'ànec a la Duchambais, una salsa de nata amb vi i mostassa. L'Arnaud, horticultor, es dedica a crear noves varietats de pomes i de peres. I la Françoise fa un pastís de peres guarnit per damunt amb peres senceres en almívar.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-01T20:59:58+02:00",
+        "stop": "2026-09-01T21:01:03+02:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
