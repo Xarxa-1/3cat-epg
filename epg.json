@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-02T15:11:08.818362+00:00",
+  "updated": "2026-09-02T18:42:28.601361+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-02T17:03:16+02:00",
-        "stop": "2026-09-02T17:39:26+02:00",
-        "title": "La Riera",
+        "start": "2026-09-02T19:59:37+02:00",
+        "stop": "2026-09-02T21:00:00+02:00",
+        "title": "Atrapa'm si pots, estiu",
         "subtitle": "",
-        "description": "En Lluís s'endurà un bon disgust en veure que ha tornat algú a qui no esperava tornar a veure. Mentrestant, es va fent públic que la Mercè i l'Ignasi tornen a estar junts, i mossèn Esteve no ho pot digerir. La Sònia, per la seva banda, es posa en marxa per saber què representen les fotos que ha trobat a l'Àngel. En Sergi no sap què fer després de la confessió de la Valeria, i en Nil vol ser el substitut d'en Marc.",
-        "genre": "TELENOVEL·LA",
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
         "image": ""
       },
       {
-        "start": "2026-09-02T17:39:26+02:00",
-        "stop": "2026-09-02T18:23:26+02:00",
-        "title": "Nervi",
-        "subtitle": "Sara Torres, Alba Sarraute i la Fira Trapezi, seqüeles innecessàries, Júlia Colom",
-        "description": "Una de les plomes més afinades sobre el desig contemporani, la poeta i escriptora Sara Torres, conversa amb Andrea Gumes sobre el seu últim llibre, 'El pensamiento erótico'. Jacint Casademont repassa les seqüeles cinematogràfiques més innecessàries, i algunes de més reeixides, amb motiu de l'estrena d''El diablo viste de Prada 2'. L'artista de circ Alba Sarraute tria els imperdibles de la Fira Trapezi de Reus, que fa 30 anys, i del festival Circ d'Ara Mateix, al Mercat de les Flors. Tanca el programa l'actuació de la cantant i compositora Júlia Colom. ",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-02T21:00:00+02:00",
+        "stop": "2026-09-02T22:05:06+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-02T16:30:00+02:00",
-        "stop": "2026-09-02T18:30:00+02:00",
+        "start": "2026-09-02T20:00:00+02:00",
+        "stop": "2026-09-02T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-02T18:30:00+02:00",
-        "stop": "2026-09-02T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-02T21:00:00+02:00",
+        "stop": "2026-09-02T23:00:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-02T17:01:39+02:00",
-        "stop": "2026-09-02T17:26:55+02:00",
-        "title": "Catalunya salvatge",
-        "subtitle": "La frontera glacial",
-        "description": "L'alta muntanya és un ecosistema d'extrems. Els seus habitants fan servir diferents tècniques per sobreviure als cims del Pirineu Català.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-02T20:20:00+02:00",
+        "stop": "2026-09-02T22:29:21+02:00",
+        "title": "Futbol",
+        "subtitle": "Barça Atlètic-CE Sabadell / Copa Catalunya / Final",
+        "description": "Final de la Copa Catalunya a la Nova Creu Alta. En el precedent de fa deu anys, entre aquests dos rivals, els arlequinats es van endur el títol. Amb la narració de Jordi Sunyer.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/0/1771252757404.jpg"
       },
       {
-        "start": "2026-09-02T17:26:55+02:00",
-        "stop": "2026-09-02T17:59:14+02:00",
-        "title": "Zona Zàping Club",
-        "subtitle": "En Zapi canviarà de programa i marxarà amb Xavi Valls a l''Onze'?",
-        "description": "Xavi Valls posa a prova el seu instint en un concurs en què qualsevol detall pot canviar completament el final.",
-        "genre": "ESPECIALS",
-        "image": ""
+        "start": "2026-09-02T22:29:21+02:00",
+        "stop": "2026-09-02T23:00:00+02:00",
+        "title": "Esport Club",
+        "subtitle": "Tancament del mercat de fitxatges i tertúlia",
+        "description": "Ja s'ha tancat el mercat de fitxatges d'estiu. Julián Álvarez s'ha quedat a l'Atlètic de Madrid. Marc Casadó ha marxat cedit al Dépor i l'Espanyol ha incorporat Gorosabel. En parlem amb Laura Brugués i Juli García. Avui, Sabadell-Barça Atlètic, la final de la Copa Catalunya, per Esport3 (20.30). A la tertúlia ens acompanyen Arancha Rodríguez, Màrius Carol i Dani Senabre.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-02T17:06:49+02:00",
-        "stop": "2026-09-02T17:27:28+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Astrologia? No, gràcies!",
-        "description": "Mentre investigaven tot de canvis sobtats en les marees de diferents oceans, les Espies han descobert el pla de la Cosmo, una geni de l'astrologia que van fer fora de l'Agència Espacial i que ara té intenció de deixar la Terra sense gravetat amb la seva Estratus-Aterridora. Tal com diu ella mateixa: si no la van deixar anar a l'espai, portarà l'espai a la Terra!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+        "start": "2026-09-02T20:39:06+02:00",
+        "stop": "2026-09-02T20:59:59+02:00",
+        "title": "Henry Danger",
+        "subtitle": "Alerta Espòiler",
+        "description": "Henry i Ray han de enfrontar-se a un nou villà especialment molest, el Spoiler. La Piper és portada al seu límit mentre intenta unir-se a un popular club de fans del Capità Man.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       },
       {
-        "start": "2026-09-02T17:27:28+02:00",
-        "stop": "2026-09-02T17:49:31+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Els dolents van amb zepelí",
-        "description": "En Jerry ha encarregat a les Espies la missió de portar tres delinqüents molt perillosos a l'illa de la WHOOP, on hi ha la presó dels dolents més dolents de tots els dolents! Ho faran amb el zepelí de la WHOOP i els presoners són l'Yves MontBlanc, en Manny Wong i l'excèntrica Violet Vanderfleet. T'imagines què passaria si hi hagués un motí a bord?!",
+        "start": "2026-09-02T20:59:59+02:00",
+        "stop": "2026-09-02T21:22:17+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Els androides estan decidits a trobar en Son Goku",
+        "description": "Els androides cada vegada estan més a prop d'en Son Goku, que és a casa seva convalescent i totalment indefens. En Krilin i companyia decideixen emportar-se el seu amic, encara inconscient, a la casa d'en Muten Roshi per protegir-lo de l'amenaça imminent dels androides, que provoquen el caos per allà on passen.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+        "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-02T16:56:32+02:00",
-        "stop": "2026-09-02T17:46:04+02:00",
-        "title": "Terreny personal",
-        "subtitle": "Santa Coloma de Gramenet",
-        "description": "Aquest capítol ens porta a un paisatge urbà, a una ciutat densa, complexa i plena de vida.De Fondo a Singuerlín i de Can Franquesa fins al Besòs s'estén una gran ciutat amb ànima de poble: Santa Coloma de Gramenet. Els protagonistes ens mostren els seus barris i ens expliquen la història d'una ciutat que han fet entre tots... i que avui continuen construint.Rodolfo del Hoyo, fill de pare manxec i mare andalusa, va arribar a Santa Coloma quan tenia un any i mig i ara és un escriptor premiat en llengua catalana. M. Teresa Castellví ha viscut a Fondo tota la vida i no canviaria de barri per res del món. Chenchiao Xiang va arribar a Santa Coloma fa quatre anys sense entendre ni una paraula de català i ara és la primera noia xinesa del seu institut que ha arribat a 2n de Batxillerat. I Pedro Cano porta l'empresa que organitza els grans concerts que se celebren a tot l'Estat, com la gira de Bruce Springsteen o el Festival Primavera Sound, i ho fa des del barri de Singuerlín, de Santa Coloma.A més d'aquests testimonis, també participen en aquest capítol els nens i nenes de l'Escola les Palmeres, que, a través de fotos fetes per ells mateixos, ens descobreixen quins són els seus racons preferits. L'escriptor Jordi Valls ens explica com escriu els seus poemes a l'interior del metro de la ciutat i Muchachito Bombo Infierno interpreta una cançó inèdita als carrers de Santa Coloma de Gramenet.",
+        "start": "2026-09-02T20:16:43+02:00",
+        "stop": "2026-09-02T20:59:39+02:00",
+        "title": "Els rius navegables d'Europa",
+        "subtitle": "De Rotterdam a les Ardenes belgues",
+        "description": "Sempre aigües amunt, el viatge d'avui ens porta als Països Baixos i a Bèlgica. Des del Mar del Nord i la ciutat portuària de Rotterdam viatgem al llarg del Mosa. Passant per Venlo, Maastricht i Lieja, la ruta segueix el riu Ourthe fins a les Àrdenes belgues.Rotterdam i el seu imponent port marítim, el més gran d'Europa. La seva proximitat al mar és alhora una maledicció i una benedicció. Els holandesos han arrabassat terra al mar durant segles, són experts en fer front a l'augment del nivell de l'aigua i són pioners en noves idees. L'arquitecte Koen Olthuis només construeix cases damunt l'aigua. La seva visió de construir barris sencers d'edificis flotants ha creat un gran interès internacional, en aquests temps de canvi climàtic.Des de Rotterdam el viatge continua al llarg del Mosa cap a l'est. Els terrenys agrícoles estan protegits per dics, però en els darrers anys els Països Baixos han començat a replantejar aquestes mesures. El 'Programa Delta', a nivell nacional, se centra en els dics baixos i les zones d'inundació controlada. La propietat del granger Nol Hooijmaaijers vaser reconstruïda d'acord amb aquests principis, igual que una gran zona del municipi d'Oojen-Wanssum.La ruta al llarg del Mosa passa per la històrica estació de bombeig a vapor De Tuut, que en el passat es va utilitzar per drenar aquesta zona. No gaire lluny d'aquí, uns voluntaris recullen escombraries les ribes del riu: és el Dia Mundial de la Neteja. Grans quantitats de plàstic provinents de tot el continent s'acumulen als rius d'Holanda.Arribem a Bèlgica passant per Venlo, Roermond i Maastricht. Mentre la pesca al carrer s'està convertint en tendència a Lieja, els científics de les Àrdenes belgues s'encarreguen de la reintroducció del salmó. La migració d'aquests peixos són un clar exemple clar de com la natura està connectada a través de fronteres i del fet que els enfocaments transnacionals són necessaris per protegir el medi ambient.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/4/3/1784274800434.jpg"
       },
       {
-        "start": "2026-09-02T17:46:04+02:00",
-        "stop": "2026-09-02T18:31:51+02:00",
-        "title": "Globus Sonda",
-        "subtitle": "Òscar Fernàndez - Delta de l'Ebre",
-        "description": "El periodista Òscar Fernández és un home d'emocions controlades. Això no obstant, en un vol en globus sobre l'espectacular paisatge del delta de l'Ebre potser se li descontrolaran les emocions, jo ho veurem. El periodista lidera un dels programes insígnia de Catalunya Ràdio, el 'Catalunya Migdia'. Parlarem del secret de l'èxit del programa en un vol diferent i en un clima molt especial com és el de les Terres de l'Ebre -d'això ens parlarà el Francesc Mauri-, i amb una convidada sorpresa molt bellugadissa, que acompanya la Candela Figueras des del cotxe de seguiment.",
-        "genre": "ALTRES",
+        "start": "2026-09-02T20:59:39+02:00",
+        "stop": "2026-09-02T21:00:43+02:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
