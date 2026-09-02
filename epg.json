@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-02T06:07:52.775263+00:00",
+  "updated": "2026-09-02T11:15:30.988522+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-02T07:00:00+02:00",
-        "stop": "2026-09-02T10:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-02T12:59:12+02:00",
+        "stop": "2026-09-02T13:20:27+02:00",
+        "title": "Cuines",
+        "subtitle": "Coca de bolets, formatge i mel",
+        "description": "Sabeu què és una coca semidolça? Doncs una que té una base dolça, tendra i esponjosa, com la d'una coca de Sant Joan, i que per sobre porta ingredients salats com bolets, bull o formatge. El contrast de sabors entre el dolç i el salat us sorprendrà.",
+        "genre": "CUINA",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
       },
       {
-        "start": "2026-09-02T10:00:00+02:00",
-        "stop": "2026-09-02T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-02T13:20:27+02:00",
+        "stop": "2026-09-02T13:28:16+02:00",
+        "title": "Cuines",
+        "subtitle": "Triangles d'espinacs",
+        "description": "L'Arnau París us donarà una lliçó de geometria... però a la seva manera, que no és altra que darrere dels fogons. En aquest cas, cuinarà uns triangles d'espinacs amb un toc de l'Orient Mitjà que són matemàticament deliciosos. I, esclar, es fan en un pim-pam.",
+        "genre": "CUINA",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-02T07:00:00+02:00",
-        "stop": "2026-09-02T10:00:00+02:00",
+        "start": "2026-09-02T12:00:00+02:00",
+        "stop": "2026-09-02T14:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,73 +72,73 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-02T10:00:00+02:00",
-        "stop": "2026-09-02T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-02T14:00:00+02:00",
+        "stop": "2026-09-02T14:30:00+02:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-02T06:56:49+02:00",
-        "stop": "2026-09-02T08:30:24+02:00",
-        "title": "Onze",
-        "subtitle": "Tancament mercat; Gabriel Jesus culer i 'El colegiado'",
-        "description": "Carles Fité, Gemma Mallorca, Xavi Torres i Jordi Martí comenten en directe els últims minuts del mercat d'estiu i les primeres paraules de Gabriel Jesus com a barcelonista. El Joan Fàbregas analitza les jugades polèmiques de la jornada.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-02T13:00:10+02:00",
+        "stop": "2026-09-02T14:01:15+02:00",
+        "title": "Esport Club",
+        "subtitle": "Tancament del mercat de fitxatges i tertúlia",
+        "description": "Ja s'ha tancat el mercat de fitxatges d'estiu. Julián Álvarez s'ha quedat a l'Atlètic de Madrid. Marc Casadó ha marxat cedit al Dépor i l'Espanyol ha incorporat Gorosabel. En parlem amb Laura Brugués i Juli García. Avui, Sabadell-Barça Atlètic, la final de la Copa Catalunya, per Esport3 (20.30). A la tertúlia ens acompanyen Arancha Rodríguez, Màrius Carol i Dani Senabre.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       },
       {
-        "start": "2026-09-02T08:30:24+02:00",
-        "stop": "2026-09-02T09:13:41+02:00",
-        "title": "Aire Lliure",
-        "subtitle": "Osona",
-        "description": "Osona En el programa titulat Osona descobrirem la nova passió de l'Àlex Crivillé, els raids hípics. La model Martina Klein confessa els seus secrets a Judit Mascó i la campioníssima Clàudia Galícia li farà una masterclass de BTT. Visitarem l'equip d'hoquei adaptat del Voltregà i sentirem el saxo de Pep Poblet.",
-        "genre": "REPORTATGES",
-        "image": ""
+        "start": "2026-09-02T14:01:15+02:00",
+        "stop": "2026-09-02T16:32:02+02:00",
+        "title": "Esport Club",
+        "subtitle": "Tancament del mercat de fitxatges i tertúlia",
+        "description": "Ja s'ha tancat el mercat de fitxatges d'estiu. Julián Álvarez s'ha quedat a l'Atlètic de Madrid. Marc Casadó ha marxat cedit al Dépor i l'Espanyol ha incorporat Gorosabel. En parlem amb Laura Brugués i Juli García. Avui, Sabadell-Barça Atlètic, la final de la Copa Catalunya, per Esport3 (20.30). A la tertúlia ens acompanyen Arancha Rodríguez, Màrius Carol i Dani Senabre.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-02T08:00:48+02:00",
-        "stop": "2026-09-02T08:11:51+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "Qui és el més fort?",
-        "description": "El Barrufet Tou s'ha estat entrenant i desafia el Forçut a una competició per determinar qui és el barrufet més fort del poble. La Barrufeta li demana al Forçut que el deixi guanyar discretament, i així ho fa. Però, després, els barrufets estan tan entusiasmats amb el nou campió del poble que es burlen del Forçut. La Barrufeta idea un pla perquè les coses tornin a la normalitat.",
+        "start": "2026-09-02T13:14:38+02:00",
+        "stop": "2026-09-02T13:37:15+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El cas del robatori de 10 milions de iens de l'organització dels homes de negre",
+        "description": "En Conan presencia l'atracament a un furgó blindat a l'exterior d'un banc. Dos atracadors neutralitzen dos vigilants, n'amenacen un altre i fugen en cotxe amb un gran botí. La policia troba el vehicle abandonat: a dins hi ha un passamuntanyes tacat de pintallavis rosa. Aquella nit, un dels atracadors i el vigilant que els ha obert el furgó són assassinats. La principal sospitosa és una treballadora del banc. En Conan ho dubta.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-02T08:11:51+02:00",
-        "stop": "2026-09-02T08:22:13+02:00",
-        "title": "Titó",
-        "subtitle": "Excursió amb la truita de riu",
-        "description": "Avui anem d'excursió en un centre on crien truites de riu. Voleu que anem al riu a alliberar-les? Som-hi! Hi trobarem un pescador ben especial",
-        "genre": "ALTRES",
+        "start": "2026-09-02T13:37:15+02:00",
+        "stop": "2026-09-02T13:56:51+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El número del ventríloc (1a part)",
+        "description": "En Riichi Tengan, un famós ventríloc, demana ajuda a en Kogoro perquè creu que pateix un trastorn de personalitat múltiple que el pot empènyer a matar la seva dona, la Kazuko. El ventríloc està convençut que el seu ninot l'ha posseït i no para d'animar-lo a assassinar la Kazuko, després que aquesta i en Haruomi Togawa, representant i alumne d'en Riichi, hagin mantingut una relació il·lícita. Finalment, quan la Kazuko apareix assassinada a casa seva, el mateix Riichi se'n declara culpable, però el descobriment de certes pistes assenyala com a responsable en Haruomi.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-02T07:57:46+02:00",
-        "stop": "2026-09-02T08:44:53+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La perxa d'atletisme",
-        "description": "Tots hem passat tardes de Jocs Olímpics mirant esports que no coneixem. El salt de perxa, per exemple. Com pot ser que aquell pal aguanti el pes d'una persona mentre es doblega i es torna a posar recte? Dediquem el capítol a la perxa d'atletisme. Ens visita en Max Codinach, de Gavina.mp3, que també és poeta i té un llibre (tot i que es veu que no ho sabia). Amb l'Arnau Tordera i la Laia Glück interpreten 'Sempre instint'. Sortim a passejar en Rufus per la defensa de Baler, a les Filipines del 1898.",
+        "start": "2026-09-02T12:52:15+02:00",
+        "stop": "2026-09-02T13:45:15+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Corno",
+        "description": "Amb el Corno van der Berg, un jove holandès, visitem diferents indrets naturals dels Pallars i coneixem la tradicional baixada de falles d'Isil. A més, al circuit Barcelona-Catalunya gaudeix d'una experiència al límit.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "image": ""
       },
       {
-        "start": "2026-09-02T08:44:53+02:00",
-        "stop": "2026-09-02T09:11:32+02:00",
-        "title": "Viure als Pirineus",
-        "subtitle": "Una cuinera dels Pirineus (Primavera - Estiu)",
-        "description": "Eva Martínez-Picó s'afanya entre la cuina, la botiga i el restaurant Can Jordi i, alhora, és la responsable del refugi per a excursionistes creat aprofitant les antigues escoles d'Espinavell, un petit poble de la comarca del Ripollès. Periodista de formació que va treballar en molts gabinets de comunicació públics i privats de mig món, un dia decideix marxar de Barcelona, o com ella mateixa diu: 'Tu fas que les coses passin.' I va descobrir Espinavell on ja viu des de fa onze anys i on el seu primer marit va morir poc temps després d'arribar-hi.L' Eva va decidir quedar-s'hi i reobrir el petit restaurant on fa de cuinera, cambrera i el que faci falta i especialitzar-se en la carn de poltre que es cria a les muntanyes que veu des de casa seva. Incansable, amb els altres hostalers de la comarca ha creat una plataforma que ofereix serveis turístics de qualitat que inclouen excursions de descoberta de la natura i del patrimoni de la vall de Camprodon fins a la difusió de la cuina tradicional. Ara veu realitzada la proposta que la vall de Camprodon sigui Parc Natural mentre prepara un llibre sobre les famílies de la població i participa en l'organització de la cursa Molló Trail.'El món està dintre, no fora' ens diu, en referència al seu gran món interior i al fet d'estar sola molts dies, ja que l'Àngel, la seva parella actual, és un ramader molt enfeinat amb les seves eugues i vaques.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-02T13:45:15+02:00",
+        "stop": "2026-09-02T14:31:59+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 28",
+        "description": "Aquesta setmana hem parlat de les agulles de cosir, la videoconsola, el supositori i el piano. No tenen res a veure, així que només els trobareu junts en aquest capítol. Si voleu saber-ne més, trobareu un programa dedicat a cadascun d'ells. Ens han visitat en Joel Díaz, en Piti Español, la Magalí Sare i en Jaume Norberto. Us podem assegurar que hem rigut, i hem après. Es poden fer dues coses, i en aquestes xerrades ens ha passat exactament això. Recupereu-les!",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
