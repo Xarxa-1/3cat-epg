@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-02T01:24:18.838904+00:00",
+  "updated": "2026-09-02T06:07:52.775263+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-02T01:15:09+02:00",
-        "stop": "2026-09-02T04:30:00+02:00",
+        "start": "2026-09-02T07:00:00+02:00",
+        "stop": "2026-09-02T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-02T04:30:00+02:00",
-        "stop": "2026-09-02T05:08:42+02:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Andreu Zaragoza Quartet",
-        "description": "Andreu Zaragoza presenta el seu nou disc 'Quatriometry'. Vuit composicions que aprofiten la versatilitat de l'orgue Hammond, en contrapunt al saxo i a la personal guitarra de Zaragoza. El jazz contemporani amb arrels i la complicitat entre els solistes atrapen el públic. L'acompanyen Vicenç Macián al saxo tenor, Ramon Prats a la bateria i Abel Boquera a l'orgue.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-02T10:00:00+02:00",
+        "stop": "2026-09-02T12:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-02T01:00:00+02:00",
-        "stop": "2026-09-02T06:00:00+02:00",
+        "start": "2026-09-02T07:00:00+02:00",
+        "stop": "2026-09-02T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-02T06:00:00+02:00",
-        "stop": "2026-09-02T07:00:00+02:00",
+        "start": "2026-09-02T10:00:00+02:00",
+        "stop": "2026-09-02T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-02T02:38:42+02:00",
-        "stop": "2026-09-02T04:10:15+02:00",
-        "title": "Tot Costa",
-        "subtitle": "Final de mercat tranquil al Barça",
-        "description": "Les últimes hores de mercat seran calmades al Camp Nou. Amb Gabriel Jesus, el Barça tanca el capítol de fitxatges. Pel que fa a les sortides, Marc Casado apunta a sortir en aquest tram final de mercat. Tot plegat després de la tercera victòria a la Lliga, 5 a 2 contra el Rayo.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+        "start": "2026-09-02T06:56:49+02:00",
+        "stop": "2026-09-02T08:30:24+02:00",
+        "title": "Onze",
+        "subtitle": "Tancament mercat; Gabriel Jesus culer i 'El colegiado'",
+        "description": "Carles Fité, Gemma Mallorca, Xavi Torres i Jordi Martí comenten en directe els últims minuts del mercat d'estiu i les primeres paraules de Gabriel Jesus com a barcelonista. El Joan Fàbregas analitza les jugades polèmiques de la jornada.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-02T04:10:15+02:00",
-        "stop": "2026-09-02T04:25:57+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-02T08:30:24+02:00",
+        "stop": "2026-09-02T09:13:41+02:00",
+        "title": "Aire Lliure",
+        "subtitle": "Osona",
+        "description": "Osona En el programa titulat Osona descobrirem la nova passió de l'Àlex Crivillé, els raids hípics. La model Martina Klein confessa els seus secrets a Judit Mascó i la campioníssima Clàudia Galícia li farà una masterclass de BTT. Visitarem l'equip d'hoquei adaptat del Voltregà i sentirem el saxo de Pep Poblet.",
+        "genre": "REPORTATGES",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-02T03:20:00+02:00",
-        "stop": "2026-09-02T03:41:38+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Perfecció",
-        "description": "Què faria la Marinette sense els seus amics? Tota la colla han decidit fer el que puguin per ajudar-la a acostar-se a l'Adrien. Aquesta vegada, els ha de sortir bé. Però la Marinette sempre és capaç de sorprendre. Ningú li ha explicat res i ningú sap que ella també té un pla infal·lible per dir-li a l'Adrien el que sent per ell. Tots descobriran que és millor dir les coses clares als amics per evitar malentesos... que podrien provocar que algú acabés akumatitzat!",
+        "start": "2026-09-02T08:00:48+02:00",
+        "stop": "2026-09-02T08:11:51+02:00",
+        "title": "Els barrufets (3D)",
+        "subtitle": "Qui és el més fort?",
+        "description": "El Barrufet Tou s'ha estat entrenant i desafia el Forçut a una competició per determinar qui és el barrufet més fort del poble. La Barrufeta li demana al Forçut que el deixi guanyar discretament, i així ho fa. Però, després, els barrufets estan tan entusiasmats amb el nou campió del poble que es burlen del Forçut. La Barrufeta idea un pla perquè les coses tornin a la normalitat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-02T03:41:38+02:00",
-        "stop": "2026-09-02T04:02:51+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Migració",
-        "description": "El Luka és moltes coses. A banda de ser el germà bessó de la Juleka, també és com un germà gran per tots els seus amics, inclosos la Marinette i l'Adrien. A tots dos els hi agrada demanar-li consell, perquè en el Luca sempre hi troben paraules reconfortants. A més, el Luka és el guitarrista del grup Kitty Section i és fill d'un famós. Precisament això atraurà l'interès de l'empresari discogràfic Bob Roth, que està disposat a qualsevol cosa per fer diners. Però el Bob Roth subestima el Luka, que està disposat a qualsevol cosa per defensar els seus amics i els seus valors.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-02T08:11:51+02:00",
+        "stop": "2026-09-02T08:22:13+02:00",
+        "title": "Titó",
+        "subtitle": "Excursió amb la truita de riu",
+        "description": "Avui anem d'excursió en un centre on crien truites de riu. Voleu que anem al riu a alliberar-les? Som-hi! Hi trobarem un pescador ben especial",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-02T03:04:07+02:00",
-        "stop": "2026-09-02T03:29:51+02:00",
-        "title": "Viure als Pirineus",
-        "subtitle": "Un múixer dels Pirineus (Primavera - Estiu)",
-        "description": "«Un múixer dels Pirineus» explica una història d'amor entre un home i els seus gossos. François Pagnoux porta trineus amb gossos: és un 'múixer'. L'apassionen la muntanya i els grans espais i des de fa anys s'ha instal·lat amb la seva família a Font-Romeu, als Pirineus Orientals.Aquest quadre natural d'excepció, per a ell és un terreny de joc que recorre amb els seus gossos durant totes les estacions. François Pagnoux ha sabut adaptar la seva activitat al clima dels Pirineus i, hivern i estiu, proposa als visitants llargues passejades en plena natura. Aquest aventurer intenta transmetre i compartir la seva passió pels gossos i per la natura. Amb les activitats que organitza, permet que tothom que ho desitgi pugui realitzar el seu somni de fer d'aprenent de múixer durant unes hores envoltat d'un paisatge grandiós. D'aquesta manera, en François participa activament en la vida social i econòmica de la vall on viu, i alhora sensibilitza els turistes de la necessitat de conservar aquest entorn de naturalesa salvatge.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-02T07:57:46+02:00",
+        "stop": "2026-09-02T08:44:53+02:00",
+        "title": "La Renaixença",
+        "subtitle": "La perxa d'atletisme",
+        "description": "Tots hem passat tardes de Jocs Olímpics mirant esports que no coneixem. El salt de perxa, per exemple. Com pot ser que aquell pal aguanti el pes d'una persona mentre es doblega i es torna a posar recte? Dediquem el capítol a la perxa d'atletisme. Ens visita en Max Codinach, de Gavina.mp3, que també és poeta i té un llibre (tot i que es veu que no ho sabia). Amb l'Arnau Tordera i la Laia Glück interpreten 'Sempre instint'. Sortim a passejar en Rufus per la defensa de Baler, a les Filipines del 1898.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-09-02T03:29:51+02:00",
-        "stop": "2026-09-02T04:08:26+02:00",
-        "title": "La Mar de Bé",
-        "subtitle": "Palandriu",
-        "description": "L'escamarlà és el producte estrella de la confraria de Llançà i, durant els mesos d'estiu, és una de les confraries de Catalunya que més treballa amb aquesta espècie. En aquest capítol, en Quim Casellas viurà una autèntica jornada de pesca d'escamarlans a bord del Palandriu amb el seu patró i armador, en Xavi Roquer. Sens dubte, els escamarlans seran els protagonistes de la proposta culinària d'en Quim, que serà original i amb un toc asiàtic: shabu shabu d'escamarlans i rap amb verdures de primavera. ",
-        "genre": "ALTRES",
+        "start": "2026-09-02T08:44:53+02:00",
+        "stop": "2026-09-02T09:11:32+02:00",
+        "title": "Viure als Pirineus",
+        "subtitle": "Una cuinera dels Pirineus (Primavera - Estiu)",
+        "description": "Eva Martínez-Picó s'afanya entre la cuina, la botiga i el restaurant Can Jordi i, alhora, és la responsable del refugi per a excursionistes creat aprofitant les antigues escoles d'Espinavell, un petit poble de la comarca del Ripollès. Periodista de formació que va treballar en molts gabinets de comunicació públics i privats de mig món, un dia decideix marxar de Barcelona, o com ella mateixa diu: 'Tu fas que les coses passin.' I va descobrir Espinavell on ja viu des de fa onze anys i on el seu primer marit va morir poc temps després d'arribar-hi.L' Eva va decidir quedar-s'hi i reobrir el petit restaurant on fa de cuinera, cambrera i el que faci falta i especialitzar-se en la carn de poltre que es cria a les muntanyes que veu des de casa seva. Incansable, amb els altres hostalers de la comarca ha creat una plataforma que ofereix serveis turístics de qualitat que inclouen excursions de descoberta de la natura i del patrimoni de la vall de Camprodon fins a la difusió de la cuina tradicional. Ara veu realitzada la proposta que la vall de Camprodon sigui Parc Natural mentre prepara un llibre sobre les famílies de la població i participa en l'organització de la cursa Molló Trail.'El món està dintre, no fora' ens diu, en referència al seu gran món interior i al fet d'estar sola molts dies, ja que l'Àngel, la seva parella actual, és un ramader molt enfeinat amb les seves eugues i vaques.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
