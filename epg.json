@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-03T18:29:48.533325+00:00",
+  "updated": "2026-09-03T21:15:58.413593+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-03T19:58:04+02:00",
-        "stop": "2026-09-03T21:00:00+02:00",
-        "title": "Atrapa'm si pots, estiu",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "start": "2026-09-03T23:13:27+02:00",
+        "stop": "2026-09-03T23:44:08+02:00",
+        "title": "Tot torna",
+        "subtitle": "1994",
+        "description": "Repassem el 1994, l'any que alliberen la farmacèutica d'Olot del segrest i l'orca Ulisses del zoo de Barcelona. Es cala foc al Liceu, la Penya guanya l'Eurolliga i un veí de Vilassar de Mar estableix un rècord cuinant truites de patates durant 24 hores seguides.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-03T21:00:00+02:00",
-        "stop": "2026-09-03T22:05:06+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "start": "2026-09-03T23:44:08+02:00",
+        "stop": "2026-09-04T00:21:23+02:00",
+        "title": "Tot torna",
+        "subtitle": "2006",
+        "description": "Repassem el 2006, l'any que els catalans han de decidir què voten al referèndum de l'Estatut i quin politò es posen al mòbil. El papa de Roma viatja a València, els papers de Salamanca, a Catalunya, i el Barça, a París per aixecar la segona Champions.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-03T20:00:00+02:00",
-        "stop": "2026-09-03T21:00:00+02:00",
+        "start": "2026-09-03T23:00:00+02:00",
+        "stop": "2026-09-04T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-03T21:00:00+02:00",
-        "stop": "2026-09-03T23:00:00+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-09-04T00:30:00+02:00",
+        "stop": "2026-09-04T01:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-03T20:25:00+02:00",
-        "stop": "2026-09-03T22:26:49+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Asisa Joventut-Kids&Us Manresa / Torneig Sant Julià",
-        "description": "Partit inaugural del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
+        "start": "2026-09-03T23:00:00+02:00",
+        "stop": "2026-09-04T00:30:43+02:00",
+        "title": "Onze",
+        "subtitle": "",
+        "description": "Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-03T22:26:49+02:00",
-        "stop": "2026-09-03T23:00:00+02:00",
-        "title": "Esport Club",
-        "subtitle": "Presentacions a l'Espanyol, Bisiwu, l'NBA i les 24 Hores de Lliçà",
-        "description": "L'Espanyol presenta Bryan Zaragoza i Andoni Gorosabel. Estem pendents de la lesió de Bisiwu. L'NBA amb Jordi de Mas i entrevista a Manel Ferriol abans de les 24 Hores de Lliçà d'Amunt. A la tertúlia ens acompanyen Gemma Mallorca, Pere Mas i Àlex Esteban.",
+        "start": "2026-09-04T00:30:43+02:00",
+        "stop": "2026-09-04T00:51:24+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-03T20:17:49+02:00",
-        "stop": "2026-09-03T20:38:56+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Cometem un robatori",
-        "description": "En Henry participa en un concurs de televisió per ajudar a descobrir com uns misteriosos lladres aconsegueixen robar els premis dels guanyadors sense deixar rastre. Però quan ell mateix guanya, una estranya videotrucada fa que comenci a comportar-se de manera molt sospitosa.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-03T23:02:09+02:00",
+        "stop": "2026-09-03T23:23:12+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "La foscor de la policia de la prefectura (3a part)",
+        "description": "Ja hi ha hagut tres assassinats i tots els indicis assenyalen l'inspector Yamato com a principal sospitós. En Mamoru Saegusa, un dels homes de l'inspector Takeda, rep un correu d'en Kansuke Yamato que li demana que vagi al mont Saijo si no vol que reveli tota la veritat sobre la X. Mentrestant, en Conan, la Ran i en Mouri ja són al tren bala, de tornada cap a casa. Allà en Conan els explica tota la veritat sobre el clan dels picots.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-03T20:38:56+02:00",
-        "stop": "2026-09-03T20:59:59+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Supervolcà",
-        "description": "Quan en Ray i el seu equip descobreixen que un supervolcà pot destruir el món en menys de dos dies, decideixen mantenir-ho en secret mentre cadascú afronta la fi a la seva manera. Però en Henry, convençut que el temps s'acaba, comença a dir i fer tot allò que sempre havia evitat.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-03T23:23:12+02:00",
+        "stop": "2026-09-03T23:44:59+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Mossecs d'ant",
+        "description": "Com que avui és festa i l'equip Kratt no té cap aventura, el Chris i el Martin han pensat anar d'acampada. Quan són al camp, coneixen una cria d'ant que ha perdut la mare i es veuen obligats a complir una missió: mirar que mare i fill es retrobin. Per aconseguir-ho, però, hauran de superar uns quants obstacles.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-03T20:06:17+02:00",
-        "stop": "2026-09-03T20:59:42+02:00",
-        "title": "Llocs recòndits",
-        "subtitle": "L'Aràbia Saudita",
-        "description": "Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.",
+        "start": "2026-09-03T22:49:20+02:00",
+        "stop": "2026-09-03T23:47:47+02:00",
+        "title": "Un planeta perfecte",
+        "subtitle": "Volcà",
+        "description": "Sense volcans no hi hauria vida: no hi hauria una atmosfera respirable, ni oceans ni terra ferma. A la superfície de la Terra hi ha més de 1.500 volcans actius. En aquest episodi visitarem els sorprenents habitats que els volcans han creat pertot arreu: un llac d'aigües càustiques on crien els flamencs, un volcà adormit on enterren els ous les iguanes, o les grans planes del Serengeti, on els rics sediments volcànics permeten una explosió de vida.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"
       },
       {
-        "start": "2026-09-03T20:59:42+02:00",
-        "stop": "2026-09-03T21:00:37+02:00",
-        "title": "SENSE FI CANAL 33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-09-03T23:47:47+02:00",
+        "stop": "2026-09-04T00:37:52+02:00",
+        "title": "Alaska salvatge",
+        "subtitle": "Primavera",
+        "description": "Alaska és el territori i l'estat més septentrional dels Estats Units, una regió vasta dominada per la natura salvatge. En aquest episodi assistim a l'arribada de la primavera, que canvia radicalment l'aspecte d'Alaska després dels mesos hivernals. El desglaç genera una autèntica explosió de vida a terra ferma, i al mar provoca l'arribada en massa dels arengs i altres espècies marines que tenen una gran importància per a l'economia local.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
