@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-03T06:05:52.638939+00:00",
+  "updated": "2026-09-03T11:11:39.524546+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-03T06:01:14+02:00",
-        "stop": "2026-09-03T10:00:00+02:00",
+        "start": "2026-09-03T13:06:13+02:00",
+        "stop": "2026-09-03T14:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-03T10:00:00+02:00",
-        "stop": "2026-09-03T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-03T14:00:00+02:00",
+        "stop": "2026-09-03T14:30:00+02:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-03T07:00:00+02:00",
-        "stop": "2026-09-03T10:00:00+02:00",
+        "start": "2026-09-03T12:00:00+02:00",
+        "stop": "2026-09-03T14:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,78 +72,108 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-03T10:00:00+02:00",
-        "stop": "2026-09-03T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-03T14:00:00+02:00",
+        "stop": "2026-09-03T14:30:00+02:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-03T06:36:44+02:00",
-        "stop": "2026-09-03T08:07:29+02:00",
-        "title": "Onze",
-        "subtitle": "Posem nota a Deco; Casadó al Depor i 'El predicador'",
-        "description": "Lluís Carrasco, Sique Rodriguez, Irati Vidal i Joan Poquí posen nota a la gestió del director esportiu del Barça en el mercat d'estiu. L'Òscar Pérez-Dolz predica la fe del bon culer.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-03T13:00:00+02:00",
+        "stop": "2026-09-03T14:00:32+02:00",
+        "title": "Esport Club",
+        "subtitle": "Presentacions a l'Espanyol, Bisiwu, l'NBA i les 24 Hores de Lliçà",
+        "description": "L'Espanyol presenta Bryan Zaragoza i Andoni Gorosabel. Estem pendents de la lesió de Bisiwu. L'NBA amb Jordi de Mas i entrevista a Manel Ferriol abans de les 24 Hores de Lliçà d'Amunt. A la tertúlia ens acompanyen Gemma Mallorca, Pere Mas i Àlex Esteban.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       },
       {
-        "start": "2026-09-03T08:07:29+02:00",
-        "stop": "2026-09-03T10:00:38+02:00",
-        "title": "Futbol",
-        "subtitle": "Barça Atlètic-CE Sabadell / Copa Catalunya / Final",
-        "description": "Final de la Copa Catalunya a la Nova Creu Alta. En el precedent de fa deu anys, entre aquests dos rivals, els arlequinats es van endur el títol. Amb la narració de Jordi Sunyer.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/0/1771252757404.jpg"
+        "start": "2026-09-03T14:00:32+02:00",
+        "stop": "2026-09-03T15:01:19+02:00",
+        "title": "Esport Club",
+        "subtitle": "Presentacions a l'Espanyol, Bisiwu, l'NBA i les 24 Hores de Lliçà",
+        "description": "L'Espanyol presenta Bryan Zaragoza i Andoni Gorosabel. Estem pendents de la lesió de Bisiwu. L'NBA amb Jordi de Mas i entrevista a Manel Ferriol abans de les 24 Hores de Lliçà d'Amunt. A la tertúlia ens acompanyen Gemma Mallorca, Pere Mas i Àlex Esteban.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-03T07:59:25+02:00",
-        "stop": "2026-09-03T08:10:28+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "El barrufet més terrorífic",
-        "description": "Falten poques hores per a la festa de Halloween i el Poruc no vol quedar-se tot sol. A canvi de companyia, l'Ulleres li demana que porti unes pocions a cal Gran Barrufet. Però al Poruc li cauen a terra i, a causa d'una estranya reacció, es converteix en un enorme monstre. Tots els barrufets fugen espantats en veure'l i el Poruc no sap què fer per convèncer-los que és inofensiu.",
+        "start": "2026-09-03T12:55:36+02:00",
+        "stop": "2026-09-03T13:17:48+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "El Chris diabòlic de Tasmània",
+        "description": "Avui, en Chris i en Martin estan marcant diables de Tasmània per fer-ne un seguiment, per vigilar que no desapareguin per sempre. El malèfic Zach també els va al darrere, però per segrestar-los i fer un nou Zachbot, el Diable-bot 2000! Per cert, ho sabies que el diable de Tasmània és el mamífer que té més força a les mandíbules?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-03T08:10:28+02:00",
-        "stop": "2026-09-03T08:22:01+02:00",
-        "title": "Titó",
-        "subtitle": "Excursió al Delta",
-        "description": "Avui anem d'excursió al Delta de l'Ebre i veurem com es va formar. També jugarem a imitar un flamenc i descobrirem per què són de color rosa.",
-        "genre": "ALTRES",
+        "start": "2026-09-03T13:17:48+02:00",
+        "stop": "2026-09-03T13:39:04+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "L'hostal del Kamaitachi (2a part)",
+        "description": "El kamaitachi que els havia fet uns talls a la pell a en Heiji, en Kogoro i la periodista, sembla que també ha assassinat l'avi de l'hostal amb la dalla que hi havia al magatzem. Per arribar on era la víctima abans que en Conan i els altres, ha hagut de córrer per sobre de l'aigua d'una bassa i es diu que els kamaitachis són capaços de fer-ho. Però en Conan i en Heiji no s'ho empassen.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-03T07:44:24+02:00",
-        "stop": "2026-09-03T08:42:34+02:00",
-        "title": "El Foraster",
-        "subtitle": "Especial La Mina",
-        "description": "Un itinerari que no ha deixat indiferent en Quim Masferrer, que el va començar sentint-se més foraster que mai i l'acaba sentint-se un més del barri. Per iniciar questa sisena temporada, en Quim s'endinsa en una de les zones amb més caràcter i personalitat de Sant Adrià de Besòs: la Mina. Un barri desconegut, marginal, misteriós, ple de tòpics, però també ple de vida, somnis i esperances com les de qualsevol altre barri o població de Catalunya. Un lloc on ens podrem identificar amb els seus habitants més del que creiem.Allà coneixerà un seguit de personatges que el conduiran en el seu periple homèric, i que duran en Quim a la convicció que tots som més semblants del que realment pensem: el Tío Lele, un dels patriarques més carismàtics del barri, que li donarà uns quants consells de supervivència. I també la Loli i la Maria, unes gitanes d'allò més simpàtiques, que no només li explicaran per què la vida és més senzilla del que sembla, sinó que li prepararan una de les seves especialitats culinàries, l'arròs amb mongetes.En aquest recorregut per un barri tan singular com fascinant, ens retrobarem amb el campió olímpic Gervasio Deferr, que va decidir retirar-se de l'esport professional i establir-se a la Mina. Coneixerem també a 'El Jamonero', l'home que més en sap d'ocells de Catalunya, i l'Antònia i l'Angelita, de Vic i Màlaga, respectivament, que es van conèixer de ben petites a les barraques del Camp de la Bota i segueixen la seva amistat seixanta anys després.Després de visitar la Mina, el nostre concepte d'aquest mític barri ja mai més serà el mateix d'abans.",
-        "genre": "VARIETATS",
+        "start": "2026-09-03T12:38:37+02:00",
+        "stop": "2026-09-03T13:38:52+02:00",
+        "title": "Atrapa'm si pots - Especials",
+        "subtitle": "Atrapa'm si pots - estiu",
+        "description": "",
+        "genre": "CONCURS",
         "image": ""
       },
       {
-        "start": "2026-09-03T08:42:34+02:00",
-        "stop": "2026-09-03T09:29:41+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La caravana",
-        "description": "La caravana ha passat per molts moments: fa anys era vista com una cosa de pobres, o de hippies; ara, si no surts a passar un cap de setmana amb la caravana, no segueixes la moda. Nosaltres ens hi unim, i dediquem el capítol a la caravana. Parlem amb en Lluís Bassaganya, responsable de l'exposició permanent 'La retirada' de Camprodon. Segurament és la persona que millor coneix els boscos de la zona, on passa gairebé tot el dia. A 'Històries per passejar el gos' anem amb l'Hera fins a la guerra del whisky del 1984.",
+        "start": "2026-09-03T13:38:52+02:00",
+        "stop": "2026-09-03T14:31:51+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Mash i Tassy",
+        "description": "En Mash i en Tassy són dos japonesos amb qui coneixem els secrets de l'elaboració del cava i el vi, i per fer-ho, marxem fins al Penedès i el Priorat. A més, la Ivana Miño els regala una experiència única que segur s'enduen per sempre; una jornada castellera a Tarragona.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "image": ""
       }
     ],
-    "oca1": [],
-    "oca2": [],
-    "oca3": [],
+    "oca1": [
+      {
+        "start": "2026-09-03T09:00:00+02:00",
+        "stop": "2026-09-03T14:59:55+02:00",
+        "title": "Sánchez compareix per la crisi de Ceuta",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1746445784343.jpg"
+      }
+    ],
+    "oca2": [
+      {
+        "start": "2026-09-03T12:44:26+02:00",
+        "stop": "2026-09-03T13:29:55+02:00",
+        "title": "CGT parla després de reunir-se amb la consellera per la vaga a l'inici de curs",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/8/1780564167883.jpg"
+      }
+    ],
+    "oca3": [
+      {
+        "start": "2026-09-03T12:55:00+02:00",
+        "stop": "2026-09-03T13:59:55+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "- Presentació Bryan Zaragoza",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+      }
+    ],
     "oca4": []
   }
 }
