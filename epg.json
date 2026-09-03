@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-03T11:11:39.524546+00:00",
+  "updated": "2026-09-03T14:59:57.795754+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-03T13:06:13+02:00",
-        "stop": "2026-09-03T14:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-03T16:25:55+02:00",
+        "stop": "2026-09-03T17:03:12+02:00",
+        "title": "La Riera",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "En Claudi ha de gestionar la informació que li ha donat el mossèn. La Nora, amb el fill malalt, ha de fer el mateix amb el que sap d'en Mauri. I la Maribel, que sap el que ha trobat la Sònia, no està en el millor moment per plantejar-se res amb en Sergi. Per la seva banda, després dels comiats de solters, la Mireia planteja canvis a l'Oriol.",
+        "genre": "TELENOVEL·LA",
+        "image": ""
       },
       {
-        "start": "2026-09-03T14:00:00+02:00",
-        "stop": "2026-09-03T14:30:00+02:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-09-03T17:03:12+02:00",
+        "stop": "2026-09-03T17:40:57+02:00",
+        "title": "La Riera",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "description": "La Lídia està decidida a aturar la Sònia i demana ajuda al seu pare. En Sergi paga el mal humor de la Maribel i reacciona desproporcionadament. L'Ignasi parla amb en Mauri i descobrirem que hi ha un passat fosc que comparteixen d'alguna manera. I en Lluís té unes enormes ganes de venjar-se de qui el va enganyar, però serà complicat.",
+        "genre": "TELENOVEL·LA",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-03T12:00:00+02:00",
-        "stop": "2026-09-03T14:00:00+02:00",
+        "start": "2026-09-03T16:30:00+02:00",
+        "stop": "2026-09-03T17:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,108 +72,78 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-03T14:00:00+02:00",
-        "stop": "2026-09-03T14:30:00+02:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-09-03T17:00:00+02:00",
+        "stop": "2026-09-03T18:30:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-03T13:00:00+02:00",
-        "stop": "2026-09-03T14:00:32+02:00",
-        "title": "Esport Club",
-        "subtitle": "Presentacions a l'Espanyol, Bisiwu, l'NBA i les 24 Hores de Lliçà",
-        "description": "L'Espanyol presenta Bryan Zaragoza i Andoni Gorosabel. Estem pendents de la lesió de Bisiwu. L'NBA amb Jordi de Mas i entrevista a Manel Ferriol abans de les 24 Hores de Lliçà d'Amunt. A la tertúlia ens acompanyen Gemma Mallorca, Pere Mas i Àlex Esteban.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-03T16:58:45+02:00",
+        "stop": "2026-09-03T17:24:32+02:00",
+        "title": "Catalunya salvatge",
+        "subtitle": "Horitzons esteparis",
+        "description": "'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-03T14:00:32+02:00",
-        "stop": "2026-09-03T15:01:19+02:00",
-        "title": "Esport Club",
-        "subtitle": "Presentacions a l'Espanyol, Bisiwu, l'NBA i les 24 Hores de Lliçà",
-        "description": "L'Espanyol presenta Bryan Zaragoza i Andoni Gorosabel. Estem pendents de la lesió de Bisiwu. L'NBA amb Jordi de Mas i entrevista a Manel Ferriol abans de les 24 Hores de Lliçà d'Amunt. A la tertúlia ens acompanyen Gemma Mallorca, Pere Mas i Àlex Esteban.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-03T17:24:32+02:00",
+        "stop": "2026-09-03T17:35:03+02:00",
+        "title": "Zona UFEC",
+        "subtitle": "",
+        "description": "'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-03T12:55:36+02:00",
-        "stop": "2026-09-03T13:17:48+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El Chris diabòlic de Tasmània",
-        "description": "Avui, en Chris i en Martin estan marcant diables de Tasmània per fer-ne un seguiment, per vigilar que no desapareguin per sempre. El malèfic Zach també els va al darrere, però per segrestar-los i fer un nou Zachbot, el Diable-bot 2000! Per cert, ho sabies que el diable de Tasmània és el mamífer que té més força a les mandíbules?",
+        "start": "2026-09-03T16:46:21+02:00",
+        "stop": "2026-09-03T17:07:01+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Perill TV",
+        "description": "La desaparició en directe de l'Abella Bobee, presentadora d'un programa infantil, ha fet que les Espies acabessin descobrint el pla malèfic del productor de Perill TV: posar gent famosa en situacions extremes, en directe, en el seu canal de tele! El que encara no saben la Clover, la Sam i l'Alex és que aviat les protagonistes del programa seran elles! Quin perill!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-09-03T13:17:48+02:00",
-        "stop": "2026-09-03T13:39:04+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "L'hostal del Kamaitachi (2a part)",
-        "description": "El kamaitachi que els havia fet uns talls a la pell a en Heiji, en Kogoro i la periodista, sembla que també ha assassinat l'avi de l'hostal amb la dalla que hi havia al magatzem. Per arribar on era la víctima abans que en Conan i els altres, ha hagut de córrer per sobre de l'aigua d'una bassa i es diu que els kamaitachis són capaços de fer-ho. Però en Conan i en Heiji no s'ho empassen.",
+        "start": "2026-09-03T17:07:01+02:00",
+        "stop": "2026-09-03T17:27:41+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Espies en solitari",
+        "description": "La notícia d'en Jerry ha caigut com un gerro d'aigua freda: a partir d'ara les Espies ja no treballaran en equip, sinó que ho faran en solitari. La primera missió serà investigar la desaparició de tot d'agents de la WHOOP arreu del món. Ho faran per separat i totes tres també acabaran segrestades a mans de la Col·leccionista, una fanàtica de tot el que té a veure amb l'espionatge!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
     ],
     "c33": [
       {
-        "start": "2026-09-03T12:38:37+02:00",
-        "stop": "2026-09-03T13:38:52+02:00",
-        "title": "Atrapa'm si pots - Especials",
-        "subtitle": "Atrapa'm si pots - estiu",
-        "description": "",
-        "genre": "CONCURS",
+        "start": "2026-09-03T16:48:30+02:00",
+        "stop": "2026-09-03T17:14:40+02:00",
+        "title": "Catalunya salvatge",
+        "subtitle": "Pelegrins de l'aigua",
+        "description": "'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-03T13:38:52+02:00",
-        "stop": "2026-09-03T14:31:51+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Mash i Tassy",
-        "description": "En Mash i en Tassy són dos japonesos amb qui coneixem els secrets de l'elaboració del cava i el vi, i per fer-ho, marxem fins al Penedès i el Priorat. A més, la Ivana Miño els regala una experiència única que segur s'enduen per sempre; una jornada castellera a Tarragona.",
-        "genre": "ALTRES",
+        "start": "2026-09-03T17:14:40+02:00",
+        "stop": "2026-09-03T17:40:47+02:00",
+        "title": "Catalunya salvatge",
+        "subtitle": "L'empremta volcànica",
+        "description": "'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-09-03T09:00:00+02:00",
-        "stop": "2026-09-03T14:59:55+02:00",
-        "title": "Sánchez compareix per la crisi de Ceuta",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1746445784343.jpg"
-      }
-    ],
-    "oca2": [
-      {
-        "start": "2026-09-03T12:44:26+02:00",
-        "stop": "2026-09-03T13:29:55+02:00",
-        "title": "CGT parla després de reunir-se amb la consellera per la vaga a l'inici de curs",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/8/1780564167883.jpg"
-      }
-    ],
-    "oca3": [
-      {
-        "start": "2026-09-03T12:55:00+02:00",
-        "stop": "2026-09-03T13:59:55+02:00",
-        "title": "Sala de Premsa",
-        "subtitle": "- Presentació Bryan Zaragoza",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
-      }
-    ],
+    "oca1": [],
+    "oca2": [],
+    "oca3": [],
     "oca4": []
   }
 }
