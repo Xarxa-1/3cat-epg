@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-02T23:27:52.555930+00:00",
+  "updated": "2026-09-03T01:19:55.072513+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-03T00:41:35+02:00",
-        "stop": "2026-09-03T01:33:39+02:00",
-        "title": "La Renaixença",
-        "subtitle": "El tallagespa",
-        "description": "El tallagespa és un objecte com Déu mana, però, compte, no sigueu gamarussos, que més d'un ha perdut els dits intentant desencallar la gespa compactada de sota la màquina. Abans de manipular-lo, assegureu-vos que estigui parat, que ara en fan de molt silenciosos! També parlem amb l'Ernest Villegas, un tros d'actor amb una veu de tro que fot goig de sentir. Per acabar, gafem una gossa anomenada Taga i ens tanquem a la presó de la Model, la que ja està tancada, i amb raó, perquè allò era un cau de merda.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
-      },
-      {
         "start": "2026-09-03T01:33:39+02:00",
         "stop": "2026-09-03T04:30:00+02:00",
         "title": "Notícies 3CatInfo",
@@ -59,6 +50,15 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-03T04:30:00+02:00",
+        "stop": "2026-09-03T05:15:26+02:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Gemini",
+        "description": "Gemini són tres grans intèrprets a la recerca de l'evocació i el color a través de la seva música. Podríem dir que practiquen un estil influenciat per la musica laietana dels 70 i el jazz que es feia a Barcelona durant els 80. Jordi Gaspar, al baix acústic; Jordi Bonell, a la guitarra, i Roger Blavia, a la percussió.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-03T00:50:39+02:00",
-        "stop": "2026-09-03T02:21:05+02:00",
-        "title": "Onze",
-        "subtitle": "Posem nota a Deco; Casadó al Depor i 'El predicador'",
-        "description": "Lluís Carrasco, Sique Rodriguez, Irati Vidal i Joan Poquí posen nota a la gestió del director esportiu del Barça en el mercat d'estiu. L'Òscar Pérez-Dolz predica la fe del bon culer.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-03T02:40:55+02:00",
+        "stop": "2026-09-03T04:34:09+02:00",
+        "title": "Futbol",
+        "subtitle": "Barça Atlètic-CE Sabadell / Copa Catalunya / Final",
+        "description": "Final de la Copa Catalunya a la Nova Creu Alta. En el precedent de fa deu anys, entre aquests dos rivals, els arlequinats es van endur el títol. Amb la narració de Jordi Sunyer.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/0/1771252757404.jpg"
       },
       {
-        "start": "2026-09-03T02:21:05+02:00",
-        "stop": "2026-09-03T02:40:53+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "start": "2026-09-03T04:34:09+02:00",
+        "stop": "2026-09-03T06:16:59+02:00",
+        "title": "Tot Costa",
+        "subtitle": "El Barça tanca el mercat",
+        "description": "Analitzem la feina de Deco al mercat d'estiu amb Gerard Autet i Gemma Mallorca. Amb Ramon Salmurri i Laia Tudel, expliquem els últims moviments i amb la 'Caçatalents', Andrea Orts, analitzem els moviments més destacats del mercat global. També entrevistem la primera capitana del Barça femení, Patri Guijarro.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-03T01:25:18+02:00",
-        "stop": "2026-09-03T01:36:48+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Amb la mateixa moneda",
-        "description": "La Wendy demana la setmanada als pares i la Marine també en vol. Però la Wendy se'n burla: li diu que no és prou gran i que els diners no li durarien ni dos minuts. Ah, sí? La Marine pensa demostrar als pares que la Wendy és una autèntica malgastadora. Després de caure en les trampes de la seva germana, la Wendy li pensa pagar amb la mateixa moneda.",
+        "start": "2026-09-03T02:58:54+02:00",
+        "stop": "2026-09-03T03:21:07+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Protecció",
+        "description": "Als amics de la Marinette i l'Adrien se'ls acut un altre pla complicadíssim perquè es facin un petó. La Lila fa servir el seu talent per manipular la Kagami i la convenç que la Marinette és una mentidera que s'aprofita de l'amabilitat de tothom. La Kagami és akumatitzada i sorprèn la parella precisament en el moment en què l'Adrien havia aconseguit que la Marinette se sentís còmoda al seu costat. Aconseguiran les mentides tòxiques de la Lila espatllar l'amistat entre la Kagami, la Marinette i l'Adrien?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-03T01:36:48+02:00",
-        "stop": "2026-09-03T01:48:19+02:00",
-        "title": "Les Sisters",
-        "subtitle": "La Sister gamberra",
-        "description": "La Marine enxampa la Wendy robant-li maduixes. Per venjar-se'n li fa una foto on surt superempipada i l'envia a tothom que coneix. Quan la senyora Georgette veu la foto, es pensa que la Wendy és una gamberra. Adeu a la feineta que li havia promès. Ara la Marine ha de trobar la manera de millorar la imatge de la seva germana.",
+        "start": "2026-09-03T03:21:07+02:00",
+        "stop": "2026-09-03T03:43:19+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Adoració",
+        "description": "Quan escullen la Marinette i la Zoé per organitzar la festa de fi de curs, la Marinette s'assabenta que la Zoé està secretament enamorada d'algú de la seva classe. La Zoé diu que no en pot parlar, i per la Marinette això només pot voler dir una cosa: la Zoé està enamorada de l'Adrien! Però abans de poder esbrinar si té raó, una enemiga comuna de les noies intentarà espatllar la seva bonica amistat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-03T01:21:06+02:00",
-        "stop": "2026-09-03T02:19:27+02:00",
-        "title": "El petit príncep, el naixement d'una estrella",
-        "subtitle": "El Petit Príncep, el naixement d'una estrella.",
-        "description": "'El Petit Príncep, el naixement d'una estrella' (2023), una producció de BarnaBe Productions en coproducció amb Promenons-nous dans les bois, Les Films d'Ici Méditerranée, ARTE France i 3Cat, la col·laboració de RTVE i el suport de la regió Gran Est d'Estrasburg Eurométropole, en societat amb el CNC, de la regió Occitània – Pirineus Mediterrània, de la PROCIREP - Société des Producteurs, de l'ANGOA.Aquesta pel·lícula conta la història poc coneguda del naixement a Nova York, en plena Segona Guerra Mundial, del llibre més traduït després de la Bíblia.El documental recorre els últims quatre anys de l'extraordinària vida del pilot-escriptor Antoine Saint Exupery, entre el seu exili després de l'armistici francès en 1940 i la seva desaparició al juliol de 1944. Un període intens per a l'escriptor, en el qual es van barrejar les intrigues amoroses, polítiques i artístiques.Equip:Direcció: Vincent NguyenGuió: Vincent Nguyen & Jean-Louis MilesiRealització: Vincent NguyenProductor: Serge Lalou, Katia Pinzon Etienne Jaxell-Truer i Sophie CabonProductor executiu 3Cat: Cristina Muñoz ClotetProductor delegat 3Cat: Daniel Barea DelgadoMuntatge: Anthony SantoroDirector de producció: Ulrik FrémontMúsica: Anthony TouzalinGrafisme: Simon GrauVeu en off: Pep Antón Muñoz",
-        "genre": "DOCUMENTAL DE CREACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/4/1713779388740.jpg"
+        "start": "2026-09-03T03:11:21+02:00",
+        "stop": "2026-09-03T03:36:20+02:00",
+        "title": "Viure als Pirineus",
+        "subtitle": "Un arqueòleg dels Pirineus (Primavera - Estiu)",
+        "description": "Pèir Cóts és un arqueòleg historiador que s'ha passat al món de la hostaleria. És un canvi d'activitat radical i s'adona que és molt més absorbent del que es pensava. El dia a dia del negoci el porta a les feines bàsiques de planxar, fer llits, netejar i també a la gestió o la comptabilitat.En Pèir està orgullós de la seva casa rural, la casa Helipa al petit poble d'Arró, i sovint explica als clients que va utilitzar la seva experiència com a arqueòleg per restaurar-la, ja que estava abandonada des de feia 50 anys.Però en Pèir no s'acontenta fent només d'hostaler, sinó que ho aprofita per convertir-se també en un divulgador de la vida als Pirineus i de la història de la Vall d'Aran. Molt lligat a la recuperació del patrimoni aranès, ha participat en múltiples treballs de preservació de la llengua aranesa i del patrimoni arqueològic.En Pèir combina el dia a dia entre l'arqueologia i la seva pròpia història familiar i, malgrat la crisi econòmica o les diferents polítiques de restauració patrimonial, continua amb passió el camí que s'ha marcat.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-03T02:19:27+02:00",
-        "stop": "2026-09-03T02:45:13+02:00",
-        "title": "Viure als Pirineus",
-        "subtitle": "Una enòloga dels Pirineus (Tardor - Hivern)",
-        "description": "Fa fred i la tramuntana bufa de valent al cap de Creus, però això no espanta Anna Espelt, que aprofita l'hivern per promocionar els vins que elabora i la terra que els produeix. Aquest hivern, l'Anna ha de prendre una decisió molt important: com a empresària, pot elaborar tota la producció de vins ecològicament? El primer pas, però, és explicar-ho i convèncer la seva família aprofitant una petita festa insòlita a la vora del mar. Finalment, l'Anna ha preferit gaudir del mar i deixar per a més endavant oficialitzar el pas al cent per cent ecològic. Mentrestant, és al celler on l'Anna i el seu equip calibren el que comportaria passar la totalitat del cultiu de la vinya i l'elaboració de vins a ecològic. Malgrat les dificultats seria una decisió en harmonia amb el que ella creu, i l'Anna demana consell i complicitat a altres membres de la família.La sensibilitat per la terra de l'Anna la porta al peu de les vinyes per prendre la decisió més important de la seva vida com a empresària.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-03T03:36:20+02:00",
+        "stop": "2026-09-03T04:13:08+02:00",
+        "title": "La Mar de Bé",
+        "subtitle": "Pare Trias",
+        "description": "Al port de Blanes, en Quim Casellas salparà amb en Lluís Trias, patró i armador del Pare Trias, que convidarà al presentador i xef a viure l'experiència de pescar sonsos i conèixer l'art de la sonsera. Coneixerà en 'Viñas, el dels nusos', un pescador jubilat que ha dedicat tota la seva vida a la pesca. També descobrirà la tasca de l'espai gastronòmic El Grenyal de Blanes, on aprofitarà per cuinar una truita de sonsos amb romesco suau. ",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
