@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-04T10:25:50.294262+00:00",
+  "updated": "2026-09-04T14:28:02.424756+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,101 +43,101 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-04T12:00:00+02:00",
-        "stop": "2026-09-04T12:58:45+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-04T16:24:39+02:00",
+        "stop": "2026-09-04T17:03:24+02:00",
+        "title": "La Riera",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "Avui és el dia del casament i els auguris no són especialment bons, ara com ara. En Lluís, amb l'ajuda d'en Joan, demostra a en Raimon que també sap jugar fort. A casa de la Maribel, la procedència dels diners que van servir per ingressar en Quique crea problemes entre l'Ona i en Daniel. L'Anna vol parlar amb la Maribel. La Sònia aconsegueix que la noia accepti.",
+        "genre": "TELENOVEL·LA",
+        "image": ""
       },
       {
-        "start": "2026-09-04T12:58:45+02:00",
-        "stop": "2026-09-04T13:19:42+02:00",
-        "title": "Cuines",
-        "subtitle": "Pasta amb mini mandonguilles",
-        "description": "El 'Cuines' torna amb el rebost ple de receptes. Una temporada més, el programa obre fogons i esmola ganivets per compartir amb tota l'audiència les propostes d'en Marc Ribas i la Gessamí Caramés... i aquest any, també, de l'Arnau París. La família del 'Cuines' s'ha amplicat i el seu ventall de receptes, també. A la cuina amb rock'n'roll d'en Marc, i a la cuina dolça de la Gessa… s'hi afegeix la cuina pim-pam de l'Arnau. Un pim-pam que vol donar idees per a quan es té poc temps però es vol menjar bé. Això sí, tots tres tenen en comú les ganes de cuinar, d'entretenir i d'explicar tots els seus secrets a l'hora de preparar les elaboracions. Al 'Cuines' hi trobarem de tot: receptes de xup-xup, receptes pim-pam, receptes atrevides, clàssics tradicionals, clàssics reversionats… i tot elaborat, com sempre, amb productes de temporada. Ens mourem pel territori per posar en valor la figura d'agricultors, ramaders i productors. I ensenyarem d'on venen alguns productes sense els quals la cuina no seria possible.  El programa seguirà compartint-ho tot a les xarxes socials: Twitter, Facebook i Instagram. I la música que hi sona? Doncs a Spotify. I cada dia s'amplia receptari a la pàgina web del 'Cuines'. Totes les receptes, a cop de clic.",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-09-04T17:03:24+02:00",
+        "stop": "2026-09-04T17:26:45+02:00",
+        "title": "Marcians",
+        "subtitle": "Quan la vida travessa el circ.",
+        "description": "Com la vida canvia o afecta les circumstàncies en què treballen els artistes de circ? Com afecta el pas dels anys als veterans Bet Miralta i Jordi Aspa (Escarlata), com la maternitat va condicionar les finlandeses Lotta & Stina o com el compromís polític ha afectat el jove Alexandre Duran? Tots ells han estat protagonistes de la Fira Trapezi de Reus, que enguany ha bufat 30 espelmes. En el cas d'Alexandre Duran, anar a una manifestació en favor de Palestina li va costar una agressió policial amb el resultat d'un braç trencat i l'impediment d'estrenar el seu primer muntatge en solitari quan ho tenia previst. 'Ínsula', que parla de la solitud de l'ésser humà, s'ha estrenat al Trapezi de Reus i es podrà veure també al Festival Grec.Bet Miralta i Jordi Aspa, els Escarlata, també han viscut molts canvis en la seva vida que han afectat la forma en què fan circ. Amb el pas dels anys han deixat de banda la doma d'animals i les acrobàcies i han passat a fer creacions on interactuen més amb el públic i on destaca per damunt de tot la relació humana. El seu últim espectacle, 'Ròdols i cigrons', també ha passat pel Trapezi.Lotta Paavilainen i Stina Kopra són dues artistes de circ finlandeses que viuen a Catalunya des del 2012 i són l'única parella femenina del món especialitzada en rola-bola (l'equilibri damunt d'una fusta que es belluga sobre un rodet de goma). En el seu espectacle '20 Years Later. Still Here!' repassen dues dècades d'amistat i treball juntes i tota una sèrie de circumstàncies que les han fet més fortes. L'espectacle és una autoficció en què expliquen detalls tan personals com l'embaràs de la Lotta i com va afectar aquesta circumstància els equilibris que implica la seva especialitat de circ.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-04T12:00:00+02:00",
-        "stop": "2026-09-04T14:00:00+02:00",
+        "start": "2026-09-04T14:30:00+02:00",
+        "stop": "2026-09-04T16:30:00+02:00",
+        "title": "Telenotícies migdia",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+      },
+      {
+        "start": "2026-09-04T16:30:00+02:00",
+        "stop": "2026-09-04T17:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-09-04T14:00:00+02:00",
-        "stop": "2026-09-04T14:30:00+02:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-04T12:30:10+02:00",
-        "stop": "2026-09-04T13:20:25+02:00",
-        "title": "Futbol",
-        "subtitle": "Sorteig fase lliga",
-        "description": "El Barça, campió vigent i guanyador de quatre títols en les sis últimes temporades, coneix les rivals d'aquest nou curs a la gran competició europea femenina de futbol.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"
+        "start": "2026-09-04T16:16:42+02:00",
+        "stop": "2026-09-04T17:05:00+02:00",
+        "title": "Vida",
+        "subtitle": "Els reptes de la vida",
+        "description": "Us presentem les coses més extraordinàries que han de fer plantes i animals per tal de sobreviure i reproduir-se. Veurem imatges increïbles, captades a 1.000 fotogrames per segon: caputxins que obren els fruits de la palmera amb 'martells' de pedra, hipopòtams catapultant-se a l'aire des de l'aigua i camaleons robant la presa d'una teranyina. Acompanyarem els esprints dels guepards quan aquests fan pinya per tombar estruços, veurem dofins formant cercles perfectes de llim per atrapar peixos i nedarem amb una foca que lluita per escapolir-se de l'atac d'unes orques entre el gel de l'Antàrtida.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-04T13:20:25+02:00",
-        "stop": "2026-09-04T14:26:37+02:00",
-        "title": "Esport Club",
-        "subtitle": "",
-        "description": "En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-04T17:05:00+02:00",
+        "stop": "2026-09-04T17:30:16+02:00",
+        "title": "Catalunya salvatge",
+        "subtitle": "La selva humida",
+        "description": "'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-04T12:19:48+02:00",
-        "stop": "2026-09-04T12:32:19+02:00",
-        "title": "Ghost Rockers",
-        "subtitle": "",
-        "description": "La reina de trèvols s'ha fet passar per amiga de la Mila i s'ha emportat en Samuel, el nebot d'en Brandon. Per sort, no li ha passat res, però la Mila ha entès l'avís. Sembla que la reina de trèvols vol que els Ghost Rockers busquin un objecte que hi ha al soterrani de l'arxiu bibliogràfic. Mentrestant, en Jonas està sorprès perquè l'han aparellat amb la Mila per a una actuació quan han de presentar a classe. ",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "start": "2026-09-04T16:22:39+02:00",
+        "stop": "2026-09-04T16:43:49+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Un superviatge a Versalles (2a part)",
+        "description": "La investigació d'un robatori en una cambra secreta de París ha fet que les Espies descobrissin que algú havia robat una clau molt especial en una cambra cuirassada, una clau que podria activar unes estàtues vivents i permetre que el malvat Auguste s'apoderi de Versalles, per acabar, a la llarga, dominant fins a l'últim racó de tot el planeta!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-09-04T12:32:19+02:00",
-        "stop": "2026-09-04T12:54:04+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Octopus Kratticus",
-        "description": "L'Aviva ha enviat en Chris i en Martin a recuperar el Vestit de Poders Animals que han perdut en una fossa de l'Àrtic amb el Robopop, un supersubmarí inspirat en el món animal. Allà es trobaran amb el Set, un animal que d'entrada sembla una espècie de pop nova, però que ben aviat s'adonaran que té molts cops amagats. Què deu ser?!",
+        "start": "2026-09-04T16:43:49+02:00",
+        "stop": "2026-09-04T17:04:29+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Uns nois de somni",
+        "description": "En Terence, després d'haver alliberat tot d'antics malfactors capturats per les nostres heroïnes, els ha reunit al seu cau secret per proposar-los que uneixin les seves males arts per acabar de totes totes amb la WOOHP. La Sam, la Clover i l'Alex, però, salten d'alegria. Totes tres han conegut el noi dels seus somnis i, per si fos poc, són trigèmins! Sospitós, oi…?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
     ],
     "c33": [
       {
-        "start": "2026-09-04T12:01:30+02:00",
-        "stop": "2026-09-04T12:35:00+02:00",
-        "title": "Tot o res",
-        "subtitle": "",
-        "description": "'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.",
-        "genre": "CONCURS",
+        "start": "2026-09-04T16:01:26+02:00",
+        "stop": "2026-09-04T16:46:48+02:00",
+        "title": "Arxipèlag blau",
+        "subtitle": "Costa rocosa",
+        "description": "En aquest capítol d''Arxipèlag blau' recorrerem les costes rocoses, des de la part emergida on crien corbs marins i virots, fins als fons coral·lígens. Miquel Salamanca ens presentarà aquest món acolorit i divers. Als primers metres hi trobem les criatures adaptades al moviment continu de l'aigua a la vorera, com els peixos de la família dels blènnids, pegellides, crancs, anemones i gambetes. Als fons de roca les espècies i comunitats van canviant a mesura que ens endisem i varia la llum i la temperatura. Coneixerem com es reprodueixen peixos com els tords, els fadrins, les tutes o els anfosos. Unes imatges úniques ens mostraran les diverses estratègies que tenen els depredadors, com els déntols, anfosos, sirvioles, palomides, espets, tonyines, virots..., per capturar els bancs de peixos petits com els gerrets, les bogues o les sardines. Per finalitzar, ens endinsarem a les aigües de la reserva marina i parc natural de Llevant amb Gàdor Muntaner, guiada pel fotògraf i documentalista Agustí Torres, gran coneixedor d'aquest espai i membre de l'equip d''Arxipèlag blau'.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-04T12:35:00+02:00",
-        "stop": "2026-09-04T13:34:57+02:00",
-        "title": "Atrapa'm si pots - Especials",
-        "subtitle": "Atrapa'm si pots - estiu",
-        "description": "",
-        "genre": "CONCURS",
+        "start": "2026-09-04T16:46:48+02:00",
+        "stop": "2026-09-04T17:21:14+02:00",
+        "title": "Arxipèlag blau",
+        "subtitle": "Passat, present i futur",
+        "description": "El darrer capítol d''Arxipèlag blau' està dedicat als canvis que ha patit la nostra mar i a plantejar propostes per aturar la seva degradació, conservar les seves espècies i hàbitats. Miquel Salamanca ens presentarà el testimoni de pescadors que varen conèixer espècies avui desaparegudes, científics i experts que han estudiat els impactes al medi marí i plantegen propostes de recuperació. Enric Ballesteros, Xisco Riera, Lluís Cardona, Xisco Avellà, Miguel Ángel Mateo i Marta Sales ens parlaran de la desaparició dels taurons a les nostres aigües, dels impactes de l'activitat pesquera, la desaparició dels hàbitats d'aigües somes, l'extinció del vell marí, la introducció d'espècies invasores, l'alteració dels ecosistemes i l'amenaça global que suposa el canvi climàtic. Tot això amb una crida a l'esperança i la responsabilitat per aplicar mesures de conservació a la mar, les seves espècies i hàbitats i poder deixar així a les següents generacions el meravellós món marí del qual nosaltres hem pogut gaudir. La seva salut depèn de nosaltres i del que fem a partir d'ara.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
