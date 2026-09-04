@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-04T19:53:51.734611+00:00",
+  "updated": "2026-09-04T22:02:28.078801+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-04T21:00:00+02:00",
-        "stop": "2026-09-04T22:05:43+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "start": "2026-09-04T23:38:04+02:00",
+        "stop": "2026-09-05T01:05:56+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Sica",
+        "description": "SICAProducció d'Alba Sotorra, Miramemira, Zuzú Cinema, Amorambre Films i Filmmarket Fund, amb el suport de l'ICEC, AGADIC, l'ICAA i la participació de TVE, CRTVG, TV3 i Creative Europe MEDIA Program. Direcció i guió Carla SubiranaDirecció de fotografia Mauro HerceDirecció de fotografia (2a unitat) Anna MolinsCompositor Xavi FontIntèrprets: Thais García Blanco (Sica), Núria Prims (Carmen), Marco Antonio Florido Añón (Suso), María Villaverde Ameijeiras (Leda), Lois Soaxe (El Portugues)Sinopsi:La Sica (14) està obsessionada que el mar torni el cos del seu pare després d'un naufragi a la Costa da Morte, Galícia. Mentre recorre els penya-segats, coneix a en Suso (15), el Caçatempestes, un noi estrany com ella que espera l'arribada d'Ofèlia, la mare de totes les tempestes. Sica investiga les circumstàncies de l'accident i s'endinsa en un viatge descobriment dolorós. Als seus ulls, el poble mariner, on ella ha crescut, marcat per la brutalitat del seu oceà i el creixent desequilibri de la Natura, no tornarà a ser mai el mateix.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       },
       {
-        "start": "2026-09-04T22:00:38+02:00",
-        "stop": "2026-09-04T22:25:09+02:00",
-        "title": "Després de tu",
-        "subtitle": "El wifi",
-        "description": "En Pau converteix la solució a un problema domèstic amb el wifi en una odissea, cosa que provarà que és un pare de família efectiu i capaç. Quan aconsegueix resoldre el problema, recupera l'autoestima i l'ànim, però llavors veu un vídeo familiar antic que fa que, per primera vegada, s'enfonsi emocionalment davant dels seus",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-05T01:05:56+02:00",
+        "stop": "2026-09-05T01:57:08+02:00",
+        "title": "Documental",
+        "subtitle": "Cinema mon amour",
+        "description": "'Cinema mon amour' (2018), una producció de MARTIN PIÑOL amb la col·laboració de Televisió de Catalunya.Colpida pel tancament d'un cinema, una jove directora decideix investigar si les sales de Barcelona tenen els dies comptats. Durant els set anys de gravació del documental, entrarà en el món tancat de l'exhibició catalana, assistirà a la transformació d'aquest art i negoci i viurà experiències irrepetibles a les entranyes de molts cinemesEl documental Cinema Mon Amour és una crònica viscuda en primera persona sobre la pèrdua dels cinemes de Barcelona i del 35mm com a suport d'exhibició i també de la resistència i renaixement d'unes quantes sales supervivents.Direcció: Natàlia RegàsGuió: Natàlia Regàs i Eloi TomàsRealització: Natàlia RegàsProductor: Martín PiñolProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Jordi Mas, Daniel BareaDirector fotografia: Natàlia RegàsMuntatge: Roser Segura, Eloi Tomàs (Ammac)Director de producció: Natàlia Regàs i Martín PiñolMúsica: Aritz VillodasLingüista: Judit Terrats CortiellaGrafisme: Francesc Fernàndez",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-04T21:00:00+02:00",
-        "stop": "2026-09-04T23:00:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
         "start": "2026-09-04T23:00:00+02:00",
         "stop": "2026-09-05T00:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-05T00:30:00+02:00",
+        "stop": "2026-09-05T01:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-04T20:25:00+02:00",
-        "stop": "2026-09-04T22:37:09+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Ratiopharm Ulm-iLerna Lleida / Torneig Sant Julià",
-        "description": "Segona jornada del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
+        "start": "2026-09-04T22:59:58+02:00",
+        "stop": "2026-09-05T00:30:41+02:00",
+        "title": "Onze",
+        "subtitle": "Qui és més fort? Post Betis-Madrid i 'La Clau Delmàs'",
+        "description": "Carles Fité, Irati Vidal, David Ibáñez i Núria Casas analitzen el mercat de fitxatges de Barça i Madrid i el partit entre el Betis i el Madrid. L'Àlex Delmàs dona algunes claus del partit entre el València i el Barça.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-04T22:37:09+02:00",
-        "stop": "2026-09-04T23:00:00+02:00",
-        "title": "Zona Zàping Club",
-        "subtitle": "Llucià Ferrer s'enfronta al repte més viral de l'estiu, amb pizza inclosa!",
-        "description": "El presentador entra al joc d''Això acaba...' i descobreix que endevinar finals és molt més difícil del que sembla.",
-        "genre": "ESPECIALS",
-        "image": ""
+        "start": "2026-09-05T00:30:41+02:00",
+        "stop": "2026-09-05T00:51:42+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-04T21:41:04+02:00",
-        "stop": "2026-09-04T22:03:38+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "En Goku es desperta. Podrà superar la força dels superguerrers?",
-        "description": "En Cèl·lula continua sembrant el pànic per allà on passa amb l'únic objectiu d'absorbir l'A-17 i l'A-18 per arribar a la seva forma perfecta. Mentrestant, en Son Goku es recupera de la seva malaltia i entén que l'única manera de resoldre aquesta crisi és entrenar-se fins al punt de superar la força dels superguerrers, igual que en Vegeta.",
+        "start": "2026-09-04T23:44:07+02:00",
+        "stop": "2026-09-05T00:05:08+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "La noguera blanca",
+        "description": "Els membres de l'equip Kratt topen amb un plançó de noguera blanca, un arbre molt escàs i en perill d'extinció. Mentre busquen l'arbre progenitor, van trobant altres nogueres malaltes o mortes, víctimes d'un fong. Finalment, troben una noguera sana i, a partir del seu ADN, investigaran la manera d'ajudar els arbres malalts. Mentrestant, el Martin prova un vestit de poder de noguera blanca i viurà tota una aventura.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-04T22:03:38+02:00",
-        "stop": "2026-09-04T22:23:18+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "L'ombra que s'acosta a en Toru Amuro",
-        "description": "Tot esmorzant al Cafè Poirot, en Conan observa un client que li sembla sospitós. De seguida s'adona que té un interès especial per en Toru Amuro. Els seus amics de la Lliga de Detectius Júnior l'ajuden a investigar-ho i en Conan l'hi acaba explicant a en Toru abans que el sospitós pugui passar a l'acció. Però en Toru demostrarà la seva generositat i la seva professionalitat a l'hora de fer la feina que li serveix de tapadora.",
+        "start": "2026-09-05T00:05:08+02:00",
+        "stop": "2026-09-05T00:26:08+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "La mare cocodril",
+        "description": "En Chris i en Martin estan decidits a demostrar a l'Aviva que el gran cocodril del Nil africà, un dels més grossos del món, a més d'espantar una mica, també sap fer altres coses. Ho faran miniaturitzant-se, disfressant-se d'ous de cocodril i ficant-se al niu de la mare cocodril! Ben aviat sabrem que no és veritat que sempre es volen cruspir tot el que troben! Oi?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-04T21:35:58+02:00",
-        "stop": "2026-09-04T21:58:06+02:00",
-        "title": "Plats bruts",
-        "subtitle": "Tinc mètode",
-        "description": "A l'Institut del Teatre arriba un professor estranger que crea polèmica entre els alumnes pels seus peculiars mètodes... El Pol s'hi enfronta, mentre que al David l'entusiasma. D'altra banda, la Carbonell i el Lopes troben el diari íntim de l'Emma i decideixen llegir-lo...",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "start": "2026-09-04T23:35:54+02:00",
+        "stop": "2026-09-05T00:28:31+02:00",
+        "title": "Llocs recòndits",
+        "subtitle": "Turquia",
+        "description": "'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-04T21:58:06+02:00",
-        "stop": "2026-09-04T22:49:41+02:00",
-        "title": "La Renaixença",
-        "subtitle": "Millors moments - setmana 1",
-        "description": "Aquesta setmana parlem de la xineta, de la radiografia, del tallagespa i del pinzell. És impossible dir-vos quin és el millor, de manera que haureu de veure tots els episodis i decidir segons el vostre criteri. També parlem amb un músic i poeta com és en Guillem Ramisa, una sardanista com és la Nàdia Cordó, un actor com és l'Ernest Villegas, i un esquilador d'ovelles com és l'Andreu Castellà. Com? Que un esquilador d'ovelles entre tant d'artista no us esperàveu? I qui us ha dit que esquilar una ovella no és un art, eh! ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-09-05T00:28:31+02:00",
+        "stop": "2026-09-05T01:18:56+02:00",
+        "title": "El gran camí",
+        "subtitle": "El Camí de Sant Jaume",
+        "description": "El camí de Santiago és la ruta de pelegrinatge més important d'Europa. L'han fet milions de persones durant segles per arribar fins a Santiago de Compostel·la i Fisterra (la fi del món), a Espanya. ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
