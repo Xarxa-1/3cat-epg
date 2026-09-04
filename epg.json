@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-04T17:42:57.977398+00:00",
+  "updated": "2026-09-04T19:53:51.734611+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-04T19:23:26+02:00",
-        "stop": "2026-09-04T19:55:12+02:00",
-        "title": "Moments APM?",
+        "start": "2026-09-04T21:00:00+02:00",
+        "stop": "2026-09-04T22:05:43+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Estàs de vacances i se't possa cara de pastanaga bullida només de pensar que hauràs d'aguantar dos mesos sense el teu programa preferit? Arriba 'APM?, el Multivers de l'estiu'. Durant juliol i agost TV3 emetrà un recull dels millors moments que s'han emès aquesta última temporada. Al loro! No et perdis els vídeos més divertits de la vint-i-unena temporada amb Nerea Sanfe, Joel Díaz, i tots els teus personatges preferits de l''APM?' #APM3CAT",
-        "genre": "TELEVISIÓ SOBRE TELEVISIÓ",
-        "image": "https://deliverty1.3cat.cat/deliverty/ccrtvi/resources/jpg/8/6/1784831816768.jpg"
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-09-04T19:55:12+02:00",
-        "stop": "2026-09-04T21:00:00+02:00",
-        "title": "Atrapa'm si pots, estiu",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "start": "2026-09-04T22:00:38+02:00",
+        "stop": "2026-09-04T22:25:09+02:00",
+        "title": "Després de tu",
+        "subtitle": "El wifi",
+        "description": "En Pau converteix la solució a un problema domèstic amb el wifi en una odissea, cosa que provarà que és un pare de família efectiu i capaç. Quan aconsegueix resoldre el problema, recupera l'autoestima i l'ànim, però llavors veu un vídeo familiar antic que fa que, per primera vegada, s'enfonsi emocionalment davant dels seus",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-04T18:30:00+02:00",
-        "stop": "2026-09-04T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-04T21:00:00+02:00",
+        "stop": "2026-09-04T23:00:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-09-04T20:00:00+02:00",
-        "stop": "2026-09-04T21:00:00+02:00",
+        "start": "2026-09-04T23:00:00+02:00",
+        "stop": "2026-09-05T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,77 +83,67 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-04T19:28:19+02:00",
-        "stop": "2026-09-04T20:25:00+02:00",
-        "title": "Tot Costa",
-        "subtitle": "Puyal, 50 ",
-        "description": "El 5 de setembre es compleixen 50 anys de la primera transmissió radiofònica en català. Ho celebrarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. Amb Ramon Salmurri explicarem com està De Jong i amb Laia Tudel tindrem l'última hora de l'Assemblea. Marta Corredera ens analitzarà el sorteig del Barça femení a la Champions i entrevistarem el segon capità del Barça de bàsquet, Joel Parra.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
-      },
-      {
         "start": "2026-09-04T20:25:00+02:00",
-        "stop": "2026-09-04T22:27:05+02:00",
+        "stop": "2026-09-04T22:37:09+02:00",
         "title": "Bàsquet",
         "subtitle": "Ratiopharm Ulm-iLerna Lleida / Torneig Sant Julià",
         "description": "Segona jornada del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
+      },
+      {
+        "start": "2026-09-04T22:37:09+02:00",
+        "stop": "2026-09-04T23:00:00+02:00",
+        "title": "Zona Zàping Club",
+        "subtitle": "Llucià Ferrer s'enfronta al repte més viral de l'estiu, amb pizza inclosa!",
+        "description": "El presentador entra al joc d''Això acaba...' i descobreix que endevinar finals és molt més difícil del que sembla.",
+        "genre": "ESPECIALS",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-04T19:32:28+02:00",
-        "stop": "2026-09-04T19:55:05+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla Voladora",
-        "description": "La Patrulla Peluda s'enlaira a bord d'un vehicle nou, el Patrullavió! I el podran estrenar de seguida per salvar en François i el capità Turbot, que han quedat atrapats en una illa amb uns micos després de l'erupció d'un volcà.",
+        "start": "2026-09-04T21:41:04+02:00",
+        "stop": "2026-09-04T22:03:38+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "En Goku es desperta. Podrà superar la força dels superguerrers?",
+        "description": "En Cèl·lula continua sembrant el pànic per allà on passa amb l'únic objectiu d'absorbir l'A-17 i l'A-18 per arribar a la seva forma perfecta. Mentrestant, en Son Goku es recupera de la seva malaltia i entén que l'única manera de resoldre aquesta crisi és entrenar-se fins al punt de superar la força dels superguerrers, igual que en Vegeta.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-04T19:55:05+02:00",
-        "stop": "2026-09-04T20:17:52+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "El caçador de criatures cruels",
-        "description": "A Singapur s'ha posat de moda un videojoc sobre criatures monstruoses i la Zerlina adverteix les espies que la ciutat és plena de criatures cruels que ataquen la gent. Es tracta d'una casualitat o les criatures del videojoc han saltat al món real? La Sam, l'Alex i la Clover han de resoldre el misteri amb tot de material d'última tecnologia que els ha preparat el company Toby.",
+        "start": "2026-09-04T22:03:38+02:00",
+        "stop": "2026-09-04T22:23:18+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "L'ombra que s'acosta a en Toru Amuro",
+        "description": "Tot esmorzant al Cafè Poirot, en Conan observa un client que li sembla sospitós. De seguida s'adona que té un interès especial per en Toru Amuro. Els seus amics de la Lliga de Detectius Júnior l'ajuden a investigar-ho i en Conan l'hi acaba explicant a en Toru abans que el sospitós pugui passar a l'acció. Però en Toru demostrarà la seva generositat i la seva professionalitat a l'hora de fer la feina que li serveix de tapadora.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+        "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-04T19:09:32+02:00",
-        "stop": "2026-09-04T20:08:35+02:00",
-        "title": "Els caps de setmana llargs d'en Rick Stein",
-        "subtitle": "Viena",
-        "description": "En aquest episodi, en Rick Stein visita Viena, l'epicentre de l'Imperi austrohongarès i la ciutat que dóna nom a un dels plats més populars d'Europa, el 'wiener schnitzel'. En Rick també tastarà plats reconfortants com el 'tafelspitz' o el 'gulasch', s'endinsarà en la cultura dels cafès vienesos i es deixarà temptar per delícies dolces com el pastís 'sacher'. No es perdrà la pintura de Klimt ni tampoc la música en directe de Strauss. I, a Padstow, ens farà una amanida d'areng i patata, un 'strudel' de poma i un 'gulasch' deliciós.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-04T21:35:58+02:00",
+        "stop": "2026-09-04T21:58:06+02:00",
+        "title": "Plats bruts",
+        "subtitle": "Tinc mètode",
+        "description": "A l'Institut del Teatre arriba un professor estranger que crea polèmica entre els alumnes pels seus peculiars mètodes... El Pol s'hi enfronta, mentre que al David l'entusiasma. D'altra banda, la Carbonell i el Lopes troben el diari íntim de l'Emma i decideixen llegir-lo...",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       },
       {
-        "start": "2026-09-04T20:08:35+02:00",
-        "stop": "2026-09-04T20:59:18+02:00",
-        "title": "El gran camí",
-        "subtitle": "El Camí del Kumano",
-        "description": "Viatgem est enllà per descobrir el Kumano Kodo, una antiga ruta de pelegrinatge que travessa les muntanyes sagrades i els temples de Kumano, a la península de Kii, i que ens porta pel Japó antic i rural mitjançant un camí espiritual de purificació.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-04T21:58:06+02:00",
+        "stop": "2026-09-04T22:49:41+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 1",
+        "description": "Aquesta setmana parlem de la xineta, de la radiografia, del tallagespa i del pinzell. És impossible dir-vos quin és el millor, de manera que haureu de veure tots els episodis i decidir segons el vostre criteri. També parlem amb un músic i poeta com és en Guillem Ramisa, una sardanista com és la Nàdia Cordó, un actor com és l'Ernest Villegas, i un esquilador d'ovelles com és l'Andreu Castellà. Com? Que un esquilador d'ovelles entre tant d'artista no us esperàveu? I qui us ha dit que esquilar una ovella no és un art, eh! ",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
     "oca2": [],
-    "oca3": [
-      {
-        "start": "2026-09-04T19:00:00+02:00",
-        "stop": "2026-09-04T20:29:55+02:00",
-        "title": "Tot Costa",
-        "subtitle": "",
-        "description": "El 5 de setembre es compleixen 50 anys de la primera transmissió radiofònica en català. Ho celebrarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. Amb Ramon Salmurri explicarem com està De Jong i amb Laia Tudel tindrem l'última hora de l'Assemblea. Marta Corredera ens analitzarà el sorteig del Barça femení a la Champions i entrevistarem el segon capità del Barça de bàsquet, Joel Parra.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
-      }
-    ],
+    "oca3": [],
     "oca4": []
   }
 }
