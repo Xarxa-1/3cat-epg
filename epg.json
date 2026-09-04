@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-04T05:52:32.756471+00:00",
+  "updated": "2026-09-04T10:25:50.294262+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-04T07:00:01+02:00",
-        "stop": "2026-09-04T10:00:00+02:00",
+        "start": "2026-09-04T12:00:00+02:00",
+        "stop": "2026-09-04T12:58:45+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-04T10:00:00+02:00",
-        "stop": "2026-09-04T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-04T12:58:45+02:00",
+        "stop": "2026-09-04T13:19:42+02:00",
+        "title": "Cuines",
+        "subtitle": "Pasta amb mini mandonguilles",
+        "description": "El 'Cuines' torna amb el rebost ple de receptes. Una temporada més, el programa obre fogons i esmola ganivets per compartir amb tota l'audiència les propostes d'en Marc Ribas i la Gessamí Caramés... i aquest any, també, de l'Arnau París. La família del 'Cuines' s'ha amplicat i el seu ventall de receptes, també. A la cuina amb rock'n'roll d'en Marc, i a la cuina dolça de la Gessa… s'hi afegeix la cuina pim-pam de l'Arnau. Un pim-pam que vol donar idees per a quan es té poc temps però es vol menjar bé. Això sí, tots tres tenen en comú les ganes de cuinar, d'entretenir i d'explicar tots els seus secrets a l'hora de preparar les elaboracions. Al 'Cuines' hi trobarem de tot: receptes de xup-xup, receptes pim-pam, receptes atrevides, clàssics tradicionals, clàssics reversionats… i tot elaborat, com sempre, amb productes de temporada. Ens mourem pel territori per posar en valor la figura d'agricultors, ramaders i productors. I ensenyarem d'on venen alguns productes sense els quals la cuina no seria possible.  El programa seguirà compartint-ho tot a les xarxes socials: Twitter, Facebook i Instagram. I la música que hi sona? Doncs a Spotify. I cada dia s'amplia receptari a la pàgina web del 'Cuines'. Totes les receptes, a cop de clic.",
+        "genre": "CUINA",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-04T07:00:00+02:00",
-        "stop": "2026-09-04T10:00:00+02:00",
+        "start": "2026-09-04T12:00:00+02:00",
+        "stop": "2026-09-04T14:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-04T10:00:00+02:00",
-        "stop": "2026-09-04T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-04T14:00:00+02:00",
+        "stop": "2026-09-04T14:30:00+02:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-04T06:40:25+02:00",
-        "stop": "2026-09-04T08:10:34+02:00",
-        "title": "Onze",
-        "subtitle": "Mou, llop amb pell de xai; Ferran Torres parla del Barça i 'El consultori'",
-        "description": "David Bernabeu, Víctor Lozano, Laia Tudel i Fernando Polo analitzen el canvi de to de Mourinho a les rodes de premsa i les declaracions de Ferran Torres. El Sergi Ferrer respon les preguntes dels espectadors inquiets de l'Onze.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-04T12:30:10+02:00",
+        "stop": "2026-09-04T13:20:25+02:00",
+        "title": "Futbol",
+        "subtitle": "Sorteig fase lliga",
+        "description": "El Barça, campió vigent i guanyador de quatre títols en les sis últimes temporades, coneix les rivals d'aquest nou curs a la gran competició europea femenina de futbol.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"
       },
       {
-        "start": "2026-09-04T08:10:34+02:00",
-        "stop": "2026-09-04T10:00:05+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Asisa Joventut-Kids&Us Manresa / Torneig Sant Julià",
-        "description": "Partit inaugural del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
+        "start": "2026-09-04T13:20:25+02:00",
+        "stop": "2026-09-04T14:26:37+02:00",
+        "title": "Esport Club",
+        "subtitle": "",
+        "description": "En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-04T07:45:19+02:00",
-        "stop": "2026-09-04T07:56:19+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "El bromista escarmentat",
-        "description": "El Presumit està fart de les brometes pesades del Bromista i, amb l'ajuda de dos barrufets més, li prepara una gran capsa-bomba que inclou un ingredient secret que té amagat el Gran Barrufet. Quan la capsa explota, comencen a aparèixer pel poble tot de minibarrufets bromistes que acaben amargant a tothom amb les seves bretolades. El Gran Barrufet ordena al Presumit i al Bromista que posin remei a la situació.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-04T12:19:48+02:00",
+        "stop": "2026-09-04T12:32:19+02:00",
+        "title": "Ghost Rockers",
+        "subtitle": "",
+        "description": "La reina de trèvols s'ha fet passar per amiga de la Mila i s'ha emportat en Samuel, el nebot d'en Brandon. Per sort, no li ha passat res, però la Mila ha entès l'avís. Sembla que la reina de trèvols vol que els Ghost Rockers busquin un objecte que hi ha al soterrani de l'arxiu bibliogràfic. Mentrestant, en Jonas està sorprès perquè l'han aparellat amb la Mila per a una actuació quan han de presentar a classe. ",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-09-04T07:56:19+02:00",
-        "stop": "2026-09-04T08:07:22+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "Ningú no és barrufecte",
-        "description": "El Forçut i el Poruc estan fent neteja a casa del Gran Barrufet i, sense voler, li trenquen el telescopi. Com que tenen tanta por de la seva reacció, es disfressen de noia amb roba que la Barrufeta té a l'estenedor. Tots els barrufets s'empassen que són noies i fins i tot el Gran Barrufet convenç la Barrufeta perquè les aculli a casa seva per passar la nit.",
+        "start": "2026-09-04T12:32:19+02:00",
+        "stop": "2026-09-04T12:54:04+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Octopus Kratticus",
+        "description": "L'Aviva ha enviat en Chris i en Martin a recuperar el Vestit de Poders Animals que han perdut en una fossa de l'Àrtic amb el Robopop, un supersubmarí inspirat en el món animal. Allà es trobaran amb el Set, un animal que d'entrada sembla una espècie de pop nova, però que ben aviat s'adonaran que té molts cops amagats. Què deu ser?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-04T07:20:08+02:00",
-        "stop": "2026-09-04T07:51:55+02:00",
-        "title": "Quèquicom",
-        "subtitle": "La forja del ganivet",
-        "description": "Com s'ha de mantenir i esmolar un ganivet? Què vol dir trempar el ferro? Anem de la bifaç de sílex als ganivets japonesos i les espases passant per la farga catalana, una innovació tècnica que va revolucionar la metal·lúrgia. Fina Brunet va a la Farga Rossell d'Andorra per saber què és la 'caixa dels vents', un dels secrets més ben guardats durant l'edat mitjana. Practica l'esgrima històric, forja un ganivet i visita un mercat per veure quina mena de ganivets pateixen més.L'evolució de les eines de tallDurant milions d'anys l'ésser humà va treballar les pedres per convertir-les en les eines de tall que necessitava, ja fos per menjar, caçar, defensar-se, o construir un lloc on habitar.L'evolució humana i les noves necessitats van portar cap a eines de tall més lleugeres i regulars i també a la recerca d'altres materials: bronze, coure, ferro i, finalment, l'acer, que es va convertir en un dels materials més desitjats, un recurs estratègic i de gran valor econòmic a l'antiguitat.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-04T12:01:30+02:00",
+        "stop": "2026-09-04T12:35:00+02:00",
+        "title": "Tot o res",
+        "subtitle": "",
+        "description": "'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.",
+        "genre": "CONCURS",
         "image": ""
       },
       {
-        "start": "2026-09-04T07:51:55+02:00",
-        "stop": "2026-09-04T08:40:53+02:00",
-        "title": "El Foraster",
-        "subtitle": "La Vall d'en Bas",
-        "description": "La Vall d'en Bas és una vall formada per set poblets i molts camps de conreu, on res és el que sembla. Allà, en Quim s'hi passarà 48 hores intenses. Tan intenses que arriba a l'estiu i acaba marxant per Nadal. A la Vall d'en Bas, el paisatge és d'allò més espectacular. Miris cap on miris, tot és un quadre per emmarcar. I els seus habitants semblen sortits d'una novel·la. Coneixerem a la riallera Pilar, una de les participants del concurs de dalles, sempre en conflicte amb la seva eterna rival, l'Antxoni, una basca que sega tot el que troba al seu camí. I a una velocitat increïble. També coneixerem la Janina, que busca parella, però té un problema: no sap exactament el tipus d'home que busca. Vol que sigui pagès però que no ho sembli. Ho aconseguirà?I no només aprendrem el valor de l'amistat amb el David i el seu gos 'Miki', sinó que també aprendrem amb ells un nou llenguatge. Ja veureu com sí que és veritat que els gossos ens entenen i que, fins i tot, n'hi ha alguns que saben sumar i restar. En Llorenç, el pastor pintor, ens ensenyarà a fer photoshop sense ordinador, i el Migueli, el professor d'aerobic, en demostrarà que als 60 anys encara és capaç de transformar-se en la Paulina Rubio.I per acabar, veurem, en ple mes d'estiu, l'estel de Nadal més gran del món il·luminant una de les valls més formoses del nostre principat. Una vall que, com els seus habitants, no us deixarà indiferent.",
-        "genre": "VARIETATS",
+        "start": "2026-09-04T12:35:00+02:00",
+        "stop": "2026-09-04T13:34:57+02:00",
+        "title": "Atrapa'm si pots - Especials",
+        "subtitle": "Atrapa'm si pots - estiu",
+        "description": "",
+        "genre": "CONCURS",
         "image": ""
       }
     ],
