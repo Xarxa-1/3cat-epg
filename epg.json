@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-05T11:57:06.651211+00:00",
+  "updated": "2026-09-05T14:42:32.424991+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,19 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-05T11:49:46+02:00",
-        "stop": "2026-09-05T14:29:55+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-05T15:36:02+02:00",
+        "stop": "2026-09-05T17:08:33+02:00",
+        "title": "La ratjada",
+        "subtitle": "La ratjada",
+        "description": "LA RATJADAProducció: Televisió de Catalunya i Alter Ego Films, 2008Direcció: Miguel Garcia BordaGuió: Manel BonanyDirector de fotografia: Jordi TortMúsica: Florenci FerrerIntèrprets: Lluis Soler (Marc Estella), Marta Bayarri (Inspectora Blasco), Xavier Serrat (Sargent Viladot), Miquel Garcia Borda (Nico Estella), Vicenta Ndongo (Mia Canoves), Pere Molina (Albert Argems), Pep Torrens (Morrut), Francesc Albiol (Narcis Domènec), Nina (Vicky Hernandez) i Ricard Sales (Roger Argems) A un antic poble pesquer actualment bolcat al turisme, apareixen uns dits humans en un restaurant. La investigació policial porta a sospitar de Marc Estella, un ex-convicte que ha tornat al poble després de passar 20 anys a la presó per assassinat. Aquest fet desferma una cadena de sospites i posa al descobert amors secrets, drames familiars i trames professionals i delictives fins aleshores ocultes en la comunitat. Res no és el que sembla. ",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
+      },
+      {
+        "start": "2026-09-05T17:08:33+02:00",
+        "stop": "2026-09-05T18:09:08+02:00",
+        "title": "Infidels",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "La Paula diu al Marc, el seu amant, que se sent feliç d'haver trobat l'amor de la seva vida. Les amigues coneixen el Marc, que els fa entendre que s'estima molt la Paula. La Joana està feta pols pel que ha passat amb el Francesc, però és capaç de comportar-se amb enteresa davant les amigues. La dona reconeix la Cecília, però decideix no dir-li res. L'Arlet li recomana que expliqui als nens tota la veritat. El Jesús explica al Robert que es va embolicar amb la Cruz. La Lídia aconsegueix finalment que el Toni torni a entrar a la teràpia. La psiquiatra es retroba amb el Rubén, un antic amor. L'Arlet convida la Dani a un sopar íntim.",
+        "genre": "TELESÈRIE",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-05T12:00:00+02:00",
-        "stop": "2026-09-05T14:30:00+02:00",
+        "start": "2026-09-05T16:30:00+02:00",
+        "stop": "2026-09-05T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,77 +72,87 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-05T14:30:00+02:00",
-        "stop": "2026-09-05T16:30:00+02:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-09-05T18:30:00+02:00",
+        "stop": "2026-09-05T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-05T13:25:04+02:00",
-        "stop": "2026-09-05T15:14:43+02:00",
+        "start": "2026-09-05T16:00:00+02:00",
+        "stop": "2026-09-05T17:48:28+02:00",
         "title": "Futbol sala",
-        "subtitle": "ElPozo Múrcia-Palma Futsal / Supercopa d'Espanya / 1a semifinal",
-        "description": "El Pozo Múrcia Costa Càlida i l'Illes Balears Palma Futsal disputen la primera semifinal de la Supercopa d'Espanya, que es juga al Palau Blaugrana. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.",
+        "subtitle": "Barça-Jaén FS / Supercopa d'Espanya / 2a semifinal",
+        "description": "Els blaugranes juguen a casa contra els andalusos la segona semifinal de la Supercopa d'Espanya. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius. ",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
       },
       {
-        "start": "2026-09-05T15:14:43+02:00",
-        "stop": "2026-09-05T15:30:00+02:00",
-        "title": "Sala de Premsa",
-        "subtitle": "Hansi Flick / Prèvia València-Barça / J4",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+        "start": "2026-09-05T17:48:28+02:00",
+        "stop": "2026-09-05T18:10:00+02:00",
+        "title": "E3D",
+        "subtitle": "Skate / Extreme Barcelona / Final masculina",
+        "description": "Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-05T13:39:08+02:00",
-        "stop": "2026-09-05T14:09:03+02:00",
-        "title": "Manduka family",
-        "subtitle": "Pastís de patata",
-        "description": "Sorprenentment, una de les receptes que més cuinen plegats avis i nets és el pastís de patata. La Valentina i la Daniela pensen que la seva àvia en fa la millor versió. L'Arnau París, xef del programa 'Cuines', i dos mandúkers decidiran qui ha fet el millor pastís de patata avui. Però no serà gens avorrit, perquè hauran d'endreçar una pila de tàpers, buscar el límit, tenir bona memòria, robar ingredients a l'equip contrari,...",
-        "genre": "ALTRES",
+        "start": "2026-09-05T16:32:09+02:00",
+        "stop": "2026-09-05T16:43:05+02:00",
+        "title": "Ideafix i els irreductibles",
+        "subtitle": "La reina de les catacumbes",
+        "description": "Com que la legió canina és incapaç de trobar el cau dels Irreductibles, la Monalisa demana ajut al Reincidèntix, el cap de la banda de les catacumbes. Però aquest se sent desafiat i es baten en duel. La Monalisa, havent guanyat, esdevé la cap de la banda. Això posa encara més en perill el cau dels Irreductibles, que hauran de bregar per revertir la situació.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-05T14:09:03+02:00",
-        "stop": "2026-09-05T14:39:22+02:00",
-        "title": "Manduka family",
-        "subtitle": "Fricandó",
-        "description": "El fricandó és clarament un dels plats més emblemàtics de la cuina catalana. I com fas un plat tan tradicional quan només tens 10 anys ? Fàcil, seguint la recepta i experiència dels avis. I això és el que faran avui el Roger i la Ivette. ",
-        "genre": "ALTRES",
+        "start": "2026-09-05T16:43:05+02:00",
+        "stop": "2026-09-05T16:53:40+02:00",
+        "title": "Ideafix i els irreductibles",
+        "subtitle": "Els nous Irreductibles",
+        "description": "Quan els Irreductibles intenten sabotejar unes obres romanes que desfiguren les vores del riu, en Devòrix rep un cop al cap que el converteix en un gos refinat, benparlat i pacifista. Contrari a les males maneres dels companys, reclutarà un nou grup d'Irreductibles per resoldre els conflictes amb urbanitat.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-05T13:41:09+02:00",
-        "stop": "2026-09-05T14:12:31+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Desextinció: reviure una espècie",
-        "description": "Hem entrat ja en l'era de l'edició genètica, una tecnologia que pot canviar l'evolució de la Humanitat. L'enginyeria genètica permet modificar de manera precisa, l'ADN, tant humà, com animal o vegetal. I això transformarà radicalment la medicina, la ramaderia i l'agricultura. I potser permetrà recuperar espècies desaparegudes, com la cotorra de Carolina. A Masjoan d'Espinelves hi ha una col·lecció amb més de 250 espècies d'ocells dissecats, aplegada pel naturalista Marià Masferrer i Rierola a finals del segle XIX. Entre les diverses espècies destaca la cotorra de Carolina (Conuropsis carolinensis), un ocell originari dels EUA, extingit el 1918 per la caça i la desforestació. Seria possible desextingir-la? L'equip del programa explora quins haurien de ser els passos per aconseguir fer reviure un animal extingit. En primer lloc, l'especialista en ADN antic Carles Lalueza aconsegueix seqüenciar-ne el genoma nuclear després de gairebé dos anys de feina. Per primera vegada s'ha aconseguit recuperar el 95% del material genètic d'aquest animal, un total de 1.100 milions de bases. El segon pas seria identificar quines diferències genètiques hi ha entre aquesta cotorra extingida i el seu parent viu més proper, la cotorra sol (Aratinga solstitialis). Aleshores caldria introduir els canvis en cèl·lules in vitro de la cotorra viva per mitjà d'una revolucionària tècnica d'edició genètica anomenada CRISPR i, finalment, s'haurien de clonar aquestes cèl·lules i introduir-les en l'aparell reproductiu d'una cotorra viva perquè en formi els ous, faci la posta i alimenti els polls. Les tècniques de manipulació genètica actuals encara han de progressar molt abans no es puguin completar tots aquests passos, però d'aquí una dècada serà possible. Potser algun dia es podrà plantejar el mateix amb els mamuts o el tigre de Tasmània. ",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-05T16:39:08+02:00",
+        "stop": "2026-09-05T17:31:19+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "El Borbonès",
+        "description": "En Lucien, un enginyer agroalimentari, fa un pastís salat de patata tal com l'ha après de l'àvia Hélène. La Simone i l'Olivier, mare i fill, són fabricants de la famosa mostassa de Charós, que entra en algunes receptes típiques del Borbonès. L'Hubert, editor de llibres de cuina, sap guisar l'ànec a la Duchambais, una salsa de nata amb vi i mostassa. L'Arnaud, horticultor, es dedica a crear noves varietats de pomes i de peres. I la Françoise fa un pastís de peres guarnit per damunt amb peres senceres en almívar.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-05T14:12:31+02:00",
-        "stop": "2026-09-05T14:41:02+02:00",
-        "title": "Quèquicom",
-        "subtitle": "El cafè",
-        "description": "És cert que un cafè augmenta l'eficàcia cerebral? Sol a amb sucre? I quantes tasses al dia? Quan et despertes, o millor esperar-te una estona? Fa pujar la pressió arterial? Com l'haurien de preparar als bars? I un consell: descarta el torrefacte.El cafè és un dels gustos més complexos de la gastronomia. Conté més de mil compostos i se n'han identificat 850. Encara queden 150 misteris per resoldre! Fina Brunet en segueix el procés: des de les característiques del gra segons l'origen, fins a la cata, passant per la torrefacció. ",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-05T17:31:19+02:00",
+        "stop": "2026-09-05T18:23:08+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "La Corresa",
+        "description": "En aquest episodi la Julie visita el departament de la Corresa. Primer de tot visita el noguerar d'en David, on es produeix una nou molt apreciada. Amb la Karine prepara un magret d'ànec amb crosta de nous. Després visita la Sylvie, que produeix un licor de nous típic de la regió. Tot seguit, amb la Michèle, prepara unes gofres amb nata crua. Finalment, la Laurence li ensenya una recepta de pit de vedella farcit.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "oca1": [],
-    "oca2": [],
+    "oca2": [
+      {
+        "start": "2026-09-05T15:30:00+02:00",
+        "stop": "2026-09-05T16:05:00+02:00",
+        "title": "E3D",
+        "subtitle": "- Skate / Extreme Barcelona / Final femenina",
+        "description": "Final femenina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
