@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-05T08:28:13.737486+00:00",
+  "updated": "2026-09-05T11:57:06.651211+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,17 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-05T10:00:00+02:00",
-        "stop": "2026-09-05T11:55:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-09-05T11:49:22+02:00",
-        "stop": "2026-09-05T14:29:57+02:00",
+        "start": "2026-09-05T11:49:46+02:00",
+        "stop": "2026-09-05T14:29:55+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,15 +54,6 @@
     ],
     "324": [
       {
-        "start": "2026-09-05T10:00:00+02:00",
-        "stop": "2026-09-05T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
         "start": "2026-09-05T12:00:00+02:00",
         "stop": "2026-09-05T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
@@ -79,65 +61,74 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-05T14:30:00+02:00",
+        "stop": "2026-09-05T16:30:00+02:00",
+        "title": "Telenotícies migdia",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-05T09:29:14+02:00",
-        "stop": "2026-09-05T10:53:20+02:00",
-        "title": "Handbol",
-        "subtitle": "Barça-Porto / Supercopa Ibèrica / Semifinal",
-        "description": "Els blaugranes, campions a les quatre edicions disputades fins ara, s'enfronten amb el segon classificat de l'última lliga portuguesa. Des de Vigo, amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.",
+        "start": "2026-09-05T13:25:04+02:00",
+        "stop": "2026-09-05T15:14:43+02:00",
+        "title": "Futbol sala",
+        "subtitle": "ElPozo Múrcia-Palma Futsal / Supercopa d'Espanya / 1a semifinal",
+        "description": "El Pozo Múrcia Costa Càlida i l'Illes Balears Palma Futsal disputen la primera semifinal de la Supercopa d'Espanya, que es juga al Palau Blaugrana. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
       },
       {
-        "start": "2026-09-05T10:53:20+02:00",
-        "stop": "2026-09-05T11:22:33+02:00",
-        "title": "Zona Zàping Club",
-        "subtitle": "Aina Cerdà intenta veure més enllà del fotograma",
-        "description": "El vídeo s'atura en el moment més inoportú. Serà capaç d'endevinar què passa després i convèncer el Zapi? No us perdeu la ballaruga final: TOP!!",
-        "genre": "ESPECIALS",
-        "image": ""
+        "start": "2026-09-05T15:14:43+02:00",
+        "stop": "2026-09-05T15:30:00+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Hansi Flick / Prèvia València-Barça / J4",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-05T10:27:31+02:00",
-        "stop": "2026-09-05T10:48:30+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Drenatge cerebral",
-        "description": "La Sam assisteix a un programa nou i audaç per participar-hi. Les noies creuen que la seva derrota ha estat provocada simplement per la por escènica. Fins que el dia següent, la Sam comenci a perdre la memòria. Investigant, l'Alex i la Clover descobreixen que en Larry, l'amfitrió del programa roba la força intel·lectual dels seus contrincants i la passa a la ment de la seva nòvia, la Margie. Així, poden controlar les ones hertzianes i aviat, fins i tot, el món! Podran les noies recuperar el poder mental de la Sam abans que ella es converteixi en un vegetal? D'altra banda, la Sam fa una classe particular de ciències a un noi que es diu Zack.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
-      },
-      {
-        "start": "2026-09-05T10:48:30+02:00",
-        "stop": "2026-09-05T11:10:16+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Víctimes de la moda",
-        "description": "La famosa dissenyadora de moda que també va aparèixer al capítol 'Un toc salvatge' ha tornat. Vol venjança. Amb la seva nova línia de roba de moda, planeja arribar al cim de la indústria de la moda. Pretén matar qualsevol persona que s'atreveixi a portar les seves peces de roba, incloent-hi l'Alex, la Sam i la Clover. Podran, les espies, alliberar-se de la moda assassina i parar l'Helga abans que ella provoqui més víctimes arreu del món?",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
-      }
-    ],
-    "c33": [
-      {
-        "start": "2026-09-05T09:59:25+02:00",
-        "stop": "2026-09-05T10:38:28+02:00",
-        "title": "La Mar de Bé",
-        "subtitle": "Palandriu",
-        "description": "L'escamarlà és el producte estrella de la confraria de Llançà i, durant els mesos d'estiu, és una de les confraries de Catalunya que més treballa amb aquesta espècie. En aquest capítol, en Quim Casellas viurà una autèntica jornada de pesca d'escamarlans a bord del Palandriu amb el seu patró i armador, en Xavi Roquer. Sens dubte, els escamarlans seran els protagonistes de la proposta culinària d'en Quim, que serà original i amb un toc asiàtic: shabu shabu d'escamarlans i rap amb verdures de primavera. ",
+        "start": "2026-09-05T13:39:08+02:00",
+        "stop": "2026-09-05T14:09:03+02:00",
+        "title": "Manduka family",
+        "subtitle": "Pastís de patata",
+        "description": "Sorprenentment, una de les receptes que més cuinen plegats avis i nets és el pastís de patata. La Valentina i la Daniela pensen que la seva àvia en fa la millor versió. L'Arnau París, xef del programa 'Cuines', i dos mandúkers decidiran qui ha fet el millor pastís de patata avui. Però no serà gens avorrit, perquè hauran d'endreçar una pila de tàpers, buscar el límit, tenir bona memòria, robar ingredients a l'equip contrari,...",
         "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-05T10:38:28+02:00",
-        "stop": "2026-09-05T11:31:27+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Mash i Tassy",
-        "description": "En Mash i en Tassy són dos japonesos amb qui coneixem els secrets de l'elaboració del cava i el vi, i per fer-ho, marxem fins al Penedès i el Priorat. A més, la Ivana Miño els regala una experiència única que segur s'enduen per sempre; una jornada castellera a Tarragona.",
+        "start": "2026-09-05T14:09:03+02:00",
+        "stop": "2026-09-05T14:39:22+02:00",
+        "title": "Manduka family",
+        "subtitle": "Fricandó",
+        "description": "El fricandó és clarament un dels plats més emblemàtics de la cuina catalana. I com fas un plat tan tradicional quan només tens 10 anys ? Fàcil, seguint la recepta i experiència dels avis. I això és el que faran avui el Roger i la Ivette. ",
         "genre": "ALTRES",
+        "image": ""
+      }
+    ],
+    "c33": [
+      {
+        "start": "2026-09-05T13:41:09+02:00",
+        "stop": "2026-09-05T14:12:31+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Desextinció: reviure una espècie",
+        "description": "Hem entrat ja en l'era de l'edició genètica, una tecnologia que pot canviar l'evolució de la Humanitat. L'enginyeria genètica permet modificar de manera precisa, l'ADN, tant humà, com animal o vegetal. I això transformarà radicalment la medicina, la ramaderia i l'agricultura. I potser permetrà recuperar espècies desaparegudes, com la cotorra de Carolina. A Masjoan d'Espinelves hi ha una col·lecció amb més de 250 espècies d'ocells dissecats, aplegada pel naturalista Marià Masferrer i Rierola a finals del segle XIX. Entre les diverses espècies destaca la cotorra de Carolina (Conuropsis carolinensis), un ocell originari dels EUA, extingit el 1918 per la caça i la desforestació. Seria possible desextingir-la? L'equip del programa explora quins haurien de ser els passos per aconseguir fer reviure un animal extingit. En primer lloc, l'especialista en ADN antic Carles Lalueza aconsegueix seqüenciar-ne el genoma nuclear després de gairebé dos anys de feina. Per primera vegada s'ha aconseguit recuperar el 95% del material genètic d'aquest animal, un total de 1.100 milions de bases. El segon pas seria identificar quines diferències genètiques hi ha entre aquesta cotorra extingida i el seu parent viu més proper, la cotorra sol (Aratinga solstitialis). Aleshores caldria introduir els canvis en cèl·lules in vitro de la cotorra viva per mitjà d'una revolucionària tècnica d'edició genètica anomenada CRISPR i, finalment, s'haurien de clonar aquestes cèl·lules i introduir-les en l'aparell reproductiu d'una cotorra viva perquè en formi els ous, faci la posta i alimenti els polls. Les tècniques de manipulació genètica actuals encara han de progressar molt abans no es puguin completar tots aquests passos, però d'aquí una dècada serà possible. Potser algun dia es podrà plantejar el mateix amb els mamuts o el tigre de Tasmània. ",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
+      },
+      {
+        "start": "2026-09-05T14:12:31+02:00",
+        "stop": "2026-09-05T14:41:02+02:00",
+        "title": "Quèquicom",
+        "subtitle": "El cafè",
+        "description": "És cert que un cafè augmenta l'eficàcia cerebral? Sol a amb sucre? I quantes tasses al dia? Quan et despertes, o millor esperar-te una estona? Fa pujar la pressió arterial? Com l'haurien de preparar als bars? I un consell: descarta el torrefacte.El cafè és un dels gustos més complexos de la gastronomia. Conté més de mil compostos i se n'han identificat 850. Encara queden 150 misteris per resoldre! Fina Brunet en segueix el procés: des de les característiques del gra segons l'origen, fins a la cata, passant per la torrefacció. ",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
