@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-05T16:56:58.156738+00:00",
+  "updated": "2026-09-05T18:48:09.841187+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,34 +43,25 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-05T18:37:14+02:00",
-        "stop": "2026-09-05T19:03:24+02:00",
-        "title": "Jet lag",
-        "subtitle": "CACAUETS",
-        "description": "L' Esther la fan supervisora d'hostesses. Aquest canvi li complicarà la vida, especialment amb la Carla i la Sílvia. Un actor famós entra al bar al mateix temps que la Diana aconsella la Mariona a pensar-se les coses dues vegades abans de fer-les. A l'actor li fa gràcia la Mariona.",
-        "genre": "TELESÈRIE",
+        "start": "2026-09-05T20:39:49+02:00",
+        "stop": "2026-09-05T21:00:00+02:00",
+        "title": "Atrapa'm si pots. Els millors moments.",
+        "subtitle": "",
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
         "image": ""
       },
       {
-        "start": "2026-09-05T19:03:24+02:00",
-        "stop": "2026-09-05T19:57:43+02:00",
-        "title": "Sota terra",
-        "subtitle": "Camp dels ninots: el paisatge fa tres milions i mig d'anys",
-        "description": "Anem a Caldes de Malavella, a la comarca de la Selva, a excavar al Camp dels Ninots, un antic volcà que amaga un gran secret. El Camp és un jaciment on s'excava des de fa força temps. S'hi han trobat nombroses restes arqueològiques de diferents segles, en general molt antigues: animals, eines lítiques, etc. Arribem amb un enigma per resoldre: se sap que fa 3,5 milions d'anys van morir de manera gairebé simultània una quantitat enorme d'animals. Per què van morir? Qui o què els va matar gairebé a la vegada? Busquem la resposta i també busquem més restes d'aquests éssers vius que van patir una tràgica i misteriosa desaparició. I la cirereta del pastís: volem recrear en imatges com era el paisatge a Caldes fa 3,5 milions d'anys: per aconseguir-ho haurem de trobar i analitzar el pol·len i les restes vegetals de l'època.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-05T21:00:00+02:00",
+        "stop": "2026-09-05T22:03:39+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "324": [
-      {
-        "start": "2026-09-05T18:30:00+02:00",
-        "stop": "2026-09-05T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-09-05T20:00:00+02:00",
         "stop": "2026-09-05T21:00:00+02:00",
@@ -79,21 +70,30 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-05T21:00:00+02:00",
+        "stop": "2026-09-05T23:00:00+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-05T18:10:00+02:00",
-        "stop": "2026-09-05T19:04:57+02:00",
-        "title": "Futbol",
-        "subtitle": "UE Sant Andreu-Águilas FC / Primera Federació / J2",
-        "description": "Els quadribarrats estrenen la nova categoria a l'estadi de Can Dragó contra el conjunt murcià. L'objectiu, sumar els primers punts després de la derrota per la mínima (1-0) en el debut a Osca.",
+        "start": "2026-09-05T20:20:00+02:00",
+        "stop": "2026-09-05T21:16:12+02:00",
+        "title": "Handbol",
+        "subtitle": "Supercopa Ibèrica / Final",
+        "description": "Des de Vigo, final de la competició d'handbol que enfronta els millors equips de la Península. Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs. ",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"
       },
       {
-        "start": "2026-09-05T19:04:57+02:00",
-        "stop": "2026-09-05T19:13:25+02:00",
+        "start": "2026-09-05T21:16:12+02:00",
+        "stop": "2026-09-05T21:24:21+02:00",
         "title": "Esport Club Cap de Setmana",
         "subtitle": "Esport Club",
         "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
@@ -103,47 +103,47 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-05T18:48:26+02:00",
-        "stop": "2026-09-05T19:10:17+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Sobresimulació",
-        "description": "Avui se celebra el Dia de la Formació Anual del Món WOOHP i, estranyament, tots els agents suspenen les proves. Per apujar una mica el nivell, la Zerlina envia la Sam, la Clover, l'Alex i en Toby al món WOOHP perquè les facin. Allà coneixen en Ramesh, un agent nou, i en Shamagi, l'agent que dirigeix les proves i que té una obsessió estranya amb les coses toves.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+        "start": "2026-09-05T20:39:24+02:00",
+        "stop": "2026-09-05T21:00:02+02:00",
+        "title": "Henry Danger",
+        "subtitle": "Castigat",
+        "description": "Henry és castigat i no pot ajudar el Capità Man, mentre intenta sobreviure a dies sencers sense barallar-se amb la Piper. Mentrestant, la Charlotte ocupa el seu lloc en una missió perillosa, fet que desperta gelosia i tensions dins l'equip.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       },
       {
-        "start": "2026-09-05T19:10:17+02:00",
-        "stop": "2026-09-05T19:33:25+02:00",
-        "title": "Espies de veritat",
-        "subtitle": "Mystery on the WOOHP Express",
-        "description": "Les espies pugen al WOOHP Express amb la Zerlina, en Blaine, la Britney i en Jerry per protegir el woohper, un dispositiu molt important per a l'organització i que és a dins d'una caixa forta. La Zerlina desapareix i tothom és sospitós d'haver-la segrestat. La Clover i en Blaine són els primers a adonar-se que les coses no són com semblen.",
+        "start": "2026-09-05T21:00:02+02:00",
+        "stop": "2026-09-05T21:20:54+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "L'exterminiador",
+        "description": "Arriba l'hivern i la majoria d'ocells volen cap al sud, però alguns, com la mallerenga, no migren. L'Aviva promet als germans Kratt que si són capaços de trobar uns quants poders d'aquest ocell, els en farà un vestit de poder. Mentre estudien les mallerengues, el Martin es distreu amb un animal que passa corrents, se separa del Chris i li cau l'animal-pod. Quan veu de prop l'animal que l'ha despistat, s'adona és un ermini.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
+        "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-05T18:23:08+02:00",
-        "stop": "2026-09-05T19:15:19+02:00",
-        "title": "La Camarga, salvatge i fràgil",
-        "subtitle": "Entre sal i mar",
-        "description": "La Baixa Camarga està marcada per la interacció amb el mar i la influència de la sal. La costa és un cordó de platges i dunes al llarg de més de cent quilòmetres, entre Fòs i Lo Grau dau Rei. Al mar de la Camarga hi viuen també espècies emblemàtiques, com ara dofins, cavalls de mar i tortugues. La Camarga de les llacunes i el mar és una interfície vital però fràgil, sotmesa a una erosió espectacular que ha obligat els humans a adaptar-s'hi i a repensar la gestió del litoral.",
+        "start": "2026-09-05T20:07:36+02:00",
+        "stop": "2026-09-05T20:59:40+02:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Terres de descobriments",
+        "description": "En molts aspectes, la història de la humanitat està lligada a la història dels volcans. Estudiant els volcans, els científics no només en revelen els misteris, sinó que revolucionen la nostra visió del món. Els investigadors treballen incansablement perquè les societats humanes puguin, de descobriment en descobriment, aprofitar al màxim aquestes muntanyes vives. En la nostra eterna recerca de coneixement i de progrés, els volcans són els nostres millors aliats i el terreny d'una infinitat de descobriments.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-05T19:15:19+02:00",
-        "stop": "2026-09-05T20:07:36+02:00",
-        "title": "La Camarga, salvatge i fràgil",
-        "subtitle": "El regne de l'aigua dolça",
-        "description": "L'Alta Camarga és el regne de l'aigua dolça, amb una densa xarxa de canals que abasteixen cultius, i zones protegides amb la seva fauna i flora. Al delta del Roine hi fan escala moltes aus migratòries, que conviuen amb espècies amenaçades que pateixen els efectes de la contaminació ambiental i de les espècies invasores. El futur de la Camarga d'aigua dolça depèn, doncs, de l'equilibri entre l'activitat humana i la conservació de la natura.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-05T20:59:40+02:00",
+        "stop": "2026-09-05T21:00:53+02:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
     "oca1": [
       {
-        "start": "2026-09-05T18:48:00+02:00",
+        "start": "2026-09-05T18:58:00+02:00",
         "stop": "2026-09-05T20:58:00+02:00",
         "title": "Rugbi 13 : Superleague",
         "subtitle": "- Dracs Catalans-York Knights / Super League / J26",
