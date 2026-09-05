@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-05T20:54:40.124088+00:00",
+  "updated": "2026-09-05T22:36:34.047144+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,15 +43,6 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-05T22:22:37+02:00",
-        "stop": "2026-09-05T23:48:53+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Cosmètica de l'enemic",
-        "description": "COSMÈTICA DE L'ENEMICProductores: Sábado Películas, Barry Films i The Project, 2020Director: Kike MaílloGuió: Cristina Clemente, Kike Maíllo i Fernando NavarroDirector de fotografia: Rita NoriegaCompositor musical: Alex BaranowskiIntèrprets: Tomasz Kot (Jeremiasz Angust), Athena Strates (Texel Textor), Marta Nieto (Isabelle) i Dominique Pinon (Jean Rosen)L'arquitecte d'èxit Jeremiasz Angust perd el vol a causa d'una jove que l'ha abordat i no para d'importunar-lo. A partir d'aquí, tots dos comencen una conversa que, tot i que sembla fortuïta, aviat es converteix en alguna cosa més sinistra i criminal.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
-      },
-      {
         "start": "2026-09-05T23:48:53+02:00",
         "stop": "2026-09-06T01:32:38+02:00",
         "title": "Pel·lícula",
@@ -59,21 +50,30 @@
         "description": "COSES A FER ABANS DE MORIRProductores: The Fly Hunter, S.L. i Fosca Films, S.L., 2020Direcció: Cristina Fernández Pintado i Miguel LlorensGuió: Cristina Fernández PintadoFotografia: Miguel LlorensMúsica: Josep Zapater i Noelia PérezIntèrprets: Sergio Caballero (Sam), Cristina Fernández (Isabel), Oriol Tarrasón (Robert), Manuel Maestro (Saul), Mireia Pérez (Sabrina), Àngel Fígols (Marcos) i Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.",
         "genre": "PEL·LÍCULA / TELEFILM",
         "image": ""
+      },
+      {
+        "start": "2026-09-06T01:32:38+02:00",
+        "stop": "2026-09-06T02:00:01+02:00",
+        "title": "El retorn de les lluernes",
+        "subtitle": "Cristina i 'El sentit d'un final'",
+        "description": "Aquest capítol del programa parteix de la novel·la 'El sentit d'un final' (Angle Editorial), de Julian BarnesTony Webster és ara un jubilat de vida tranquil·la, aparentment en pau amb la seva vida. Però es veurà abocat a revisar el seu passat, especialment els seus anys adolescents. Ara, passats més de quaranta anys, Tony Webster s'adona que molts fets potser no van passar com els havia recordat. Perquè la memòria és imperfecta i pot fer aflorar sorpreses. I, fins i tot, obligar-te a reinterpretar tota una vida.Cristina Fort és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels ubicats al Pallars Sobirà.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-05T21:00:00+02:00",
-        "stop": "2026-09-05T23:00:00+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-09-06T00:30:00+02:00",
+        "stop": "2026-09-06T01:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-05T23:00:00+02:00",
-        "stop": "2026-09-06T00:30:00+02:00",
+        "start": "2026-09-06T01:00:00+02:00",
+        "stop": "2026-09-06T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-05T22:23:34+02:00",
-        "stop": "2026-09-05T23:00:00+02:00",
-        "title": "E3D",
-        "subtitle": "Scooter Street / Extreme Barcelona / Final masculina",
-        "description": "Final masculina d'scootering street a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
+        "start": "2026-09-06T00:19:16+02:00",
+        "stop": "2026-09-06T00:50:03+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       },
       {
-        "start": "2026-09-05T23:00:00+02:00",
-        "stop": "2026-09-06T00:01:29+02:00",
+        "start": "2026-09-06T00:50:03+02:00",
+        "stop": "2026-09-06T02:51:15+02:00",
         "title": "Gol a gol",
         "subtitle": "Anàlisi de la jornada / J4 / Dissabte",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-05T22:46:58+02:00",
-        "stop": "2026-09-05T22:57:32+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "En Frankie a tota pastilla",
-        "description": "Diversos habitants de Vilanimal truquen la Tropa perquè en Frankie s'ha construït un vehicle propi, ha contractat l'Esther com a mecànica i està descontrolat. Tant, que desafien la Tropa a fer un salt temerari. Qui guanyi s'ho queda tot, corral inclòs.",
+        "start": "2026-09-06T00:32:48+02:00",
+        "stop": "2026-09-06T00:43:07+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "My fair Yeti",
+        "description": "La Felicity, el Miguel i la Yana estan convidats a prendre el te a la mansió d'una dama molt rica. La Yana té por que se'n riguin d'ella perquè no és gens fina, però la Felicity li fa un curset accelerat d'etiqueta per a l'esdeveniment.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-05T22:57:32+02:00",
-        "stop": "2026-09-05T23:08:30+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "Gallina per un dia",
-        "description": "La Tropa rep una trucada de l'Elvis, que els pregunta com és que el granger actua d'una manera tan estranya. Resulta que l'Esther l'ha hipnotitzat i ara es pensa que es una gallina. La Tropa del Corral haurà de trobar la manera de fer-lo tornar al seu estat original mentre ell cloqueja per tot el poble.",
+        "start": "2026-09-06T00:43:07+02:00",
+        "stop": "2026-09-06T00:53:55+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "El buguiman",
+        "description": "Falta poc perquè la Felicity participi a la final del Concurs de Ball de Mitelàndia, però està molt nerviosa i no pot dormir com cal. A més, en somnis se li apareix un ésser misteriós que la ridiculitza dalt de l'escenari en plena actuació.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-05T22:03:32+02:00",
-        "stop": "2026-09-05T23:01:55+02:00",
-        "title": "Els caps de setmana llargs d'en Rick Stein",
-        "subtitle": "Bolonya",
-        "description": "A Bolonya, en Rick descobreix que els espaguetis a la bolonyesa, que per ell eren el plat bolonyès per excel·lència, allà són considerats gairebé una heretgia. Però aprendrà quina és la versió dels espaguetis que sí que mengen a Bolonya. Allà tastarà, entre altres plats, uns ravionlini deliciosos farcits de ceba dolça, calamarsos farcits, un parmesà madurat tretze anys, conill farcit de truita i pernil de Parma o la famosa mortadel·la. Per als bolonyesos, menjar bé és molt important.",
+        "start": "2026-09-06T00:00:49+02:00",
+        "stop": "2026-09-06T00:51:27+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "La ribera del Marne",
+        "description": "La Brigitte fa un guisat de conill amb raïm negre segons una recepta molt antiga i típica de la ribera del Marne. En Philippe pertany a una confraria de vinyataires que han fet reviscolar un vinet blanc molt emblemàtic de Nogent-sur-Marne. En Fabrice, descendent d'italians, fa un pa de pessic italià emborratxat amb licor d'ametlles. La Michelle i la Christine fan un guisat de bou amb anxoves i pastanaga i en Tayeb, director d'una formatgeria, ens canta les excel·lències del brie.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-05T23:01:55+02:00",
-        "stop": "2026-09-06T00:00:48+02:00",
-        "title": "Els caps de setmana llargs d'en Rick Stein",
-        "subtitle": "Lisboa",
-        "description": "En Rick Stein visita Lisboa, a la riba del Tajo, una ciutat ideal per tastar un marisc extraordinari o el famós 'pastéis de Belém', qui sap si el millor pastisset de crema del món. S'endinsarà en el llegat històric lisboeta, les seves festes populars o el modern Mercado da Ribeira, i vibrarà amb la malenconia del 'fado'. Finalment, ens farà un plat de mar i muntanya -porc i cloïsses 'à alentejana'-; també un pastís deliciós d'ametlla amb caramel de sucre i mantega, i bunyols de bacallà amb coriandre.",
+        "start": "2026-09-06T00:51:27+02:00",
+        "stop": "2026-09-06T01:42:32+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "Saintoge",
+        "description": "En aquest episodi, la Julie visita la regió de Saintonge, al departament de la Charanta Marítima. Amb la Lisette prepara els cargols típics de la Charanta. A continuació visita una fàbrica de mantega elaborada a l'estil tradicional. Després, amb en Piqthiu, prepara un gigourit, un civet típic de la regió. Finalment, amb la Michèle, prepara unes coques de la Charanta farcides d'angèlica.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
