@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-05T14:42:32.424991+00:00",
+  "updated": "2026-09-05T16:56:58.156738+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-05T15:36:02+02:00",
-        "stop": "2026-09-05T17:08:33+02:00",
-        "title": "La ratjada",
-        "subtitle": "La ratjada",
-        "description": "LA RATJADAProducció: Televisió de Catalunya i Alter Ego Films, 2008Direcció: Miguel Garcia BordaGuió: Manel BonanyDirector de fotografia: Jordi TortMúsica: Florenci FerrerIntèrprets: Lluis Soler (Marc Estella), Marta Bayarri (Inspectora Blasco), Xavier Serrat (Sargent Viladot), Miquel Garcia Borda (Nico Estella), Vicenta Ndongo (Mia Canoves), Pere Molina (Albert Argems), Pep Torrens (Morrut), Francesc Albiol (Narcis Domènec), Nina (Vicky Hernandez) i Ricard Sales (Roger Argems) A un antic poble pesquer actualment bolcat al turisme, apareixen uns dits humans en un restaurant. La investigació policial porta a sospitar de Marc Estella, un ex-convicte que ha tornat al poble després de passar 20 anys a la presó per assassinat. Aquest fet desferma una cadena de sospites i posa al descobert amors secrets, drames familiars i trames professionals i delictives fins aleshores ocultes en la comunitat. Res no és el que sembla. ",
-        "genre": "PEL·LÍCULA / TELEFILM",
+        "start": "2026-09-05T18:37:14+02:00",
+        "stop": "2026-09-05T19:03:24+02:00",
+        "title": "Jet lag",
+        "subtitle": "CACAUETS",
+        "description": "L' Esther la fan supervisora d'hostesses. Aquest canvi li complicarà la vida, especialment amb la Carla i la Sílvia. Un actor famós entra al bar al mateix temps que la Diana aconsella la Mariona a pensar-se les coses dues vegades abans de fer-les. A l'actor li fa gràcia la Mariona.",
+        "genre": "TELESÈRIE",
         "image": ""
       },
       {
-        "start": "2026-09-05T17:08:33+02:00",
-        "stop": "2026-09-05T18:09:08+02:00",
-        "title": "Infidels",
-        "subtitle": "",
-        "description": "La Paula diu al Marc, el seu amant, que se sent feliç d'haver trobat l'amor de la seva vida. Les amigues coneixen el Marc, que els fa entendre que s'estima molt la Paula. La Joana està feta pols pel que ha passat amb el Francesc, però és capaç de comportar-se amb enteresa davant les amigues. La dona reconeix la Cecília, però decideix no dir-li res. L'Arlet li recomana que expliqui als nens tota la veritat. El Jesús explica al Robert que es va embolicar amb la Cruz. La Lídia aconsegueix finalment que el Toni torni a entrar a la teràpia. La psiquiatra es retroba amb el Rubén, un antic amor. L'Arlet convida la Dani a un sopar íntim.",
-        "genre": "TELESÈRIE",
+        "start": "2026-09-05T19:03:24+02:00",
+        "stop": "2026-09-05T19:57:43+02:00",
+        "title": "Sota terra",
+        "subtitle": "Camp dels ninots: el paisatge fa tres milions i mig d'anys",
+        "description": "Anem a Caldes de Malavella, a la comarca de la Selva, a excavar al Camp dels Ninots, un antic volcà que amaga un gran secret. El Camp és un jaciment on s'excava des de fa força temps. S'hi han trobat nombroses restes arqueològiques de diferents segles, en general molt antigues: animals, eines lítiques, etc. Arribem amb un enigma per resoldre: se sap que fa 3,5 milions d'anys van morir de manera gairebé simultània una quantitat enorme d'animals. Per què van morir? Qui o què els va matar gairebé a la vegada? Busquem la resposta i també busquem més restes d'aquests éssers vius que van patir una tràgica i misteriosa desaparició. I la cirereta del pastís: volem recrear en imatges com era el paisatge a Caldes fa 3,5 milions d'anys: per aconseguir-ho haurem de trobar i analitzar el pol·len i les restes vegetals de l'època.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-05T16:30:00+02:00",
-        "stop": "2026-09-05T18:30:00+02:00",
+        "start": "2026-09-05T18:30:00+02:00",
+        "stop": "2026-09-05T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-05T18:30:00+02:00",
-        "stop": "2026-09-05T20:00:00+02:00",
+        "start": "2026-09-05T20:00:00+02:00",
+        "stop": "2026-09-05T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,76 +83,76 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-05T16:00:00+02:00",
-        "stop": "2026-09-05T17:48:28+02:00",
-        "title": "Futbol sala",
-        "subtitle": "Barça-Jaén FS / Supercopa d'Espanya / 2a semifinal",
-        "description": "Els blaugranes juguen a casa contra els andalusos la segona semifinal de la Supercopa d'Espanya. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius. ",
+        "start": "2026-09-05T18:10:00+02:00",
+        "stop": "2026-09-05T19:04:57+02:00",
+        "title": "Futbol",
+        "subtitle": "UE Sant Andreu-Águilas FC / Primera Federació / J2",
+        "description": "Els quadribarrats estrenen la nova categoria a l'estadi de Can Dragó contra el conjunt murcià. L'objectiu, sumar els primers punts després de la derrota per la mínima (1-0) en el debut a Osca.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-09-05T17:48:28+02:00",
-        "stop": "2026-09-05T18:10:00+02:00",
-        "title": "E3D",
-        "subtitle": "Skate / Extreme Barcelona / Final masculina",
-        "description": "Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
+        "start": "2026-09-05T19:04:57+02:00",
+        "stop": "2026-09-05T19:13:25+02:00",
+        "title": "Esport Club Cap de Setmana",
+        "subtitle": "Esport Club",
+        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-05T16:32:09+02:00",
-        "stop": "2026-09-05T16:43:05+02:00",
-        "title": "Ideafix i els irreductibles",
-        "subtitle": "La reina de les catacumbes",
-        "description": "Com que la legió canina és incapaç de trobar el cau dels Irreductibles, la Monalisa demana ajut al Reincidèntix, el cap de la banda de les catacumbes. Però aquest se sent desafiat i es baten en duel. La Monalisa, havent guanyat, esdevé la cap de la banda. Això posa encara més en perill el cau dels Irreductibles, que hauran de bregar per revertir la situació.",
+        "start": "2026-09-05T18:48:26+02:00",
+        "stop": "2026-09-05T19:10:17+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Sobresimulació",
+        "description": "Avui se celebra el Dia de la Formació Anual del Món WOOHP i, estranyament, tots els agents suspenen les proves. Per apujar una mica el nivell, la Zerlina envia la Sam, la Clover, l'Alex i en Toby al món WOOHP perquè les facin. Allà coneixen en Ramesh, un agent nou, i en Shamagi, l'agent que dirigeix les proves i que té una obsessió estranya amb les coses toves.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-09-05T16:43:05+02:00",
-        "stop": "2026-09-05T16:53:40+02:00",
-        "title": "Ideafix i els irreductibles",
-        "subtitle": "Els nous Irreductibles",
-        "description": "Quan els Irreductibles intenten sabotejar unes obres romanes que desfiguren les vores del riu, en Devòrix rep un cop al cap que el converteix en un gos refinat, benparlat i pacifista. Contrari a les males maneres dels companys, reclutarà un nou grup d'Irreductibles per resoldre els conflictes amb urbanitat.",
+        "start": "2026-09-05T19:10:17+02:00",
+        "stop": "2026-09-05T19:33:25+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Mystery on the WOOHP Express",
+        "description": "Les espies pugen al WOOHP Express amb la Zerlina, en Blaine, la Britney i en Jerry per protegir el woohper, un dispositiu molt important per a l'organització i que és a dins d'una caixa forta. La Zerlina desapareix i tothom és sospitós d'haver-la segrestat. La Clover i en Blaine són els primers a adonar-se que les coses no són com semblen.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
     ],
     "c33": [
       {
-        "start": "2026-09-05T16:39:08+02:00",
-        "stop": "2026-09-05T17:31:19+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "El Borbonès",
-        "description": "En Lucien, un enginyer agroalimentari, fa un pastís salat de patata tal com l'ha après de l'àvia Hélène. La Simone i l'Olivier, mare i fill, són fabricants de la famosa mostassa de Charós, que entra en algunes receptes típiques del Borbonès. L'Hubert, editor de llibres de cuina, sap guisar l'ànec a la Duchambais, una salsa de nata amb vi i mostassa. L'Arnaud, horticultor, es dedica a crear noves varietats de pomes i de peres. I la Françoise fa un pastís de peres guarnit per damunt amb peres senceres en almívar.",
+        "start": "2026-09-05T18:23:08+02:00",
+        "stop": "2026-09-05T19:15:19+02:00",
+        "title": "La Camarga, salvatge i fràgil",
+        "subtitle": "Entre sal i mar",
+        "description": "La Baixa Camarga està marcada per la interacció amb el mar i la influència de la sal. La costa és un cordó de platges i dunes al llarg de més de cent quilòmetres, entre Fòs i Lo Grau dau Rei. Al mar de la Camarga hi viuen també espècies emblemàtiques, com ara dofins, cavalls de mar i tortugues. La Camarga de les llacunes i el mar és una interfície vital però fràgil, sotmesa a una erosió espectacular que ha obligat els humans a adaptar-s'hi i a repensar la gestió del litoral.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-05T17:31:19+02:00",
-        "stop": "2026-09-05T18:23:08+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "La Corresa",
-        "description": "En aquest episodi la Julie visita el departament de la Corresa. Primer de tot visita el noguerar d'en David, on es produeix una nou molt apreciada. Amb la Karine prepara un magret d'ànec amb crosta de nous. Després visita la Sylvie, que produeix un licor de nous típic de la regió. Tot seguit, amb la Michèle, prepara unes gofres amb nata crua. Finalment, la Laurence li ensenya una recepta de pit de vedella farcit.",
+        "start": "2026-09-05T19:15:19+02:00",
+        "stop": "2026-09-05T20:07:36+02:00",
+        "title": "La Camarga, salvatge i fràgil",
+        "subtitle": "El regne de l'aigua dolça",
+        "description": "L'Alta Camarga és el regne de l'aigua dolça, amb una densa xarxa de canals que abasteixen cultius, i zones protegides amb la seva fauna i flora. Al delta del Roine hi fan escala moltes aus migratòries, que conviuen amb espècies amenaçades que pateixen els efectes de la contaminació ambiental i de les espècies invasores. El futur de la Camarga d'aigua dolça depèn, doncs, de l'equilibri entre l'activitat humana i la conservació de la natura.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
-    "oca1": [],
-    "oca2": [
+    "oca1": [
       {
-        "start": "2026-09-05T15:30:00+02:00",
-        "stop": "2026-09-05T16:05:00+02:00",
-        "title": "E3D",
-        "subtitle": "- Skate / Extreme Barcelona / Final femenina",
-        "description": "Final femenina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. ",
+        "start": "2026-09-05T18:48:00+02:00",
+        "stop": "2026-09-05T20:58:00+02:00",
+        "title": "Rugbi 13 : Superleague",
+        "subtitle": "- Dracs Catalans-York Knights / Super League / J26",
+        "description": "Penúltima jornada del campionat regular i última a casa. El conjunt de Perpinyà vol repetir la victòria que va aconseguir al camp anglès (22-36) per consolidar la vuitena posició. Des de l'Estadi Gilbert Brutus, amb la narració de Sebastià Girard.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/2/3/1771412542832.jpg"
       }
     ],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
