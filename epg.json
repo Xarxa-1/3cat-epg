@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-06T12:36:43.234762+00:00",
+  "updated": "2026-09-06T15:46:43.665639+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-06T14:30:00+02:00",
-        "stop": "2026-09-06T15:38:35+02:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "start": "2026-09-06T17:20:03+02:00",
+        "stop": "2026-09-06T19:00:37+02:00",
+        "title": "Tarda de cine",
+        "subtitle": "Assassinats a Albi",
+        "description": "ASSASSINATS A ALBI 'Meurtres à Albi'Direcció: Delphine LemoineGuió: Delphine Chouraqui, Fabien Adda. Delphine ChouraquiProducció: Delante Productions, France TV, AT Production, RTBF (Télévision Belge), TV5 Monde, Radio Télévision Suisse (RTS), Région Languedoc-Roussillon-Midi Pyrénées, CNC.Any: 2020Durada: 92País: França Música: Alexandre LessertisseurIntèrprets: Léonie Simaga, Bruno Debrandt, Frédérique Kamatari, Hélène Vincent, Alain Doutey, Catherine Allégret, Amélie Robin, Daniel Njo Lobé, Angie Morvan-Dedieu, Simon Hormière-Marquié, Vanessa Liautey, Anne Violet, Léopold Pelagie, Martine Amisse, Loïc Varanguien de Villepin, Juliette DamiensDesprés de molts anys fora, l'Annabelle torna a Albi, la ciutat on va créixer, amb la seva filla de dotze anys, la Pauline. L'acaben de nomenar comissària i és la primera dona que es posa al capdavant de la comissaria. Això disgusta el Marc, que estava convençut que el càrrec seria per a ell. L'assassinat d'un vell pagès i, poc després, el d'una treballadora social, els endinsaran en una investigació que portarà l'Annabelle a descobrir els seus orígens.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       },
       {
-        "start": "2026-09-06T15:38:35+02:00",
-        "stop": "2026-09-06T17:19:51+02:00",
-        "title": "Tarda de cine",
-        "subtitle": "Assassinat al pont del Diable",
-        "description": "ASSASSINAT AL PONT DEL DIABLE 'Le pont du diable'Direcció: Sylvie AymeGuió: Eric Delafosse, Sylvie Ayme.Producció: Endemol Fiction, BE-FILMS, RTBF, France Télévisions, Région Languedoc-Roussillon-Midi Pyrénées, CNC, RTS, 13ème Rue, Les Films du Printemps, FR 3Any: 2018Durada: 92País: FrançaMúsica: Jérôme LemonnierFotografia: Philippe LardonIntèrprets: Élodie Frenck, David Kammenos, Patrick D'Assumçao, Myriam Bourguignon, Pierre-Olivier Mornas, Anne Benoît, Nouritza Emmanuelian, Nina Bouffier, Christophe Truchi, Mama Prassinos, Pascal Turmo, Jean-François Malet, Thomas Trigeaud, Lounès Tazairt, Cecile Combredet, Dominique Ratonnat, Núria Lloansi, Mathieu Bonfils, Anne-Juliette Vassort, Florie Abras, Charles-Eric PetitAndré Savignac, alcalde de Sant Guilhem del Desert i productor d'oli d'oliva, apareix penjat al pont del Diable. En principi sembla un suïcidi, però l'autòpsia detecta un fàrmac a la sang de la víctima que indica que l'han assassinat. La capitana Marina Fazergues es fa càrrec de la investigació i descobreix que al mateix pont, 30 anys abans i a la mateixa data, també hi va aparèixer penjada una noia, Nora Allouache. La semblança és massa gran per ser una coincidència, i la investigació revelarà tota una trama de passions i enemistats antigues.",
-        "genre": "PEL·LÍCULA / TELEFILM",
+        "start": "2026-09-06T19:00:51+02:00",
+        "stop": "2026-09-06T19:48:43+02:00",
+        "title": "Documental",
+        "subtitle": "Paradís pintat",
+        "description": "'PARADÍS PINTAT' (2018), una producció de Produccions Saurines, SCCL en coproducció amb Televisió de Catalunya.El dia a dia de la pallassa Pepa Plana a partir del seu espai de creació al Delta de l'Ebre i les persones que l'envolten per tal de retratar la seva recerca del paradís personal i la història que l'ha portat fins a aquest, tot mostrant la riquesa artística del territori amb la participació de diferents artistes i col·lectius de la zona.Direcció i guió: Elisenda Trilla FerréRealització: Oriol Gracià CarlesProductor: Guillem Voltas Calbet i Elisenda Trilla FerréProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Daniel BareaDirector fotografia: Guillem Voltas CalbetMuntatge: Guillem Voltas CalbetLingüista: David Arnau BarrufetMúsica: Marc Torner Làzaro",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-06T14:30:00+02:00",
-        "stop": "2026-09-06T16:30:00+02:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
-      },
-      {
         "start": "2026-09-06T16:30:00+02:00",
         "stop": "2026-09-06T18:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-06T18:30:00+02:00",
+        "stop": "2026-09-06T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,66 +83,76 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-06T12:25:07+02:00",
-        "stop": "2026-09-06T14:15:59+02:00",
-        "title": "Bàsquet",
-        "subtitle": "MoraBanc Andorra-Barça / Amistós",
-        "description": "Vuitena edició del Trofeu Comú d'Encamp. El MoraBanc Andorra i el Barça juguen aquest partit amistós de pretemporada pocs dies abans de tornar-se a enfrontar a la Lliga Catalana de Bàsquet. Amb la narració de Víctor Lavagnini i l'anàlisi de Nacho Solozabal. ",
+        "start": "2026-09-06T16:13:25+02:00",
+        "stop": "2026-09-06T18:15:00+02:00",
+        "title": "Un dia de partit",
+        "subtitle": "València-Barça",
+        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
       },
       {
-        "start": "2026-09-06T14:15:59+02:00",
-        "stop": "2026-09-06T14:51:51+02:00",
-        "title": "E3D",
-        "subtitle": "Skate / Extreme Barcelona / Final femenina",
-        "description": "Final femenina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
+        "start": "2026-09-06T18:15:00+02:00",
+        "stop": "2026-09-06T19:11:00+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Post València-Barça / J4",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-06T14:10:21+02:00",
-        "stop": "2026-09-06T14:38:38+02:00",
-        "title": "Manduka family",
-        "subtitle": "Crestes",
-        "description": "Les crestes són un dels menjars preferits dels més petits. La Júlia ve amb dos objectius: fer les millors crestes i una nova amiga. De crestes se'n fan de molts tipus, amb molts farcits diferents, fins i tot de doces. Però les dues àvies i netes que concursen al programa d'avui coincideixen en una cosa: la massa la fan casolana i no la compren industrial. Quina família farà les millors crestes del món??",
-        "genre": "ALTRES",
+        "start": "2026-09-06T17:37:42+02:00",
+        "stop": "2026-09-06T17:50:02+02:00",
+        "title": "Ideafix i els irreductibles",
+        "subtitle": "Atrapats a la piràmide",
+        "description": "El gos Lovendpís ha tornat d'Egipte amb la missió de recobrar un amulet que els romans havien robat al seu amo, el mag Mercatdespecis. De passada, també aspira a recobrar l'amor de la Turbina. Els Irreductibles el volen ajudar, però cada cop que l'amulet es trenca, el temps torna cap enrere.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-06T14:38:38+02:00",
-        "stop": "2026-09-06T14:50:24+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Amagat",
-        "description": "La Wendy ha tingut una idea genial per desempallegar-se de la pesada de la seva germana: li amagarà el Puduk, i així, mentre la Marine el busca, podrà anar tranquil·la al cine amb el Maxence. I funciona! Però mentre busca el seu nino, la Marine troba el diari personal de la seva germana... i descobreix el seu pla. La venjança serà terrible!",
+        "start": "2026-09-06T17:50:02+02:00",
+        "stop": "2026-09-06T17:56:57+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Cabana basculant",
+        "description": "Els lèmmings han posat uns gats hidràulics enormes comandats per ràdio sota la cabana per transformar-la en un joc de boles rodant de mida natural. En Grizzy, que es mareja fàcilment, prova de tornar a posar les coses al seu lloc, però fa caure la cabana barranc avall. Caldrà la col·laboració de lèmmings i os per evitar estavellar-se amb tot l'equip.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-06T14:09:50+02:00",
-        "stop": "2026-09-06T14:40:50+02:00",
-        "title": "Quèquicom",
-        "subtitle": "QQC i ...els gossos",
-        "description": "Jaume Vilalta experimenta en primera persona la mossegada d'un gos policia. Tot i anar protegit nota els ullals com si fossin una tenalla. A la veu del seu ensinistrador el gos passa a ser com un xaiet. Com ensinistrar sense castigar? És una bona tècnica d'estimulació el 'clicker'? Quines característiques té un gos líder? Un gos obedient és més intel·ligent? Seguir rastres de persones o de peces de caça és una de les capacitats que els humans aprofiten dels gossos, però ara també ajuden els metges, detecten càncer. I, a més, consells de com hem de tenir cura d'aquestes mascotes: Ossos o pinso? Com eliminar els paràsits, especialment les paparres, un dels pitjor enemics de la salut del gos i del seus amos.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-06T17:17:20+02:00",
+        "stop": "2026-09-06T18:09:42+02:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Els habitants dels extrems",
+        "description": "Arreu del món s'han establert societats humanes al peu de volcans actius. Viure en aquestes terres inestables té un preu. D'un dia per l'altre, els volcans es poden endur el que han permès que es construís. Per als homes i dones que viuen en aquestes terres, anar-se'n no és una opció. Estan decidits a continuar vivint on han viscut, passi el que passi. En aquest documental coneixerem aquests habitants dels extrems.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-06T14:40:50+02:00",
-        "stop": "2026-09-06T15:33:01+02:00",
-        "title": "La Camarga, salvatge i fràgil",
-        "subtitle": "Entre sal i mar",
-        "description": "La Baixa Camarga està marcada per la interacció amb el mar i la influència de la sal. La costa és un cordó de platges i dunes al llarg de més de cent quilòmetres, entre Fòs i Lo Grau dau Rei. Al mar de la Camarga hi viuen també espècies emblemàtiques, com ara dofins, cavalls de mar i tortugues. La Camarga de les llacunes i el mar és una interfície vital però fràgil, sotmesa a una erosió espectacular que ha obligat els humans a adaptar-s'hi i a repensar la gestió del litoral.",
+        "start": "2026-09-06T18:09:42+02:00",
+        "stop": "2026-09-06T19:01:46+02:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Terres de descobriments",
+        "description": "En molts aspectes, la història de la humanitat està lligada a la història dels volcans. Estudiant els volcans, els científics no només en revelen els misteris, sinó que revolucionen la nostra visió del món. Els investigadors treballen incansablement perquè les societats humanes puguin, de descobriment en descobriment, aprofitar al màxim aquestes muntanyes vives. En la nostra eterna recerca de coneixement i de progrés, els volcans són els nostres millors aliats i el terreny d'una infinitat de descobriments.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "oca1": [],
-    "oca2": [],
+    "oca2": [
+      {
+        "start": "2026-09-06T16:55:32+02:00",
+        "stop": "2026-09-06T18:20:27+02:00",
+        "title": "E3D",
+        "subtitle": "- BMX UCI HC / Extreme Barcelona / Final masculina",
+        "description": "Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
