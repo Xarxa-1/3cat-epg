@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-06T22:07:10.531932+00:00",
+  "updated": "2026-09-06T23:52:38.223423+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,19 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-06T23:43:29+02:00",
-        "stop": "2026-09-07T00:13:20+02:00",
-        "title": "Oh! Europa",
-        "subtitle": "Holanda",
-        "description": "El grup visita un important museu d'Amsterdam i es troba amb un conegut futbolista del Barça que els salva d'una situació ben difícil. Mentrestant, la Trini està buscant el seu germà, que des de fa més de vint anys viu a Holanda. Els dos germans, finalment, es retroben i ho celebren.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
-        "image": ""
-      },
-      {
-        "start": "2026-09-07T00:13:20+02:00",
-        "stop": "2026-09-07T01:10:15+02:00",
-        "title": "Vosaltres mateixos",
-        "subtitle": "Tres estrelles",
-        "description": "L'Andreu cuina amb una minixef i amb l'ajuda de la Sílvia Abril, i prova la manera de fer esport que més li encaixa: en una hamaca. ",
-        "genre": "TALK-SHOW",
-        "image": "https://img.ccma.cat/multimedia/png/6/6/1698344358966.png"
+        "start": "2026-09-07T01:31:59+02:00",
+        "stop": "2026-09-07T02:00:01+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-06T23:00:00+02:00",
-        "stop": "2026-09-07T00:30:00+02:00",
+        "start": "2026-09-07T01:00:00+02:00",
+        "stop": "2026-09-07T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +63,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-07T00:30:00+02:00",
-        "stop": "2026-09-07T01:00:00+02:00",
+        "start": "2026-09-07T06:00:00+02:00",
+        "stop": "2026-09-07T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +74,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-06T23:00:07+02:00",
-        "stop": "2026-09-07T00:31:15+02:00",
+        "start": "2026-09-07T00:59:31+02:00",
+        "stop": "2026-09-07T02:33:24+02:00",
         "title": "Gol a gol",
         "subtitle": "Anàlisi de la jornada / J4 / Diumenge",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
@@ -92,53 +83,53 @@
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-09-07T00:31:15+02:00",
-        "stop": "2026-09-07T00:50:12+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-07T02:33:24+02:00",
+        "stop": "2026-09-07T04:42:32+02:00",
+        "title": "Bàsquet",
+        "subtitle": "MoraBanc Andorra-Barça / Amistós",
+        "description": "Vuitena edició del Trofeu Comú d'Encamp. El MoraBanc Andorra i el Barça juguen aquest partit amistós de pretemporada pocs dies abans de tornar-se a enfrontar a la Lliga Catalana de Bàsquet. Amb la narració de Víctor Lavagnini i l'anàlisi de Nacho Solozabal. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-07T00:02:07+02:00",
-        "stop": "2026-09-07T00:12:26+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "Allò que la vareta s'endugué",
-        "description": "El Magnífic Max es deixa la vareta màgica a la gelateria, i la Felicity i els seus amics l'hi van a portar al castell. Pel camí, però, no poden resistir la temptació d'anar demanant desitjos a la vareta fins al punt de deixar-la sense poder.",
+        "start": "2026-09-07T01:35:55+02:00",
+        "stop": "2026-09-07T01:56:33+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "El Dibuixant",
+        "description": "El Nathaniel és un noi tímid que està enamorat de la Marinette, però la Choé el posa en evidència. L'Esfinx aprofita la ràbia i la frustració del noi per convertir-lo amb un akuma en Dibuixant, un súper malvat que fa realitat tot el que dibuixa. El Nathaniel aprofitarà els seus nous poders per venjar-se de la Chloé.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-07T00:12:26+02:00",
-        "stop": "2026-09-07T00:22:45+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "La fama",
-        "description": "El Miguel es fa famosíssim entre la comunitat de rates gràcies a una cançó que li va ensenyar un amic flautista. Però és tanta la fama que agafa, que es distancia completament de la Felicity i la gateta ja no sap què fer perquè tot torni a la normalitat.",
+        "start": "2026-09-07T01:56:33+02:00",
+        "stop": "2026-09-07T02:17:11+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Rogercop",
+        "description": "El dia que se celebra la jornada de pares a l'institut, la Chloé perd un braçalet molt valuós i no triga ni un segon a culpar la Marinette. L'alcalde, molt nerviós,intenta obligar el Roger, l'agent de policia, a escorcollar la Marinette, i això desencadena una nova aventura amb un nou malvat que amenaça la pau a París. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-06T23:34:01+02:00",
-        "stop": "2026-09-07T00:15:37+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Últims dies al Japó",
-        "description": "Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.",
+        "start": "2026-09-07T01:50:32+02:00",
+        "stop": "2026-09-07T02:40:57+02:00",
+        "title": "El gran camí",
+        "subtitle": "El Camí de Sant Jaume",
+        "description": "El camí de Santiago és la ruta de pelegrinatge més important d'Europa. L'han fet milions de persones durant segles per arribar fins a Santiago de Compostel·la i Fisterra (la fi del món), a Espanya. ",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-07T00:15:37+02:00",
-        "stop": "2026-09-07T00:57:52+02:00",
-        "title": "Un món de Jocs",
-        "subtitle": "Un riutal antic",
-        "description": "Als humans ens encanta jugar. Al llargs dels últims 300.000 anys, hem inventat milers de jocs, potser milions. Però l'origen dels jocs no és gaire divertit. Van sorgir de la nostra lluita per sobreviure. En aquest episodi, analitzem com va començar tot.Donga, EtiòpiaFierljeppen, els Països BaixosCaça d'àguiles, el KirguizstanCurses de camells, Dubai",
+        "start": "2026-09-07T02:40:57+02:00",
+        "stop": "2026-09-07T03:26:55+02:00",
+        "title": "Illes d'Austràlia, amb Martin Clunes",
+        "subtitle": "",
+        "description": "En l'últim episodi del seu periple per les illes d'Austràlia, Martin Clunes visitarà una illa en la desembocadura d'un riu, on hi ha una explotació ramadera molt especial. En un ambient radicalment diferent, l'illa Phillip li demostrarà que la convivència entre els esports de motor, el turisme i la fauna autòctona no és impossible. I, per tancar la sèrie, el Martin visitarà dues illes més, a la recerca de l'animal més llegendari del sud d'Austràlia: el diable de Tasmània.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
+        "image": ""
       }
     ],
     "oca1": [],
