@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-06T00:12:51.630003+00:00",
+  "updated": "2026-09-06T04:41:00.366238+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-06T02:00:01+02:00",
-        "stop": "2026-09-06T04:30:01+02:00",
+        "start": "2026-09-06T06:00:01+02:00",
+        "stop": "2026-09-06T07:00:01+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-06T04:30:01+02:00",
-        "stop": "2026-09-06T05:14:57+02:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Òscar Font & The Swingones",
-        "description": "Entren a l'estudi Òscar Font & The Swingones amb un repertori compost per l'històric i polifacètic Font i que sona a cavall del jazz i el rock-and-roll. L'estil, segons ells, pot recordar els temes més 'jazzy' de Loquillo o Rebeldes, sense moure's de l'ortodòxia del swing. Òscar Font a la veu, al trombó i al clarinet, Juli Aymí, al saxo i al clarinet, Josep Traver, a la guitarra, i Artur Regada, al contrabaix.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-06T07:00:01+02:00",
+        "stop": "2026-09-06T10:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-06T01:00:00+02:00",
-        "stop": "2026-09-06T06:00:00+02:00",
+        "start": "2026-09-06T06:00:00+02:00",
+        "stop": "2026-09-06T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-06T06:00:00+02:00",
-        "stop": "2026-09-06T07:00:00+02:00",
+        "start": "2026-09-06T07:00:00+02:00",
+        "stop": "2026-09-06T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-06T02:03:37+02:00",
-        "stop": "2026-09-06T02:29:24+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-06T06:01:19+02:00",
+        "stop": "2026-09-06T07:20:23+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Anàlisi de la jornada / J4 / Dissabte",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-09-06T02:29:24+02:00",
-        "stop": "2026-09-06T03:55:48+02:00",
+        "start": "2026-09-06T07:20:23+02:00",
+        "stop": "2026-09-06T08:46:48+02:00",
         "title": "Handbol",
         "subtitle": "Supercopa Ibèrica / Final",
         "description": "Des de Vigo, final de la competició d'handbol que enfronta els millors equips de la Península. Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs. ",
@@ -103,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-06T01:56:18+02:00",
-        "stop": "2026-09-06T02:16:56+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Chronogirl",
-        "description": "És l'aniversari de l'Alix i el seu pare li regala un rellotge molt valuós. Durant una cursa contra el Kim, el deixa a l'Alya perquè l'hi guardi. Però el rellotge acaba per terra i es trenca, cosa que disgusta l'Alix. L'Esfinx aprofita per akumatitzar-la i pugui retrocedir en el temps per recuperar el rellotge abans no es trenqui.",
+        "start": "2026-09-06T06:23:22+02:00",
+        "stop": "2026-09-06T06:44:16+02:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "L'Alí Babà i els 40 lladres",
+        "description": "Les Bessones troben l'Alí Babà fent de pintor de minarets i el convencen que les acompanyi a buscar la cova dels quaranta lladres. Mentre aquests estan distrets amb una carrera de camells, l'Alí Babà iles nenes els buidaran la cova, plena d'objectes robats. Però, és clar, l'Avorrida intervindrà i ho enredarà tot…",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-06T02:16:56+02:00",
-        "stop": "2026-09-06T02:38:03+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "El Faraó",
-        "description": "El Jalil, germà de l'Alix, que va a la mateixa classe que la Marinette i l'Aya, és un expert en l'antic Egipte. Tan expert, que acaba obsessionat amb Tutankamon i amb un ritual per fer reviure la princesa Nefertiti. El resultat del ritual obligarà Ladybug i el Cat Noir a fer servir tots els seus poders per evitar que l'Alya sigui sacrificada.",
+        "start": "2026-09-06T06:44:16+02:00",
+        "stop": "2026-09-06T07:07:04+02:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les tres bessones i els fesolets màgics",
+        "description": "Els habitants de la Ciutat de la Tristesa estan tristos i callats. En el cim d'un fesolet, les tres bessones descobreixen un fantàstic jardí, propietat d'un gegant. Les nenes s'adonen que un jardí tan maco com aquell a la Ciutat de la Tristesa portaria la felicitat als seus habitants.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-06T01:42:33+02:00",
-        "stop": "2026-09-06T02:34:12+02:00",
-        "title": "Les latituds del canvi",
-        "subtitle": "Les latituds del canvi",
-        "description": "La llibertat del canvi és un documental de natura sensible i poètic centrat en l'experiència i l'evolució personal d'un grup de persones de diversos països en una aventura marítima de més de 10.000 km. Unida al voltant d'uns objectius comuns, la tripulació del veler Atlas salpa amb la missió d'estudiar els ecosistemes amenaçats de les aigües de l'Àrtic i recollir dades científiques importants sobre la fauna marina, i més concretament sobre les balenes, el plàncton i els microplàstics. Es tracta d'una aventura humana motivada per la ciència participativa, l'exploració i la superació personal.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-06T06:16:23+02:00",
+        "stop": "2026-09-06T06:42:31+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Fascinats pels gats",
+        "description": "Les persones van domesticar als gats o va ser al revés? Com hi veuen? Ens posem en els seus ulls extraordinaris i ens aproximem a la seva visió. Donem trucs per millorar el seu comportament, visitem colònies de gats abandonats i admirem caríssims exemplars de pura raça. També coneixerem el mecanisme que els permet treure les urpes.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-09-06T02:34:12+02:00",
-        "stop": "2026-09-06T03:26:42+02:00",
-        "title": "Invasors de l'Everest",
-        "subtitle": "Invasors de l'Everest",
-        "description": "Des de fa un temps, el mític Everest, que va ser coronat per primera vegada ara fa 70 anys, s'ha convertit en un objectiu a l'abast dels neoalpinistes, milionaris que estan prou en forma per afegir l'ascensió al cim del món a la llista dels desitjos que han pogut complir. Els residus són la part més visible dels problemes que provoca la massificació de l'alpinisme, però la qüestió de fons és l'apropiació i l'explotació d'un espai que abans era lliure i que ara pateix una invasió.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/0/1737383470507.jpg"
+        "start": "2026-09-06T06:42:31+02:00",
+        "stop": "2026-09-06T07:28:45+02:00",
+        "title": "La Renaixença",
+        "subtitle": "El pintallavis",
+        "description": "El pintallavis existeix des de l'any 2000 aC. Es feien amb formigues aixafades i carmí. Ara es fa de molts elements químics que segurament són pitjor que les formigues aixafades, però ningú es posa les mans al cap. Aquest capítol el dediquem al pintallavis. Venen la companyia de teatre musical Impro Side Story. Actuen sense lletra ni partitura perquè basen els seus espectacles en allò que diu el públic. A 'Històries per passejar el gos' anem amb la Sas fins a l'incendi del funicular de Kaprun (Àustria) que es va produir a principis de segle, l'any 2000.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
