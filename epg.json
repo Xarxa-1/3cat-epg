@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-06T04:41:00.366238+00:00",
+  "updated": "2026-09-06T08:56:07.901681+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-06T06:00:01+02:00",
-        "stop": "2026-09-06T07:00:01+02:00",
+        "start": "2026-09-06T09:22:03+02:00",
+        "stop": "2026-09-06T11:11:06+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-06T07:00:01+02:00",
-        "stop": "2026-09-06T10:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-06T11:11:06+02:00",
+        "stop": "2026-09-06T11:44:31+02:00",
+        "title": "Signes dels temps",
+        "subtitle": "Vaig perdre la fe i m'ha costat molt recuperar-la",
+        "description": "Entrevistem Antoni Puigverd, escriptor, poeta i periodista d'opinió. La seva posició contrària al procés el va allunyar de l'escena mediàtica i a perdre l'amistat amb l'expresident Carles Puigdemont. Puigverd ens presenta el seu últim llibre, 'Ocell de bosc' (Llibres de Vanguardia) on parla de memòria, literatura, música, natura i reflexiona sobre la seva visió del món. 'Llegeixo, escric, passejo, cuino i estimo. I miro de tornar el que puc a la societat, sobretot amb la visió de ser pont', explica. Malgrat veu les democràcies en perill i el món de manera pessimista, té esperança. 'L'esperança és un motor que s'activa, és un despertador que ens fa prendre consciència de la necessitat d'actuar davant del mal del món'. Nascut a la Bisbal d'Empordà, als 8 anys vivia sol en una pensió del barri de Gràcia de Barcelona i anava a classes de música. Després va entrar a l'Escolania de Montserrat. Jove antifranquista, va conèixer Cristians pel Socialisme, i quan va anar a parar al marxisme, va perdre la fe. 'M'ha costat molt recuperar-la'. Antoni Puigverd analitza com els mitjans de comunicació tracten la informació sobre l'Església catòlica. I explica el paper que va tenir l'Església catalana a finals dels anys 60, quan va donar suport a iniciatives antifranquistes. Del nou àlbum 'Lux' de Rosalía diu que 'expressa una necessitat d'asserenar-se'. Considera que Rosalía expressa un buit, un malestar que hi ha a la societat, d'aturar-se, tancar el telèfon, observar i contemplar.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-06T06:00:00+02:00",
-        "stop": "2026-09-06T07:00:00+02:00",
+        "start": "2026-09-06T10:00:00+02:00",
+        "stop": "2026-09-06T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-06T07:00:00+02:00",
-        "stop": "2026-09-06T10:00:00+02:00",
+        "start": "2026-09-06T12:00:00+02:00",
+        "stop": "2026-09-06T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-06T06:01:19+02:00",
-        "stop": "2026-09-06T07:20:23+02:00",
+        "start": "2026-09-06T09:04:04+02:00",
+        "stop": "2026-09-06T11:06:00+02:00",
+        "title": "Futbol sala",
+        "subtitle": "Barça-Jaén FS / Supercopa d'Espanya / 2a semifinal",
+        "description": "Els blaugranes juguen a casa contra els andalusos la segona semifinal de la Supercopa d'Espanya. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
+      },
+      {
+        "start": "2026-09-06T11:06:00+02:00",
+        "stop": "2026-09-06T12:25:00+02:00",
         "title": "Gol a gol",
         "subtitle": "Anàlisi de la jornada / J4 / Dissabte",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
-      },
-      {
-        "start": "2026-09-06T07:20:23+02:00",
-        "stop": "2026-09-06T08:46:48+02:00",
-        "title": "Handbol",
-        "subtitle": "Supercopa Ibèrica / Final",
-        "description": "Des de Vigo, final de la competició d'handbol que enfronta els millors equips de la Península. Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-06T06:23:22+02:00",
-        "stop": "2026-09-06T06:44:16+02:00",
-        "title": "Les Tres Bessones",
-        "subtitle": "L'Alí Babà i els 40 lladres",
-        "description": "Les Bessones troben l'Alí Babà fent de pintor de minarets i el convencen que les acompanyi a buscar la cova dels quaranta lladres. Mentre aquests estan distrets amb una carrera de camells, l'Alí Babà iles nenes els buidaran la cova, plena d'objectes robats. Però, és clar, l'Avorrida intervindrà i ho enredarà tot…",
+        "start": "2026-09-06T10:40:00+02:00",
+        "stop": "2026-09-06T11:00:42+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Les aranyes robot",
+        "description": "Un dissenyador de programes informàtics ha creat un virus que converteix tota la gent que s'hi exposa en zombis. Les espies han descobert que té intencions d'endollar tots els seus seguidors a un ordinador gegant per infectar el món sencer. Si no l'aturen, els robots envairan el planeta.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       },
       {
-        "start": "2026-09-06T06:44:16+02:00",
-        "stop": "2026-09-06T07:07:04+02:00",
-        "title": "Les Tres Bessones",
-        "subtitle": "Les tres bessones i els fesolets màgics",
-        "description": "Els habitants de la Ciutat de la Tristesa estan tristos i callats. En el cim d'un fesolet, les tres bessones descobreixen un fantàstic jardí, propietat d'un gegant. Les nenes s'adonen que un jardí tan maco com aquell a la Ciutat de la Tristesa portaria la felicitat als seus habitants.",
+        "start": "2026-09-06T11:00:42+02:00",
+        "stop": "2026-09-06T11:21:19+02:00",
+        "title": "Espies de veritat",
+        "subtitle": "Missió espacial",
+        "description": "Les espies han descobert que la reponsable de l'aparició de meteorits per tota la terra, és una astròloga amargada pel fet de no haver estat escollida per formar part d'una missió espacial. Venjativa i amb un gran domini de les últimes tecnologies, és gairebé impossible d'aturar...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"
       }
     ],
     "c33": [
       {
-        "start": "2026-09-06T06:16:23+02:00",
-        "stop": "2026-09-06T06:42:31+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Fascinats pels gats",
-        "description": "Les persones van domesticar als gats o va ser al revés? Com hi veuen? Ens posem en els seus ulls extraordinaris i ens aproximem a la seva visió. Donem trucs per millorar el seu comportament, visitem colònies de gats abandonats i admirem caríssims exemplars de pura raça. També coneixerem el mecanisme que els permet treure les urpes.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-06T10:36:45+02:00",
+        "stop": "2026-09-06T11:29:06+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Família Toulat",
+        "description": "La família Toulat ve des de París i l'acompanyem a participar en la Festa dels Raiers a la Pobla de Segur. A més, coneixen el parc d'Aigüestortes i el romànic de la Vall de Boí. Però el viatge té altres sorpreses, sobretot pels dos petits de la família: el Camp Nou i el Circ Cric.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-06T06:42:31+02:00",
-        "stop": "2026-09-06T07:28:45+02:00",
-        "title": "La Renaixença",
-        "subtitle": "El pintallavis",
-        "description": "El pintallavis existeix des de l'any 2000 aC. Es feien amb formigues aixafades i carmí. Ara es fa de molts elements químics que segurament són pitjor que les formigues aixafades, però ningú es posa les mans al cap. Aquest capítol el dediquem al pintallavis. Venen la companyia de teatre musical Impro Side Story. Actuen sense lletra ni partitura perquè basen els seus espectacles en allò que diu el públic. A 'Històries per passejar el gos' anem amb la Sas fins a l'incendi del funicular de Kaprun (Àustria) que es va produir a principis de segle, l'any 2000.",
+        "start": "2026-09-06T11:29:06+02:00",
+        "stop": "2026-09-06T12:21:18+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Resum",
+        "description": "Tanquem la primera temporada amb un resum dels millors moments dels rodatges, tant davant com darrere de càmeres. A més, descobrim imatges exclusives d'aquests onze capítols.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "image": ""
       }
     ],
     "oca1": [],
