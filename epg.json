@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-06T20:08:49.971889+00:00",
+  "updated": "2026-09-06T22:07:10.531932+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-06T21:59:59+02:00",
-        "stop": "2026-09-06T23:43:28+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Coses a fer abans de morir",
-        "description": "COSES A FER ABANS DE MORIRProductores: The Fly Hunter, S.L. i Fosca Films, S.L., 2020Direcció: Cristina Fernández Pintado i Miguel LlorensGuió: Cristina Fernández PintadoFotografia: Miguel LlorensMúsica: Josep Zapater i Noelia PérezIntèrprets: Sergio Caballero (Sam), Cristina Fernández (Isabel), Oriol Tarrasón (Robert), Manuel Maestro (Saul), Mireia Pérez (Sabrina), Àngel Fígols (Marcos) i Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
-      },
-      {
-        "start": "2026-09-06T23:43:28+02:00",
-        "stop": "2026-09-07T00:13:19+02:00",
+        "start": "2026-09-06T23:43:29+02:00",
+        "stop": "2026-09-07T00:13:20+02:00",
         "title": "Oh! Europa",
         "subtitle": "Holanda",
         "description": "El grup visita un important museu d'Amsterdam i es troba amb un conegut futbolista del Barça que els salva d'una situació ben difícil. Mentrestant, la Trini està buscant el seu germà, que des de fa més de vint anys viu a Holanda. Els dos germans, finalment, es retroben i ho celebren.",
         "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
+      },
+      {
+        "start": "2026-09-07T00:13:20+02:00",
+        "stop": "2026-09-07T01:10:15+02:00",
+        "title": "Vosaltres mateixos",
+        "subtitle": "Tres estrelles",
+        "description": "L'Andreu cuina amb una minixef i amb l'ajuda de la Sílvia Abril, i prova la manera de fer esport que més li encaixa: en una hamaca. ",
+        "genre": "TALK-SHOW",
+        "image": "https://img.ccma.cat/multimedia/png/6/6/1698344358966.png"
       }
     ],
     "324": [
       {
-        "start": "2026-09-06T21:00:00+02:00",
-        "stop": "2026-09-06T23:00:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
         "start": "2026-09-06T23:00:00+02:00",
         "stop": "2026-09-07T00:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-07T00:30:00+02:00",
+        "stop": "2026-09-07T01:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-06T21:01:33+02:00",
-        "stop": "2026-09-06T22:16:01+02:00",
-        "title": "E3D",
-        "subtitle": "BMX UCI HC / Extreme Barcelona / Final masculina",
-        "description": "Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
+        "start": "2026-09-06T23:00:07+02:00",
+        "stop": "2026-09-07T00:31:15+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Anàlisi de la jornada / J4 / Diumenge",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-09-06T22:16:01+02:00",
-        "stop": "2026-09-06T23:00:00+02:00",
-        "title": "E3D",
-        "subtitle": "Scooter Park / Extreme Barcelona / Final masculina",
-        "description": "Final masculina d'scootering park a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
+        "start": "2026-09-07T00:31:15+02:00",
+        "stop": "2026-09-07T00:50:12+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-06T22:03:30+02:00",
-        "stop": "2026-09-06T22:14:25+02:00",
-        "title": "Les filles del Dad",
-        "subtitle": "Batussa fraternal",
-        "description": "La Panda i l'Ondine no paren de barallar-se, i converteixen la vida a la casa familiar en un infern, sobretot per la Roxane. A més, les dues germanes exigeixen a la gent de l'entorn que prengui partit per una de les dues. L'única solució per la Roxane és aconseguir reconciliar-les, i per fer-ho haurà de buscar alguna cosa que les dues tinguin en comú.",
+        "start": "2026-09-07T00:02:07+02:00",
+        "stop": "2026-09-07T00:12:26+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "Allò que la vareta s'endugué",
+        "description": "El Magnífic Max es deixa la vareta màgica a la gelateria, i la Felicity i els seus amics l'hi van a portar al castell. Pel camí, però, no poden resistir la temptació d'anar demanant desitjos a la vareta fins al punt de deixar-la sense poder.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-06T22:14:25+02:00",
-        "stop": "2026-09-06T22:24:55+02:00",
-        "title": "Les filles del Dad",
-        "subtitle": "Llar d'infants a casa",
-        "description": "La llar d'infants de la Bébérénice està tancada per una fuita d'aigua i el Dad i elseu veí Jérôme han de buscar la manera de col·locar les criatures per poderanar a treballar. Al Dad no se li acut cap altra solució que deixar els tresnadons a casa i demanar a les seves filles que se n'ocupin. Però els nadonssón tres belluguets i la tasca no serà gens fàcil.",
+        "start": "2026-09-07T00:12:26+02:00",
+        "stop": "2026-09-07T00:22:45+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "La fama",
+        "description": "El Miguel es fa famosíssim entre la comunitat de rates gràcies a una cançó que li va ensenyar un amic flautista. Però és tanta la fama que agafa, que es distancia completament de la Felicity i la gateta ja no sap què fer perquè tot torni a la normalitat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-06T21:59:34+02:00",
-        "stop": "2026-09-06T22:45:13+02:00",
+        "start": "2026-09-06T23:34:01+02:00",
+        "stop": "2026-09-07T00:15:37+02:00",
         "title": "Viatges insòlits",
-        "subtitle": "Japó I",
-        "description": "Després de la parada obligada a causa de la Covid, Tom Waes reprèn la sèrie de Viatges Insòlits amb el que va quedar-li pendent a la pandèmia: Japó. En Tom recorrerà tot el país de sud a nord, més de tres mil quilòmetres per diverses illes, i aquesta primera part inclou la zona més meridional. El capítol comença amb una oració per demanar bon viatge i després continua passant per Nagasaki, l'illa dels gats, i una ciutat dominada per la yakuza, i entremig en Tom encara tindrà temps de participar en un festival tradicional molt especial.",
+        "subtitle": "Últims dies al Japó",
+        "description": "Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-06T22:45:13+02:00",
-        "stop": "2026-09-06T23:34:01+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Japó II",
-        "description": "La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.",
+        "start": "2026-09-07T00:15:37+02:00",
+        "stop": "2026-09-07T00:57:52+02:00",
+        "title": "Un món de Jocs",
+        "subtitle": "Un riutal antic",
+        "description": "Als humans ens encanta jugar. Al llargs dels últims 300.000 anys, hem inventat milers de jocs, potser milions. Però l'origen dels jocs no és gaire divertit. Van sorgir de la nostra lluita per sobreviure. En aquest episodi, analitzem com va començar tot.Donga, EtiòpiaFierljeppen, els Països BaixosCaça d'àguiles, el KirguizstanCurses de camells, Dubai",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
       }
     ],
     "oca1": [],
