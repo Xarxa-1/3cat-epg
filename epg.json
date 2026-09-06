@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-05T22:36:34.047144+00:00",
+  "updated": "2026-09-06T00:12:51.630003+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-05T23:48:53+02:00",
-        "stop": "2026-09-06T01:32:38+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Coses a fer abans de morir",
-        "description": "COSES A FER ABANS DE MORIRProductores: The Fly Hunter, S.L. i Fosca Films, S.L., 2020Direcció: Cristina Fernández Pintado i Miguel LlorensGuió: Cristina Fernández PintadoFotografia: Miguel LlorensMúsica: Josep Zapater i Noelia PérezIntèrprets: Sergio Caballero (Sam), Cristina Fernández (Isabel), Oriol Tarrasón (Robert), Manuel Maestro (Saul), Mireia Pérez (Sabrina), Àngel Fígols (Marcos) i Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
-      },
-      {
-        "start": "2026-09-06T01:32:38+02:00",
-        "stop": "2026-09-06T02:00:01+02:00",
-        "title": "El retorn de les lluernes",
-        "subtitle": "Cristina i 'El sentit d'un final'",
-        "description": "Aquest capítol del programa parteix de la novel·la 'El sentit d'un final' (Angle Editorial), de Julian BarnesTony Webster és ara un jubilat de vida tranquil·la, aparentment en pau amb la seva vida. Però es veurà abocat a revisar el seu passat, especialment els seus anys adolescents. Ara, passats més de quaranta anys, Tony Webster s'adona que molts fets potser no van passar com els havia recordat. Perquè la memòria és imperfecta i pot fer aflorar sorpreses. I, fins i tot, obligar-te a reinterpretar tota una vida.Cristina Fort és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels ubicats al Pallars Sobirà.",
-        "genre": "ALTRES",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-09-06T00:30:00+02:00",
-        "stop": "2026-09-06T01:00:00+02:00",
+        "start": "2026-09-06T02:00:01+02:00",
+        "stop": "2026-09-06T04:30:01+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
+        "start": "2026-09-06T04:30:01+02:00",
+        "stop": "2026-09-06T05:14:57+02:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Òscar Font & The Swingones",
+        "description": "Entren a l'estudi Òscar Font & The Swingones amb un repertori compost per l'històric i polifacètic Font i que sona a cavall del jazz i el rock-and-roll. L'estil, segons ells, pot recordar els temes més 'jazzy' de Loquillo o Rebeldes, sense moure's de l'ortodòxia del swing. Òscar Font a la veu, al trombó i al clarinet, Juli Aymí, al saxo i al clarinet, Josep Traver, a la guitarra, i Artur Regada, al contrabaix.",
+        "genre": "ALTRES",
+        "image": ""
+      }
+    ],
+    "324": [
+      {
         "start": "2026-09-06T01:00:00+02:00",
         "stop": "2026-09-06T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-06T06:00:00+02:00",
+        "stop": "2026-09-06T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-06T00:19:16+02:00",
-        "stop": "2026-09-06T00:50:03+02:00",
+        "start": "2026-09-06T02:03:37+02:00",
+        "stop": "2026-09-06T02:29:24+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -92,53 +92,53 @@
         "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       },
       {
-        "start": "2026-09-06T00:50:03+02:00",
-        "stop": "2026-09-06T02:51:15+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J4 / Dissabte",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-09-06T02:29:24+02:00",
+        "stop": "2026-09-06T03:55:48+02:00",
+        "title": "Handbol",
+        "subtitle": "Supercopa Ibèrica / Final",
+        "description": "Des de Vigo, final de la competició d'handbol que enfronta els millors equips de la Península. Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-06T00:32:48+02:00",
-        "stop": "2026-09-06T00:43:07+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "My fair Yeti",
-        "description": "La Felicity, el Miguel i la Yana estan convidats a prendre el te a la mansió d'una dama molt rica. La Yana té por que se'n riguin d'ella perquè no és gens fina, però la Felicity li fa un curset accelerat d'etiqueta per a l'esdeveniment.",
+        "start": "2026-09-06T01:56:18+02:00",
+        "stop": "2026-09-06T02:16:56+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Chronogirl",
+        "description": "És l'aniversari de l'Alix i el seu pare li regala un rellotge molt valuós. Durant una cursa contra el Kim, el deixa a l'Alya perquè l'hi guardi. Però el rellotge acaba per terra i es trenca, cosa que disgusta l'Alix. L'Esfinx aprofita per akumatitzar-la i pugui retrocedir en el temps per recuperar el rellotge abans no es trenqui.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-06T00:43:07+02:00",
-        "stop": "2026-09-06T00:53:55+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "El buguiman",
-        "description": "Falta poc perquè la Felicity participi a la final del Concurs de Ball de Mitelàndia, però està molt nerviosa i no pot dormir com cal. A més, en somnis se li apareix un ésser misteriós que la ridiculitza dalt de l'escenari en plena actuació.",
+        "start": "2026-09-06T02:16:56+02:00",
+        "stop": "2026-09-06T02:38:03+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "El Faraó",
+        "description": "El Jalil, germà de l'Alix, que va a la mateixa classe que la Marinette i l'Aya, és un expert en l'antic Egipte. Tan expert, que acaba obsessionat amb Tutankamon i amb un ritual per fer reviure la princesa Nefertiti. El resultat del ritual obligarà Ladybug i el Cat Noir a fer servir tots els seus poders per evitar que l'Alya sigui sacrificada.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-06T00:00:49+02:00",
-        "stop": "2026-09-06T00:51:27+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "La ribera del Marne",
-        "description": "La Brigitte fa un guisat de conill amb raïm negre segons una recepta molt antiga i típica de la ribera del Marne. En Philippe pertany a una confraria de vinyataires que han fet reviscolar un vinet blanc molt emblemàtic de Nogent-sur-Marne. En Fabrice, descendent d'italians, fa un pa de pessic italià emborratxat amb licor d'ametlles. La Michelle i la Christine fan un guisat de bou amb anxoves i pastanaga i en Tayeb, director d'una formatgeria, ens canta les excel·lències del brie.",
+        "start": "2026-09-06T01:42:33+02:00",
+        "stop": "2026-09-06T02:34:12+02:00",
+        "title": "Les latituds del canvi",
+        "subtitle": "Les latituds del canvi",
+        "description": "La llibertat del canvi és un documental de natura sensible i poètic centrat en l'experiència i l'evolució personal d'un grup de persones de diversos països en una aventura marítima de més de 10.000 km. Unida al voltant d'uns objectius comuns, la tripulació del veler Atlas salpa amb la missió d'estudiar els ecosistemes amenaçats de les aigües de l'Àrtic i recollir dades científiques importants sobre la fauna marina, i més concretament sobre les balenes, el plàncton i els microplàstics. Es tracta d'una aventura humana motivada per la ciència participativa, l'exploració i la superació personal.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-06T00:51:27+02:00",
-        "stop": "2026-09-06T01:42:32+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "Saintoge",
-        "description": "En aquest episodi, la Julie visita la regió de Saintonge, al departament de la Charanta Marítima. Amb la Lisette prepara els cargols típics de la Charanta. A continuació visita una fàbrica de mantega elaborada a l'estil tradicional. Després, amb en Piqthiu, prepara un gigourit, un civet típic de la regió. Finalment, amb la Michèle, prepara unes coques de la Charanta farcides d'angèlica.",
+        "start": "2026-09-06T02:34:12+02:00",
+        "stop": "2026-09-06T03:26:42+02:00",
+        "title": "Invasors de l'Everest",
+        "subtitle": "Invasors de l'Everest",
+        "description": "Des de fa un temps, el mític Everest, que va ser coronat per primera vegada ara fa 70 anys, s'ha convertit en un objectiu a l'abast dels neoalpinistes, milionaris que estan prou en forma per afegir l'ascensió al cim del món a la llista dels desitjos que han pogut complir. Els residus són la part més visible dels problemes que provoca la massificació de l'alpinisme, però la qüestió de fons és l'apropiació i l'explotació d'un espai que abans era lliure i que ara pateix una invasió.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/7/0/1737383470507.jpg"
       }
     ],
     "oca1": [],
