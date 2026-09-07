@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-07T07:32:24.965244+00:00",
+  "updated": "2026-09-07T13:41:07.380044+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-07T09:17:42+02:00",
-        "stop": "2026-09-07T11:00:00+02:00",
-        "title": "Matins",
-        "subtitle": "Matins, l'anàlisi de l'entrevista",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "start": "2026-09-07T15:30:21+02:00",
+        "stop": "2026-09-07T15:48:33+02:00",
+        "title": "Cuines",
+        "subtitle": "Cuines - Esqueixada de salaons",
+        "description": "Marc Ribas fa una versió rústica de la típica esqueixada de bacallà en què combina una salmorreta a l'estil valencià amb diferents tipus de salaons que dessalarem: bacallà, anxoves i arengades. Un plat que ens evoca temps passats, en què tots aquests peixos van alimentar generacions senceres. I tot plegat, amb un toc de modernitat. ",
+        "genre": "CUINA",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
       },
       {
-        "start": "2026-09-07T11:00:00+02:00",
-        "stop": "2026-09-07T14:00:00+02:00",
-        "title": "Tot es mou",
-        "subtitle": "Tot es mou",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
-        "genre": "MAGAZINE",
-        "image": ""
+        "start": "2026-09-07T15:48:33+02:00",
+        "stop": "2026-09-07T15:56:56+02:00",
+        "title": "Cuines",
+        "subtitle": "Cuines - Gaspatxo de remolatxa i gerds",
+        "description": "De gaspatxos n'hi ha de moltes menes . En només 7 minuts, l'Arnau París en prepara un en què la remolatxa i els gerds són els protagonistes. ",
+        "genre": "CUINA",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-07T09:10:00+02:00",
-        "stop": "2026-09-07T11:00:00+02:00",
-        "title": "Matins",
+        "start": "2026-09-07T15:30:00+02:00",
+        "stop": "2026-09-07T16:00:00+02:00",
+        "title": "3CatInfo en aranès",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "description": "Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "image": "https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"
       },
       {
-        "start": "2026-09-07T11:00:00+02:00",
-        "stop": "2026-09-07T12:00:00+02:00",
+        "start": "2026-09-07T16:00:00+02:00",
+        "stop": "2026-09-07T17:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-07T08:32:59+02:00",
-        "stop": "2026-09-07T10:06:05+02:00",
-        "title": "Futbol sala",
-        "subtitle": "Futbol sala - Múrcia FS-Barça / Supercopa d'Espanya / Final",
-        "description": "Des del Palau Blaugrana, final de la Supercopa d'Espanya. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
+        "start": "2026-09-07T15:25:31+02:00",
+        "stop": "2026-09-07T16:13:54+02:00",
+        "title": "Vida",
+        "subtitle": "Vida - Insectes",
+        "description": "Els insectes són el grup animal més divers del planeta. La clau de l'èxit és la seva capacitat única per reformar-se. Posseeixen armes temibles, però alhora poden mostrar una tendresa sorprenent i un comportament molt sofisticat. Ens enlairarem cap al cel envoltats de milions de papallones monarca a Mèxic, veurem un escarabat ruixant un producte químic roent als seus enemics, presenciarem una lluita a mort per unes femelles entre abelles gegants, acompanyarem la marxa de columnes d'Atta i passarem un dia ple de perills en companyia de damisel·les.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-07T10:06:05+02:00",
-        "stop": "2026-09-07T10:31:57+02:00",
-        "title": "Catalunya salvatge",
-        "subtitle": "Catalunya salvatge - Ecosistemes de Catalunya",
-        "description": "Visió global del contingut de la sèrie gràcies a una ràpida repassada dels principals ecosistemes de Catalunya.",
+        "start": "2026-09-07T16:13:54+02:00",
+        "stop": "2026-09-07T17:02:55+02:00",
+        "title": "Vida",
+        "subtitle": "Vida - Rèptils i amfibis",
+        "description": "Des de les immensitats de gel fins als deserts més àrids, els rèptils i els amfibis han utilitzat el seu cos peciloterm i prehistòric, juntament amb una sèrie de sofisticades innovacions comportamentals, per dominar els entorns més severs del planeta. Mitjançant tècniques de cacera despietades, un camuflatge extraordinari, astúcia i una resistència física total, habiten còmodament indrets que mamífers i aus no gosen ni trepitjar. Aquesta setmana contemplarem dragons de Komodo caçant búfals, serps marines amb un dels verins més tòxics del món que es reprodueixen en coves, els bots aparentment suïcides d'un gripau (Oreophrynella macconnelli) , la tendra i gegantesca granota bramadora africana, que excava canals d'aigua per salvar les seves cries i també les d'altres espècies i llangardaixos que caminen sobre l'aigua.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-07T09:30:34+02:00",
-        "stop": "2026-09-07T09:41:07+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla Peluda - La Patrulla salva en Potes Grosses",
-        "description": "Una criatura misteriosa amb les potes molt grosses s'ha endut una relíquia daurada. En Tracker i la resta de la Patrulla hauran de resoldre aquesta desaparició.",
+        "start": "2026-09-07T15:22:39+02:00",
+        "stop": "2026-09-07T15:43:50+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Bola de drac Z - En Cèl·lula s'acosta a la ciutat",
+        "description": "Disposat a aguantar fins a l'arribada dels superguerrers, en Cor Petit s'enfronta a l'A-17, però els pitjors temors es fan realitat quan en Cèl·lula detecta l'energia del Supernamek i decideix anar-lo a buscar. Mentrestant, en Vegeta i en Trunks continuen a la Sala de l'Esperit del Temps per intentar superar la força dels superguerrers.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-07T09:41:07+02:00",
-        "stop": "2026-09-07T09:53:02+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla Peluda - La Patrulla salva el Hum-mòbil",
-        "description": "L'alcalde Humdinger fa veure que s'ha trencat un dit del peu per guanyar una cursa.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-07T15:43:50+02:00",
+        "stop": "2026-09-07T16:04:58+02:00",
+        "title": "Henry Danger",
+        "subtitle": "Henry Danger - Cita falsa de Sant Valentí",
+        "description": "Per Sant Valentí, en Henry compra entrades per a una discoteca juvenil, però quan la Bianca el rebutja per haver-la convidat massa tard, idea un pla per posar-la gelosa. Amb l'ajuda d'un androide molt especial, la nit promet ser molt més caòtica del que esperava.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-07T09:12:51+02:00",
-        "stop": "2026-09-07T09:39:06+02:00",
-        "title": "Viure als Pirineus",
-        "subtitle": "Viure als Pirineus - Un guia dels Pirineus (Tardor - Hivern)",
-        "description": "Xavier Llongueras és un guia d'alta muntanya, però a qui no sempre li es fàcil guanyar-se la vida. Ara està content, ja que durant una setmana té unes noves clientes canadenques. Enguany hi ha poca neu i en Xavi es dedica a fer exemplars del calendari de la Cerdanya, ja que a les botigues l'estan exhaurint. El calendari l'elabora ell íntegrament i aconsegueix vendre'n dos mil, ja que s'ha convertit en un clàssic a les dues bandes de la frontera. Com que els clients continuen escassejant, en Xavi ho aprofita per practicar l'escalada. Sense la responsabilitat de guiar clients se sent lliure i viu l'emoció intensa dels que coronen cims. Però com que la neu es fa esperar i ha perdut dies de feina, decideix convocar la família i els amics per trencar la solitud amb bona companyia. I, alhora, munta el seu estand a la Fira de Bellver per aconseguir nous clients. Tot esperant la neu, en Xavi continua el seu dia a dia i esgarrapa temps per fer les fotos d'un nou reportatge per a la revista 'Cadí-Pedraforca'. N'és el fotògraf oficial. Finalment ha nevat i en Xavi té un client. Està content de poder continuar fent la feina que s'ha buscat i que l'apassiona.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-07T15:02:50+02:00",
+        "stop": "2026-09-07T15:49:22+02:00",
+        "title": "La Renaixença",
+        "subtitle": "La Renaixença - La guardiola",
+        "description": "Tots hem tingut una guardiola amb forma de porquet i heu de saber que té aquesta forma per una confusió lingüística: a Anglaterra s'anomenava 'pygg' un tipus d'argila i algú va entendre 'pig' (porc en anglès). 'Apreneu idiomes', deien. I així es va confondre tota la humanitat. Ens visita la Maria Nicolau, que esmorza tres tasses de cafè. Potser això té molt a veure amb l'energia que porta a sobre sempre la que veiem. Sortim a passejar en Winter, un gos d'Irlanda, per l'accident de la plataforma Byford Dolphin, el novembre del 1983.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-09-07T09:39:06+02:00",
-        "stop": "2026-09-07T10:06:51+02:00",
-        "title": "Viure als Pirineus",
-        "subtitle": "Viure als Pirineus - Un mecànic dels Pirineus (Tardor - Hivern)",
-        "description": "L'hivern arriba, finalment, al Pic de Migdia. A les instal·lacions del cim, hi retrobem Jean-François Rechoulet, encarregat de les tasques de manteniment d'aquest lloc mític. Tot i que, a l'hivern, hi ha molta menys presència de turistes al Pic, les tasques de què s'han d'ocupar en Jean-François i els seus companys són igualment nombroses. Les condicions climàtiques fan que les estades al cim siguin tot un repte. El Pic, però, es revesteix del seu mantell blanc i els esforços del personal es veuen recompensats, perquè tenen el privilegi de poder gaudir d'un paisatge del tot excepcional.",
+        "start": "2026-09-07T15:49:22+02:00",
+        "stop": "2026-09-07T16:39:41+02:00",
+        "title": "Terreny personal",
+        "subtitle": "Terreny personal - Plana de Vic",
+        "description": "En aquest capítol descobrirem un terreny envoltat de muntanyes que s'amaga sota la boira. Situat entre les Guilleries i el Moianès, entre el Montseny i el Lluçanès, travessa la comarca d'Osona de nord a sud: és la plana de Vic.Els protagonistes d'aquest programa estan molt lligats a aquest terreny tancat que els defineix. El Xevi Crosas ha decidit muntar una granja d'ovelles a la terra on va néixer, a prop del Ter, un riu que ell defensa i reivindica. El Quico Arumí buscava feina a la cuina, però tenia clar que havia de ser al costat de casa i la va trobar... a Can Jubany. El Miquel Saborit és de Vic. Escalador, li agrada mirar des de ben amunt la terra on va néixer.I la Ouafae Dabbou va arribar a Manlleu de gran, però d'aquest territori n'ha fet casa seva i de la seva família.En aquest capítol també hi intervenen nens de l'escola Vall del Ges de Torelló, que ens expliquen els seus espais preferits. L'escriptor Jordi Puntí llegeix un fragment del seu llibre 'Els castellans' a Manlleu, on va néixer, i l'Ernest Crusats, cantant de La Iaia, canta 'Sota l'arbre' i recorda la seva infantesa a la plaça de Vic.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
