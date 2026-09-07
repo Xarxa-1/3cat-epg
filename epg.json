@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-07T02:31:19.138413+00:00",
+  "updated": "2026-09-07T07:32:24.965244+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-07T04:30:01+02:00",
-        "stop": "2026-09-07T05:09:39+02:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Gerard Nieto Quartet",
-        "description": "Gerard Nieto Quartet: el nou projecte d'un del pianistes amb més swing de Catalunya i que dins del jazz clàssic beu dels pianistes que més l'han influènciat: Oscar Peterson, Monty Alexander o Gene Harris. Nieto vola pels terrenys del swing, el blues i el gospel, una barreja de tot plegat que dóna lloc a un jazz fresc, amè, intens i sempre respectuós amb la tradició. Dave Mitchell, a la guitarra; Manel Álvarez, al contrabaix, i Pinyu Martí, a la bateria.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-07T09:17:42+02:00",
+        "stop": "2026-09-07T11:00:00+02:00",
+        "title": "Matins",
+        "subtitle": "Matins, l'anàlisi de l'entrevista",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       },
       {
-        "start": "2026-09-07T05:09:39+02:00",
-        "stop": "2026-09-07T05:54:51+02:00",
-        "title": "Cava de Blues",
-        "subtitle": "Big Hollers",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+        "start": "2026-09-07T11:00:00+02:00",
+        "stop": "2026-09-07T14:00:00+02:00",
+        "title": "Tot es mou",
+        "subtitle": "Tot es mou",
+        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "genre": "MAGAZINE",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-07T01:00:00+02:00",
-        "stop": "2026-09-07T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-07T09:10:00+02:00",
+        "stop": "2026-09-07T11:00:00+02:00",
+        "title": "Matins",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       },
       {
-        "start": "2026-09-07T06:00:00+02:00",
-        "stop": "2026-09-07T08:00:00+02:00",
+        "start": "2026-09-07T11:00:00+02:00",
+        "stop": "2026-09-07T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-07T02:33:25+02:00",
-        "stop": "2026-09-07T04:42:33+02:00",
-        "title": "Bàsquet",
-        "subtitle": "MoraBanc Andorra-Barça / Amistós",
-        "description": "Vuitena edició del Trofeu Comú d'Encamp. El MoraBanc Andorra i el Barça juguen aquest partit amistós de pretemporada pocs dies abans de tornar-se a enfrontar a la Lliga Catalana de Bàsquet. Amb la narració de Víctor Lavagnini i l'anàlisi de Nacho Solozabal. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
-      },
-      {
-        "start": "2026-09-07T04:42:33+02:00",
-        "stop": "2026-09-07T06:32:30+02:00",
+        "start": "2026-09-07T08:32:59+02:00",
+        "stop": "2026-09-07T10:06:05+02:00",
         "title": "Futbol sala",
-        "subtitle": "Múrcia FS-Barça / Supercopa d'Espanya / Final",
+        "subtitle": "Futbol sala - Múrcia FS-Barça / Supercopa d'Espanya / Final",
         "description": "Des del Palau Blaugrana, final de la Supercopa d'Espanya. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
+      },
+      {
+        "start": "2026-09-07T10:06:05+02:00",
+        "stop": "2026-09-07T10:31:57+02:00",
+        "title": "Catalunya salvatge",
+        "subtitle": "Catalunya salvatge - Ecosistemes de Catalunya",
+        "description": "Visió global del contingut de la sèrie gràcies a una ràpida repassada dels principals ecosistemes de Catalunya.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-07T04:30:51+02:00",
-        "stop": "2026-09-07T04:42:22+02:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "Un espectacle preciós",
-        "description": "La Guineta, en Pinxo, en Timbal i la Trufa decideixen fer un espectacle per als seus pares. Entre tots munten un petit escenari al mig del bosc, però en Pinxo vol ser el protagonista absolut de la funció, cosa que no agrada gens als seus germans, que el deixen plantat. En Pinxo assaja el seu esquetx en veu tan alta, que es queda afònic.",
+        "start": "2026-09-07T09:30:34+02:00",
+        "stop": "2026-09-07T09:41:07+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva en Potes Grosses",
+        "description": "Una criatura misteriosa amb les potes molt grosses s'ha endut una relíquia daurada. En Tracker i la resta de la Patrulla hauran de resoldre aquesta desaparició.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-07T04:42:22+02:00",
-        "stop": "2026-09-07T04:49:01+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "Va, Bitzer, va!",
-        "description": "El Bitzer ha estat vençut i humiliat pel gos del Ben, el Lexie, en la cursa del Gran Premi de karts. En veure aquest escarni que ha patit el seu amic, el Shaun decideix fer alguna cosa perquè la pròxima vegada les coses siguin una mica diferents.1",
+        "start": "2026-09-07T09:41:07+02:00",
+        "stop": "2026-09-07T09:53:02+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva el Hum-mòbil",
+        "description": "L'alcalde Humdinger fa veure que s'ha trencat un dit del peu per guanyar una cursa.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-07T04:17:03+02:00",
-        "stop": "2026-09-07T05:06:21+02:00",
-        "title": "Cites Barcelona",
-        "subtitle": "Claudia-Imanol",
-        "description": "La Claudia i l'Imanol es van conèixer l'estiu del 1988 a Valtueña, un poble de Sòria. Allà, es van enamorar i es van fer el seu primer petó. Des de llavors, no s'han tornat a veure, però la seva història d'amor és recordada pels habitants del poble amb molta tendresa.34 anys després, s'han retrobat a través de Tinder. L'Imanol creu que el seu retrobament no ha estat una casualitat i que el seu destí sempre ha estat estar junts. La Claudia pensa que el destí no és més que una invenció que la gent fa servir per donar sentit a les seves vides.A mesura que avança la cita, les diferències entre ells i la pressió de les expectatives que han generat a propòsit d'aquest retrobament posaran en perill el conte de fades.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-07T09:12:51+02:00",
+        "stop": "2026-09-07T09:39:06+02:00",
+        "title": "Viure als Pirineus",
+        "subtitle": "Viure als Pirineus - Un guia dels Pirineus (Tardor - Hivern)",
+        "description": "Xavier Llongueras és un guia d'alta muntanya, però a qui no sempre li es fàcil guanyar-se la vida. Ara està content, ja que durant una setmana té unes noves clientes canadenques. Enguany hi ha poca neu i en Xavi es dedica a fer exemplars del calendari de la Cerdanya, ja que a les botigues l'estan exhaurint. El calendari l'elabora ell íntegrament i aconsegueix vendre'n dos mil, ja que s'ha convertit en un clàssic a les dues bandes de la frontera. Com que els clients continuen escassejant, en Xavi ho aprofita per practicar l'escalada. Sense la responsabilitat de guiar clients se sent lliure i viu l'emoció intensa dels que coronen cims. Però com que la neu es fa esperar i ha perdut dies de feina, decideix convocar la família i els amics per trencar la solitud amb bona companyia. I, alhora, munta el seu estand a la Fira de Bellver per aconseguir nous clients. Tot esperant la neu, en Xavi continua el seu dia a dia i esgarrapa temps per fer les fotos d'un nou reportatge per a la revista 'Cadí-Pedraforca'. N'és el fotògraf oficial. Finalment ha nevat i en Xavi té un client. Està content de poder continuar fent la feina que s'ha buscat i que l'apassiona.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-07T05:06:21+02:00",
-        "stop": "2026-09-07T05:25:20+02:00",
-        "title": "Les Feres",
-        "subtitle": "Mar Pujol",
-        "description": "Mar Pujol interpreta en directe cançons del seu repertori a Santa Llúcia de Sobremunt. La cantautora de Lluçanès construeix els seus temes a partir del binomi essencial format per una guitarra i una veu. Folk confessional, que es fixa en l'observació de la quotidianitat i en els sentiments més purs. I que es desplega al seu primer EP autoeditat, 'Trepa', en senzills escollits o al llarga durada, 'Cançons de rebost'  Mar Pujol: veu i guitarra Bruna González: violoncel i cors Magalí Datzira: cors   Cançons: -Ploranera -Cabell d'àngel -Per cada u -L'hora justa -ÌÍ  Localització: Enregistrat a Santa Llúcia de Sobremunt Data: 19 de maig del 2024  ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
+        "start": "2026-09-07T09:39:06+02:00",
+        "stop": "2026-09-07T10:06:51+02:00",
+        "title": "Viure als Pirineus",
+        "subtitle": "Viure als Pirineus - Un mecànic dels Pirineus (Tardor - Hivern)",
+        "description": "L'hivern arriba, finalment, al Pic de Migdia. A les instal·lacions del cim, hi retrobem Jean-François Rechoulet, encarregat de les tasques de manteniment d'aquest lloc mític. Tot i que, a l'hivern, hi ha molta menys presència de turistes al Pic, les tasques de què s'han d'ocupar en Jean-François i els seus companys són igualment nombroses. Les condicions climàtiques fan que les estades al cim siguin tot un repte. El Pic, però, es revesteix del seu mantell blanc i els esforços del personal es veuen recompensats, perquè tenen el privilegi de poder gaudir d'un paisatge del tot excepcional.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
