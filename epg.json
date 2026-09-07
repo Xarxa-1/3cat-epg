@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-07T18:24:26.174811+00:00",
+  "updated": "2026-09-07T21:39:58.398542+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,117 +43,107 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-07T20:14:59+02:00",
-        "stop": "2026-09-07T21:00:00+02:00",
-        "title": "Està passant",
-        "subtitle": "Està passant",
-        "description": "El Queco i l'Òscar Andreu enceten la nova temporada de l'Està Passant'. L'Andrés Fanjgold comença un nou repte i el Marc Sarrats analitza com ha parlat la premsa de la crisi de Ceuta",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
+        "start": "2026-09-07T23:34:22+02:00",
+        "stop": "2026-09-08T01:20:08+02:00",
+        "title": "Teatre",
+        "subtitle": "Teatre - L'alegria que passa",
+        "description": "L'ALEGRIA QUE PASSAUn espectacle de Dagoll DagomA partir de l'obra de Santiago RusiñolText i direcció d'escena: Marc RosichMúsica i direcció musical: Andreu GallénDirecció coreogràfica: Ariadna PeyaDramatúrgia: Anna Rosa Cisquella, Andreu Gallén, Ariadna Peya i Marc RosichLletres: Marc Rosich i Andreu GallénLa companyia:Mariona CastilloJordi CollJúlia GenísEloi GómezÀngels GonyalonsPol GuimeràBasem NahnouhPau OliverDavid Pérez-BayonaSINOPSIUn poble gris, monòton i industrial veu trencada la seva rutina laborable amb l'arribada d'un gran espectacle musical.La companyia ha sigut contractada per l'alcalde del poble i propietari de l'única fàbrica en tota la població. Joan, el fill de l'alcalde que és a punt de casar-se amb la seva parella Lina, s'enamora de la gran estrella Zaira i vol fugir amb ella lluny del poble gris. Zaira, en canvi, està esgotada de la seva vida nòmada i desitjaria quedar-se a viure al poble i portar una vida amb tranquil·litat. Al seu costat Puck, l'agressiu mànager, la maltracta creient-la de la seva propietat i li exigeix que continuï. L'autoritari i fals demòcrata alcalde obliga el seu fill a desistir dels seus somnis.",
+        "genre": "TEATRE",
+        "image": ""
       },
       {
-        "start": "2026-09-07T21:00:00+02:00",
-        "stop": "2026-09-07T21:59:30+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "Telenotícies vespre",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "start": "2026-09-08T01:20:08+02:00",
+        "stop": "2026-09-08T03:06:48+02:00",
+        "title": "Mésnit",
+        "subtitle": "Mésnit",
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-07T20:00:00+02:00",
-        "stop": "2026-09-07T21:00:00+02:00",
+        "start": "2026-09-07T22:05:00+02:00",
+        "stop": "2026-09-08T00:00:00+02:00",
+        "title": "Mésnit",
+        "subtitle": "",
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
+      },
+      {
+        "start": "2026-09-08T00:00:00+02:00",
+        "stop": "2026-09-08T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-09-07T21:00:00+02:00",
-        "stop": "2026-09-07T22:05:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-07T18:59:53+02:00",
-        "stop": "2026-09-07T20:30:40+02:00",
-        "title": "Tot Costa",
-        "subtitle": "Tot Costa",
-        "description": "El Barça té nou trident de moda. Qui marcarà més gols a final de temporada? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. També analitzarem al 'Torquelab', amb Ricard Torquemada, què canvia al Barça amb Rodri. Tancarem el programa amb entrevista a Àlex Palou i al president del CE Europa, Hector Ibar",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+        "start": "2026-09-07T23:00:28+02:00",
+        "stop": "2026-09-08T00:30:39+02:00",
+        "title": "Onze",
+        "subtitle": "Onze",
+        "description": "Juvenal Edjogo, Jordi Martí, Aina Cerdà i Xavi Torres comenten la golejada del Barça a Mestalla i el canvi d'actitud de José Mourinho. El Joan Fàbregas analitza les jugades polèmiques de la jornada.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-07T20:30:40+02:00",
-        "stop": "2026-09-07T21:01:53+02:00",
-        "title": "Crackòvia",
-        "subtitle": "Crackòvia",
-        "description": "El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.",
-        "genre": "GAGS. HUMOR",
-        "image": ""
+        "start": "2026-09-08T00:30:39+02:00",
+        "stop": "2026-09-08T00:50:11+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "3CatInfo Esports",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-07T20:15:48+02:00",
-        "stop": "2026-09-07T20:37:18+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Henry Danger - Una peixnyata plena d'insectes mortífers",
-        "description": "El primer dia d'en Jasper treballant amb els seus amics es complica quan una peixnyata aparentment inofensiva acaba provocant una situació molt perillosa. ",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-07T23:23:20+02:00",
+        "stop": "2026-09-07T23:45:04+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - La mare cocodril",
+        "description": "En Chris i en Martin estan decidits a demostrar a l'Aviva que el gran cocodril del Nil africà, un dels més grossos del món, a més d'espantar una mica, també sap fer altres coses. Ho faran miniaturitzant-se, disfressant-se d'ous de cocodril i ficant-se al niu de la mare cocodril! Ben aviat sabrem que no és veritat que sempre es volen cruspir tot el que troben! Oi?!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-07T20:37:18+02:00",
-        "stop": "2026-09-07T21:00:00+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Henry Danger - Les magdalenes de l'amor",
-        "description": "En Ray anuncia que es vol casar amb una dona que acaba de conèixer, i els seus amics sospiten que alguna cosa molt estranya hi ha al darrere.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-07T23:45:04+02:00",
+        "stop": "2026-09-08T00:06:04+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - Balenes i calamars",
+        "description": "Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-07T20:01:11+02:00",
-        "stop": "2026-09-07T20:59:44+02:00",
-        "title": "Un planeta perfecte",
-        "subtitle": "Un planeta perfecte - Volcà",
-        "description": "Sense volcans no hi hauria vida: no hi hauria una atmosfera respirable, ni oceans ni terra ferma. A la superfície de la Terra hi ha més de 1.500 volcans actius. En aquest episodi visitarem els sorprenents habitats que els volcans han creat pertot arreu: un llac d'aigües càustiques on crien els flamencs, un volcà adormit on enterren els ous les iguanes, o les grans planes del Serengeti, on els rics sediments volcànics permeten una explosió de vida.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"
+        "start": "2026-09-07T23:23:18+02:00",
+        "stop": "2026-09-07T23:53:11+02:00",
+        "title": "Tot torna",
+        "subtitle": "Tot torna - 1999",
+        "description": "Repassem el 1999, l'any que el planeta entra en psicosi per l'arribada del canvi de mil·lenni mentre Catalunya queda inundada d'aigua i de Furbys. A més, Van Gaal perd els nervis i dues creacions catalanes ho revolucionen tot: el 'come kaca' i 'Plats bruts'.",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-09-07T20:59:44+02:00",
-        "stop": "2026-09-07T21:01:24+02:00",
-        "title": "SENSE FI CANAL 33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-09-07T23:53:11+02:00",
+        "stop": "2026-09-08T00:41:43+02:00",
+        "title": "Aeroport",
+        "subtitle": "Aeroport - Passatgers",
+        "description": "Viatjar en avió pot ser tota una aventura. Especialment si els passatgers arriben justos de temps, porten el DNI caducat, o volen per primera vegada i no tenen gens clar com funciona el tema.",
+        "genre": "Docu-Entreteniment",
         "image": ""
       }
     ],
     "oca1": [],
     "oca2": [],
-    "oca3": [
-      {
-        "start": "2026-09-07T19:00:00+02:00",
-        "stop": "2026-09-07T20:29:55+02:00",
-        "title": "Tot Costa",
-        "subtitle": "",
-        "description": "El Barça té nou trident de moda. Qui marcarà més gols a final de temporada? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. També analitzarem al 'Torquelab', amb Ricard Torquemada, què canvia al Barça amb Rodri. Tancarem el programa amb entrevista a Àlex Palou i al president del CE Europa, Hector Ibar",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
-      }
-    ],
+    "oca3": [],
     "oca4": []
   }
 }
