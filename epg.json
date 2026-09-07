@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-06T23:52:38.223423+00:00",
+  "updated": "2026-09-07T02:31:19.138413+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,13 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-07T01:31:59+02:00",
-        "stop": "2026-09-07T02:00:01+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-07T04:30:01+02:00",
+        "stop": "2026-09-07T05:09:39+02:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Gerard Nieto Quartet",
+        "description": "Gerard Nieto Quartet: el nou projecte d'un del pianistes amb més swing de Catalunya i que dins del jazz clàssic beu dels pianistes que més l'han influènciat: Oscar Peterson, Monty Alexander o Gene Harris. Nieto vola pels terrenys del swing, el blues i el gospel, una barreja de tot plegat que dóna lloc a un jazz fresc, amè, intens i sempre respectuós amb la tradició. Dave Mitchell, a la guitarra; Manel Álvarez, al contrabaix, i Pinyu Martí, a la bateria.",
+        "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-09-07T05:09:39+02:00",
+        "stop": "2026-09-07T05:54:51+02:00",
+        "title": "Cava de Blues",
+        "subtitle": "Big Hollers",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
       }
     ],
     "324": [
@@ -74,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-07T00:59:31+02:00",
-        "stop": "2026-09-07T02:33:24+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J4 / Diumenge",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
-      },
-      {
-        "start": "2026-09-07T02:33:24+02:00",
-        "stop": "2026-09-07T04:42:32+02:00",
+        "start": "2026-09-07T02:33:25+02:00",
+        "stop": "2026-09-07T04:42:33+02:00",
         "title": "Bàsquet",
         "subtitle": "MoraBanc Andorra-Barça / Amistós",
         "description": "Vuitena edició del Trofeu Comú d'Encamp. El MoraBanc Andorra i el Barça juguen aquest partit amistós de pretemporada pocs dies abans de tornar-se a enfrontar a la Lliga Catalana de Bàsquet. Amb la narració de Víctor Lavagnini i l'anàlisi de Nacho Solozabal. ",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
+      },
+      {
+        "start": "2026-09-07T04:42:33+02:00",
+        "stop": "2026-09-07T06:32:30+02:00",
+        "title": "Futbol sala",
+        "subtitle": "Múrcia FS-Barça / Supercopa d'Espanya / Final",
+        "description": "Des del Palau Blaugrana, final de la Supercopa d'Espanya. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-07T01:35:55+02:00",
-        "stop": "2026-09-07T01:56:33+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "El Dibuixant",
-        "description": "El Nathaniel és un noi tímid que està enamorat de la Marinette, però la Choé el posa en evidència. L'Esfinx aprofita la ràbia i la frustració del noi per convertir-lo amb un akuma en Dibuixant, un súper malvat que fa realitat tot el que dibuixa. El Nathaniel aprofitarà els seus nous poders per venjar-se de la Chloé.",
+        "start": "2026-09-07T04:30:51+02:00",
+        "stop": "2026-09-07T04:42:22+02:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "Un espectacle preciós",
+        "description": "La Guineta, en Pinxo, en Timbal i la Trufa decideixen fer un espectacle per als seus pares. Entre tots munten un petit escenari al mig del bosc, però en Pinxo vol ser el protagonista absolut de la funció, cosa que no agrada gens als seus germans, que el deixen plantat. En Pinxo assaja el seu esquetx en veu tan alta, que es queda afònic.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-07T01:56:33+02:00",
-        "stop": "2026-09-07T02:17:11+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Rogercop",
-        "description": "El dia que se celebra la jornada de pares a l'institut, la Chloé perd un braçalet molt valuós i no triga ni un segon a culpar la Marinette. L'alcalde, molt nerviós,intenta obligar el Roger, l'agent de policia, a escorcollar la Marinette, i això desencadena una nova aventura amb un nou malvat que amenaça la pau a París. ",
+        "start": "2026-09-07T04:42:22+02:00",
+        "stop": "2026-09-07T04:49:01+02:00",
+        "title": "El xai Shaun",
+        "subtitle": "Va, Bitzer, va!",
+        "description": "El Bitzer ha estat vençut i humiliat pel gos del Ben, el Lexie, en la cursa del Gran Premi de karts. En veure aquest escarni que ha patit el seu amic, el Shaun decideix fer alguna cosa perquè la pròxima vegada les coses siguin una mica diferents.1",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-07T01:50:32+02:00",
-        "stop": "2026-09-07T02:40:57+02:00",
-        "title": "El gran camí",
-        "subtitle": "El Camí de Sant Jaume",
-        "description": "El camí de Santiago és la ruta de pelegrinatge més important d'Europa. L'han fet milions de persones durant segles per arribar fins a Santiago de Compostel·la i Fisterra (la fi del món), a Espanya. ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-07T04:17:03+02:00",
+        "stop": "2026-09-07T05:06:21+02:00",
+        "title": "Cites Barcelona",
+        "subtitle": "Claudia-Imanol",
+        "description": "La Claudia i l'Imanol es van conèixer l'estiu del 1988 a Valtueña, un poble de Sòria. Allà, es van enamorar i es van fer el seu primer petó. Des de llavors, no s'han tornat a veure, però la seva història d'amor és recordada pels habitants del poble amb molta tendresa.34 anys després, s'han retrobat a través de Tinder. L'Imanol creu que el seu retrobament no ha estat una casualitat i que el seu destí sempre ha estat estar junts. La Claudia pensa que el destí no és més que una invenció que la gent fa servir per donar sentit a les seves vides.A mesura que avança la cita, les diferències entre ells i la pressió de les expectatives que han generat a propòsit d'aquest retrobament posaran en perill el conte de fades.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-09-07T02:40:57+02:00",
-        "stop": "2026-09-07T03:26:55+02:00",
-        "title": "Illes d'Austràlia, amb Martin Clunes",
-        "subtitle": "",
-        "description": "En l'últim episodi del seu periple per les illes d'Austràlia, Martin Clunes visitarà una illa en la desembocadura d'un riu, on hi ha una explotació ramadera molt especial. En un ambient radicalment diferent, l'illa Phillip li demostrarà que la convivència entre els esports de motor, el turisme i la fauna autòctona no és impossible. I, per tancar la sèrie, el Martin visitarà dues illes més, a la recerca de l'animal més llegendari del sud d'Austràlia: el diable de Tasmània.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-07T05:06:21+02:00",
+        "stop": "2026-09-07T05:25:20+02:00",
+        "title": "Les Feres",
+        "subtitle": "Mar Pujol",
+        "description": "Mar Pujol interpreta en directe cançons del seu repertori a Santa Llúcia de Sobremunt. La cantautora de Lluçanès construeix els seus temes a partir del binomi essencial format per una guitarra i una veu. Folk confessional, que es fixa en l'observació de la quotidianitat i en els sentiments més purs. I que es desplega al seu primer EP autoeditat, 'Trepa', en senzills escollits o al llarga durada, 'Cançons de rebost'  Mar Pujol: veu i guitarra Bruna González: violoncel i cors Magalí Datzira: cors   Cançons: -Ploranera -Cabell d'àngel -Per cada u -L'hora justa -ÌÍ  Localització: Enregistrat a Santa Llúcia de Sobremunt Data: 19 de maig del 2024  ",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
       }
     ],
     "oca1": [],
