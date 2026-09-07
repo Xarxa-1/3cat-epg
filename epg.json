@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-07T21:39:58.398542+00:00",
+  "updated": "2026-09-07T23:46:10.758954+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-07T23:34:22+02:00",
-        "stop": "2026-09-08T01:20:08+02:00",
-        "title": "Teatre",
-        "subtitle": "Teatre - L'alegria que passa",
-        "description": "L'ALEGRIA QUE PASSAUn espectacle de Dagoll DagomA partir de l'obra de Santiago RusiñolText i direcció d'escena: Marc RosichMúsica i direcció musical: Andreu GallénDirecció coreogràfica: Ariadna PeyaDramatúrgia: Anna Rosa Cisquella, Andreu Gallén, Ariadna Peya i Marc RosichLletres: Marc Rosich i Andreu GallénLa companyia:Mariona CastilloJordi CollJúlia GenísEloi GómezÀngels GonyalonsPol GuimeràBasem NahnouhPau OliverDavid Pérez-BayonaSINOPSIUn poble gris, monòton i industrial veu trencada la seva rutina laborable amb l'arribada d'un gran espectacle musical.La companyia ha sigut contractada per l'alcalde del poble i propietari de l'única fàbrica en tota la població. Joan, el fill de l'alcalde que és a punt de casar-se amb la seva parella Lina, s'enamora de la gran estrella Zaira i vol fugir amb ella lluny del poble gris. Zaira, en canvi, està esgotada de la seva vida nòmada i desitjaria quedar-se a viure al poble i portar una vida amb tranquil·litat. Al seu costat Puck, l'agressiu mànager, la maltracta creient-la de la seva propietat i li exigeix que continuï. L'autoritari i fals demòcrata alcalde obliga el seu fill a desistir dels seus somnis.",
-        "genre": "TEATRE",
-        "image": ""
-      },
-      {
-        "start": "2026-09-08T01:20:08+02:00",
-        "stop": "2026-09-08T03:06:48+02:00",
+        "start": "2026-09-08T01:20:10+02:00",
+        "stop": "2026-09-08T03:08:23+02:00",
         "title": "Mésnit",
         "subtitle": "Mésnit",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
         "genre": "DEBAT",
         "image": ""
+      },
+      {
+        "start": "2026-09-08T03:08:23+02:00",
+        "stop": "2026-09-08T04:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-07T22:05:00+02:00",
-        "stop": "2026-09-08T00:00:00+02:00",
-        "title": "Mésnit",
+        "start": "2026-09-08T01:00:00+02:00",
+        "stop": "2026-09-08T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-08T00:00:00+02:00",
-        "stop": "2026-09-08T00:30:00+02:00",
+        "start": "2026-09-08T06:00:00+02:00",
+        "stop": "2026-09-08T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-07T23:00:28+02:00",
-        "stop": "2026-09-08T00:30:39+02:00",
+        "start": "2026-09-08T00:53:02+02:00",
+        "stop": "2026-09-08T02:24:45+02:00",
         "title": "Onze",
         "subtitle": "Onze",
         "description": "Juvenal Edjogo, Jordi Martí, Aina Cerdà i Xavi Torres comenten la golejada del Barça a Mestalla i el canvi d'actitud de José Mourinho. El Joan Fàbregas analitza les jugades polèmiques de la jornada.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-08T00:30:39+02:00",
-        "stop": "2026-09-08T00:50:11+02:00",
+        "start": "2026-09-08T02:24:45+02:00",
+        "stop": "2026-09-08T02:46:10+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "3CatInfo Esports",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-07T23:23:20+02:00",
-        "stop": "2026-09-07T23:45:04+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - La mare cocodril",
-        "description": "En Chris i en Martin estan decidits a demostrar a l'Aviva que el gran cocodril del Nil africà, un dels més grossos del món, a més d'espantar una mica, també sap fer altres coses. Ho faran miniaturitzant-se, disfressant-se d'ous de cocodril i ficant-se al niu de la mare cocodril! Ben aviat sabrem que no és veritat que sempre es volen cruspir tot el que troben! Oi?!",
+        "start": "2026-09-08T01:31:22+02:00",
+        "stop": "2026-09-08T01:53:03+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - La Dibuixant Trista",
+        "description": "La Marinette ho té tot per ser feliç: per fi surt amb l'Adrien i té un equip de superherois que li donen suport quan es transforma en Ladybug, però aquesta nova situació és completament nova per a ella i no sap gaire com actuar. Mentre s'esforça a aprendre a no controlar-ho tot, Ladybug i el seu equip s'han d'enfrontar a una supermalvada que té una imaginació desbordant.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-07T23:45:04+02:00",
-        "stop": "2026-09-08T00:06:04+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - Balenes i calamars",
-        "description": "Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!",
+        "start": "2026-09-08T01:53:03+02:00",
+        "stop": "2026-09-08T02:14:12+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Sublimació",
+        "description": "La Marinette està fascinada per la Sublime, una noia que s'ha fet amiga de l'Adrien. Bé per gelosia, bé per curiositat, la Marinette també vol fer-se amiga de la Sublime tant sí com no. Però hi ha un problema: la Marinette no sap com fer-se amiga d'una persona que no necessita ajuda. I els seus intents maldestres poden tenir conseqüències greus.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-07T23:23:18+02:00",
-        "stop": "2026-09-07T23:53:11+02:00",
-        "title": "Tot torna",
-        "subtitle": "Tot torna - 1999",
-        "description": "Repassem el 1999, l'any que el planeta entra en psicosi per l'arribada del canvi de mil·lenni mentre Catalunya queda inundada d'aigua i de Furbys. A més, Van Gaal perd els nervis i dues creacions catalanes ho revolucionen tot: el 'come kaca' i 'Plats bruts'.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-08T01:11:57+02:00",
+        "stop": "2026-09-08T02:49:25+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Pel·lícula - Rumba teràpia",
+        "description": "RUMBA TERÀPIA 'Rumba la vie'Direcció: Franck DuboscGuió: Franck DuboscProducció: Gaumont, Pour Toi Public Productions, TF1 Films Production, Umedia, uFund, OCS, Ciné+, TF1, Le Tax Shelter du Gouvernem, CNCAny: 2022Durada: 102País: FrançaMúsica: Sylvain Goldberg, Matteo LocasciulliFotografia: Ludovic Colbeau-JustinIntèrprets: Franck Dubosc,Louna Espinosa,Jean-Pierre Darroussin,Marie-Philomène Nga,Karina Marimon,Catherine Jacob,Michel Houellebecq,Marie Vincent,Constantin Vidal,Claire Bouanich,Christophe Canard,Philippe Uchan,Adèle Choubard,Nicolas Chupin,Matteo Locasciulli,Alane Delhaye,Damian Odess-Gillett,Gregory GudgeonUn home madur i solitari viu sol després d'haver abandonat la dona i la filla fa vint anys. Commocionat per un infart, troba coratge per enfrontar-se al passat i es matricula d'incògnit a la classe de ball de la seva filla. No l'ha coneguda mai i té l'objectiu de donar sentit a la seva vida.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/6/1753349891569.jpg"
       },
       {
-        "start": "2026-09-07T23:53:11+02:00",
-        "stop": "2026-09-08T00:41:43+02:00",
-        "title": "Aeroport",
-        "subtitle": "Aeroport - Passatgers",
-        "description": "Viatjar en avió pot ser tota una aventura. Especialment si els passatgers arriben justos de temps, porten el DNI caducat, o volen per primera vegada i no tenen gens clar com funciona el tema.",
-        "genre": "Docu-Entreteniment",
-        "image": ""
+        "start": "2026-09-08T02:49:25+02:00",
+        "stop": "2026-09-08T04:19:13+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Pel·lícula - El mort de la platja",
+        "description": "EL MORT DE LA PLATJA 'Le mort de la plage'Direcció: Claude-Michel RomeGuió: Claude-Michel RomeProducció: Fit Productions, AT-Prod, RTBF (Télévision Belge), France Télévisions, Radio Télévision Suisse (RTS), TV5 Monde, CNCAny: 2018Durada: 90País: FrançaMúsica: Frédéric PorteFotografia: Alain DucoussetIntèrprets: Claire Borotra, Jean-François Balmer, Michel Jonasz, Claire Chazal, Pierre Deny, Frédéric Amico, Elisabeth Macocco, Damien Leconte, Coralie Audret, Sylviane Goudal, François RabetteLa capitana Eloïse Gentil, del departament d'investigació de la gendarmeria de Caen, i en Robert Gentil, el seu pare, historiador especialitzat en la Segona Guerra Mundial, fa vint anys que estan enfadats però es reuneixen per investigar la mort d'en James Crawley, de 93 anys, que ha estat trobat vestit amb el seu uniforme de l'exèrcit dels Estats Units i lligat en un pal com si hagués estat afusellat 'per donar exemple'.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/8/1774871447180.jpg"
       }
     ],
     "oca1": [],
