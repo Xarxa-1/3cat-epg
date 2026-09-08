@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-08T12:14:34.693848+00:00",
+  "updated": "2026-09-08T16:40:58.174959+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,48 +43,48 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-08T13:55:13+02:00",
-        "stop": "2026-09-08T14:30:00+02:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "Telenotícies comarques",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "start": "2026-09-08T18:06:44+02:00",
+        "stop": "2026-09-08T19:06:44+02:00",
+        "title": "Medalles d'or de la Generalitat",
+        "subtitle": "Medalles d'or de la Generalitat - Medalles d'Or de la Generalitat 2026",
+        "description": "Acte de lliurament de la Medalla d'Or, la màxima distinció de la Generalitat, al cuiner Ferran Adrià i a la física i directora del Sincrotró Alba, Caterina Biscari. En directe des del Saló Sant Jordi del Palau de la Generalitat. ",
+        "genre": "ESPECIALS INFORMATIUS",
+        "image": ""
       },
       {
-        "start": "2026-09-08T14:30:00+02:00",
-        "stop": "2026-09-08T15:29:59+02:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "Telenotícies migdia",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "start": "2026-09-08T19:06:44+02:00",
+        "stop": "2026-09-08T20:15:00+02:00",
+        "title": "La Selva",
+        "subtitle": "La Selva",
+        "description": "Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!",
+        "genre": "MAGAZINE",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-08T13:55:00+02:00",
-        "stop": "2026-09-08T14:30:00+02:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "start": "2026-09-08T18:00:00+02:00",
+        "stop": "2026-09-08T19:00:00+02:00",
+        "title": "Medalles d'or de la Generalitat",
+        "subtitle": "Medalles d'Or de la Generalitat 2026",
+        "description": "Acte de lliurament de la Medalla d'Or, la màxima distinció de la Generalitat, al cuiner Ferran Adrià i a la física i directora del Sincrotró Alba, Caterina Biscari. En directe des del Saló Sant Jordi del Palau de la Generalitat. ",
+        "genre": "ESPECIALS INFORMATIUS",
+        "image": ""
       },
       {
-        "start": "2026-09-08T14:30:00+02:00",
-        "stop": "2026-09-08T15:30:00+02:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-09-08T19:00:00+02:00",
+        "stop": "2026-09-08T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-08T14:11:27+02:00",
-        "stop": "2026-09-08T16:12:47+02:00",
+        "start": "2026-09-08T17:46:21+02:00",
+        "stop": "2026-09-08T18:59:46+02:00",
         "title": "Esport Club",
         "subtitle": "Esport Club",
         "description": "Lamine Yamal i Hansi Flick, en la prèvia del Barça-Feyenoord de la Champions. A la tertúlia ens acompanyen Iris Miquel, Joan Poquí i Edgar Fornós.",
@@ -92,53 +92,53 @@
         "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       },
       {
-        "start": "2026-09-08T16:12:47+02:00",
-        "stop": "2026-09-08T16:39:10+02:00",
-        "title": "Catalunya salvatge",
-        "subtitle": "Catalunya salvatge - Pelegrins de l'aigua",
-        "description": "'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-08T18:59:46+02:00",
+        "stop": "2026-09-08T20:30:47+02:00",
+        "title": "Tot Costa",
+        "subtitle": "Tot Costa",
+        "description": "Comença la Champions i ja es fan públiques llistes per a la Pilota d'Or. Sentirem Lamine i Flick, amb Ramon Salmurri i Laia Tudel, i ho analitzem amb Miguel Rico, Gemma Herrero i Oriol Domènech. Amb Andrea Orts repassarem els jugadors a seguir de la Champions i tancarem el programa amb el 'Cinquè quart', amb Laura Antoja, Xavi Ballesteros i Ernest Macià. ",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-08T14:03:58+02:00",
-        "stop": "2026-09-08T14:26:14+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Bola de drac Z - Aconseguirà la perfecció del cos, en Cèl·lula?",
-        "description": "Gràcies al gran poder que li ha atorgat la fusió amb el Totpoderós, en Cor Petit és capaç d'enfrontar-se a l'A-17 en igualtat de condicions. Aviat, però, apareix en Cèl·lula amb la intenció d'absorbir els androides i aconseguir la seva forma perfecta. Avui podria ser el gran dia per a l'abominable Cèl·lula!",
+        "start": "2026-09-08T18:41:09+02:00",
+        "stop": "2026-09-08T18:52:09+02:00",
+        "title": "Els barrufets (3D)",
+        "subtitle": "Els barrufets (3D) - Barrufu",
+        "description": "Després d'una gran demostració de l'art marcial del barrufu per part de la Barrufeta, els barrufets li demanen que els n'ensenyi. La Barrufeta, però, és una mestra molt estricta i vol que els seus amics siguin igual de disciplinats que ella. Després d'expulsar-los gairebé a tots del curset, un petit grup decideix venjar-se'n i fer-li passar por. Però amb l'arribada d'un ogre famolenc, la broma s'acaba complicant massa.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-08T14:26:14+02:00",
-        "stop": "2026-09-08T14:45:15+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Bola de drac Z - En Cor Petit contra l'invencible Cèl·lula",
-        "description": "En Cor Petit demostra tot el seu coratge intentant aturar l'invencible Cèl·lula per donar temps de fugir a l'A-17 i a l'A-18. Sense els superguerrers en acció, el Supernamek només té l'opció d'aguantar tant com pugui per ajornar el que és inevitable, una acció que fins i tot li podria costar la vida.",
+        "start": "2026-09-08T18:52:09+02:00",
+        "stop": "2026-09-08T19:03:56+02:00",
+        "title": "Els barrufets (3D)",
+        "subtitle": "Els barrufets (3D) - Qui és el més fort?",
+        "description": "El Barrufet Tou s'ha estat entrenant i desafia el Forçut a una competició per determinar qui és el barrufet més fort del poble. La Barrufeta li demana al Forçut que el deixi guanyar discretament, i així ho fa. Però, després, els barrufets estan tan entusiasmats amb el nou campió del poble que es burlen del Forçut. La Barrufeta idea un pla perquè les coses tornin a la normalitat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-08T13:22:11+02:00",
-        "stop": "2026-09-08T14:14:29+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Experiència Catalana - Resum",
-        "description": "Tanquem la primera temporada amb un resum dels millors moments dels rodatges, tant davant com darrere de càmeres. A més, descobrim imatges exclusives d'aquests onze capítols.",
-        "genre": "ALTRES",
+        "start": "2026-09-08T18:34:55+02:00",
+        "stop": "2026-09-08T19:16:40+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "Viatges insòlits - Últims dies al Japó",
+        "description": "Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-08T14:14:29+02:00",
-        "stop": "2026-09-08T15:01:32+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La Renaixença - La xuleta",
-        "description": "Qui digui que no s'ha fet mai una xuleta, menteix. La cosa és si no te la deixes a casa, o si ets prou valent per fer-la servir i que no et 'pillés' el professor. Segurament molts estaríem d'acord a fer un altar a la xuleta, perquè li devem molts aprovats d'assignatures que ja no recordem que vam fer. Ens visita l'Isidor Nuevo, el paleta que fa més anys que treballa a la Sagrada Família. S'ha buscat una bona feina, perquè no s'acabarà mai. Anem amb en Gealach al Diumenge Sagnant del 1972.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-09-08T19:16:40+02:00",
+        "stop": "2026-09-08T20:07:50+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "Els quaderns de cuina de la Julie - La ribera del Marne",
+        "description": "La Brigitte fa un guisat de conill amb raïm negre segons una recepta molt antiga i típica de la ribera del Marne. En Philippe pertany a una confraria de vinyataires que han fet reviscolar un vinet blanc molt emblemàtic de Nogent-sur-Marne. En Fabrice, descendent d'italians, fa un pa de pessic italià emborratxat amb licor d'ametlles. La Michelle i la Christine fan un guisat de bou amb anxoves i pastanaga i en Tayeb, director d'una formatgeria, ens canta les excel·lències del brie.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
