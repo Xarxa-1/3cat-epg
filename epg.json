@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-08T16:40:58.174959+00:00",
+  "updated": "2026-09-08T19:35:56.697841+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-08T18:06:44+02:00",
-        "stop": "2026-09-08T19:06:44+02:00",
-        "title": "Medalles d'or de la Generalitat",
-        "subtitle": "Medalles d'or de la Generalitat - Medalles d'Or de la Generalitat 2026",
-        "description": "Acte de lliurament de la Medalla d'Or, la màxima distinció de la Generalitat, al cuiner Ferran Adrià i a la física i directora del Sincrotró Alba, Caterina Biscari. En directe des del Saló Sant Jordi del Palau de la Generalitat. ",
-        "genre": "ESPECIALS INFORMATIUS",
-        "image": ""
+        "start": "2026-09-08T21:00:21+02:00",
+        "stop": "2026-09-08T22:16:27+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "Telenotícies vespre",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-09-08T19:06:44+02:00",
-        "stop": "2026-09-08T20:15:00+02:00",
-        "title": "La Selva",
-        "subtitle": "La Selva",
-        "description": "Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
+        "start": "2026-09-08T22:01:38+02:00",
+        "stop": "2026-09-08T23:19:59+02:00",
+        "title": "Nits Sense ficció",
+        "subtitle": "Nits Sense ficció - 17A: Lliçons apreses?",
+        "description": "'17A: Lliçons apreses?' té l'objectiu d'analitzar i comprendre els processos, els comportaments i els patrons de conducta que es donen en els atemptats terroristes jihadistes. El punt de partida és el 'No tinc por' dels atemptats de Barcelona i Cambrils del 17 d'agost del 2017. El documental intenta explicar com uns joves, que no han viscut en la marginació social, han canviat de manera tan radical el rumb de les seves vides sense que ningú se n'hagi adonat. Aquests joves, un cop reclutats i consolidats com a cèl·lula jihadista disposada a atemptar, tenen, en alguns aspectes, uns comportaments semblants a altres cèl·lules que han actuat a Europa; en canvi, en altres, trenquen els esquemes. Es recorden els fets tràgics del 17 d'agost i el seus preparatius amb l'objectiu d'analitzar cada pas, entendre a què responen uns determinats comportaments, i els 'modus operandi' de l'anomenada 'cèl·lula de Ripoll'. I dels molts aspectes que encara queden per saber, dos són essencials: les connexions internacionals (especialment amb França i Bèlgica) i els contactes d'Abdelbaki es Satty amb el Centre Nacional d'Intel·ligència.El documental compta amb la participació de testimonis que havien conegut i tractat aquests joves, i amb diversos experts en la matèria, com Dolores Delgado, fiscal coordinadora de Terrorisme Jihadista de l'Audiència Provincial; el politòleg i especialista en el món àrab Gilles Kepel, i Nuria Perpinyà, tècnica de Convivència i Participació Ciutadana de Ripoll, entre d'altres.",
+        "genre": "DOCUMENTAL",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-08T18:00:00+02:00",
-        "stop": "2026-09-08T19:00:00+02:00",
-        "title": "Medalles d'or de la Generalitat",
-        "subtitle": "Medalles d'Or de la Generalitat 2026",
-        "description": "Acte de lliurament de la Medalla d'Or, la màxima distinció de la Generalitat, al cuiner Ferran Adrià i a la física i directora del Sincrotró Alba, Caterina Biscari. En directe des del Saló Sant Jordi del Palau de la Generalitat. ",
-        "genre": "ESPECIALS INFORMATIUS",
-        "image": ""
+        "start": "2026-09-08T21:00:00+02:00",
+        "stop": "2026-09-08T22:05:00+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-09-08T19:00:00+02:00",
-        "stop": "2026-09-08T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-08T22:05:00+02:00",
+        "stop": "2026-09-09T00:00:00+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-08T17:46:21+02:00",
-        "stop": "2026-09-08T18:59:46+02:00",
-        "title": "Esport Club",
-        "subtitle": "Esport Club",
-        "description": "Lamine Yamal i Hansi Flick, en la prèvia del Barça-Feyenoord de la Champions. A la tertúlia ens acompanyen Iris Miquel, Joan Poquí i Edgar Fornós.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-08T21:14:45+02:00",
+        "stop": "2026-09-08T22:32:25+02:00",
+        "title": "E3D",
+        "subtitle": "E3D - SKATE / EXTREME BARCELONA / FINAL FEMENINA",
+        "description": "Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
       },
       {
-        "start": "2026-09-08T18:59:46+02:00",
-        "stop": "2026-09-08T20:30:47+02:00",
-        "title": "Tot Costa",
-        "subtitle": "Tot Costa",
-        "description": "Comença la Champions i ja es fan públiques llistes per a la Pilota d'Or. Sentirem Lamine i Flick, amb Ramon Salmurri i Laia Tudel, i ho analitzem amb Miguel Rico, Gemma Herrero i Oriol Domènech. Amb Andrea Orts repassarem els jugadors a seguir de la Champions i tancarem el programa amb el 'Cinquè quart', amb Laura Antoja, Xavi Ballesteros i Ernest Macià. ",
+        "start": "2026-09-08T22:32:25+02:00",
+        "stop": "2026-09-08T23:00:00+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Sala de Premsa - Hansi Flick / Prèvia Barça-Feyenoord",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-08T18:41:09+02:00",
-        "stop": "2026-09-08T18:52:09+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "Els barrufets (3D) - Barrufu",
-        "description": "Després d'una gran demostració de l'art marcial del barrufu per part de la Barrufeta, els barrufets li demanen que els n'ensenyi. La Barrufeta, però, és una mestra molt estricta i vol que els seus amics siguin igual de disciplinats que ella. Després d'expulsar-los gairebé a tots del curset, un petit grup decideix venjar-se'n i fer-li passar por. Però amb l'arribada d'un ogre famolenc, la broma s'acaba complicant massa.",
+        "start": "2026-09-08T21:22:34+02:00",
+        "stop": "2026-09-08T21:41:46+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Bola de drac Z - L'últim recurs: l'androide 16",
+        "description": "Amb en Cor Petit fora de combat i veient que l'A-17 no té gran cosa a fer davant d'en Cèl·lula, l'androide 16 passa a l'acció per primera vegada amb l'objectiu de defensar els seus companys. D'entrada, el posa entre l'espasa i la paret, però el poder de regeneració d'en Cèl·lula podria acabar sent un factor decisiu.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-08T18:52:09+02:00",
-        "stop": "2026-09-08T19:03:56+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "Els barrufets (3D) - Qui és el més fort?",
-        "description": "El Barrufet Tou s'ha estat entrenant i desafia el Forçut a una competició per determinar qui és el barrufet més fort del poble. La Barrufeta li demana al Forçut que el deixi guanyar discretament, i així ho fa. Però, després, els barrufets estan tan entusiasmats amb el nou campió del poble que es burlen del Forçut. La Barrufeta idea un pla perquè les coses tornin a la normalitat.",
+        "start": "2026-09-08T21:41:46+02:00",
+        "stop": "2026-09-08T22:03:17+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Bola de drac Z - En Cèl·lula absorbeix l'androide 17",
+        "description": "En Cèl·lula per fi absorbeix l'androide 17 i, a més de canviar d'aspecte, també guanya força i rapidesa. Ara, l'únic que pot intentar evitar que en Cèl·lula també absorbeixi l'A-16 i l'A-18 és en Ten Shin Han, que ha estat observant els combats i provarà d'aturar Cèl·lula, que cada cop sembla més invencible.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-08T18:34:55+02:00",
-        "stop": "2026-09-08T19:16:40+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Viatges insòlits - Últims dies al Japó",
-        "description": "Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-08T21:34:53+02:00",
+        "stop": "2026-09-08T22:00:26+02:00",
+        "title": "Plats bruts",
+        "subtitle": "Plats bruts - Tinc un somni",
+        "description": "El Lopes retroba un antic amic que ara és mànager; aquest li proposa rellançar la seva carrera de 'rumbero' juvenil. Mentrestant, l'Emma fa una broma al Ramon concertant-li una falsa cita amb una suposada amiga interessada en ell.Convidat: Moncho",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       },
       {
-        "start": "2026-09-08T19:16:40+02:00",
-        "stop": "2026-09-08T20:07:50+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "Els quaderns de cuina de la Julie - La ribera del Marne",
-        "description": "La Brigitte fa un guisat de conill amb raïm negre segons una recepta molt antiga i típica de la ribera del Marne. En Philippe pertany a una confraria de vinyataires que han fet reviscolar un vinet blanc molt emblemàtic de Nogent-sur-Marne. En Fabrice, descendent d'italians, fa un pa de pessic italià emborratxat amb licor d'ametlles. La Michelle i la Christine fan un guisat de bou amb anxoves i pastanaga i en Tayeb, director d'una formatgeria, ens canta les excel·lències del brie.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-08T22:00:26+02:00",
+        "stop": "2026-09-08T22:52:25+02:00",
+        "title": "La Renaixença",
+        "subtitle": "La Renaixença - El bisturí",
+        "description": "Sabeu que el bisturí antigament el feien servir els barbers? I sabeu que abans de l'anestèsia no es valorava la precisió del bisturí sinó la rapidesa del cirurgià a l'hora de fer-lo servir? Dediquem el capítol d'avui al bisturí. Rebem la visita d'en Bartomeu Rocabert, rellotger. I un rellotger important, perquè a càrrec seu corren les agulles dels rellotges més importants de Catalunya. A 'Històries per passejar el gos' anem amb en Dungui per l'enfonsament de l'MV Wilhelm Gustloff, el 30 de gener del 1945.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
