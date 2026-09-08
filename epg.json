@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-07T23:46:10.758954+00:00",
+  "updated": "2026-09-08T02:44:35.112106+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,22 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-08T01:20:10+02:00",
-        "stop": "2026-09-08T03:08:23+02:00",
-        "title": "Mésnit",
-        "subtitle": "Mésnit",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
+        "start": "2026-09-08T04:30:00+02:00",
+        "stop": "2026-09-08T05:09:34+02:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Fusió i swing a l'estudi - PERE SOTO GYPSY PROJECT",
+        "description": "Pere Soto Gypsy Project, una formació que es basa en l'escola de gypsy jazz de Django Reinhart i, segons Soto, en l'època daurada del jazz: del swing al bebop. El guitarrista ens presenta el seu nou material amb aquest grup, en el qual inclou la bateria, que, juntament amb la guitarra rítmica, intenta aproximar-se a un so més dels anys 50, quan el gypsy swing s'obre a noves fronteres. Josep Traver, a la guitarra; Curro Gálvez, al contrabaix, i Salvador Toscano, a la bateria.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-08T03:08:23+02:00",
-        "stop": "2026-09-08T04:30:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "Notícies 3CatInfo",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-08T05:09:34+02:00",
+        "stop": "2026-09-08T05:55:00+02:00",
+        "title": "Cava de Blues",
+        "subtitle": "Cava de Blues - Big Mama Montse & Riqui Sabatés",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
       }
     ],
     "324": [
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-08T00:53:02+02:00",
-        "stop": "2026-09-08T02:24:45+02:00",
-        "title": "Onze",
-        "subtitle": "Onze",
-        "description": "Juvenal Edjogo, Jordi Martí, Aina Cerdà i Xavi Torres comenten la golejada del Barça a Mestalla i el canvi d'actitud de José Mourinho. El Joan Fàbregas analitza les jugades polèmiques de la jornada.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-08T04:22:00+02:00",
+        "stop": "2026-09-08T04:54:39+02:00",
+        "title": "Zona Zàping Club",
+        "subtitle": "Zona Zàping Club - Maria Bouabdellah accepta el desafiament del Zapi",
+        "description": "Tres vídeos, tres finals imprevisibles i una única oportunitat per endur-se la samarreta i el carnet oficial del club. Maria Bouabdellah accepta el repte i el DJ Frande sorprèn el plató amb una nova exhibició musical tan peculiar com memorable.",
+        "genre": "ESPECIALS",
+        "image": ""
       },
       {
-        "start": "2026-09-08T02:24:45+02:00",
-        "stop": "2026-09-08T02:46:10+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "3CatInfo Esports",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-08T04:54:39+02:00",
+        "stop": "2026-09-08T05:28:15+02:00",
+        "title": "Zona Zàping Club",
+        "subtitle": "Zona Zàping Club - Elisenda Carod s'enfronta a tres vídeos que enganyen a tothom",
+        "description": "Humor, vídeos virals i un concurs que posarà a prova la capacitat d'observació de la convidada. Al final, com sempre, ballaruga èpica.",
+        "genre": "ESPECIALS",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-08T01:31:22+02:00",
-        "stop": "2026-09-08T01:53:03+02:00",
+        "start": "2026-09-08T04:42:54+02:00",
+        "stop": "2026-09-08T05:05:23+02:00",
         "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - La Dibuixant Trista",
-        "description": "La Marinette ho té tot per ser feliç: per fi surt amb l'Adrien i té un equip de superherois que li donen suport quan es transforma en Ladybug, però aquesta nova situació és completament nova per a ella i no sap gaire com actuar. Mentre s'esforça a aprendre a no controlar-ho tot, Ladybug i el seu equip s'han d'enfrontar a una supermalvada que té una imaginació desbordant.",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Revelador",
+        "description": "La Marinette i l'Adrien són la parella més famosa de París i desperten l'interès d'un influencer poc escrupolós, disposat a tot per fer-se viral a les xarxes, fins i tot a destruir l'amor entre els dos adolescents. Podrà la seva relació sobreviure a una mentida?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-08T01:53:03+02:00",
-        "stop": "2026-09-08T02:14:12+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Sublimació",
-        "description": "La Marinette està fascinada per la Sublime, una noia que s'ha fet amiga de l'Adrien. Bé per gelosia, bé per curiositat, la Marinette també vol fer-se amiga de la Sublime tant sí com no. Però hi ha un problema: la Marinette no sap com fer-se amiga d'una persona que no necessita ajuda. I els seus intents maldestres poden tenir conseqüències greus.",
+        "start": "2026-09-08T05:05:23+02:00",
+        "stop": "2026-09-08T05:17:18+02:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "La família Teixó-Guineu - A parts iguals",
+        "description": "L'avi deixa a la Marguerite i a l'Edmond unes baies de saüc que ha collit perquè les donin als nens. Les ha comptat bé, perquè hi hagi les mateixes per a tots. Però l'Edmond, com que no ho sap, no pot resistir la temptació i se'n menja una. Quan els petits se les parteixen, es troben que al final en queden tres i, com que són quatre, no saben com fer-s'ho.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-08T01:11:57+02:00",
-        "stop": "2026-09-08T02:49:25+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - Rumba teràpia",
-        "description": "RUMBA TERÀPIA 'Rumba la vie'Direcció: Franck DuboscGuió: Franck DuboscProducció: Gaumont, Pour Toi Public Productions, TF1 Films Production, Umedia, uFund, OCS, Ciné+, TF1, Le Tax Shelter du Gouvernem, CNCAny: 2022Durada: 102País: FrançaMúsica: Sylvain Goldberg, Matteo LocasciulliFotografia: Ludovic Colbeau-JustinIntèrprets: Franck Dubosc,Louna Espinosa,Jean-Pierre Darroussin,Marie-Philomène Nga,Karina Marimon,Catherine Jacob,Michel Houellebecq,Marie Vincent,Constantin Vidal,Claire Bouanich,Christophe Canard,Philippe Uchan,Adèle Choubard,Nicolas Chupin,Matteo Locasciulli,Alane Delhaye,Damian Odess-Gillett,Gregory GudgeonUn home madur i solitari viu sol després d'haver abandonat la dona i la filla fa vint anys. Commocionat per un infart, troba coratge per enfrontar-se al passat i es matricula d'incògnit a la classe de ball de la seva filla. No l'ha coneguda mai i té l'objectiu de donar sentit a la seva vida.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/6/1753349891569.jpg"
+        "start": "2026-09-08T04:19:15+02:00",
+        "stop": "2026-09-08T04:59:21+02:00",
+        "title": "La Mar de Bé",
+        "subtitle": "La Mar de Bé - Afra Uno",
+        "description": "Diuen que la millor manera de conèixer l'ofici de pescador és sortir a pescar amb ells. En Quim Casellas ho té clar i, en aquest capítol, s'unirà a la tripulació de l'Afra Uno per pescar peix blau mitjançant la tècnica de l'encerclament, que es fa de nit i ofereix un autèntic espectacle visual. Visitarà el taller d'en Salvador Feliu, sisena generació de mestres d'aixa, on aprendrà a reparar una barca. Al Maram, el centre d'interpretació del peix de l'Escala, cuinarà uns filets de sardina marinades amb all blanc i cireres.",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-09-08T02:49:25+02:00",
-        "stop": "2026-09-08T04:19:13+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - El mort de la platja",
-        "description": "EL MORT DE LA PLATJA 'Le mort de la plage'Direcció: Claude-Michel RomeGuió: Claude-Michel RomeProducció: Fit Productions, AT-Prod, RTBF (Télévision Belge), France Télévisions, Radio Télévision Suisse (RTS), TV5 Monde, CNCAny: 2018Durada: 90País: FrançaMúsica: Frédéric PorteFotografia: Alain DucoussetIntèrprets: Claire Borotra, Jean-François Balmer, Michel Jonasz, Claire Chazal, Pierre Deny, Frédéric Amico, Elisabeth Macocco, Damien Leconte, Coralie Audret, Sylviane Goudal, François RabetteLa capitana Eloïse Gentil, del departament d'investigació de la gendarmeria de Caen, i en Robert Gentil, el seu pare, historiador especialitzat en la Segona Guerra Mundial, fa vint anys que estan enfadats però es reuneixen per investigar la mort d'en James Crawley, de 93 anys, que ha estat trobat vestit amb el seu uniforme de l'exèrcit dels Estats Units i lligat en un pal com si hagués estat afusellat 'per donar exemple'.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/8/1774871447180.jpg"
+        "start": "2026-09-08T04:59:21+02:00",
+        "stop": "2026-09-08T05:29:14+02:00",
+        "title": "El Negre de Banyoles",
+        "subtitle": "El Negre de Banyoles - Blai Bonet",
+        "description": "Blai Bonet, al protagonista d'aquest capítol, ens regala un bitllet d'anada al cel. Va canviar els passatges bíblics pels versos poètics, i amb un domini genuí de la paraula ens deixarà conèixer els seus espais íntims i preferits. En Daura Mangara agafa per primer cop un ferri per anar fins a Santanyí, un poble situat a la part sud de l'illa de Mallorca. Allà entrevista en Ramon Garcia Palacio, què és el coordinador de l'arxiu fundació Mallorca Literària, i amb l'Alelí Mirelman xafardejaran durant hores per l'arxiu Planas i Montanyà, un paradís fotogràfic per trobar relíquies del passat. I finalment, en Daura també visita l'antropòleg Josep Maria Fericgla a Can Benet Vives, a la serra del Montnegre, per parlar sobre la neurosi col·lectiva d'occident.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "oca1": [],
