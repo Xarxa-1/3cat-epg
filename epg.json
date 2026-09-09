@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-09T13:45:02.098567+00:00",
+  "updated": "2026-09-09T17:19:30.536605+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-09T15:34:29+02:00",
-        "stop": "2026-09-09T15:51:53+02:00",
-        "title": "Cuines",
-        "subtitle": "Cuines - Galetes de xocolata i cafè",
-        "description": "La Gessamí Caramés fa unes galetes que són ideals per acompanyar el cafè, ja sigui per a després de dinar, per esmorzar o per berenar.  ",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-09-09T19:11:31+02:00",
+        "stop": "2026-09-09T20:15:00+02:00",
+        "title": "Atrapa'm si pots, estiu",
+        "subtitle": "Atrapa'm si pots, estiu",
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
+        "image": ""
       },
       {
-        "start": "2026-09-09T15:51:53+02:00",
-        "stop": "2026-09-09T15:59:37+02:00",
-        "title": "Cuines",
-        "subtitle": "Cuines - Boletes de calzone",
-        "description": "La xef Rais Esteve ens anuncia que ha arribat al 'Cuines' per portar-nos moltes receptes originals, saboroses, atractives i que podreu fer en un pim-pam. Ens porta un dels grans clàssics de la cuina italiana, una pizza, però hi farà una sacsejada per convertir-la en unes boletes de calzone farcides. Ella hi posarà pernil i formatge, però vosaltres... feu volar la imaginació!",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-09-09T20:15:00+02:00",
+        "stop": "2026-09-09T21:00:00+02:00",
+        "title": "Està passant",
+        "subtitle": "Està passant",
+        "description": "La Natza i la Núria parlen de la comprensió lectora entre els joves i de la dimissió de Trapero. L'Elisenda ha anat a cobrir la vaga de mestres i l'Oye Sherman repassa vídeos que han passat desapercebuts aquesta setmana",
+        "genre": "GAGS. HUMOR",
+        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
       }
     ],
     "324": [
       {
-        "start": "2026-09-09T15:30:00+02:00",
-        "stop": "2026-09-09T16:00:00+02:00",
-        "title": "3CatInfo en aranès",
+        "start": "2026-09-09T18:30:00+02:00",
+        "stop": "2026-09-09T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-09T16:00:00+02:00",
-        "stop": "2026-09-09T17:00:00+02:00",
+        "start": "2026-09-09T20:00:00+02:00",
+        "stop": "2026-09-09T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,66 +83,76 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-09T15:29:07+02:00",
-        "stop": "2026-09-09T16:17:38+02:00",
-        "title": "Vida",
-        "subtitle": "Vida - Els habitants de les profunditats",
-        "description": "Mitjançant tècniques de parada de càmera desenvolupades especialment per fer seguiments en un entorn submarí, 'Life' emprèn un viatge als racons més inexplorats de l'oceà. És aquí on s'estan realitzant nous descobriments, on viuen les criatures més estranyes, des d'aranyes de mar gegants que s'apleguen a milers tot buscant la seguretat de la bandada quan muden la carcassa que les protegeix, fins al calamar gegant 'transvestit'. Ens afegirem a un grup de 250 calamars gegants del corrent de Humboldt en una expedició de caça, contemplarem el sacrifici desesperat d'un pop gegant del Pacífic mare que mor de gana per atendre la seva cria i ens submergirem sota el gel permanent de l'Antàrtida per observar una estora bellugadissa d'estrelles de mar mentre devoren el cos d'una cria de foca.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-09T18:42:00+02:00",
+        "stop": "2026-09-09T20:40:00+02:00",
+        "title": "Un dia de partit",
+        "subtitle": "Un dia de partit - Barça-Feyenoord",
+        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
       },
       {
-        "start": "2026-09-09T16:17:38+02:00",
-        "stop": "2026-09-09T17:05:37+02:00",
-        "title": "Vida",
-        "subtitle": "Vida - Peixos",
-        "description": "Els peixos poden volar, sentir l'electricitat, nedar a més de 110 km/h i fins i tot caminar per terra ferma. Des de l'oceà obert fins als esculls de corall, des de les onades fuetejades per les tempestes fins a les fonts d'aigua dolça de Kenya, submergeix-te amb taurons, saltadors del fang i peixos convictes. Observa els 'Neoclinus blanchardi' lluitant per casa seva, caça amb peixos vela, plana amb peixos voladors, entra al món secret del festeig dels dracs marins i, fins i tot, uneix-te al viatge èpic dels petits gobis que escalen penya-segats.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-09T20:40:00+02:00",
+        "stop": "2026-09-09T21:30:56+02:00",
+        "title": "Zona Champions",
+        "subtitle": "Zona Champions - Post Barça-Feyenoord / J1",
+        "description": "El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!",
+        "genre": "MAGAZINE",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-09T15:40:29+02:00",
-        "stop": "2026-09-09T16:02:31+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Henry Danger - Les xips de la discòrdia",
-        "description": "En Henry i en Ray acaben enfrontats per una absurda rivalitat entre dos nous gustos de patates Frittles, mentre la febre per la votació s'escampa per tot Bonavista.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-09T19:04:59+02:00",
+        "stop": "2026-09-09T19:26:36+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Sublimació",
+        "description": "La Marinette està fascinada per la Sublime, una noia que s'ha fet amiga de l'Adrien. Bé per gelosia, bé per curiositat, la Marinette també vol fer-se amiga de la Sublime tant sí com no. Però hi ha un problema: la Marinette no sap com fer-se amiga d'una persona que no necessita ajuda. I els seus intents maldestres poden tenir conseqüències greus.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-09T16:02:31+02:00",
-        "stop": "2026-09-09T16:09:26+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "En Grizzy i els Lèmmings - Cabana supervoltaica",
-        "description": "En Grizzy està mirant un documental sobre salmons, mentre els Lèmmings ballen al garatge, en un ambient de discoteca. Televisió contra música: la guerra del so ha començat! Quan passa un núvol per damunt de la cabana, en Grizzy s'adona que els seus aparells funcionen gràcies als panells solars. Sense sol, no hi ha electricitat. Llavors idea un pla per ser l'únic de la cabana amb energia..., però els Lèmmings encara no han dit l'última paraula!",
+        "start": "2026-09-09T19:26:36+02:00",
+        "stop": "2026-09-09T19:48:47+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Papapoli",
+        "description": "Per celebrar el petó número 100 amb l'Adrien, la Marinette ha preparat la vetllada romàntica definitiva. Però no recorda que ja havia quedat, a la mateixa hora i al mateix lloc, per fer una nit de pel·li amb les seves amigues. Aconseguirà combinar la seva vida amorosa i les seves amistats, i alhora enfrontar-se a un supermalvat com a Ladybug?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-09T14:59:54+02:00",
-        "stop": "2026-09-09T15:47:23+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La Renaixença - El radar",
-        "description": "En un rànquing d''objectes més odiats del món', el radar segurament estaria dins del TOP5, clarament. Seguretat? Sí. Emprenyada quan t'arriba la multa? De les més grosses. Avui dediquem el capítol al radar. Necessitem desfogar-nos. Pugen a l'escenari de 'La Renaixença' i xerrem des de l'escó amb la P.A.W.N. Gang. Es feia trap al segle XIX? Segurament, no, però al nostre escenari, sí. Sortim a passejar amb en Chök, un brac alemany de Gurb, pel duel de Carabanchel, el 1870.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
-      },
-      {
-        "start": "2026-09-09T15:47:23+02:00",
-        "stop": "2026-09-09T16:38:07+02:00",
-        "title": "Terreny personal",
-        "subtitle": "Terreny personal - La Barceloneta",
-        "description": "Aquest capítol ens porta al passat i al present de la Barceloneta, un terreny en forma de triangle que se situa entre l'hotel Arts, l'hotel Vela i el Palau de Mar, i on fa poc més de 250 anys s'hi va construir un barri sencer, un espai que fins ara ha conservat una gran personalitat i un fort sentiment de pertinença.Els protagonistes del programa ens mostraran les transformacions del barri i ens explicaran com les han viscut. Vicens Forner fotografia el seu entorn des de fa 40 anys amb l'afany de retenir tot el que ha estat important per als seus veïns i que el progrés ha fet desaparèixer. Nini Ruipérez és cuinera per tradició familiar i porta un restaurant de cuina marinera, dels de tota la vida. Vicenç Sousa està jubilat i col·labora amb l'Associació Barceloneta Alerta per ajudar la gent gran del barri en situació de pobresa. I el llibreter Paco Camarasa va venir de València i va triar la Barceloneta per viure-hi perquè considera que encara és barri.A més d'aquests testimonis, també participen en aquest capítol els nens i nenes de l'escola Mediterrània de la Barceloneta, que ens ensenyen els seus espais preferits del barri. Dani Macaco canta 'La república de la tramuntana', i l'escriptor Antoni Garcia Llorca llegeix un fragment de la seva novel·la 'El salvatge'.",
+        "start": "2026-09-09T18:21:42+02:00",
+        "stop": "2026-09-09T19:15:03+02:00",
+        "title": "Llocs recòndits",
+        "subtitle": "Llocs recòndits - Turquia",
+        "description": "'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
+      },
+      {
+        "start": "2026-09-09T19:15:03+02:00",
+        "stop": "2026-09-09T20:13:35+02:00",
+        "title": "Un planeta perfecte",
+        "subtitle": "Un planeta perfecte - Volcà",
+        "description": "Sense volcans no hi hauria vida: no hi hauria una atmosfera respirable, ni oceans ni terra ferma. A la superfície de la Terra hi ha més de 1.500 volcans actius. En aquest episodi visitarem els sorprenents habitats que els volcans han creat pertot arreu: un llac d'aigües càustiques on crien els flamencs, un volcà adormit on enterren els ous les iguanes, o les grans planes del Serengeti, on els rics sediments volcànics permeten una explosió de vida.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"
       }
     ],
     "oca1": [],
-    "oca2": [],
+    "oca2": [
+      {
+        "start": "2026-09-09T18:20:01+02:00",
+        "stop": "2026-09-09T20:29:56+02:00",
+        "title": "Bàsquet : Federació Catalana",
+        "subtitle": "- iLERNA Lleida-Asisa Joventut / Lliga Catalana / J1",
+        "description": "Partit inaugural de la Lliga Catalana de bàsquet. Lleidatans i badalonins formen part del grup 2 conjuntament amb el Girona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
