@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-08T22:01:42.015931+00:00",
+  "updated": "2026-09-09T00:12:53.148172+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-08T23:27:49+02:00",
-        "stop": "2026-09-09T01:13:59+02:00",
-        "title": "Nits Sense ficció",
-        "subtitle": "Nits Sense ficció - La fi d'ETA",
-        "description": "'LA FI D'ETA' (2016), una producció de Quality Media i JWProductions, en coproducció amb Prisa, CMM, RTP, Baleuko, la participació d'ETB, Canal Sur, IB3 i amb la col·laboració de Televisió de Catalunya i el govern basc.La pel·lícula narra la història de les negociacions secretes, explicades des de dins pels seus protagonistes, que van portar al final de la violència terrorista d'ETA a Euskadi. Els personatges principals són tres: Jesus Eguiguren, líder socialista basc; Arnaldo Otegi, líder abertzale, i Alfredo Pérez Rubalcaba, ministre de l'Interior en el govern de José Luis Rodríguez Zapatero. Des de l'any 2000, quan van començar les converses secretes en un 'caserío' a Guipúscoa, fins al 2011, quan ETA va anunciar el cessament definitiu de la lluita armada. Les escenes de les reunions passen per Suïssa, Noruega, el País Basc, hi apareixen els líders d'ETA Josu Ternera i Francisco Javier López Peña 'Thierry', mentre al seu voltant pugen i baixen les esperances, la violència esclata amb noves víctimes, la campanya antiterrorista i judicial es torna a intensificar i els mediadors internacionals intenten ajudar en el procés complex per arribar a la pau. La societat basca es mobilitza i els partits polítics bascos fan els últims i delicats passos que els porten al final esperat.Direcció: Justin WebsterGuió: José Mª Izquierdo i Luis R. AizpeoleaProductor: Javier ReyesProductor executiu TVC: Joan SalvatDirector fotografia: Kim HattesenMuntatge: Marc MartíDirector de producció: Gustavo Jaén i Sumpta AyusoMúsica: Laro Basterrechea",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
-        "start": "2026-09-09T01:13:59+02:00",
-        "stop": "2026-09-09T01:42:08+02:00",
-        "title": "El local",
-        "subtitle": "El local - Buhos-Andrea Motis",
-        "description": "El grup de rock festiu Buhos invita la trompetista i cantant jazzística Andrea Motis a El Local. Ells porten anys fent gires explosives per tot Catalunya i ella, des que era adolescent, toca als millors escenaris del món. No es coneixen personalment i mai s'haguessin imaginat que farien un feat junts, però han decidit entrar al joc. Primer s'asseuen a la taula de so de l'estudi de gravació a escoltar 'Volcans', un dels èxits Buhos, i consensuen donar-li un toc de bossa. Després passen a l'acció. Entren a l'estudi a assajar i ho posen tot en pràctica. També dialoguen i comparteixen vivències cara a cara. Durant l'assaig hi ha diversió, professionalitat i, sobretot, molts vents. El capítol acaba amb la col·laboració en directe de Buhos i Andrea Motis fent una versió molt interessant de 'Volcans'. ",
-        "genre": "ALTRES",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-09-08T22:05:00+02:00",
-        "stop": "2026-09-09T00:00:00+02:00",
+        "start": "2026-09-09T01:44:25+02:00",
+        "stop": "2026-09-09T03:23:55+02:00",
         "title": "Mésnit",
-        "subtitle": "",
+        "subtitle": "Mésnit",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
         "genre": "DEBAT",
         "image": ""
       },
       {
-        "start": "2026-09-09T00:00:00+02:00",
-        "stop": "2026-09-09T00:30:00+02:00",
+        "start": "2026-09-09T03:23:55+02:00",
+        "stop": "2026-09-09T04:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-09-09T01:00:00+02:00",
+        "stop": "2026-09-09T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-09T06:00:00+02:00",
+        "stop": "2026-09-09T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-08T23:00:20+02:00",
-        "stop": "2026-09-09T00:31:28+02:00",
+        "start": "2026-09-09T00:55:47+02:00",
+        "stop": "2026-09-09T02:26:18+02:00",
         "title": "Onze",
         "subtitle": "Onze",
         "description": "Sique Rodriguez, Laia Tudel, Ivan San Antonio i Joan Poquí comenten les paraules de Lamine Yamal en la prèvia del partit contra el Feyenoord. El Fran Domènech presenta els titulars més curiosos de la premsa esportiva.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-09T00:31:28+02:00",
-        "stop": "2026-09-09T00:52:16+02:00",
+        "start": "2026-09-09T02:26:18+02:00",
+        "stop": "2026-09-09T02:50:34+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "3CatInfo Esports",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,41 +103,41 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-08T23:48:12+02:00",
-        "stop": "2026-09-09T00:09:12+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - Els castors constructors",
-        "description": "Tot fent piragüisme pels rius nord-americans, els germans Kratt han fet malbé la presa d'una família de castors. Ara els hauran d'ajudar a refer-la i s'adonaran del que són capaços. Hi ha un munt d'animals que viuen a l'estany que es forma gràcies a la presa dels castors, com ara els talps de musell estrellat, les granotes bramadores, els ànecs carolins... Els vols conèixer?!",
+        "start": "2026-09-09T01:58:07+02:00",
+        "stop": "2026-09-09T02:20:01+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - La Redreçadora",
+        "description": "Mentre intenta amagar el refredat que té a l'Adrien, la Marinette intenta ajudar el Nathaniel a tenir més seguretat en ell mateix per poder dibuixar el còmic que el Marc ha escrit per ell. Però les aspiracions artístiques del Nathaniel no són del gust de tothom i aviat apareixerà una supermalvada decidida a redreçar Ladybug i el seu equip i fer-los anar pel bon camí.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-09T00:09:12+02:00",
-        "stop": "2026-09-09T00:30:12+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - El viatge del Papalloner XT",
-        "description": "L'Aviva acaba de construir el Papalloner XT, el vehicle que acompanyarà en Chris, en Martin i la Capitana Maxil·la a l'aventura més increïble que hagi viscut mai ningú, el viatge més llarg i més impressionant de tots els insectes de l'Amèrica del Nord: 4.800 quilòmetres fins a Mèxic! Però compte, que a mig camí es trobaran amb la malvada Donita Donata!",
+        "start": "2026-09-09T02:20:01+02:00",
+        "stop": "2026-09-09T02:41:38+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Noé",
+        "description": "La Marinette està contenta: des de fa un temps, sembla que tot va bé a París. Potser ja és hora de relaxar-se i aprofitar els bons moments amb l'Adrien i els amics. Però la Mylène li explica que volen fer una pel·lícula amb un guió que desacredita Ladybug i el Gat Noir. I aquesta pel·lícula ho podria fer canviar tot si els parisencs es creguessin que aquesta història farcida de mentides és un reflex de la veritat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-08T22:52:27+02:00",
-        "stop": "2026-09-09T00:46:11+02:00",
+        "start": "2026-09-09T02:10:14+02:00",
+        "stop": "2026-09-09T03:45:22+02:00",
         "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - La forma de l'aigua",
-        "description": "LA FORMA DE L'AIGUA 'The Shape of Water'Direcció: Guillermo del ToroGuió: Guillermo del Toro, Vanessa TaylorProducció: Bull Productions, Fox SearchlightAny: 2017Durada: 119País: Estats UnitsMúsica: Alexandre DesplatFotografia: Dan LaustsenIntèrprets: Sally Hawkins, Doug Jones, Michael Shannon, Octavia Spencer, Richard Jenkins, Michael Stuhlbarg, Lauren Lee Smith, David Hewlett, Nick Searcy, Morgan Kelly, Dru Viergever, Maxine Grossman, Amanda Smith, Cyndy Day, Dave ReachillLa forma de l'aigua és una història romàntica i fantàstica ambientada als Estats Units durant la Guerra Freda. L'Elisa, una dona muda que treballa com a personal de neteja en un laboratori governamental secret, porta una vida solitària i rutinària. Tot canvia quan descobreix una misteriosa criatura aquàtica capturada en una missió militar. Mentre els científics i els militars la consideren un espècimen perillós, l'Elisa hi estableix una connexió profunda basada en la comprensió i l'afecte. A mesura que la relació creix, decideix arriscar-ho tot per salvar-la d'un destí cruel. La pel·lícula combina fantasia, drama i romanticisme per parlar de la diferència, la llibertat i la necessitat d'estimar i ser estimat.",
+        "subtitle": "Pel·lícula - Assassinats al Cantal",
+        "description": "ASSASSINATS AL CANTAL 'Meurtres dans le Cantal'Direcció: Sandrine CohenGuió: Marie-Luce David, Pierre-Yves LebertProducció: Sombrero Productions, France TV, BE-FILMS, RTBF, Auvergne Rhône-Alpes Cinéma, Calle 13 Universal, ETB, France 3 (FR 3)Any: 2023Durada: 95País: FrançaMúsica: Christophe BoutinIntèrprets: Alexandre Varga, Joséphine Jobert, Jean Fornerod, Nicky Marbot, Husky Kihal, Hubert Roulleau, Félix Kysyl, Zoï Sévérin, Pierre Deny, Manoëlle Gaillard, Ambroise Sabbagh, Florence Coste, Benjamin Bourgois, Léa Swan, Noam Kourdourli, Claire Pérot, Odran Guillemard, Florie Auclerc, Kevin Bourigault.L'amo d'un restaurant conegut a la regió, Yann Privat, apareix mort per enverinament. El capità Dussaut i la capitana Waro investiguen el cas i sospiten que pot estar relacionat amb la mort d'una restauradora, que va resultar enverinada, mesos enrere, suposadament per accident. Dussaut i Waro hauran de resoldre, paral·lelament, qüestions personals pendents.",
         "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1786691876977.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/4/3/1752476734934.jpg"
       },
       {
-        "start": "2026-09-09T00:46:11+02:00",
-        "stop": "2026-09-09T01:27:49+02:00",
-        "title": "Cites Barcelona",
-        "subtitle": "Cites Barcelona - Pol-Mireia / Laia-Bruno",
-        "description": "El Pol i la Mireia gaudeixen d'una cita perfecta fins que ell descobreix que ella està embarassada. D'altra banda, el Bruno malinterpreta un missatge de la Laia i es presenta al funeral del seu besoncle. Per sortir del pas davant la família, fingeixen ser parella, i enmig de la farsa, sorgeix una connexió genuïna entre tots dos.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-09T03:45:22+02:00",
+        "stop": "2026-09-09T04:26:17+02:00",
+        "title": "La Mar de Bé",
+        "subtitle": "La Mar de Bé - Felicitat",
+        "description": "Felicitat és el nom de la barca de l'Isca García, però també és el que es respira al Parc Natural del Cap de Creus: tranquil·litat, peix fresc, paisatge, mar, tradició… En Quim Casellas recorrerà els indrets més bonics d'aquesta zona. A Portlligat, l'Isca li mostrarà la visió més tradicional i propera de l'ofici de pescador. A Cadaqués, la filla de l'Isca li descobrirà els secrets de la cultura pesquera. L'escriptor i historiador, Arnald Plujà, l'esperarà al Cap de Creus per ensenyar-li el caràcter mediterrani del territori i, finalment, acabarà a l'aula gastronòmica de Roses cuinant uns filets d'escórpora amb crema de carbassa especiada i sal de sèsam. ",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
