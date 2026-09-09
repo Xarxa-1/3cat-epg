@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-09T00:12:53.148172+00:00",
+  "updated": "2026-09-09T04:44:32.363854+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,34 +43,25 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-09T01:44:25+02:00",
-        "stop": "2026-09-09T03:23:55+02:00",
-        "title": "Mésnit",
-        "subtitle": "Mésnit",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
-      },
-      {
-        "start": "2026-09-09T03:23:55+02:00",
-        "stop": "2026-09-09T04:30:00+02:00",
+        "start": "2026-09-09T06:00:00+02:00",
+        "stop": "2026-09-09T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-09T08:00:00+02:00",
+        "stop": "2026-09-09T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "Matins",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
-      {
-        "start": "2026-09-09T01:00:00+02:00",
-        "stop": "2026-09-09T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-09-09T06:00:00+02:00",
         "stop": "2026-09-09T08:00:00+02:00",
@@ -79,65 +70,74 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-09T08:00:00+02:00",
+        "stop": "2026-09-09T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-09T00:55:47+02:00",
-        "stop": "2026-09-09T02:26:18+02:00",
-        "title": "Onze",
-        "subtitle": "Onze",
-        "description": "Sique Rodriguez, Laia Tudel, Ivan San Antonio i Joan Poquí comenten les paraules de Lamine Yamal en la prèvia del partit contra el Feyenoord. El Fran Domènech presenta els titulars més curiosos de la premsa esportiva.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
-      },
-      {
-        "start": "2026-09-09T02:26:18+02:00",
-        "stop": "2026-09-09T02:50:34+02:00",
+        "start": "2026-09-09T06:33:48+02:00",
+        "stop": "2026-09-09T06:58:29+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "3CatInfo Esports",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+      },
+      {
+        "start": "2026-09-09T06:58:29+02:00",
+        "stop": "2026-09-09T08:28:49+02:00",
+        "title": "Onze",
+        "subtitle": "Onze",
+        "description": "Sique Rodriguez, Laia Tudel, Ivan San Antonio i Joan Poquí comenten les paraules de Lamine Yamal en la prèvia del partit contra el Feyenoord. El Fran Domènech presenta els titulars més curiosos de la premsa esportiva.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-09T01:58:07+02:00",
-        "stop": "2026-09-09T02:20:01+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - La Redreçadora",
-        "description": "Mentre intenta amagar el refredat que té a l'Adrien, la Marinette intenta ajudar el Nathaniel a tenir més seguretat en ell mateix per poder dibuixar el còmic que el Marc ha escrit per ell. Però les aspiracions artístiques del Nathaniel no són del gust de tothom i aviat apareixerà una supermalvada decidida a redreçar Ladybug i el seu equip i fer-los anar pel bon camí.",
+        "start": "2026-09-09T06:34:39+02:00",
+        "stop": "2026-09-09T06:46:01+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "L'abella Maia - La gran pilota",
+        "description": "Mentre preparen un treball per l'escola, la Maia descobreix que no hi ha hagut mai cap escarabat piloter famós. Quan en Kurt se n'assabenta, es proposa fer-se famós fent la pilota de fems més grossa de la història. Però aquesta pilota ben aviat supera en Kurt i tots els animals del prat, que no aguanten la pudor tan insuportable que fa. La Maia mirarà convèncer en Kurt perquè es desfaci de la pilota.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-09T02:20:01+02:00",
-        "stop": "2026-09-09T02:41:38+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Noé",
-        "description": "La Marinette està contenta: des de fa un temps, sembla que tot va bé a París. Potser ja és hora de relaxar-se i aprofitar els bons moments amb l'Adrien i els amics. Però la Mylène li explica que volen fer una pel·lícula amb un guió que desacredita Ladybug i el Gat Noir. I aquesta pel·lícula ho podria fer canviar tot si els parisencs es creguessin que aquesta història farcida de mentides és un reflex de la veritat.",
+        "start": "2026-09-09T06:46:01+02:00",
+        "stop": "2026-09-09T06:59:09+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "L'abella Maia - El certificat",
+        "description": "La senyoreta Kassandra està malalta, i en Beeswax decideix substituir-la i fer de mestre a la classe de les abelles petites. Però el primer ministre, que té uns mètodes d'ensenyament molt rígids i molt antiquats, considera que els alumnes no estan ben preparats i els obliga a treure's el certificat del rusc amb un examen. Els que el suspenguin s'hauran de passar les vacances estudiant. La Maia busca ajuda per mirar de solucionar el problema.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-09T02:10:14+02:00",
-        "stop": "2026-09-09T03:45:22+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - Assassinats al Cantal",
-        "description": "ASSASSINATS AL CANTAL 'Meurtres dans le Cantal'Direcció: Sandrine CohenGuió: Marie-Luce David, Pierre-Yves LebertProducció: Sombrero Productions, France TV, BE-FILMS, RTBF, Auvergne Rhône-Alpes Cinéma, Calle 13 Universal, ETB, France 3 (FR 3)Any: 2023Durada: 95País: FrançaMúsica: Christophe BoutinIntèrprets: Alexandre Varga, Joséphine Jobert, Jean Fornerod, Nicky Marbot, Husky Kihal, Hubert Roulleau, Félix Kysyl, Zoï Sévérin, Pierre Deny, Manoëlle Gaillard, Ambroise Sabbagh, Florence Coste, Benjamin Bourgois, Léa Swan, Noam Kourdourli, Claire Pérot, Odran Guillemard, Florie Auclerc, Kevin Bourigault.L'amo d'un restaurant conegut a la regió, Yann Privat, apareix mort per enverinament. El capità Dussaut i la capitana Waro investiguen el cas i sospiten que pot estar relacionat amb la mort d'una restauradora, que va resultar enverinada, mesos enrere, suposadament per accident. Dussaut i Waro hauran de resoldre, paral·lelament, qüestions personals pendents.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/3/1752476734934.jpg"
+        "start": "2026-09-09T06:06:46+02:00",
+        "stop": "2026-09-09T06:35:08+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Quèquicom - El gust de l'aigua",
+        "description": "Tots hem estudiat a l'escola que l'aigua és incolora, inodora i insípida. Però en realitat tots tenim també l'experiència que hi ha aigües més bones que d'altres. Què determina el gust de l'aigua? Per esbrinar-ho farem un senzill estudi científic. Agafarem aigua de diferents procedències i les tastarem per valorar-ne les propietats organolèptiques. Aleshores les compararem amb les corresponents anàlisis químiques. Identificats els components químics que li donen més bon gust, fabricarem l'aigua perfecta.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       },
       {
-        "start": "2026-09-09T03:45:22+02:00",
-        "stop": "2026-09-09T04:26:17+02:00",
-        "title": "La Mar de Bé",
-        "subtitle": "La Mar de Bé - Felicitat",
-        "description": "Felicitat és el nom de la barca de l'Isca García, però també és el que es respira al Parc Natural del Cap de Creus: tranquil·litat, peix fresc, paisatge, mar, tradició… En Quim Casellas recorrerà els indrets més bonics d'aquesta zona. A Portlligat, l'Isca li mostrarà la visió més tradicional i propera de l'ofici de pescador. A Cadaqués, la filla de l'Isca li descobrirà els secrets de la cultura pesquera. L'escriptor i historiador, Arnald Plujà, l'esperarà al Cap de Creus per ensenyar-li el caràcter mediterrani del territori i, finalment, acabarà a l'aula gastronòmica de Roses cuinant uns filets d'escórpora amb crema de carbassa especiada i sal de sèsam. ",
-        "genre": "ALTRES",
+        "start": "2026-09-09T06:35:08+02:00",
+        "stop": "2026-09-09T07:05:34+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Quèquicom - QQC i ...ferro i acer",
+        "description": "Anem a una siderúrgia a fer acer. El ferro (Fe) mineral no és pur, el dels meteorits sí. Mart és ple de Fe, com Riotinto. La metal·lúrgia va fer un gran pas amb la farga catalana. Forgem un ganivet. S'oxidarà? Per cert, el Fe es crema?En aquest recull, Quèquicom segueix el procés des d'una mina on el ferro (que es representa amb el símbol Fe) fins a una planta de fabricació de bigues d'acer. El ferro és el quart element més abundant de la superfície del planeta i un dels més importants de tot l'univers. A més, és molt manejable i fort, de manera que ha esdevingut el metall més utilitzat de tota la història de la humanitat.Probablement, el primer contacte dels humans amb el ferro van ser els meteorits i, posteriorment, vam aprendre a extreure'l de les roques que en contenen. Ara fa uns 3.000 anys es va iniciar la metal·lúrgia del ferro. Els nostres avantpassats posaven mineral de ferro al foc, aconseguien estovar-lo i a cop de martell el treballaven. Gràcies a insuflar aire s'aconsegueix més calor. De fet, un dels grans invents catalans del segle XI va ser la farga, enginy que aconseguia mecanitzar la injecció d'aire al forn, però, sobretot, enriquia el ferro de carboni, procés indispensable per fer-lo més dur i rígid. El ferro pur, un cop fred, és molt dúctil i de baixa resistència. És com un pa de pessic. Ara bé, si quan tenim el ferro calent hi introduïm àtoms de carboni, quan tota la mescla es refreda es forma una estructura microscòpica de capes, una espècie de milfulles. Alternativament, apareix una capa de ferro gairebé pur anomenat ferrita, tou com el pa de pessic i al damunt una làmina de cementita, formada per ferro i carboni, més dura i fràgil, com una coca de vidre. La superposició i unió íntima de les capes acaba esdevenint una estructura molt més rígida i forta. El ferro que conté carboni fins a un màxim de poc més d'un 2% s'anomena acer. A partir d'aquí, com més carboni, més rígid i fort, però, alhora, més trencadís.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
