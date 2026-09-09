@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-09T19:55:24.326395+00:00",
+  "updated": "2026-09-09T22:12:50.538058+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,48 +43,48 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-09T21:00:00+02:00",
-        "stop": "2026-09-09T22:04:51+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "Telenotícies vespre",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "start": "2026-09-09T23:36:16+02:00",
+        "stop": "2026-09-10T00:16:45+02:00",
+        "title": "Emergències",
+        "subtitle": "Emergències",
+        "description": "Capítol ple d'emoció i acció. L'acció comença amb un foc a Cardedeu que s'inicia al bosc, però que es complica perquè passa a les cases. El bomber subcap de guàrdia Roger Llinàs ha de canviar d'estratègia i salvaguardar els béns materials. Però no ho té fàcil.Al box d'emergències de l'Hospital de Bellvitge es viu una de les situacions més tenses de tota la sèrie. La metge Raquel Reyes es troba amb dues pacients alhora en estat molt greu. Totes dues necessiten molta atenció, rapidesa i coordinació.'Emergències' passa la nit de Sant Joan amb el SEM, a la unitat de cremats de Vall d'Hebron i al parc de bombers de Sant Andreu de Barcelona. En tots els casos tenen una nit plena d'urgències. I a l'Hospital Clínic es constata que els minuts són molt importants a l'hora de posar remei a un ictus.El sergent dels Mossos d'Esquadra Daniel López assisteix un cas de violència de gènere. El tracte i el to del sergent de seguretat ciutadana són crucials per atendre aquest tipus de casos.A l'estació d'esquí de la Masella, un noi s'ha donat un cop al cap i ha perdut el coneixement durant uns minuts. Amb el metge de l'estació, Enric Subirats, es viu tot el recorregut de l'amnèsia.I al final d'aquest capítol hi ha una excepció. Comença la història del trasplantament de fetge de la Iratxe, una nena de 6 anys en estat molt greu. La història es desenvolupa al capítol següent. La mare de la nena és la donant en vida.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-09T22:00:41+02:00",
-        "stop": "2026-09-09T22:35:46+02:00",
-        "title": "L'un per l'altre",
-        "subtitle": "L'un per l'altre - Sense pèls a la llengua",
-        "description": "El Toni i la Maria estan enganxats a un programa de televisió que es diu 'Sense pèls a la llengua' on les parelles on s'ha de demostrar que es coneixen molt bé. La Rosa i el Poppins decideixen apuntar la Maria i el Toni sense que ells ho sàpiguen. El Toni i la Maria decideixen fer trampes i pacten les respostes. La primera vegada els surt bé i passen a la següent fase, però quan tornen a provar-ho l'estratègia els surt fatal i queden en evidència davant tota l'audiència del programa.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "start": "2026-09-10T00:16:45+02:00",
+        "stop": "2026-09-10T00:40:04+02:00",
+        "title": "Living Europa",
+        "subtitle": "Living Europa - Dublín:Trobar a faltar el sol",
+        "description": "El tema, EL TEMA… És potser una de les principals preocupacions de les generacions més joves. Sí, estem parlant de la Salut Mental. Trobar a faltar casa, canviar-te a una ciutat on plou tot el dia, sentir-te sola… On queden les cures quan marxem uns mesos? Aquest trimestre que absolutament tots i totes associem amb la festa, la desinhibició, l'aventura… és sempre així? Com es gestionen les expectatives si les coses no surten com ens imaginàvem? Per què els estudiants viuen amb pànic la tornada? Els problemes ens els emportem a la maleta o els deixem a casa? Està clar que marxar fora no és un drama, però la Cora i la Berta ens ensenyen l'altre costat de viure fora, aquest cop des de Dublín. ",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-09T21:00:00+02:00",
-        "stop": "2026-09-09T22:05:00+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-09-10T00:00:00+02:00",
+        "stop": "2026-09-10T00:30:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-09T22:05:00+02:00",
-        "stop": "2026-09-10T00:00:00+02:00",
-        "title": "Mésnit",
+        "start": "2026-09-10T00:30:00+02:00",
+        "stop": "2026-09-10T01:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-09T21:39:39+02:00",
-        "stop": "2026-09-09T22:31:34+02:00",
+        "start": "2026-09-09T23:26:08+02:00",
+        "stop": "2026-09-10T00:50:38+02:00",
         "title": "Handbol",
         "subtitle": "Handbol - Barça-Aarhus / EHF Champions / J1",
         "description": "Després de guanyar 4 de les 6 últimes edicions, els blaugranes s'estrenen contra l'equip danès en una nova fase de grups de la Champions. Des del Palau Blaugrana, amb la narració de Joan Ramon Vallvé, Mireia Vicente i Víctor Tomàs.",
@@ -92,77 +92,57 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"
       },
       {
-        "start": "2026-09-09T22:31:34+02:00",
-        "stop": "2026-09-09T23:00:00+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Bàsquet - MoraBanc Andorra-Kids&Us Manresa / Lliga Catalana / J1",
-        "description": "Primera jornada al grup 1 de la Lliga Catalana de Bàsquet. El Barça és el tercer equip d'aquest grup. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
+        "start": "2026-09-10T00:50:38+02:00",
+        "stop": "2026-09-10T01:11:23+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "3CatInfo Esports",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-09T21:41:12+02:00",
-        "stop": "2026-09-09T22:01:51+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Bola de drac Z - El superpoderós Vegeta",
-        "description": "Just quan en Cèl·lula està a punt d'absorbir l'A-18, apareix en Vegeta i demostra que en un any d'entrenament s'ha convertit en un superguerrer superpoderós. Pot ser que sigui aquest, el poder del qual parlava en Son Goku? La demostració de força del nou Vegeta deixa en Cèl·lula impressionat i comença el combat.",
+        "start": "2026-09-10T00:07:15+02:00",
+        "stop": "2026-09-10T00:28:15+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - El Chris diabòlic de Tasmània",
+        "description": "Avui, en Chris i en Martin estan marcant diables de Tasmània per fer-ne un seguiment, per vigilar que no desapareguin per sempre. El malèfic Zach també els va al darrere, però per segrestar-los i fer un nou Zachbot, el Diable-bot 2000! Per cert, ho sabies que el diable de Tasmània és el mamífer que té més força a les mandíbules?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-09T22:01:51+02:00",
-        "stop": "2026-09-09T22:23:04+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El detectiu Conan - Els detectius júnior es resguarden de la pluja",
-        "description": "Mentre estan d'acampada, un fort ruixat sorprèn en Conan i la seva colla i truquen a la porta d'una mansió aïllada per aixoplugar-se de la pluja i perquè en Genta pugui anar al lavabo. Els obren dos homes misteriosos que al final resulta que són uns lladres que havien entrat a robar. Quan els nens estan a punt de marxar, una dona crida demanant ajuda des del pis de dalt.",
+        "start": "2026-09-10T00:28:15+02:00",
+        "stop": "2026-09-10T00:49:45+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - Octopus Kratticus",
+        "description": "L'Aviva ha enviat en Chris i en Martin a recuperar el Vestit de Poders Animals que han perdut en una fossa de l'Àrtic amb el Robopop, un supersubmarí inspirat en el món animal. Allà es trobaran amb el Set, un animal que d'entrada sembla una espècie de pop nova, però que ben aviat s'adonaran que té molts cops amagats. Què deu ser?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-09T21:35:50+02:00",
-        "stop": "2026-09-09T21:59:39+02:00",
-        "title": "Plats bruts",
-        "subtitle": "Plats bruts - Tinc pànic",
-        "description": "'Ràdio Bofarull' està a punt de tancar per falta d'audiència.... Al Ramon se li acut una idea per salvar-la; escriu un guió radiofònic sobre una fuita nuclear a Ascó... Paral·lelament, l'Emma es presenta a les proves per a Mossa d'Esquadra.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
-        "image": ""
+        "start": "2026-09-09T22:52:02+02:00",
+        "stop": "2026-09-10T00:54:00+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Pel·lícula - Licorice pizza",
+        "description": "LICORICE PIZZA Licorice PizzaDirecció: Paul Thomas AndersonGuió: Paul Thomas AndersonProducció: Ghoulardi Film Company, Bron Studios, Focus Features, Metro-Goldwyn-Mayer (MGM)Any: 2021Durada: 133País: Estats UnitsMúsica: Jonny GreenwoodFotografia: Paul Thomas Anderson, Michael BaumanIntèrprets: Alana Haim, Cooper Hoffman, Sean Penn, Bradley Cooper, Tom Waits, Ben Safdie, Joseph Cross, Skyler Gisondo, Mary Elizabeth Ellis, Ryan Heffington, Nate Mann, John Michael Higgins, Harriet Sansom Harris, Christine Ebersole, Emily Althaus, Danielle Haim, Este Haim, Maya Rudolph, Destry Allyn Spielberg, George DiCaprio, Iyana Halley, Ray Ray Chase, Emma Dumont, Jon BeaversLa Vall de San Fernando, 1973. L'Alana Kane, una noia de 25 anys atrapada en una feina que no li agrada, queda desconcertada quan en Gary Valentine, un actor adolescent ple d'energia i d'una maduresa sorprenent, es fixa en ella durant una sessió de fotos de l'institut i la convida a sopar. El que comença com una amistat improbable es converteix en una complicitat especial que els porta a embarcar-se en tota mena d'aventures i negocis temeraris mentre intenten trobar el seu lloc en un món canviant i caòtic. La pel·lícula explora la muntanya russa de les emocions que provoca un primer amor.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/8/8/1786098530588.jpg"
       },
       {
-        "start": "2026-09-09T21:59:39+02:00",
-        "stop": "2026-09-09T22:52:00+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La Renaixença - El microones",
-        "description": "Els inicis del microones van ser culpa d'un tros de xocolata dins d'una butxaca. Imagineu-vos tot el bé que ha fet la xocolata per les vides dels que no ens agrada cuinar. Dediquem el capítol al microones. Ens visita la Clara Viñals, cantant i membre del grup 'Renaldo & Clara'. Està cansada de respondre a la mateixa pregunta, però nosaltres no som més originals que la resta i també li farem.A 'Històries per passejar el gos' portem a en Django a la construcció del pont de Brooklyn, el 1870.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-09-10T00:54:00+02:00",
+        "stop": "2026-09-10T01:39:44+02:00",
+        "title": "Cites Barcelona",
+        "subtitle": "Cites Barcelona - Alan-Maru / Esperanza-Pedro",
+        "description": "L'Alan i la Maru es coneixen a Tinder i, a la seva primera cita, una conversa sobre viure junts posa a prova les seves expectatives sobre l'amor. Mentrestant, l'Esperanza i el Pedro gaudeixen de la seva cita fins que al Pedro li roben el mòbil, portant-los a una emocionant recerca per recuperar-lo recorrent la ciutat.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-09-09T20:30:03+02:00",
-        "stop": "2026-09-09T22:29:58+02:00",
-        "title": "Handbol: EHF Champions",
-        "subtitle": "- Barça-Aarhus / EHF Champions / J1",
-        "description": "Després de guanyar 4 de les 6 últimes edicions, els blaugranes s'estrenen contra l'equip danès en una nova fase de grups de la Champions. Des del Palau Blaugrana, amb la narració de Joan Ramon Vallvé, Mireia Vicente i Víctor Tomàs.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"
-      }
-    ],
-    "oca2": [
-      {
-        "start": "2026-09-09T20:50:01+02:00",
-        "stop": "2026-09-09T22:59:56+02:00",
-        "title": "Bàsquet : Federació Catalana",
-        "subtitle": "- MoraBanc Andorra-Kids&Us Manresa / Lliga Catalana / J1",
-        "description": "Primera jornada al grup 1 de la Lliga Catalana de Bàsquet. El Barça és el tercer equip d'aquest grup. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
-      }
-    ],
+    "oca1": [],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
