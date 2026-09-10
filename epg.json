@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-10T19:56:37.651668+00:00",
+  "updated": "2026-09-10T22:16:04.044549+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-10T21:07:09+02:00",
-        "stop": "2026-09-10T22:12:38+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "Telenotícies vespre",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
-        "start": "2026-09-10T22:12:38+02:00",
-        "stop": "2026-09-10T23:20:27+02:00",
-        "title": "Lo Cartanyà",
-        "subtitle": "Lo Cartanyà - Finisterre (part 1 i part 2)",
-        "description": "En aquest especial, descobrirem què els ha passat als protagonistes de 'Lo Cartanyà' en aquests 20 anys que fa que els hem perdut de vista. Descobrirem les ventures i desventures que han viscut a 'lo poble' aquests habitants tan peculiars amb una marcada tendència cap al desastre. Com porten el pas del temps tots i cadascun d'ells? Hi ha canvis significatius en les seves vides? Estan satisfets amb el que han aconseguit? Tenen expectatives de futur? Lo Cartanyà és veritablement calb? El seu fill -que ara té 18 anys- té alguna cosa a veure amb ell? Avancem només una coseta... Lo Cartanyà i el seu fill tenen una passió comuna. La resta ens l'explicaran els mateixos personatges de viva veu, amb flashbacks intercalats amb els que anirem recordant seqüències de la sèrie original. Només una coseta més, va... Cauen llamps i trons. I fins aquí...",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "start": "2026-09-10T23:47:31+02:00",
+        "stop": "2026-09-11T00:25:23+02:00",
+        "title": "Tot torna",
+        "subtitle": "Tot torna - 1986",
+        "description": "Repassem el 1986, l'any que nomenen Barcelona seu olímpica i Jordi Pujol coneix Mickey Mouse mentre l'investiguen pel cas Banca Catalana. També arriba el Carnet Jove, el cometa Halley i un concurs de TV3 titulat… 'Concurs'.",
+        "genre": "ALTRES",
         "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-09-10T21:05:00+02:00",
-        "stop": "2026-09-10T22:05:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-09-10T22:05:00+02:00",
-        "stop": "2026-09-11T00:00:00+02:00",
+        "start": "2026-09-11T00:25:23+02:00",
+        "stop": "2026-09-11T04:56:50+02:00",
         "title": "Mésnit",
-        "subtitle": "",
+        "subtitle": "Mésnit",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
         "genre": "DEBAT",
         "image": ""
       }
     ],
-    "esport3": [
+    "324": [
       {
-        "start": "2026-09-10T20:46:13+02:00",
-        "stop": "2026-09-10T23:00:00+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Bàsquet - Barça-MoraBanc Andorra / Lliga Catalana / J2",
-        "description": "Des de Tarragona, segon partit del grup 1 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
+        "start": "2026-09-11T00:00:00+02:00",
+        "stop": "2026-09-11T00:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-10T23:00:00+02:00",
-        "stop": "2026-09-11T00:31:08+02:00",
+        "start": "2026-09-11T00:30:00+02:00",
+        "stop": "2026-09-11T01:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "esport3": [
+      {
+        "start": "2026-09-10T23:00:59+02:00",
+        "stop": "2026-09-11T00:32:07+02:00",
         "title": "Onze",
         "subtitle": "Onze",
-        "description": "Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.",
+        "description": "Carles Fité, Víctor Lozano, Juli Garcia i David Bernabeu analitzen el partit de Champions del Barça. Sergi Ferrer atén els dubtes dels espectadors de l'Onze.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+      },
+      {
+        "start": "2026-09-11T00:32:07+02:00",
+        "stop": "2026-09-11T00:51:44+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "3CatInfo Esports",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-10T21:41:02+02:00",
-        "stop": "2026-09-10T22:02:34+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Bola de drac Z - L'arrogància perillosa d'en Vegeta",
-        "description": "Quan sembla que en Vegeta ho té tot guanyat, en Cèl·lula decideix atacar-lo directament al punt més dèbil: l'arrogància. El repte que li proposa és que li permeti aconseguir la perfecció del cos perquè el superguerrer s'hi pugui enfrontar i d'aquesta manera el combat sigui més igualat.",
+        "start": "2026-09-11T00:08:00+02:00",
+        "stop": "2026-09-11T00:29:00+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - Aventura amb els cangurs",
+        "description": "Mentre els germans Kratt estudiaven els cangurs vermells per la sabana australiana, un cangur petit els ha pres les claus de l'Ecojeep. Ara, si volen tornar a casa, segurament hauran de desafiar el cangur dominant de la manada a un combat de kick-boxing, i fins i tot fugir de l'atac d'un dingo, un gos salvatge que té molta mala bava! Que no els passi res!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-10T22:02:34+02:00",
-        "stop": "2026-09-10T22:23:47+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El detectiu Conan - Uns fideus tan bons que maten (1a part)",
-        "description": "La Ran, la Masumi i la Sonoko decideixen anar amb en Conan a sopar al restaurant de fideus preferit de la Masumi. Però després de gaudir d'aquest deliciós plat descobreixen que alguns dels clients que han sopat amb ells aquell vespre són sospitosos de l'assassinat d'una dona que vivia a prop i que, pel que sembla, va ser víctima d'un robatori que va acabar malament. Però potser hi ha algun sospitós més.",
+        "start": "2026-09-11T00:29:00+02:00",
+        "stop": "2026-09-11T00:50:30+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - De gralles i esquirols",
+        "description": "Mentre els germans Kratt es feien un tip de riure per descobrir qui és el millor plantador d'aglans, l'esquirol gris o la gralla blava, un error del Vestit de Poders Animals ha transformat en Martin en una aglà i ha acabat convertit en un roure. Per postres, en Chris no pot sortir del forat del tronc del seu germà! Avui pot passar de tot! Qui els salvarà?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-10T21:32:07+02:00",
-        "stop": "2026-09-10T21:57:03+02:00",
-        "title": "Plats bruts",
-        "subtitle": "Plats bruts - Tinc contraccions",
-        "description": "La Lídia, exnòvia del Lopes, torna de l'Amazònia embarassada i a punt de parir. De mica en mica, el Lopes es va implicant en els preparatius del part sota la mirada crítica del David. Mentrestant, la Carbonell, el Pol, l'Emma i el Ramon s'apunten a un concurs televisiu presentat per l'Elisenda Roca.Convidada: Elisenda Roca",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "start": "2026-09-10T23:47:06+02:00",
+        "stop": "2026-09-11T00:37:04+02:00",
+        "title": "Alaska salvatge",
+        "subtitle": "Alaska salvatge - Estiu",
+        "description": "L'estiu a Alaska avança ràpidament i està marcat per l'allargament del dia, fins al punt que, a l'extrem septentrional de l'estat, el sol pràcticament no es pon. Un dels esdeveniments més importants de l'estació és la remuntada del salmó, de la qual s'aprofiten els ossos i també els humans. És una època d'una gran abundància, en què tant els animals com les persones miren d'acumular el màxim d'aliment per a l'hivern, que no trigarà a arribar.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-10T21:57:03+02:00",
-        "stop": "2026-09-10T22:49:42+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La Renaixença - El desembussador de ventosa",
-        "description": "L'objecte al qual dediquem aquest capítol és d'aquells que es van inventar tan bé que no s'han modificat des de la seva creació. I no podia ser cap altre que el desembossador de ventosa. Pot ser més fastigós el què surt de dins d'aquells forats? Ens ha vingut a veure en Jaume Tribó, l'apuntador del Liceu. Té intenció de viure fins més enllà dels 100 anys, o sigui que el Liceu pot estar tranquil. I sortim a passejar amb en Murri pel dia de l'automutilació de Van Gogh, el 23 de desembre de 1888.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-09-11T00:37:04+02:00",
+        "stop": "2026-09-11T01:29:11+02:00",
+        "title": "A tocar de l'aigua",
+        "subtitle": "A tocar de l'aigua - El Segre II; Ribera Salada, Rialb i Llobregós",
+        "description": "A la segona etapa del recorregut pel Segre, ens endinsarem en el territori del Segre Mitjà des del primer pantà, el d'Oliana, i arribarem fins a Alòs de Balaguer. La ruta que farem per camps de regadiu, infraestructures hidràuliques, camins de ribera, camps de secà, patrimoni cultural i arquitectònic de pobles i despoblats serà una interessant visita pel mosaic que configuren aquestes comarques.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
