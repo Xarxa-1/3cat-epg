@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-10T00:15:51.497305+00:00",
+  "updated": "2026-09-10T05:00:50.483616+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,34 +43,25 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-10T00:48:50+02:00",
-        "stop": "2026-09-10T02:33:48+02:00",
-        "title": "Mésnit",
-        "subtitle": "Mésnit",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
-      },
-      {
-        "start": "2026-09-10T02:33:48+02:00",
-        "stop": "2026-09-10T04:30:00+02:00",
+        "start": "2026-09-10T06:00:00+02:00",
+        "stop": "2026-09-10T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-10T08:00:00+02:00",
+        "stop": "2026-09-10T10:29:58+02:00",
+        "title": "Matins",
+        "subtitle": "Matins",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
-      {
-        "start": "2026-09-10T01:00:00+02:00",
-        "stop": "2026-09-10T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-09-10T06:00:00+02:00",
         "stop": "2026-09-10T08:00:00+02:00",
@@ -79,12 +70,21 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-10T08:00:00+02:00",
+        "stop": "2026-09-10T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-10T01:11:03+02:00",
-        "stop": "2026-09-10T02:26:44+02:00",
+        "start": "2026-09-10T06:39:53+02:00",
+        "stop": "2026-09-10T07:55:43+02:00",
         "title": "Zona Champions",
         "subtitle": "Zona Champions - Anàlisi de la jornada / J1",
         "description": "El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!",
@@ -92,8 +92,8 @@
         "image": "https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"
       },
       {
-        "start": "2026-09-10T02:26:44+02:00",
-        "stop": "2026-09-10T04:18:34+02:00",
+        "start": "2026-09-10T07:55:43+02:00",
+        "stop": "2026-09-10T09:47:13+02:00",
         "title": "Bàsquet",
         "subtitle": "Bàsquet - iLERNA Lleida-Asisa Joventut / Lliga Catalana / J1",
         "description": "Partit inaugural de la Lliga Catalana de bàsquet. Lleidatans i badalonins formen part del grup 2 conjuntament amb el Girona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. ",
@@ -103,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-10T02:03:51+02:00",
-        "stop": "2026-09-10T02:23:29+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Viatges Pokémon - Abandonat, aïrat i afligit!",
-        "description": "L'Ash i el Riolu s'entrenen molt per a la Sèrie Mundial de Coronació. Potser una mica massa, cosa que fa que el Pikachu acabi sentint-se arraconat i gelós. Quan la Delia ve de visita fa moltes demostracions d'afecte al Pikachu, que s'anima una mica. L'endemà la Delia se'n va i el Pikachu decideix seguir-la a Poble Paleta. El Mimey intenta fer-lo tornar amb l'Ash, però el Pikachu s'hi nega, de manera que els dos Pokémon comencen el seu viatge. Tot i que passen alguns moments de perill, finalment hi arriben... i de sobte apareixen l'Ash i el Goh! L'Ash demana perdó al Pikachu per haver-lo fet sentir arraconat i tot torna a la normalitat quan la Delia dona la benvinguda a tothom amb un bon àpat. ",
+        "start": "2026-09-10T06:57:24+02:00",
+        "stop": "2026-09-10T07:08:36+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva en Jake",
+        "description": "En Jake fa espeleologia amb en Chase i li queda el peu travat en unes roques que hi ha al fons d'una cova!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-10T02:23:29+02:00",
-        "stop": "2026-09-10T02:44:36+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - El Desamorós",
-        "description": "És el dia dels enamorats i el Kim es prepara per fer un regal a la Choé, però ella el rebutja i el deixa en ridícul. L'Esfinx aprofita el disgust i la ràbia del Kim per convertir-lo en el Desamorós, un súper malvat que es dedica a destruir les relacions d'amistat i d'amor entre les persones.",
+        "start": "2026-09-10T07:08:36+02:00",
+        "stop": "2026-09-10T07:20:20+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva la desfilada",
+        "description": "Abans de la desfilada del Dia de Badia Aventures, l'Alex posa massa globus a la carrossa de la Katie, que surt desfilant, però cap al cel!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-10T01:39:46+02:00",
-        "stop": "2026-09-10T02:34:04+02:00",
-        "title": "Cites Barcelona",
-        "subtitle": "Cites Barcelona - Manu-Aroa / Astrid-Mario",
-        "description": "L'Astrid, il·lusionada per una predicció que anuncia l'arribada d'un gran amor, decideix donar-li una oportunitat al Mario, el seu match a Tinder. Mentrestant, el Manu queda atrapat a l'AVE a causa d'un tall elèctric i, quan truca l'Aroa per avisar-la del seu retard, el que havia de ser la seva primera cita es converteix en una conversa telefònica que els connecta d'una manera inesperada.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "start": "2026-09-10T06:31:11+02:00",
+        "stop": "2026-09-10T08:22:58+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Pel·lícula - Suro",
+        "description": "Coproducció de Lastor Media, Malmo Pictures, Nocturna Pictures i Irusoin, amb la participació de Televisió de Catalunya, TVE, Movistar +, Filmin i amb el finançament de l'ICAA, l'ICEC, Media i l'Ajuntament de Figueres.Guió i direcció: Mikel Gurrea. Co-guionista: Francisco Kosterlitz. Direcció de fotografia: Julián Elizalde. Música original: Clara Aguilar. Intèrprets: Vicky Luengo (Helena), Pol López (Ivan), Ilyass El Ouahdani (Karim), Josep Estragués 'Pitu' (Enric), David Parcet (Maurici), Vicente Botella (Chema), Josep Maria Gómez (Manel)SINOPSIS L'Helena i l'Ivan es proposen construir una nova vida envoltats de suros, però els seus diferents punts de vista sobre com viure a la terra emergeixen, desafiant el seu futur com a parella. ",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/1/1736329797613.jpg"
       },
       {
-        "start": "2026-09-10T02:34:04+02:00",
-        "stop": "2026-09-10T04:02:49+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - Assassinat a Vaubona",
-        "description": "ASSASSINAT A VAUBONA 'Mémoires à vif'Direcció: Julie GaliGuió: Fabien Adda, Delphine ChouraquiProducció: Alef One, BE-FILMSAny: 2023Durada: 90País: FrançaMúsica: Jean-Pierre TaiegFotografia: Philippe GuilbertIntèrprets: Anthony Colette, Valérie Decobert-Koretzky, Liv del Estal, Stéphane Freiss, Isalinde Giovangigli, Salim Kissari, Martin Lamotte, Rabah Loucif, Samy Naceri, Meena Rayann, Blanche Raynal, Liliane Rovère, Steve Tran Quan està a punt d'inaugurar-se una placa commemorativa per retre homenatge als harkis, els algerians que van combatre al bàndol francès a la guerra d'Algèria, apareix mort al seu domicili el tinent d'alcalde de Vaubona, Fabrice Da Costa. Els comandants de policia Leila Belhassen i Cédric Bonfanti s'encarreguen del cas, que remou les rancúnies i els odis d'un passat tràgic derivat d'un conflicte bèl·lic que va marcar tota una generació de francesos d'origen algerià.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1788340417475.jpg"
+        "start": "2026-09-10T08:22:58+02:00",
+        "stop": "2026-09-10T09:09:26+02:00",
+        "title": "La Renaixença",
+        "subtitle": "La Renaixença - Els dards",
+        "description": "De punteria se'n té o no se'n té. Alguna vegada aniria bé tenir-ne, d'altres seria millor que no en tinguessin. Ara, si participes en un espectacle de circ, tots esperem que en tinguin de punteria. El 1990 neix la Federació Catalana de Dards, i es reconeix aquesta pràctica com a esport. Avui, doncs, parlem dels dards. Ens visita la Júlia Truyol, actriu i membre de la companyia de teatre La Calòrica. I sortim a passejar en Tam, un gos de la Vall d'en Bas, per l'intent d'assassinat del papa Joan Pau II.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
