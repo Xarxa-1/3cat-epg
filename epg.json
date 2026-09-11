@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-11T00:19:22.311135+00:00",
+  "updated": "2026-09-11T04:56:59.851393+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-11T02:09:07+02:00",
-        "stop": "2026-09-11T04:30:00+02:00",
+        "start": "2026-09-11T06:00:00+02:00",
+        "stop": "2026-09-11T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-11T04:30:00+02:00",
-        "stop": "2026-09-11T05:16:08+02:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Fusió i swing a l'estudi - LA VELLA DIXIELAND",
-        "description": "Amb més de 30 anys dalt de l'escenari, La Vella Dixieland és un cas inèdit en el panorama jazzístic nacional, i amb la seva persistència s'ha convertit en grup de referència. En els seus concerts es submergeixen en les essències del jazz: música calenta, ritmes encomanadissos i complicitat amb el públic. Pep Gol a la trompeta; Xavi Manau, al trombó; Pau Casares, al clarinet; Gerard Nieto, al piano; Josemi Moraleda, al contrabaix, i Pinyu Martí, a la bateria.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-11T07:00:00+02:00",
+        "stop": "2026-09-11T09:59:45+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-11T01:00:00+02:00",
-        "stop": "2026-09-11T06:00:00+02:00",
+        "start": "2026-09-11T06:00:00+02:00",
+        "stop": "2026-09-11T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-11T06:00:00+02:00",
-        "stop": "2026-09-11T07:00:00+02:00",
+        "start": "2026-09-11T07:00:00+02:00",
+        "stop": "2026-09-11T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-11T00:51:10+02:00",
-        "stop": "2026-09-11T02:20:59+02:00",
+        "start": "2026-09-11T06:37:59+02:00",
+        "stop": "2026-09-11T06:57:51+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "3CatInfo Esports",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+      },
+      {
+        "start": "2026-09-11T06:57:51+02:00",
+        "stop": "2026-09-11T08:27:41+02:00",
         "title": "Onze",
         "subtitle": "Onze",
         "description": "Carles Fité, Víctor Lozano, Juli Garcia i David Bernabeu analitzen el partit de Champions del Barça. Sergi Ferrer atén els dubtes dels espectadors de l'Onze.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
-      },
-      {
-        "start": "2026-09-11T02:20:59+02:00",
-        "stop": "2026-09-11T04:07:19+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Bàsquet - Barça-MoraBanc Andorra / Lliga Catalana / J2",
-        "description": "Des de Tarragona, segon partit del grup 1 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-11T02:03:40+02:00",
-        "stop": "2026-09-11T02:23:18+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Viatges Pokémon - Intercanviar, prestar i robar!",
-        "description": "És un dia emocionant per als nostres herois: el Goh visita per primer cop una fira d'intercanvi de Pokémon i l'Ash disputa un combat oficial contra una entrenadora de Pokémon de tipus insecte que es diu Kricketina. La Kricketina vol intercanviar el seu Heracross pel Pinsir del Goh, però el Goh no se'n vol separar. Per atreure i capturar un Pinsir salvatge, la Kricketina col·loca diversos bols dels seus dolços casolans, però el menjar acaba atraient l'afamat Team Rocket. Quan els enxampen, llavors proven de robar els Pokémon dels nostres herois, però la intervenció del Heracross salva la situació. Després, quan el Goh captura un Pinsir salvatge, s'avé a fer l'intercanvi amb la Kricketina i el Heracross està ben content d'afegir-se al seu equip.",
+        "start": "2026-09-11T06:45:34+02:00",
+        "stop": "2026-09-11T06:57:48+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "L'abella Maia - L'efecte papallona",
+        "description": "Després de recitar el tradicional poema de primavera, la reina beu flascó de nèctar de corniol que li ha portat la Maia. De seguida li agafa molt mal de panxa: el que ha begut no era pas nèctar. La reina envia la Maia a investigar què hi havia dins del flascó i a buscar algun medicament per curar-la. Al final la Maia descobreix que ella és en part responsable de tot plegat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-11T02:23:18+02:00",
-        "stop": "2026-09-11T02:44:25+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Animan",
-        "description": "Mentre el Nino, l'Adrien, la Marinette i l'Alya organitzen una cita a quatre bandes al zoo de París, el Kim es dedica a provocar la nova pantera que acabad'arribar. Com sempre, l'Esfinx ho aprofitarà per intentar sembrar el caos a la ciutat. Ladybug i el Gat Noir hauran de deixar de banda els assumptesamorosos per salvar la ciutat un cop més. ",
+        "start": "2026-09-11T06:57:48+02:00",
+        "stop": "2026-09-11T07:20:35+02:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les Tres Bessones - Sandokan",
+        "description": "Les Bessones aprofiten que la seva àvia s'ha adormit per fer un passeig en barca. L'Avorrida, que sempre les vigila, les enxampa i les castiga a conèixer en Sandokan, a qui troben lluitant per salvar el príncep Nyssa de les urpes d'en Brooke. Les nenes ajudaran en Sandokan a alliberar el poble de Sarawak.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-11T01:29:13+02:00",
-        "stop": "2026-09-11T02:58:57+02:00",
+        "start": "2026-09-11T06:10:38+02:00",
+        "stop": "2026-09-11T07:38:17+02:00",
         "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - Roches Noires",
-        "description": "ROCHES NOIRES 'Roches Noires'Direcció: Laurent DussauxGuió: Véronique Lecharpy, Nicolas TackianProducció: Fontaram Productions, France Télévisions, AT-Production, RTBF (Télévision Belge), TV5 Monde, Radio Télévision Suisse (RTS)Any: 2018Durada: 90País: FrançaMúsica: François StaalFotografia: Stephan MassisIntèrprets: Grégori Derangère, Flore Bonaventura, Jerome Anger, Charlie Dupont, Carole Richert, Nicolas Grandhomme, Pascal Vansson, Jonathan Genet, Guillaume Arnault, Maxime Julia, Oscar Pauleau, Pierre Gommé, Margaux Brunelle Mentre fa fúting, la Lisa descobreix el cos congelat d'un nen que va desaparèixer fa vint anys, en Julien. El nen va pujar a una furgoneta i va deixar sol el seu amic Martin, que no s'hi va atrevir. El conductor va ser acusat i condemnat per l'assassinat d'en Julien, però mai va confessar i el cos del petit no es va trobar mai.Vint anys més tard, l'inspector Beauregard, germanastre de l'home condemnat pel crim, apareix a Roques Negres per esclarir el cas d'una vegada per totes amb l'ajuda de la Lisa, la filla de l'inspector que es va encarregar del cas en el passat.",
+        "subtitle": "Pel·lícula - Xavales",
+        "description": "CHAVALASProducció: Chavalas la película AIEDirecció: Carol Rodríguez ColásGuió: Marina Rodríguez ColásDirector fotografia: Juan Carlos LausinIntèrprets: Vicky Luengo (Marta), Carolina Yuste (Desi), Elisabet Casanovas (Bea), Ángela Cervantes (Soraya), Cristina Plazas (Maricarmen)'Chavalas' explica la història de la Marta, la Desi, la Soraya i la Bea, quatre amigues d'infància que es retroben al barri per reviure l'autèntica amistat que les va fer inseparables anys enrere. Ara emprendran aventures noves i hauran de fer front als dilemes de la vida, una realitat que les obligarà a enfrontar-se a les adolescents que van ser en el passat i a les dones que volen ser en el futur. Sense adonar-se'n, s'ajudaran a prendre decisions importants. El pas del temps i el fet que la vida les hagi tornat tan diferents no impediran que l'amistat prevalgui per sobre de tot. ",
         "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/6/1788340989067.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/0/9/1783516478890.jpg"
       },
       {
-        "start": "2026-09-11T02:58:57+02:00",
-        "stop": "2026-09-11T04:29:47+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - Assassinats a La Ciutat",
-        "description": "ASSASSINATS A LA CIUTAT 'Meurtres à La Ciotat'Direcció: Dominique LadogeGuió: Elsa ChabrolProducció: Neutra Production, Klim Production, AT Production, RTBF, France Télévisions, TV5 Monde, France 3 (FR 3), Radio Télévision Suisse (RTS)Any: 2016Durada: 92País: França Música: Nicolas JorelleIntèrprets: Élodie Varlet, Philippe Bas, Olivier Pagès, Julie Boulanger, Denis Braccini, Moussa Maaskri, Géraldine Loup, François Cottrelle, Jean-Marc Michelangeli, Didier Bourguignon, Isalinde Giovangigli, Anne-Marie Ponsot, Joan Titus, Christine Cardeur, Anita Sarxian, Jean-Marc Ravera, Georges Neri, Roland Munter, Hervé Bonzom, Jean Nehr, Martin Kamoun.Han trobat el cos d'un home penjat a una nau de les drassanes de La Ciutat. Aquesta troballa porta la jove comissària Anne Sauvaire al moll de l'os d'una història enterrada en el passat dels habitants de La Ciutat i els antics treballadors de les drassanes.El periodista Batti Vergniot l'acompanyarà en aquesta investigació complexa amb un rerefons d'antics conflictes socials i silencis, sense imaginar les conseqüències de la seva investigació.La recerca personal i discreta de l'Anne sobre el passat del seu pare toparà amb una investigació difícil, en una ciutat desapareguda i discreta, on la llei del silenci no és un mite... El passat és passat.Quan es produeix una segona mort, la investigació s'enfonsa...",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/2/1752477553229.jpg"
+        "start": "2026-09-11T07:38:17+02:00",
+        "stop": "2026-09-11T08:10:06+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Quèquicom - Tractors, de la mula al xip",
+        "description": "Llaurem amb un cavall, comparem la potència d'un tractor antic amb un de modern capaç de veremar o recollir el blat de moro automàticament. Tot llaurant aprenem perquè tenen les rodes tan grosses i que són el Watt i el cavall de vapor.D'ençà de la seva aparició l'agricultura ha tingut diverses revolucions tecnològiques, que sempre han anat en la direcció d'estalviar esforç i augmentar l'eficiència: la tracció animal, la mecanització, la precisió i la interconnexió. Només falta la robotització, i el pagès no haurà de moure ni un dit per treballar al camp.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       }
     ],
     "oca1": [],
