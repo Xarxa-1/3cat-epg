@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-11T13:42:06.373957+00:00",
+  "updated": "2026-09-11T17:15:17.720378+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,105 +43,115 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-11T15:33:44+02:00",
-        "stop": "2026-09-11T16:57:54+02:00",
+        "start": "2026-09-11T18:19:29+02:00",
+        "stop": "2026-09-11T19:25:20+02:00",
         "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - El cafè de la Marina",
-        "description": "EL CAFÈ DE LA MARINAProductora :Oberon Cinematogràfica, Televisió de Catalunya i Televisió Espanyola, amb la col·laboració de l'ICEC, 2014Direció: Sílvia MuntGuió: Sílvia Munt i Mercè SàrriasDirecció de fotografia: David OmedesMúsica: Xavier CapellasIntèrprets: Marina Salas (Caterina), Pablo Derqui (Claudi), Miquel Gelabert (Libori), Marina Comas (Rosa), Oriol Vila (Rafel), Rosa Vila (Salvadora), Pep Cruz (Bernat) o Fermí Reixach (Luard)La Caterina, la noia del cafè d'un poble de pescadors de principis del segle XX, està marcada pel seu passat imperdonable. Contra tot pronòstic, naixerà una història d'amor amagada davant de tot el poble, que anirà creixent fins a esclatar davant de tothom entre el Claudi, un pescador tímid, solitari i bevedor, i la Caterina, que aconseguirà ser estimada i reconciliar-se amb la vida.",
+        "subtitle": "Pel·lícula - El rastre del llop",
+        "description": "Directora: Ángeles HernándezGuionistes: Ángeles Hernández i Xénia PuigrósDirector de fotografia: Mariano SuarezCompositora de música: Mariana Ortega Intèrprets: Elisabet Casanovas (Sofia), Andrés Herrera (Gabriel), Carles Francino (Marti), Elena Gadel (Carol) i Micky Nuñez (Jaume)En ser mare i arran de la mort del seu germà, la Sofia torna a casa seva 10 anys després d'haver-ne marxat: l'única casa del poble que genera vida gràcies al seu pou d'aigua, que permet mantenir l'hort i el bestiar. Allà es retroba amb el seu pare, en Gabriel, que està malalt i a punt de morir a causa d'una vacuna inoculada fa 25 anys. I no és l'únic, n'hi ha molts com ell, a qui a causa de la crisi climàtica i la superpoblació, un govern feixista que impulsa la política del fill únic condemna a una mort programada (injectant-li la vacuna 'Saturn25'). Però en Gabriel no va poder escollir: la malaltia del seu fill gran, en Xavier, els va portar a ell i a la seva dona (que va morir en el segon part) a engendrar una criatura, la Sofia, que pogués salvar la vida del primogènit. Justament quan fa 25 anys de la vacunació, els anomenats 'herois del sistema' (els vacunats) comencen a tenir múltiples efectes secundaris i dolor molt agut per la degradació del seu cos. En aquesta distopia, la Sofia es debat entre el passat, el present i el futur. Però lluita per fer-se amb un dels antídots que el nou govern ha posat en marxa per aturar els efectes del verí. A mesura que passen els dies, en Gabriel va degenerant el seu estat de salut i obre incògnites sobre el passat de la seva família, mentre la població es rebel·la per la manca d'aigua.",
         "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/1/2/1788793157021.jpg"
       },
       {
-        "start": "2026-09-11T16:57:54+02:00",
-        "stop": "2026-09-11T17:30:03+02:00",
-        "title": "Especial informatiu: Manifestació 11 S",
-        "subtitle": "Especial informatiu: Manifestació 11 S - 11S Diada Nacional de Catalunya",
-        "description": "Seguiment de les manifestacions per la independència convocades a Barcelona, Girona i Amposta i tota l'actualitat de la Diada Nacional de Catalunya, amb connexions en directe, taula d'analistes i entrevistes als protagonistes de la jornada.",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/png/4/6/1789049674264.png"
+        "start": "2026-09-11T19:25:20+02:00",
+        "stop": "2026-09-11T20:01:25+02:00",
+        "title": "Moments APM?",
+        "subtitle": "Moments APM?",
+        "description": "",
+        "genre": "",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-11T14:30:00+02:00",
-        "stop": "2026-09-11T16:30:00+02:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
-      },
-      {
-        "start": "2026-09-11T16:30:00+02:00",
-        "stop": "2026-09-11T17:00:00+02:00",
+        "start": "2026-09-11T19:00:00+02:00",
+        "stop": "2026-09-11T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-11T20:00:00+02:00",
+        "stop": "2026-09-11T21:00:00+02:00",
+        "title": "Acte institucional 11 de setembre 2026",
+        "subtitle": "Diada Nacional de Catalunya 2026",
+        "description": "Des del Teatre Nacional de Catalunya, transmissió de l'acte central de la Diada. Commemoració dels 50 anys de la primera celebració oficial de l'11 de Setembre després del franquisme. Amb les actuacions de Joan Dausà, Sopa de Cabra, Alosa, Andrea Motis i Guillem Roma, entre d'altres.",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/9/1734943621392.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-11T15:40:54+02:00",
-        "stop": "2026-09-11T16:30:00+02:00",
-        "title": "Vida",
-        "subtitle": "Vida - Primats",
-        "description": "Els primats són excepcionalment intel·ligents i solucionen problemes, es comuniquen, fan servir eines i interaccionen socialment. Al Congo, coneix un grup estretament unit de goril·les de les terres baixes occidentals liderats per un esquena platejada, els cops de pit del qual envien ones expansives a més d'un quilòmetre a través del bosc; observa mares langur de Phayre gris a Tailàndia lluitant pel privilegi de cuidar cries de color taronja brillant; presencia les violentes disputes de mil babuïns sagrats i uneix-te a la caça d'ous de tauró dels babuïns negres a la costa de Sud-àfrica. ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-11T18:20:15+02:00",
+        "stop": "2026-09-11T19:15:15+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3",
+        "description": "Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
       },
       {
-        "start": "2026-09-11T16:30:00+02:00",
-        "stop": "2026-09-11T17:59:11+02:00",
-        "title": "Piragüisme",
-        "subtitle": "Piragüisme - Copa del Món ICF / Finals caiac eslàlom",
-        "description": "Finals, masculina i femenina, de caiac eslàlom a la Copa del Món ICF de piragüisme que es fa al Parc Olímpic del Segre de La Seu d'Urgell. Amb la narració de Miquel Ribas. ",
+        "start": "2026-09-11T19:15:15+02:00",
+        "stop": "2026-09-11T20:10:14+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3",
+        "description": "Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. ",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/8/1788949796985.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-11T15:40:23+02:00",
-        "stop": "2026-09-11T15:59:53+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Henry Danger - L'enrenou del poder nou, 2a part",
-        "description": "Després d'una dura derrota, els amics d'en Henry busquen una manera extraordinària d'ajudar-lo a plantar cara a una nova amenaça.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "start": "2026-09-11T18:58:41+02:00",
+        "stop": "2026-09-11T19:45:22+02:00",
+        "title": "El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire",
+        "subtitle": "El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire - El món prodigiós. París, les...",
+        "description": "EL MÓN PRODIGIÓS. PARÍS, LES AVENTURES DE TOXIBUG I L'URPA NOIRE 'Miraculous World: Paris, les aventures de Toxinelle et Griffe Noire'Direcció: Thomas AstrucGuió: Thomas AstrucProducció: Method Animation, SAMG Animation, Mediawan Kids & Family, Zagtoon, Disney+Any: 2023Durada: 50País: FrançaFotografia: AnimacióLadybug i el Gat Noir descobreixen que existeix un món paral·lel en què els portadors dels prodigis de la marieta i del gat negre són dolents i, en canvi, el portador del prodigi de la papallona es fa dir Hespèria i és un heroi que lluita pel bé dels altres. Toxibug i l'Urpa Noire apareixen a París amb molt males intencions. Aconseguiran Ladybug i el Gat Noir, amb l'ajuda de l'Alya, fer que Toxibug i l'Urpa Noire s'adonin que serian més feliços fent el bé?",
+        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1788945274843.jpg"
       },
       {
-        "start": "2026-09-11T15:59:53+02:00",
-        "stop": "2026-09-11T16:06:48+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "En Grizzy i els Lèmmings - Os volador",
-        "description": "Els lèmmings han aconseguit uns imants que fan levitar els objectes on s'enganxen. Com no podria ser d'una altra manera, en Grizzy n'és la primera víctima: el fan fora de la cabana a bord del seu sofà transformat en ovni. Però durant l'aterratgeen Grizzy descobreix per casualitat que l'imant que du enganxat al front li permet volar com en Peter Pan. Això segur que encaterinarà la seva Wendy plantígrada particular.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-11T19:45:22+02:00",
+        "stop": "2026-09-11T19:56:13+02:00",
+        "title": "Betapodcast",
+        "subtitle": "Betapodcast - Construccions que són d'un altre planeta!",
+        "description": "El Grau ens ensenya construccions arquitectòniques que semblen d'un altre planeta i ens proposa un joc amb peces de construcció. Qui farà una millor alpaca, el Jan o la Lola?",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-11T15:31:57+02:00",
-        "stop": "2026-09-11T16:31:36+02:00",
-        "title": "300",
-        "subtitle": "300 - La identitat",
-        "description": "Al segle XXI, les identitats són múltiples i canviants. Per això, vist des d'avui, sorprèn molt la intensitat i la persistència amb què s'ha mantingut la identitat catalana durant aquests últims tres segles. En aquest capítol de la sèrie '300' repassem com la memòria col·lectiva, una economia diferenciada, el manteniment d'una llengua pròpia i una societat civil imbatible han conduït fins al segle XXI aquesta identitat pròpia.Acabada la Guerra de Successió, els vencedors van construir una gran fortalesa a Barcelona, la Ciutadella. Aquesta fortalesa servia per vigilar la ciutat i per reprimir-ne les protestes, però també es va convertir en un recordatori permanent de la derrota a la guerra i de les constitucions perdudes. La Ciutadella, sense voler-ho, va mantenir la memòria històrica durant unes quantes generacions. I els barcelonins no van parar fins a derruir-la. La segona història explica les peripècies d'un jove revolucionari, en 'Josepet de la guitarra', obsessionat per dignificar la vida dels obrers. Aquell noi es va convertir en el creador dels cors de Clavé, un exemple de la xarxa impressionant d'associacions professionals, obreres i culturals que, durant el segle XIX, es van convertir en la massa social del catalanisme.Un cas molt especial eren els clubs esportius i, per damunt de tot, el Futbol Club Barcelona. Aquest club es va convertir en un símbol del catalanisme, especialment després que el govern de la dictadura de Primo de Rivera fes tancar el camp de les Corts, l'any 1925, a resultes de la primera xiulada que va rebre l'himne espanyol abans d'un partit.Per alguns historiadors, aquesta persistència de la identitat catalana és una mostra que el projecte espanyol no va aconseguir arrelar al Principat. Tot al revés de França, on el projecte unificador que va endegar l'estat a partir del segle XVII sí que va arraconar les velles identitats i les va substituir per la francesa. Viatgem a Occitània per comprovar què va passar.La",
-        "genre": "DOCUMENTAL DOCUDRAMA",
-        "image": ""
+        "start": "2026-09-11T18:22:40+02:00",
+        "stop": "2026-09-11T19:20:07+02:00",
+        "title": "Bon cop de falç. La història de l'himne",
+        "subtitle": "Bon cop de falç. La història de l'himne - Bon cop de falç. La història de l'himne",
+        "description": "'BON COP DE FALÇ. LA HISTÒRIA DE L'HIMNE' (2014), una producció de CLACK AUDIOVISUAL en coproducció amb TELEVISIÓ DE CATALUNYA, L'Avenç, Grup Enderrock Edicions i La Xarxa de Comunicació Local, amb el suport del Dept. Cultura – Generalitat de Catalunya'Els Segadors', l'himne nacional, prové d'una cançó eròtica que es va transformar, el 1640, en un crit de guerra. A finals del segle XIX, Francesc Alió va ajuntar la lletra de guerra que cantava la mare de Jacint Verdaguer amb la melodia de la cançó eròtica que li va cantar el canonge Jaume Collell. Emili Guanyavents –procedent d'ambients anarquistes, espiritistes i maçons– va escriure la lletra actual de l'himne i els cors el van fer viure. 'Els Segadors' es va difondre amb el tren mentre els governadors civils feien mans i mànigues per prohibir-ne el cant. Durant les dictadures de Primo de Rivera, primer, i de Franco, després, 'Els Segadors' sobreviu a l'exili i a la clandestinitat. 40 anys més tard, l'himne es torna a cantar en un acte públic durant la celebració de l'11 de Setembre a Sant Boi de Llobregat. Era l'any 1976. Amb l'arribada de la democràcia, es produeix l'oficialització d''Els Segadors' com a himne nacional de Catalunya. El documental 'Bon cop de falç' proposa seguir la història social i emotiva del país a través del cant d''Els Segadors'.Direcció: Eloi Aymerich Guió: Sergi Martí Realització: Eloi Aymerich Productors: Núria Iceta, Jordi Novell, Joan Salicrú Productor executiu TVC: Jordi Ambròs Productor delegat TVC: Joan Pavón Director fotografia: Fèlix Bonnin Muntatge: Lupe Pérez Garcia Director de producció: Georgina Altarriba Música: Toni Xuclà Grafisme: Jordi Navarro Veu en off: Jaume Ayats",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/6/1756979679261.jpg"
       },
       {
-        "start": "2026-09-11T16:31:36+02:00",
-        "stop": "2026-09-11T17:27:03+02:00",
-        "title": "300",
-        "subtitle": "300 - La política",
-        "description": "L'encaix de Catalunya a Espanya, el problema territorial, la qüestió catalana... Aquest tema, amb diferents noms, ha dominat la història política dels últims 300 anys. En aquest episodi de la sèrie '300' veurem com les relacions polítiques entre Catalunya i Espanya han tingut moments d'enfrontament i moments d'acord. Però en tres segles no hi ha hagut manera de trobar solucions estables i duradores per encaixar l'especificitat catalana en el marc espanyol. Aquest episodi comença amb els representants dels territoris de l'Antiga Corona d'Aragó que, a mitjans del segle XVIII, viatgen a Madrid per presentar al rei Carles III el primer 'Memorial de Greuges'. És la primera vegada que els sectors dirigents de la societat catalana s'atreveixen a alçar la veu per reclamar la singularitat catalana.En la segona història, un vaixell s'endú a bord els diputats catalans que van cap a les Corts Constituents de Cadis, el 1812. Aquesta constitució representa tota una revolució, perquè és la primera constitució liberal espanyola. Però els diputats catalans no aconsegueixen fer entendre la seva idea de reconèixer la plurinacionalitat d'Espanya.Durant el segle XIX, la industrialització converteix Catalunya en un país molt diferent de la resta de l'estat i amb unes necessitats molt diferents. Les protestes contra el govern són contínues. L'any 1842 les protestes són tan generals que fins i tot els fabricants, descontents amb la política econòmica, s'hi apunten. Tot s'acaba amb el bombardeig que el regent Espartero ordena sobre Barcelona.Espanya fa un nou canvi: la revolució de la Gloriosa fa marxar la reina Isabel i es proclama la Primera República. És l'oportunitat de canviar les coses. En sis anys hi haurà fins a tres caps de govern catalans. El personatge clau és l'economista barceloní Laureano Figuerola, que va ser ministre d'Hisenda durant aquells anys i va crear la pesseta.És molt interessant comparar la política catalana i espanyola d'aquells anys de",
-        "genre": "DOCUMENTAL DOCUDRAMA",
+        "start": "2026-09-11T19:20:07+02:00",
+        "stop": "2026-09-11T20:06:22+02:00",
+        "title": "Illes d'Austràlia, amb Martin Clunes",
+        "subtitle": "Illes d'Austràlia, amb Martin Clunes",
+        "description": "En l'últim episodi del seu periple per les illes d'Austràlia, Martin Clunes visitarà una illa en la desembocadura d'un riu, on hi ha una explotació ramadera molt especial. En un ambient radicalment diferent, l'illa Phillip li demostrarà que la convivència entre els esports de motor, el turisme i la fauna autòctona no és impossible. I, per tancar la sèrie, el Martin visitarà dues illes més, a la recerca de l'animal més llegendari del sud d'Austràlia: el diable de Tasmània.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
-    "oca1": [],
+    "oca1": [
+      {
+        "start": "2026-09-11T18:55:00+02:00",
+        "stop": "2026-09-11T20:59:55+02:00",
+        "title": "Handbol",
+        "subtitle": "- Logronyo-Barça / Lliga Asobal / J1",
+        "description": "L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"
+      }
+    ],
     "oca2": [],
     "oca3": [],
     "oca4": []
