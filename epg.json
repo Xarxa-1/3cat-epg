@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-11T17:15:17.720378+00:00",
+  "updated": "2026-09-11T19:54:32.304362+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,116 +43,116 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-11T18:19:29+02:00",
-        "stop": "2026-09-11T19:25:20+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - El rastre del llop",
-        "description": "Directora: Ángeles HernándezGuionistes: Ángeles Hernández i Xénia PuigrósDirector de fotografia: Mariano SuarezCompositora de música: Mariana Ortega Intèrprets: Elisabet Casanovas (Sofia), Andrés Herrera (Gabriel), Carles Francino (Marti), Elena Gadel (Carol) i Micky Nuñez (Jaume)En ser mare i arran de la mort del seu germà, la Sofia torna a casa seva 10 anys després d'haver-ne marxat: l'única casa del poble que genera vida gràcies al seu pou d'aigua, que permet mantenir l'hort i el bestiar. Allà es retroba amb el seu pare, en Gabriel, que està malalt i a punt de morir a causa d'una vacuna inoculada fa 25 anys. I no és l'únic, n'hi ha molts com ell, a qui a causa de la crisi climàtica i la superpoblació, un govern feixista que impulsa la política del fill únic condemna a una mort programada (injectant-li la vacuna 'Saturn25'). Però en Gabriel no va poder escollir: la malaltia del seu fill gran, en Xavier, els va portar a ell i a la seva dona (que va morir en el segon part) a engendrar una criatura, la Sofia, que pogués salvar la vida del primogènit. Justament quan fa 25 anys de la vacunació, els anomenats 'herois del sistema' (els vacunats) comencen a tenir múltiples efectes secundaris i dolor molt agut per la degradació del seu cos. En aquesta distopia, la Sofia es debat entre el passat, el present i el futur. Però lluita per fer-se amb un dels antídots que el nou govern ha posat en marxa per aturar els efectes del verí. A mesura que passen els dies, en Gabriel va degenerant el seu estat de salut i obre incògnites sobre el passat de la seva família, mentre la població es rebel·la per la manca d'aigua.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/2/1788793157021.jpg"
+        "start": "2026-09-11T21:00:43+02:00",
+        "stop": "2026-09-11T22:00:17+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "Telenotícies vespre",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-09-11T19:25:20+02:00",
-        "stop": "2026-09-11T20:01:25+02:00",
-        "title": "Moments APM?",
-        "subtitle": "Moments APM?",
+        "start": "2026-09-11T22:00:17+02:00",
+        "stop": "2026-09-12T00:45:59+02:00",
+        "title": "Teatre",
+        "subtitle": "Teatre - L'amor venia amb taxi",
         "description": "",
-        "genre": "",
+        "genre": "TEATRE",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-11T19:00:00+02:00",
-        "stop": "2026-09-11T20:00:00+02:00",
+        "start": "2026-09-11T21:00:00+02:00",
+        "stop": "2026-09-11T23:00:00+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+      },
+      {
+        "start": "2026-09-11T23:00:00+02:00",
+        "stop": "2026-09-12T00:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-09-11T20:00:00+02:00",
-        "stop": "2026-09-11T21:00:00+02:00",
-        "title": "Acte institucional 11 de setembre 2026",
-        "subtitle": "Diada Nacional de Catalunya 2026",
-        "description": "Des del Teatre Nacional de Catalunya, transmissió de l'acte central de la Diada. Commemoració dels 50 anys de la primera celebració oficial de l'11 de Setembre després del franquisme. Amb les actuacions de Joan Dausà, Sopa de Cabra, Alosa, Andrea Motis i Guillem Roma, entre d'altres.",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/9/1734943621392.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-11T18:20:15+02:00",
-        "stop": "2026-09-11T19:15:15+02:00",
+        "start": "2026-09-11T20:45:00+02:00",
+        "stop": "2026-09-11T21:45:00+02:00",
         "title": "Bàsquet",
-        "subtitle": "Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3",
-        "description": "Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. ",
+        "subtitle": "Bàsquet - Kids&Us Manresa-Barça / Lliga Catalana / J3",
+        "description": "Des de Tarragona, tercer i últim partit del grup 1 a la Lliga Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
       },
       {
-        "start": "2026-09-11T19:15:15+02:00",
-        "stop": "2026-09-11T20:10:14+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3",
-        "description": "Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
+        "start": "2026-09-11T21:45:00+02:00",
+        "stop": "2026-09-11T21:53:37+02:00",
+        "title": "E3",
+        "subtitle": "E3 - XLV Edició 24 Hores Ciclomotors Vall del Tenes",
+        "description": "45a edició de les 24 Hores Internacionals de Resistència en Ciclomotors de la Vall del Tenes disputada al Circuit de Can Montcau, a Lliçà d'Amunt.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/6/1788947889566.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-11T18:58:41+02:00",
-        "stop": "2026-09-11T19:45:22+02:00",
-        "title": "El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire",
-        "subtitle": "El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire - El món prodigiós. París, les...",
-        "description": "EL MÓN PRODIGIÓS. PARÍS, LES AVENTURES DE TOXIBUG I L'URPA NOIRE 'Miraculous World: Paris, les aventures de Toxinelle et Griffe Noire'Direcció: Thomas AstrucGuió: Thomas AstrucProducció: Method Animation, SAMG Animation, Mediawan Kids & Family, Zagtoon, Disney+Any: 2023Durada: 50País: FrançaFotografia: AnimacióLadybug i el Gat Noir descobreixen que existeix un món paral·lel en què els portadors dels prodigis de la marieta i del gat negre són dolents i, en canvi, el portador del prodigi de la papallona es fa dir Hespèria i és un heroi que lluita pel bé dels altres. Toxibug i l'Urpa Noire apareixen a París amb molt males intencions. Aconseguiran Ladybug i el Gat Noir, amb l'ajuda de l'Alya, fer que Toxibug i l'Urpa Noire s'adonin que serian més feliços fent el bé?",
-        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1788945274843.jpg"
+        "start": "2026-09-11T21:41:12+02:00",
+        "stop": "2026-09-11T22:04:13+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Bola de drac Z - En Cèl·lula: la destrucció feta monstre",
+        "description": "El somni del doctor Guero per fi s'ha fet realitat: en Cèl·lula ha aconseguit la perfecció del cos i ha creat un monstre capaç de destruir tot el món. En Krilin serà el primer de comprovar-ho de primera mà. Mentrestant, en Son Goku continua entrenant en Son Gohan a la Sala de l'Esperit del Temps per convertir-lo en l'última esperança per salvar la Terra.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       },
       {
-        "start": "2026-09-11T19:45:22+02:00",
-        "stop": "2026-09-11T19:56:13+02:00",
-        "title": "Betapodcast",
-        "subtitle": "Betapodcast - Construccions que són d'un altre planeta!",
-        "description": "El Grau ens ensenya construccions arquitectòniques que semblen d'un altre planeta i ens proposa un joc amb peces de construcció. Qui farà una millor alpaca, el Jan o la Lola?",
-        "genre": "ALTRES",
+        "start": "2026-09-11T22:04:13+02:00",
+        "stop": "2026-09-11T22:25:26+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El detectiu Conan - Una mansió envoltada de zombis (1a part)",
+        "description": "En Conan, en Kogoro i la Ran veuen una pel·lícula de zombis on hi surt la Yoko Okino. L'endemà en Kogoro porta els nois a la mansió on es va rodar la pel·lícula. Allà troben en Heiji i la Kazuha. Al cap de poc arriba un equip de rodatge per filmar el tràiler de la seqüela. Quan un dels membres de l'equip apareix mort, s'assabenten que allà hi havia tingut lloc un crim.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-11T18:22:40+02:00",
-        "stop": "2026-09-11T19:20:07+02:00",
-        "title": "Bon cop de falç. La història de l'himne",
-        "subtitle": "Bon cop de falç. La història de l'himne - Bon cop de falç. La història de l'himne",
-        "description": "'BON COP DE FALÇ. LA HISTÒRIA DE L'HIMNE' (2014), una producció de CLACK AUDIOVISUAL en coproducció amb TELEVISIÓ DE CATALUNYA, L'Avenç, Grup Enderrock Edicions i La Xarxa de Comunicació Local, amb el suport del Dept. Cultura – Generalitat de Catalunya'Els Segadors', l'himne nacional, prové d'una cançó eròtica que es va transformar, el 1640, en un crit de guerra. A finals del segle XIX, Francesc Alió va ajuntar la lletra de guerra que cantava la mare de Jacint Verdaguer amb la melodia de la cançó eròtica que li va cantar el canonge Jaume Collell. Emili Guanyavents –procedent d'ambients anarquistes, espiritistes i maçons– va escriure la lletra actual de l'himne i els cors el van fer viure. 'Els Segadors' es va difondre amb el tren mentre els governadors civils feien mans i mànigues per prohibir-ne el cant. Durant les dictadures de Primo de Rivera, primer, i de Franco, després, 'Els Segadors' sobreviu a l'exili i a la clandestinitat. 40 anys més tard, l'himne es torna a cantar en un acte públic durant la celebració de l'11 de Setembre a Sant Boi de Llobregat. Era l'any 1976. Amb l'arribada de la democràcia, es produeix l'oficialització d''Els Segadors' com a himne nacional de Catalunya. El documental 'Bon cop de falç' proposa seguir la història social i emotiva del país a través del cant d''Els Segadors'.Direcció: Eloi Aymerich Guió: Sergi Martí Realització: Eloi Aymerich Productors: Núria Iceta, Jordi Novell, Joan Salicrú Productor executiu TVC: Jordi Ambròs Productor delegat TVC: Joan Pavón Director fotografia: Fèlix Bonnin Muntatge: Lupe Pérez Garcia Director de producció: Georgina Altarriba Música: Toni Xuclà Grafisme: Jordi Navarro Veu en off: Jaume Ayats",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/6/1756979679261.jpg"
+        "start": "2026-09-11T21:33:07+02:00",
+        "stop": "2026-09-11T21:58:38+02:00",
+        "title": "Plats bruts",
+        "subtitle": "Plats bruts - Tinc nació",
+        "description": "El David el convoquen a un càsting a Madrid i el Lopes expressa les seves fòbies 'mesetàries' al respecte. El David marxa a Madrid i el Lopes decideix anar-hi per 'recuperar-lo'. Al cap de poc, els seus prejudicis es converteixen en elogis.Convidats: madrileny: Camilo Rodríguez; director de cine: Patxi Barco; cambrer Casa Mauricio de Madrid: Piero Steiner.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "image": ""
       },
       {
-        "start": "2026-09-11T19:20:07+02:00",
-        "stop": "2026-09-11T20:06:22+02:00",
-        "title": "Illes d'Austràlia, amb Martin Clunes",
-        "subtitle": "Illes d'Austràlia, amb Martin Clunes",
-        "description": "En l'últim episodi del seu periple per les illes d'Austràlia, Martin Clunes visitarà una illa en la desembocadura d'un riu, on hi ha una explotació ramadera molt especial. En un ambient radicalment diferent, l'illa Phillip li demostrarà que la convivència entre els esports de motor, el turisme i la fauna autòctona no és impossible. I, per tancar la sèrie, el Martin visitarà dues illes més, a la recerca de l'animal més llegendari del sud d'Austràlia: el diable de Tasmània.",
+        "start": "2026-09-11T21:58:38+02:00",
+        "stop": "2026-09-11T23:56:54+02:00",
+        "title": "102 minuts que van canviar Amèrica",
+        "subtitle": "102 minuts que van canviar Amèrica - 102 minuts que van canviar Amèrica",
+        "description": "Dimarts, onze de setembre de 2001. Nova York, 8.46 h. A mesura que els esdeveniments s'anaven succeint al llarg del matí, uns testimonis presencials quedaven estupefactes pel xoc, uns altres decidien ajudar els qui demanaven auxili i uns altres buscaven un lloc segur mentre el món, astorat, mirava d'entendre i assumir el que passava. Molts novaiorquesos van agafar les seves càmeres abans de fugir per gravar la Història en el mateix moment en què s'escrivia. A pesar del caos i el perill molts van continuar gravant enmig d'aquella catàstrofe durant els 102 minuts que van passar des que el primer avió es va estavellar contra la primera de les Torres Bessones fins que tots dos edificis es van esfondrar. La pel·lícula integra centenars de peces de gravacions i constitueix un testimoni històric perfecte i esgarrifós. És el documental definitiu sobre els atemptats de l'onze de setembre de 2011 a Manhattan.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/6/1/1787557671916.jpg"
       }
     ],
-    "oca1": [
+    "oca1": [],
+    "oca2": [
       {
-        "start": "2026-09-11T18:55:00+02:00",
-        "stop": "2026-09-11T20:59:55+02:00",
-        "title": "Handbol",
-        "subtitle": "- Logronyo-Barça / Lliga Asobal / J1",
-        "description": "L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.",
+        "start": "2026-09-11T20:56:43+02:00",
+        "stop": "2026-09-11T23:01:38+02:00",
+        "title": "Rugbi 13 : Superleague",
+        "subtitle": "- Wigan Warriors-Dracs Catalans / Super League / J27",
+        "description": "El conjunt de Perpinyà tanca la seva participació a la fase regular amb una sortida molt difícil al camp del líder. Els Warriors, que es van imposar al Gilbert Brutus per 16 a 40, sumen 21 victòries contra les 10 dels Dracs. Amb la narració de Sebastià Girard.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/2/3/1771412542832.jpg"
       }
     ],
-    "oca2": [],
     "oca3": [],
     "oca4": []
   }
