@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-11T19:54:32.304362+00:00",
+  "updated": "2026-09-11T22:10:06.756475+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-11T21:00:43+02:00",
-        "stop": "2026-09-11T22:00:17+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "Telenotícies vespre",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
-        "start": "2026-09-11T22:00:17+02:00",
-        "stop": "2026-09-12T00:45:59+02:00",
+        "start": "2026-09-11T22:01:01+02:00",
+        "stop": "2026-09-12T00:48:30+02:00",
         "title": "Teatre",
         "subtitle": "Teatre - L'amor venia amb taxi",
         "description": "",
         "genre": "TEATRE",
         "image": ""
+      },
+      {
+        "start": "2026-09-12T00:48:30+02:00",
+        "stop": "2026-09-12T02:21:21+02:00",
+        "title": "Concert",
+        "subtitle": "Concert - Mishima al Mercat de Música Viva de Vic 2025",
+        "description": "Mishima ha trepitjat l'escenari de la plaça Major de Vic fent un desplegament de gran part del seu repertori. El concert, que ha posat punt final al Mercat de Música Viva de Vic de 2025, també ha servit per retre homenatge al desaparegut Marc Lloret, integrant del grup i director del MMVV des del 2010. ",
+        "genre": "ALTRES",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/1/1788636264010.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-11T21:00:00+02:00",
-        "stop": "2026-09-11T23:00:00+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-09-12T00:00:00+02:00",
+        "stop": "2026-09-12T00:30:00+02:00",
+        "title": "Telenotícies migdia (reemissió)",
         "subtitle": "",
         "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "genre": "",
+        "image": ""
       },
       {
-        "start": "2026-09-11T23:00:00+02:00",
-        "stop": "2026-09-12T00:00:00+02:00",
+        "start": "2026-09-12T00:30:00+02:00",
+        "stop": "2026-09-12T01:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,76 +83,66 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-11T20:45:00+02:00",
-        "stop": "2026-09-11T21:45:00+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Bàsquet - Kids&Us Manresa-Barça / Lliga Catalana / J3",
-        "description": "Des de Tarragona, tercer i últim partit del grup 1 a la Lliga Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.",
+        "start": "2026-09-11T23:16:29+02:00",
+        "stop": "2026-09-12T00:23:21+02:00",
+        "title": "Handbol",
+        "subtitle": "Handbol - Logronyo-Barça / Lliga Asobal / J1",
+        "description": "L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"
       },
       {
-        "start": "2026-09-11T21:45:00+02:00",
-        "stop": "2026-09-11T21:53:37+02:00",
-        "title": "E3",
-        "subtitle": "E3 - XLV Edició 24 Hores Ciclomotors Vall del Tenes",
-        "description": "45a edició de les 24 Hores Internacionals de Resistència en Ciclomotors de la Vall del Tenes disputada al Circuit de Can Montcau, a Lliçà d'Amunt.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/6/1788947889566.jpg"
+        "start": "2026-09-12T00:23:21+02:00",
+        "stop": "2026-09-12T00:44:18+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "3CatInfo Esports",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-11T21:41:12+02:00",
-        "stop": "2026-09-11T22:04:13+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Bola de drac Z - En Cèl·lula: la destrucció feta monstre",
-        "description": "El somni del doctor Guero per fi s'ha fet realitat: en Cèl·lula ha aconseguit la perfecció del cos i ha creat un monstre capaç de destruir tot el món. En Krilin serà el primer de comprovar-ho de primera mà. Mentrestant, en Son Goku continua entrenant en Son Gohan a la Sala de l'Esperit del Temps per convertir-lo en l'última esperança per salvar la Terra.",
+        "start": "2026-09-12T00:09:39+02:00",
+        "stop": "2026-09-12T00:30:38+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - Un nas com un cabàs",
+        "description": "En Chris i en Martin, que estan estudiant els nassuts, uns micos amb un nas molt gros de la selva de Borneo, de sobte s'han convertit en els caps d'un dels grups de nassuts. El Nàpia, el cap de debò, ha quedat ferit quan rescatava una de les cries d'un cocodril gavial. Mentre l'Aviva mira de curar-lo, els germans Kratt hauran de protegir la resta de nassuts. Vols saber per què serveix el nas tan gros?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-11T22:04:13+02:00",
-        "stop": "2026-09-11T22:25:26+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El detectiu Conan - Una mansió envoltada de zombis (1a part)",
-        "description": "En Conan, en Kogoro i la Ran veuen una pel·lícula de zombis on hi surt la Yoko Okino. L'endemà en Kogoro porta els nois a la mansió on es va rodar la pel·lícula. Allà troben en Heiji i la Kazuha. Al cap de poc arriba un equip de rodatge per filmar el tràiler de la seqüela. Quan un dels membres de l'equip apareix mort, s'assabenten que allà hi havia tingut lloc un crim.",
+        "start": "2026-09-12T00:30:38+02:00",
+        "stop": "2026-09-12T00:52:08+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - Imitadors",
+        "description": "Després de descobrir que hi ha mosques que imiten abelles i serps que imiten altres serps verinoses, els germans Kratt han vist com la Donita Donata capturava una mare guepard per la seva línia de roba de safari d'hivern. Mentre la rescaten, també hauran de protegir el seu cadell, que aviat els ensenyarà que també és un gran imitador! No t'ho perdis!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-11T21:33:07+02:00",
-        "stop": "2026-09-11T21:58:38+02:00",
-        "title": "Plats bruts",
-        "subtitle": "Plats bruts - Tinc nació",
-        "description": "El David el convoquen a un càsting a Madrid i el Lopes expressa les seves fòbies 'mesetàries' al respecte. El David marxa a Madrid i el Lopes decideix anar-hi per 'recuperar-lo'. Al cap de poc, els seus prejudicis es converteixen en elogis.Convidats: madrileny: Camilo Rodríguez; director de cine: Patxi Barco; cambrer Casa Mauricio de Madrid: Piero Steiner.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
-        "image": ""
+        "start": "2026-09-11T23:56:55+02:00",
+        "stop": "2026-09-12T01:12:16+02:00",
+        "title": "El cas dels catalans",
+        "subtitle": "El cas dels catalans - El cas dels catalans",
+        "description": "",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/8/5/1788500441458.jpg"
       },
       {
-        "start": "2026-09-11T21:58:38+02:00",
-        "stop": "2026-09-11T23:56:54+02:00",
-        "title": "102 minuts que van canviar Amèrica",
-        "subtitle": "102 minuts que van canviar Amèrica - 102 minuts que van canviar Amèrica",
-        "description": "Dimarts, onze de setembre de 2001. Nova York, 8.46 h. A mesura que els esdeveniments s'anaven succeint al llarg del matí, uns testimonis presencials quedaven estupefactes pel xoc, uns altres decidien ajudar els qui demanaven auxili i uns altres buscaven un lloc segur mentre el món, astorat, mirava d'entendre i assumir el que passava. Molts novaiorquesos van agafar les seves càmeres abans de fugir per gravar la Història en el mateix moment en què s'escrivia. A pesar del caos i el perill molts van continuar gravant enmig d'aquella catàstrofe durant els 102 minuts que van passar des que el primer avió es va estavellar contra la primera de les Torres Bessones fins que tots dos edificis es van esfondrar. La pel·lícula integra centenars de peces de gravacions i constitueix un testimoni històric perfecte i esgarrifós. És el documental definitiu sobre els atemptats de l'onze de setembre de 2011 a Manhattan.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/1/1787557671916.jpg"
+        "start": "2026-09-12T01:12:16+02:00",
+        "stop": "2026-09-12T02:08:46+02:00",
+        "title": "300",
+        "subtitle": "300 - La llengua",
+        "description": "En aquest episodi de la sèrie '300', el presentador ens explica diverses històries quotidianes que ens permeten veure què ha passat amb la llengua d'aquest país els últims tres-cents anys. La pregunta que es fa és: com és que tres-cents anys després encara parlem català? Després del 1714, la nova administració espanyola va engegar un projecte per unificar tot el territori amb una sola llengua, el castellà. Però a la Catalunya de llavors pràcticament només es parlava català. El 1786, el jutge Francisco de Zamora va recórrer tot Catalunya amb un encàrrec del rei Carles III: esbrinar si les mesures que s'havien dictat per aconseguir aquell objectiu havien fet efecte o no.A mitjans del segle XIX, la llengua del país estava canviant. Les classes benestants havien assumit el castellà com a llengua habitual i la imposició del castellà a les escoles es començava a notar. Vegeu si no el diari que va deixar escrit Ramon Argullol, un viticultor manresà, en què ens explica les peripècies per conquistar el cor d'una joveneta trenta anys més jove.En aquesta mateixa època, el gaèlic irlandès, que fins aleshores era la llengua majoritària a Irlanda, va començar a desaparèixer. Fins al punt que a principis del segle XX, quan Irlanda es va convertir en un estat independent, la llengua irlandesa pràcticament havia desaparegut. A Catalunya podia passar el mateix. Però aleshores un grup d'intel·lectuals va proposar-se recuperar la llengua literària catalana. I l'any 1859 van organitzar els primers Jocs Florals recuperats.Les dues dictadures del segle XX van reprendre el projecte unificador d'una manera violenta. Però l'autèntic canvi lingüístic va venir dels grans moviments migratoris del segle. Molts d'aquells nouvinguts van impulsar un nou canvi històric. A Santa Coloma de Gramenet, la ciutat més castellanoparlant del país, un grup de pares immigrants van impulsar la primera experiència d'immersió lingüística.",
+        "genre": "DOCUMENTAL DOCUDRAMA",
+        "image": ""
       }
     ],
     "oca1": [],
-    "oca2": [
-      {
-        "start": "2026-09-11T20:56:43+02:00",
-        "stop": "2026-09-11T23:01:38+02:00",
-        "title": "Rugbi 13 : Superleague",
-        "subtitle": "- Wigan Warriors-Dracs Catalans / Super League / J27",
-        "description": "El conjunt de Perpinyà tanca la seva participació a la fase regular amb una sortida molt difícil al camp del líder. Els Warriors, que es van imposar al Gilbert Brutus per 16 a 40, sumen 21 victòries contra les 10 dels Dracs. Amb la narració de Sebastià Girard.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/3/1771412542832.jpg"
-      }
-    ],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
