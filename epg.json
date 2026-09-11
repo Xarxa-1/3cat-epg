@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-11T09:22:43.207138+00:00",
+  "updated": "2026-09-11T13:42:06.373957+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-11T10:29:14+02:00",
-        "stop": "2026-09-11T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "Notícies 3CatInfo",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-11T15:33:44+02:00",
+        "stop": "2026-09-11T16:57:54+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Pel·lícula - El cafè de la Marina",
+        "description": "EL CAFÈ DE LA MARINAProductora :Oberon Cinematogràfica, Televisió de Catalunya i Televisió Espanyola, amb la col·laboració de l'ICEC, 2014Direció: Sílvia MuntGuió: Sílvia Munt i Mercè SàrriasDirecció de fotografia: David OmedesMúsica: Xavier CapellasIntèrprets: Marina Salas (Caterina), Pablo Derqui (Claudi), Miquel Gelabert (Libori), Marina Comas (Rosa), Oriol Vila (Rafel), Rosa Vila (Salvadora), Pep Cruz (Bernat) o Fermí Reixach (Luard)La Caterina, la noia del cafè d'un poble de pescadors de principis del segle XX, està marcada pel seu passat imperdonable. Contra tot pronòstic, naixerà una història d'amor amagada davant de tot el poble, que anirà creixent fins a esclatar davant de tothom entre el Claudi, un pescador tímid, solitari i bevedor, i la Caterina, que aconseguirà ser estimada i reconciliar-se amb la vida.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       },
       {
-        "start": "2026-09-11T12:00:00+02:00",
-        "stop": "2026-09-11T14:29:30+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "Notícies 3CatInfo",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-11T16:57:54+02:00",
+        "stop": "2026-09-11T17:30:03+02:00",
+        "title": "Especial informatiu: Manifestació 11 S",
+        "subtitle": "Especial informatiu: Manifestació 11 S - 11S Diada Nacional de Catalunya",
+        "description": "Seguiment de les manifestacions per la independència convocades a Barcelona, Girona i Amposta i tota l'actualitat de la Diada Nacional de Catalunya, amb connexions en directe, taula d'analistes i entrevistes als protagonistes de la jornada.",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/png/4/6/1789049674264.png"
       }
     ],
     "324": [
       {
-        "start": "2026-09-11T10:00:00+02:00",
-        "stop": "2026-09-11T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-11T14:30:00+02:00",
+        "stop": "2026-09-11T16:30:00+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-09-11T12:00:00+02:00",
-        "stop": "2026-09-11T14:30:00+02:00",
+        "start": "2026-09-11T16:30:00+02:00",
+        "stop": "2026-09-11T17:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-11T10:40:33+02:00",
-        "stop": "2026-09-11T11:28:59+02:00",
+        "start": "2026-09-11T15:40:54+02:00",
+        "stop": "2026-09-11T16:30:00+02:00",
         "title": "Vida",
-        "subtitle": "Vida - Ocells",
-        "description": "Les aus són criatures extremadament adaptables, capaces no només de volar a velocitats d'esglai i recórrer llargues distàncies, sinó també de mostrar una naturalesa assassina, de córrer per sobre l'aigua perseguint l'amor i fins i tot de formar estructures de gran complexitat. Gràcies a tècniques de càmera aèria, 'Life' vola amb els ocells i explora la seva increïble diversitat i comportaments: esquivarem fragates pirata, remuntarem el vol amb trencalosos, ballarem amb un miler de flamencs als llacs africans i serem testimonis de les extraordinàries exhibicions dels colibrís cua d'espàtula , dels cabussons nord-americans comuns i dels arquers quan miren d'atreure una femella.",
+        "subtitle": "Vida - Primats",
+        "description": "Els primats són excepcionalment intel·ligents i solucionen problemes, es comuniquen, fan servir eines i interaccionen socialment. Al Congo, coneix un grup estretament unit de goril·les de les terres baixes occidentals liderats per un esquena platejada, els cops de pit del qual envien ones expansives a més d'un quilòmetre a través del bosc; observa mares langur de Phayre gris a Tailàndia lluitant pel privilegi de cuidar cries de color taronja brillant; presencia les violentes disputes de mil babuïns sagrats i uneix-te a la caça d'ous de tauró dels babuïns negres a la costa de Sud-àfrica. ",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-11T11:28:59+02:00",
-        "stop": "2026-09-11T11:34:18+02:00",
-        "title": "Xarxa Natura",
-        "subtitle": "Xarxa Natura",
-        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
+        "start": "2026-09-11T16:30:00+02:00",
+        "stop": "2026-09-11T17:59:11+02:00",
+        "title": "Piragüisme",
+        "subtitle": "Piragüisme - Copa del Món ICF / Finals caiac eslàlom",
+        "description": "Finals, masculina i femenina, de caiac eslàlom a la Copa del Món ICF de piragüisme que es fa al Parc Olímpic del Segre de La Seu d'Urgell. Amb la narració de Miquel Ribas. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/8/1788949796985.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-11T10:25:12+02:00",
-        "stop": "2026-09-11T11:36:56+02:00",
-        "title": "Tintín i el llac dels taurons",
-        "subtitle": "Tintín i el llac dels taurons - Tintín i el llac dels taurons",
-        "description": "TINTÍN I EL LLAC DELS TAURONS (Tintin et le lac aux requins)En Tintín i els seus amics van a passar unes vacances a casa el professor Tornassol, però allí topen amb el vell conegut Rastapopoulus, que vol robar una màquina per duplicar objectes que ha inventat en Tornassol. En Tintín i els seus amics, acompanyats per en Niko i la Nuxka, intentaran impedir-ho.Pel·lícula de dibuixos animatsIdioma versió original: francèsProducció: Raymond Leblanc, Belvision i Dargaud, 1972 (Bèlgica)Director: Raymond LeblancGuió: HergéDurada : 73 minuts",
-        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/7/1788501433876.jpg"
+        "start": "2026-09-11T15:40:23+02:00",
+        "stop": "2026-09-11T15:59:53+02:00",
+        "title": "Henry Danger",
+        "subtitle": "Henry Danger - L'enrenou del poder nou, 2a part",
+        "description": "Després d'una dura derrota, els amics d'en Henry busquen una manera extraordinària d'ajudar-lo a plantar cara a una nova amenaça.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       },
       {
-        "start": "2026-09-11T11:36:56+02:00",
-        "stop": "2026-09-11T12:34:51+02:00",
-        "title": "Tintín i l'afer Tornassol",
-        "subtitle": "Tintín i l'afer Tornassol - Tintín i l'afer Tornassol",
-        "description": "TINTÍN I L'AFER TORNASSOL (Tintin et l'affair Tournesol)El profesor Tornassol tot just acaba de deixar a punt una nova i terrible arma d'ultrasons. De viatge a Suïssa per assistir a un congrés, és segrestat pels que volen apoderar-se del seu invent. Tintín i el capità Haddock es reuneixen per rescatar-lo. Quan estan a punt d'alliberar-lo, torna a ser segrestat, aquesta vegada per uns altres espies. Amb l'ajuda de la Castafiore, Tintín obté uns documents del general Sponsz, cap de la policia, que els permeten alliberar Tornassol. Aconseguit això i després de la fugida a través de la frontera, arriben de nou a casa. Destruirà Tornassol els seus plànols?Idioma versió original: francèsProducció: Belvision, 1961 (Bèlgica)Direcció: Ray GossensDurada: 57 minutsGuió: HergéPel·lícula de dibuixos animats",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/5/1788501755259.jpg"
+        "start": "2026-09-11T15:59:53+02:00",
+        "stop": "2026-09-11T16:06:48+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "En Grizzy i els Lèmmings - Os volador",
+        "description": "Els lèmmings han aconseguit uns imants que fan levitar els objectes on s'enganxen. Com no podria ser d'una altra manera, en Grizzy n'és la primera víctima: el fan fora de la cabana a bord del seu sofà transformat en ovni. Però durant l'aterratgeen Grizzy descobreix per casualitat que l'imant que du enganxat al front li permet volar com en Peter Pan. Això segur que encaterinarà la seva Wendy plantígrada particular.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-11T10:42:28+02:00",
-        "stop": "2026-09-11T11:30:17+02:00",
-        "title": "Aeroport",
-        "subtitle": "Aeroport - Moviment",
-        "description": "L'aeroport és moviment, és un espai dinàmic que funciona com una mena d'engranatge on tothom fa la seva feina. Moviment a la cinta nova per carregar les maletes, per enllestir un carregament molt especial amb destinació a la Xina o per satisfer una petició molt romàntica.",
-        "genre": "Docu-Entreteniment",
+        "start": "2026-09-11T15:31:57+02:00",
+        "stop": "2026-09-11T16:31:36+02:00",
+        "title": "300",
+        "subtitle": "300 - La identitat",
+        "description": "Al segle XXI, les identitats són múltiples i canviants. Per això, vist des d'avui, sorprèn molt la intensitat i la persistència amb què s'ha mantingut la identitat catalana durant aquests últims tres segles. En aquest capítol de la sèrie '300' repassem com la memòria col·lectiva, una economia diferenciada, el manteniment d'una llengua pròpia i una societat civil imbatible han conduït fins al segle XXI aquesta identitat pròpia.Acabada la Guerra de Successió, els vencedors van construir una gran fortalesa a Barcelona, la Ciutadella. Aquesta fortalesa servia per vigilar la ciutat i per reprimir-ne les protestes, però també es va convertir en un recordatori permanent de la derrota a la guerra i de les constitucions perdudes. La Ciutadella, sense voler-ho, va mantenir la memòria històrica durant unes quantes generacions. I els barcelonins no van parar fins a derruir-la. La segona història explica les peripècies d'un jove revolucionari, en 'Josepet de la guitarra', obsessionat per dignificar la vida dels obrers. Aquell noi es va convertir en el creador dels cors de Clavé, un exemple de la xarxa impressionant d'associacions professionals, obreres i culturals que, durant el segle XIX, es van convertir en la massa social del catalanisme.Un cas molt especial eren els clubs esportius i, per damunt de tot, el Futbol Club Barcelona. Aquest club es va convertir en un símbol del catalanisme, especialment després que el govern de la dictadura de Primo de Rivera fes tancar el camp de les Corts, l'any 1925, a resultes de la primera xiulada que va rebre l'himne espanyol abans d'un partit.Per alguns historiadors, aquesta persistència de la identitat catalana és una mostra que el projecte espanyol no va aconseguir arrelar al Principat. Tot al revés de França, on el projecte unificador que va endegar l'estat a partir del segle XVII sí que va arraconar les velles identitats i les va substituir per la francesa. Viatgem a Occitània per comprovar què va passar.La",
+        "genre": "DOCUMENTAL DOCUDRAMA",
         "image": ""
       },
       {
-        "start": "2026-09-11T11:30:17+02:00",
-        "stop": "2026-09-11T12:04:33+02:00",
-        "title": "Tot o res",
-        "subtitle": "Tot o res",
-        "description": "'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.",
-        "genre": "CONCURS",
+        "start": "2026-09-11T16:31:36+02:00",
+        "stop": "2026-09-11T17:27:03+02:00",
+        "title": "300",
+        "subtitle": "300 - La política",
+        "description": "L'encaix de Catalunya a Espanya, el problema territorial, la qüestió catalana... Aquest tema, amb diferents noms, ha dominat la història política dels últims 300 anys. En aquest episodi de la sèrie '300' veurem com les relacions polítiques entre Catalunya i Espanya han tingut moments d'enfrontament i moments d'acord. Però en tres segles no hi ha hagut manera de trobar solucions estables i duradores per encaixar l'especificitat catalana en el marc espanyol. Aquest episodi comença amb els representants dels territoris de l'Antiga Corona d'Aragó que, a mitjans del segle XVIII, viatgen a Madrid per presentar al rei Carles III el primer 'Memorial de Greuges'. És la primera vegada que els sectors dirigents de la societat catalana s'atreveixen a alçar la veu per reclamar la singularitat catalana.En la segona història, un vaixell s'endú a bord els diputats catalans que van cap a les Corts Constituents de Cadis, el 1812. Aquesta constitució representa tota una revolució, perquè és la primera constitució liberal espanyola. Però els diputats catalans no aconsegueixen fer entendre la seva idea de reconèixer la plurinacionalitat d'Espanya.Durant el segle XIX, la industrialització converteix Catalunya en un país molt diferent de la resta de l'estat i amb unes necessitats molt diferents. Les protestes contra el govern són contínues. L'any 1842 les protestes són tan generals que fins i tot els fabricants, descontents amb la política econòmica, s'hi apunten. Tot s'acaba amb el bombardeig que el regent Espartero ordena sobre Barcelona.Espanya fa un nou canvi: la revolució de la Gloriosa fa marxar la reina Isabel i es proclama la Primera República. És l'oportunitat de canviar les coses. En sis anys hi haurà fins a tres caps de govern catalans. El personatge clau és l'economista barceloní Laureano Figuerola, que va ser ministre d'Hisenda durant aquells anys i va crear la pesseta.És molt interessant comparar la política catalana i espanyola d'aquells anys de",
+        "genre": "DOCUMENTAL DOCUDRAMA",
         "image": ""
       }
     ],
