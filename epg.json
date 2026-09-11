@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-11T04:56:59.851393+00:00",
+  "updated": "2026-09-11T09:22:43.207138+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-11T06:00:00+02:00",
-        "stop": "2026-09-11T07:00:00+02:00",
+        "start": "2026-09-11T10:29:14+02:00",
+        "stop": "2026-09-11T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,8 +52,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-11T07:00:00+02:00",
-        "stop": "2026-09-11T09:59:45+02:00",
+        "start": "2026-09-11T12:00:00+02:00",
+        "stop": "2026-09-11T14:29:30+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-09-11T06:00:00+02:00",
-        "stop": "2026-09-11T07:00:00+02:00",
+        "start": "2026-09-11T10:00:00+02:00",
+        "stop": "2026-09-11T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-11T07:00:00+02:00",
-        "stop": "2026-09-11T10:00:00+02:00",
+        "start": "2026-09-11T12:00:00+02:00",
+        "stop": "2026-09-11T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-11T06:37:59+02:00",
-        "stop": "2026-09-11T06:57:51+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "3CatInfo Esports",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-11T10:40:33+02:00",
+        "stop": "2026-09-11T11:28:59+02:00",
+        "title": "Vida",
+        "subtitle": "Vida - Ocells",
+        "description": "Les aus són criatures extremadament adaptables, capaces no només de volar a velocitats d'esglai i recórrer llargues distàncies, sinó també de mostrar una naturalesa assassina, de córrer per sobre l'aigua perseguint l'amor i fins i tot de formar estructures de gran complexitat. Gràcies a tècniques de càmera aèria, 'Life' vola amb els ocells i explora la seva increïble diversitat i comportaments: esquivarem fragates pirata, remuntarem el vol amb trencalosos, ballarem amb un miler de flamencs als llacs africans i serem testimonis de les extraordinàries exhibicions dels colibrís cua d'espàtula , dels cabussons nord-americans comuns i dels arquers quan miren d'atreure una femella.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-11T06:57:51+02:00",
-        "stop": "2026-09-11T08:27:41+02:00",
-        "title": "Onze",
-        "subtitle": "Onze",
-        "description": "Carles Fité, Víctor Lozano, Juli Garcia i David Bernabeu analitzen el partit de Champions del Barça. Sergi Ferrer atén els dubtes dels espectadors de l'Onze.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-11T11:28:59+02:00",
+        "stop": "2026-09-11T11:34:18+02:00",
+        "title": "Xarxa Natura",
+        "subtitle": "Xarxa Natura",
+        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-11T06:45:34+02:00",
-        "stop": "2026-09-11T06:57:48+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "L'abella Maia - L'efecte papallona",
-        "description": "Després de recitar el tradicional poema de primavera, la reina beu flascó de nèctar de corniol que li ha portat la Maia. De seguida li agafa molt mal de panxa: el que ha begut no era pas nèctar. La reina envia la Maia a investigar què hi havia dins del flascó i a buscar algun medicament per curar-la. Al final la Maia descobreix que ella és en part responsable de tot plegat.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "start": "2026-09-11T10:25:12+02:00",
+        "stop": "2026-09-11T11:36:56+02:00",
+        "title": "Tintín i el llac dels taurons",
+        "subtitle": "Tintín i el llac dels taurons - Tintín i el llac dels taurons",
+        "description": "TINTÍN I EL LLAC DELS TAURONS (Tintin et le lac aux requins)En Tintín i els seus amics van a passar unes vacances a casa el professor Tornassol, però allí topen amb el vell conegut Rastapopoulus, que vol robar una màquina per duplicar objectes que ha inventat en Tornassol. En Tintín i els seus amics, acompanyats per en Niko i la Nuxka, intentaran impedir-ho.Pel·lícula de dibuixos animatsIdioma versió original: francèsProducció: Raymond Leblanc, Belvision i Dargaud, 1972 (Bèlgica)Director: Raymond LeblancGuió: HergéDurada : 73 minuts",
+        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/7/1788501433876.jpg"
       },
       {
-        "start": "2026-09-11T06:57:48+02:00",
-        "stop": "2026-09-11T07:20:35+02:00",
-        "title": "Les Tres Bessones",
-        "subtitle": "Les Tres Bessones - Sandokan",
-        "description": "Les Bessones aprofiten que la seva àvia s'ha adormit per fer un passeig en barca. L'Avorrida, que sempre les vigila, les enxampa i les castiga a conèixer en Sandokan, a qui troben lluitant per salvar el príncep Nyssa de les urpes d'en Brooke. Les nenes ajudaran en Sandokan a alliberar el poble de Sarawak.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "start": "2026-09-11T11:36:56+02:00",
+        "stop": "2026-09-11T12:34:51+02:00",
+        "title": "Tintín i l'afer Tornassol",
+        "subtitle": "Tintín i l'afer Tornassol - Tintín i l'afer Tornassol",
+        "description": "TINTÍN I L'AFER TORNASSOL (Tintin et l'affair Tournesol)El profesor Tornassol tot just acaba de deixar a punt una nova i terrible arma d'ultrasons. De viatge a Suïssa per assistir a un congrés, és segrestat pels que volen apoderar-se del seu invent. Tintín i el capità Haddock es reuneixen per rescatar-lo. Quan estan a punt d'alliberar-lo, torna a ser segrestat, aquesta vegada per uns altres espies. Amb l'ajuda de la Castafiore, Tintín obté uns documents del general Sponsz, cap de la policia, que els permeten alliberar Tornassol. Aconseguit això i després de la fugida a través de la frontera, arriben de nou a casa. Destruirà Tornassol els seus plànols?Idioma versió original: francèsProducció: Belvision, 1961 (Bèlgica)Direcció: Ray GossensDurada: 57 minutsGuió: HergéPel·lícula de dibuixos animats",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/5/1788501755259.jpg"
       }
     ],
     "c33": [
       {
-        "start": "2026-09-11T06:10:38+02:00",
-        "stop": "2026-09-11T07:38:17+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - Xavales",
-        "description": "CHAVALASProducció: Chavalas la película AIEDirecció: Carol Rodríguez ColásGuió: Marina Rodríguez ColásDirector fotografia: Juan Carlos LausinIntèrprets: Vicky Luengo (Marta), Carolina Yuste (Desi), Elisabet Casanovas (Bea), Ángela Cervantes (Soraya), Cristina Plazas (Maricarmen)'Chavalas' explica la història de la Marta, la Desi, la Soraya i la Bea, quatre amigues d'infància que es retroben al barri per reviure l'autèntica amistat que les va fer inseparables anys enrere. Ara emprendran aventures noves i hauran de fer front als dilemes de la vida, una realitat que les obligarà a enfrontar-se a les adolescents que van ser en el passat i a les dones que volen ser en el futur. Sense adonar-se'n, s'ajudaran a prendre decisions importants. El pas del temps i el fet que la vida les hagi tornat tan diferents no impediran que l'amistat prevalgui per sobre de tot. ",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/9/1783516478890.jpg"
+        "start": "2026-09-11T10:42:28+02:00",
+        "stop": "2026-09-11T11:30:17+02:00",
+        "title": "Aeroport",
+        "subtitle": "Aeroport - Moviment",
+        "description": "L'aeroport és moviment, és un espai dinàmic que funciona com una mena d'engranatge on tothom fa la seva feina. Moviment a la cinta nova per carregar les maletes, per enllestir un carregament molt especial amb destinació a la Xina o per satisfer una petició molt romàntica.",
+        "genre": "Docu-Entreteniment",
+        "image": ""
       },
       {
-        "start": "2026-09-11T07:38:17+02:00",
-        "stop": "2026-09-11T08:10:06+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Quèquicom - Tractors, de la mula al xip",
-        "description": "Llaurem amb un cavall, comparem la potència d'un tractor antic amb un de modern capaç de veremar o recollir el blat de moro automàticament. Tot llaurant aprenem perquè tenen les rodes tan grosses i que són el Watt i el cavall de vapor.D'ençà de la seva aparició l'agricultura ha tingut diverses revolucions tecnològiques, que sempre han anat en la direcció d'estalviar esforç i augmentar l'eficiència: la tracció animal, la mecanització, la precisió i la interconnexió. Només falta la robotització, i el pagès no haurà de moure ni un dit per treballar al camp.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-11T11:30:17+02:00",
+        "stop": "2026-09-11T12:04:33+02:00",
+        "title": "Tot o res",
+        "subtitle": "Tot o res",
+        "description": "'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.",
+        "genre": "CONCURS",
         "image": ""
       }
     ],
