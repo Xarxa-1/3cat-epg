@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-12T04:49:53.035637+00:00",
+  "updated": "2026-09-12T08:58:48.183711+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-12T06:00:00+02:00",
-        "stop": "2026-09-12T07:00:00+02:00",
+        "start": "2026-09-12T09:54:32+02:00",
+        "stop": "2026-09-12T11:26:36+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,8 +52,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-12T07:00:00+02:00",
-        "stop": "2026-09-12T10:00:00+02:00",
+        "start": "2026-09-12T11:26:30+02:00",
+        "stop": "2026-09-12T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-09-12T06:00:00+02:00",
-        "stop": "2026-09-12T07:00:00+02:00",
+        "start": "2026-09-12T10:00:00+02:00",
+        "stop": "2026-09-12T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-12T07:00:00+02:00",
-        "stop": "2026-09-12T10:00:00+02:00",
+        "start": "2026-09-12T12:00:00+02:00",
+        "stop": "2026-09-12T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-12T06:39:59+02:00",
-        "stop": "2026-09-12T08:26:26+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3",
-        "description": "Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. ",
+        "start": "2026-09-12T10:36:18+02:00",
+        "stop": "2026-09-12T11:55:00+02:00",
+        "title": "Handbol",
+        "subtitle": "Handbol - Logronyo-Barça / Lliga Asobal / J1",
+        "description": "L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"
       },
       {
-        "start": "2026-09-12T08:26:26+02:00",
-        "stop": "2026-09-12T08:42:21+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "3CatInfo Esports",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-12T11:55:00+02:00",
+        "stop": "2026-09-12T12:49:21+02:00",
+        "title": "Futbol",
+        "subtitle": "Futbol - Athletic Club-RCD Espanyol / Lliga F / J3",
+        "description": "Sortida complicada per a les blanc-i-blaves que, després de dues derrotes, necessiten sumar els primers punts al campionat. El conjunt basc ha guanyat els dos primers partits i es vol mantenir al capdavant de la classificació. Amb la narració de Gemma Mallorca i l'anàlisi de Mireia Vera.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-12T06:43:41+02:00",
-        "stop": "2026-09-12T07:07:08+02:00",
-        "title": "Les Tres Bessones",
-        "subtitle": "Les Tres Bessones - Polzet",
-        "description": "En Polzet, els seus germans i les Bessones cauen en una trampa que els transporta al castell d'un ogre malvat. Però dues de les nenes aconsegueixen escapar-se i robar les botes de set llegües a l'ogre, unes botes que fan passes de gegant! Amb elles aniran a rescatar tots els seus germans i germanes…",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "start": "2026-09-12T10:17:45+02:00",
+        "stop": "2026-09-12T11:03:54+02:00",
+        "title": "El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire",
+        "subtitle": "El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire - El món prodigiós. París, les...",
+        "description": "EL MÓN PRODIGIÓS. PARÍS, LES AVENTURES DE TOXIBUG I L'URPA NOIRE 'Miraculous World: Paris, les aventures de Toxinelle et Griffe Noire'Direcció: Thomas AstrucGuió: Thomas AstrucProducció: Method Animation, SAMG Animation, Mediawan Kids & Family, Zagtoon, Disney+Any: 2023Durada: 50País: FrançaFotografia: AnimacióLadybug i el Gat Noir descobreixen que existeix un món paral·lel en què els portadors dels prodigis de la marieta i del gat negre són dolents i, en canvi, el portador del prodigi de la papallona es fa dir Hespèria i és un heroi que lluita pel bé dels altres. Toxibug i l'Urpa Noire apareixen a París amb molt males intencions. Aconseguiran Ladybug i el Gat Noir, amb l'ajuda de l'Alya, fer que Toxibug i l'Urpa Noire s'adonin que serian més feliços fent el bé?",
+        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1788945274843.jpg"
       },
       {
-        "start": "2026-09-12T07:07:08+02:00",
-        "stop": "2026-09-12T07:18:54+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "L'abella Maia - Ajudem el roure",
-        "description": "En Flip, la Maia i en Max han descobert que el roure, l'arbre que s'estimen més de tot el prat, està malalt perquè s'ha quedat sense tòfones al voltant, que són el que l'ajuden a menjar i a beure. Per això han decidit que n'aniran a buscar unes quantes i les hi plantaran a la vora, però el que no saben és que hi ha algú que no para de cruspir-se les tòfones! Qui deu ser?!",
+        "start": "2026-09-12T11:03:54+02:00",
+        "stop": "2026-09-12T11:27:10+02:00",
+        "title": "El carreró del misteri",
+        "subtitle": "El carreró del misteri - El lladre invisible",
+        "description": "Durant un viatge diplomàtic a Londres, el rei de les mascotes de la ciutat del Caire és víctima d'un robatori inexplicable just en el moment que visita el palau de Buckingham.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-12T06:28:31+02:00",
-        "stop": "2026-09-12T06:58:45+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Quèquicom - El pit: una icona de feminitat",
-        "description": "Els pits són icona de la feminitat, objecte de desig, fascinació i protesta. I, alhora, font d'aliment i de sensualitat. Quina és la seva estructura interna? Per què cauen? Com són les pròtesis mamàries? Com generen llet? Com evitar el dolor en l'alletament?",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-12T10:16:21+02:00",
+        "stop": "2026-09-12T10:56:21+02:00",
+        "title": "La Mar de Bé",
+        "subtitle": "La Mar de Bé - Afra Uno",
+        "description": "Diuen que la millor manera de conèixer l'ofici de pescador és sortir a pescar amb ells. En Quim Casellas ho té clar i, en aquest capítol, s'unirà a la tripulació de l'Afra Uno per pescar peix blau mitjançant la tècnica de l'encerclament, que es fa de nit i ofereix un autèntic espectacle visual. Visitarà el taller d'en Salvador Feliu, sisena generació de mestres d'aixa, on aprendrà a reparar una barca. Al Maram, el centre d'interpretació del peix de l'Escala, cuinarà uns filets de sardina marinades amb all blanc i cireres.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-12T06:58:45+02:00",
-        "stop": "2026-09-12T07:45:52+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La Renaixença - La perxa d'atletisme",
-        "description": "Tots hem passat tardes de Jocs Olímpics mirant esports que no coneixem. El salt de perxa, per exemple. Com pot ser que aquell pal aguanti el pes d'una persona mentre es doblega i es torna a posar recte? Dediquem el capítol a la perxa d'atletisme. Ens visita en Max Codinach, de Gavina.mp3, que també és poeta i té un llibre (tot i que es veu que no ho sabia). Amb l'Arnau Tordera i la Laia Glück interpreten 'Sempre instint'. Sortim a passejar en Rufus per la defensa de Baler, a les Filipines del 1898.",
+        "start": "2026-09-12T10:56:21+02:00",
+        "stop": "2026-09-12T11:49:13+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Experiència Catalana - Germans Green",
+        "description": "La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "image": ""
       }
     ],
     "oca1": [],
