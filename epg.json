@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-12T20:33:18.580862+00:00",
+  "updated": "2026-09-12T22:32:32.695390+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,17 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-12T22:28:48+02:00",
-        "stop": "2026-09-13T00:32:31+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - Sinjar",
-        "description": "SINJARProducció: Kaboga art & films creacions audiovisualsDirecció i guió: Anna M. BofarullDirecció fotografia: Lara VilanovaIntèrprets: Nora Navas (Carlota), Halima Ilter (Hadia), Eman Eido (Arjin), Guim Puig (Marc), Luisa Gavasa (Carmen)Sinopsi:2014. Soldats d'Estat Islàmic envaeixen Sinjar. La Hadia és convertida en esclava i tancada en una casa amb tres dels seus fills. La jove Arjin s'escapa de la seva captivitat i intenta tornar a casa. A Barcelona, la Carlota busca desesperadament el seu fill, fugit sense deixar rastre. Fins on estaran disposades a arribar aquestes tres dones per recuperar els que més s'estimen?",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
-      },
-      {
-        "start": "2026-09-13T00:32:31+02:00",
-        "stop": "2026-09-13T00:48:46+02:00",
+        "start": "2026-09-13T00:32:32+02:00",
+        "stop": "2026-09-13T00:50:53+02:00",
         "title": "Literal",
         "subtitle": "Literal - Literalment romàntic",
         "description": "Mira que n'hem parlat, però mai en tenim prou: som unes romàntiques empedreïdes. Evolucionem cap a amors més sans, intentem desidealitzar l'amor i busquem novel·les que representin realitats més enllà de l'heteronormativitat, però ho confessem: el nostre plaer culpable continuen sent les comèdies romàntiques. A 'Literal', literalment romàntiques amb Joana Marcús i Maria Vallespí. ",
@@ -63,17 +54,17 @@
     ],
     "324": [
       {
-        "start": "2026-09-12T22:02:00+02:00",
-        "stop": "2026-09-12T23:00:00+02:00",
-        "title": "Telenotícies vespre (reemissió)",
+        "start": "2026-09-13T00:30:00+02:00",
+        "stop": "2026-09-13T01:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-12T23:00:00+02:00",
-        "stop": "2026-09-13T00:30:00+02:00",
+        "start": "2026-09-13T01:00:00+02:00",
+        "stop": "2026-09-13T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +74,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-12T21:11:37+02:00",
-        "stop": "2026-09-12T22:34:43+02:00",
-        "title": "Futbol sala",
-        "subtitle": "Futbol sala - Viña Albali Valdepeñas-Barça / Primera Divisió / J1",
-        "description": "Els blaugranes, campions la temporada passada, s'estrenen al nou campionat de Lliga a la pista del conjunt manxec. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
+        "start": "2026-09-12T22:55:57+02:00",
+        "stop": "2026-09-13T00:32:06+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Gol a gol - Anàlisi de la jornada / J5 / Dissabte",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-09-12T22:34:43+02:00",
-        "stop": "2026-09-12T22:55:00+02:00",
-        "title": "Sala de Premsa",
-        "subtitle": "Sala de Premsa - Hansi Flick / Prèvia Llevant-Barça / J5",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "start": "2026-09-13T00:32:06+02:00",
+        "stop": "2026-09-13T00:48:02+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "3CatInfo Esports",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-12T22:23:16+02:00",
-        "stop": "2026-09-12T22:36:47+02:00",
-        "title": "Les filles del Dad",
-        "subtitle": "Les filles del Dad - Joc per nens",
-        "description": "La Roxane pensava passar la tarda amb el Lewis però ell, fascinat per l'Ondine i els seus amics, s'estima més anar al cinema amb la colla de preadolescents. La Roxane ha d'acceptar la realitat: si vol recuperar l'amistat del Lewis, ella també s'haurà de comportar com una preadolescent. Què passaria si la Roxane fes millor d'adolescent que la seva germana? Comença el duel!",
+        "start": "2026-09-13T00:23:12+02:00",
+        "stop": "2026-09-13T00:33:31+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "La gateta Arc iris papallona unicorn - L'aprenent d'Anubis",
+        "description": "El Miguel aconsegueix entrar a l'inframon dels egipcis, on haurà de passar unes proves molt exigents per convertir-se en governant Anubis. La Felicity vol ajudar sigui com sigui el seu amic a fer realitat aquest somni, però acaba fent més nosa que servei.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-12T22:36:47+02:00",
-        "stop": "2026-09-12T22:47:42+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "La tropa del corral - Diversió a la granja",
-        "description": "L'Elvis truca la Tropa: havia promès a en Cornelius que el colaria a la fira perquè no havia estat mai a cap, i ara resulta que l'han cancel·lat. La Tropa decideix muntar-ne una de molt divertida a la granja, però la cosa es complica quan la resta d'animals hi apareixen per sorpresa!",
+        "start": "2026-09-13T00:33:31+02:00",
+        "stop": "2026-09-13T00:44:19+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "La gateta Arc iris papallona unicorn - La capsa sorpresa",
+        "description": "La Felicity penja a internet un vídeo obrint un paquet. Es fa tan viral que comença a rebre paquets gratis d'empreses que volen vídeos de promoció. El Rudy, mort d'enveja, li envia la temible capsa de Pandora perquè l'obri.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-12T22:06:32+02:00",
-        "stop": "2026-09-12T23:04:55+02:00",
-        "title": "Els caps de setmana llargs d'en Rick Stein",
-        "subtitle": "Els caps de setmana llargs d'en Rick Stein - Copenhaguen",
-        "description": "A Copenhaguen, on s'allotja en una barca flotant, en Rick aprendrà unes quantes coses sobre la nova cuina nòrdica, un fenomen que ha portat la gastronomia danesa i l'interès dels danesos pel menjar a un altre nivell. Parlarà amb xefs innovadors, coneixerà una actriu que admira molt, visitarà un museu d'escultures, una església molt singular i els Jardins de Tivoli, i tastarà alguns plats emblemàtics del país, com l''smørrebrød' -pa amb coses- o els 'frikadellen' -bunyols de peix-.",
+        "start": "2026-09-13T00:03:54+02:00",
+        "stop": "2026-09-13T00:56:10+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "Els quaderns de cuina de la Julie - El mercat internacional de Rungis",
+        "description": "La Julie es passa tota una matinada rondant pel mercat de majoristes de París. Al pavelló de triperia, en Philippe fa un guisat de galtes de porc amb sidra, mostassa i pastanaga. Al pavelló de peixateria, l'Éric fa uns lloms de bacallà fresc amb xoriço. Al sector de formatgeria, en Jean-Pierre s'encarrega de la safata de formatges. Al pavelló de verduleria, la Martine i l'Olivier són productors de créixens i en Jean-François és especialista en productes d'arreu del món amb els quals la Julie improvisarà unes postres.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-12T23:04:55+02:00",
-        "stop": "2026-09-13T00:03:53+02:00",
-        "title": "Els caps de setmana llargs d'en Rick Stein",
-        "subtitle": "Els caps de setmana llargs d'en Rick Stein - Cadis",
-        "description": "En Rick Stein aquesta vegada viatja a la ciutat andalusa de Cadis, on quedarà captivat per la llum i resseguirà el seu passat, recordant la petjada dels fenicis o la fascinant batalla de Trafalagar. I s'emocionarà amb la passió que transmet el flamenc. Tastarà, entre altres plats, peixet fregit, seitons, calamarsons o l'exquisida 'tortillita de camarones' (coca fregida de gambetes), sense oblidar el xerès. I cuinarà orada a la 'roteña', arròs verd i ous a la flamenca.",
+        "start": "2026-09-13T00:56:10+02:00",
+        "stop": "2026-09-13T01:47:36+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "Els quaderns de cuina de la Julie - La vall dels Baus",
+        "description": "En aquest episodi la Julie visita la regió dels Baus, al peu del massís dels Alpilles. Primer de tot coneix en Marcel, un productor d'olives. Després, amb l'Annie i les seves filles l'Anne i la Magali, que són oleïcultores, prepara una orada amb fonoll i un fricot amb olives trencades. Amb l'Alexandre, que és productor de fenc i fill de ramader, fa una recepta de toro amb arròs amb fenc. Amb en Pierre, que és confiter, descobreix com es fan les fruites confitades de la regió. Finalment, amb la Jeanne, prepara un menjar blanc típic de la Provença.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
