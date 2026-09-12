@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-12T08:58:48.183711+00:00",
+  "updated": "2026-09-12T12:46:08.481597+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,101 +43,101 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-12T09:54:32+02:00",
-        "stop": "2026-09-12T11:26:36+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "Notícies 3CatInfo",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "start": "2026-09-12T14:30:00+02:00",
+        "stop": "2026-09-12T15:34:31+02:00",
+        "title": "Telenotícies migdia",
+        "subtitle": "Telenotícies migdia",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-09-12T11:26:30+02:00",
-        "stop": "2026-09-12T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "Notícies 3CatInfo",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-12T15:31:19+02:00",
+        "stop": "2026-09-12T16:57:33+02:00",
+        "title": "Habitacions tancades",
+        "subtitle": "Habitacions tancades",
+        "description": "HABITACIONS TANCADESProducció: Televisió de Catalunya, Diagonal Televisió i Televisión Española, 2015Director: Lluís M. GüellProducció executiva TVC : Susanna Jiménez i Elisa PlazaProducció executiva Diagonal Televisió: Albert SagalésProducció executiva TVE: Maite PisoneroAdaptació i guió: Pere RieraDirector de fotografia: Raimon LordaMúsica original: Francesc GenerIntèrprets: Adriana Ugarte (Teresa Brusés), Alex García (Amadeu Lax), Bea Segura (Violeta Lax), Rosa Boladeras (Maria del Roser Golorons), Diana Gómez (Conxita), Raúl Peña (Joan Lax), Francesc Orella (Rodolf Lax), Ramon Madaula (Modest Lax), Jan Cornet (Octavi Conde), Toni Sevilla (Soler), Marc Cartes (Ricard Selvas), Laia Costa (Montserrat Espelleta) i Pep Antón Muñoz (Mossèn Eudald)Amadeu Lax va ser un dels més afanats pintors espanyols de principis del segle XX. La seva obra segueix, avui dia, sent reconeguda universalment i el seu talent roman indiscutible, però la descoberta, vuitanta anys després de la seva mort, d'un cadàver sepultat en una petita habitació de la seva antiga residència, fa saltar totes les alarmes. Va ser l'Amadeu Lax un artista genial o un assassí brutal? La seva néta Violeta serà l'encarregada d'esclarir tots els secrets que amaga, no només el passat insigne del seu avi, sinó el de tota la família.D'aquesta manera, serem testimonis del procés que seguirà l'Amadeu des de la seva infància fins a convertir-se en un adult que enfrontarà de manera tortuosa totes les seves relacions. Especialment aquelles que mantindrà amb cada una de les dones que apareixeran a la seva vida: la seva mare, la seva dida, les seves amants i, finalment, aquella que marcarà per sempre el seu destí, Teresa Brusés, el seu gran amor.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-12T10:00:00+02:00",
-        "stop": "2026-09-12T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-12T14:30:00+02:00",
+        "stop": "2026-09-12T15:40:00+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-09-12T12:00:00+02:00",
-        "stop": "2026-09-12T14:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-12T15:40:00+02:00",
+        "stop": "2026-09-12T16:30:00+02:00",
+        "title": "Telenotícies migdia (reemissió)",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-12T10:36:18+02:00",
-        "stop": "2026-09-12T11:55:00+02:00",
-        "title": "Handbol",
-        "subtitle": "Handbol - Logronyo-Barça / Lliga Asobal / J1",
-        "description": "L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.",
+        "start": "2026-09-12T14:14:27+02:00",
+        "stop": "2026-09-12T16:08:42+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Bàsquet - Kids&Us Manresa-Barça / Lliga Catalana / J3",
+        "description": "Des de Tarragona, tercer i últim partit del grup 1 a la Lliga Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
       },
       {
-        "start": "2026-09-12T11:55:00+02:00",
-        "stop": "2026-09-12T12:49:21+02:00",
-        "title": "Futbol",
-        "subtitle": "Futbol - Athletic Club-RCD Espanyol / Lliga F / J3",
-        "description": "Sortida complicada per a les blanc-i-blaves que, després de dues derrotes, necessiten sumar els primers punts al campionat. El conjunt basc ha guanyat els dos primers partits i es vol mantenir al capdavant de la classificació. Amb la narració de Gemma Mallorca i l'anàlisi de Mireia Vera.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "start": "2026-09-12T16:08:42+02:00",
+        "stop": "2026-09-12T16:25:00+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Sala de Premsa - Hansi Flick / Prèvia Llevant-Barça / J5",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-12T10:17:45+02:00",
-        "stop": "2026-09-12T11:03:54+02:00",
-        "title": "El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire",
-        "subtitle": "El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire - El món prodigiós. París, les...",
-        "description": "EL MÓN PRODIGIÓS. PARÍS, LES AVENTURES DE TOXIBUG I L'URPA NOIRE 'Miraculous World: Paris, les aventures de Toxinelle et Griffe Noire'Direcció: Thomas AstrucGuió: Thomas AstrucProducció: Method Animation, SAMG Animation, Mediawan Kids & Family, Zagtoon, Disney+Any: 2023Durada: 50País: FrançaFotografia: AnimacióLadybug i el Gat Noir descobreixen que existeix un món paral·lel en què els portadors dels prodigis de la marieta i del gat negre són dolents i, en canvi, el portador del prodigi de la papallona es fa dir Hespèria i és un heroi que lluita pel bé dels altres. Toxibug i l'Urpa Noire apareixen a París amb molt males intencions. Aconseguiran Ladybug i el Gat Noir, amb l'ajuda de l'Alya, fer que Toxibug i l'Urpa Noire s'adonin que serian més feliços fent el bé?",
-        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1788945274843.jpg"
+        "start": "2026-09-12T14:39:31+02:00",
+        "stop": "2026-09-12T14:51:17+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Les Sisters - La meva estimada consola",
+        "description": "La Wendy està deprimida: el Maxence no li fa cas perquè s'ha comprat una consola nova i no deixa de jugar-hi ni un instant. Per aixecar la moral a la seva germana, la Marine dona un ultimàtum al Maxence: 'O la consola o la nòvia, tu tries!'. Naturalment el Maxence tria la Wendy... però al cine, quan passegen o quan són junts a casa, no es pot estar de treure la consola discretament...",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       },
       {
-        "start": "2026-09-12T11:03:54+02:00",
-        "stop": "2026-09-12T11:27:10+02:00",
-        "title": "El carreró del misteri",
-        "subtitle": "El carreró del misteri - El lladre invisible",
-        "description": "Durant un viatge diplomàtic a Londres, el rei de les mascotes de la ciutat del Caire és víctima d'un robatori inexplicable just en el moment que visita el palau de Buckingham.",
+        "start": "2026-09-12T14:51:17+02:00",
+        "stop": "2026-09-12T15:02:39+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Les Sisters - Les germanes ventafocs",
+        "description": "La Wendy i la Marine descobreixen que els seus pares van a un concert del Joy D. sense elles. S'adonen llavors que no ajuden gens ni mica en les feines de casa. Amb l'esperança de rebre una recompensa, decideixen fer dissabte. Però a força de netejar i endreçar, s'acaben tornant maniàtiques de la neteja i es converteixen en les germanes Ventafocs!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-12T10:16:21+02:00",
-        "stop": "2026-09-12T10:56:21+02:00",
-        "title": "La Mar de Bé",
-        "subtitle": "La Mar de Bé - Afra Uno",
-        "description": "Diuen que la millor manera de conèixer l'ofici de pescador és sortir a pescar amb ells. En Quim Casellas ho té clar i, en aquest capítol, s'unirà a la tripulació de l'Afra Uno per pescar peix blau mitjançant la tècnica de l'encerclament, que es fa de nit i ofereix un autèntic espectacle visual. Visitarà el taller d'en Salvador Feliu, sisena generació de mestres d'aixa, on aprendrà a reparar una barca. Al Maram, el centre d'interpretació del peix de l'Escala, cuinarà uns filets de sardina marinades amb all blanc i cireres.",
-        "genre": "ALTRES",
+        "start": "2026-09-12T14:30:28+02:00",
+        "stop": "2026-09-12T15:00:42+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Quèquicom - QQC i ...La genètica",
+        "description": "En un viatge del cromosoma al gen, revisem les bases de la revolució genètica:conceptes com el cariotip, la divisió cel·lular i l'herència, els caràcters lligats al sexe, les mutacions i el càncer.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-09-12T10:56:21+02:00",
-        "stop": "2026-09-12T11:49:13+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Experiència Catalana - Germans Green",
-        "description": "La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.",
-        "genre": "ALTRES",
+        "start": "2026-09-12T15:00:42+02:00",
+        "stop": "2026-09-12T15:59:45+02:00",
+        "title": "Els caps de setmana llargs d'en Rick Stein",
+        "subtitle": "Els caps de setmana llargs d'en Rick Stein - Bolonya",
+        "description": "A Bolonya, en Rick descobreix que els espaguetis a la bolonyesa, que per ell eren el plat bolonyès per excel·lència, allà són considerats gairebé una heretgia. Però aprendrà quina és la versió dels espaguetis que sí que mengen a Bolonya. Allà tastarà, entre altres plats, uns ravionlini deliciosos farcits de ceba dolça, calamarsos farcits, un parmesà madurat tretze anys, conill farcit de truita i pernil de Parma o la famosa mortadel·la. Per als bolonyesos, menjar bé és molt important.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
