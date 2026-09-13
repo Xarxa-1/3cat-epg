@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-13T10:15:44.145778+00:00",
+  "updated": "2026-09-13T14:31:16.961284+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-13T11:44:57+02:00",
-        "stop": "2026-09-13T13:16:39+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Bàsquet - Lliga Catalana / Final",
-        "description": "Des del Pavelló Catalunya de Tarragona, la final masculina de la 47a Lliga Nacional Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
+        "start": "2026-09-13T15:34:50+02:00",
+        "stop": "2026-09-13T17:14:07+02:00",
+        "title": "Tarda de cine",
+        "subtitle": "Tarda de cine - Assassinats a Montalban",
+        "description": "ASSASSINATS A MONTALBAN 'Meurtres à Montauban'Direcció: Muriel AubinGuió: François Grillères, Aymeric NoguéProducció: BE-FILMSAny: 2024Durada: 90País: FrançaMúsica: David SalkinFotografia: Sébastien BuchmannIntèrprets: Hubert Delattre, Déborah Krey, Lionnel Astier, Riton Liebman, Juliette Petiot, Zelda Rittner, Jérémy Barrière, Jean-Piere Bauredon, Armelle Abibou, Erick Deshors, Pierre-Olivier Bellec, Fabien Rasplus, Harrison Arevalo, Karine Monneau, Régis Lux, Corinne Mariotto Patrick Delmas, exjugador de rugbi professional, és assassinat a la festa dels 400 cops de Montalban i un vel de misteri plana sobre la capital. El comandant Martin Delacroix, acabat d'arribar de la policia judicial de París, s'encarrega del cas, juntament amb la jove tinenta Cyrielle Laborie. La jove, que acaba de perdre la seva mare, no veu amb bons ulls l'arribada d'aquest policia, massa segur de si mateix. El que no sap és que el Martin ha vingut a Montalban buscant la seva família biològica. Per afrontar amb serenitat la seva propera paternitat, necessita conèixer el motiu pel qual la seva mare el va abandonar.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       },
       {
-        "start": "2026-09-13T14:02:09+02:00",
-        "stop": "2026-09-13T14:29:54+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "Notícies 3CatInfo",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-13T17:14:07+02:00",
+        "stop": "2026-09-13T18:57:39+02:00",
+        "title": "Tarda de cine",
+        "subtitle": "Tarda de cine - Assassinat a Dinard",
+        "description": "ASSASSINAT A DINARD 'Lame de fond'Direcció: Bruno GarciaGuió: Fabienne Lesieur, Victor PavyProducció: France Télévisions, BE FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Film & Picture, France 2 (FR 2)Any: 2023Durada: 93País: FrançaMúsica: Fabien CahenFotografia: Marc FalchierIntèrprets: Pauline Bression, Éléonore Bernheim, Antoine Hamel, Stéphane Freiss, Franz Rudolf Lang, Florence Muller, William Nadylam, Guillaume Dolmans, Anne Hélène Orvelin, Arnaud Stéphan, Lola BurbailLa localitat costanera de Dinard es prepara per a un festival de cinema britànic quan es descobreix el cos sense vida d'un jove director anglès flotant a la platja. Però l'home no s'ha ofegat, sinó que l'han assassinat. Vint anys abans havia estat víctima d'un naufragi amb un veler en què la seva germana va resultar morta. Tenen cap relació les dues morts?",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-13T12:00:00+02:00",
-        "stop": "2026-09-13T14:30:00+02:00",
+        "start": "2026-09-13T16:30:00+02:00",
+        "stop": "2026-09-13T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-13T14:30:00+02:00",
-        "stop": "2026-09-13T15:40:00+02:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-09-13T18:30:00+02:00",
+        "stop": "2026-09-13T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-13T11:55:00+02:00",
-        "stop": "2026-09-13T14:00:11+02:00",
-        "title": "Futbol",
-        "subtitle": "Futbol - UD Logronyès B-Barça Atlètic / Segona Federació / J2",
-        "description": "El filial blaugrana va debutar amb una golejada, 5-1 contra el Náxara, i es vol mantenir al capdavant de la classificació. Amb la narració de Lluís Cervelló i l'anàlisi d'Alberto Manga. ",
+        "start": "2026-09-13T16:11:15+02:00",
+        "stop": "2026-09-13T18:09:33+02:00",
+        "title": "Un dia de partit",
+        "subtitle": "Un dia de partit - Llevant-Barça",
+        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
       },
       {
-        "start": "2026-09-13T14:00:11+02:00",
-        "stop": "2026-09-13T14:37:00+02:00",
-        "title": "Crackòvia",
-        "subtitle": "Crackòvia",
-        "description": "El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.",
-        "genre": "GAGS. HUMOR",
-        "image": ""
+        "start": "2026-09-13T18:09:33+02:00",
+        "stop": "2026-09-13T19:25:00+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Gol a gol - Post Llevant-Barça / J5",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-13T10:22:02+02:00",
-        "stop": "2026-09-13T13:04:09+02:00",
-        "title": "Projecte Beta",
-        "subtitle": "Projecte Beta - 10a temporada sencera 'Projecte Beta'",
-        "description": "Un asteroide trastoca la vida dels Beta. El Grau s'obsessiona a trobar vida alienígena mentre la Kai es prepara per ser astronauta. Al Jan li caurà l'amor del cel, i la Lola, que sembla que s'hagi donat un cop al cap, prova una personalitat diferent cada dia.",
+        "start": "2026-09-13T16:19:43+02:00",
+        "stop": "2026-09-13T16:44:16+02:00",
+        "title": "Fuet",
+        "subtitle": "Fuet - Que venen els grecs!",
+        "description": "Les extraterrestres Kiry i Eda, després de fracassar en la seva primera missió de trobar el Fuet, són castigades al planeta Miau. Decidides a reprendre la cerca, aconsegueixen robar un navegador temporal que els permet escapar. La seva primera parada és en un moment crucial de la història catalana: la fundació d'Empúries. Allà, s'endinsaran a l'Antiga Grècia, on coneixeran figures i mites importants, com el déu grec de la medicina, Asclepi, i descobriran la influència cultural i històrica d'aquest poble en el territori català.",
         "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-13T13:04:09+02:00",
-        "stop": "2026-09-13T13:25:55+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - L'odissea dels mussols",
-        "description": "Els germans Kratt, l'Aviva i la Koki tenen un accident amb la càpsula i van a parar a un lloc remot, des d'allà hauran de viure tota una odissea per tornar a casa. Pel camí descobreixen un munt d'espècies de la família dels mussols, amb unes quantes característiques comunes però cada espècie amb les seves singularitats. Això inspira l'Aviva per fer un vestit de poder animal per tornar a casa.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-13T16:44:16+02:00",
+        "stop": "2026-09-13T17:09:45+02:00",
+        "title": "Fuet",
+        "subtitle": "Fuet - Barcelona és arrasada, i no és culpa del turisme.",
+        "description": "La Kiry i l'Eda intenten tornar a buscar el Fuet però, de sobte, una emissió externa interromp les comunicacions. El comandant Jau Coloma, un caçador excèntric del planeta Bup, té l'objectiu de capturar el Fuet abans que elles. Mentre intenten posar rumb a la Terra, visitaran la Barcelona del segle X, on descobreixen la brutal destrucció de la ciutat a mans d'Al-Mansur i seran testimonis de com el Comte Borrell trenca lligams amb el regne dels francs marcant l'inici de la independència de Catalunya.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-13T11:20:40+02:00",
-        "stop": "2026-09-13T12:13:41+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Experiència Catalana - Angela May",
-        "description": "L'Angela May és una presentadora, actriu, i foodie singapuresa; una autèntica experta en gastronomia. Per això, la Ivana Miño l'acompanya a descobrir per què la cuina catalana i els nostres cuiners se situen entre els millors del món. L'hi mostra amb la Carme Ruscalleda i els Germans Roca.",
-        "genre": "ALTRES",
+        "start": "2026-09-13T16:17:27+02:00",
+        "stop": "2026-09-13T17:03:06+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "Viatges insòlits - Japó I",
+        "description": "Després de la parada obligada a causa de la Covid, Tom Waes reprèn la sèrie de Viatges Insòlits amb el que va quedar-li pendent a la pandèmia: Japó. En Tom recorrerà tot el país de sud a nord, més de tres mil quilòmetres per diverses illes, i aquesta primera part inclou la zona més meridional. El capítol comença amb una oració per demanar bon viatge i després continua passant per Nagasaki, l'illa dels gats, i una ciutat dominada per la yakuza, i entremig en Tom encara tindrà temps de participar en un festival tradicional molt especial.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-13T12:13:41+02:00",
-        "stop": "2026-09-13T13:06:40+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Experiència Catalana - Gareth",
-        "description": "La Ivana Miño acompanya en Gareth Pon, l'instagramer amb més seguidors de tot Àfrica. Junts fan un divertit recorregut per la Catalunya interior i, de tornada, participen en el ral·li de cotxes antics de Sitges.",
-        "genre": "ALTRES",
+        "start": "2026-09-13T17:03:06+02:00",
+        "stop": "2026-09-13T17:53:08+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "Viatges insòlits - Japó II",
+        "description": "La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
