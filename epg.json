@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-13T14:31:16.961284+00:00",
+  "updated": "2026-09-13T17:39:15.200797+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,19 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-13T15:34:50+02:00",
-        "stop": "2026-09-13T17:14:07+02:00",
-        "title": "Tarda de cine",
-        "subtitle": "Tarda de cine - Assassinats a Montalban",
-        "description": "ASSASSINATS A MONTALBAN 'Meurtres à Montauban'Direcció: Muriel AubinGuió: François Grillères, Aymeric NoguéProducció: BE-FILMSAny: 2024Durada: 90País: FrançaMúsica: David SalkinFotografia: Sébastien BuchmannIntèrprets: Hubert Delattre, Déborah Krey, Lionnel Astier, Riton Liebman, Juliette Petiot, Zelda Rittner, Jérémy Barrière, Jean-Piere Bauredon, Armelle Abibou, Erick Deshors, Pierre-Olivier Bellec, Fabien Rasplus, Harrison Arevalo, Karine Monneau, Régis Lux, Corinne Mariotto Patrick Delmas, exjugador de rugbi professional, és assassinat a la festa dels 400 cops de Montalban i un vel de misteri plana sobre la capital. El comandant Martin Delacroix, acabat d'arribar de la policia judicial de París, s'encarrega del cas, juntament amb la jove tinenta Cyrielle Laborie. La jove, que acaba de perdre la seva mare, no veu amb bons ulls l'arribada d'aquest policia, massa segur de si mateix. El que no sap és que el Martin ha vingut a Montalban buscant la seva família biològica. Per afrontar amb serenitat la seva propera paternitat, necessita conèixer el motiu pel qual la seva mare el va abandonar.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
-      },
-      {
-        "start": "2026-09-13T17:14:07+02:00",
-        "stop": "2026-09-13T18:57:39+02:00",
-        "title": "Tarda de cine",
-        "subtitle": "Tarda de cine - Assassinat a Dinard",
-        "description": "ASSASSINAT A DINARD 'Lame de fond'Direcció: Bruno GarciaGuió: Fabienne Lesieur, Victor PavyProducció: France Télévisions, BE FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Film & Picture, France 2 (FR 2)Any: 2023Durada: 93País: FrançaMúsica: Fabien CahenFotografia: Marc FalchierIntèrprets: Pauline Bression, Éléonore Bernheim, Antoine Hamel, Stéphane Freiss, Franz Rudolf Lang, Florence Muller, William Nadylam, Guillaume Dolmans, Anne Hélène Orvelin, Arnaud Stéphan, Lola BurbailLa localitat costanera de Dinard es prepara per a un festival de cinema britànic quan es descobreix el cos sense vida d'un jove director anglès flotant a la platja. Però l'home no s'ha ofegat, sinó que l'han assassinat. Vint anys abans havia estat víctima d'un naufragi amb un veler en què la seva germana va resultar morta. Tenen cap relació les dues morts?",
-        "genre": "PEL·LÍCULA / TELEFILM",
+        "start": "2026-09-13T19:03:06+02:00",
+        "stop": "2026-09-13T19:49:54+02:00",
+        "title": "Nervi",
+        "subtitle": "Nervi - Lucia del Greco, Júlia Blum i Joana Serrat",
+        "description": "Andrea Gumes conversa amb la jove dramaturga d'origen italià Lucia del Greco sobre trobar el teu propi espai i ser acollida (o no) dins de l'escena teatral catalana. Bet Molina passa un dia sencer amb la cantant Júlia Blum. Mariona Borrull ens fa recomanacions de cinema, teatre i videojocs. Tanca el programa una actuació en directe de la cantautora osonenca Joana Serrat i la seva banda amb 'Big lagoons', de l'àlbum 'Big wave' (2024). ",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-13T16:30:00+02:00",
-        "stop": "2026-09-13T18:30:00+02:00",
+        "start": "2026-09-13T18:30:00+02:00",
+        "stop": "2026-09-13T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +63,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-13T18:30:00+02:00",
-        "stop": "2026-09-13T20:00:00+02:00",
+        "start": "2026-09-13T20:00:00+02:00",
+        "stop": "2026-09-13T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +74,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-13T16:11:15+02:00",
-        "stop": "2026-09-13T18:09:33+02:00",
-        "title": "Un dia de partit",
-        "subtitle": "Un dia de partit - Llevant-Barça",
-        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
+        "start": "2026-09-13T19:25:00+02:00",
+        "stop": "2026-09-13T20:22:02+02:00",
+        "title": "Futbol",
+        "subtitle": "Futbol - SD Eibar-FC Badalona Women / Lliga F / J3",
+        "description": "Després d'imposar-se en el derbi contra l'Espanyol (0-1), les badalonines volen repetir victòria fora de casa per superar les basques a la taula classificatòria. Amb la narració de Gemma Mallorca i l'anàlisi de Juli Garcia. ",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       },
       {
-        "start": "2026-09-13T18:09:33+02:00",
-        "stop": "2026-09-13T19:25:00+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Gol a gol - Post Llevant-Barça / J5",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-09-13T20:22:02+02:00",
+        "stop": "2026-09-13T20:32:57+02:00",
+        "title": "Esport Club Cap de Setmana",
+        "subtitle": "Esport Club Cap de Setmana - Esport Club",
+        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-13T16:19:43+02:00",
-        "stop": "2026-09-13T16:44:16+02:00",
-        "title": "Fuet",
-        "subtitle": "Fuet - Que venen els grecs!",
-        "description": "Les extraterrestres Kiry i Eda, després de fracassar en la seva primera missió de trobar el Fuet, són castigades al planeta Miau. Decidides a reprendre la cerca, aconsegueixen robar un navegador temporal que els permet escapar. La seva primera parada és en un moment crucial de la història catalana: la fundació d'Empúries. Allà, s'endinsaran a l'Antiga Grècia, on coneixeran figures i mites importants, com el déu grec de la medicina, Asclepi, i descobriran la influència cultural i històrica d'aquest poble en el territori català.",
-        "genre": "ALTRES",
+        "start": "2026-09-13T19:34:26+02:00",
+        "stop": "2026-09-13T19:54:56+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El detectiu Conan - El pla ultrasecret del president carismàtic",
+        "description": "El president d'una corporació contracta un doble per poder tenir temps lliure i poder descansar. Però el seu doble l'assassinarà per quedar-se amb la seva fortuna. Per casualitat, l'Akira Komoda presenciarà l'assassinat i intentarà fer-li xantatge a l'assassí.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-13T16:44:16+02:00",
-        "stop": "2026-09-13T17:09:45+02:00",
-        "title": "Fuet",
-        "subtitle": "Fuet - Barcelona és arrasada, i no és culpa del turisme.",
-        "description": "La Kiry i l'Eda intenten tornar a buscar el Fuet però, de sobte, una emissió externa interromp les comunicacions. El comandant Jau Coloma, un caçador excèntric del planeta Bup, té l'objectiu de capturar el Fuet abans que elles. Mentre intenten posar rumb a la Terra, visitaran la Barcelona del segle X, on descobreixen la brutal destrucció de la ciutat a mans d'Al-Mansur i seran testimonis de com el Comte Borrell trenca lligams amb el regne dels francs marcant l'inici de la independència de Catalunya.",
-        "genre": "ALTRES",
+        "start": "2026-09-13T19:54:56+02:00",
+        "stop": "2026-09-13T20:17:30+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El detectiu Conan - La conspiració dels Homes de Negre. Cacera",
+        "description": "Mentre en Conan i els seus amics tornen cap a casa, parlen sobre els assassinats de quatre estrangers que s'han comès durant els últims dies. De sobte senten un soroll molt fort, en Conan arrenca a córrer i descobreix el cos d'un home que sembla que hagi caigut d'un edifici. Quan mira cap amunt reconeix en Vodka, un dels membres dels Homes de Negre. Llavors escorcolla el cos i descobreix que era agent de l'FBI.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-13T16:17:27+02:00",
-        "stop": "2026-09-13T17:03:06+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Viatges insòlits - Japó I",
-        "description": "Després de la parada obligada a causa de la Covid, Tom Waes reprèn la sèrie de Viatges Insòlits amb el que va quedar-li pendent a la pandèmia: Japó. En Tom recorrerà tot el país de sud a nord, més de tres mil quilòmetres per diverses illes, i aquesta primera part inclou la zona més meridional. El capítol comença amb una oració per demanar bon viatge i després continua passant per Nagasaki, l'illa dels gats, i una ciutat dominada per la yakuza, i entremig en Tom encara tindrà temps de participar en un festival tradicional molt especial.",
+        "start": "2026-09-13T19:25:08+02:00",
+        "stop": "2026-09-13T20:17:10+02:00",
+        "title": "A tocar de l'aigua",
+        "subtitle": "A tocar de l'aigua - El Segre II; Ribera Salada, Rialb i Llobregós",
+        "description": "A la segona etapa del recorregut pel Segre, ens endinsarem en el territori del Segre Mitjà des del primer pantà, el d'Oliana, i arribarem fins a Alòs de Balaguer. La ruta que farem per camps de regadiu, infraestructures hidràuliques, camins de ribera, camps de secà, patrimoni cultural i arquitectònic de pobles i despoblats serà una interessant visita pel mosaic que configuren aquestes comarques.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-13T17:03:06+02:00",
-        "stop": "2026-09-13T17:53:08+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Viatges insòlits - Japó II",
-        "description": "La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.",
+        "start": "2026-09-13T20:17:10+02:00",
+        "stop": "2026-09-13T20:59:41+02:00",
+        "title": "Un món de Jocs",
+        "subtitle": "Un món de Jocs - Un riutal antic",
+        "description": "Als humans ens encanta jugar. Al llargs dels últims 300.000 anys, hem inventat milers de jocs, potser milions. Però l'origen dels jocs no és gaire divertit. Van sorgir de la nostra lluita per sobreviure. En aquest episodi, analitzem com va començar tot.Donga, EtiòpiaFierljeppen, els Països BaixosCaça d'àguiles, el KirguizstanCurses de camells, Dubai",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
       }
     ],
     "oca1": [],
