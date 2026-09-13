@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-12T22:32:32.695390+00:00",
+  "updated": "2026-09-13T00:21:06.956499+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,19 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-13T00:32:32+02:00",
-        "stop": "2026-09-13T00:50:53+02:00",
-        "title": "Literal",
-        "subtitle": "Literal - Literalment romàntic",
-        "description": "Mira que n'hem parlat, però mai en tenim prou: som unes romàntiques empedreïdes. Evolucionem cap a amors més sans, intentem desidealitzar l'amor i busquem novel·les que representin realitats més enllà de l'heteronormativitat, però ho confessem: el nostre plaer culpable continuen sent les comèdies romàntiques. A 'Literal', literalment romàntiques amb Joana Marcús i Maria Vallespí. ",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-13T00:50:53+02:00",
+        "stop": "2026-09-13T04:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-13T04:30:00+02:00",
+        "stop": "2026-09-13T05:16:09+02:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Fusió i swing a l'estudi - LE BBT 48er PROJECT",
+        "description": "Le BBT 48er Project és un grup que es caracteritza per les carreres consolidades en solitari dels seus membres. Tots ells són grans coneixedors del jazz manoche, un estil creat o iniciat per Django Reinhart. Biel Ballester a la guitarra solista, Leo Hipaucha al contrabaix, Graci Pedro a la guitarra rítmica, Jerome Etxeberry a la trompeta, i Paul Chéron, al saxo.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-13T00:30:00+02:00",
-        "stop": "2026-09-13T01:00:00+02:00",
+        "start": "2026-09-13T01:00:00+02:00",
+        "stop": "2026-09-13T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-13T01:00:00+02:00",
-        "stop": "2026-09-13T06:00:00+02:00",
+        "start": "2026-09-13T06:00:00+02:00",
+        "stop": "2026-09-13T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -74,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-12T22:55:57+02:00",
-        "stop": "2026-09-13T00:32:06+02:00",
+        "start": "2026-09-13T00:56:31+02:00",
+        "stop": "2026-09-13T02:34:03+02:00",
         "title": "Gol a gol",
         "subtitle": "Gol a gol - Anàlisi de la jornada / J5 / Dissabte",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
@@ -83,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-09-13T00:32:06+02:00",
-        "stop": "2026-09-13T00:48:02+02:00",
+        "start": "2026-09-13T02:34:03+02:00",
+        "stop": "2026-09-13T02:56:58+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "3CatInfo Esports",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -94,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-13T00:23:12+02:00",
-        "stop": "2026-09-13T00:33:31+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "La gateta Arc iris papallona unicorn - L'aprenent d'Anubis",
-        "description": "El Miguel aconsegueix entrar a l'inframon dels egipcis, on haurà de passar unes proves molt exigents per convertir-se en governant Anubis. La Felicity vol ajudar sigui com sigui el seu amic a fer realitat aquest somni, però acaba fent més nosa que servei.",
+        "start": "2026-09-13T02:07:20+02:00",
+        "stop": "2026-09-13T02:28:12+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - L'osset de peluix malvat",
+        "description": "L'Adrien li diu a la Chloé que si vol que segueixin sent amics, ha d'apendre a ser amable amb els altres. Per això la Chloé organitza una festa a casa seva,però l'instint de criticar els altres és més fort que ella, i el seu majordom intenta ajudar-la fent servir un osset de peluix de quan era petita. El problema és quel'Esfinx també s'ha fixat en l'osset.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-13T00:33:31+02:00",
-        "stop": "2026-09-13T00:44:19+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "La gateta Arc iris papallona unicorn - La capsa sorpresa",
-        "description": "La Felicity penja a internet un vídeo obrint un paquet. Es fa tan viral que comença a rebre paquets gratis d'empreses que volen vídeos de promoció. El Rudy, mort d'enveja, li envia la temible capsa de Pandora perquè l'obri.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-13T02:28:12+02:00",
+        "stop": "2026-09-13T02:38:40+02:00",
+        "title": "Com dibuixar còmics amb el Will Sliney",
+        "subtitle": "Com dibuixar còmics amb el Will Sliney - El Megacrònica",
+        "description": "Gràcies als poders que ha aconseguit amb l'ajuda del misteriós Torcements, el Crònica ha aconseguit dominar les ments de tots els herois i dolents que s'havien creat al llarg de la sèrie, la qual cosa li ha permès mutar en una versió superpoderosa d'ell mateix, el Megacrònica. I com que fins i tot l'Ogam ha sucumbit al seu poder, el Will es troba sol en la seva missió de salvar la Terra.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-13T00:03:54+02:00",
-        "stop": "2026-09-13T00:56:10+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "Els quaderns de cuina de la Julie - El mercat internacional de Rungis",
-        "description": "La Julie es passa tota una matinada rondant pel mercat de majoristes de París. Al pavelló de triperia, en Philippe fa un guisat de galtes de porc amb sidra, mostassa i pastanaga. Al pavelló de peixateria, l'Éric fa uns lloms de bacallà fresc amb xoriço. Al sector de formatgeria, en Jean-Pierre s'encarrega de la safata de formatges. Al pavelló de verduleria, la Martine i l'Olivier són productors de créixens i en Jean-François és especialista en productes d'arreu del món amb els quals la Julie improvisarà unes postres.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-13T01:47:37+02:00",
+        "stop": "2026-09-13T03:18:54+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Pel·lícula - Assassinats a Caiena",
+        "description": "ASSASSINATS A CAIENA 'Meurtres à Cayenne'Direcció: Marc BarratGuió: Apsita Berthelot-Cissé, Sabine DabadieProducció: Eloa Prod, France TV, BE-FILMS, RTBF (Télévision Belge), Collectivité Territoriale de Guyane, CNC, TV5 Monde, Fonds Images de la DiversitéAny: 2020Durada: 92País: FrançaMúsica: Christophe Monthieux, Krishoo MonthieuxIntèrprets: Philippe Caroit, Anne Caillon, Alexis Tiouka, Louis-Karim Nébati, France Zobda, Jean-Christophe Marsy, Ricky Tribord, Jessica Martin, Grégory Alexander, Nadège Beausson-Diagne, Rani Bheemuck, Stany Coppet, Marielle Salmier, Serge Abattucci, Patrick Moreau, Steve Elina, Georges Fichet, Olivier Auguste.El cadàver de Bertrand Thiégo, un investigador farmacèutic, apareix en un lloc solitari de Caiena, degollat i amb uns estranys dibuixos gravats al pit. La nit abans, la víctima havia anat a un tòrrid ball de carnaval. La capitana Cassandra Molba i el seu tinent, Antoine Lagarde, s'encarreguen d'investigar el cas; estirant el fil, descobreixen la fosca història d'una patent robada, amb un teló de fons de llegendes i tradicions de la Guaiana. Estem davant d'un crim ritual, d'un complot o d'una simple venjança per amor?",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/6/1750921626766.jpg"
       },
       {
-        "start": "2026-09-13T00:56:10+02:00",
-        "stop": "2026-09-13T01:47:36+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "Els quaderns de cuina de la Julie - La vall dels Baus",
-        "description": "En aquest episodi la Julie visita la regió dels Baus, al peu del massís dels Alpilles. Primer de tot coneix en Marcel, un productor d'olives. Després, amb l'Annie i les seves filles l'Anne i la Magali, que són oleïcultores, prepara una orada amb fonoll i un fricot amb olives trencades. Amb l'Alexandre, que és productor de fenc i fill de ramader, fa una recepta de toro amb arròs amb fenc. Amb en Pierre, que és confiter, descobreix com es fan les fruites confitades de la regió. Finalment, amb la Jeanne, prepara un menjar blanc típic de la Provença.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-13T03:18:54+02:00",
+        "stop": "2026-09-13T04:51:31+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Pel·lícula - Assassinats a Pont L'Évêque",
+        "description": "ASSASSINATS A PONT L'EVÊQUE 'Meurtres à Pont-L'Évêque'Direcció: Thierry BinistiGuió: Camille Guichard, David CrozierProducció: Nilaya Productions, France TV, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), TV5 MondeAny: 2020Durada: 93País: França Música: Thierry WestermeyerFotografia: Jako RaybautIntèrprets: Arnaud Binard, Elodie Frenck, Antoine Hamel, Loona Piquery, Geneviève Casile, François Dunoyer, Hélène Babu, Christophe Perez, Philippe Bombled, Pierre Richards, Philippe Jouan. Als anys cinquanta, la presó de Pont-l'Évêque es coneixia amb el nom d'Alegre Presó. En aquella època, s'havia convertit en una mena de presó popular dirigida per un cap de seguretat que preferia que els seus reclusos l'apreciessin en lloc de tenir-li por. Per commemorar aquesta història, s'organitza una festa a l'antiga presó de Pont-l'Évêque. Però en plena festa troben un home amb l'antic uniforme de reclús penjat a la cripta de la presó. La víctima és el jutge Daniel, hereu d'una gran família... Dos germans, que no amaguen les seves diferències, s'ocupen de la investigació.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/8/2/1749806144628.jpg"
       }
     ],
     "oca1": [],
