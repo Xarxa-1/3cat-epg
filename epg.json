@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-13T05:06:59.378357+00:00",
+  "updated": "2026-09-13T10:15:44.145778+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,17 +43,17 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-13T07:00:00+02:00",
-        "stop": "2026-09-13T10:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "Notícies 3CatInfo",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-13T11:44:57+02:00",
+        "stop": "2026-09-13T13:16:39+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Bàsquet - Lliga Catalana / Final",
+        "description": "Des del Pavelló Catalunya de Tarragona, la final masculina de la 47a Lliga Nacional Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
       },
       {
-        "start": "2026-09-13T10:00:00+02:00",
-        "stop": "2026-09-13T10:10:41+02:00",
+        "start": "2026-09-13T14:02:09+02:00",
+        "stop": "2026-09-13T14:29:54+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-09-13T07:00:00+02:00",
-        "stop": "2026-09-13T10:00:00+02:00",
+        "start": "2026-09-13T12:00:00+02:00",
+        "stop": "2026-09-13T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,73 +72,73 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-13T10:00:00+02:00",
-        "stop": "2026-09-13T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-13T14:30:00+02:00",
+        "stop": "2026-09-13T15:40:00+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-13T06:33:37+02:00",
-        "stop": "2026-09-13T08:11:09+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Gol a gol - Anàlisi de la jornada / J5 / Dissabte",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-09-13T11:55:00+02:00",
+        "stop": "2026-09-13T14:00:11+02:00",
+        "title": "Futbol",
+        "subtitle": "Futbol - UD Logronyès B-Barça Atlètic / Segona Federació / J2",
+        "description": "El filial blaugrana va debutar amb una golejada, 5-1 contra el Náxara, i es vol mantenir al capdavant de la classificació. Amb la narració de Lluís Cervelló i l'anàlisi d'Alberto Manga. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-09-13T08:11:09+02:00",
-        "stop": "2026-09-13T08:33:22+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "3CatInfo Esports",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-13T14:00:11+02:00",
+        "stop": "2026-09-13T14:37:00+02:00",
+        "title": "Crackòvia",
+        "subtitle": "Crackòvia",
+        "description": "El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.",
+        "genre": "GAGS. HUMOR",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-13T06:44:47+02:00",
-        "stop": "2026-09-13T07:11:19+02:00",
-        "title": "Les Tres Bessones",
-        "subtitle": "Les Tres Bessones - Les Tres Bessones i la rateta que escombrava l'escaleta",
-        "description": "L'Avorrida envia les Bessones a una ciutat dominada per les màquines, on no es pot fer res, ni música. Allà, les nenes coneixen la Rateta, que és cantant d'un grup, i que vol fer un concert de rock per retornar l'alegria a la ciutat.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-13T10:22:02+02:00",
+        "stop": "2026-09-13T13:04:09+02:00",
+        "title": "Projecte Beta",
+        "subtitle": "Projecte Beta - 10a temporada sencera 'Projecte Beta'",
+        "description": "Un asteroide trastoca la vida dels Beta. El Grau s'obsessiona a trobar vida alienígena mentre la Kai es prepara per ser astronauta. Al Jan li caurà l'amor del cel, i la Lola, que sembla que s'hagi donat un cop al cap, prova una personalitat diferent cada dia.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-13T07:11:19+02:00",
-        "stop": "2026-09-13T07:23:18+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "L'abella Maia - Reina per un dia",
-        "description": "La visita del senyor jutge ha revolucionat tot el rusc. Resulta que la reina està de vacances i el jutge ha demanat expressament que es nomeni una altra reina de manera urgent. L'escollida ha estat la Ludivine, però com que la Kassandra sap que no està gens preparada, ha decidit enviar la Maia a buscar la reina de veritat, abans que hi hagi un daltabaix impossible d'arreglar!",
+        "start": "2026-09-13T13:04:09+02:00",
+        "stop": "2026-09-13T13:25:55+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - L'odissea dels mussols",
+        "description": "Els germans Kratt, l'Aviva i la Koki tenen un accident amb la càpsula i van a parar a un lloc remot, des d'allà hauran de viure tota una odissea per tornar a casa. Pel camí descobreixen un munt d'espècies de la família dels mussols, amb unes quantes característiques comunes però cada espècie amb les seves singularitats. Això inspira l'Aviva per fer un vestit de poder animal per tornar a casa.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-13T06:54:06+02:00",
-        "stop": "2026-09-13T07:25:43+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Quèquicom - Cop de porta als lladres",
-        "description": "Un lladre obre un pany senzill en pocs segons. I si no, força la porta. Com és un pany per dins? N'hi ha d'invulnerables? Intentem rebentar una porta cuirassada, salten espurnes... Un policia detecta tots els punts febles d'una casa particular. I en troba molts més dels imaginables. Examinem les alarmes electròniques i finalment entrenem un gos guardià.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-13T11:20:40+02:00",
+        "stop": "2026-09-13T12:13:41+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Experiència Catalana - Angela May",
+        "description": "L'Angela May és una presentadora, actriu, i foodie singapuresa; una autèntica experta en gastronomia. Per això, la Ivana Miño l'acompanya a descobrir per què la cuina catalana i els nostres cuiners se situen entre els millors del món. L'hi mostra amb la Carme Ruscalleda i els Germans Roca.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-13T07:25:43+02:00",
-        "stop": "2026-09-13T08:12:50+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La Renaixença - La caravana",
-        "description": "La caravana ha passat per molts moments: fa anys era vista com una cosa de pobres, o de hippies; ara, si no surts a passar un cap de setmana amb la caravana, no segueixes la moda. Nosaltres ens hi unim, i dediquem el capítol a la caravana. Parlem amb en Lluís Bassaganya, responsable de l'exposició permanent 'La retirada' de Camprodon. Segurament és la persona que millor coneix els boscos de la zona, on passa gairebé tot el dia. A 'Històries per passejar el gos' anem amb l'Hera fins a la guerra del whisky del 1984.",
+        "start": "2026-09-13T12:13:41+02:00",
+        "stop": "2026-09-13T13:06:40+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Experiència Catalana - Gareth",
+        "description": "La Ivana Miño acompanya en Gareth Pon, l'instagramer amb més seguidors de tot Àfrica. Junts fan un divertit recorregut per la Catalunya interior i, de tornada, participen en el ral·li de cotxes antics de Sitges.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "image": ""
       }
     ],
     "oca1": [],
