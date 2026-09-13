@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-13T19:47:30.552136+00:00",
+  "updated": "2026-09-13T22:02:05.051881+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-13T21:00:00+02:00",
-        "stop": "2026-09-13T22:05:51+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "Telenotícies vespre",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "start": "2026-09-13T23:11:29+02:00",
+        "stop": "2026-09-14T00:05:03+02:00",
+        "title": "Vosaltres mateixos",
+        "subtitle": "Vosaltres mateixos - Claus a dojo",
+        "description": "L'Andreu aprèn a resoldre conflictes mitjançant un combat de judo i oposita per ser funcionari de l'univers.",
+        "genre": "TALK-SHOW",
+        "image": "https://img.ccma.cat/multimedia/png/6/6/1698344358966.png"
       },
       {
-        "start": "2026-09-13T22:05:51+02:00",
-        "stop": "2026-09-13T22:43:12+02:00",
-        "title": "30 minuts",
-        "subtitle": "30 minuts - Ceuta, ciutat ostatge",
-        "description": "Ceuta s'ha convertit en ostatge d'una guerra híbrida, on els migrants són utilitzats com a peons d'un tauler global. La crisi humanitària, social i política continua sacsejant la ciutat autònoma.",
-        "genre": "REPORTATGES",
-        "image": "https://statics.ccma.cat/multimedia/jpg/7/3/1571603193237.jpg"
+        "start": "2026-09-14T00:05:03+02:00",
+        "stop": "2026-09-14T00:17:13+02:00",
+        "title": "Literal",
+        "subtitle": "Literal - Literalment girat",
+        "description": "Com ens agrada agafar històries de tota la vida, reformular-les i treure'n noves versions. Però, què ens quedem del passat i què en revisem per tenir el futur que ens mereixem? A 'Literal', girem literalment la truita amb Mixa i Pere Seda. ",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-13T21:00:00+02:00",
-        "stop": "2026-09-13T22:02:00+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-09-13T23:00:00+02:00",
+        "stop": "2026-09-14T00:30:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-13T22:02:00+02:00",
-        "stop": "2026-09-13T23:00:00+02:00",
-        "title": "Telenotícies vespre (reemissió)",
+        "start": "2026-09-14T00:30:00+02:00",
+        "stop": "2026-09-14T01:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-13T21:25:57+02:00",
-        "stop": "2026-09-13T21:52:36+02:00",
-        "title": "WRC",
-        "subtitle": "WRC - Ral·li de Xile / WRC 2026 / J2",
-        "description": "Antepenúltima prova del Campionat del Món. El Ral·li de Xile té un recorregut de 311 quilòmetres, per carreteres de terra, en 16 trams cronometrats. Us oferim el més destacat de la jornada amb la conducció de Noel Rodríguez i l'assistència de Santi Torres.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"
+        "start": "2026-09-13T23:00:00+02:00",
+        "stop": "2026-09-14T00:31:08+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Gol a gol - Anàlisi de la jornada / J5 / Diumenge",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-09-13T21:52:36+02:00",
-        "stop": "2026-09-13T23:23:43+02:00",
-        "title": "Motor a fons",
-        "subtitle": "Motor a fons - GP de San Marino",
-        "description": "Catorzena prova del Campionat del Món de Motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"
+        "start": "2026-09-14T00:31:08+02:00",
+        "stop": "2026-09-14T00:50:05+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "3CatInfo Esports",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-13T21:41:04+02:00",
-        "stop": "2026-09-13T22:01:43+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - L'home-rinopitec daurat",
-        "description": "Els germans Kratt van a les muntanyes de l'Himàlaia per mirar de trobar uns micos molt especials que viuen en un hàbitat hivernal molt dur: els bonics rinopitecs daurats, de pèl taronjós i daurat i cara d'un blau brillant. Mentrestant, al Zach se li acut la idea de capturar el Ieti i dur-lo a la civilització per mostrar-lo al públic a canvi de molts diners i així fer-se ric. Els camins de tots dos s'acaben trobant d'una manera ben curiosa. ",
+        "start": "2026-09-13T23:59:59+02:00",
+        "stop": "2026-09-14T00:10:18+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "La gateta Arc iris papallona unicorn - El Sengloracle",
+        "description": "Un senglar que endevina el futur li fa un parell de prediccions encertades al Miguel. En realitat, tot és una estratègia per enganyar-lo i prendre-li el bàcul-guitarra. Per recuperar l'instrument, el Miguel l'haurà de guanyar en un duel musical.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-13T22:01:43+02:00",
-        "stop": "2026-09-13T22:12:38+02:00",
-        "title": "Les filles del Dad",
-        "subtitle": "Les filles del Dad - La balada de la Bébérénice",
-        "description": "Avui, la Bébérénice està molt capritxosa! L'única persona que aconsegueix calmar-la amb tacte i delicadesa és el Dad, però li truquen urgentment del súper per fer un anunci de salsitxes. Com que és final de mes, accepta la feina i busca una cangur per la Bébérénice. Les seves altres tres filles li diuen que no, així que ha de recórrer als seus pares, però només s'hi presenta el Michel. El pobre avi viurà un dia difícil amb la seva neta petita, mentre la Roxane, l'Ondine i la Panda, que creuen que ha desaparegut, la busquen per la ciutat...",
+        "start": "2026-09-14T00:10:18+02:00",
+        "stop": "2026-09-14T00:20:36+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "La gateta Arc iris papallona unicorn - La festa purrfecta",
+        "description": "La Felicity se sent molt insegura a l'hora de fer servir els seus poders i, tot i que el seu amic Miguel li fa uns ninots perquè hi practiqui, la gateta no té clar que es mereixi assistir a la festa que celebren al Palau del Perfecte, on estan convidats tots els habitants de Mitelàndia que tenen poders.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-13T21:07:58+02:00",
-        "stop": "2026-09-13T22:00:32+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Experiència Catalana - Allan",
-        "description": "Amb l'Allan Edward Hinton viatgem pel Pallars Jussà i la Noguera. Aquest experimentat viatger descobreix, amb la Ivana Miño, l'especial gastronomia de la zona i algun dels paisatges més espectaculars de Catalunya.",
-        "genre": "ALTRES",
+        "start": "2026-09-13T23:28:19+02:00",
+        "stop": "2026-09-14T00:13:52+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "Viatges insòlits - Ciutat de Mèxic",
+        "description": "Amb més de 22 milions d'habitants, Ciutat de Mèxic és una de les ciutats més grans i més influents del món. A la dècada de 1990, la ciutat encapçalava tota mena de llistes que descrivien la inhabitabilitat de la ciutat. Era una ciutat perillosa amb unes xifres de delinqüència disparades i milions de cotxes que creaven un boirum i una contaminació atmosfèrica alarmants. Durant el seu viatge a Ciutat de Mèxic, en Tom descobrirà els enormes canvis que aquesta metròpoli ha viscut els últims anys.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-13T22:00:32+02:00",
-        "stop": "2026-09-13T22:46:05+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Viatges insòlits - Londres",
-        "description": "Amb una població d'entre 12 i 14 milions d'habitants, l'àrea metropolitana de Londres no és només la ciutat més gran d'Europa occidental, sinó que també és un pol d'atracció per a gent d'arreu del món. I això fa que Londres sigui una de les ciutats més cosmopolites del món. L'àrea de joc ideal per a en Tom, que explora les diferents facetes, nacionals i internacionals, d'aquesta ciutat. En Tom acaba fent un curs d''English Manners' (Etiqueta britànica) i visitant la fan número ú de la reialesa, però també gaudeix d'una vetllada única amb els jamaicans del districte de Brixton i amb boxejadors sense guants a l'est de Londres.",
+        "start": "2026-09-14T00:13:52+02:00",
+        "stop": "2026-09-14T00:54:50+02:00",
+        "title": "Un món de Jocs",
+        "subtitle": "Un món de Jocs - Ritus de pas",
+        "description": "En totes les cultures, dominar un joc és símbol de pas de la infantesa a l'edat adulta. A vegades, els ritus d'iniciació són cruels, a vegades són perillosos, però aquests jocs ens preparen per a la vida. Ens envien al món preparats per a defensar-nos. En aquest episodi, ens fixem en els espais de joc que ajuden els nostres fills a conèixer els seus cossos, les seves fortaleses i les seves debilitats.Savika, MadagascarKungfu, la XinaSumo, el japóCurses de rens, Finlàndia",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
       }
     ],
     "oca1": [],
