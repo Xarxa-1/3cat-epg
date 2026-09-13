@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-13T00:21:06.956499+00:00",
+  "updated": "2026-09-13T05:06:59.378357+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-13T00:50:53+02:00",
-        "stop": "2026-09-13T04:30:00+02:00",
+        "start": "2026-09-13T07:00:00+02:00",
+        "stop": "2026-09-13T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-13T04:30:00+02:00",
-        "stop": "2026-09-13T05:16:09+02:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Fusió i swing a l'estudi - LE BBT 48er PROJECT",
-        "description": "Le BBT 48er Project és un grup que es caracteritza per les carreres consolidades en solitari dels seus membres. Tots ells són grans coneixedors del jazz manoche, un estil creat o iniciat per Django Reinhart. Biel Ballester a la guitarra solista, Leo Hipaucha al contrabaix, Graci Pedro a la guitarra rítmica, Jerome Etxeberry a la trompeta, i Paul Chéron, al saxo.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-13T10:00:00+02:00",
+        "stop": "2026-09-13T10:10:41+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-13T01:00:00+02:00",
-        "stop": "2026-09-13T06:00:00+02:00",
+        "start": "2026-09-13T07:00:00+02:00",
+        "stop": "2026-09-13T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-13T06:00:00+02:00",
-        "stop": "2026-09-13T07:00:00+02:00",
+        "start": "2026-09-13T10:00:00+02:00",
+        "stop": "2026-09-13T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-13T00:56:31+02:00",
-        "stop": "2026-09-13T02:34:03+02:00",
+        "start": "2026-09-13T06:33:37+02:00",
+        "stop": "2026-09-13T08:11:09+02:00",
         "title": "Gol a gol",
         "subtitle": "Gol a gol - Anàlisi de la jornada / J5 / Dissabte",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-09-13T02:34:03+02:00",
-        "stop": "2026-09-13T02:56:58+02:00",
+        "start": "2026-09-13T08:11:09+02:00",
+        "stop": "2026-09-13T08:33:22+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "3CatInfo Esports",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-13T02:07:20+02:00",
-        "stop": "2026-09-13T02:28:12+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - L'osset de peluix malvat",
-        "description": "L'Adrien li diu a la Chloé que si vol que segueixin sent amics, ha d'apendre a ser amable amb els altres. Per això la Chloé organitza una festa a casa seva,però l'instint de criticar els altres és més fort que ella, i el seu majordom intenta ajudar-la fent servir un osset de peluix de quan era petita. El problema és quel'Esfinx també s'ha fixat en l'osset.",
+        "start": "2026-09-13T06:44:47+02:00",
+        "stop": "2026-09-13T07:11:19+02:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les Tres Bessones - Les Tres Bessones i la rateta que escombrava l'escaleta",
+        "description": "L'Avorrida envia les Bessones a una ciutat dominada per les màquines, on no es pot fer res, ni música. Allà, les nenes coneixen la Rateta, que és cantant d'un grup, i que vol fer un concert de rock per retornar l'alegria a la ciutat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-13T02:28:12+02:00",
-        "stop": "2026-09-13T02:38:40+02:00",
-        "title": "Com dibuixar còmics amb el Will Sliney",
-        "subtitle": "Com dibuixar còmics amb el Will Sliney - El Megacrònica",
-        "description": "Gràcies als poders que ha aconseguit amb l'ajuda del misteriós Torcements, el Crònica ha aconseguit dominar les ments de tots els herois i dolents que s'havien creat al llarg de la sèrie, la qual cosa li ha permès mutar en una versió superpoderosa d'ell mateix, el Megacrònica. I com que fins i tot l'Ogam ha sucumbit al seu poder, el Will es troba sol en la seva missió de salvar la Terra.",
-        "genre": "ALTRES",
+        "start": "2026-09-13T07:11:19+02:00",
+        "stop": "2026-09-13T07:23:18+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "L'abella Maia - Reina per un dia",
+        "description": "La visita del senyor jutge ha revolucionat tot el rusc. Resulta que la reina està de vacances i el jutge ha demanat expressament que es nomeni una altra reina de manera urgent. L'escollida ha estat la Ludivine, però com que la Kassandra sap que no està gens preparada, ha decidit enviar la Maia a buscar la reina de veritat, abans que hi hagi un daltabaix impossible d'arreglar!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-13T01:47:37+02:00",
-        "stop": "2026-09-13T03:18:54+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - Assassinats a Caiena",
-        "description": "ASSASSINATS A CAIENA 'Meurtres à Cayenne'Direcció: Marc BarratGuió: Apsita Berthelot-Cissé, Sabine DabadieProducció: Eloa Prod, France TV, BE-FILMS, RTBF (Télévision Belge), Collectivité Territoriale de Guyane, CNC, TV5 Monde, Fonds Images de la DiversitéAny: 2020Durada: 92País: FrançaMúsica: Christophe Monthieux, Krishoo MonthieuxIntèrprets: Philippe Caroit, Anne Caillon, Alexis Tiouka, Louis-Karim Nébati, France Zobda, Jean-Christophe Marsy, Ricky Tribord, Jessica Martin, Grégory Alexander, Nadège Beausson-Diagne, Rani Bheemuck, Stany Coppet, Marielle Salmier, Serge Abattucci, Patrick Moreau, Steve Elina, Georges Fichet, Olivier Auguste.El cadàver de Bertrand Thiégo, un investigador farmacèutic, apareix en un lloc solitari de Caiena, degollat i amb uns estranys dibuixos gravats al pit. La nit abans, la víctima havia anat a un tòrrid ball de carnaval. La capitana Cassandra Molba i el seu tinent, Antoine Lagarde, s'encarreguen d'investigar el cas; estirant el fil, descobreixen la fosca història d'una patent robada, amb un teló de fons de llegendes i tradicions de la Guaiana. Estem davant d'un crim ritual, d'un complot o d'una simple venjança per amor?",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/6/1750921626766.jpg"
+        "start": "2026-09-13T06:54:06+02:00",
+        "stop": "2026-09-13T07:25:43+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Quèquicom - Cop de porta als lladres",
+        "description": "Un lladre obre un pany senzill en pocs segons. I si no, força la porta. Com és un pany per dins? N'hi ha d'invulnerables? Intentem rebentar una porta cuirassada, salten espurnes... Un policia detecta tots els punts febles d'una casa particular. I en troba molts més dels imaginables. Examinem les alarmes electròniques i finalment entrenem un gos guardià.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       },
       {
-        "start": "2026-09-13T03:18:54+02:00",
-        "stop": "2026-09-13T04:51:31+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - Assassinats a Pont L'Évêque",
-        "description": "ASSASSINATS A PONT L'EVÊQUE 'Meurtres à Pont-L'Évêque'Direcció: Thierry BinistiGuió: Camille Guichard, David CrozierProducció: Nilaya Productions, France TV, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), TV5 MondeAny: 2020Durada: 93País: França Música: Thierry WestermeyerFotografia: Jako RaybautIntèrprets: Arnaud Binard, Elodie Frenck, Antoine Hamel, Loona Piquery, Geneviève Casile, François Dunoyer, Hélène Babu, Christophe Perez, Philippe Bombled, Pierre Richards, Philippe Jouan. Als anys cinquanta, la presó de Pont-l'Évêque es coneixia amb el nom d'Alegre Presó. En aquella època, s'havia convertit en una mena de presó popular dirigida per un cap de seguretat que preferia que els seus reclusos l'apreciessin en lloc de tenir-li por. Per commemorar aquesta història, s'organitza una festa a l'antiga presó de Pont-l'Évêque. Però en plena festa troben un home amb l'antic uniforme de reclús penjat a la cripta de la presó. La víctima és el jutge Daniel, hereu d'una gran família... Dos germans, que no amaguen les seves diferències, s'ocupen de la investigació.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/8/2/1749806144628.jpg"
+        "start": "2026-09-13T07:25:43+02:00",
+        "stop": "2026-09-13T08:12:50+02:00",
+        "title": "La Renaixença",
+        "subtitle": "La Renaixença - La caravana",
+        "description": "La caravana ha passat per molts moments: fa anys era vista com una cosa de pobres, o de hippies; ara, si no surts a passar un cap de setmana amb la caravana, no segueixes la moda. Nosaltres ens hi unim, i dediquem el capítol a la caravana. Parlem amb en Lluís Bassaganya, responsable de l'exposició permanent 'La retirada' de Camprodon. Segurament és la persona que millor coneix els boscos de la zona, on passa gairebé tot el dia. A 'Històries per passejar el gos' anem amb l'Hera fins a la guerra del whisky del 1984.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
