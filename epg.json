@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-14T20:22:51.238399+00:00",
+  "updated": "2026-09-14T23:16:00.668959+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-14T22:01:53+02:00",
-        "stop": "2026-09-14T23:12:19+02:00",
-        "title": "Còmics",
-        "subtitle": "Còmics - Rubianes",
-        "description": "L''actor galaico-català' és el màxim exponent del monologuista vital, entranyablement groller, enèrgic, sarcàstic i amb una ironia lúcida i propera. Molt amic dels seus amics, el seu somriure el feia irresistible per als espectadors i també, fora de l'escenari, per a una bona part de la població femenina. Un bon amic seu, periodista i presentador de televisió, reviu al programa anècdotes compartides i fragments dels seus espectacles",
-        "genre": "GAGS. HUMOR",
-        "image": ""
-      },
-      {
-        "start": "2026-09-14T23:12:19+02:00",
-        "stop": "2026-09-14T23:19:02+02:00",
-        "title": "Moments Còmics Show",
-        "subtitle": "Moments Còmics Show - Teatre - Ivan Labanda",
-        "description": "",
-        "genre": "VARIETATS",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-09-14T22:05:00+02:00",
-        "stop": "2026-09-15T00:00:00+02:00",
+        "start": "2026-09-15T00:22:11+02:00",
+        "stop": "2026-09-15T02:09:43+02:00",
         "title": "Mésnit",
-        "subtitle": "",
+        "subtitle": "Mésnit",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
         "genre": "DEBAT",
         "image": ""
       },
       {
-        "start": "2026-09-15T00:00:00+02:00",
-        "stop": "2026-09-15T00:30:00+02:00",
+        "start": "2026-09-15T02:09:43+02:00",
+        "stop": "2026-09-15T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-09-15T01:00:00+02:00",
+        "stop": "2026-09-15T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-15T06:00:00+02:00",
+        "stop": "2026-09-15T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-14T22:16:15+02:00",
-        "stop": "2026-09-14T23:00:00+02:00",
-        "title": "Tot Costa",
-        "subtitle": "Tot Costa",
-        "description": "Entrevistem el nou 9 del Barça, Gabriel Jesus, per valorar el seu fitxatge pel Barça. Què li va dir Neymar quan va saber que fitxava pel Barça? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. Amb Ramon Salmurri i Laia Tudel escoltem Lamine Yamal i la seva candidatura a la Pilota d'Or, i amb Damià Aguilar analitzem el gran moment de Marc Márquez. ",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
-      },
-      {
-        "start": "2026-09-14T23:00:00+02:00",
-        "stop": "2026-09-15T00:31:04+02:00",
+        "start": "2026-09-15T00:49:27+02:00",
+        "stop": "2026-09-15T02:20:30+02:00",
         "title": "Onze",
         "subtitle": "Onze",
         "description": "Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+      },
+      {
+        "start": "2026-09-15T02:20:30+02:00",
+        "stop": "2026-09-15T02:38:11+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "3CatInfo Esports",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-14T22:02:03+02:00",
-        "stop": "2026-09-14T22:23:15+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El detectiu Conan - El punt feble del gran detectiu",
-        "description": "L'intent d'assassinat del director d'un grup d'inversió per part d'Izumi Onda, que el considerava culpable de la ruïna econòmica i posterior suïcidi del seu pare, fa que en Kogoro s'hagi d'enfrontar a la seva por més gran, el seu punt dèbil ja conegut per tothom: un pànic a les altures que és incapaç de controlar. Al final, si vol salvar la vida de la Izumi, l'haurà de superar tant sí com no.",
+        "start": "2026-09-15T01:12:28+02:00",
+        "stop": "2026-09-15T01:23:45+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Les Sisters - L'any simpàtic",
+        "description": "La mare de la Wendy i la Marine decideix agafar-se un any sabàtic. Al principi les germanes estan encantades, però la mare s'acaba fent molt pesada. Com la poden convèncer perquè torni a treballar? Resposta de les germanes: fent-li la vida impossible de totes les maneres imaginables.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-14T22:23:15+02:00",
-        "stop": "2026-09-14T22:42:50+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El detectiu Conan - L'home que es mor dues vegades (1a part)",
-        "description": "Un prestador contracta en Kogoro per saber qui li ha enviat una carta en què l'amenacen de mort. Quan ell i en Conan el van a veure senten un crit des de fora i entren corrents al pis. Un cop dins es troben el prestador amb un ganivet clavat a la panxa i un home que confessa haver-lo mort. Però l'home que l'ha apunyalat no és l'assassí, perquè la víctima havia mort unes hores abans per estrangulació. ",
+        "start": "2026-09-15T01:23:45+02:00",
+        "stop": "2026-09-15T01:43:40+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Viatges Pokémon - La meva colla nova de sempre!",
+        "description": "Quan el Goh fa evolucionar el seu Exeggcute en l'Exeggutor, l'Ash li explica que els Exeggutor d'Alola són molt alts. El professor Cirerer proposa que tots dos facin una visita a la regió d'Alola, i ells hi van. El Goh està nerviós perquè ha de conèixer el professor Kukui i els amics de l'Ash, i la tensió augmenta quan el Kiawe el desafia a un combat. La situació pinta malament quan el Kiawe fa un moviment Z, però ell mateix fa que el Marowak salvi el Goh i el Raboot del perill. Abans de tornar a casa, el Goh compleix l'objectiu que tenia: capturar un Exeggutor d'Alola.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-14T21:57:38+02:00",
-        "stop": "2026-09-14T22:49:44+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La Renaixença - La calculadora",
-        "description": "Molt abans que s'inventés la Intel·ligència Artificial ja existia un invent que pensava per nosaltres: la calculadora. Pels de lletres ens sembla un artefacte de màgia negra, i és per això que li dediquem el capítol. Ens visita en Nandu Jubany, cuiner de renom a qui fem la pilota per aconseguir que ens convidi a dinar al seu restaurant. I pel que fa a gos, ens emportem a la Kala a un moment tràgic a la història del futbol: la desaparició de Il Grande Torino, un equip destinat a marcar una època, que va desaparèixer en un accident aeri.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-09-15T01:11:57+02:00",
+        "stop": "2026-09-15T01:32:18+02:00",
+        "title": "Nens de la ruta de la seda",
+        "subtitle": "Nens de la ruta de la seda - Classes de ball",
+        "description": "En aquest programa coneixerem la Tika. És una nena amb una gran responsabilitat. Vol seguir els passos de la seva àvia, que va fundar un centre per a nens discapacitats, i vol ajudar-la a transformar la vida d'aquests nens. Els fa classes de ball per preparar un espectacle. Tot i que està una mica nerviosa d'haver d'assumir aquesta responsabilitat, encomana la seva empenta als alumnes i, entre tots, aconsegueixen fer una representació extraordinària.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-14T22:49:44+02:00",
-        "stop": "2026-09-14T23:18:32+02:00",
-        "title": "Tot torna",
-        "subtitle": "Tot torna - 1988",
-        "description": "Repassem el 1988, l'any que se celebra el mil·lenari de Catalunya, Jordi Pujol s'enfronta a uns manifestants a Santa Coloma de Gramenet i els jugadors del Barça intenten fer fora Josep Lluís Núñez. Mentrestant, al 'Bona cuina', entre rimes d'en Pastallé, apareix, així tot d'una, Ferran Adrià, el cuiner.",
-        "genre": "ALTRES",
+        "start": "2026-09-15T01:32:18+02:00",
+        "stop": "2026-09-15T01:46:27+02:00",
+        "title": "Pastors i ramats: un món que se'n va",
+        "subtitle": "Pastors i ramats: un món que se'n va - Ernest Sitjes",
+        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
