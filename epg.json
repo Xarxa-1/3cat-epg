@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-14T00:09:51.420816+00:00",
+  "updated": "2026-09-14T04:52:50.748907+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-14T00:33:12+02:00",
-        "stop": "2026-09-14T04:30:00+02:00",
+        "start": "2026-09-14T06:00:00+02:00",
+        "stop": "2026-09-14T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,25 +52,16 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-14T04:30:00+02:00",
-        "stop": "2026-09-14T05:16:39+02:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Fusió i swing a l'estudi - ALBERT BELLO & ORIOL SAÑA SWING EXPERIMENT",
-        "description": "Des de la incursió d'Albert Bello al jazz manouche, s'ha convertit en un dinamitzador de l'estil a Catalunya. Ha dirigit el primer festival dedicat a Django Reinhart a tot l'estat i ha organitzat diferents esdeveniments al voltant del gyspsy jazz. Bello es fa acompanyar d'Oriol Saña al violí. Completen el quintet: Laurent Bozzetto a la guitarra rítmica, Rod Devile al contrabaix i Vivién García també a la guitarra rítmica.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-14T08:00:00+02:00",
+        "stop": "2026-09-14T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "Matins",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
-      {
-        "start": "2026-09-14T01:00:00+02:00",
-        "stop": "2026-09-14T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-09-14T06:00:00+02:00",
         "stop": "2026-09-14T08:00:00+02:00",
@@ -79,66 +70,75 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-14T08:00:00+02:00",
+        "stop": "2026-09-14T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-14T00:57:57+02:00",
-        "stop": "2026-09-14T02:30:19+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Gol a gol - Anàlisi de la jornada / J5 / Diumenge",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
-      },
-      {
-        "start": "2026-09-14T02:30:19+02:00",
-        "stop": "2026-09-14T02:55:24+02:00",
+        "start": "2026-09-14T06:30:52+02:00",
+        "stop": "2026-09-14T06:55:52+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "3CatInfo Esports",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+      },
+      {
+        "start": "2026-09-14T06:55:52+02:00",
+        "stop": "2026-09-14T08:28:23+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Gol a gol - Anàlisi de la jornada / J5 / Diumenge",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-14T02:04:44+02:00",
-        "stop": "2026-09-14T02:25:49+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - La Rossinnoble",
-        "description": "La Clara Rossinyol, la cantant de moda, ve a París per gravar el seu últim videoclip i buscar figurants i actors per fer de Ladybug i Gat Noir. Com sempre, la Chloé vol ser el centre de totes les atencions i acabarà provocant que el Rossinyol acabi akumatitzat.",
+        "start": "2026-09-14T06:45:30+02:00",
+        "stop": "2026-09-14T06:57:53+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "L'abella Maia - El brunzit assassí",
+        "description": "Per alguna raó misteriosa les granotes han abandonat l'estanyol. La Maia i en Willi estan encantats: hi podran jugar tranquils i agafar tant pol·len de nenúfar com vulguin. Però la desaparició de les granotes fa que a l'estanyol hi arribin uns personatges inesperats: una família de mosquits que decideixen convertir aquell indret en la seva propietat privada. Són pitjors que les granotes. La Maia i en Willi busquen la manera de fer-los fora.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-14T02:25:49+02:00",
-        "stop": "2026-09-14T02:36:25+02:00",
-        "title": "Com dibuixar còmics amb el Will Sliney",
-        "subtitle": "Com dibuixar còmics amb el Will Sliney - Elit",
-        "description": "En aquesta nova temporada, el Will Sliney rep una trucada de la presidenta d'Irlanda, del president dels Estats Units i del president de la galàxia per informar-lo que uns dolents molt dolents avancen amb la seva nau espacial cap a la Terra amb la intenció de destruir-la. Això el durà a transformar-se en un superheroi, el Wil·lustrador, que té el superpoder de crear altres herois que puguin fer front a l'amenaça extraterrestre.",
-        "genre": "ALTRES",
+        "start": "2026-09-14T06:57:53+02:00",
+        "stop": "2026-09-14T07:09:04+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva un partit de bàsquet",
+        "description": "L'alcaldessa Goodway desafia l'equip de l'alcalde Humdinger a fer un partit de bàsquet. La Patrulla entra en acció i es converteix en els Estrelles de Badia Aventures!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-14T00:54:51+02:00",
-        "stop": "2026-09-14T02:24:34+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - Assassinats a Pont-Aven",
-        "description": "ASSASSINATS A PONT-AVEN 'Meurtres en Berry'Direcció: Floriane CrépinGuió: Natascha Cucheval, Iris DucorpsProducció: Quad Télévision, France TV, AT Production, RTBF (Télévision Belge), Ciclic - Région Centre, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2021Durada: 95País: FrançaMúsica: Emilien Levistre, Xiaoxi LevistreFotografia: Patrick GhiringhelliIntèrprets: Aurélien Wiik, Fauve Hautot, David Mora, Boris Terral, Julie-Anne Roth, Clarisse Lhoni-Botte, Bérangère McNeese, Niseema Theillaud, Noémie Zeitoun, Arthur Verret. La tinenta Marion Darosa investiga l'assassinat d'un jove galerista que en el passat havia estat condemnat pel tràfic de pintures falses. Formarà equip amb el capità Le Mezec, que torna a la regió després d'haver estat destinat molts anys a París. Precisament el capità Le Mezec va encapçalar la investigació de la mort, en principi accidental, de la mare de la Marion quan ella era petita. El pare de la Marion no ha superat mai la mort de la seva dona, i la tornada de Le Mezec reobrirà antigues ferides.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/4/1751352870245.jpg"
+        "start": "2026-09-14T06:33:37+02:00",
+        "stop": "2026-09-14T07:23:01+02:00",
+        "title": "El Foraster",
+        "subtitle": "El Foraster - Santa Pau",
+        "description": "Situat al bell mig de la zona volcànica de la Garrotxa i envoltat de volcans mil·lenaris, Santa Pau s'enorgulleix d'oferir al món un producte únic: el fesol de Santa Pau. I en Quim tindrà 48 hores per comprovar, de la mà de la Maria en Lluís, fins a quin punt la terra és el reflex dels que hi viuen i la treballen. En Josep ens farà conèixer el seu peculiar sistema de predicció meteorològica, i amb l'ajuda d'en Fidel, en Quim haurà d'afrontar un repte inesperat a l'ermita de Santa Margarida, construïda al vell mig del cràter del volcà. A més, també desfilaran pel programa l'Eddie i la seva flota de segways i en David amb les seves històries de zombies garrotxins. I després d'haver conegut el poble des de terra, en Quim el descobrirà des de l'aire, enfilat dalt d'un globus per primera vegada a la seva vida. ",
+        "genre": "VARIETATS",
+        "image": ""
       },
       {
-        "start": "2026-09-14T02:24:34+02:00",
-        "stop": "2026-09-14T03:57:55+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - Assassinats a Amiens",
-        "description": "ASSASSINATS A AMIENS 'Meurtres à Amiens'Direcció: Vincent TrisoliniGuió: Natascha Cucheval, Cécile Lorne. Idea: Cécile LorneProducció: Quad Télévision, France TV, AT-Production, RTBF (Télévision Belge), Pictanovo, Région Hauts-de-France, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2022Durada: 94País: França Música: Baptiste CharvetFotografia: François LanguilleIntèrprets: Grégoire Bonnet, Joyce Bibring, Anne Loiret, Celia Rosich, Aladin Reibel, Janis Abrikh, Nicolas Grandhomme, Xavier Robic, Anthony Goffi, Julien Desjardins, Pascal Casanova, Marion Zaboïtzeff, Édouard Court, Mohamed Makhtoumi, Raphaèle Bouchard, Coralie Emilion-Languille, Milan Cerisier, Cynthia Saint-Fleur, Christine Defurne.Al bell mig dels jardins flotants d'Amiens, apareix el cos de la Charlotte Jelenski. El capità Louis Monet i la seva nova companya, la Léa Barnier, se submergeixen en el cas. Al principi, segueixen la pista dels horticultors: atès que darrere del projecte del parc d'atraccions Jules Verne s'amagava un extens complex turístic que hauria provocat la supressió de moltes parcel·les de cultiu. L'horticultor Paul Chevrier sembla el culpable perfecte. Però al capità Monet no el convenç aquest home que es deixa acusar tan fàcilment… Qui va voler atemptar contra la vida de la noia? La resposta potser es troba en l'obra de Jules Verne, que la Léa coneix fins al més mínim detall.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/6/1750229966162.jpg"
+        "start": "2026-09-14T07:23:01+02:00",
+        "stop": "2026-09-14T08:18:07+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Experiència Catalana - Trevor i Cori",
+        "description": "La Ivana Miño acompanya en Trevor i la Cori, una simpàtica parella nord-americana, per diferents indrets de l'Alt Empordà i de la Garrotxa. Allá tasten la millor gastronomia mediterrània i viuen moments molt emotius.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "oca1": [],
