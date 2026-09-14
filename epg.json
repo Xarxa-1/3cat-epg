@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-13T22:02:05.051881+00:00",
+  "updated": "2026-09-14T00:09:51.420816+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-13T23:11:29+02:00",
-        "stop": "2026-09-14T00:05:03+02:00",
-        "title": "Vosaltres mateixos",
-        "subtitle": "Vosaltres mateixos - Claus a dojo",
-        "description": "L'Andreu aprèn a resoldre conflictes mitjançant un combat de judo i oposita per ser funcionari de l'univers.",
-        "genre": "TALK-SHOW",
-        "image": "https://img.ccma.cat/multimedia/png/6/6/1698344358966.png"
+        "start": "2026-09-14T00:33:12+02:00",
+        "stop": "2026-09-14T04:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-14T00:05:03+02:00",
-        "stop": "2026-09-14T00:17:13+02:00",
-        "title": "Literal",
-        "subtitle": "Literal - Literalment girat",
-        "description": "Com ens agrada agafar històries de tota la vida, reformular-les i treure'n noves versions. Però, què ens quedem del passat i què en revisem per tenir el futur que ens mereixem? A 'Literal', girem literalment la truita amb Mixa i Pere Seda. ",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-14T04:30:00+02:00",
+        "stop": "2026-09-14T05:16:39+02:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Fusió i swing a l'estudi - ALBERT BELLO & ORIOL SAÑA SWING EXPERIMENT",
+        "description": "Des de la incursió d'Albert Bello al jazz manouche, s'ha convertit en un dinamitzador de l'estil a Catalunya. Ha dirigit el primer festival dedicat a Django Reinhart a tot l'estat i ha organitzat diferents esdeveniments al voltant del gyspsy jazz. Bello es fa acompanyar d'Oriol Saña al violí. Completen el quintet: Laurent Bozzetto a la guitarra rítmica, Rod Devile al contrabaix i Vivién García també a la guitarra rítmica.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-13T23:00:00+02:00",
-        "stop": "2026-09-14T00:30:00+02:00",
+        "start": "2026-09-14T01:00:00+02:00",
+        "stop": "2026-09-14T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-14T00:30:00+02:00",
-        "stop": "2026-09-14T01:00:00+02:00",
+        "start": "2026-09-14T06:00:00+02:00",
+        "stop": "2026-09-14T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-13T23:00:00+02:00",
-        "stop": "2026-09-14T00:31:08+02:00",
+        "start": "2026-09-14T00:57:57+02:00",
+        "stop": "2026-09-14T02:30:19+02:00",
         "title": "Gol a gol",
         "subtitle": "Gol a gol - Anàlisi de la jornada / J5 / Diumenge",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-09-14T00:31:08+02:00",
-        "stop": "2026-09-14T00:50:05+02:00",
+        "start": "2026-09-14T02:30:19+02:00",
+        "stop": "2026-09-14T02:55:24+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "3CatInfo Esports",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-13T23:59:59+02:00",
-        "stop": "2026-09-14T00:10:18+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "La gateta Arc iris papallona unicorn - El Sengloracle",
-        "description": "Un senglar que endevina el futur li fa un parell de prediccions encertades al Miguel. En realitat, tot és una estratègia per enganyar-lo i prendre-li el bàcul-guitarra. Per recuperar l'instrument, el Miguel l'haurà de guanyar en un duel musical.",
+        "start": "2026-09-14T02:04:44+02:00",
+        "stop": "2026-09-14T02:25:49+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - La Rossinnoble",
+        "description": "La Clara Rossinyol, la cantant de moda, ve a París per gravar el seu últim videoclip i buscar figurants i actors per fer de Ladybug i Gat Noir. Com sempre, la Chloé vol ser el centre de totes les atencions i acabarà provocant que el Rossinyol acabi akumatitzat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-14T00:10:18+02:00",
-        "stop": "2026-09-14T00:20:36+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "La gateta Arc iris papallona unicorn - La festa purrfecta",
-        "description": "La Felicity se sent molt insegura a l'hora de fer servir els seus poders i, tot i que el seu amic Miguel li fa uns ninots perquè hi practiqui, la gateta no té clar que es mereixi assistir a la festa que celebren al Palau del Perfecte, on estan convidats tots els habitants de Mitelàndia que tenen poders.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-14T02:25:49+02:00",
+        "stop": "2026-09-14T02:36:25+02:00",
+        "title": "Com dibuixar còmics amb el Will Sliney",
+        "subtitle": "Com dibuixar còmics amb el Will Sliney - Elit",
+        "description": "En aquesta nova temporada, el Will Sliney rep una trucada de la presidenta d'Irlanda, del president dels Estats Units i del president de la galàxia per informar-lo que uns dolents molt dolents avancen amb la seva nau espacial cap a la Terra amb la intenció de destruir-la. Això el durà a transformar-se en un superheroi, el Wil·lustrador, que té el superpoder de crear altres herois que puguin fer front a l'amenaça extraterrestre.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-13T23:28:19+02:00",
-        "stop": "2026-09-14T00:13:52+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Viatges insòlits - Ciutat de Mèxic",
-        "description": "Amb més de 22 milions d'habitants, Ciutat de Mèxic és una de les ciutats més grans i més influents del món. A la dècada de 1990, la ciutat encapçalava tota mena de llistes que descrivien la inhabitabilitat de la ciutat. Era una ciutat perillosa amb unes xifres de delinqüència disparades i milions de cotxes que creaven un boirum i una contaminació atmosfèrica alarmants. Durant el seu viatge a Ciutat de Mèxic, en Tom descobrirà els enormes canvis que aquesta metròpoli ha viscut els últims anys.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-14T00:54:51+02:00",
+        "stop": "2026-09-14T02:24:34+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Pel·lícula - Assassinats a Pont-Aven",
+        "description": "ASSASSINATS A PONT-AVEN 'Meurtres en Berry'Direcció: Floriane CrépinGuió: Natascha Cucheval, Iris DucorpsProducció: Quad Télévision, France TV, AT Production, RTBF (Télévision Belge), Ciclic - Région Centre, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2021Durada: 95País: FrançaMúsica: Emilien Levistre, Xiaoxi LevistreFotografia: Patrick GhiringhelliIntèrprets: Aurélien Wiik, Fauve Hautot, David Mora, Boris Terral, Julie-Anne Roth, Clarisse Lhoni-Botte, Bérangère McNeese, Niseema Theillaud, Noémie Zeitoun, Arthur Verret. La tinenta Marion Darosa investiga l'assassinat d'un jove galerista que en el passat havia estat condemnat pel tràfic de pintures falses. Formarà equip amb el capità Le Mezec, que torna a la regió després d'haver estat destinat molts anys a París. Precisament el capità Le Mezec va encapçalar la investigació de la mort, en principi accidental, de la mare de la Marion quan ella era petita. El pare de la Marion no ha superat mai la mort de la seva dona, i la tornada de Le Mezec reobrirà antigues ferides.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/4/1751352870245.jpg"
       },
       {
-        "start": "2026-09-14T00:13:52+02:00",
-        "stop": "2026-09-14T00:54:50+02:00",
-        "title": "Un món de Jocs",
-        "subtitle": "Un món de Jocs - Ritus de pas",
-        "description": "En totes les cultures, dominar un joc és símbol de pas de la infantesa a l'edat adulta. A vegades, els ritus d'iniciació són cruels, a vegades són perillosos, però aquests jocs ens preparen per a la vida. Ens envien al món preparats per a defensar-nos. En aquest episodi, ens fixem en els espais de joc que ajuden els nostres fills a conèixer els seus cossos, les seves fortaleses i les seves debilitats.Savika, MadagascarKungfu, la XinaSumo, el japóCurses de rens, Finlàndia",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
+        "start": "2026-09-14T02:24:34+02:00",
+        "stop": "2026-09-14T03:57:55+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Pel·lícula - Assassinats a Amiens",
+        "description": "ASSASSINATS A AMIENS 'Meurtres à Amiens'Direcció: Vincent TrisoliniGuió: Natascha Cucheval, Cécile Lorne. Idea: Cécile LorneProducció: Quad Télévision, France TV, AT-Production, RTBF (Télévision Belge), Pictanovo, Région Hauts-de-France, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2022Durada: 94País: França Música: Baptiste CharvetFotografia: François LanguilleIntèrprets: Grégoire Bonnet, Joyce Bibring, Anne Loiret, Celia Rosich, Aladin Reibel, Janis Abrikh, Nicolas Grandhomme, Xavier Robic, Anthony Goffi, Julien Desjardins, Pascal Casanova, Marion Zaboïtzeff, Édouard Court, Mohamed Makhtoumi, Raphaèle Bouchard, Coralie Emilion-Languille, Milan Cerisier, Cynthia Saint-Fleur, Christine Defurne.Al bell mig dels jardins flotants d'Amiens, apareix el cos de la Charlotte Jelenski. El capità Louis Monet i la seva nova companya, la Léa Barnier, se submergeixen en el cas. Al principi, segueixen la pista dels horticultors: atès que darrere del projecte del parc d'atraccions Jules Verne s'amagava un extens complex turístic que hauria provocat la supressió de moltes parcel·les de cultiu. L'horticultor Paul Chevrier sembla el culpable perfecte. Però al capità Monet no el convenç aquest home que es deixa acusar tan fàcilment… Qui va voler atemptar contra la vida de la noia? La resposta potser es troba en l'obra de Jules Verne, que la Léa coneix fins al més mínim detall.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/6/1750229966162.jpg"
       }
     ],
     "oca1": [],
