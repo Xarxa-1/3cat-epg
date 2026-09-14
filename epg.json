@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-14T16:25:39.275130+00:00",
+  "updated": "2026-09-14T20:22:51.238399+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-14T17:21:07+02:00",
-        "stop": "2026-09-14T19:13:45+02:00",
-        "title": "La Selva",
-        "subtitle": "La Selva",
-        "description": "Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
+        "start": "2026-09-14T22:01:53+02:00",
+        "stop": "2026-09-14T23:12:19+02:00",
+        "title": "Còmics",
+        "subtitle": "Còmics - Rubianes",
+        "description": "L''actor galaico-català' és el màxim exponent del monologuista vital, entranyablement groller, enèrgic, sarcàstic i amb una ironia lúcida i propera. Molt amic dels seus amics, el seu somriure el feia irresistible per als espectadors i també, fora de l'escenari, per a una bona part de la població femenina. Un bon amic seu, periodista i presentador de televisió, reviu al programa anècdotes compartides i fragments dels seus espectacles",
+        "genre": "GAGS. HUMOR",
+        "image": ""
       },
       {
-        "start": "2026-09-14T19:13:45+02:00",
-        "stop": "2026-09-14T20:15:00+02:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "Atrapa'm si pots",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "start": "2026-09-14T23:12:19+02:00",
+        "stop": "2026-09-14T23:19:02+02:00",
+        "title": "Moments Còmics Show",
+        "subtitle": "Moments Còmics Show - Teatre - Ivan Labanda",
+        "description": "",
+        "genre": "VARIETATS",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-14T17:00:00+02:00",
-        "stop": "2026-09-14T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-14T22:05:00+02:00",
+        "stop": "2026-09-15T00:00:00+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       },
       {
-        "start": "2026-09-14T18:30:00+02:00",
-        "stop": "2026-09-14T20:00:00+02:00",
+        "start": "2026-09-15T00:00:00+02:00",
+        "stop": "2026-09-15T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-14T17:28:23+02:00",
-        "stop": "2026-09-14T18:28:22+02:00",
-        "title": "Esport Club",
-        "subtitle": "Esport Club",
-        "description": "Lamine Yamal demana obertament la Pilota d'Or. Analitzem el Llevant-Barça amb la lupa de l'Albert Blaya. Última hora de l'Espanyol, que demà juga contra el Rayo a Butarque. El Barça de bàsquet guanya la Lliga Catalana i ja pensa en la Supercopa ACB. A la tertúlia ens acompanyen Raúl Fuentes, Maria Josep Hostalrich i Pichi Alonso.",
+        "start": "2026-09-14T22:16:15+02:00",
+        "stop": "2026-09-14T23:00:00+02:00",
+        "title": "Tot Costa",
+        "subtitle": "Tot Costa",
+        "description": "Entrevistem el nou 9 del Barça, Gabriel Jesus, per valorar el seu fitxatge pel Barça. Què li va dir Neymar quan va saber que fitxava pel Barça? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. Amb Ramon Salmurri i Laia Tudel escoltem Lamine Yamal i la seva candidatura a la Pilota d'Or, i amb Damià Aguilar analitzem el gran moment de Marc Márquez. ",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       },
       {
-        "start": "2026-09-14T18:28:22+02:00",
-        "stop": "2026-09-14T19:00:00+02:00",
-        "title": "La frontal",
-        "subtitle": "La frontal",
-        "description": "La Unió Barcelonista Catalònia, penya blaugrana des de la seva fundació, fa més de 75 anys que es dedica al futbol formatiu. Amb 300 nens i nenes a la gespa del Camp de Futbol de l'Escola Industrial, l'entitat gaudeix de bona salut i aposta des de fa quatre anys pel futbol femení. A l'espai, Carles Fité, entrevista el president del club, Jaume Muñoz; el coordinador de Futbol 11, Xavi Garcia; i la coordinadora del Femení, Anabel León. I a més a més, els resums dels partits més destacats del cap de setmana.",
-        "genre": "ESPECIALS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"
+        "start": "2026-09-14T23:00:00+02:00",
+        "stop": "2026-09-15T00:31:04+02:00",
+        "title": "Onze",
+        "subtitle": "Onze",
+        "description": "Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-14T18:18:50+02:00",
-        "stop": "2026-09-14T18:30:17+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "Els barrufets (3D) - La renovació",
-        "description": "El Barrufet Presumit somia que els barrufets porten vestits de diferents colors i teixits. Quan es desperta, corre a explicar-li al Barrufet Sastre que el seu somni es podria fer realitat. Tots dos, entusiasmats, li fan la proposta al Gran Barrufet, que els autoritza a dissenyar un vestit nou per als barrufets. Però el que havia de ser un projecte en equip s'acaba convertint en una lluita d'egos entre el Sastre i el Presumit.",
+        "start": "2026-09-14T22:02:03+02:00",
+        "stop": "2026-09-14T22:23:15+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El detectiu Conan - El punt feble del gran detectiu",
+        "description": "L'intent d'assassinat del director d'un grup d'inversió per part d'Izumi Onda, que el considerava culpable de la ruïna econòmica i posterior suïcidi del seu pare, fa que en Kogoro s'hagi d'enfrontar a la seva por més gran, el seu punt dèbil ja conegut per tothom: un pànic a les altures que és incapaç de controlar. Al final, si vol salvar la vida de la Izumi, l'haurà de superar tant sí com no.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-14T18:30:17+02:00",
-        "stop": "2026-09-14T18:41:17+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "Els barrufets (3D) - Els Pluffs! 1a part",
-        "description": "Durant una corredissa pel bosc fugint del Gargamel, a l'Ulleres i la Flor els cau un llamp a sobre. Quan es recuperen i tornen al poble, veuen que tothom ha canviat: els barrufets són de color gris i tenen un comportament cruel. L'Ulleres arriba a la conclusió que han estat víctimes d'un encanteri del Gargamel i demana ajuda al Gran Barrufet. Però, en lloc d'ajudar-los, els tanca en un calabós.",
+        "start": "2026-09-14T22:23:15+02:00",
+        "stop": "2026-09-14T22:42:50+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El detectiu Conan - L'home que es mor dues vegades (1a part)",
+        "description": "Un prestador contracta en Kogoro per saber qui li ha enviat una carta en què l'amenacen de mort. Quan ell i en Conan el van a veure senten un crit des de fora i entren corrents al pis. Un cop dins es troben el prestador amb un ganivet clavat a la panxa i un home que confessa haver-lo mort. Però l'home que l'ha apunyalat no és l'assassí, perquè la víctima havia mort unes hores abans per estrangulació. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-14T17:44:00+02:00",
-        "stop": "2026-09-14T18:26:36+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Viatges insòlits - Los Angeles",
-        "description": "Los Angeles no és només una metròpoli amb milions d'habitants, també és una ciutat extensíssima de grans contrastos on tenir cotxe és indispensable. Aquí hi conviuen persones molt riques amb casalots de milions de dòlars a Beverly Hills amb gent que intenta triomfar en el món del cinema i milers de persones que viuen al seu cotxe (en uns aparcaments especials) o fins i tot al carrer. En Tom visitarà un barri que havia estat un dels més perillosos de la ciutat, i també aprofitarà per fer una visita a una vessant més desconeguda: els grups de lowriders, que es reuneixen per admirar els seus cotxes clàssics.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-14T21:57:38+02:00",
+        "stop": "2026-09-14T22:49:44+02:00",
+        "title": "La Renaixença",
+        "subtitle": "La Renaixença - La calculadora",
+        "description": "Molt abans que s'inventés la Intel·ligència Artificial ja existia un invent que pensava per nosaltres: la calculadora. Pels de lletres ens sembla un artefacte de màgia negra, i és per això que li dediquem el capítol. Ens visita en Nandu Jubany, cuiner de renom a qui fem la pilota per aconseguir que ens convidi a dinar al seu restaurant. I pel que fa a gos, ens emportem a la Kala a un moment tràgic a la història del futbol: la desaparició de Il Grande Torino, un equip destinat a marcar una època, que va desaparèixer en un accident aeri.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-09-14T18:26:36+02:00",
-        "stop": "2026-09-14T19:12:15+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Viatges insòlits - Ciutat de Mèxic",
-        "description": "Amb més de 22 milions d'habitants, Ciutat de Mèxic és una de les ciutats més grans i més influents del món. A la dècada de 1990, la ciutat encapçalava tota mena de llistes que descrivien la inhabitabilitat de la ciutat. Era una ciutat perillosa amb unes xifres de delinqüència disparades i milions de cotxes que creaven un boirum i una contaminació atmosfèrica alarmants. Durant el seu viatge a Ciutat de Mèxic, en Tom descobrirà els enormes canvis que aquesta metròpoli ha viscut els últims anys.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-14T22:49:44+02:00",
+        "stop": "2026-09-14T23:18:32+02:00",
+        "title": "Tot torna",
+        "subtitle": "Tot torna - 1988",
+        "description": "Repassem el 1988, l'any que se celebra el mil·lenari de Catalunya, Jordi Pujol s'enfronta a uns manifestants a Santa Coloma de Gramenet i els jugadors del Barça intenten fer fora Josep Lluís Núñez. Mentrestant, al 'Bona cuina', entre rimes d'en Pastallé, apareix, així tot d'una, Ferran Adrià, el cuiner.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
