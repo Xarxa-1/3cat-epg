@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-15T06:42:26.064094+00:00",
+  "updated": "2026-09-15T12:09:34.466237+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,106 +43,126 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-15T08:00:06+02:00",
-        "stop": "2026-09-15T10:30:00+02:00",
-        "title": "Matins",
-        "subtitle": "Matins",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "start": "2026-09-15T13:54:55+02:00",
+        "stop": "2026-09-15T14:30:00+02:00",
+        "title": "Telenotícies comarques",
+        "subtitle": "Telenotícies comarques",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       },
       {
-        "start": "2026-09-15T10:30:00+02:00",
-        "stop": "2026-09-15T13:55:00+02:00",
-        "title": "Tot es mou",
-        "subtitle": "Tot es mou",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
-        "genre": "MAGAZINE",
-        "image": ""
+        "start": "2026-09-15T14:30:00+02:00",
+        "stop": "2026-09-15T15:29:29+02:00",
+        "title": "Telenotícies migdia",
+        "subtitle": "Telenotícies migdia",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-15T08:00:00+02:00",
-        "stop": "2026-09-15T10:30:00+02:00",
-        "title": "Matins",
+        "start": "2026-09-15T13:55:00+02:00",
+        "stop": "2026-09-15T14:30:00+02:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       },
       {
-        "start": "2026-09-15T10:30:00+02:00",
-        "stop": "2026-09-15T12:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-15T14:30:00+02:00",
+        "stop": "2026-09-15T15:30:00+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-15T08:26:41+02:00",
-        "stop": "2026-09-15T09:12:26+02:00",
-        "title": "Aire Lliure",
-        "subtitle": "Aire Lliure - Pallars",
-        "description": "Judit Mascó i l'exjugadora de bàsquet Cindy Lima practicaran un emocionant descens de ràfting per les aigües de la Noguera Pallaresa. En aquest capítol dedicat als Pallars també farem barranquisme i esquí, dos esports molt característics de la comarca. Un altre de les convidades serà l'actriu Clara Segura que donarà classes d'interpretació a Judit Mascó.",
-        "genre": "REPORTATGES",
-        "image": ""
+        "start": "2026-09-15T14:01:04+02:00",
+        "stop": "2026-09-15T15:33:38+02:00",
+        "title": "Esport Club",
+        "subtitle": "Esport Club",
+        "description": "La final de la Champions del 2029 es jugarà al Camp Nou. Hansi Flick, en la prèvia del Barça-Racing de demà. Avui, Rayo-Espanyol. Última hora amb Imma Casares i l'anàlisi de Juli Garcia. A la tertúlia ens acompanyen Irati Vidal, Joan Poquí i en Pere de Cal Tet.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       },
       {
-        "start": "2026-09-15T09:12:26+02:00",
-        "stop": "2026-09-15T10:00:16+02:00",
-        "title": "Aire Lliure",
-        "subtitle": "Aire Lliure - Mallorca",
-        "description": "L'illa de sa Dragonera i Mallorca seran els escenaris de l'últim Aire Lliure de la temporada. Judit Mascó tindrà una agenda cultura i esportiva molt moguda. Practicarà diferents esports al costat de grans campions com Tòfol Castanyer (curses de muntanya), Maria Perelló (vela) i els germans Pou (escalada). La música del veterà Tomeu Penya i la jove Maria Jaume posaran punt i final a l'Aire Lliure 2021.",
-        "genre": "REPORTATGES",
+        "start": "2026-09-15T15:33:38+02:00",
+        "stop": "2026-09-15T15:58:57+02:00",
+        "title": "Catalunya salvatge",
+        "subtitle": "Catalunya salvatge - La vida al Delta",
+        "description": "'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-15T08:37:04+02:00",
-        "stop": "2026-09-15T08:48:08+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "El Mic i els seus amics - El Mic posa el nom en paperets",
-        "description": "El Mic juga a fer veure que escriu el nom de cada cosa en un paperet. Perquè totes les coses tenen el seu nom! ",
+        "start": "2026-09-15T13:53:34+02:00",
+        "stop": "2026-09-15T14:14:26+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El detectiu Conan - El misteri del globus aerostàtic",
+        "description": "En Conan assisteix a una competició de globus aerostàtics. Abans de la prova, l'actual campió, en Shingo Mizuguchi, discuteix amb un altre participant, l'Akihiro Okuda. Quan arrenca la cursa, una col·lisió entre els globus d'aquests dos competidors provoca que l'Arisa, la dona d'en Shingo, que l'acompanyava, caigui de la barqueta i es mati. Tot indica que l'Akihiro ha envestit deliberadament el globus d'en Shingo, però hi ha coses que no quadren.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-15T08:48:08+02:00",
-        "stop": "2026-09-15T08:58:31+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "El Mic i els seus amics - El Mic abraça la nina",
-        "description": "Jugar a cuidar nines és un dels primers jocs simbòlics que fan els més petits.",
+        "start": "2026-09-15T14:14:26+02:00",
+        "stop": "2026-09-15T14:36:43+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Bola de drac Z - En Trunks: un guerrer que va venir de l'infern",
+        "description": "Entre els records d'en Trunks d'un futur apocalíptic i els d'en Cèl·lula del camí cap a la perfecció, continua l'increïble combat entre els dos éssers més poderosos que ha conegut mai l'univers. Mentrestant, en Son Goku i en Son Gohan es continuen entrenant, cada cop amb més duresa, a la Sala de l'Esperit del Temps.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-15T08:14:26+02:00",
-        "stop": "2026-09-15T08:50:53+02:00",
-        "title": "Cosins Germans",
-        "subtitle": "Cosins Germans - Cavallers, va de bo",
-        "description": "La pilota valenciana és l'esport autòcton del País Valencià. El Ferran i l'Empar coneixeran una llegenda viva d'aquest esport, Paco Cabanes, més conegut pel seu sobrenom, el Genovès. El Genovés els impartirà un classe pràctica de pilota. Després tots tres marxaran a Bellreguard per assistir a una partida professional de 'Raspall'. Com mana la tradició es jugaran els diners en les travesses. Tot i aquesta atapeïda agenda, l'Empar i el Ferran encara trauran temps per endrapar-se un arròs al forn a Xàtiva, en companyia del 'cantaor' Pep Gimeno, 'el Botifarra'. Per igualar la proposta valenciana, l'Empar du el Ferran a Ribes de Freser, al cor de la comarca del Ripollès. El primer diumenge de setembre se celebra el concurs d'habilitat de gossos d'atura més antic i famós de Catalunya. L'Empar i el Ferran s'endinsaran en l'organització. Començaran el dia menjant xulles de xai en l'esmorzar de germanor previ a la competició. Amb la panxa plena donaran suport a tots els pastors. Però Empar té preparada una altra sorpresa per al Ferran. Li torna l'envit del Pep, 'el Botifarra', i li presenta l'acordionista i divulgador del folklore popular Artur Blasco.",
-        "genre": "ALTRES",
+        "start": "2026-09-15T13:44:59+02:00",
+        "stop": "2026-09-15T14:16:06+02:00",
+        "title": "No tenim vergonya",
+        "subtitle": "No tenim vergonya - NTV 40 Anys Esports (1)",
+        "description": "'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.",
+        "genre": "REPORTATGES",
         "image": ""
       },
       {
-        "start": "2026-09-15T08:50:53+02:00",
-        "stop": "2026-09-15T09:06:05+02:00",
-        "title": "Pastors i ramats: un món que se'n va",
-        "subtitle": "Pastors i ramats: un món que se'n va - Enric Gibert",
-        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-15T14:16:06+02:00",
+        "stop": "2026-09-15T15:01:03+02:00",
+        "title": "La Renaixença",
+        "subtitle": "La Renaixença - La roda",
+        "description": "Dedicar un capítol a la roda pot semblar un bàsic, però també és arriscat. Perquè la roda no es va inventar per als vehicles, sinó per a joguines de la canalla. També us donem consells per si un dia heu de canviar una roda, que aquestes coses no se sap mai. Coneixem en Josep Canudas, un tanatopràctic que ens explica per què és millor treballar amb morts que amb vius. Si vau escoltar el capítol d'ahir, el gos que traiem a passejar us sonarà: en Ratatouille, un gos que detecta marihuana. El portem a un lloc on segurament no li faltarà feina: el Festival de Woodstock de l'any 1969.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
-    "oca1": [],
-    "oca2": [],
+    "oca1": [
+      {
+        "start": "2026-09-15T12:34:22+02:00",
+        "stop": "2026-09-15T14:34:17+02:00",
+        "title": "Roda de premsa posterior al Consell Executiu",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/6/2/1723647268726.jpg"
+      }
+    ],
+    "oca2": [
+      {
+        "start": "2026-09-15T12:52:39+02:00",
+        "stop": "2026-09-15T14:52:34+02:00",
+        "title": "Roda de premsa posterior al Consell de Ministres",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/8/5/1766758430658.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
