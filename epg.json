@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-14T23:16:00.668959+00:00",
+  "updated": "2026-09-15T01:39:39.238852+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,22 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-15T00:22:11+02:00",
-        "stop": "2026-09-15T02:09:43+02:00",
-        "title": "Mésnit",
-        "subtitle": "Mésnit",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
-      },
-      {
-        "start": "2026-09-15T02:09:43+02:00",
+        "start": "2026-09-15T02:10:22+02:00",
         "stop": "2026-09-15T04:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-15T04:00:00+02:00",
+        "stop": "2026-09-15T05:00:00+02:00",
+        "title": "Ritmes a l'estudi",
+        "subtitle": "Ritmes a l'estudi - DAVID PASTOR & SMOTHTIME",
+        "description": "El trompetista valencià és, sens dubte, un dels solistes més potents i creatius de l'escena a casa nostra. Una de les seves virtuts és la versatilitat. Tant en el jazz, el funk, el pop, com en el latin, Pastor flueix amb el seu llenguatge còmodament. Vicenç Macián al saxo, Albert Palau al piano i als teclats, Jordi Franco al baix, Pere Foved a la bateria i el mateix David Pastor a la trompeta.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-15T00:49:27+02:00",
-        "stop": "2026-09-15T02:20:30+02:00",
-        "title": "Onze",
-        "subtitle": "Onze",
-        "description": "Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-15T02:38:13+02:00",
+        "stop": "2026-09-15T04:06:40+02:00",
+        "title": "Tot Costa",
+        "subtitle": "Tot Costa",
+        "description": "Entrevistem el nou 9 del Barça, Gabriel Jesus, per valorar el seu fitxatge pel Barça. Què li va dir Neymar quan va saber que fitxava pel Barça? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. Amb Ramon Salmurri i Laia Tudel escoltem Lamine Yamal i la seva candidatura a la Pilota d'Or, i amb Damià Aguilar analitzem el gran moment de Marc Márquez. ",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       },
       {
-        "start": "2026-09-15T02:20:30+02:00",
-        "stop": "2026-09-15T02:38:11+02:00",
+        "start": "2026-09-15T04:06:40+02:00",
+        "stop": "2026-09-15T04:24:29+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "3CatInfo Esports",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-15T01:12:28+02:00",
-        "stop": "2026-09-15T01:23:45+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Les Sisters - L'any simpàtic",
-        "description": "La mare de la Wendy i la Marine decideix agafar-se un any sabàtic. Al principi les germanes estan encantades, però la mare s'acaba fent molt pesada. Com la poden convèncer perquè torni a treballar? Resposta de les germanes: fent-li la vida impossible de totes les maneres imaginables.",
+        "start": "2026-09-15T03:25:20+02:00",
+        "stop": "2026-09-15T03:45:58+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - El Mussol Negre",
+        "description": "El senyor Damocles, el director de l'institut, té moltes ganes de ser un superheroi per poder ajudar els altres, però el pobre home no se'n surt, sinó que més aviat provoca problemes que després han de resoldre Ladybug i el Gat Noir, però l'Esfinx aprofita el desengany del senyor Damocles per crear un altre supermalvat a la ciutat de París.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-15T01:23:45+02:00",
-        "stop": "2026-09-15T01:43:40+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Viatges Pokémon - La meva colla nova de sempre!",
-        "description": "Quan el Goh fa evolucionar el seu Exeggcute en l'Exeggutor, l'Ash li explica que els Exeggutor d'Alola són molt alts. El professor Cirerer proposa que tots dos facin una visita a la regió d'Alola, i ells hi van. El Goh està nerviós perquè ha de conèixer el professor Kukui i els amics de l'Ash, i la tensió augmenta quan el Kiawe el desafia a un combat. La situació pinta malament quan el Kiawe fa un moviment Z, però ell mateix fa que el Marowak salvi el Goh i el Raboot del perill. Abans de tornar a casa, el Goh compleix l'objectiu que tenia: capturar un Exeggutor d'Alola.",
+        "start": "2026-09-15T03:45:58+02:00",
+        "stop": "2026-09-15T04:07:58+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Sirena",
+        "description": "L'Ondine està molt enamorada del Kim i intenta fer-li saber a través d'un joc que juguen a la piscina. Però el Kim no se n'adona, i l'Esfinx aprofita el despit de l'Ondine per convertir-la en una supermalvada que deixarà París inundada sota les aigües.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-15T01:11:57+02:00",
-        "stop": "2026-09-15T01:32:18+02:00",
-        "title": "Nens de la ruta de la seda",
-        "subtitle": "Nens de la ruta de la seda - Classes de ball",
-        "description": "En aquest programa coneixerem la Tika. És una nena amb una gran responsabilitat. Vol seguir els passos de la seva àvia, que va fundar un centre per a nens discapacitats, i vol ajudar-la a transformar la vida d'aquests nens. Els fa classes de ball per preparar un espectacle. Tot i que està una mica nerviosa d'haver d'assumir aquesta responsabilitat, encomana la seva empenta als alumnes i, entre tots, aconsegueixen fer una representació extraordinària.",
+        "start": "2026-09-15T03:04:19+02:00",
+        "stop": "2026-09-15T03:56:33+02:00",
+        "title": "Sota terra",
+        "subtitle": "Sota terra - Guerra civil: la vida a les trinxeres",
+        "description": "En el segon capítol, 'Sota terra' excava en diversos punts on va tenir lloc la batalla de l'Ebre, l'enfrontament més cruent de la Guerra Civil espanyola. L'equip de 'Sota terra' obre diversos fronts a partir d'unes restes humanes trobades fa poc. Excaven per intentar descobrir si són restes de soldats morts. A quin bàndol pertanyien? Per què van morir? A més, una troballa espectacular al camp de batalla, un nom gravat en una paret, porta l'equip a seguir el rastre d'un brigadista internacional i de la seva commovedora història personal. També excaven les restes d'una de les dotzenes de trinxeres que encara avui s'endevinen entre la malesa. L'objectiu és reconstruir-la i passar-hi una nit com feien els soldats que van haver de lluitar i patir en aquella terrible batalla.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-15T01:32:18+02:00",
-        "stop": "2026-09-15T01:46:27+02:00",
-        "title": "Pastors i ramats: un món que se'n va",
-        "subtitle": "Pastors i ramats: un món que se'n va - Ernest Sitjes",
-        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
+        "start": "2026-09-15T03:56:33+02:00",
+        "stop": "2026-09-15T04:21:56+02:00",
+        "title": "Boscos",
+        "subtitle": "Boscos - Boscos de Faig (Montseny)",
+        "description": "El faig és un arbre que conforma boscos irregulars, atapeïts, foscos i humits: les fagedes. En Martí anirà fins a la fageda del Montseny, on en Salvador Carranza, un dels descobridors del tritó del Montseny, localitzarà un dels pocs exemplars d'aquest amfibi que hi ha al món. I passejant entre faigs trobarà l'Edmon Ribatellada, un dels últims flabiolaires que queden per aquelles contrades. Coneixerem un bosquerol que fa més de 60 anys que viu del bosc i contemplarem els dibuixos d'en Carles Puché, un il·lustrador especialitzat en natura. També se sabrà què tenen en comú la salamandra, i els taxis de Barcelona.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
