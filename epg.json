@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-15T20:02:20.046247+00:00",
+  "updated": "2026-09-15T22:52:43.025541+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-15T21:00:00+02:00",
-        "stop": "2026-09-15T22:05:44+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "Telenotícies vespre",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "start": "2026-09-16T00:09:33+02:00",
+        "stop": "2026-09-16T01:52:47+02:00",
+        "title": "Mésnit",
+        "subtitle": "Mésnit",
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       },
       {
-        "start": "2026-09-15T22:05:44+02:00",
-        "stop": "2026-09-15T23:05:01+02:00",
-        "title": "Nits Sense ficció",
-        "subtitle": "Nits Sense ficció - El cas de l'avi pistoler",
-        "description": "9 de febrer de 2017. Els treballadors d'una oficina de CaixaBank truquen al 112 per alertar que acaben de patir un atracament. Un home que es cobria la cara amb una mitja i que els encanonava amb una pistola s'acaba d'endur 1.200 euros. Quan la primera patrulla dels Mossos d'Esquadra arriba al banc, l'atracador ja s'ha esvaït. Els agents pregunten als testimonis la seva descripció per avisar la resta de patrulles. Tots coincideixen: els acaba d'atracar un home que semblava d'edat avançada i que ha marxat tot sol, a peu. La premsa el bateja com a Avi Pistoler. Durant sis dies, el mateix sospitós atraca bancs, farmàcies i una perfumeria, tots són negocis del seu propi barri. Quan els Mossos aconsegueixen arrestar-lo, descobreixen que no tenia cap antecedent: l'Avi Pistoler és un jubilat marcat per la solitud.",
-        "genre": "DOCUMENTAL",
-        "image": ""
+        "start": "2026-09-16T01:52:47+02:00",
+        "stop": "2026-09-16T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-15T21:00:00+02:00",
-        "stop": "2026-09-15T22:05:00+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-09-16T00:30:00+02:00",
+        "stop": "2026-09-16T01:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-15T22:05:00+02:00",
-        "stop": "2026-09-16T00:00:00+02:00",
-        "title": "Mésnit",
+        "start": "2026-09-16T01:00:00+02:00",
+        "stop": "2026-09-16T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-15T22:00:03+02:00",
-        "stop": "2026-09-15T22:41:40+02:00",
-        "title": "E3D",
-        "subtitle": "E3D - BMX UCI HC / Extreme Barcelona / Final femenina",
-        "description": "Final femenina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
+        "start": "2026-09-16T00:52:29+02:00",
+        "stop": "2026-09-16T02:23:46+02:00",
+        "title": "Onze",
+        "subtitle": "Onze",
+        "description": "Fem tertúlia amb Jordi Costa, Gemma Mallorca, Víctor Lozano i Joan Poquí. Repassem la prèvia del Barça-Racing. Veiem els gols de l'Elx-Madrid i el Rayo-Espanyol. El Predicador Òscar Pérez-Dolz posa els tertulians a lloc, ve Fran Domènech i la seva Onzeclopèdia i acabem amb l'1x1 d'Òscar Nin.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-15T22:41:40+02:00",
-        "stop": "2026-09-15T23:00:00+02:00",
-        "title": "Sala de Premsa",
-        "subtitle": "Sala de Premsa - Hansi Flick / Prèvia Barça-Racing / J6",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "start": "2026-09-16T02:23:46+02:00",
+        "stop": "2026-09-16T02:47:37+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "3CatInfo Esports",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-15T22:01:44+02:00",
-        "stop": "2026-09-15T22:22:57+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El detectiu Conan - La banda de noies mal avingudes (1a part)",
-        "description": "Un dia en sortir de classe, al Cafè Poirot, la Sonoko suggereix a la Ran i la Masumi que formin un grup de música. Descobreixen que en Toru Amuro toca molt bé la guitarra i també el conviden a formar part del grup. Van a un estudi de so per començar a assajar i en Conan els hi acompanya. A l'estudi també hi ha un altre grup de música format per noies que tenen una conversa una mica tensa. Al cap de poca estona, troben morta una de les noies.",
+        "start": "2026-09-16T00:52:10+02:00",
+        "stop": "2026-09-16T01:03:38+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Les Sisters - L'intercanvi",
+        "description": "La Marine i la Wendy no paren de barallar-se. Al Didjé i a la Nath els passa el mateix. De mutu acord, decideixen intercanviar-se germans i germanes! La Marine serà la germana del Didjé, i la Wendy, la de la Nath... Però la Marine i la Wendy tornen a discutir immediatament i la Nath i el Didjé fugen. Les dues germanes acaben destrossant l'habitació de la Marine!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-15T22:22:57+02:00",
-        "stop": "2026-09-15T22:42:32+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El detectiu Conan - La banda de noies mal avingudes (2a part)",
-        "description": "S'ha comès un assassinat en un estudi de so. La víctima és una noia que tocava la bateria en un grup i les sospitoses principals són les seves tres companyes. La càmera de seguretat no ha pogut enregistrar bé tot el que ha passat i la policia no troba l'arma del crim. Sort que en Conan i els seus amics els ajudaran a esbrinar què ha passat i a resoldre el cas.",
+        "start": "2026-09-16T01:03:38+02:00",
+        "stop": "2026-09-16T01:14:41+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Les Sisters - Prohibit als menors de 12 anys",
+        "description": "La Wendy vol anar al ball de Pom-les-Bains amb el Maxence. La Marine també hi vol anar i vol obligar la seva germana a posar-se un vestit de princesa molt cursi. La Wendy no se'l pensa posar ni boja! Però quan a la Marine se li fica una cosa al cap, és capaç de fer el que sigui per fer-la realitat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-15T22:02:15+02:00",
-        "stop": "2026-09-15T22:54:45+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La Renaixença - La barbacoa",
-        "description": "Probablement hagis llegit el nom de l'objecte al qual dediquem el capítol entonant aquella cançó tan famosa d'en Georgie Dann. No t'has de sentir culpable, la caspa que desprèn aquell èxit estiuenc fa justícia al que és la barbacoa en sí. Ens visita en Daniel Martín, un investigador que es dedica a posar nom als cucs. Algú se n'ha d'encarregar, sinó avui dia els cucs es dirien Kai, Roc i Ot! Quin disbarat! També passegem el gos pel dia que un advocat talòs va morir tot intentant demostrar que el seu client era innocent.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
-      },
-      {
-        "start": "2026-09-15T22:54:45+02:00",
-        "stop": "2026-09-16T01:00:46+02:00",
+        "start": "2026-09-15T22:54:46+02:00",
+        "stop": "2026-09-16T01:00:47+02:00",
         "title": "Pel·lícula",
         "subtitle": "Pel·lícula - Batman begins",
         "description": "BATMAN BEGINS (Batman begins)Quan tenia 8 anys, Bruce Wayne va caure en una cova plena de ratpenats i des d'aleshores li van fer por. Una nit va demanar als seus pares de marxar d'un espectacle on sortien personatges disfressats de ratpenat. Un cop al carrer, un assassí va matar els pares i Bruce va quedar traumatitzat per la culpa. Uns anys més tard, Bruce, turmentat pel desig de venjança, marxa de la seva ciutat, Gotham, i viatja per tot el món buscant maneres de lluitar contra la injustícia. Finalment troba un home misteriós que l'instrueix en el domini de tot un seguit de disciplines físiques i mentals que el convertiran en un ésser poderós i invencible: Batman.Idioma versió original: anglèsProducció: Warner Bros. Pictures, Syncopy, De Comics i Patalex Productions, 2004 (Estats Units)Direcció: Christopher NolanDurada: 134 minutsGuió: Christopher Nolan i David S. Goyer, basat en els personatges de còmic creats per Bob KaneFotografia: Wally Pfister (color)Música: James Newton Howard i Hans ZimmerIntèrprets: Christian Bale (Bruce Wayne / Batman), Michael Caine (Alfred), Liam Neeson (Henri Ducard), Katie Holmes (Rachel Dwes), Gary Oldman (Jim Gordon), Cilliam Murphy (doctor Crane)",
         "genre": "PEL·LÍCULA / TELEFILM",
         "image": "https://img.3cat.cat/multimedia/jpg/8/3/1786952691638.jpg"
+      },
+      {
+        "start": "2026-09-16T01:00:47+02:00",
+        "stop": "2026-09-16T01:21:28+02:00",
+        "title": "Nens de la ruta de la seda",
+        "subtitle": "Nens de la ruta de la seda - El rei mico",
+        "description": "En Yang és un nen xinès que ha d'interpretar el Rei dels Micos, el protagonista d'una obra de la famosa Òpera de Pequín. És un somni fet realitat, ja que aquest personatge és el seu heroi. Però és un paper molt complicat i que requereix una gran preparació física. En Yang no té cap amic íntim i tots els alumnes de la seva classe li diuen que l'òpera no els agrada gens. Ell decideix convidar tres alumnes a l'estrena, que queden molt sorpresos i el feliciten per la seva actuació.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
