@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-15T12:09:34.466237+00:00",
+  "updated": "2026-09-15T16:57:10.686033+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,126 +43,106 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-15T13:54:55+02:00",
-        "stop": "2026-09-15T14:30:00+02:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "Telenotícies comarques",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "start": "2026-09-15T17:25:18+02:00",
+        "stop": "2026-09-15T19:12:17+02:00",
+        "title": "La Selva",
+        "subtitle": "La Selva",
+        "description": "Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!",
+        "genre": "MAGAZINE",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
       },
       {
-        "start": "2026-09-15T14:30:00+02:00",
-        "stop": "2026-09-15T15:29:29+02:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "Telenotícies migdia",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "start": "2026-09-15T19:12:17+02:00",
+        "stop": "2026-09-15T20:17:50+02:00",
+        "title": "Atrapa'm si pots",
+        "subtitle": "Atrapa'm si pots",
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-15T13:55:00+02:00",
-        "stop": "2026-09-15T14:30:00+02:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-09-15T18:30:00+02:00",
+        "stop": "2026-09-15T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-15T14:30:00+02:00",
-        "stop": "2026-09-15T15:30:00+02:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-09-15T20:00:00+02:00",
+        "stop": "2026-09-15T21:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-15T14:01:04+02:00",
-        "stop": "2026-09-15T15:33:38+02:00",
+        "start": "2026-09-15T18:54:54+02:00",
+        "stop": "2026-09-15T21:00:03+02:00",
         "title": "Esport Club",
-        "subtitle": "Esport Club",
-        "description": "La final de la Champions del 2029 es jugarà al Camp Nou. Hansi Flick, en la prèvia del Barça-Racing de demà. Avui, Rayo-Espanyol. Última hora amb Imma Casares i l'anàlisi de Juli Garcia. A la tertúlia ens acompanyen Irati Vidal, Joan Poquí i en Pere de Cal Tet.",
+        "subtitle": "Esport Club - Minut a minut / Rayo-Espanyol",
+        "description": "Seguim el partit de la sisena jornada de Lliga. Una nova victòria a domicili permetria als blanc-i-blaus mantenir-se a la zona alta de la classificació.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/1/4/1789379644441.jpg"
       },
       {
-        "start": "2026-09-15T15:33:38+02:00",
-        "stop": "2026-09-15T15:58:57+02:00",
-        "title": "Catalunya salvatge",
-        "subtitle": "Catalunya salvatge - La vida al Delta",
-        "description": "'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-15T21:00:03+02:00",
+        "stop": "2026-09-15T21:41:00+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Gol a gol - Post Rayo-Espanyol / J6",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-15T13:53:34+02:00",
-        "stop": "2026-09-15T14:14:26+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El detectiu Conan - El misteri del globus aerostàtic",
-        "description": "En Conan assisteix a una competició de globus aerostàtics. Abans de la prova, l'actual campió, en Shingo Mizuguchi, discuteix amb un altre participant, l'Akihiro Okuda. Quan arrenca la cursa, una col·lisió entre els globus d'aquests dos competidors provoca que l'Arisa, la dona d'en Shingo, que l'acompanyava, caigui de la barqueta i es mati. Tot indica que l'Akihiro ha envestit deliberadament el globus d'en Shingo, però hi ha coses que no quadren.",
+        "start": "2026-09-15T18:52:13+02:00",
+        "stop": "2026-09-15T19:04:08+02:00",
+        "title": "Els barrufets (3D)",
+        "subtitle": "Els barrufets (3D) - El reagrupament",
+        "description": "Els barrufets celebren la cursa anual de cargols i estan entusiasmats. Fins i tot el Bromista, que les troba avorridíssimes. El cas és que ha donat unes vitamines màgiques als cargols participants perquè es converteixin en autèntics bòlids. Quan els cargols surten disparats i es perden pel bosc, el Gran Barrufet li ordena que els vagi a buscar i que els torni a portar al seu propietari, el Barrufet Pagès.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-15T14:14:26+02:00",
-        "stop": "2026-09-15T14:36:43+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Bola de drac Z - En Trunks: un guerrer que va venir de l'infern",
-        "description": "Entre els records d'en Trunks d'un futur apocalíptic i els d'en Cèl·lula del camí cap a la perfecció, continua l'increïble combat entre els dos éssers més poderosos que ha conegut mai l'univers. Mentrestant, en Son Goku i en Son Gohan es continuen entrenant, cada cop amb més duresa, a la Sala de l'Esperit del Temps.",
+        "start": "2026-09-15T19:04:08+02:00",
+        "stop": "2026-09-15T19:26:39+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - El senyor Agreste",
+        "description": "L'Adrien ha de donar el seu vistiplau perquè erigeixin una estàtua en honor al seu pare, Gabriel Agreste, i a la Marinette cada vegada li costa més mantenir el secret que li amaga sobre el seu pare. I l'arribada d'un supermalvat que és com el seu vell enemic no l'ajudarà gens.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-15T13:44:59+02:00",
-        "stop": "2026-09-15T14:16:06+02:00",
-        "title": "No tenim vergonya",
-        "subtitle": "No tenim vergonya - NTV 40 Anys Esports (1)",
-        "description": "'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.",
-        "genre": "REPORTATGES",
+        "start": "2026-09-15T18:22:21+02:00",
+        "stop": "2026-09-15T19:15:04+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "Els quaderns de cuina de la Julie - El mercat internacional de Rungis",
+        "description": "La Julie es passa tota una matinada rondant pel mercat de majoristes de París. Al pavelló de triperia, en Philippe fa un guisat de galtes de porc amb sidra, mostassa i pastanaga. Al pavelló de peixateria, l'Éric fa uns lloms de bacallà fresc amb xoriço. Al sector de formatgeria, en Jean-Pierre s'encarrega de la safata de formatges. Al pavelló de verduleria, la Martine i l'Olivier són productors de créixens i en Jean-François és especialista en productes d'arreu del món amb els quals la Julie improvisarà unes postres.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-15T14:16:06+02:00",
-        "stop": "2026-09-15T15:01:03+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La Renaixença - La roda",
-        "description": "Dedicar un capítol a la roda pot semblar un bàsic, però també és arriscat. Perquè la roda no es va inventar per als vehicles, sinó per a joguines de la canalla. També us donem consells per si un dia heu de canviar una roda, que aquestes coses no se sap mai. Coneixem en Josep Canudas, un tanatopràctic que ens explica per què és millor treballar amb morts que amb vius. Si vau escoltar el capítol d'ahir, el gos que traiem a passejar us sonarà: en Ratatouille, un gos que detecta marihuana. El portem a un lloc on segurament no li faltarà feina: el Festival de Woodstock de l'any 1969.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-09-15T19:15:04+02:00",
+        "stop": "2026-09-15T20:07:32+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "Els quaderns de cuina de la Julie - La vall dels Baus",
+        "description": "En aquest episodi la Julie visita la regió dels Baus, al peu del massís dels Alpilles. Primer de tot coneix en Marcel, un productor d'olives. Després, amb l'Annie i les seves filles l'Anne i la Magali, que són oleïcultores, prepara una orada amb fonoll i un fricot amb olives trencades. Amb l'Alexandre, que és productor de fenc i fill de ramader, fa una recepta de toro amb arròs amb fenc. Amb en Pierre, que és confiter, descobreix com es fan les fruites confitades de la regió. Finalment, amb la Jeanne, prepara un menjar blanc típic de la Provença.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-09-15T12:34:22+02:00",
-        "stop": "2026-09-15T14:34:17+02:00",
-        "title": "Roda de premsa posterior al Consell Executiu",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/2/1723647268726.jpg"
-      }
-    ],
-    "oca2": [
-      {
-        "start": "2026-09-15T12:52:39+02:00",
-        "stop": "2026-09-15T14:52:34+02:00",
-        "title": "Roda de premsa posterior al Consell de Ministres",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/5/1766758430658.jpg"
-      }
-    ],
+    "oca1": [],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
