@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-16T00:59:40.194286+00:00",
+  "updated": "2026-09-16T05:52:03.074760+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-16T01:51:54+02:00",
-        "stop": "2026-09-16T04:00:00+02:00",
+        "start": "2026-09-16T06:00:00+02:00",
+        "stop": "2026-09-16T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,25 +52,16 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-16T04:00:00+02:00",
-        "stop": "2026-09-16T05:00:01+02:00",
-        "title": "Ritmes a l'estudi",
-        "subtitle": "Ritmes a l'estudi - DE DIEGO BROTHERS",
-        "description": "Des de l'any 1993, aquest quintet, liderat pels germans De Diego, no ha deixat de tocar. El seu repertori es pot situar estilísticament als anys setanta; un període en què el jazz es barreja amb ritmes afrocubans, el 'bogaloo' o el funk. La força i la frescor del seu directe els ha dut a tocar als festivals més representatius de jazz de tot l'estat.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-16T08:00:00+02:00",
+        "stop": "2026-09-16T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "Matins",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
-      {
-        "start": "2026-09-16T01:00:00+02:00",
-        "stop": "2026-09-16T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-09-16T06:00:00+02:00",
         "stop": "2026-09-16T08:00:00+02:00",
@@ -79,65 +70,74 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-16T08:00:00+02:00",
+        "stop": "2026-09-16T09:00:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-16T02:44:34+02:00",
-        "stop": "2026-09-16T04:02:56+02:00",
-        "title": "E3D",
-        "subtitle": "E3D - Skate / Extreme Barcelona / Final femenina",
-        "description": "Final femenina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
+        "start": "2026-09-16T07:19:34+02:00",
+        "stop": "2026-09-16T08:50:41+02:00",
+        "title": "Onze",
+        "subtitle": "Onze",
+        "description": "Fem tertúlia amb Jordi Costa, Gemma Mallorca, Víctor Lozano i Joan Poquí. Repassem la prèvia del Barça-Racing. Veiem els gols de l'Elx-Madrid i el Rayo-Espanyol. El Predicador Òscar Pérez-Dolz posa els tertulians a lloc, ve Fran Domènech i la seva Onzeclopèdia i acabem amb l'1x1 d'Òscar Nin.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-16T04:02:56+02:00",
-        "stop": "2026-09-16T04:59:04+02:00",
-        "title": "E3D",
-        "subtitle": "E3D - Scooter Park / Extreme Barcelona / Final masculina",
-        "description": "Final masculina d'scootering park a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
+        "start": "2026-09-16T08:50:41+02:00",
+        "stop": "2026-09-16T09:27:46+02:00",
+        "title": "Aire Lliure",
+        "subtitle": "Aire Lliure - Queralt Castellet",
+        "description": "Queralt Castellet, primera medalla catalana en uns jocs olímpics d'hivern, serà la convidada d''Aire lliure' deTV3. Núria Picas portarà la Queralt a escalar una de les agulles més carismàtiques de Montserrat, el Cavall Bernat. En la segona part del programa Castellet convencerà la Núria perquè es calci una taula de surf sobre aigua al pantà de Sau.",
+        "genre": "REPORTATGES",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-16T02:46:01+02:00",
-        "stop": "2026-09-16T03:06:39+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Capitana Hardrock",
-        "description": "Avui és la festa de la música, i la Marinette i els seus amics es preparen per fer un concert a la barcassa de la mare de la Juleka. El problema és que fan massa soroll, i el Roger, el policia insisteix perquè redueixin els decibels. L'Anarka, la mare de la Juleka no s'ho prendrà gaire bé, i l'Esfinx ho aprofitarà, com sempre.",
+        "start": "2026-09-16T07:35:29+02:00",
+        "stop": "2026-09-16T07:57:14+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - Rescats extrems: La Patrulla salva els gatets reials",
+        "description": "Els gatets reials van a la inauguració del museu de Badia Aventures i els segresten. En Ryder diu a tots els cadells que han d'ajudar en Chase a rescatar-los.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-16T03:06:39+02:00",
-        "stop": "2026-09-16T03:27:17+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - El patinador",
-        "description": "L'Adrien creu que potser estàs enamorat de la Kagami, la companya d'esgrima, i la convida a anar a patinar sobre gel. Però li demana a la Marinette que l'acompanyi. Allà, el professor de patinatge s'enfronta amb el problema del tancament del palau de gel, i l'Esfinx ho aprofitarà per convertir-lo en un nou supermalvat, el Patinador.",
+        "start": "2026-09-16T07:57:14+02:00",
+        "stop": "2026-09-16T08:09:45+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva els Goodway a la neu",
+        "description": "L'alcaldessa Goodway i els bessons no tornen de la seva excursió amb raquetes, i en Jake i l'Everest truquen a la Patrulla Peluda perquè els ajudin a buscar-los.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-16T02:52:46+02:00",
-        "stop": "2026-09-16T03:44:48+02:00",
-        "title": "Sota terra",
-        "subtitle": "Sota terra - Cabrera de Mar, Ilturo: ciutat o vila romana?",
-        "description": "Va ser Cabrera de Mar una gran ciutat romana durant el segle II aC? La descoberta fa uns quants anys d'unes termes romanes a Cabrera (les més antigues de la península Ibèrica) era un clar indici, però cal demostrar-ho. Era una ciutat o només era un territori on hi havia diferents vil·les romanes dedicades a l'explotació agrícola? Decidim excavar diferents punts amb dos objectius: si confirmem que Cabrera tenia trama urbana (és a dir, carrers), i si podem confirmar que s'hi encunyava moneda, podrem afirmar amb rotunditat que Cabrera era una ciutat romana. I no una ciutat qualsevol: sinó, juntament amb Empúries i Tarraco, la ciutat a partir de la qual va començar la romanització del territori català, aleshores habitat i dominat per les diferents tribus iberes.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-16T07:17:15+02:00",
+        "stop": "2026-09-16T08:12:54+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Experiència Catalana - Jarek i Beata",
+        "description": "En Jarek Kret i la Beata Tadla, dos famosos presentadors de la televisió polonesa, protagonitzen aquest capítol, on gaudeixen de les aigües termals, dels magnífics paisatges de la Costa Brava i de la diada de Sant Jordi a Barcelona.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-16T03:44:48+02:00",
-        "stop": "2026-09-16T04:10:39+02:00",
-        "title": "Boscos",
-        "subtitle": "Boscos - Boscos de Pi Roig (Cadí)",
-        "description": "En Martí Boada s'enfila al Cadí, per descobrir els boscos de pi roig, el segon arbre més abundant a Catalunya. Visitarem el pi roig més emblemàtic del país: el Pi de les Tres Branques. L'Ignasi Amat presentarà un projecte nou que dóna feina al bosc per facilitar la integració social i laboral per a col·lectius desafavorits; amb en Joan Obiols, un antic bosquerol, aprendrem com es talaven els arbres antigament i veurem de prop imatges espectaculars d'una colònia de voltors que, sota la batuta de l'Aleix Millet, s'està reproduint i aportant grans beneficis a la zona.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-16T08:12:54+02:00",
+        "stop": "2026-09-16T08:46:23+02:00",
+        "title": "Cosins Germans",
+        "subtitle": "Cosins Germans - Castells humans",
+        "description": "Cosins Germans està plantejat com una road movie per les comarques de Catalunya i el País Valencià per descobrir els espais, la gent, els costums i la gastronomia dels dos territoris.Als primers 13 capítols Ferrant Torrent i Empar Moliner viatgen junts per territoris catalans i valencians, i als 13 capítols següents, Ferran Torrent s'endinsa pels territoris dels Països Catalans amb Sílvia Bel, Elisabet Carnicé, Llucia Ramis i Araceli Segarra. Sempre amb un to proper, àgil, també un punt irreverent i ple d'humor.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
