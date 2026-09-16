@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-16T15:10:27.322318+00:00",
+  "updated": "2026-09-16T18:53:58.712730+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,19 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-16T16:42:43+02:00",
-        "stop": "2026-09-16T17:28:51+02:00",
-        "title": "Nervi",
-        "subtitle": "Nervi - Qui posa fre a la imaginació?",
-        "description": "Corren bons temps per a la imaginació o és una capacitat cognitiva amenaçada per un món hiperestimulat, hiperconnectat i regit per la immediatesa? L'auge de l'autoficció i dels relats basats en fets reals són un atemptat a la imaginació com asseveren alguns? Quin és el potencial polític de la imaginació? Ens ho preguntem arran de la publicació de l'assaig 'El millor dels mons impossibles', de Gabriel Ventura, que analitza el fenomen digital del 'reality shifting', a través del qual joves de tot el planeta asseguren que viatgen a universos paral·lels servint-se exclusivament de la seva capacitat de fantasiejar. En un moment de 'netflixació' de la consciència, com assenyala Ventura, és possible una imaginació a contracorrent? En parlem amb el poeta i escriptor Gabriel Ventura, amb la codirectora de la companyia teatral El Conde de Torrefiel, Tanya Beyeler, i amb l'escriptora i editora Mar García Puig.  ",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-16T20:15:07+02:00",
+        "stop": "2026-09-16T21:00:00+02:00",
+        "title": "Està passant",
+        "subtitle": "Està passant",
+        "description": "La Natza i la Núria ens parlen de les pluges i de les noves mesures per a Xarxes Socials de la Unió Europea. L'Elisenda Carod surt al carrer per parlar d'intel·ligència artificial i l'Alba Riera ens porta els millors culebrots de l'audiència",
+        "genre": "GAGS. HUMOR",
+        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
+      },
+      {
+        "start": "2026-09-16T21:00:00+02:00",
+        "stop": "2026-09-16T22:20:29+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "Telenotícies vespre",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-16T17:00:00+02:00",
-        "stop": "2026-09-16T18:30:00+02:00",
+        "start": "2026-09-16T20:00:00+02:00",
+        "stop": "2026-09-16T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-16T18:30:00+02:00",
-        "stop": "2026-09-16T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-16T21:00:00+02:00",
+        "stop": "2026-09-16T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-16T17:02:03+02:00",
-        "stop": "2026-09-16T17:27:18+02:00",
-        "title": "Catalunya salvatge",
-        "subtitle": "Catalunya salvatge - Els tresors de Posidó",
-        "description": "'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-16T20:30:00+02:00",
+        "stop": "2026-09-16T21:25:31+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Gol a gol - Prèvia Barça-Racing / J6",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-09-16T17:27:18+02:00",
-        "stop": "2026-09-16T17:32:49+02:00",
-        "title": "Xarxa Natura",
-        "subtitle": "Xarxa Natura",
-        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
+        "start": "2026-09-16T21:25:31+02:00",
+        "stop": "2026-09-16T23:29:55+02:00",
+        "title": "Un dia de partit",
+        "subtitle": "Un dia de partit - Barça-Racing",
+        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-16T17:05:45+02:00",
-        "stop": "2026-09-16T17:16:34+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "El Mic i els seus amics - Cantem a dins el cotxe",
-        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-16T20:37:23+02:00",
+        "stop": "2026-09-16T21:00:00+02:00",
+        "title": "Henry Danger",
+        "subtitle": "Henry Danger - Bonavista Té Talent",
+        "description": "Quan diversos participants d'un popular concurs de talents comencen a desmaiar-se misteriosament, en Henry i el Capità Man investiguen què s'amaga darrere l'espectacle.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-09-16T17:16:34+02:00",
-        "stop": "2026-09-16T17:28:24+02:00",
-        "title": "Titó",
-        "subtitle": "Titó - Excursió a plegar avellanes",
-        "description": "Avui anem a plegar avellanes. Descobrirem com es feia antigament, amb la senalla, i com es fa avui en dia, amb la bufadora, el rasclet, el tractor i la màquina de xuclar. Pot passar de tot quan en John C agafi la xucladora! ",
-        "genre": "ALTRES",
+        "start": "2026-09-16T21:00:00+02:00",
+        "stop": "2026-09-16T21:22:17+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Bola de drac Z - En Cèl·lula aconsegueix una audiència televisiva del cent per cent",
+        "description": "En Cèl·lula envaeix uns estudis de televisió per anunciar que d'aquí nou dies començarà el seu torneig, on hi convoca els guerrers més poderosos de tot el món. Si no hi ha ningú capaç de derrotar-lo, exterminarà tots els habitants del planeta. En Trunks li demana a la Bulma que li talli els cabells i decideix entrenar-se també a la Sala de l'Esperit del Temps.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-16T17:00:30+02:00",
-        "stop": "2026-09-16T17:33:22+02:00",
-        "title": "QuèQui",
-        "subtitle": "QuèQui - Exploradors subterranis",
-        "description": "A finals del segle XIX principis del XX es va viure el període daurat dels grans exploradors: Livingston a l'Àfrica tropical, Amundsen, Scott o Shackleton a l'Antàrtica, Nansen a l'Àrtic... Podríem pensar que aquest esperit aventurer s'ha perdut, sobretot perquè ja gairebé no queden indrets al món per descobrir, però no és cert. El subsòl del nostre planeta és ple de coves i galeries i moltes encara estan pendents d'explorar. Acompanyarem a un grup d'espeleòlegs per entendre com treballen en la localització i cartografia de les coves, i entendrem la seva estreta vinculació amb el cicle de l'aigua.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-16T20:18:31+02:00",
+        "stop": "2026-09-16T20:59:42+02:00",
+        "title": "Un món de Jocs",
+        "subtitle": "Un món de Jocs - Ritus de pas",
+        "description": "En totes les cultures, dominar un joc és símbol de pas de la infantesa a l'edat adulta. A vegades, els ritus d'iniciació són cruels, a vegades són perillosos, però aquests jocs ens preparen per a la vida. Ens envien al món preparats per a defensar-nos. En aquest episodi, ens fixem en els espais de joc que ajuden els nostres fills a conèixer els seus cossos, les seves fortaleses i les seves debilitats.Savika, MadagascarKungfu, la XinaSumo, el japóCurses de rens, Finlàndia",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
       },
       {
-        "start": "2026-09-16T17:33:22+02:00",
-        "stop": "2026-09-16T18:06:50+02:00",
-        "title": "QuèQui",
-        "subtitle": "QuèQui - Càncer, el llegat de l'evolució",
-        "description": "El càncer és una malaltia coneguda per tothom, però sovint no gaire ben entesa. Es desencadena quan certes cèl·lules defectuoses deixen de participar harmoniosament en el funcionament de l'organisme i comencen a rutllar de manera completament individualista i dissonant. Metafòricament diríem que perden l'altruisme necessari per viure en societat i es converteixen en entitats egoistes. Aquesta transformació és un llegat de la pròpia evolució i es remunta milers de milions d'anys enrere, quan el nostre planeta només l'habitaven organismes unicel·lulars.La vida va aparèixer dins l'aigua, i molts ambients aquàtics són encara reservoris, càpsules del temps, on hi podem trobar formes de vida molt primitives, similars als primers éssers vius de la Terra. Agafarem algunes mostres per observar-les al microscopi i entendrem, per primera vegada, el càncer a través de l'ecologia microbiana. ",
-        "genre": "ALTRES",
+        "start": "2026-09-16T20:59:42+02:00",
+        "stop": "2026-09-16T21:01:55+02:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
