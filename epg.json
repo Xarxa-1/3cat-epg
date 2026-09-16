@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-16T18:53:58.712730+00:00",
+  "updated": "2026-09-16T21:51:10.665226+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,101 +43,101 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-16T20:15:07+02:00",
-        "stop": "2026-09-16T21:00:00+02:00",
-        "title": "Està passant",
-        "subtitle": "Està passant",
-        "description": "La Natza i la Núria ens parlen de les pluges i de les noves mesures per a Xarxes Socials de la Unió Europea. L'Elisenda Carod surt al carrer per parlar d'intel·ligència artificial i l'Alba Riera ens porta els millors culebrots de l'audiència",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
+        "start": "2026-09-16T23:35:36+02:00",
+        "stop": "2026-09-17T00:06:15+02:00",
+        "title": "L'un per l'altre",
+        "subtitle": "L'un per l'altre - Les festes d'Horta",
+        "description": "El Toni descobreix que la majoria dels seus alumnes no coneixen res de la historia del seu propi barri. Indignat per aquesta situació decideix recuperar les festes populars d'Horta ajudat pel Sorribes i la resta de professors. D'altra banda la resta de personatges prefereixen aprofitar les festes de Gràcia que secundar la iniciativa del Toni.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "image": ""
       },
       {
-        "start": "2026-09-16T21:00:00+02:00",
-        "stop": "2026-09-16T22:20:29+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "Telenotícies vespre",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "start": "2026-09-17T00:06:15+02:00",
+        "stop": "2026-09-17T00:35:34+02:00",
+        "title": "Blanc sobre blanc",
+        "subtitle": "Blanc sobre blanc - Matèria",
+        "description": "Xavier Corberó ens convida a la seva casa taller d'Esplugues de Llobregat, un entramat de passadissos i galeries a través dels quals farem un repàs de la seva obra i dels materials emprats al llarg de la seva trajectòria. I entrem al taller de Gerard Mas, un escultor que utilitza els materials i les tècniques més tradicionals per a realitzar una obra intemporal, irònica i provocativa. ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-16T20:00:00+02:00",
-        "stop": "2026-09-16T21:00:00+02:00",
+        "start": "2026-09-16T22:05:00+02:00",
+        "stop": "2026-09-17T00:00:00+02:00",
+        "title": "Mésnit",
+        "subtitle": "",
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
+      },
+      {
+        "start": "2026-09-17T00:00:00+02:00",
+        "stop": "2026-09-17T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-09-16T21:00:00+02:00",
-        "stop": "2026-09-16T22:05:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-16T20:30:00+02:00",
-        "stop": "2026-09-16T21:25:31+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Gol a gol - Prèvia Barça-Racing / J6",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-09-16T23:36:17+02:00",
+        "stop": "2026-09-17T00:42:36+02:00",
+        "title": "I l'Àliga vola: Sergi Mingote, K2",
+        "subtitle": "I l'Àliga vola: Sergi Mingote, K2 - L'Àliga vola",
+        "description": "'I l'àliga vola' narra l'últim repte de Sergi Mingote, fer cim al K2, la segona muntanya més alta del món i una de les més mortíferes, i fer-ho a l'hivern, que és el que en aquell moment encara ningú havia aconseguit.Però el mateix temps el documental també narra totes les vivències que envolten les expedicions així com el dia a dia de la seva família mentre ell intentava aconseguir el seu repte. És doncs, un viatge intern i extern que vindrà acompanyat dels testimonis d'aquells que han format part de la vida del Sergi, acompanyant-lo en els seus reptes.",
+        "genre": "DOCUMENTAL",
+        "image": ""
       },
       {
-        "start": "2026-09-16T21:25:31+02:00",
-        "stop": "2026-09-16T23:29:55+02:00",
-        "title": "Un dia de partit",
-        "subtitle": "Un dia de partit - Barça-Racing",
-        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
+        "start": "2026-09-17T00:42:36+02:00",
+        "stop": "2026-09-17T01:07:17+02:00",
+        "title": "E3",
+        "subtitle": "E3 - Monster Jam / Anaheim / 1",
+        "description": "Aquesta competició de motor compta amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles!",
+        "genre": "REPORTATGES",
+        "image": "https://statics.ccma.cat/multimedia/jpg/3/3/1747128751633.jpg "
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-16T20:37:23+02:00",
-        "stop": "2026-09-16T21:00:00+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Henry Danger - Bonavista Té Talent",
-        "description": "Quan diversos participants d'un popular concurs de talents comencen a desmaiar-se misteriosament, en Henry i el Capità Man investiguen què s'amaga darrere l'espectacle.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-16T23:49:26+02:00",
+        "stop": "2026-09-17T00:10:26+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - Ballarins voladors",
+        "description": "Després que l'Aviva hagi confessat que ballar no és el seu fort, en Martin i en Chris han decidit anar-se'n a la selva de Nova Guinea a buscar espècies dels increïbles ocells del paradís, els millors ballarins del món. Aviat, però, cauran a la trampa de la Donita, que està preparant la seva nova línia de vestits amb plomes. Ara li toca a l'Aviva entrar en acció!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-16T21:00:00+02:00",
-        "stop": "2026-09-16T21:22:17+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Bola de drac Z - En Cèl·lula aconsegueix una audiència televisiva del cent per cent",
-        "description": "En Cèl·lula envaeix uns estudis de televisió per anunciar que d'aquí nou dies començarà el seu torneig, on hi convoca els guerrers més poderosos de tot el món. Si no hi ha ningú capaç de derrotar-lo, exterminarà tots els habitants del planeta. En Trunks li demana a la Bulma que li talli els cabells i decideix entrenar-se també a la Sala de l'Esperit del Temps.",
+        "start": "2026-09-17T00:10:26+02:00",
+        "stop": "2026-09-17T00:31:25+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - L'Ullassos, el rei de la nit",
+        "description": "En Chris i en Martin s'han emportat l'últim invent de l'Aviva, les Ulleres de Visió Nocturna de Gran Potència, però ho han fet sense demanar-li permís, perquè saben que encara no estan del tot acabades. Les necessiten per localitzar un tarser i aprendre'n els costums, però aviat es quedaran a les fosques... i hauran de salvar tota una família de tarsers!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-16T20:18:31+02:00",
-        "stop": "2026-09-16T20:59:42+02:00",
-        "title": "Un món de Jocs",
-        "subtitle": "Un món de Jocs - Ritus de pas",
-        "description": "En totes les cultures, dominar un joc és símbol de pas de la infantesa a l'edat adulta. A vegades, els ritus d'iniciació són cruels, a vegades són perillosos, però aquests jocs ens preparen per a la vida. Ens envien al món preparats per a defensar-nos. En aquest episodi, ens fixem en els espais de joc que ajuden els nostres fills a conèixer els seus cossos, les seves fortaleses i les seves debilitats.Savika, MadagascarKungfu, la XinaSumo, el japóCurses de rens, Finlàndia",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
+        "start": "2026-09-16T22:46:53+02:00",
+        "stop": "2026-09-17T00:35:53+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Pel·lícula - Tootsie",
+        "description": "TOOTSIE (Tootsie)Idioma versió original: anglèsProducció: Sydney Pollack i Dick Richards per a Mirage/Punch i Columbia, 1982Direcció: Sydney Pollack / Durada: 116 minuts Guió: Larry Gelbart i Murray SchisgalFotografia: Owen Roizman (color)Música: Dave GrusinIntèrprets: Dustin Hoffman (Michael Dorsey / Dorothy Michaels), Jessica Lange (Julie), Teri Garr (Sandy), Dabney Coleman (Ron), Charles Durning (Les), Bil Murray (Jeff)No hi ha ningú que vulgui contractar l'actor Michael Dorsey perquè s'ha barallat amb tots els productors de Nova York. Quan la seva amiga Sandy fracassa en una prova per fer d'actriu en una sèrie de televisió. Michael es fa passar per 'Dorothy Michaels' i aconsegueix el paper. En la conxorxa hi ha ficats, a més, el seu agent, George, i el seu company d'habitació, Jeff. Tot rutlla molt bé fins que 'Dorothy' s'enamora de Julie, la preciosa actriu que hi fa de coprotagonista, i el pare de Julie, Les, s'enamora de 'Dorothy'.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/8/1787914062487.jpg"
       },
       {
-        "start": "2026-09-16T20:59:42+02:00",
-        "stop": "2026-09-16T21:01:55+02:00",
-        "title": "SENSE FI CANAL 33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-09-17T00:35:53+02:00",
+        "stop": "2026-09-17T00:59:35+02:00",
+        "title": "Nens de la ruta de la seda",
+        "subtitle": "Nens de la ruta de la seda - El nen forçut",
+        "description": "En Lochin és un nen de l'Uzbekistan que forma part d'una companyia de circ familiar. Tot i que des de fa una temporada li toca fer de pallasso als espectacles, ell el que vol de debò és ser l'home forçut, com el seu avi. Gràcies a la seva força de voluntat i entrenant-se molt, anirà enfortint els músculs i s'anirà preparant per aconseguir el repte que s'ha proposat: deixar que un cotxe li passi per sobre el braç. Se'n sortirà?",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
