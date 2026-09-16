@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-15T22:52:43.025541+00:00",
+  "updated": "2026-09-16T00:59:40.194286+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-16T00:09:33+02:00",
-        "stop": "2026-09-16T01:52:47+02:00",
-        "title": "Mésnit",
-        "subtitle": "Mésnit",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
-      },
-      {
-        "start": "2026-09-16T01:52:47+02:00",
+        "start": "2026-09-16T01:51:54+02:00",
         "stop": "2026-09-16T04:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-16T04:00:00+02:00",
+        "stop": "2026-09-16T05:00:01+02:00",
+        "title": "Ritmes a l'estudi",
+        "subtitle": "Ritmes a l'estudi - DE DIEGO BROTHERS",
+        "description": "Des de l'any 1993, aquest quintet, liderat pels germans De Diego, no ha deixat de tocar. El seu repertori es pot situar estilísticament als anys setanta; un període en què el jazz es barreja amb ritmes afrocubans, el 'bogaloo' o el funk. La força i la frescor del seu directe els ha dut a tocar als festivals més representatius de jazz de tot l'estat.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-16T00:30:00+02:00",
-        "stop": "2026-09-16T01:00:00+02:00",
+        "start": "2026-09-16T01:00:00+02:00",
+        "stop": "2026-09-16T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-16T01:00:00+02:00",
-        "stop": "2026-09-16T06:00:00+02:00",
+        "start": "2026-09-16T06:00:00+02:00",
+        "stop": "2026-09-16T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-16T00:52:29+02:00",
-        "stop": "2026-09-16T02:23:46+02:00",
-        "title": "Onze",
-        "subtitle": "Onze",
-        "description": "Fem tertúlia amb Jordi Costa, Gemma Mallorca, Víctor Lozano i Joan Poquí. Repassem la prèvia del Barça-Racing. Veiem els gols de l'Elx-Madrid i el Rayo-Espanyol. El Predicador Òscar Pérez-Dolz posa els tertulians a lloc, ve Fran Domènech i la seva Onzeclopèdia i acabem amb l'1x1 d'Òscar Nin.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-16T02:44:34+02:00",
+        "stop": "2026-09-16T04:02:56+02:00",
+        "title": "E3D",
+        "subtitle": "E3D - Skate / Extreme Barcelona / Final femenina",
+        "description": "Final femenina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
       },
       {
-        "start": "2026-09-16T02:23:46+02:00",
-        "stop": "2026-09-16T02:47:37+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "3CatInfo Esports",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-16T04:02:56+02:00",
+        "stop": "2026-09-16T04:59:04+02:00",
+        "title": "E3D",
+        "subtitle": "E3D - Scooter Park / Extreme Barcelona / Final masculina",
+        "description": "Final masculina d'scootering park a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-16T00:52:10+02:00",
-        "stop": "2026-09-16T01:03:38+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Les Sisters - L'intercanvi",
-        "description": "La Marine i la Wendy no paren de barallar-se. Al Didjé i a la Nath els passa el mateix. De mutu acord, decideixen intercanviar-se germans i germanes! La Marine serà la germana del Didjé, i la Wendy, la de la Nath... Però la Marine i la Wendy tornen a discutir immediatament i la Nath i el Didjé fugen. Les dues germanes acaben destrossant l'habitació de la Marine!",
+        "start": "2026-09-16T02:46:01+02:00",
+        "stop": "2026-09-16T03:06:39+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Capitana Hardrock",
+        "description": "Avui és la festa de la música, i la Marinette i els seus amics es preparen per fer un concert a la barcassa de la mare de la Juleka. El problema és que fan massa soroll, i el Roger, el policia insisteix perquè redueixin els decibels. L'Anarka, la mare de la Juleka no s'ho prendrà gaire bé, i l'Esfinx ho aprofitarà, com sempre.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-16T01:03:38+02:00",
-        "stop": "2026-09-16T01:14:41+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Les Sisters - Prohibit als menors de 12 anys",
-        "description": "La Wendy vol anar al ball de Pom-les-Bains amb el Maxence. La Marine també hi vol anar i vol obligar la seva germana a posar-se un vestit de princesa molt cursi. La Wendy no se'l pensa posar ni boja! Però quan a la Marine se li fica una cosa al cap, és capaç de fer el que sigui per fer-la realitat.",
+        "start": "2026-09-16T03:06:39+02:00",
+        "stop": "2026-09-16T03:27:17+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - El patinador",
+        "description": "L'Adrien creu que potser estàs enamorat de la Kagami, la companya d'esgrima, i la convida a anar a patinar sobre gel. Però li demana a la Marinette que l'acompanyi. Allà, el professor de patinatge s'enfronta amb el problema del tancament del palau de gel, i l'Esfinx ho aprofitarà per convertir-lo en un nou supermalvat, el Patinador.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-15T22:54:46+02:00",
-        "stop": "2026-09-16T01:00:47+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - Batman begins",
-        "description": "BATMAN BEGINS (Batman begins)Quan tenia 8 anys, Bruce Wayne va caure en una cova plena de ratpenats i des d'aleshores li van fer por. Una nit va demanar als seus pares de marxar d'un espectacle on sortien personatges disfressats de ratpenat. Un cop al carrer, un assassí va matar els pares i Bruce va quedar traumatitzat per la culpa. Uns anys més tard, Bruce, turmentat pel desig de venjança, marxa de la seva ciutat, Gotham, i viatja per tot el món buscant maneres de lluitar contra la injustícia. Finalment troba un home misteriós que l'instrueix en el domini de tot un seguit de disciplines físiques i mentals que el convertiran en un ésser poderós i invencible: Batman.Idioma versió original: anglèsProducció: Warner Bros. Pictures, Syncopy, De Comics i Patalex Productions, 2004 (Estats Units)Direcció: Christopher NolanDurada: 134 minutsGuió: Christopher Nolan i David S. Goyer, basat en els personatges de còmic creats per Bob KaneFotografia: Wally Pfister (color)Música: James Newton Howard i Hans ZimmerIntèrprets: Christian Bale (Bruce Wayne / Batman), Michael Caine (Alfred), Liam Neeson (Henri Ducard), Katie Holmes (Rachel Dwes), Gary Oldman (Jim Gordon), Cilliam Murphy (doctor Crane)",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/8/3/1786952691638.jpg"
+        "start": "2026-09-16T02:52:46+02:00",
+        "stop": "2026-09-16T03:44:48+02:00",
+        "title": "Sota terra",
+        "subtitle": "Sota terra - Cabrera de Mar, Ilturo: ciutat o vila romana?",
+        "description": "Va ser Cabrera de Mar una gran ciutat romana durant el segle II aC? La descoberta fa uns quants anys d'unes termes romanes a Cabrera (les més antigues de la península Ibèrica) era un clar indici, però cal demostrar-ho. Era una ciutat o només era un territori on hi havia diferents vil·les romanes dedicades a l'explotació agrícola? Decidim excavar diferents punts amb dos objectius: si confirmem que Cabrera tenia trama urbana (és a dir, carrers), i si podem confirmar que s'hi encunyava moneda, podrem afirmar amb rotunditat que Cabrera era una ciutat romana. I no una ciutat qualsevol: sinó, juntament amb Empúries i Tarraco, la ciutat a partir de la qual va començar la romanització del territori català, aleshores habitat i dominat per les diferents tribus iberes.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-16T01:00:47+02:00",
-        "stop": "2026-09-16T01:21:28+02:00",
-        "title": "Nens de la ruta de la seda",
-        "subtitle": "Nens de la ruta de la seda - El rei mico",
-        "description": "En Yang és un nen xinès que ha d'interpretar el Rei dels Micos, el protagonista d'una obra de la famosa Òpera de Pequín. És un somni fet realitat, ja que aquest personatge és el seu heroi. Però és un paper molt complicat i que requereix una gran preparació física. En Yang no té cap amic íntim i tots els alumnes de la seva classe li diuen que l'òpera no els agrada gens. Ell decideix convidar tres alumnes a l'estrena, que queden molt sorpresos i el feliciten per la seva actuació.",
+        "start": "2026-09-16T03:44:48+02:00",
+        "stop": "2026-09-16T04:10:39+02:00",
+        "title": "Boscos",
+        "subtitle": "Boscos - Boscos de Pi Roig (Cadí)",
+        "description": "En Martí Boada s'enfila al Cadí, per descobrir els boscos de pi roig, el segon arbre més abundant a Catalunya. Visitarem el pi roig més emblemàtic del país: el Pi de les Tres Branques. L'Ignasi Amat presentarà un projecte nou que dóna feina al bosc per facilitar la integració social i laboral per a col·lectius desafavorits; amb en Joan Obiols, un antic bosquerol, aprendrem com es talaven els arbres antigament i veurem de prop imatges espectaculars d'una colònia de voltors que, sota la batuta de l'Aleix Millet, s'està reproduint i aportant grans beneficis a la zona.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
