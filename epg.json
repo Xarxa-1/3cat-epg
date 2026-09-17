@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-17T00:01:13.304469+00:00",
+  "updated": "2026-09-17T04:50:10.534512+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-17T01:00:00+02:00",
-        "stop": "2026-09-17T04:00:00+02:00",
+        "start": "2026-09-17T06:00:00+02:00",
+        "stop": "2026-09-17T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,25 +52,16 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-17T04:00:00+02:00",
-        "stop": "2026-09-17T05:00:01+02:00",
-        "title": "Ritmes a l'estudi",
-        "subtitle": "Ritmes a l'estudi - DR. GO",
-        "description": "El trio es mou sota l'estela dels 'Organ combos', sorgits a finals dels 90 i amb regust de l'era daurada dels trios de Hammond. El resultat és una trobada entre el jazz modern, l'electrofunk, el rock i, fins i tot, el bolero. Francisco Suáez a l'orgue, Ignasi Cussó a la guitarra i Ramón Díaz a la bateria. Són Dr. Go.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-17T08:00:00+02:00",
+        "stop": "2026-09-17T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "Matins",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
-      {
-        "start": "2026-09-17T01:00:00+02:00",
-        "stop": "2026-09-17T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-09-17T06:00:00+02:00",
         "stop": "2026-09-17T08:00:00+02:00",
@@ -79,65 +70,74 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-17T08:00:00+02:00",
+        "stop": "2026-09-17T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-17T01:07:19+02:00",
-        "stop": "2026-09-17T02:32:19+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Gol a gol - Post Barça-Racing / J6",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-09-17T06:46:27+02:00",
+        "stop": "2026-09-17T06:55:02+02:00",
+        "title": "E3",
+        "subtitle": "E3 - XLV Edició 24 Hores Ciclomotors Vall del Tenes",
+        "description": "45a edició de les 24 Hores Internacionals de Resistència en Ciclomotors de la Vall del Tenes disputada al Circuit de Can Montcau, a Lliçà d'Amunt.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/6/1788947889566.jpg"
       },
       {
-        "start": "2026-09-17T02:32:19+02:00",
-        "stop": "2026-09-17T03:24:45+02:00",
-        "title": "WRC",
-        "subtitle": "WRC - Ral·li de Xile / WRC 2026 / Resum final",
-        "description": "Antepenúltima prova del Campionat del Món. El Ral·li de Xile té un recorregut de 311 quilòmetres, per carreteres de terra, en 16 trams cronometrats. Els moments decisius i les imatges més espectaculars amb la conducció de Noel Rodríguez, i l'assistència de Santi Torres.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"
+        "start": "2026-09-17T06:55:02+02:00",
+        "stop": "2026-09-17T07:32:10+02:00",
+        "title": "Zona Zàping Club",
+        "subtitle": "Zona Zàping Club - Mari Pau Huguet tanca l'estiu acceptant l'últim gran repte",
+        "description": "La darrera convidada de la temporada posa a prova la seva intuïció en una edició molt especial d''Això acaba...', amb el Zapi preparat per entregar els últims premis de l'estiu.",
+        "genre": "ESPECIALS",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-17T01:46:37+02:00",
-        "stop": "2026-09-17T02:05:17+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Viatges Pokémon - Espasa i escut: des d’aquí fins a l’Eternatus!",
-        "description": "El Goh i la Sonia desxifren els misteris de la llegenda de l'heroi de Galar, i mentrestant el Lionel sospita que el president Rose en trama alguna. El Rose va donar suport al Lionel com a entrenador promesa, però quan el Lionel i l'Ash s'hi encaren pels Pokémon que causen estralls, descobreixen que el seu suport al Lionel formava part d'un pla per restaurar el Pokémon llegendari Eternatus, antigament conegut per Negra Nit. El Rose vol utilitzar l'energia il·limitada de l'Eternatus per Galar, encara que al mateix temps provoqui la destrucció. Mentre el Lionel es disposa a capturar l'Eternatus i tancar-lo per sempre, l'Ash combat contra el Rose. Per la seva banda, el Goh s'enfronta amb el desafiament de l'Olívia, la secretària del Rose. Havent de lluitar en tants fronts, ¿se'n sortiran, els nostres herois?",
+        "start": "2026-09-17T06:45:28+02:00",
+        "stop": "2026-09-17T06:58:21+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "L'abella Maia - Sortida reial",
+        "description": "Cansada de totes les obligacions de la reialesa, la reina ha decidit sortir un momentet del rusc a prendre l'aire. A fora es troba amb la Maia, que està més que contenta de poder-li ensenyar totes les meravelles del prat. La passejada cada vegada es fa més emocionant, però el rusc, sense l'abella reina, aviat comença a semblar una olla de grills!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-17T02:05:17+02:00",
-        "stop": "2026-09-17T02:24:47+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Viatges Pokémon - Espasa i escut: les llegendes es desperten!",
-        "description": "El president Rose està decidit a utilitzar el destructiu Pokémon llegendari Eternatus per produir energia il·limitada, i l'Ash i el Goh lluiten de valent per impedir que això passi. Al principi sembla que el Rose té avantatge, però el Riolu de l'Ash de sobte evoluciona en el Lucario i derrota els Pokémon del Rose. En un altre lloc, el Goh i el Raboot combaten contra l'Olívia, la secretària del Rose. La cosa pinta malament pel Goh, fins que el Raboot evoluciona en el Cinderace. Els nostres herois ajunten esforços i descobreixen que l'espasa i l'escut de la llegenda de l'heroi de Galar són en realitat el Zacian i el Zamazenta, que apareixen just a temps per ajudar a derrotar l'Eternatus. El Goh captura l'Eternatus, i després d'afegir-lo a la seva Pokédex, dona la Poké Ball a la professora Magnòlia perquè la guardi.",
+        "start": "2026-09-17T06:58:21+02:00",
+        "stop": "2026-09-17T07:09:32+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva una família d'elefants",
+        "description": "La Patrulla Peluda fa una excursió per la selva i acaba havent d'ajudar una família d'elefants!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-17T01:47:36+02:00",
-        "stop": "2026-09-17T02:01:14+02:00",
-        "title": "Pastors i ramats: un món que se'n va",
-        "subtitle": "Pastors i ramats: un món que se'n va - Un pastor mai no es retira: Montserrat Farrés, V. Pons,...",
-        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-17T06:30:02+02:00",
+        "stop": "2026-09-17T07:20:17+02:00",
+        "title": "El Foraster",
+        "subtitle": "El Foraster - Cadaqués",
+        "description": "Punt de visita obligada pels turistes i font d'inspiració per artistes de tot el món, Cadaqués és, probablement, un dels pobles més coneguts de Catalunya. Però en Quim hi arriba amb la intenció de conèixer el poble que hi ha rere la postal, perquè un poble no el coneixes fins que coneixes la seva gent. Així, entre d'altres, en Quim s'embarcarà amb l'Isca i en Linares, els últims pescadors de Port Lligat, farà una visita molt animal al parc del Cap de Creus amb en Dionís i descobrirà, de la mà de l'Eli, la vida que batega sota l'aigua de Cadaqués, en el que serà el seu bateig de submarinisme. 48 hores intenses on coneixerem l'autèntic caràcter de la gent que viu en aquest icònic poble de l'Alt Empordà.",
+        "genre": "VARIETATS",
         "image": ""
       },
       {
-        "start": "2026-09-17T02:01:14+02:00",
-        "stop": "2026-09-17T02:14:55+02:00",
-        "title": "Pastors i ramats: un món que se'n va",
-        "subtitle": "Pastors i ramats: un món que se'n va - Salvador Queraltó",
-        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-17T07:20:17+02:00",
+        "stop": "2026-09-17T08:13:01+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Experiència Catalana - Annabel",
+        "description": "Amb l'Annabel Candy, una dona australiana, visitem Montserrat i la Vall de Núria. Ja a Barcelona, la Ivana Miño la porta a la Pedrera i a l'Anella Olímpica, però el viatge no acaba aquí, sinó al Carnaval de Vilanova.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
