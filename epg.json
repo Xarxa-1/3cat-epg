@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-17T18:33:11.202600+00:00",
+  "updated": "2026-09-17T21:45:01.428900+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,101 +43,101 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-17T20:15:02+02:00",
-        "stop": "2026-09-17T21:00:00+02:00",
-        "title": "Està passant",
-        "subtitle": "Està passant",
-        "description": "La Natza i el Jair ens expliquen la visita de Salvador Illa a Extremadura. L'Oye Sherman ens porta moments màgics de la tele i la Judit Martín es converteix en instal·ladora d'aires condicionats",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
+        "start": "2026-09-17T23:19:17+02:00",
+        "stop": "2026-09-17T23:52:57+02:00",
+        "title": "Departament Amades",
+        "subtitle": "Departament Amades - El Pont del Diable",
+        "description": "El dimoni reclama l'ànima d'una noia que suposadament havia fet un pacte amb ell. A més, celebra el retrobament amb l'Arnau, el seu antic company de batalles. La Xènia estudia com treballa el Kike per documentar els minairons. ",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       },
       {
-        "start": "2026-09-17T21:00:00+02:00",
-        "stop": "2026-09-17T22:05:49+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "Telenotícies vespre",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "start": "2026-09-17T23:52:57+02:00",
+        "stop": "2026-09-18T00:36:07+02:00",
+        "title": "APM?",
+        "subtitle": "APM?",
+        "description": "Tornem amb les piles carregades, llestos per a la nostra 23ena temporada i disposats a continuar fent història! (Per cert, de moment fem el programa a TV3 els dijous a les 23:45. Però aquells que no sou uns mussols podeu estar tranquils! Per algun motiu també pengem el programa a YouTube! I, a més, també fem reemissió els diumenges abans del 'TN vespre').Aquesta setmana, Joel Díaz tindrà com a convidat sorpresa un dels personatges més estimats del folklore memaire català i de l''APM?': Jaume Creixell. Una nova entrega de 'Però vostè qui és?' (malgrat que tots ja sabem qui és) amb un convidat que té l'habilitat de convertir qualsevol resposta en patrimoni audiovisual català. Una entrevista imprevisible a una llegenda que no necessita presentació. I si no tenim raó, ens la tallem i ens fem monges.Aquesta temporada, Nerea Sanfe donarà altaveu a tot allò que la gent vulgui denunciar o promocionar per la tele, amb un 'On Falla!' més interactiu que mai! Ara vosaltres sou qui ens proposeu les idees de reportatge via Instagram! I la primera proposta? Anar a la manifestació de mestres del 8 de setembre. Aquest cop, però, la lliçó la van donarels docents. Qqueixes, reivindicacions i més d'un 'necessita millorar': el professorat va explicar als nostres micròfons què falla a les aules i quins canvis reclamen mentre la Nerea prenia apunts de tot plegat.I a més, veurem quin és el diputat del Parlament de Catalunya que farmeja lowkey més aura no kirkejadament, ens imaginarem què passarà quan la IA vulgui aniquilar la humanitat o, encara pitjor, descobreixi les frases de l''APM?' i cantarem a l'inici d'una nova temporada al peu del canó al ritme de la 'Superestrella' d'Aitana (o com en diem nosaltres, 'Súper APM?'). #APM3CAT",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/2/1442394916120.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-17T20:00:00+02:00",
-        "stop": "2026-09-17T21:00:00+02:00",
+        "start": "2026-09-17T22:05:00+02:00",
+        "stop": "2026-09-18T00:00:00+02:00",
+        "title": "Mésnit",
+        "subtitle": "",
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
+      },
+      {
+        "start": "2026-09-18T00:00:00+02:00",
+        "stop": "2026-09-18T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-09-17T21:00:00+02:00",
-        "stop": "2026-09-17T22:05:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-17T20:30:00+02:00",
-        "stop": "2026-09-17T22:23:12+02:00",
-        "title": "Handbol",
-        "subtitle": "Handbol - Montpeller-Barça / EHF Champions / J2",
-        "description": "En joc, el liderat del grup E. Després de la contundent victòria contra l'Aarhus en el partit d'estrena (39-28), el campió fa el primer desplaçament. Per la seva banda, els francesos van guanyar al Dinamo de Bucarest (27-23). Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"
+        "start": "2026-09-17T23:00:00+02:00",
+        "stop": "2026-09-18T00:30:53+02:00",
+        "title": "Onze",
+        "subtitle": "Onze",
+        "description": "L'Onze es passeja per BarçaAventura, el parc temàtic en què Flick ha convertit el seu equip. Un Barça de vertigen, d'alta velocitat...un depredador de rivals. Analitzem el gran moment del líder de la lliga amb Jordi Martí, Juvenal Edjogo, Irati Vidal i David Bernabéu. També ens visita el Colegiado i les polèmiques arbitrals amb vídeo inclòs de Real Madrid TV. Mayola ens dissecciona el partit de Cancelo i Adeyemi. I acabem amb el consultori d'en Sergi Ferrer.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-17T22:23:12+02:00",
-        "stop": "2026-09-17T23:00:00+02:00",
-        "title": "Hoquei patins",
-        "subtitle": "Hoquei patins - França-Catalunya / GoldenCat masculina / J1",
-        "description": "La selecció catalana masculina d'hoquei patins juga contra França el primer partit a la GoldenCat.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"
+        "start": "2026-09-18T00:30:53+02:00",
+        "stop": "2026-09-18T00:50:30+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "3CatInfo Esports",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-17T20:16:43+02:00",
-        "stop": "2026-09-17T20:37:44+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Henry Danger - Atrapats en dos forats",
-        "description": "En Henry i en Ray queden atrapats en una situació inesperada mentre els seus amics intenten esbrinar què els ha passat.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-17T23:26:54+02:00",
+        "stop": "2026-09-17T23:47:54+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - A la recerca del disc d'hipopòtam",
+        "description": "Després de perdre un disc de poder animal a la sabana africana, en Chris i en Martin es veuen obligats a fer les mil i una per evitar que caigui a mans de Zach Virusmàtic. T'imagines què seria capaç de fer l'inventor que fabrica robots amb animals, si tingués la tecnologia del poder animal dels germans Kratt?",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-17T20:37:44+02:00",
-        "stop": "2026-09-17T21:00:00+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Henry Danger - Els globus maleïts",
-        "description": "El doctor Minyak segresta la reunió dels Man Fans amb un nou pla que obliga el Capità Man i en Kid Danger a intervenir.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-17T23:47:54+02:00",
+        "stop": "2026-09-18T00:08:55+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - Competició de poders animals",
+        "description": "Després de veure's atrapats enmig d'una baralla entre un rinoceront i un elefant molt enfadats, els germans Kratt decideixen fer un concurs per comprovar qui és el més fort. Segons en Chris guanyarà el rinoceront, que pot córrer molt més de pressa. En Martin, en canvi, es decanta per l'elefant, que pesa dues tones més! Doncs que guanyi el millor!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-17T20:02:20+02:00",
-        "stop": "2026-09-17T20:59:28+02:00",
+        "start": "2026-09-17T22:51:40+02:00",
+        "stop": "2026-09-17T23:48:39+02:00",
         "title": "Un planeta perfecte",
-        "subtitle": "Un planeta perfecte - El Sol",
-        "description": "L'energia que la Terra rep del Sol és imprescindible per a la vida. Totes les regions del nostre planeta reben la mateixa quantitat d'hores de sol al llarg de l'any, però la inclinació de l'eix sobre el qual gira la Terra fa que el repartiment de les hores de llum i de foscor sigui desigual a tot arreu excepte a l'equador. Ara bé, els éssers vius sempre han sabut adaptar-se als efectes de les diferències d'insolació.",
+        "subtitle": "Un planeta perfecte - El Temps",
+        "description": "El temps pot canviar dia a dia, fins i tot cada hora, però des de fa mil·lennis, els patrons climàtics anuals s'han mantingut estables. La vida a la Terra depèn d'aquesta fiabilitat. La varietat de pluges per tot el planeta configura molts hàbitats: des d'una clapa de bosc a Zàmbia fins a l'Amazones, i des de Sud-àfrica fins al desert de Gobi, al nostre planeta perfecte hi ha moltes espècies que depenen del temps.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": "https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"
       },
       {
-        "start": "2026-09-17T20:59:28+02:00",
-        "stop": "2026-09-17T21:01:11+02:00",
-        "title": "SENSE FI CANAL 33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-09-17T23:48:39+02:00",
+        "stop": "2026-09-18T00:38:34+02:00",
+        "title": "Alaska salvatge",
+        "subtitle": "Alaska salvatge - Hivern",
+        "description": "Un terç d'Alaska és dins del cercle polar àrtic, cosa que fa que l'hivern hi sigui una estació especialment dura, marcada per un fred intensíssim, que congela totes les masses d'aigua, i fins tot el mar. A més, la claror disminueix radicalment, sobretot a l'extrem nord, on el sol es pon durant més de dos mesos. Amb tot, la notable resistència dels habitants d'Alaska els permet suportar els rigors de l'hivern de maneres enginyoses, ja sigui hivernant o buscant fonts d'aliment alternatives",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
