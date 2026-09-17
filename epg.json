@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-17T09:47:00.963418+00:00",
+  "updated": "2026-09-17T14:36:30.418742+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-17T10:30:38+02:00",
-        "stop": "2026-09-17T13:55:00+02:00",
-        "title": "Tot es mou",
-        "subtitle": "Tot es mou",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
-        "genre": "MAGAZINE",
+        "start": "2026-09-17T16:02:14+02:00",
+        "stop": "2026-09-17T16:41:16+02:00",
+        "title": "Com si fos ahir",
+        "subtitle": "Com si fos ahir",
+        "description": "La Cinta vol apropar la Cristina a en Fede, però ho fa d'una manera tan estranya que la Cristina comença a imaginar-se una situació molt incòmoda. L'Agustí gaudeix d'estar amb en Marcel, però cada moment amb el seu fill li recorda la conversa que encara no s'atreveix a tenir. I en Carles intenta demostrar a en Valeri que ara sí que posa la família al davant, mentre mira de quedar bé amb la nova direcció de l'empresa.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-09-17T13:55:00+02:00",
-        "stop": "2026-09-17T14:30:00+02:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "Telenotícies comarques",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "start": "2026-09-17T16:38:57+02:00",
+        "stop": "2026-09-17T17:17:25+02:00",
+        "title": "La Riera",
+        "subtitle": "La Riera",
+        "description": "A punt per enterrar l'Ignasi, surten a la llum molts sentiments. Alguns, molt evidents. Altres, sorprenents.",
+        "genre": "TELENOVEL·LA",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-17T10:30:00+02:00",
-        "stop": "2026-09-17T12:00:00+02:00",
+        "start": "2026-09-17T16:00:00+02:00",
+        "stop": "2026-09-17T17:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-17T12:00:00+02:00",
-        "stop": "2026-09-17T13:55:00+02:00",
+        "start": "2026-09-17T17:00:00+02:00",
+        "stop": "2026-09-17T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,67 +83,77 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-17T11:35:29+02:00",
-        "stop": "2026-09-17T13:00:00+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Gol a gol - Post Barça-Racing / J6",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-09-17T16:08:53+02:00",
+        "stop": "2026-09-17T16:57:52+02:00",
+        "title": "Vida",
+        "subtitle": "Vida - Primats",
+        "description": "Els primats són excepcionalment intel·ligents i solucionen problemes, es comuniquen, fan servir eines i interaccionen socialment. Al Congo, coneix un grup estretament unit de goril·les de les terres baixes occidentals liderats per un esquena platejada, els cops de pit del qual envien ones expansives a més d'un quilòmetre a través del bosc; observa mares langur de Phayre gris a Tailàndia lluitant pel privilegi de cuidar cries de color taronja brillant; presencia les violentes disputes de mil babuïns sagrats i uneix-te a la caça d'ous de tauró dels babuïns negres a la costa de Sud-àfrica. ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-17T13:00:00+02:00",
-        "stop": "2026-09-17T14:01:04+02:00",
-        "title": "Esport Club",
-        "subtitle": "Esport Club",
-        "description": "En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-17T16:57:52+02:00",
+        "stop": "2026-09-17T17:23:42+02:00",
+        "title": "Catalunya salvatge",
+        "subtitle": "Catalunya salvatge - Naturalesa en perill",
+        "description": "'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-17T11:36:48+02:00",
-        "stop": "2026-09-17T11:49:50+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Les Sisters - Amb la mateixa moneda",
-        "description": "La Wendy demana la setmanada als pares i la Marine també en vol. Però la Wendy se'n burla: li diu que no és prou gran i que els diners no li durarien ni dos minuts. Ah, sí? La Marine pensa demostrar als pares que la Wendy és una autèntica malgastadora. Després de caure en les trampes de la seva germana, la Wendy li pensa pagar amb la mateixa moneda.",
+        "start": "2026-09-17T16:33:16+02:00",
+        "stop": "2026-09-17T16:40:20+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "En Grizzy i els Lèmmings - Amb tots els sentits",
+        "description": "Mentre es barallen per l'últim pot de crema de xocolata, en Grizzy i els Lèmmings el llancen per accident al bell mig de la selva. Tots s'hi endinsen a buscar-lo, però en un bosc tan frondós és una missió impossible. En un temple maia, els Lèmmings descobreixen un braçalet màgic que multiplica per deu el sentit de l'olfacte i l'utilitzen per trobar el pot de crema de xocolata. En Grizzy els perd de vista, però també acaba trobant uns braçalets màgics: un per millorar la vista i l'altre, l'oïda. Amb ells trobarà els Lèmmings en un tres i no res!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-17T11:49:50+02:00",
-        "stop": "2026-09-17T12:02:40+02:00",
-        "title": "Ghost Rockers",
-        "subtitle": "Ghost Rockers",
-        "description": "Els Ghost Rockers estan decidits a tirar endavant el pla d'en Jonas: anar a la piscina abandonada sense el llibre i plantar cara a la reina de trèvols. Amb el que no comptaven és amb el càstig que la senyora Van der Donck imposa a la Mila i a la Charlie, i amb la insistència de la Jana a acompanyar en Jimmy. El que semblava un pla senzill, s'acaba complicant. I molt.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-17T16:40:20+02:00",
+        "stop": "2026-09-17T16:51:58+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "El Mic i els seus amics - Jugar sense parar",
+        "description": "Sigui a jocs de taula, jocs tradicionals o jocs inventats, el Mic i els seus amics sempre estan a punt per jugar! ",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-17T11:20:07+02:00",
-        "stop": "2026-09-17T11:52:26+02:00",
-        "title": "Tot el temps del món",
-        "subtitle": "Tot el temps del món - Joan-Lluís Lluís",
-        "description": "Anna Guitart té 'Tot el temps del món' per parlar amb l'escriptor Joan-Lluís Lluís.recomanacions literàries són:LÈXIC FAMILIAR de Natalia Ginzburg,ENTRE ELLS DOS de Richard Ford,POR Stefan Zweig.",
-        "genre": "ENTREVISTES",
+        "start": "2026-09-17T16:31:27+02:00",
+        "stop": "2026-09-17T17:07:19+02:00",
+        "title": "QuèQui",
+        "subtitle": "QuèQui - Desxifrant l'Iber",
+        "description": "La pedra més famosa de la història és la pedra de Rosetta. La va trobar al segle XIX un soldat de l'exèrcit de Napoleó durant les campanyes pel Nord d'Àfrica a delta del Nil, prop del poble de Rosetta, del que va prendre el nom. Conté un text escrit en tres llengües: jeroglífics egipcis, demòtic i grec clàssic. Després d'anys de recerca el francès Champolion va aconseguir desxifrar els jeroglífics, quan se'n va adonar que el demòtic era en realitat l'escriptura de la llengua copta, parlada per una comunitat de cristians que viu a Egipte des de fa mil·lennis. Aquest descobriment va ser cabdal per l'egiptologia, ja que va permetre per fi llegir totes les inscripcions dels centenars de tombes, piràmides i els temples, i reconstruir la història detallada de totes les dinasties de faraons s'han anat succeint en el tro d'Egipte. Sense anar més lluny, sense aquest descobriment, no sabríem el nom del faraó més famós de la història Tutankamon.A la península ibèrica tenim una altra llengua extingida i enigmàtica que malauradament encara no s'ha aconseguit desxifrar: la llengua dels ibers. S'han trobat un munt de restes arqueològiques amb l'escriptura ibera, en monedes, ceràmica, làpides funeràries i tauletes de plom. Algun text fins i tot escrit en bilingüe en llatí i iber, però són massa curts per permetre traduccions. Podríem pensar que aquesta llengua s'ha perdut per sempre i mai no podrem saber què van escriure els nostres ancestres fa 2.500 anys.Tanmateix, amb el progrés de la ciència, el desxiframent de l'iber no és impossible. La intel·ligència artificial i la lingüística quantitativa podrien ser la nova pedra de Rosetta.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-17T11:52:26+02:00",
-        "stop": "2026-09-17T11:59:48+02:00",
-        "title": "Cuines",
-        "subtitle": "Cuines - Musclos en escabetx de remolatxa",
-        "description": "",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-17T17:07:19+02:00",
+        "stop": "2026-09-17T17:42:23+02:00",
+        "title": "QuèQui",
+        "subtitle": "QuèQui - Rectificant Gaudí",
+        "description": "Per enrajolar calen rajoles. Les més típiques són quadrades, com les tessel·les dels mosaics romans, o rectangulars. També es pot enrajolar amb rajoles hexagonals, octogonals... I quin és el resultat d'enrajolar amb rajoles de formes regulars? Patrons regulars (periòdics). Si volem obtenir un patró irregular (aperiòdic) hem de fer com Gaudí i utilitzar el trencadís, de formes completament irregulars. Tanmateix, el àrabs, experts en l'art del tessel·lat, ja van descobrir que amb unes poques formes regulars és possible obtenir un patró aperiòdic, és a dir, que no es repeteix mai, en un espai infinit! Des d'aleshores es va iniciar una cursa entre geòmetres per reduir el nombre de formes regulars amb les que aconseguir-ho. Enguany, el matemàtic amater David Smith va descobrir una única forma regular i la seva imatge especular amb la qual obté un patró aperiòdic. Enrajolarem una habitació amb ella per comprovar que el patró no es repeteix.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "oca1": [],
     "oca2": [],
-    "oca3": [],
+    "oca3": [
+      {
+        "start": "2026-09-17T15:01:32+02:00",
+        "stop": "2026-09-17T20:01:27+02:00",
+        "title": "La consellera Parlon compareix a la Comissió d'Interior del Parlament",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1789632723119.jpg"
+      }
+    ],
     "oca4": []
   }
 }
