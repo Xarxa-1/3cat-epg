@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-16T21:51:10.665226+00:00",
+  "updated": "2026-09-17T00:01:13.304469+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-16T23:35:36+02:00",
-        "stop": "2026-09-17T00:06:15+02:00",
-        "title": "L'un per l'altre",
-        "subtitle": "L'un per l'altre - Les festes d'Horta",
-        "description": "El Toni descobreix que la majoria dels seus alumnes no coneixen res de la historia del seu propi barri. Indignat per aquesta situació decideix recuperar les festes populars d'Horta ajudat pel Sorribes i la resta de professors. D'altra banda la resta de personatges prefereixen aprofitar les festes de Gràcia que secundar la iniciativa del Toni.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
-        "image": ""
+        "start": "2026-09-17T01:00:00+02:00",
+        "stop": "2026-09-17T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-17T00:06:15+02:00",
-        "stop": "2026-09-17T00:35:34+02:00",
-        "title": "Blanc sobre blanc",
-        "subtitle": "Blanc sobre blanc - Matèria",
-        "description": "Xavier Corberó ens convida a la seva casa taller d'Esplugues de Llobregat, un entramat de passadissos i galeries a través dels quals farem un repàs de la seva obra i dels materials emprats al llarg de la seva trajectòria. I entrem al taller de Gerard Mas, un escultor que utilitza els materials i les tècniques més tradicionals per a realitzar una obra intemporal, irònica i provocativa. ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-17T04:00:00+02:00",
+        "stop": "2026-09-17T05:00:01+02:00",
+        "title": "Ritmes a l'estudi",
+        "subtitle": "Ritmes a l'estudi - DR. GO",
+        "description": "El trio es mou sota l'estela dels 'Organ combos', sorgits a finals dels 90 i amb regust de l'era daurada dels trios de Hammond. El resultat és una trobada entre el jazz modern, l'electrofunk, el rock i, fins i tot, el bolero. Francisco Suáez a l'orgue, Ignasi Cussó a la guitarra i Ramón Díaz a la bateria. Són Dr. Go.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-16T22:05:00+02:00",
-        "stop": "2026-09-17T00:00:00+02:00",
-        "title": "Mésnit",
+        "start": "2026-09-17T01:00:00+02:00",
+        "stop": "2026-09-17T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-17T00:00:00+02:00",
-        "stop": "2026-09-17T00:30:00+02:00",
+        "start": "2026-09-17T06:00:00+02:00",
+        "stop": "2026-09-17T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-16T23:36:17+02:00",
-        "stop": "2026-09-17T00:42:36+02:00",
-        "title": "I l'Àliga vola: Sergi Mingote, K2",
-        "subtitle": "I l'Àliga vola: Sergi Mingote, K2 - L'Àliga vola",
-        "description": "'I l'àliga vola' narra l'últim repte de Sergi Mingote, fer cim al K2, la segona muntanya més alta del món i una de les més mortíferes, i fer-ho a l'hivern, que és el que en aquell moment encara ningú havia aconseguit.Però el mateix temps el documental també narra totes les vivències que envolten les expedicions així com el dia a dia de la seva família mentre ell intentava aconseguir el seu repte. És doncs, un viatge intern i extern que vindrà acompanyat dels testimonis d'aquells que han format part de la vida del Sergi, acompanyant-lo en els seus reptes.",
-        "genre": "DOCUMENTAL",
-        "image": ""
+        "start": "2026-09-17T01:07:19+02:00",
+        "stop": "2026-09-17T02:32:19+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Gol a gol - Post Barça-Racing / J6",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-09-17T00:42:36+02:00",
-        "stop": "2026-09-17T01:07:17+02:00",
-        "title": "E3",
-        "subtitle": "E3 - Monster Jam / Anaheim / 1",
-        "description": "Aquesta competició de motor compta amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles!",
-        "genre": "REPORTATGES",
-        "image": "https://statics.ccma.cat/multimedia/jpg/3/3/1747128751633.jpg "
+        "start": "2026-09-17T02:32:19+02:00",
+        "stop": "2026-09-17T03:24:45+02:00",
+        "title": "WRC",
+        "subtitle": "WRC - Ral·li de Xile / WRC 2026 / Resum final",
+        "description": "Antepenúltima prova del Campionat del Món. El Ral·li de Xile té un recorregut de 311 quilòmetres, per carreteres de terra, en 16 trams cronometrats. Els moments decisius i les imatges més espectaculars amb la conducció de Noel Rodríguez, i l'assistència de Santi Torres.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-16T23:49:26+02:00",
-        "stop": "2026-09-17T00:10:26+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - Ballarins voladors",
-        "description": "Després que l'Aviva hagi confessat que ballar no és el seu fort, en Martin i en Chris han decidit anar-se'n a la selva de Nova Guinea a buscar espècies dels increïbles ocells del paradís, els millors ballarins del món. Aviat, però, cauran a la trampa de la Donita, que està preparant la seva nova línia de vestits amb plomes. Ara li toca a l'Aviva entrar en acció!",
+        "start": "2026-09-17T01:46:37+02:00",
+        "stop": "2026-09-17T02:05:17+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Viatges Pokémon - Espasa i escut: des d’aquí fins a l’Eternatus!",
+        "description": "El Goh i la Sonia desxifren els misteris de la llegenda de l'heroi de Galar, i mentrestant el Lionel sospita que el president Rose en trama alguna. El Rose va donar suport al Lionel com a entrenador promesa, però quan el Lionel i l'Ash s'hi encaren pels Pokémon que causen estralls, descobreixen que el seu suport al Lionel formava part d'un pla per restaurar el Pokémon llegendari Eternatus, antigament conegut per Negra Nit. El Rose vol utilitzar l'energia il·limitada de l'Eternatus per Galar, encara que al mateix temps provoqui la destrucció. Mentre el Lionel es disposa a capturar l'Eternatus i tancar-lo per sempre, l'Ash combat contra el Rose. Per la seva banda, el Goh s'enfronta amb el desafiament de l'Olívia, la secretària del Rose. Havent de lluitar en tants fronts, ¿se'n sortiran, els nostres herois?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-17T00:10:26+02:00",
-        "stop": "2026-09-17T00:31:25+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - L'Ullassos, el rei de la nit",
-        "description": "En Chris i en Martin s'han emportat l'últim invent de l'Aviva, les Ulleres de Visió Nocturna de Gran Potència, però ho han fet sense demanar-li permís, perquè saben que encara no estan del tot acabades. Les necessiten per localitzar un tarser i aprendre'n els costums, però aviat es quedaran a les fosques... i hauran de salvar tota una família de tarsers!",
+        "start": "2026-09-17T02:05:17+02:00",
+        "stop": "2026-09-17T02:24:47+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Viatges Pokémon - Espasa i escut: les llegendes es desperten!",
+        "description": "El president Rose està decidit a utilitzar el destructiu Pokémon llegendari Eternatus per produir energia il·limitada, i l'Ash i el Goh lluiten de valent per impedir que això passi. Al principi sembla que el Rose té avantatge, però el Riolu de l'Ash de sobte evoluciona en el Lucario i derrota els Pokémon del Rose. En un altre lloc, el Goh i el Raboot combaten contra l'Olívia, la secretària del Rose. La cosa pinta malament pel Goh, fins que el Raboot evoluciona en el Cinderace. Els nostres herois ajunten esforços i descobreixen que l'espasa i l'escut de la llegenda de l'heroi de Galar són en realitat el Zacian i el Zamazenta, que apareixen just a temps per ajudar a derrotar l'Eternatus. El Goh captura l'Eternatus, i després d'afegir-lo a la seva Pokédex, dona la Poké Ball a la professora Magnòlia perquè la guardi.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-16T22:46:53+02:00",
-        "stop": "2026-09-17T00:35:53+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - Tootsie",
-        "description": "TOOTSIE (Tootsie)Idioma versió original: anglèsProducció: Sydney Pollack i Dick Richards per a Mirage/Punch i Columbia, 1982Direcció: Sydney Pollack / Durada: 116 minuts Guió: Larry Gelbart i Murray SchisgalFotografia: Owen Roizman (color)Música: Dave GrusinIntèrprets: Dustin Hoffman (Michael Dorsey / Dorothy Michaels), Jessica Lange (Julie), Teri Garr (Sandy), Dabney Coleman (Ron), Charles Durning (Les), Bil Murray (Jeff)No hi ha ningú que vulgui contractar l'actor Michael Dorsey perquè s'ha barallat amb tots els productors de Nova York. Quan la seva amiga Sandy fracassa en una prova per fer d'actriu en una sèrie de televisió. Michael es fa passar per 'Dorothy Michaels' i aconsegueix el paper. En la conxorxa hi ha ficats, a més, el seu agent, George, i el seu company d'habitació, Jeff. Tot rutlla molt bé fins que 'Dorothy' s'enamora de Julie, la preciosa actriu que hi fa de coprotagonista, i el pare de Julie, Les, s'enamora de 'Dorothy'.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/8/1787914062487.jpg"
+        "start": "2026-09-17T01:47:36+02:00",
+        "stop": "2026-09-17T02:01:14+02:00",
+        "title": "Pastors i ramats: un món que se'n va",
+        "subtitle": "Pastors i ramats: un món que se'n va - Un pastor mai no es retira: Montserrat Farrés, V. Pons,...",
+        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-17T00:35:53+02:00",
-        "stop": "2026-09-17T00:59:35+02:00",
-        "title": "Nens de la ruta de la seda",
-        "subtitle": "Nens de la ruta de la seda - El nen forçut",
-        "description": "En Lochin és un nen de l'Uzbekistan que forma part d'una companyia de circ familiar. Tot i que des de fa una temporada li toca fer de pallasso als espectacles, ell el que vol de debò és ser l'home forçut, com el seu avi. Gràcies a la seva força de voluntat i entrenant-se molt, anirà enfortint els músculs i s'anirà preparant per aconseguir el repte que s'ha proposat: deixar que un cotxe li passi per sobre el braç. Se'n sortirà?",
+        "start": "2026-09-17T02:01:14+02:00",
+        "stop": "2026-09-17T02:14:55+02:00",
+        "title": "Pastors i ramats: un món que se'n va",
+        "subtitle": "Pastors i ramats: un món que se'n va - Salvador Queraltó",
+        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
