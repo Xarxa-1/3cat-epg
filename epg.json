@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-17T21:45:01.428900+00:00",
+  "updated": "2026-09-17T23:43:08.490341+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-17T23:19:17+02:00",
-        "stop": "2026-09-17T23:52:57+02:00",
-        "title": "Departament Amades",
-        "subtitle": "Departament Amades - El Pont del Diable",
-        "description": "El dimoni reclama l'ànima d'una noia que suposadament havia fet un pacte amb ell. A més, celebra el retrobament amb l'Arnau, el seu antic company de batalles. La Xènia estudia com treballa el Kike per documentar els minairons. ",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
-      },
-      {
-        "start": "2026-09-17T23:52:57+02:00",
-        "stop": "2026-09-18T00:36:07+02:00",
-        "title": "APM?",
-        "subtitle": "APM?",
-        "description": "Tornem amb les piles carregades, llestos per a la nostra 23ena temporada i disposats a continuar fent història! (Per cert, de moment fem el programa a TV3 els dijous a les 23:45. Però aquells que no sou uns mussols podeu estar tranquils! Per algun motiu també pengem el programa a YouTube! I, a més, també fem reemissió els diumenges abans del 'TN vespre').Aquesta setmana, Joel Díaz tindrà com a convidat sorpresa un dels personatges més estimats del folklore memaire català i de l''APM?': Jaume Creixell. Una nova entrega de 'Però vostè qui és?' (malgrat que tots ja sabem qui és) amb un convidat que té l'habilitat de convertir qualsevol resposta en patrimoni audiovisual català. Una entrevista imprevisible a una llegenda que no necessita presentació. I si no tenim raó, ens la tallem i ens fem monges.Aquesta temporada, Nerea Sanfe donarà altaveu a tot allò que la gent vulgui denunciar o promocionar per la tele, amb un 'On Falla!' més interactiu que mai! Ara vosaltres sou qui ens proposeu les idees de reportatge via Instagram! I la primera proposta? Anar a la manifestació de mestres del 8 de setembre. Aquest cop, però, la lliçó la van donarels docents. Qqueixes, reivindicacions i més d'un 'necessita millorar': el professorat va explicar als nostres micròfons què falla a les aules i quins canvis reclamen mentre la Nerea prenia apunts de tot plegat.I a més, veurem quin és el diputat del Parlament de Catalunya que farmeja lowkey més aura no kirkejadament, ens imaginarem què passarà quan la IA vulgui aniquilar la humanitat o, encara pitjor, descobreixi les frases de l''APM?' i cantarem a l'inici d'una nova temporada al peu del canó al ritme de la 'Superestrella' d'Aitana (o com en diem nosaltres, 'Súper APM?'). #APM3CAT",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/2/1442394916120.jpg"
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-09-17T22:05:00+02:00",
-        "stop": "2026-09-18T00:00:00+02:00",
+        "start": "2026-09-18T00:36:10+02:00",
+        "stop": "2026-09-18T02:22:42+02:00",
         "title": "Mésnit",
-        "subtitle": "",
+        "subtitle": "Mésnit",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
         "genre": "DEBAT",
         "image": ""
       },
       {
-        "start": "2026-09-18T00:00:00+02:00",
-        "stop": "2026-09-18T00:30:00+02:00",
+        "start": "2026-09-18T02:22:42+02:00",
+        "stop": "2026-09-18T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-09-18T01:00:00+02:00",
+        "stop": "2026-09-18T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-18T06:00:00+02:00",
+        "stop": "2026-09-18T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-17T23:00:00+02:00",
-        "stop": "2026-09-18T00:30:53+02:00",
+        "start": "2026-09-18T00:49:34+02:00",
+        "stop": "2026-09-18T02:20:04+02:00",
         "title": "Onze",
         "subtitle": "Onze",
         "description": "L'Onze es passeja per BarçaAventura, el parc temàtic en què Flick ha convertit el seu equip. Un Barça de vertigen, d'alta velocitat...un depredador de rivals. Analitzem el gran moment del líder de la lliga amb Jordi Martí, Juvenal Edjogo, Irati Vidal i David Bernabéu. També ens visita el Colegiado i les polèmiques arbitrals amb vídeo inclòs de Real Madrid TV. Mayola ens dissecciona el partit de Cancelo i Adeyemi. I acabem amb el consultori d'en Sergi Ferrer.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-18T00:30:53+02:00",
-        "stop": "2026-09-18T00:50:30+02:00",
+        "start": "2026-09-18T02:20:04+02:00",
+        "stop": "2026-09-18T02:39:15+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "3CatInfo Esports",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-17T23:26:54+02:00",
-        "stop": "2026-09-17T23:47:54+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - A la recerca del disc d'hipopòtam",
-        "description": "Després de perdre un disc de poder animal a la sabana africana, en Chris i en Martin es veuen obligats a fer les mil i una per evitar que caigui a mans de Zach Virusmàtic. T'imagines què seria capaç de fer l'inventor que fabrica robots amb animals, si tingués la tecnologia del poder animal dels germans Kratt?",
+        "start": "2026-09-18T01:25:15+02:00",
+        "stop": "2026-09-18T01:45:11+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Viatges Pokémon - Un combat inesperat i instructiu!",
+        "description": "L'Ash i el Goh s'assabenten que s'ha detectat un senyal en una illa llunyana que es creu que prové del Mew i decideixen anar-hi per investigar-ho. Allà troben una natura plena de Pokémon salvatges, entre ells un grup de Pokémon que, espantats, fugen d'ells. Els segueixen i s'emporten una gran sorpresa quan veuen aparèixer el Mewtwo! Comparteixen els seus objectius amb el Mewto, que accedeix a combatre contra ells, però el seu poder és infinitament superior. L'Ash i el Goh, després de ser derrotats, s'adonen que el Mewtwo protegeix Pokemon que han estat maltractats per humans. El Mewtwo i els Pokémon se'n van, i l'Ash i el Goh queden molt impressionats per tot el que han viscut! ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-17T23:47:54+02:00",
-        "stop": "2026-09-18T00:08:55+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - Competició de poders animals",
-        "description": "Després de veure's atrapats enmig d'una baralla entre un rinoceront i un elefant molt enfadats, els germans Kratt decideixen fer un concurs per comprovar qui és el més fort. Segons en Chris guanyarà el rinoceront, que pot córrer molt més de pressa. En Martin, en canvi, es decanta per l'elefant, que pesa dues tones més! Doncs que guanyi el millor!",
+        "start": "2026-09-18T01:45:11+02:00",
+        "stop": "2026-09-18T02:04:20+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Viatges Pokémon - La coronació del rei dels golafres!",
+        "description": "Se celebra el Gran Concurs de Menjar Pokémon i els nostres herois estan afamats per competir-hi. L'Ash i el Dragonite, junt amb el Goh i l'Skwovet, s'enfronten amb anteriors guanyadors del concurs de menjar, entre ells l'Emperador Blaziken, mundialment famós. I qui completa el quadre de concursants? El Team Rocket i el Morkepo, que està més enfurismat que mai. Un rere l'altre, els concursants es van eliminant fins que només en queden dos: l'Skwovet i el Morkepo. Al Morkepo el pressionen massa i el Team Rocket torna a fallar. L'Skwovet, que només ha de menjar un altre plat per guanyar, sembla que ja està ben tip, però de sobte evoluciona en un Greedent, supera el Morkepo i guanya el concurs.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-17T22:51:40+02:00",
-        "stop": "2026-09-17T23:48:39+02:00",
-        "title": "Un planeta perfecte",
-        "subtitle": "Un planeta perfecte - El Temps",
-        "description": "El temps pot canviar dia a dia, fins i tot cada hora, però des de fa mil·lennis, els patrons climàtics anuals s'han mantingut estables. La vida a la Terra depèn d'aquesta fiabilitat. La varietat de pluges per tot el planeta configura molts hàbitats: des d'una clapa de bosc a Zàmbia fins a l'Amazones, i des de Sud-àfrica fins al desert de Gobi, al nostre planeta perfecte hi ha moltes espècies que depenen del temps.",
+        "start": "2026-09-18T01:30:39+02:00",
+        "stop": "2026-09-18T01:52:24+02:00",
+        "title": "Nens de la ruta de la seda",
+        "subtitle": "Nens de la ruta de la seda - Una nena lluny de casa",
+        "description": "La Nastia (13) és la capitana d'un equip professional de gimnàstica a Kíiv. Les noies de l'equip són les seves millors amigues. Juntes guanyen el campionat nacional de gimnàstica rítmica i tot va millor que mai. Un mes més tard, esclata la guerra a Ucraïna i la Nastia s'ha de mudar amb la seva àvia a Alemanya. Ara la Nàstia ha de construir-se una nova vida lluny dels seus pares i de les seves amigues. No sap quan podrà tornar a Kíiv ni quan podrà tornar a veure els seus pares i les seves amigues. A la Nastia, l'espera a Alemanya se li fa molt llarga, però quan s'uneix a l'equip alemany de gimnàstica, la vida comença a ser bonica de nou.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"
+        "image": ""
       },
       {
-        "start": "2026-09-17T23:48:39+02:00",
-        "stop": "2026-09-18T00:38:34+02:00",
-        "title": "Alaska salvatge",
-        "subtitle": "Alaska salvatge - Hivern",
-        "description": "Un terç d'Alaska és dins del cercle polar àrtic, cosa que fa que l'hivern hi sigui una estació especialment dura, marcada per un fred intensíssim, que congela totes les masses d'aigua, i fins tot el mar. A més, la claror disminueix radicalment, sobretot a l'extrem nord, on el sol es pon durant més de dos mesos. Amb tot, la notable resistència dels habitants d'Alaska els permet suportar els rigors de l'hivern de maneres enginyoses, ja sigui hivernant o buscant fonts d'aliment alternatives",
+        "start": "2026-09-18T01:52:24+02:00",
+        "stop": "2026-09-18T02:12:14+02:00",
+        "title": "Nens de la ruta de la seda",
+        "subtitle": "Nens de la ruta de la seda - Les millors amigues",
+        "description": "L'Emine (10) viu en un petit poble al nord-est de Turquia. Ella i la seva millor amiga, l'Eda Nur (11) veuen a les notícies que acaba d'haver-hi un fort terratrèmol a 400 km del poble on viuen. Amb el temor, de fons, de la possibilitat de viure un terratrèmol, coneixem les vicissituds de la seva amistat. Les dues noies s'estan preparant per al seu primer concert de sac de gemecs tradicional turc, però l'Emine està gelosa de les habilitats de l'Eda Nur i això fa que la seva amistat perilli.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
