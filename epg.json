@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-18T18:38:32.545710+00:00",
+  "updated": "2026-09-18T21:15:08.472910+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,101 +43,101 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-18T20:15:00+02:00",
-        "stop": "2026-09-18T21:00:00+02:00",
-        "title": "Està passant",
-        "subtitle": "Està passant",
-        "description": "Resum dels millors moments de la setmana",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
+        "start": "2026-09-18T22:28:41+02:00",
+        "stop": "2026-09-18T23:22:35+02:00",
+        "title": "Documental",
+        "subtitle": "Documental - És a l'aire",
+        "description": "'ÉS A L'AIRE' (2019), una producció de Un Capricho de Producciones, S.L. en coproducció amb Televisió de Catalunya, amb el suport de Col·lectiu Ronda, l'Ajuntament del Morell i l'Ajuntament de Vilallonga del Camp.Segons l'Agència Europea del Medi Ambient, el principal focus contaminant de l'aire que respirem no és el trànsit, sinó la indústria. Al centre del Camp de Tarragona, s'hi aixeca el Complex Petroquímic de Tarragona. L'any 2012, un equip de la Universitat Politècnica de Catalunya, dirigit per Francesc Xavier Roca, va fer un estudi independent sobre la qualitat de l'aire del territori. Els resultats indicaven la presència de nivells molt alts de diferents tipus de gasos tòxics que poden arribar a provocar càncer. L'any 2015, un altre estudi d'aquest equip confirmava la presència a l'aire de substàncies malignes per a la salut. A finals de 2018, aquests científics emprenen un nou estudi sobre la contaminació atmosfèrica en aquest territori.Equip tècnicDirecció i realització: Christophe Sion / Santi SuárezGuió: Santi SuárezProductor: Belén Sánchez i Santi SuárezProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Daniel BareaDirector fotografia: Christophe DesplanquesMuntatge: Carlos Prieto i Anaïs UrracaDirector de producció: Agnès BatlloriMúsica: David Pastor i Mario RoldánLingüista: Judit TerratsGrafisme: Adriana Perón i Kote BerberechoVeu en off: Núria Deulofeu",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-18T21:00:00+02:00",
-        "stop": "2026-09-18T22:05:40+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "Telenotícies vespre",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "start": "2026-09-18T23:22:35+02:00",
+        "stop": "2026-09-18T23:53:34+02:00",
+        "title": "3 Minuts",
+        "subtitle": "3 Minuts - Ronda 1 - Albert Roig, Alexia Luna, Yael Brusca i Termi fa coses",
+        "description": "Primera ronda i estrena de '3 minuts', el primer torneig ràpid de stand-up en català de TV3 amb quatre concursants que no us deixaran indiferents (si sou els seus familiars). Dues còmiques, un còmic i un senyor de Tortosa s'enfrontaran entre ells (no físicament, tot i que tant de bo) per poder superar la ronda. Qui passarà a la gran final on podrà guanyar 5.000 euros i la participació al festival Cruïlla Comedy? El programa compta amb un jurat implacable, format per Marc Sarrats, Raquel Hervás i Irene Minovas, i amb la Charlie Pee com a mestra de cerimònies.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-18T20:00:00+02:00",
-        "stop": "2026-09-18T21:00:00+02:00",
+        "start": "2026-09-18T22:05:00+02:00",
+        "stop": "2026-09-18T23:30:00+02:00",
+        "title": "Mésnit",
+        "subtitle": "",
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
+      },
+      {
+        "start": "2026-09-18T23:30:00+02:00",
+        "stop": "2026-09-19T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-09-18T21:00:00+02:00",
-        "stop": "2026-09-18T22:05:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-18T20:37:58+02:00",
-        "stop": "2026-09-18T20:55:00+02:00",
-        "title": "Esport Club",
-        "subtitle": "Esport Club",
-        "description": "Roberto i Fermín, les grans novetats de la selecció espanyola. Hansi Flick en la prèvia del Sevilla-Barça de demà. Avui, Espanyol-Elx al RCDE Stadium. Granollers acull el Mundial d'handbol en cadira de rodes. En parlem amb Álvaro Ferrer, regidor d'Esports de l'Ajuntament de la capital vallesana. A la tertúlia ens acompanyen Nacho Peña, David Sánchez i Laia Cervelló.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-18T23:00:01+02:00",
+        "stop": "2026-09-19T00:30:49+02:00",
+        "title": "Onze",
+        "subtitle": "Onze",
+        "description": "Míriam Riau fa tertúlia amb Lluís Carrasco, Carme Lluveras, Juli Garcia i Albert Rogé. Jugarà Szczesny a Sevilla? Amb Àlex Delmàs fem la clau del Sevilla-Barça. Parlem amb Siro López. Joan Fàbregas ens diu qui arbitrarà el derbi madrileny. Acabem amb Òscar Nin i una selecció de samarretes espantoses.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-18T20:55:00+02:00",
-        "stop": "2026-09-18T23:04:01+02:00",
-        "title": "Futbol sala",
-        "subtitle": "Futbol sala - Barça-Peníscola / Primera Divisió / J2",
-        "description": "Els dos conjunts van començar el campionat amb una victòria, i volen sumar tres punts més per mantenir-se al capdavant de la classificació. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
+        "start": "2026-09-19T00:30:49+02:00",
+        "stop": "2026-09-19T00:51:36+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "3CatInfo Esports",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-18T20:37:37+02:00",
-        "stop": "2026-09-18T20:59:59+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Henry Danger - Un directe perillós, segona part",
-        "description": "Amb el pla de Frankini ja en marxa, els amics d'en Henry lluiten contra rellotge per evitar que tot se'n vagi en orris.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-18T23:05:25+02:00",
+        "stop": "2026-09-18T23:27:11+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - Quin trencacolls!",
+        "description": "Mentre en Chris i en Martin intenten esbrinar com és que les girafes tenen el coll tan llarg, una girafa molt trapella els comença a prendre trossos del vestit de poder animal i provisions de la nau Tortuga. A més de tenir el coll molt llarg, també la sap molt llarga! I si no l'aturen a temps, al final potser acabaran tots amb l'aigua al coll!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-18T20:59:59+02:00",
-        "stop": "2026-09-18T21:22:15+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Bola de drac Z - En Dende activa les Boles de Drac",
-        "description": "Després de passar pel Palau del Totpoderós, en Son Goku fa un canvi de lloc instantani i es presenta a Namek per parlar amb en Dende, que accepta el repte i l'honor de ser el nou déu de la Terra. La primera missió del nou déu serà activar les Boles de Drac per poder ressuscitar tots els morts que en Cèl·lula ha deixat a la Terra.",
+        "start": "2026-09-18T23:27:11+02:00",
+        "stop": "2026-09-18T23:48:12+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - Cuques o mones?",
+        "description": "Avui en Martin, que sap que en un tros de selva de la mida d'un camp de futbol hi pot haver més de 70.000 espècies d'insectes diferents, està decidit a sortir a buscar cuques. El que passa és que en Chris té un altre pla: endur-se el seu germà miniaturitzat a la motxilla i anar a seguir mones aranya per dalt dels arbres. Qui se sortirà amb la seva?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-18T20:07:19+02:00",
-        "stop": "2026-09-18T20:59:47+02:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "Els quaderns de cuina de la Julie - La vall dels Baus",
-        "description": "En aquest episodi la Julie visita la regió dels Baus, al peu del massís dels Alpilles. Primer de tot coneix en Marcel, un productor d'olives. Després, amb l'Annie i les seves filles l'Anne i la Magali, que són oleïcultores, prepara una orada amb fonoll i un fricot amb olives trencades. Amb l'Alexandre, que és productor de fenc i fill de ramader, fa una recepta de toro amb arròs amb fenc. Amb en Pierre, que és confiter, descobreix com es fan les fruites confitades de la regió. Finalment, amb la Jeanne, prepara un menjar blanc típic de la Provença.",
+        "start": "2026-09-18T22:48:20+02:00",
+        "stop": "2026-09-18T23:32:53+02:00",
+        "title": "Groenlàndia, supervivència als confins de la Terra",
+        "subtitle": "Groenlàndia, supervivència als confins de la Terra - Groenlàndia, supervivència als confins de...",
+        "description": "Al primer episodi de Groenlàndia, supervivència als confins de la Terra, caminem per la segona capa de gel més gran del món. Observem els magnífics fiords alimentats per la majestuosa glacera que tenen al darrere. A la ciutat pesquera d'Ilulissat, degustem la cuina local i veiem l'artesania antiga. Després, ens dirigim cap al llac de Tasersuatsiaq, llar del gran bou mesquer. Camí del nord amb la Kisaq, visitem mines abandonades i descobrim una tràgica història de vaixells i mariners atrapats al gel. Finalment, ens aturem a Upervanik a comprar provisions per la següent part del viatge: cap al cim del món.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-18T20:59:47+02:00",
-        "stop": "2026-09-18T21:01:24+02:00",
-        "title": "SENSE FI CANAL 33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-09-18T23:32:53+02:00",
+        "stop": "2026-09-19T00:15:48+02:00",
+        "title": "Groenlàndia, supervivència als confins de la Terra",
+        "subtitle": "Groenlàndia, supervivència als confins de la Terra - Groenlàndia, supervivència als confins de...",
+        "description": "Al segon episodi de Groenlàndia, supervivència als confins de la Terra, pugem a un trineu per veure com cacen els inuits en aquest ambient tan extrem. A bord de la Kisaq travessem el mal temps, i passem pel costat de colònies de somorgollaires i gavinetes. Som testimonis del canvi climàtic quan s'esfondren a l'oceà. Pobles pesquers esquitxen la costa. Coneixem la caça de supervivència dels inuits: des de gavotins atlàntics fins als depredadors més ferotges del món, els ossos polars. En trobem un exemplar abans d'arribar a Siorapaluk, i continuem per descobrir què hi ha més enllà del regne dels homes.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
