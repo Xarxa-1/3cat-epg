@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-18T21:15:08.472910+00:00",
+  "updated": "2026-09-18T23:26:37.545006+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-18T22:28:41+02:00",
-        "stop": "2026-09-18T23:22:35+02:00",
-        "title": "Documental",
-        "subtitle": "Documental - És a l'aire",
-        "description": "'ÉS A L'AIRE' (2019), una producció de Un Capricho de Producciones, S.L. en coproducció amb Televisió de Catalunya, amb el suport de Col·lectiu Ronda, l'Ajuntament del Morell i l'Ajuntament de Vilallonga del Camp.Segons l'Agència Europea del Medi Ambient, el principal focus contaminant de l'aire que respirem no és el trànsit, sinó la indústria. Al centre del Camp de Tarragona, s'hi aixeca el Complex Petroquímic de Tarragona. L'any 2012, un equip de la Universitat Politècnica de Catalunya, dirigit per Francesc Xavier Roca, va fer un estudi independent sobre la qualitat de l'aire del territori. Els resultats indicaven la presència de nivells molt alts de diferents tipus de gasos tòxics que poden arribar a provocar càncer. L'any 2015, un altre estudi d'aquest equip confirmava la presència a l'aire de substàncies malignes per a la salut. A finals de 2018, aquests científics emprenen un nou estudi sobre la contaminació atmosfèrica en aquest territori.Equip tècnicDirecció i realització: Christophe Sion / Santi SuárezGuió: Santi SuárezProductor: Belén Sánchez i Santi SuárezProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Daniel BareaDirector fotografia: Christophe DesplanquesMuntatge: Carlos Prieto i Anaïs UrracaDirector de producció: Agnès BatlloriMúsica: David Pastor i Mario RoldánLingüista: Judit TerratsGrafisme: Adriana Perón i Kote BerberechoVeu en off: Núria Deulofeu",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
-        "start": "2026-09-18T23:22:35+02:00",
-        "stop": "2026-09-18T23:53:34+02:00",
-        "title": "3 Minuts",
-        "subtitle": "3 Minuts - Ronda 1 - Albert Roig, Alexia Luna, Yael Brusca i Termi fa coses",
-        "description": "Primera ronda i estrena de '3 minuts', el primer torneig ràpid de stand-up en català de TV3 amb quatre concursants que no us deixaran indiferents (si sou els seus familiars). Dues còmiques, un còmic i un senyor de Tortosa s'enfrontaran entre ells (no físicament, tot i que tant de bo) per poder superar la ronda. Qui passarà a la gran final on podrà guanyar 5.000 euros i la participació al festival Cruïlla Comedy? El programa compta amb un jurat implacable, format per Marc Sarrats, Raquel Hervás i Irene Minovas, i amb la Charlie Pee com a mestra de cerimònies.",
-        "genre": "ALTRES",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-09-18T22:05:00+02:00",
-        "stop": "2026-09-18T23:30:00+02:00",
+        "start": "2026-09-19T01:24:51+02:00",
+        "stop": "2026-09-19T02:43:18+02:00",
         "title": "Mésnit",
-        "subtitle": "",
+        "subtitle": "Mésnit",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
         "genre": "DEBAT",
         "image": ""
       },
       {
-        "start": "2026-09-18T23:30:00+02:00",
-        "stop": "2026-09-19T00:30:00+02:00",
+        "start": "2026-09-19T02:43:18+02:00",
+        "stop": "2026-09-19T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-09-19T01:00:00+02:00",
+        "stop": "2026-09-19T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-19T06:00:00+02:00",
+        "stop": "2026-09-19T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-18T23:00:01+02:00",
-        "stop": "2026-09-19T00:30:49+02:00",
+        "start": "2026-09-19T00:52:58+02:00",
+        "stop": "2026-09-19T02:26:39+02:00",
         "title": "Onze",
         "subtitle": "Onze",
         "description": "Míriam Riau fa tertúlia amb Lluís Carrasco, Carme Lluveras, Juli Garcia i Albert Rogé. Jugarà Szczesny a Sevilla? Amb Àlex Delmàs fem la clau del Sevilla-Barça. Parlem amb Siro López. Joan Fàbregas ens diu qui arbitrarà el derbi madrileny. Acabem amb Òscar Nin i una selecció de samarretes espantoses.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-19T00:30:49+02:00",
-        "stop": "2026-09-19T00:51:36+02:00",
+        "start": "2026-09-19T02:26:39+02:00",
+        "stop": "2026-09-19T02:46:34+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "3CatInfo Esports",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-18T23:05:25+02:00",
-        "stop": "2026-09-18T23:27:11+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - Quin trencacolls!",
-        "description": "Mentre en Chris i en Martin intenten esbrinar com és que les girafes tenen el coll tan llarg, una girafa molt trapella els comença a prendre trossos del vestit de poder animal i provisions de la nau Tortuga. A més de tenir el coll molt llarg, també la sap molt llarga! I si no l'aturen a temps, al final potser acabaran tots amb l'aigua al coll!",
+        "start": "2026-09-19T01:26:49+02:00",
+        "stop": "2026-09-19T01:46:45+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Viatges Pokémon - Entrenar, o no entrenar!",
+        "description": "Mentre van cap a l'escola, la Chloe explica al Goh que encara no ha decidit si mai capturarà un Pokémon. Mentrestant, el Yamper capta l'atenció d'un Eevee al Laboratori d'Evolució dels Eevee fins al punt que s'escapa amb ell, però els investigadors els persegueixen. Els Pokémon se'n van a l'escola, i quan la Chloe i el Goh surten a veure què passa, troben els investigadors i també el Team Rocket. La Chloe, el Yamper i l'Eevee ajuden a derrotar el Team Rocket, però quan els investigadors volen anar-se'n amb l'Eevee, aquest gira cua i se'n va amb la Chloe. Els investigadors s'adonen de la seva amistat i deixen que l'Eevee sigui el primer Pokémon que capturi la Chloe.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-18T23:27:11+02:00",
-        "stop": "2026-09-18T23:48:12+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - Cuques o mones?",
-        "description": "Avui en Martin, que sap que en un tros de selva de la mida d'un camp de futbol hi pot haver més de 70.000 espècies d'insectes diferents, està decidit a sortir a buscar cuques. El que passa és que en Chris té un altre pla: endur-se el seu germà miniaturitzat a la motxilla i anar a seguir mones aranya per dalt dels arbres. Qui se sortirà amb la seva?",
+        "start": "2026-09-19T01:46:45+02:00",
+        "stop": "2026-09-19T02:05:54+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Viatges Pokémon - Un os d’aquí, un os d’allà!",
+        "description": "L'Ash, el Goh i la Chloe viatgen amb avió a Galar per buscar fòssils rars a l'Àrea Silvestre. Allà coneixen dos investigadors de fòssils, la Carme Alalluna i el Blai Morrut. Quan aquests dos investigadors intenten restaurar dos Pokémon fòssils, en barregen les parts i en surten dos Pokémon molt estranys: el Dracovish i l'Arctozolt! El Dracovish surt corrents amb l'Ash al damunt, però es calma quan arriba a l'aigua i pot nedar. Quan l'Ash torna amb el Dracovish, els investigadors els pregunten, a ell i al Goh, si es volen fer càrrec dels dos Pokémon fòssils, i els nostres herois accepten. Mentrestant, el vincle entre la Chloe i l'Eevee es fa més fort!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-18T22:48:20+02:00",
-        "stop": "2026-09-18T23:32:53+02:00",
-        "title": "Groenlàndia, supervivència als confins de la Terra",
-        "subtitle": "Groenlàndia, supervivència als confins de la Terra - Groenlàndia, supervivència als confins de...",
-        "description": "Al primer episodi de Groenlàndia, supervivència als confins de la Terra, caminem per la segona capa de gel més gran del món. Observem els magnífics fiords alimentats per la majestuosa glacera que tenen al darrere. A la ciutat pesquera d'Ilulissat, degustem la cuina local i veiem l'artesania antiga. Després, ens dirigim cap al llac de Tasersuatsiaq, llar del gran bou mesquer. Camí del nord amb la Kisaq, visitem mines abandonades i descobrim una tràgica història de vaixells i mariners atrapats al gel. Finalment, ens aturem a Upervanik a comprar provisions per la següent part del viatge: cap al cim del món.",
+        "start": "2026-09-19T01:06:36+02:00",
+        "stop": "2026-09-19T01:27:56+02:00",
+        "title": "Nens de la ruta de la seda",
+        "subtitle": "Nens de la ruta de la seda - Les bessones venecianes",
+        "description": "La Gaia I la Giulia són bessones, tenen catorze anys i els encanta el rem. Entrenen juntes per la cursa anual de góndola 'la Regata Històrica'. Una cursa que ha unit tot Venècia des de fa set-cents anys i on competiran contra alguns dels millors remers de la ciutat. El seu pare és un gran gondoler i té grans expectatives en les seves filles.Tant la Gaia com la Giulia tenen molt de caràcter, però a banda d'això són molt diferents. Els seus desacords els impedeixen donar el millor de si mateixes quan remen. Hauran de trobar la manera de treballar juntes si volen guanyar la cursa i enorgullir el seu pare.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-18T23:32:53+02:00",
-        "stop": "2026-09-19T00:15:48+02:00",
-        "title": "Groenlàndia, supervivència als confins de la Terra",
-        "subtitle": "Groenlàndia, supervivència als confins de la Terra - Groenlàndia, supervivència als confins de...",
-        "description": "Al segon episodi de Groenlàndia, supervivència als confins de la Terra, pugem a un trineu per veure com cacen els inuits en aquest ambient tan extrem. A bord de la Kisaq travessem el mal temps, i passem pel costat de colònies de somorgollaires i gavinetes. Som testimonis del canvi climàtic quan s'esfondren a l'oceà. Pobles pesquers esquitxen la costa. Coneixem la caça de supervivència dels inuits: des de gavotins atlàntics fins als depredadors més ferotges del món, els ossos polars. En trobem un exemplar abans d'arribar a Siorapaluk, i continuem per descobrir què hi ha més enllà del regne dels homes.",
+        "start": "2026-09-19T01:27:56+02:00",
+        "stop": "2026-09-19T01:49:22+02:00",
+        "title": "Nens de la ruta de la seda",
+        "subtitle": "Nens de la ruta de la seda - La cantant de Tamarinde",
+        "description": "La Kam té dotze anys i viu als afores de Bangkok amb la seva família. Casa seva sempre ha estat plena de música: el seu pare sovint toca la guitarra, i a ella li encanta acompanyar-lo cantant. El seu somni és convertir-se en una cantant famosa i cantar davant d'un gran públic. El talent de la Kam no passa desapercebut per l'escola local de música, i quan la conviden a cantar al concert local, es posa molt nerviosa. Per animar-la, els seus professors li regalen entrades per anar a veure un concert de la seva cantant preferida i la conviden a saludar-la entre bastidors. Amb els consells de la famosa cantant i el suport del seu millor amic, aconsegueix animar-se a cantar al concert local.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
