@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-18T15:41:54.650062+00:00",
+  "updated": "2026-09-18T18:38:32.545710+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-18T17:26:09+02:00",
-        "stop": "2026-09-18T19:11:19+02:00",
-        "title": "La Selva",
-        "subtitle": "La Selva",
-        "description": "Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
+        "start": "2026-09-18T20:15:00+02:00",
+        "stop": "2026-09-18T21:00:00+02:00",
+        "title": "Està passant",
+        "subtitle": "Està passant",
+        "description": "Resum dels millors moments de la setmana",
+        "genre": "GAGS. HUMOR",
+        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
       },
       {
-        "start": "2026-09-18T19:11:19+02:00",
-        "stop": "2026-09-18T20:14:57+02:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "Atrapa'm si pots",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
-        "image": ""
+        "start": "2026-09-18T21:00:00+02:00",
+        "stop": "2026-09-18T22:05:40+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "Telenotícies vespre",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-18T17:00:00+02:00",
-        "stop": "2026-09-18T18:30:00+02:00",
+        "start": "2026-09-18T20:00:00+02:00",
+        "stop": "2026-09-18T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-18T18:30:00+02:00",
-        "stop": "2026-09-18T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-18T21:00:00+02:00",
+        "stop": "2026-09-18T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-18T16:40:08+02:00",
-        "stop": "2026-09-18T19:01:51+02:00",
-        "title": "Hoquei patins",
-        "subtitle": "Hoquei patins - França-Catalunya / GoldenCat femenina / J2",
-        "description": "La selecció catalana femenina s'enfronta amb França en el tercer i últim partit de la fase de lliga a la segona jornada de la GoldenCat.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1722012654923.jpg"
+        "start": "2026-09-18T20:37:58+02:00",
+        "stop": "2026-09-18T20:55:00+02:00",
+        "title": "Esport Club",
+        "subtitle": "Esport Club",
+        "description": "Roberto i Fermín, les grans novetats de la selecció espanyola. Hansi Flick en la prèvia del Sevilla-Barça de demà. Avui, Espanyol-Elx al RCDE Stadium. Granollers acull el Mundial d'handbol en cadira de rodes. En parlem amb Álvaro Ferrer, regidor d'Esports de l'Ajuntament de la capital vallesana. A la tertúlia ens acompanyen Nacho Peña, David Sánchez i Laia Cervelló.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       },
       {
-        "start": "2026-09-18T19:01:51+02:00",
-        "stop": "2026-09-18T19:09:42+02:00",
-        "title": "E3",
-        "subtitle": "E3 - GENT DE MAR: LA COSTA DAURADA",
-        "description": "Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis d'Altafulla, Tarragona, Salou i Cambrils. Explorarà espais naturals com el Bosc de la Marquesa, el Cap de Salou o la praderia de posidònia de Cambrils, i sempre, conversant amb tota mena de persones vinculades al mar i al territori.",
-        "genre": "REPORTATGES",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1719825714219.jpg"
+        "start": "2026-09-18T20:55:00+02:00",
+        "stop": "2026-09-18T23:04:01+02:00",
+        "title": "Futbol sala",
+        "subtitle": "Futbol sala - Barça-Peníscola / Primera Divisió / J2",
+        "description": "Els dos conjunts van començar el campionat amb una victòria, i volen sumar tres punts més per mantenir-se al capdavant de la classificació. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-18T17:34:38+02:00",
-        "stop": "2026-09-18T17:45:50+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla Peluda - La Patrulla salva una minipatrulla fora de control",
-        "description": "L'Alex i la seva Minipatrulla han agafat la moto a reacció d'en Danny l'Audaç sense voler!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-18T20:37:37+02:00",
+        "stop": "2026-09-18T20:59:59+02:00",
+        "title": "Henry Danger",
+        "subtitle": "Henry Danger - Un directe perillós, segona part",
+        "description": "Amb el pla de Frankini ja en marxa, els amics d'en Henry lluiten contra rellotge per evitar que tot se'n vagi en orris.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-09-18T17:45:50+02:00",
-        "stop": "2026-09-18T18:06:56+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla Peluda - Rescats extrems: La Patrulla salva un monstre de pel·lícula",
-        "description": "A Badia Aventures, es roda una pel·lícula amb un monstre molt gros i l'alcalde Humdinger vol que es rodi a Fons Boirós.",
+        "start": "2026-09-18T20:59:59+02:00",
+        "stop": "2026-09-18T21:22:15+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Bola de drac Z - En Dende activa les Boles de Drac",
+        "description": "Després de passar pel Palau del Totpoderós, en Son Goku fa un canvi de lloc instantani i es presenta a Namek per parlar amb en Dende, que accepta el repte i l'honor de ser el nou déu de la Terra. La primera missió del nou déu serà activar les Boles de Drac per poder ressuscitar tots els morts que en Cèl·lula ha deixat a la Terra.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-18T17:16:30+02:00",
-        "stop": "2026-09-18T18:15:33+02:00",
-        "title": "Els caps de setmana llargs d'en Rick Stein",
-        "subtitle": "Els caps de setmana llargs d'en Rick Stein - Copenhaguen",
-        "description": "A Copenhaguen, on s'allotja en una barca flotant, en Rick aprendrà unes quantes coses sobre la nova cuina nòrdica, un fenomen que ha portat la gastronomia danesa i l'interès dels danesos pel menjar a un altre nivell. Parlarà amb xefs innovadors, coneixerà una actriu que admira molt, visitarà un museu d'escultures, una església molt singular i els Jardins de Tivoli, i tastarà alguns plats emblemàtics del país, com l''smørrebrød' -pa amb coses- o els 'frikadellen' -bunyols de peix-.",
+        "start": "2026-09-18T20:07:19+02:00",
+        "stop": "2026-09-18T20:59:47+02:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "Els quaderns de cuina de la Julie - La vall dels Baus",
+        "description": "En aquest episodi la Julie visita la regió dels Baus, al peu del massís dels Alpilles. Primer de tot coneix en Marcel, un productor d'olives. Després, amb l'Annie i les seves filles l'Anne i la Magali, que són oleïcultores, prepara una orada amb fonoll i un fricot amb olives trencades. Amb l'Alexandre, que és productor de fenc i fill de ramader, fa una recepta de toro amb arròs amb fenc. Amb en Pierre, que és confiter, descobreix com es fan les fruites confitades de la regió. Finalment, amb la Jeanne, prepara un menjar blanc típic de la Provença.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-18T18:15:33+02:00",
-        "stop": "2026-09-18T19:14:36+02:00",
-        "title": "Els caps de setmana llargs d'en Rick Stein",
-        "subtitle": "Els caps de setmana llargs d'en Rick Stein - Cadis",
-        "description": "En Rick Stein aquesta vegada viatja a la ciutat andalusa de Cadis, on quedarà captivat per la llum i resseguirà el seu passat, recordant la petjada dels fenicis o la fascinant batalla de Trafalagar. I s'emocionarà amb la passió que transmet el flamenc. Tastarà, entre altres plats, peixet fregit, seitons, calamarsons o l'exquisida 'tortillita de camarones' (coca fregida de gambetes), sense oblidar el xerès. I cuinarà orada a la 'roteña', arròs verd i ous a la flamenca.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-18T20:59:47+02:00",
+        "stop": "2026-09-18T21:01:24+02:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
