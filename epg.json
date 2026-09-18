@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-18T11:49:11.809572+00:00",
+  "updated": "2026-09-18T15:41:54.650062+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-18T10:29:52+02:00",
-        "stop": "2026-09-18T13:55:00+02:00",
-        "title": "Tot es mou",
-        "subtitle": "Tot es mou",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "start": "2026-09-18T17:26:09+02:00",
+        "stop": "2026-09-18T19:11:19+02:00",
+        "title": "La Selva",
+        "subtitle": "La Selva",
+        "description": "Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!",
         "genre": "MAGAZINE",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
       },
       {
-        "start": "2026-09-18T13:55:00+02:00",
-        "stop": "2026-09-18T14:30:00+02:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "Telenotícies comarques",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "start": "2026-09-18T19:11:19+02:00",
+        "stop": "2026-09-18T20:14:57+02:00",
+        "title": "Atrapa'm si pots",
+        "subtitle": "Atrapa'm si pots",
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-18T12:00:00+02:00",
-        "stop": "2026-09-18T13:55:00+02:00",
+        "start": "2026-09-18T17:00:00+02:00",
+        "stop": "2026-09-18T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,73 +72,73 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-18T13:55:00+02:00",
-        "stop": "2026-09-18T14:30:00+02:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-09-18T18:30:00+02:00",
+        "stop": "2026-09-18T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-18T12:57:11+02:00",
-        "stop": "2026-09-18T14:01:42+02:00",
-        "title": "Esport Club",
-        "subtitle": "Esport Club",
-        "description": "Roberto i Fermín, les grans novetats de la selecció espanyola. Hansi Flick en la prèvia del Sevilla-Barça de demà. Avui, Espanyol-Elx al RCDE Stadium. Granollers acull el Mundial d'handbol en cadira de rodes. En parlem amb Álvaro Ferrer, regidor d'Esports de l'Ajuntament de la capital vallesana. A la tertúlia ens acompanyen Nacho Peña, David Sánchez i Laia Cervelló.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-18T16:40:08+02:00",
+        "stop": "2026-09-18T19:01:51+02:00",
+        "title": "Hoquei patins",
+        "subtitle": "Hoquei patins - França-Catalunya / GoldenCat femenina / J2",
+        "description": "La selecció catalana femenina s'enfronta amb França en el tercer i últim partit de la fase de lliga a la segona jornada de la GoldenCat.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1722012654923.jpg"
       },
       {
-        "start": "2026-09-18T14:01:42+02:00",
-        "stop": "2026-09-18T15:06:04+02:00",
-        "title": "Esport Club",
-        "subtitle": "Esport Club",
-        "description": "Roberto i Fermín, les grans novetats de la selecció espanyola. Hansi Flick en la prèvia del Sevilla-Barça de demà. Avui, Espanyol-Elx al RCDE Stadium. Granollers acull el Mundial d'handbol en cadira de rodes. En parlem amb Álvaro Ferrer, regidor d'Esports de l'Ajuntament de la capital vallesana. A la tertúlia ens acompanyen Nacho Peña, David Sánchez i Laia Cervelló.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-18T19:01:51+02:00",
+        "stop": "2026-09-18T19:09:42+02:00",
+        "title": "E3",
+        "subtitle": "E3 - GENT DE MAR: LA COSTA DAURADA",
+        "description": "Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis d'Altafulla, Tarragona, Salou i Cambrils. Explorarà espais naturals com el Bosc de la Marquesa, el Cap de Salou o la praderia de posidònia de Cambrils, i sempre, conversant amb tota mena de persones vinculades al mar i al territori.",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1719825714219.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-18T13:32:01+02:00",
-        "stop": "2026-09-18T13:52:49+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El detectiu Conan - En Conan atrapat a les fosques (2a part)",
-        "description": "En Conan continua sense poder sortir de la mena de caixa on està tancat a les fosques, però, per sort, aconsegueix comunicar-se amb els seus amics de la Lliga de Detectius Júnior mitjançant el pin transmissor. Els diu que li sembla que l'han tancat a dins d'un taüt i que es comença a moure, com si el transportessin amb cotxe. Mentrestant, en Kogoro Mouri investiga el cas del robatori d'un testament.",
+        "start": "2026-09-18T17:34:38+02:00",
+        "stop": "2026-09-18T17:45:50+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva una minipatrulla fora de control",
+        "description": "L'Alex i la seva Minipatrulla han agafat la moto a reacció d'en Danny l'Audaç sense voler!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-18T13:52:49+02:00",
-        "stop": "2026-09-18T14:14:16+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El detectiu Conan - Un cas d'ovnis difícil per a l'inspector Chiba (1a part)",
-        "description": "A l'inspector Chiba li ha tocat investigar un cas molt difícil: un home ha aparegut mort enganxat a una superfície de formigó que encara era fresc quan ell hi va caure de cara a terra. Al seu costat hi ha un altre home enganxat al formigó, però aquest està viu. Tot fa pensar que el segon ha matat el primer, però també hi ha indicis que uns extraterrestres han intervingut en l'assassinat.",
+        "start": "2026-09-18T17:45:50+02:00",
+        "stop": "2026-09-18T18:06:56+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - Rescats extrems: La Patrulla salva un monstre de pel·lícula",
+        "description": "A Badia Aventures, es roda una pel·lícula amb un monstre molt gros i l'alcalde Humdinger vol que es rodi a Fons Boirós.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-18T13:38:54+02:00",
-        "stop": "2026-09-18T14:09:08+02:00",
-        "title": "No tenim vergonya",
-        "subtitle": "No tenim vergonya - NTV 40 Anys Esports (4)",
-        "description": "'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.",
-        "genre": "REPORTATGES",
+        "start": "2026-09-18T17:16:30+02:00",
+        "stop": "2026-09-18T18:15:33+02:00",
+        "title": "Els caps de setmana llargs d'en Rick Stein",
+        "subtitle": "Els caps de setmana llargs d'en Rick Stein - Copenhaguen",
+        "description": "A Copenhaguen, on s'allotja en una barca flotant, en Rick aprendrà unes quantes coses sobre la nova cuina nòrdica, un fenomen que ha portat la gastronomia danesa i l'interès dels danesos pel menjar a un altre nivell. Parlarà amb xefs innovadors, coneixerà una actriu que admira molt, visitarà un museu d'escultures, una església molt singular i els Jardins de Tivoli, i tastarà alguns plats emblemàtics del país, com l''smørrebrød' -pa amb coses- o els 'frikadellen' -bunyols de peix-.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-18T14:09:08+02:00",
-        "stop": "2026-09-18T14:55:30+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La Renaixença - El pluviòmetre",
-        "description": "El pluviòmetre és l'objecte protagonista d'aquest capítol. Es pot convertir en una obsessió (si és que plou), sobretot si ets dels que envia fotos a l'espai del Temps. Ens visita l'actor Toni Albà. No sabem com, però hem acabat fent una escena d''Els Pastorets' de Folch i Torres en ple mes de setembre. I portem a passejar el gos per l'accident de les 24 hores de Le Mans del 1955. Hi portem en Rex, un gos que va tenir... un accident automobilístic. ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-09-18T18:15:33+02:00",
+        "stop": "2026-09-18T19:14:36+02:00",
+        "title": "Els caps de setmana llargs d'en Rick Stein",
+        "subtitle": "Els caps de setmana llargs d'en Rick Stein - Cadis",
+        "description": "En Rick Stein aquesta vegada viatja a la ciutat andalusa de Cadis, on quedarà captivat per la llum i resseguirà el seu passat, recordant la petjada dels fenicis o la fascinant batalla de Trafalagar. I s'emocionarà amb la passió que transmet el flamenc. Tastarà, entre altres plats, peixet fregit, seitons, calamarsons o l'exquisida 'tortillita de camarones' (coca fregida de gambetes), sense oblidar el xerès. I cuinarà orada a la 'roteña', arròs verd i ous a la flamenca.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
