@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-19T06:13:23.526013+00:00",
+  "updated": "2026-09-19T11:01:59.828856+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-19T07:59:59+02:00",
-        "stop": "2026-09-19T12:57:52+02:00",
-        "title": "Curses de Muntanya",
-        "subtitle": "Curses de Muntanya - Rialp Matxicots",
-        "description": "16a edició d'aquesta cursa de muntanya. La prova reina de la Rialp Matxicots és la Trail de 60 km i gairebé 4.700 m. de desnivell positiu. La Mitja+ amb 30 km i 2.200 m positius és tot un repte per als amants de la mitja distància. I la Popular 15k, amb més de 1.000 m. positius, recorre el cor de la Vall d'Àssua.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/5/1760443350454.jpg"
-      },
-      {
-        "start": "2026-09-19T12:58:39+02:00",
-        "stop": "2026-09-19T13:14:43+02:00",
+        "start": "2026-09-19T12:58:32+02:00",
+        "stop": "2026-09-19T13:14:36+02:00",
         "title": "Pastors i ramats: un món que se'n va",
         "subtitle": "Pastors i ramats: un món que se'n va - Joan Picas",
         "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
+      },
+      {
+        "start": "2026-09-19T13:14:36+02:00",
+        "stop": "2026-09-19T13:42:27+02:00",
+        "title": "Històries gegants",
+        "subtitle": "Històries gegants - Creació",
+        "description": "En els últims 40 anys a Catalunya s'han construït més de 4.000 gegants. I es calcula que hi ha més de 15.000 capgrossos i uns 1.500 elements de bestiari per tot el territori català. El primer programa d'HISTÒRIES GEGANTS se centra en el procés de disseny i de construcció de les figures del bestiari popular, un procés molt viu, divers i amb una enorme vitalitat arreu del territori. Coneixerem el Moisès, que promou la construcció d'un nou drac per a Calafell, al Baix Penedès; una família sencera del Vallès Oriental que es dedica professionalment a dissenyar i fabricar gegants; o els promotors d'una figura del bestiari per al carnaval de Solsona amb una particularitat molt especial: que sigui inclusiva i la pugui portar gent amb discapacitat.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-19T07:00:00+02:00",
-        "stop": "2026-09-19T10:00:00+02:00",
+        "start": "2026-09-19T12:00:00+02:00",
+        "stop": "2026-09-19T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,73 +72,73 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-19T10:00:00+02:00",
-        "stop": "2026-09-19T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-19T14:30:00+02:00",
+        "stop": "2026-09-19T16:30:00+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-19T07:57:41+02:00",
-        "stop": "2026-09-19T08:17:03+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "3CatInfo Esports",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-19T11:55:00+02:00",
+        "stop": "2026-09-19T13:54:00+02:00",
+        "title": "Futbol",
+        "subtitle": "Futbol - FC Badalona Women-Reial Societat / Lliga F / J4",
+        "description": "Les badalonines s'han situat a la part alta de la classificació gràcies a dues victòries seguides. Per contra, les donostiarres encara no han aconseguit guanyar i volen els tres punts per sortir de la zona baixa.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       },
       {
-        "start": "2026-09-19T08:17:03+02:00",
-        "stop": "2026-09-19T09:50:32+02:00",
-        "title": "Onze",
-        "subtitle": "Onze",
-        "description": "Míriam Riau fa tertúlia amb Lluís Carrasco, Carme Lluveras, Juli Garcia i Albert Rogé. Jugarà Szczesny a Sevilla? Amb Àlex Delmàs fem la clau del Sevilla-Barça. Parlem amb Siro López. Joan Fàbregas ens diu qui arbitrarà el derbi madrileny. Acabem amb Òscar Nin i una selecció de samarretes espantoses.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-19T13:54:00+02:00",
+        "stop": "2026-09-19T15:37:42+02:00",
+        "title": "Hoquei patins",
+        "subtitle": "Hoquei patins - GoldenCat femenina / 2a semifinal",
+        "description": "Des del pavelló de Can Xarau, a Cerdanyola del Vallès, el tram decisiu d'aquesta competició internacional d'hoquei patins.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1722012654923.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-19T08:14:50+02:00",
-        "stop": "2026-09-19T08:27:14+02:00",
-        "title": "Titó",
-        "subtitle": "Titó - Excursió al curset de natació",
-        "description": "Avui anirem d'excursió a la piscina i descobrirem què ens podem trobar quan fem un curset de natació. Vestuaris, dutxes, xurros, bombolles,... i en John C ens portarà a very fun water game!",
-        "genre": "ALTRES",
+        "start": "2026-09-19T13:03:08+02:00",
+        "stop": "2026-09-19T13:24:54+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - La camella Motxilla",
+        "description": "L'equip dels germans Kratt va al desert de Gobi a buscar una de les últimes manades de camells salvatges que queden al món. Gràcies a un invent de l'Aviva, poden anar fàcilment pel desert, però tenen un accident i llavors, han de continuar a peu.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-19T08:27:14+02:00",
-        "stop": "2026-09-19T08:37:02+02:00",
-        "title": "Titó",
-        "subtitle": "Titó - Excursió a la posidònia",
-        "description": "Avui anirem d'excursió a veure una planta... que viu al fons del mar! Posem-nos les ulleres d'anar a sota aigua i anem a descobrir la posidònia.",
-        "genre": "ALTRES",
+        "start": "2026-09-19T13:24:54+02:00",
+        "stop": "2026-09-19T13:46:36+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - El somni sense noms",
+        "description": "El Martin té un malson on se li presenten tot d'animals reclamant-li que els posi nom perquè se n'ha descuidat. Quan es desperta, la Koki comprova la base de dades i confirma que se n'havia descuidat uns quants. Llavors, en Martin demana ajuda a tot l'equip per complir una missió molt complicada: voltar per tot el món per posar nom als animals que han conegut i encara no en tenen.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-19T07:50:47+02:00",
-        "stop": "2026-09-19T08:43:25+02:00",
-        "title": "Viure als Pirineus- A banda i banda",
-        "subtitle": "Viure als Pirineus- A banda i banda - Cinto Gabriel i Jean Hourticq - Hivern",
-        "description": "",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-19T12:46:34+02:00",
+        "stop": "2026-09-19T13:33:00+02:00",
+        "title": "La Renaixença",
+        "subtitle": "La Renaixença - La capa",
+        "description": "Sabeu que la capa que porta Superman a l'última pel·lícula l'ha fet una empresa catalana? Només per això ja creiem just i necessari dedicar aquest capítol a la capa. De Catalunya a Hollywood només hi ha 50 metres de tela vermella. Abans la gent també portava capa, però no per volar, sinó per abrigar-se. Parlem amb la Judit Mascó, la primera supermodel catalana, que ens explica el que més por li feia durant les desfilades. I sortim a passejar l'Indi fins al 2010, quan es van comprar dues pizzes per 10.000 bitcoins.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-09-19T08:43:25+02:00",
-        "stop": "2026-09-19T09:13:17+02:00",
-        "title": "GR Pirineus",
-        "subtitle": "GR Pirineus - El pla del monstre",
-        "description": "En aquesta ruta el Marc es mou pel Pla de l'Estany, concretament des de Crespià fins a Sant Miquel de Campmajor. En total, uns 45 Km repartits en dues jornades, fets en cotxe, en bicicleta i amb un monstre de fons...De Crespià anirà a Esponellà i després a Serinyà, on viurà en pròpia pell com és la vida d'un arqueòleg. A continuació, agafarà la bici per anar fins a Banyoles. Allà rodejarà l'estany i intentarà descobrir si existeix o no el monstre de Banyoles!L'endemà anirà fins a Cornellà de Terri, on aprendrà a enforcar alls i després a cuinar-los. Continuarà fent via direcció Porqueres, on es perdrà en un bosc que amaga alguns secrets molt picants. Finalment, acabarà la ruta a Sant Miquel de Campmajor, amb les seves caramelles!",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "start": "2026-09-19T13:33:00+02:00",
+        "stop": "2026-09-19T14:05:52+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Quèquicom - Nitrogen fins a l'arrel",
+        "description": "La increïble i cruenta història del N, un element que és a les proteïnes, als explosius i als fertilitzants. Però els nitrats enverinen l'aigua. Una empresa catalana ha inventat un mètode eficaç de descontaminació.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       }
     ],
     "oca1": [],
@@ -154,6 +154,16 @@
         "image": "https://img.3cat.cat/multimedia/jpg/4/5/1760443350454.jpg"
       }
     ],
-    "oca4": []
+    "oca4": [
+      {
+        "start": "2026-09-19T10:00:06+02:00",
+        "stop": "2026-09-19T11:55:01+02:00",
+        "title": "Assemblea",
+        "subtitle": "- Assemblea General Ordinària FC Barcelona / Matí",
+        "description": "Primera part de l'Assemblea General Ordinària de Socis del Futbol Club Barcelona. Les votacions més destacades són l'ampliació del finançament per a l'Espai Barça i la ratificació dels contractes que haurien de permetre nous ingressos per al club blaugrana.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1760542682711.jpg"
+      }
+    ]
   }
 }
