@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-19T17:21:04.300284+00:00",
+  "updated": "2026-09-19T19:26:56.194063+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-19T19:00:23+02:00",
-        "stop": "2026-09-19T19:25:37+02:00",
-        "title": "Jet lag",
-        "subtitle": "Jet lag - Bibiana",
-        "description": "La Raquel, la mare de la Diana, es presenta per sorpresa i s'instal·la a casa seva. Per altra banda, totes volen anar de viatge i no saben a on. Finalment, les cinc, amb mare inclosa, marxaran a Cuba.",
-        "genre": "TELESÈRIE",
-        "image": ""
+        "start": "2026-09-19T21:00:00+02:00",
+        "stop": "2026-09-19T22:09:57+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "Telenotícies vespre",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-09-19T19:24:45+02:00",
-        "stop": "2026-09-19T20:20:22+02:00",
-        "title": "Sota terra",
-        "subtitle": "Sota terra - Empúries. La ciutat i el mur: eixample o getho?",
-        "description": "Inicialment, focalitzem la nostra atenció en dos aspectes de la ciutat romana d'Empúries. Volem saber si la trama urbana rectangular ja excavada té continuïtat per la part del recinte que encara mai s'ha excavat (és a dir, si la quadrícula de carrers és molt més gran del que se sap fins ara), i també volem confirmar o no que hi havia un misteriós mur que dividia en dos la ciutat romana d'Empúries. Una muralla de què avui queden unes poques restes visibles. Volem buscar doncs en l'Empúries mai no excavada per extreure'n conclusions potents: confirmem com es creu que l'Empúries romana era molt més gran que el que sabem ara? S'estructura en una quadrícula gegantina i absolutament regular? Tenia però un misteriós mur que la separava en dos? I si de passada trobem àmfores, estàtues, mosaics, estris de cuina o qualsevol resta arqueològica, molt millor!",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-19T22:07:20+02:00",
+        "stop": "2026-09-19T22:33:45+02:00",
+        "title": "Emocionari Il·lustrat",
+        "subtitle": "Emocionari Il·lustrat - L'amor",
+        "description": "Al capítol sobre l'amor de l''Emocionari Il·lustrat', l'artista Lily Brick tindrà una conversa reveladora amb la il·lustradora Flavita Banana, la persona que millor ha retratat l'amor a les seves vinyetes i tires còmiques. Viatjarem fins a Roquetes, on l'artista Ignasi Blanch ens dibuixarà l'amor cap a la seva terra i la família. Per acabar, la Lily aprendrà a dibuixar manga amb la Míriam Bonastre, autora de la trilogia de còmics 'Hooky', que han estat un èxit aclaparador als Estats Units entre joves i nens. Juntes faran un retrat de la Lily amb uns ulls ben brillants . ",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-19T18:30:00+02:00",
-        "stop": "2026-09-19T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-19T21:00:00+02:00",
+        "stop": "2026-09-19T23:00:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-09-19T20:00:00+02:00",
-        "stop": "2026-09-19T21:00:00+02:00",
+        "start": "2026-09-19T23:00:00+02:00",
+        "stop": "2026-09-20T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,87 +83,67 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-19T18:55:00+02:00",
-        "stop": "2026-09-19T19:41:36+02:00",
-        "title": "Hoquei patins",
-        "subtitle": "Hoquei patins - GoldenCat masculina / 2a semifinal",
-        "description": "En joc, el pas a la final de la prestigiosa competició internacional d'hoquei patins que organitza la Federació Catalana de Patinatge.",
+        "start": "2026-09-19T20:56:52+02:00",
+        "stop": "2026-09-19T22:55:00+02:00",
+        "title": "Un dia de partit",
+        "subtitle": "Un dia de partit - Sevilla-Barça",
+        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
       },
       {
-        "start": "2026-09-19T19:41:36+02:00",
-        "stop": "2026-09-19T19:49:56+02:00",
-        "title": "Assemblea",
-        "subtitle": "Assemblea - Assemblea General Ordinària FC Barcelona / Tarda",
-        "description": "Segona part de l'Assemblea General Ordinària del Futbol Club Barcelona. L'últim dels 10 punts a l'ordre del dia és el torn obert d'intervencions en què el president, Joan Laporta, respon les consultes directes dels socis. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1760542682711.jpg"
+        "start": "2026-09-19T22:55:00+02:00",
+        "stop": "2026-09-20T00:31:04+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Gol a gol - Post Sevilla-Barça / J7",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-19T19:19:11+02:00",
-        "stop": "2026-09-19T19:25:11+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "El xai Shaun - El detector de metalls",
-        "description": "Sembla divertit el detector de metalls del granger. A en Shaun li faria molta gràcia poder-hi jugar una estona. Fa un sorollet molt curiós i es poden trobar un munt de coses. Fins i tot l'anell que porta el toro al nas! Això de córrer davant d'un toro no n'és tant, de divertit! I si no, pregunta-ho a en Shaun i companyia!",
+        "start": "2026-09-19T21:20:52+02:00",
+        "stop": "2026-09-19T21:41:01+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - Anguilèctrica!",
+        "description": "La nau Tortuga cau en plena selva amazònica. El sistema elèctric de la nau pateix un curtcircuit i, mentre la Koki mira de reparar-lo, els germans Kratt aprofiten per anar a explorar la fauna de la selva. En un riu descobreixen un animal molt curiós, l'anguila elèctrica, capaç de generar descàrregues elèctriques d'alt voltatge. Aquest descobriment els acabarà resultant més útil del que es pensaven, però també posarà en perill el més important per una anguila elèctrica: el seu niu. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-19T19:25:11+02:00",
-        "stop": "2026-09-19T19:33:52+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "El xai Shaun - La fada de les dents",
-        "description": "En Bitzer sovint fa la vida impossible a les ovelles, però avui no pot ni amb la seva ànima. Té un mal de queixal terrible i no és bo per res. Sort que en Shaun s'ha ofert per fer-li de dentista. I és que, en el fons, se l'estima molt, el gos del granger. El que no sap en Bitzer és que en Shaun és un dentista amb uns mètodes molt peculiars...",
+        "start": "2026-09-19T21:41:01+02:00",
+        "stop": "2026-09-19T22:04:06+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - El misteri del narval de dues banyes",
+        "description": "Mentre discuteixen què és millor, si unes banyes d'ant o unes banyes de bisó, el Martin i el Chris decideixen que la pròxima aventura animal serà conèixer millor el narval banyut de l'Àrtic. Però quan arriben allà, descobreixen que de vegades una banya no és una banya, i es posen a investigar per solucionar el misteri d'aquest animal.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-19T18:45:59+02:00",
-        "stop": "2026-09-19T19:31:31+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Viatges insòlits - Londres",
-        "description": "Amb una població d'entre 12 i 14 milions d'habitants, l'àrea metropolitana de Londres no és només la ciutat més gran d'Europa occidental, sinó que també és un pol d'atracció per a gent d'arreu del món. I això fa que Londres sigui una de les ciutats més cosmopolites del món. L'àrea de joc ideal per a en Tom, que explora les diferents facetes, nacionals i internacionals, d'aquesta ciutat. En Tom acaba fent un curs d''English Manners' (Etiqueta britànica) i visitant la fan número ú de la reialesa, però també gaudeix d'una vetllada única amb els jamaicans del districte de Brixton i amb boxejadors sense guants a l'est de Londres.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-19T21:07:24+02:00",
+        "stop": "2026-09-19T22:03:09+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Experiència Catalana - Jarek i Beata",
+        "description": "En Jarek Kret i la Beata Tadla, dos famosos presentadors de la televisió polonesa, protagonitzen aquest capítol, on gaudeixen de les aigües termals, dels magnífics paisatges de la Costa Brava i de la diada de Sant Jordi a Barcelona.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-19T19:31:31+02:00",
-        "stop": "2026-09-19T20:14:07+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Viatges insòlits - Los Angeles",
-        "description": "Los Angeles no és només una metròpoli amb milions d'habitants, també és una ciutat extensíssima de grans contrastos on tenir cotxe és indispensable. Aquí hi conviuen persones molt riques amb casalots de milions de dòlars a Beverly Hills amb gent que intenta triomfar en el món del cinema i milers de persones que viuen al seu cotxe (en uns aparcaments especials) o fins i tot al carrer. En Tom visitarà un barri que havia estat un dels més perillosos de la ciutat, i també aprofitarà per fer una visita a una vessant més desconeguda: els grups de lowriders, que es reuneixen per admirar els seus cotxes clàssics.",
+        "start": "2026-09-19T22:03:09+02:00",
+        "stop": "2026-09-19T22:54:40+02:00",
+        "title": "Esborrats del mapa",
+        "subtitle": "Esborrats del mapa - Esborrats del mapa",
+        "description": "El documental narra l'experiència d'un grup de veïns afectats per l'erupció del volcà de La Palma que, en només deu minuts, van haver de decidir què és el que salvaven de les seves llars.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/2/8/1788879238882.jpg"
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-09-19T18:54:49+02:00",
-        "stop": "2026-09-19T20:34:44+02:00",
-        "title": "Hoquei patins",
-        "subtitle": "- GoldenCat masculina / 2a semifinal",
-        "description": "En joc, el pas a la final de la prestigiosa competició internacional d'hoquei patins que organitza la Federació Catalana de Patinatge.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"
-      }
-    ],
+    "oca1": [],
     "oca2": [],
     "oca3": [],
-    "oca4": [
-      {
-        "start": "2026-09-19T16:00:12+02:00",
-        "stop": "2026-09-19T16:55:07+02:00",
-        "title": "Assemblea",
-        "subtitle": "- Assemblea General Ordinària FC Barcelona / Tarda",
-        "description": "Segona part de l'Assemblea General Ordinària del Futbol Club Barcelona. L'últim dels 10 punts a l'ordre del dia és el torn obert d'intervencions en què el president, Joan Laporta, respon les consultes directes dels socis. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1760542682711.jpg"
-      }
-    ]
+    "oca4": []
   }
 }
