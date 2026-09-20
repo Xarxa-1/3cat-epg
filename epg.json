@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-20T18:57:16.615649+00:00",
+  "updated": "2026-09-20T21:10:27.554192+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-20T21:00:00+02:00",
-        "stop": "2026-09-20T23:07:17+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "Telenotícies vespre",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "start": "2026-09-20T22:42:44+02:00",
+        "stop": "2026-09-20T23:13:54+02:00",
+        "title": "Oh! Europa",
+        "subtitle": "Oh! Europa - Alemanya",
+        "description": "La Policia de trànsit posa una multa al Ventura, el conductor, perquè els passatgers estan drets pel mig del passadís quan l'autocar circula. El Ventura es desespera, però l'Hèctor, l'Ampariues i la Pepa tenen una singular idea per recollir un fons i pagar la multa. De mica en mica, tot el grup es va sumant a l'espectacular iniciativa.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "image": ""
       },
       {
-        "start": "2026-09-20T23:07:17+02:00",
-        "stop": "2026-09-20T23:39:53+02:00",
-        "title": "30 minuts",
-        "subtitle": "30 minuts - La terra crema",
-        "description": "Pagesos i bombers s'alien per fer front als nous incendis que ens porta el canvi climàtic: focs simultanis, més intensos, ràpids i imprevisibles. L'estiu del 2026 n'ha estat un bon exemple.",
-        "genre": "REPORTATGES",
-        "image": "https://statics.ccma.cat/multimedia/jpg/7/3/1571603193237.jpg"
+        "start": "2026-09-20T23:13:54+02:00",
+        "stop": "2026-09-21T00:09:21+02:00",
+        "title": "Vosaltres mateixos",
+        "subtitle": "Vosaltres mateixos - Anar i tornar",
+        "description": "Un corredor es proposa ser més ràpid que el telefèric, i l'Andreu veu acomplert el seu somni: tenir un vehicle per viatjar mentre fa la migdiada.",
+        "genre": "TALK-SHOW",
+        "image": "https://img.ccma.cat/multimedia/png/6/6/1698344358966.png"
       }
     ],
     "324": [
       {
-        "start": "2026-09-20T20:00:00+02:00",
-        "stop": "2026-09-20T21:00:00+02:00",
+        "start": "2026-09-20T23:00:00+02:00",
+        "stop": "2026-09-21T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-20T21:00:00+02:00",
-        "stop": "2026-09-20T23:00:00+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-09-21T00:30:00+02:00",
+        "stop": "2026-09-21T01:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-20T20:57:21+02:00",
-        "stop": "2026-09-20T21:26:50+02:00",
-        "title": "Motocròs",
-        "subtitle": "Motocròs - Gran Premi d'Austràlia / WMX Motocross World Championship / J2",
-        "description": "Última prova del Campionat del Món motocròs. La catalana Daniela Guillén aspira a proclamar-se guanyadora de la classificació general per primera vegada. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/4/1779284574045.jpg"
+        "start": "2026-09-20T23:00:59+02:00",
+        "stop": "2026-09-21T00:32:17+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Gol a gol - Anàlisi de la jornada / J7 / Diumenge",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-09-20T21:26:50+02:00",
-        "stop": "2026-09-20T21:50:12+02:00",
-        "title": "Espòiler",
-        "subtitle": "Espòiler",
-        "description": "'Espòiler' és un programa dedicat al món dels cotxes i del caravàning, un espai on hi té cabuda tot el que té a veure amb aquests vehicles a motor. Descobrim les novetats del sector, amb models que s'acaben d'estrenar, test drives, una secció d'electromobilitat i també les millors autocaravanes del moment.Mercè Rivas, Sergio Domínguez, Oriol Llardén i Telva Somoza són els encarregats de posar a prova els automòbils i transmetre les seves sensacions. Dani Blasco capitaneja la secció 'Contravolant', on us sorprèn amb històries extraordinàries i divertides. El programa també té un espai anomenat 'Al volant amb...', en què cada setmana un famós ajuda Carles Llinars, instructor del Circuit Escola del RACC, a explicar un consell de conducció.'Espòiler' és una producció de Televisió de Catalunya amb la col·laboració de Drive Media i la realització de HolyCars Studio.",
-        "genre": "REPORTATGES",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"
+        "start": "2026-09-21T00:32:17+02:00",
+        "stop": "2026-09-21T00:51:04+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "3CatInfo Esports",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-20T20:38:21+02:00",
-        "stop": "2026-09-20T21:00:00+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Henry Danger - El Capità Man agafa vacances",
-        "description": "En Ray vol marxar de vacances però no confia que l'Henry i l'equip puguin gestionar els problemes sols, mentre a la ciutat comencen a sorgir situacions caòtiques i criminals. Paral·lelament, la Piper intenta guanyar popularitat a les xarxes copiant una moda, cosa que també desencadena problemes inesperats.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-20T23:06:45+02:00",
+        "stop": "2026-09-20T23:17:35+02:00",
+        "title": "La tropa del corral",
+        "subtitle": "La tropa del corral - En Prince i l'ocupant",
+        "description": "Un gat de carrer ocupa el lloc d'en Prince a casa i el fa fora. Ara, la Tropa haurà d'endevinar qui és en Prince de veritat i qui és el farsant, que ha fet un tracte amb en Frankie perquè l'ajudi a canvi de bon menjar.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-20T21:00:00+02:00",
-        "stop": "2026-09-20T21:20:53+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - Nedant com les llúdries marines",
-        "description": "Fa un dia preciós i l'equip dels germans Kratt decideix descansar una estona i nedar. El Jimmy confessa als altres que no neda gaire bé i el Chris i el Martin decideixen portar-lo a fer classes amb una gran nedadora, una llúdria marina que es diu Entrenadora. ",
+        "start": "2026-09-20T23:17:35+02:00",
+        "stop": "2026-09-20T23:28:11+02:00",
+        "title": "La tropa del corral",
+        "subtitle": "La tropa del corral - Trobada extraterrestre",
+        "description": "En Reggie truca la Tropa perquè investiguin un objecte misteriós que ha xuclat la closca de l'Agnes. La Maggie està convençuda que és una forma de vida alienígena i, en secret, se l'emporta a la granja perquè la reculli la nau d'abastament. Allà causarà un autèntic caos.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-20T20:07:50+02:00",
-        "stop": "2026-09-20T20:59:46+02:00",
-        "title": "A tocar de l'aigua",
-        "subtitle": "A tocar de l'aigua - El Segre III; El Sió",
-        "description": "Després d'haver recorregut les capçaleres del Segre i bona part del seu curs mitjà, en aquest episodi ens acompanyarà un riu que travessa la comarca de la Noguera per llevant: el Sió, un petit afluent del Segre que guarda a les seves ribes un ric patrimoni natural i arquitectònic. El resseguirem fins al final i, després de visitar Balaguer, farem camí fins a Vilanova de la Barca.",
+        "start": "2026-09-20T22:44:56+02:00",
+        "stop": "2026-09-20T23:27:53+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "Viatges insòlits - Dubai",
+        "description": "Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-20T20:59:46+02:00",
-        "stop": "2026-09-20T21:01:38+02:00",
-        "title": "SENSE FI CANAL 33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-09-20T23:27:53+02:00",
+        "stop": "2026-09-21T00:11:10+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "Viatges insòlits - Ulan Bator",
+        "description": "Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
