@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-20T01:39:11.762614+00:00",
+  "updated": "2026-09-20T07:01:22.656998+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-20T01:55:58+02:00",
-        "stop": "2026-09-20T04:00:00+02:00",
+        "start": "2026-09-20T07:00:01+02:00",
+        "stop": "2026-09-20T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-20T04:00:00+02:00",
-        "stop": "2026-09-20T05:00:00+02:00",
-        "title": "Ritmes a l'estudi",
-        "subtitle": "Ritmes a l'estudi - PHAT FRED",
-        "description": "Una de les formacions de funk més representatives d'Europa. De totes maneres, el quintet no es conforma a ser una banda de gènere i el seu so és una barreja de rock, funk, psicodèlia i jazz. Phat Fred són coneguts especialment pel seu directe, en què es deixen anar en el deliri i la improvisació creant el que ells en diuen punk-funk.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-20T10:00:00+02:00",
+        "stop": "2026-09-20T10:18:06+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-20T01:00:00+02:00",
-        "stop": "2026-09-20T06:00:00+02:00",
+        "start": "2026-09-20T07:00:00+02:00",
+        "stop": "2026-09-20T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-20T06:00:00+02:00",
-        "stop": "2026-09-20T07:00:00+02:00",
+        "start": "2026-09-20T10:00:00+02:00",
+        "stop": "2026-09-20T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-20T02:34:59+02:00",
-        "stop": "2026-09-20T04:31:04+02:00",
+        "start": "2026-09-20T08:24:46+02:00",
+        "stop": "2026-09-20T10:19:54+02:00",
         "title": "Futbol",
         "subtitle": "Futbol - Reial Múrcia-CE Europa / Primera Federació / J4",
         "description": "Els graciencs tenen només un punt i volen la primera victòria al campionat. L'objectiu dels murcians és mantenir-se a la zona capdavantera. Des de La Condomina, amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.",
@@ -92,53 +92,53 @@
         "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-09-20T04:31:04+02:00",
-        "stop": "2026-09-20T06:24:09+02:00",
-        "title": "Futbol",
-        "subtitle": "Futbol - FC Badalona Women-Reial Societat / Lliga F / J4",
-        "description": "Les badalonines s'han situat a la part alta de la classificació gràcies a dues victòries seguides. Per contra, les donostiarres encara no han aconseguit guanyar i volen els tres punts per sortir de la zona baixa.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "start": "2026-09-20T10:19:54+02:00",
+        "stop": "2026-09-20T11:54:00+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Gol a gol - Post Sevilla-Barça / J7",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-20T03:29:56+02:00",
-        "stop": "2026-09-20T03:39:56+02:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "Pop, la ciutat de paper - La perla de la Mae-Mae",
-        "description": "A l'aventura d'avui, la Mae-Mae troba una perla molt maca, però l'hi prenen i se l'enduen a sota l'aigua. Llavors, ella i els seus amics se'n van al fons del mar a buscar-la amb un submarí.",
+        "start": "2026-09-20T08:59:29+02:00",
+        "stop": "2026-09-20T09:10:02+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva l’alcaldessa bona",
+        "description": "L'Alcaldessa Goodway se'n va a fer una acampada i l'alcalde Humdinger es declara alcalde substitut i en fa de les seves per Badia Aventures!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-20T03:39:56+02:00",
-        "stop": "2026-09-20T03:49:56+02:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "Pop, la ciutat de paper - El gran Hooperini",
-        "description": "En l'aventura poptàstica d'avui, el Hooper farà un espectacle de màgia sensacional. Però ha de preparar moltes coses i té molt poc temps. Serà capaç de fer un espectacle de màgia digne de ser recordat, el Gran Hooperini?",
+        "start": "2026-09-20T09:10:02+02:00",
+        "stop": "2026-09-20T09:20:35+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva un os sumnàbul",
+        "description": "La Patrulla ha de fer tornar un os somnàmbul al cau abans que es desperti.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-20T03:26:38+02:00",
-        "stop": "2026-09-20T03:51:27+02:00",
-        "title": "Volcans i homes",
-        "subtitle": "Volcans i homes - Islàndia. Els senyors de foc",
-        "description": "En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al rift de Thingvellir, enmig de les dues plaques tectòniques, a la fractura d'Eldja, el congost de foc, i al centre de control de trànsit aeri de l'aeroport de Reykjavík, que va haver de gestionar les conseqüències en el trànsit aeri de l'erupció del volcà Eyjafjallajökull el 2010.",
+        "start": "2026-09-20T08:34:56+02:00",
+        "stop": "2026-09-20T09:04:02+02:00",
+        "title": "GR Pirineus",
+        "subtitle": "GR Pirineus - Món pintoresc",
+        "description": "En el novè gran recorregut, el Marc de las Heras anirà de Castellfollit de la Roca a Beget, és a dir, de la Garrotxa al Ripollès. En total, uns 65 km, repartits en dues jornades, fets a peu, en cotxe i en ruc. En Marc sortirà d'un poble realment singular per anar a Sant Joan les Fonts, un lloc farcit de bruixes! Després, en Marc travessarà la Vall de Bianya i, al llom d'un ruc català, arribarà a Sant Pau de Segúries, per tornar a agafar el cotxe després fins a Camprodon, on farà nit.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
       },
       {
-        "start": "2026-09-20T03:51:27+02:00",
-        "stop": "2026-09-20T04:13:12+02:00",
-        "title": "Nens de la ruta de la seda",
-        "subtitle": "Nens de la ruta de la seda - Una nena lluny de casa",
-        "description": "La Nastia (13) és la capitana d'un equip professional de gimnàstica a Kíiv. Les noies de l'equip són les seves millors amigues. Juntes guanyen el campionat nacional de gimnàstica rítmica i tot va millor que mai. Un mes més tard, esclata la guerra a Ucraïna i la Nastia s'ha de mudar amb la seva àvia a Alemanya. Ara la Nàstia ha de construir-se una nova vida lluny dels seus pares i de les seves amigues. No sap quan podrà tornar a Kíiv ni quan podrà tornar a veure els seus pares i les seves amigues. A la Nastia, l'espera a Alemanya se li fa molt llarga, però quan s'uneix a l'equip alemany de gimnàstica, la vida comença a ser bonica de nou.",
+        "start": "2026-09-20T09:04:02+02:00",
+        "stop": "2026-09-20T09:33:47+02:00",
+        "title": "GR Pirineus",
+        "subtitle": "GR Pirineus - Terra de comtes i abats",
+        "description": "En aquesta ruta, Marc de las Heras anirà de Sant Joan de les Abadesses, al castell de Mataplana, després de recórrer el cor del Ripollès. En total, uns 77 km, repartits en dues jornades, fets a peu, en bicicleta i en cremallera, descobrint una terra d'autèntica llegenda.Des de Sant Joan de les Abadesses, el Marc agafarà la bici per fer la ruta del ferro fins a Ripoll, on assistirà a un dels enllaços més tradicionals que existeixen: el casament a pagès. I des d'aquí, cap a Campdevànol i Ribes de Freser, on farà nit.L'endemà, de bon matí, el Marc pujarà al cremallera de Núria, passant per Queralbs i acompanyat dels Randellaires; per visitar la Vall de Núria, un lloc espectacular, ideal per afinar la punteria... Al baixar, seguirà camins ramaders des de Campdevànol passant per Gombrèn, el Santuari de Montgrony i arribant al Castell de Mataplana, un lloc llegendari on el Comte Arnau, l'obligarà a fer-li un bon sopar... Pobret, esperem que li agradi!... Que si no... ",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
       }
     ],
     "oca1": [],
