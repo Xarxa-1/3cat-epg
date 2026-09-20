@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-19T23:33:05.976351+00:00",
+  "updated": "2026-09-20T01:39:11.762614+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,12 +43,21 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-20T01:25:54+02:00",
-        "stop": "2026-09-20T01:55:58+02:00",
-        "title": "Els dies clau",
-        "subtitle": "Els dies clau - 19 de juny de 1987: l'atemptat d'Hipercor",
-        "description": "",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-20T01:55:58+02:00",
+        "stop": "2026-09-20T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-20T04:00:00+02:00",
+        "stop": "2026-09-20T05:00:00+02:00",
+        "title": "Ritmes a l'estudi",
+        "subtitle": "Ritmes a l'estudi - PHAT FRED",
+        "description": "Una de les formacions de funk més representatives d'Europa. De totes maneres, el quintet no es conforma a ser una banda de gènere i el seu so és una barreja de rock, funk, psicodèlia i jazz. Phat Fred són coneguts especialment pel seu directe, en què es deixen anar en el deliri i la improvisació creant el que ells en diuen punk-funk.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
@@ -74,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-20T01:00:25+02:00",
-        "stop": "2026-09-20T02:34:58+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Gol a gol - Post Sevilla-Barça / J7",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
-      },
-      {
-        "start": "2026-09-20T02:34:58+02:00",
-        "stop": "2026-09-20T04:56:15+02:00",
+        "start": "2026-09-20T02:34:59+02:00",
+        "stop": "2026-09-20T04:31:04+02:00",
         "title": "Futbol",
         "subtitle": "Futbol - Reial Múrcia-CE Europa / Primera Federació / J4",
         "description": "Els graciencs tenen només un punt i volen la primera victòria al campionat. L'objectiu dels murcians és mantenir-se a la zona capdavantera. Des de La Condomina, amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+      },
+      {
+        "start": "2026-09-20T04:31:04+02:00",
+        "stop": "2026-09-20T06:24:09+02:00",
+        "title": "Futbol",
+        "subtitle": "Futbol - FC Badalona Women-Reial Societat / Lliga F / J4",
+        "description": "Les badalonines s'han situat a la part alta de la classificació gràcies a dues victòries seguides. Per contra, les donostiarres encara no han aconseguit guanyar i volen els tres punts per sortir de la zona baixa.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-20T01:26:21+02:00",
-        "stop": "2026-09-20T01:46:59+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Desperada",
-        "description": "El Jagged Stone ha fet fora de la banda la seva guitarrista, la Vivica, i l'Esfinx aprofita la ràbia de la noia per convertir-la en la temible Desperada, una supermalvada amb uns poders difícils de derrotar. Ladybug i el Gat Noir necessitaran l'ajuda de l'Escurçó per derrotar-la.",
+        "start": "2026-09-20T03:29:56+02:00",
+        "stop": "2026-09-20T03:39:56+02:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "Pop, la ciutat de paper - La perla de la Mae-Mae",
+        "description": "A l'aventura d'avui, la Mae-Mae troba una perla molt maca, però l'hi prenen i se l'enduen a sota l'aigua. Llavors, ella i els seus amics se'n van al fons del mar a buscar-la amb un submarí.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-20T01:46:59+02:00",
-        "stop": "2026-09-20T02:07:37+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Amo Noel",
-        "description": "La Marinette ha de fer de cangur del germà del Nino, el Noel, que vol jugar a jocs de nens grans i que, davant la frustració de no poder tenir el regal de Nadal de seguida, cau víctima dels encanteris de l'Esfinx i es converteix en l'Amo Nadal.",
+        "start": "2026-09-20T03:39:56+02:00",
+        "stop": "2026-09-20T03:49:56+02:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "Pop, la ciutat de paper - El gran Hooperini",
+        "description": "En l'aventura poptàstica d'avui, el Hooper farà un espectacle de màgia sensacional. Però ha de preparar moltes coses i té molt poc temps. Serà capaç de fer un espectacle de màgia digne de ser recordat, el Gran Hooperini?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-20T01:21:33+02:00",
-        "stop": "2026-09-20T01:47:07+02:00",
+        "start": "2026-09-20T03:26:38+02:00",
+        "stop": "2026-09-20T03:51:27+02:00",
         "title": "Volcans i homes",
-        "subtitle": "Volcans i homes - Etna, la muntanya de les muntanyes",
-        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Sicília, per conèixer persones que viuen a tocar de l'Etna. Ens mostrarà, entre d'altres coses, les tradicions populars i religioses que ha originat el perill constant de l'Etna, la gran fertilitat de les terres agrícoles del peu del volcà i les dificultats quotidianes de les persones que viuen a la zona de les salinelle, els volcans de fang. A part d'anar fins a un cràter actiu amb un vulcanòleg per oferir-nos, també, el punt de vista científic sobre els fenòmens volcànics. ",
+        "subtitle": "Volcans i homes - Islàndia. Els senyors de foc",
+        "description": "En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al rift de Thingvellir, enmig de les dues plaques tectòniques, a la fractura d'Eldja, el congost de foc, i al centre de control de trànsit aeri de l'aeroport de Reykjavík, que va haver de gestionar les conseqüències en el trànsit aeri de l'erupció del volcà Eyjafjallajökull el 2010.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-20T01:47:07+02:00",
-        "stop": "2026-09-20T02:11:44+02:00",
-        "title": "Volcans i homes",
-        "subtitle": "Volcans i homes - Els llacs volcànics en terra maori",
-        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Nova Zelanda, amb l'interès específic de visitar els àcids llacs de cràter. L'acompanyarem en la seva visita al llac volcànic de l'illa de White Island, el llac Taupo de l'illa del Nord i el llac del volcà Ruapehu, que els maoris consideren una muntanya sagrada.Això ens permetrà veure alhora el punt de vista dels científics que analitzen l'aigua i els gasos dels llacs, i també els estrats del terreny que mostren les diferents erupcions, i el punt de vista tradicional i religiós dels maoris.",
+        "start": "2026-09-20T03:51:27+02:00",
+        "stop": "2026-09-20T04:13:12+02:00",
+        "title": "Nens de la ruta de la seda",
+        "subtitle": "Nens de la ruta de la seda - Una nena lluny de casa",
+        "description": "La Nastia (13) és la capitana d'un equip professional de gimnàstica a Kíiv. Les noies de l'equip són les seves millors amigues. Juntes guanyen el campionat nacional de gimnàstica rítmica i tot va millor que mai. Un mes més tard, esclata la guerra a Ucraïna i la Nastia s'ha de mudar amb la seva àvia a Alemanya. Ara la Nàstia ha de construir-se una nova vida lluny dels seus pares i de les seves amigues. No sap quan podrà tornar a Kíiv ni quan podrà tornar a veure els seus pares i les seves amigues. A la Nastia, l'espera a Alemanya se li fa molt llarga, però quan s'uneix a l'equip alemany de gimnàstica, la vida comença a ser bonica de nou.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
