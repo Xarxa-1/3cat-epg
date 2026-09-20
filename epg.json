@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-20T16:21:25.518968+00:00",
+  "updated": "2026-09-20T18:57:16.615649+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-20T17:16:50+02:00",
-        "stop": "2026-09-20T18:42:37+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - Frederica Montseny, la dona que parla",
-        "description": "FREDERICA MONTSENY, LA DONA QUE PARLA Productores: Distinto Films en coproducció amb Televisió de Catalunya i Voramar Films i la participació d'À PUNT MÈDIA i d'IB3, amb el suport del Departament de Cultura de la Generalitat de Catalunya, l'Institut Valencià de Cultura, Creative Europe Media Programme of the European Union i amb la col·laboració del Ministeri d'Igualtat-Institut de la Dona i la participació de CREA SGR, 2021Direcció: Laura Mañá Productora: Miriam PortéProducció executiva: Gerard Marginedas i Pedro PastorProducció executiva TVC: Oriol Sala-Patau i Cruz RodríguezProductora executiva À Punt Mèdia: Ana AlemanyGuió: Rafa Russo i Mireia LlinàsDirectora de fotografia: Beatriz SastreCompositora: Vanesa GardeIntèrprets: Màrcia Cisteró (Frederica Montseny), Emilio Gutiérrez Caba (Largo Caballero), Òscar Muñoz (Germinal Esgleas), Miquel Gelabert (Federico Urales), Ivan Benet (Joan Garcia i Oliver), David Bagés (Joan Peiró), Fran Nortes (Juan López), Pep Ambròs (Marianet), Candela Moreno (Mercedes Maestre), Vicente Genovés (Manuel Azaña), Jaime Linares (Juan Negrín), Sergi Torrecilla (Jesús Hernández) i Òscar Intente (Lluís Companys)Sinopsi:Val la pena trair els propis ideals pel que sembla un bé més gran? En plena Guerra Civil Espanyola, la influència de l'anarcosindicalisme porta Frederica Montseny al govern de la República. Ella ho accepta a contracor per evitar l'auge del feixisme i esdevé la primera dona ministra de l'estat espanyol i d'Europa. Acabada la guerra, Montseny s'ha d'exiliar a França, on s'enfrontarà a un judici d'extradició que posarà a prova les seves fermes conviccions. Si el perd, retornarà a l'Espanya franquista per ser executada.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
+        "start": "2026-09-20T21:00:00+02:00",
+        "stop": "2026-09-20T23:07:17+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "Telenotícies vespre",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-09-20T18:42:37+02:00",
-        "stop": "2026-09-20T19:36:31+02:00",
-        "title": "Temps de silenci",
-        "subtitle": "Temps de silenci - Xantatges",
-        "description": "Sovint hi ha pares que no veuen en els seus fills el que els agradaria veure-hi. Hi ha amistats que no són convenients. I hi ha coses del passat que algú, com la Victòria, preferiria no haver d'afrontar.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "start": "2026-09-20T23:07:17+02:00",
+        "stop": "2026-09-20T23:39:53+02:00",
+        "title": "30 minuts",
+        "subtitle": "30 minuts - La terra crema",
+        "description": "Pagesos i bombers s'alien per fer front als nous incendis que ens porta el canvi climàtic: focs simultanis, més intensos, ràpids i imprevisibles. L'estiu del 2026 n'ha estat un bon exemple.",
+        "genre": "REPORTATGES",
+        "image": "https://statics.ccma.cat/multimedia/jpg/7/3/1571603193237.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-20T16:30:00+02:00",
-        "stop": "2026-09-20T18:30:00+02:00",
+        "start": "2026-09-20T20:00:00+02:00",
+        "stop": "2026-09-20T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,87 +72,77 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-20T18:30:00+02:00",
-        "stop": "2026-09-20T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-20T21:00:00+02:00",
+        "stop": "2026-09-20T23:00:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-20T16:24:40+02:00",
-        "stop": "2026-09-20T18:25:34+02:00",
-        "title": "Hoquei patins",
-        "subtitle": "Hoquei patins - GoldenCat masculina / Final",
-        "description": "Des del pavelló de Can Xarau, a Cerdanyola del Vallès, últim partit d'aquesta prestigiosa competició internacional d'hoquei patins.",
+        "start": "2026-09-20T20:57:21+02:00",
+        "stop": "2026-09-20T21:26:50+02:00",
+        "title": "Motocròs",
+        "subtitle": "Motocròs - Gran Premi d'Austràlia / WMX Motocross World Championship / J2",
+        "description": "Última prova del Campionat del Món motocròs. La catalana Daniela Guillén aspira a proclamar-se guanyadora de la classificació general per primera vegada. ",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/5/4/1779284574045.jpg"
       },
       {
-        "start": "2026-09-20T18:25:34+02:00",
-        "stop": "2026-09-20T18:55:00+02:00",
-        "title": "Esport Club Cap de Setmana",
-        "subtitle": "Esport Club Cap de Setmana - Esport Club",
-        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-20T21:26:50+02:00",
+        "stop": "2026-09-20T21:50:12+02:00",
+        "title": "Espòiler",
+        "subtitle": "Espòiler",
+        "description": "'Espòiler' és un programa dedicat al món dels cotxes i del caravàning, un espai on hi té cabuda tot el que té a veure amb aquests vehicles a motor. Descobrim les novetats del sector, amb models que s'acaben d'estrenar, test drives, una secció d'electromobilitat i també les millors autocaravanes del moment.Mercè Rivas, Sergio Domínguez, Oriol Llardén i Telva Somoza són els encarregats de posar a prova els automòbils i transmetre les seves sensacions. Dani Blasco capitaneja la secció 'Contravolant', on us sorprèn amb històries extraordinàries i divertides. El programa també té un espai anomenat 'Al volant amb...', en què cada setmana un famós ajuda Carles Llinars, instructor del Circuit Escola del RACC, a explicar un consell de conducció.'Espòiler' és una producció de Televisió de Catalunya amb la col·laboració de Drive Media i la realització de HolyCars Studio.",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-20T18:20:10+02:00",
-        "stop": "2026-09-20T18:26:39+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "En Grizzy i els Lèmmings - Acampada salvatge",
-        "description": "Amb les seves inacabables baralles per la cabana del guardabosc, que no volen compartir, en Grizzy i els lèmmings l'acaben destrossant. Entre la runa, descobreixen un paquet curiós: una tenda de campanya de l'exèrcit amb tot l'equip necessari per recrear les comoditats d'una casa en plena natura. És l'ocasió de descobrir les meravelles d'un acampada al bosc, que ofereix moltes possibilitats... potser massa i tot!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-20T20:38:21+02:00",
+        "stop": "2026-09-20T21:00:00+02:00",
+        "title": "Henry Danger",
+        "subtitle": "Henry Danger - El Capità Man agafa vacances",
+        "description": "En Ray vol marxar de vacances però no confia que l'Henry i l'equip puguin gestionar els problemes sols, mentre a la ciutat comencen a sorgir situacions caòtiques i criminals. Paral·lelament, la Piper intenta guanyar popularitat a les xarxes copiant una moda, cosa que també desencadena problemes inesperats.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-09-20T18:26:39+02:00",
-        "stop": "2026-09-20T18:35:38+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "En Grizzy i els Lèmmings - A mi qui m'ha vist?",
-        "description": "En Grizzy vol tastar el nou format de crema de xocolata que descobreix a l'armari de la cuina del guardabosc: un pot XXL que ha d'estar per llepar-se'n els dits... i no té cap intenció de compartir-lo amb els lèmmings! Per la seva banda, però, després d'observar un gripau camaleó capaç de camuflar-se amb l'entorn, els lèmmings decideixen fer-se invisibles per aconseguir el preuat i dolç tresor d'en Grizzy.",
+        "start": "2026-09-20T21:00:00+02:00",
+        "stop": "2026-09-20T21:20:53+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els germans Kratt - Nedant com les llúdries marines",
+        "description": "Fa un dia preciós i l'equip dels germans Kratt decideix descansar una estona i nedar. El Jimmy confessa als altres que no neda gaire bé i el Chris i el Martin decideixen portar-lo a fer classes amb una gran nedadora, una llúdria marina que es diu Entrenadora. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-20T17:50:56+02:00",
-        "stop": "2026-09-20T18:36:36+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Viatges insòlits - Ciutat de Mèxic",
-        "description": "Amb més de 22 milions d'habitants, Ciutat de Mèxic és una de les ciutats més grans i més influents del món. A la dècada de 1990, la ciutat encapçalava tota mena de llistes que descrivien la inhabitabilitat de la ciutat. Era una ciutat perillosa amb unes xifres de delinqüència disparades i milions de cotxes que creaven un boirum i una contaminació atmosfèrica alarmants. Durant el seu viatge a Ciutat de Mèxic, en Tom descobrirà els enormes canvis que aquesta metròpoli ha viscut els últims anys.",
+        "start": "2026-09-20T20:07:50+02:00",
+        "stop": "2026-09-20T20:59:46+02:00",
+        "title": "A tocar de l'aigua",
+        "subtitle": "A tocar de l'aigua - El Segre III; El Sió",
+        "description": "Després d'haver recorregut les capçaleres del Segre i bona part del seu curs mitjà, en aquest episodi ens acompanyarà un riu que travessa la comarca de la Noguera per llevant: el Sió, un petit afluent del Segre que guarda a les seves ribes un ric patrimoni natural i arquitectònic. El resseguirem fins al final i, després de visitar Balaguer, farem camí fins a Vilanova de la Barca.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-20T18:36:36+02:00",
-        "stop": "2026-09-20T19:26:39+02:00",
-        "title": "Alaska salvatge",
-        "subtitle": "Alaska salvatge - Hivern",
-        "description": "Un terç d'Alaska és dins del cercle polar àrtic, cosa que fa que l'hivern hi sigui una estació especialment dura, marcada per un fred intensíssim, que congela totes les masses d'aigua, i fins tot el mar. A més, la claror disminueix radicalment, sobretot a l'extrem nord, on el sol es pon durant més de dos mesos. Amb tot, la notable resistència dels habitants d'Alaska els permet suportar els rigors de l'hivern de maneres enginyoses, ja sigui hivernant o buscant fonts d'aliment alternatives",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-20T20:59:46+02:00",
+        "stop": "2026-09-20T21:01:38+02:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
     "oca1": [],
-    "oca2": [
-      {
-        "start": "2026-09-20T16:24:40+02:00",
-        "stop": "2026-09-20T18:24:35+02:00",
-        "title": "Hoquei patins",
-        "subtitle": "- Portugal - Catalunya / GoldenCat masculina / Final",
-        "description": "Des del pavelló de Can Xarau, a Cerdanyola del Vallès, últim partit d'aquesta prestigiosa competició internacional d'hoquei patins.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"
-      }
-    ],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
