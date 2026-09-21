@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-21T13:07:02.261328+00:00",
+  "updated": "2026-09-21T18:41:30.949158+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,101 +43,101 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-21T14:30:00+02:00",
-        "stop": "2026-09-21T15:29:59+02:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "Telenotícies migdia",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "start": "2026-09-21T20:14:59+02:00",
+        "stop": "2026-09-21T21:00:00+02:00",
+        "title": "Està passant",
+        "subtitle": "Està passant",
+        "description": "L'Òscar Andreu i el Queco parlaran de les eleccions a Alemanya i Rússia. El Marc Sarrats parla de Donald Trump i la premsa. I la Judit Martín es converteix en la mascota de la setmana del llibre en Català",
+        "genre": "GAGS. HUMOR",
+        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
       },
       {
-        "start": "2026-09-21T15:29:59+02:00",
-        "stop": "2026-09-21T15:49:34+02:00",
-        "title": "Cuines",
-        "subtitle": "Cuines - Vichyssoise de mandioca",
-        "description": "Tot i que la mandioca no és tan habitual al nostre receptari com la patata, cada cop és més fàcil trobar-la a les nostres verduleries. Avui la utilitzarem per a fer una vichyssoise una mica diferent.  ",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-09-21T21:00:00+02:00",
+        "stop": "2026-09-21T21:58:13+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "Telenotícies vespre",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-21T14:30:00+02:00",
-        "stop": "2026-09-21T15:30:00+02:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-09-21T20:00:00+02:00",
+        "stop": "2026-09-21T21:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-21T21:00:00+02:00",
+        "stop": "2026-09-21T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
         "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
-      },
-      {
-        "start": "2026-09-21T15:30:00+02:00",
-        "stop": "2026-09-21T16:00:00+02:00",
-        "title": "3CatInfo en aranès",
-        "subtitle": "",
-        "description": "Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-21T15:00:32+02:00",
-        "stop": "2026-09-21T15:29:44+02:00",
-        "title": "GR Pirineus",
-        "subtitle": "GR Pirineus - Comença un dolç viatge",
-        "description": "'GR Pirineus' va fer la temporada passada un recorregut pel Camí de Sant Jaume. Ara, aquest programa de descoberta de la Catalunya rural i més desconeguda, iniciarà un segon viatge cap als orígens del país, a través dels Pirineus i amb 26 capítols, per mostrar els valors esportius, històrics i espirituals del territori. Amb la presentació de Marc de las Heras, el programa farà camí, amb una primera ruta amb sortida de Girona, i, després de diversos recorreguts per la Costa Brava, el Pirineu i el Prepirineu, i un últim itinerari amb arribada a Sant Feliu de Guíxols.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "start": "2026-09-21T20:32:09+02:00",
+        "stop": "2026-09-21T21:05:17+02:00",
+        "title": "Esport Club",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       },
       {
-        "start": "2026-09-21T15:29:44+02:00",
-        "stop": "2026-09-21T16:15:23+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Viatges insòlits - Japó I",
-        "description": "Després de la parada obligada a causa de la Covid, Tom Waes reprèn la sèrie de Viatges Insòlits amb el que va quedar-li pendent a la pandèmia: Japó. En Tom recorrerà tot el país de sud a nord, més de tres mil quilòmetres per diverses illes, i aquesta primera part inclou la zona més meridional. El capítol comença amb una oració per demanar bon viatge i després continua passant per Nagasaki, l'illa dels gats, i una ciutat dominada per la yakuza, i entremig en Tom encara tindrà temps de participar en un festival tradicional molt especial.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-21T21:05:17+02:00",
+        "stop": "2026-09-21T21:40:51+02:00",
+        "title": "Zona zàping",
+        "subtitle": "Zona zàping",
+        "description": "El Barça continua en ratxa golejadora i als 4 gols que li va fer al Llevant a València, s'hi van afegir 7 més al Camp Nou contra el Racing, enmig d'un xàfec d'aigua i de joc blaugrana.",
+        "genre": "ALTRES",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-21T14:48:47+02:00",
-        "stop": "2026-09-21T15:09:45+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Bola de drac Z - El terrible kamehameha d'en Cèl·lula sacseja la Terra",
-        "description": "Amb els dos contrincants lluitant a màxima potència, en Cèl·lula comença a deixar anar tot el seu arsenal de tècniques assimilades contra en Son Goku, des del disc mortal d'en Freezer, fins a un increïble kamehameha, capaç de sacsejar tot el planeta Terra. L'única manera que té en Son Goku de sortir-ne viu és teletransportant-se.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-21T20:36:38+02:00",
+        "stop": "2026-09-21T20:59:51+02:00",
+        "title": "Henry Danger",
+        "subtitle": "Henry Danger - Les magdalenes de l'amor",
+        "description": "En Ray anuncia que es vol casar amb una dona que acaba de conèixer, i els seus amics sospiten que alguna cosa molt estranya hi ha al darrere.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-09-21T15:09:45+02:00",
-        "stop": "2026-09-21T15:30:31+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Henry Danger - Un directe perillós, primera part",
-        "description": "Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-21T20:59:51+02:00",
+        "stop": "2026-09-21T21:22:08+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Bola de drac Z - Els sorprenents deixebles d'en Satan",
+        "description": "Després de l'espectacle lamentable i més aviat còmic que ofereixen en Satan i els seus deixebles, en Son Goku fa un pas endavant per ser el primer superguerrer d'enfrontar-se a en Cèl·lula. Per fi comença el combat entre dos dels éssers més poderosos de l'univers, un enfrontament que podria decidir el destí de la Terra.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-21T14:59:00+02:00",
-        "stop": "2026-09-21T15:44:21+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La Renaixença - El corbatí",
-        "description": "El corbatí s'ha de reivindicar, per això hem decidit dedicar-li un capítol. Corbatí, que no 'pajarita'. Sobretot per això l'hem triat. Ens visita un savi per conèixer, en Gil Carbonés. És el millor jugador de horseball del món! De fet, ho ha sigut quatre vegades. Per què no obre les notícies? Què s'ha de fer per ser el millor del món en alguna cosa? Sortim a passejar el gos per la ciutat de Londres el 1814, quan hi va haver una gran inundació de cervesa. Un somni per a alguns, un desastre per a d'altres.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-09-21T20:02:26+02:00",
+        "stop": "2026-09-21T20:59:43+02:00",
+        "title": "Un planeta perfecte",
+        "subtitle": "Un planeta perfecte - El Temps",
+        "description": "El temps pot canviar dia a dia, fins i tot cada hora, però des de fa mil·lennis, els patrons climàtics anuals s'han mantingut estables. La vida a la Terra depèn d'aquesta fiabilitat. La varietat de pluges per tot el planeta configura molts hàbitats: des d'una clapa de bosc a Zàmbia fins a l'Amazones, i des de Sud-àfrica fins al desert de Gobi, al nostre planeta perfecte hi ha moltes espècies que depenen del temps.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"
       },
       {
-        "start": "2026-09-21T15:44:21+02:00",
-        "stop": "2026-09-21T16:31:22+02:00",
-        "title": "Aeroport",
-        "subtitle": "Aeroport - Manteniment",
-        "description": "A l'aeroport hi ha un equip de persones que treballen sense parar perquè tot funcioni i estigui net i polit. Fan el manteniment. Això, de vegades, vol dir canviar el motor d'un A320 que pesa més de 2.000 quilos o asfaltar una pista d'aterratge. Tot, per satisfer al viatger, com una monja que ha corregut món amb moltes aventures per explicar.",
-        "genre": "Docu-Entreteniment",
+        "start": "2026-09-21T20:59:43+02:00",
+        "stop": "2026-09-21T21:01:20+02:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
