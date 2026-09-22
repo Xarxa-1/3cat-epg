@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-22T10:50:07.246502+00:00",
+  "updated": "2026-09-22T15:22:04.437189+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-22T10:29:48+02:00",
-        "stop": "2026-09-22T13:55:00+02:00",
-        "title": "Tot es mou",
-        "subtitle": "Tot es mou",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
-        "genre": "MAGAZINE",
-        "image": ""
-      },
-      {
-        "start": "2026-09-22T13:55:00+02:00",
-        "stop": "2026-09-22T14:30:00+02:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "Telenotícies comarques",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "start": "2026-09-22T17:20:12+02:00",
+        "stop": "2026-09-22T17:27:37+02:00",
+        "title": "CUINES CATALUNYA",
+        "subtitle": "CUINES CATALUNYA - Sopa de col i cigrons",
+        "description": "L'Arnau París ens demostra que hi ha vida més enllà de la col bullida. El cuiner més eixerit de 3cat fa un plat tradicional de la cuina catalana, sopa de col, i hi afegeix unes pilotilles o mandonguilles petites. Qui diu que menjar col és avorrit? Al contrari, és una manera original i diferent de menjar aquesta hortalissa, i fet en un pim-pam.",
+        "genre": "CUINA",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-22T12:30:00+02:00",
-        "stop": "2026-09-22T13:30:00+02:00",
-        "title": "Roda de premsa posterior al Consell Executiu",
+        "start": "2026-09-22T17:00:00+02:00",
+        "stop": "2026-09-22T18:30:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
-        "genre": "ESPECIALS INFORMATIUS",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1723457240743.jpg"
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-22T13:30:00+02:00",
-        "stop": "2026-09-22T13:55:00+02:00",
+        "start": "2026-09-22T18:30:00+02:00",
+        "stop": "2026-09-22T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,86 +74,66 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-22T11:29:04+02:00",
-        "stop": "2026-09-22T13:00:00+02:00",
-        "title": "Onze",
-        "subtitle": "Onze",
-        "description": "Carles Fité, Xavi Torres, Aina Cerdà i Jordi Martí analitzen el derbi madrileny i les crítiques de Mourinho a l'arbitratge. En Marc Mayola posa la lupa en alguns detalls tàctics del partit del Barça a Sevilla. En Joan Fàbregas repassa les jugades polèmiques de la jornada.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-22T17:16:31+02:00",
+        "stop": "2026-09-22T17:33:00+02:00",
+        "title": "Thalassa curts",
+        "subtitle": "Thalassa curts - Les veles de Stintitno",
+        "description": "",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-22T13:00:00+02:00",
-        "stop": "2026-09-22T14:01:13+02:00",
-        "title": "Esport Club",
-        "subtitle": "Esport Club",
-        "description": "En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-22T17:33:00+02:00",
+        "stop": "2026-09-22T17:59:00+02:00",
+        "title": "Top gols La Lliga",
+        "subtitle": "Top gols La Lliga - Jornada 7",
+        "description": "'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.",
+        "genre": "ESPECIALS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-22T12:34:54+02:00",
-        "stop": "2026-09-22T12:56:58+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - Balenes i calamars",
-        "description": "Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!",
+        "start": "2026-09-22T17:23:53+02:00",
+        "stop": "2026-09-22T17:35:05+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - Rescats extrems: La Patrulla i els ossos d’or amagats",
+        "description": "A Badia Aventures, tot comença a tremolar i a trencar-se. En Ryder encarrega a en Rocky que dirigeixi un rescat extrem de reparació amb tota la Patrulla.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-22T12:56:58+02:00",
-        "stop": "2026-09-22T13:18:10+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El detectiu Conan - Visita als inferns de l'amor (Episodi de Beppu)",
-        "description": "En Kogoro Mouri convida la Ran i en Conan a anar a visitar Beppu i les seves fonts termals, però en Conan s'adona que el detectiu es comporta d'una manera estranya fins que descobreix que l'autèntic propòsit del viatge és buscar la filla d'un empresari molt important que se n'ha anat de casa. Casualment, en Takagi i la Sato també visiten la mateixa zona.",
+        "start": "2026-09-22T17:35:05+02:00",
+        "stop": "2026-09-22T17:45:38+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva un rellotge de cucut",
+        "description": "La Chickaletta es queda tancada a dins del rellotge de cucut d'en Jake i el rellotge comença a caure muntanya avall. En Ryder i la Patrulla Peluda hauran d'anar a rescatar la gallina i el rellotge.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-22T12:27:52+02:00",
-        "stop": "2026-09-22T13:37:20+02:00",
-        "title": "El Gran Dictat, VIP",
-        "subtitle": "El Gran Dictat, VIP - El Gran Gran Dictat",
-        "description": "'El gran gran dictat', la versió estiuenca del concurs de TV3 que presenta Òscar Dalmau, tanca la temporada d'estiu amb el mateix sentit de l'humor que ha caracteritzat les entregues anteriors. L'actriu Sílvia Abril, el presentador d''Òpera en texans', Ramon Gener, i la col·laboradora del programa 'Divendres' Ana Boadas seran els encarregats de tancar aquestes edicions especials d'una hora que han animat el prime-time de la cadena durant els dilluns d'estiu.",
-        "genre": "EDUCATIU",
+        "start": "2026-09-22T17:20:05+02:00",
+        "stop": "2026-09-22T18:03:27+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "Viatges insòlits - Dubai",
+        "description": "Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-22T13:37:20+02:00",
-        "stop": "2026-09-22T14:07:25+02:00",
-        "title": "No tenim vergonya",
-        "subtitle": "No tenim vergonya",
-        "description": "'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.",
-        "genre": "REPORTATGES",
+        "start": "2026-09-22T18:03:27+02:00",
+        "stop": "2026-09-22T18:47:29+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "Viatges insòlits - Ulan Bator",
+        "description": "Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-09-22T12:32:07+02:00",
-        "stop": "2026-09-22T14:32:02+02:00",
-        "title": "Roda de premsa posterior al Consell Executiu",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/2/1723647268726.jpg"
-      }
-    ],
-    "oca2": [
-      {
-        "start": "2026-09-22T12:48:18+02:00",
-        "stop": "2026-09-22T14:48:13+02:00",
-        "title": "Roda de premsa posterior al Consell de Ministres",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/5/1766758430658.jpg"
-      }
-    ],
+    "oca1": [],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
