@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-21T22:14:18.316702+00:00",
+  "updated": "2026-09-22T00:52:21.702856+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-21T23:48:27+02:00",
-        "stop": "2026-09-22T00:17:47+02:00",
-        "title": "Xefs: noves generacions",
-        "subtitle": "Xefs: noves generacions - Martina Puigvert (Restaurant Les Cols)",
-        "description": "Martina Puigvert lidera la cuina de Les Cols, on assumeix el relleu generacional amb les seves dues germanes, donant continuïtat i evolució a un dels projectes gastronòmics més singulars del país. Filla de Fina Puigdevall, ha sabut refinar una cuina radicalment garrotxina, basada en el producte de proximitat i de temporada, sense trencar l'ADN de la casa. Formada al Basque Culinary Center i amb experiències en cuines d'alta exigència com el Koy Shunka, aporta rigor, mètode i una visió contemporània al restaurant, cosa que l'ha portat a rebre el Premi Michelin al Millor Xef Jove.",
-        "genre": "SÈRIE DOCUMENTAL",
-        "image": ""
+        "start": "2026-09-22T02:38:23+02:00",
+        "stop": "2026-09-22T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-22T00:17:47+02:00",
-        "stop": "2026-09-22T00:55:16+02:00",
-        "title": "Xefs: noves generacions",
-        "subtitle": "Xefs: noves generacions - Rafel Muria (Restaurant Quatre Molins)",
-        "description": "Rafel Muria és l'ànima de Quatre Molins, un projecte que connecta la cuina d'autor amb els vins del Priorat. Format al costat de grans noms de l'alta gastronomia, com Michel Bras i Joël Robuchon, Muria ha construït una proposta personal, arrelada i exigent que l'ha portat a guanyar una Estrella Michelin. Hereu d'una nissaga d'apicultors del Perelló, és conegut com 'el xef de la mel', un ingredient que apareix amb precisió i equilibri en els seus plats. El capítol mostra una cuina que explica territori, paisatge i emoció, i que situa el Priorat al centre del mapa gastronòmic contemporani.",
-        "genre": "SÈRIE DOCUMENTAL",
+        "start": "2026-09-22T04:00:00+02:00",
+        "stop": "2026-09-22T05:00:00+02:00",
+        "title": "Ritmes a l'estudi",
+        "subtitle": "Ritmes a l'estudi - SHARK",
+        "description": "Cinc veus, cinc instrumentistes que són un reflex del panorama actual barceloní. Partint de les composicions del trombonista Tom Johnson, els Shark es deixen anar en una improvisació explosiva, que sorprèn i et convida a vibrar amb el seu groove. En la gravació d'avui podrem gaudir del seu so sòlid, fluid, delicat i alhora punyent.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-22T00:00:00+02:00",
-        "stop": "2026-09-22T00:30:00+02:00",
+        "start": "2026-09-22T01:00:00+02:00",
+        "stop": "2026-09-22T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-22T00:30:00+02:00",
-        "stop": "2026-09-22T01:00:00+02:00",
+        "start": "2026-09-22T06:00:00+02:00",
+        "stop": "2026-09-22T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-21T23:00:20+02:00",
-        "stop": "2026-09-22T00:31:12+02:00",
-        "title": "Onze",
-        "subtitle": "Onze",
-        "description": "Carles Fité, Xavi Torres, Aina Cerdà i Jordi Martí analitzen el derbi madrileny i les crítiques de Mourinho a l'arbitratge. En Marc Mayola posa la lupa en alguns detalls tàctics del partit del Barça a Sevilla. En Joan Fàbregas repassa les jugades polèmiques de la jornada.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-22T02:39:03+02:00",
+        "stop": "2026-09-22T04:09:56+02:00",
+        "title": "Tot Costa",
+        "subtitle": "Tot Costa",
+        "description": "Ja ha tornat. El tècnic del Madrid, José Mourinho, carrega contra els àrbitres després de perdre el derbi madrileny. En parlarem amb Dani Senabre i Gemma Mallorca, i hi posarem la lupa del 'VARòmetre', amb Joan Fàbregas. Amb Ricard Torquemada ens preguntarem si Raphinha és el millor 9 que pot tenir el Barça i anirem al balcó de l'Ajuntament de Badalona, amb Ernest Macià, per celebrar la Supercopa de la Penya. ",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       },
       {
-        "start": "2026-09-22T00:31:12+02:00",
-        "stop": "2026-09-22T01:01:53+02:00",
+        "start": "2026-09-22T04:09:56+02:00",
+        "stop": "2026-09-22T04:28:39+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "3CatInfo Esports",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,41 +103,41 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-22T00:11:49+02:00",
-        "stop": "2026-09-22T00:32:50+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - Aquagranota",
-        "description": "Tot estudiant les granotes bramadores, en Martin i en Chris descobreixen que en Zach Virusmàtic ha contaminat el riu i ha posat en perill tot el seu cicle vital. Per salvar tota la fauna dels residus tòxics, els germans Kratt hauran d'activar el poder de granota, però hauran de passar per tot el seu cicle biològic. I això vol dir que començaran sent capgrossos!",
+        "start": "2026-09-22T02:48:30+02:00",
+        "stop": "2026-09-22T03:09:24+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - L'aixafaguitarres",
+        "description": "Els amics de l'Adrien aprofiten que el seu pare se n'ha anat de viatge, o això es pensen, per organitzar una gran festa d'amics a casa seva. Hi va un munt de gent, però el Wayem es pensa que l'han deixat de banda, i l'Esfinx aprofitarà aquest sentiment per convertir-lo en un dels malvats més potents que ha creat mai.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-22T00:32:50+02:00",
-        "stop": "2026-09-22T00:54:21+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - Globus i peix globus",
-        "description": "Mentre estudiaven els peixos globus, els germans Kratt s'han trobat la Donita Donata, la malèfica dissenyadora que explota els animals en perill d'extinció, i han decidit miniaturitzar-se per seguir-la. Ara el problema és que se'ls ha endut un corrent marí de plàncton i estan perduts entre 60.000 bilions de litres d'aigua! Com s'ho faran per trobar-los?!",
+        "start": "2026-09-22T03:09:24+02:00",
+        "stop": "2026-09-22T03:30:02+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - La Titellaire 2",
+        "description": "L'Adrien ha d'anar al museu de cera perquè han de fer una reparació a la seva estàtua i convida el Nino a acompanyar-lo. El Nino convida l'Alya, que al seu torn convida la Marinette, que fa de cangur a la Manon. A la nena li fa la sensació que ningú li fa cas, i l'Esfinx aprofita aquest sentiment d'abandó per convertir-la un altre cop en la Titellaire.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-21T23:52:01+02:00",
-        "stop": "2026-09-22T00:38:57+02:00",
-        "title": "Aeroport",
-        "subtitle": "Aeroport - Plataforma",
-        "description": "Viatjar ja no és un luxe i els aeroports s'han convertit en les noves catedrals del món. Un formiguer ple d'històries, de passatgers i dels que hi treballen, com el Pau, capatàs de rampa, que ha d'esbrinar si el seu equip ha ratllat a un avió de 75 milions d'euros amb una escala.",
-        "genre": "Docu-Entreteniment",
+        "start": "2026-09-22T02:31:39+02:00",
+        "stop": "2026-09-22T03:06:49+02:00",
+        "title": "km33",
+        "subtitle": "km33 - Brasil",
+        "description": "El Nil se'n va al Brasil per recórrer la costa del nord-est. Descobreix paisatges verges i la vida dels pescadors. Coneix una parella que fa la volta al món. Junts acaben en un paradís: Jericoacoara. I a més a més: el nord-est del Brasil, rutes excèntriques, i com es prepara un viatge d'un any.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-22T00:38:57+02:00",
-        "stop": "2026-09-22T00:55:11+02:00",
-        "title": "Programa sindical UGT",
-        "subtitle": "Programa sindical UGT - Es continua cremant el bosc",
-        "description": "Les xifres dels incendis d'enguany són alarmants, fins a finals d'agost, a Catalunya, se n'han registrat un total de 949. La nova situació, provocada pel canvi climàtic, deixa en evidència la manca de recursos destinats a la lluita contra el foc d'una administració que sembla que només pensa en els incendis quan ja és tard. La precarietat que viu el cos de Bombers, provocada per anys sense inversió, ajuda que els boscos es cremin cada any una mica més.  Hi intervenen: Yolanda Funessecretària de Canvi Climàtic i Transició Justa UGT de Catalunya Reyes Solazsecretària nacional UGT de Catalunya Jordi Juliàresponsable Salut Laboral UGT de Catalunya de la GeneralitatToño del Riosecretari general Bombers UGT de CatalunyaConveni ARTE",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-22T03:06:49+02:00",
+        "stop": "2026-09-22T03:35:31+02:00",
+        "title": "Arts i oficis",
+        "subtitle": "Arts i oficis - Regidoria",
+        "description": "L'ofici de regidor escènic fa possible que un esdeveniment pensat per a escena comenci i acabi tal com s'havia previst. A partir de la informació que rep del director artístic, el regidor és el responsable de la coordinació de tots els departaments que treballen sobre un escenari perquè cada representació comenci i acabi com estava previst. És una tècnica o és un art? Aquest és una debat etern i mentrestant l'Escola Superior de Tècniques de les Arts de l'Espectacle de l'Institut del Teatre forma aquests futurs professionals i els transmet les tècniques i l'empatia necessàries per treure el millor de cada un dels treballadors implicats en la producció. Perquè, per sobre de tot, l'espectacle ha de continuar.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
