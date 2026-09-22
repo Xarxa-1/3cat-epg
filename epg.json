@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-22T00:52:21.702856+00:00",
+  "updated": "2026-09-22T05:46:38.820478+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-22T02:38:23+02:00",
-        "stop": "2026-09-22T04:00:00+02:00",
+        "start": "2026-09-22T06:00:00+02:00",
+        "stop": "2026-09-22T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,25 +52,16 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-22T04:00:00+02:00",
-        "stop": "2026-09-22T05:00:00+02:00",
-        "title": "Ritmes a l'estudi",
-        "subtitle": "Ritmes a l'estudi - SHARK",
-        "description": "Cinc veus, cinc instrumentistes que són un reflex del panorama actual barceloní. Partint de les composicions del trombonista Tom Johnson, els Shark es deixen anar en una improvisació explosiva, que sorprèn i et convida a vibrar amb el seu groove. En la gravació d'avui podrem gaudir del seu so sòlid, fluid, delicat i alhora punyent.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-22T08:00:00+02:00",
+        "stop": "2026-09-22T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "Matins",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
-      {
-        "start": "2026-09-22T01:00:00+02:00",
-        "stop": "2026-09-22T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-09-22T06:00:00+02:00",
         "stop": "2026-09-22T08:00:00+02:00",
@@ -79,64 +70,73 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-22T08:00:00+02:00",
+        "stop": "2026-09-22T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-22T02:39:03+02:00",
-        "stop": "2026-09-22T04:09:56+02:00",
-        "title": "Tot Costa",
-        "subtitle": "Tot Costa",
-        "description": "Ja ha tornat. El tècnic del Madrid, José Mourinho, carrega contra els àrbitres després de perdre el derbi madrileny. En parlarem amb Dani Senabre i Gemma Mallorca, i hi posarem la lupa del 'VARòmetre', amb Joan Fàbregas. Amb Ricard Torquemada ens preguntarem si Raphinha és el millor 9 que pot tenir el Barça i anirem al balcó de l'Ajuntament de Badalona, amb Ernest Macià, per celebrar la Supercopa de la Penya. ",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+        "start": "2026-09-22T07:08:25+02:00",
+        "stop": "2026-09-22T08:39:35+02:00",
+        "title": "Onze",
+        "subtitle": "Onze",
+        "description": "Carles Fité, Xavi Torres, Aina Cerdà i Jordi Martí analitzen el derbi madrileny i les crítiques de Mourinho a l'arbitratge. En Marc Mayola posa la lupa en alguns detalls tàctics del partit del Barça a Sevilla. En Joan Fàbregas repassa les jugades polèmiques de la jornada.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-22T04:09:56+02:00",
-        "stop": "2026-09-22T04:28:39+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "3CatInfo Esports",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-22T08:39:35+02:00",
+        "stop": "2026-09-22T09:13:37+02:00",
+        "title": "Aire Lliure",
+        "subtitle": "Aire Lliure - Triquell",
+        "description": "L'escenari de gravació de l'últim 'Aire lliure' d'aquest estiu serà l'aeròdrom d'Empuriabrava, on l'atleta Núria Picas convida el cantant Cesc Triquell a fer un salt amb paracaigudes i un vol espectacular en el túnel del vent. Després d'una intensíssima jornada de gravació, Triquell posarà punt i final a la temporada d''Aire lliure', interpretant 'Under Pressure', de Queen. ",
+        "genre": "REPORTATGES",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-22T02:48:30+02:00",
-        "stop": "2026-09-22T03:09:24+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - L'aixafaguitarres",
-        "description": "Els amics de l'Adrien aprofiten que el seu pare se n'ha anat de viatge, o això es pensen, per organitzar una gran festa d'amics a casa seva. Hi va un munt de gent, però el Wayem es pensa que l'han deixat de banda, i l'Esfinx aprofitarà aquest sentiment per convertir-lo en un dels malvats més potents que ha creat mai.",
+        "start": "2026-09-22T07:43:58+02:00",
+        "stop": "2026-09-22T07:54:31+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva els nens de Halloween",
+        "description": "Per Halloween, un nen misteriós disfressat d'aranya gegant s'endú tots els caramels de Badia Aventures!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-22T03:09:24+02:00",
-        "stop": "2026-09-22T03:30:02+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - La Titellaire 2",
-        "description": "L'Adrien ha d'anar al museu de cera perquè han de fer una reparació a la seva estàtua i convida el Nino a acompanyar-lo. El Nino convida l'Alya, que al seu torn convida la Marinette, que fa de cangur a la Manon. A la nena li fa la sensació que ningú li fa cas, i l'Esfinx aprofita aquest sentiment d'abandó per convertir-la un altre cop en la Titellaire.",
+        "start": "2026-09-22T07:54:31+02:00",
+        "stop": "2026-09-22T08:05:34+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva una minipatrulla fora de control",
+        "description": "L'Alex i la seva Minipatrulla han agafat la moto a reacció d'en Danny l'Audaç sense voler!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-22T02:31:39+02:00",
-        "stop": "2026-09-22T03:06:49+02:00",
-        "title": "km33",
-        "subtitle": "km33 - Brasil",
-        "description": "El Nil se'n va al Brasil per recórrer la costa del nord-est. Descobreix paisatges verges i la vida dels pescadors. Coneix una parella que fa la volta al món. Junts acaben en un paradís: Jericoacoara. I a més a més: el nord-est del Brasil, rutes excèntriques, i com es prepara un viatge d'un any.",
+        "start": "2026-09-22T07:26:35+02:00",
+        "stop": "2026-09-22T08:19:26+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Experiència Catalana - Puan",
+        "description": "La Putri Anindya, més coneguda com la 'Puan', és una jove indonèsia que, acompanyada de la Ivana Miño, descobreix la Sagrada Família, el Tibidabo i llocs magnífics del Berguedà. A més, a Berga, l'espera una experiència única; la Patum.",
         "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-22T03:06:49+02:00",
-        "stop": "2026-09-22T03:35:31+02:00",
-        "title": "Arts i oficis",
-        "subtitle": "Arts i oficis - Regidoria",
-        "description": "L'ofici de regidor escènic fa possible que un esdeveniment pensat per a escena comenci i acabi tal com s'havia previst. A partir de la informació que rep del director artístic, el regidor és el responsable de la coordinació de tots els departaments que treballen sobre un escenari perquè cada representació comenci i acabi com estava previst. És una tècnica o és un art? Aquest és una debat etern i mentrestant l'Escola Superior de Tècniques de les Arts de l'Espectacle de l'Institut del Teatre forma aquests futurs professionals i els transmet les tècniques i l'empatia necessàries per treure el millor de cada un dels treballadors implicats en la producció. Perquè, per sobre de tot, l'espectacle ha de continuar.",
+        "start": "2026-09-22T08:19:26+02:00",
+        "stop": "2026-09-22T08:49:36+02:00",
+        "title": "Cosins Germans",
+        "subtitle": "Cosins Germans - La València de Ferran",
+        "description": "El cuiner Ricard Camarena serà el cicerone de l'Empar i el Ferran al Mercat Central (la Boqueria valenciana). L'historiador Evarist Caselles els guiarà per la València del segle XV. El Micalet, la Catedral, però sobretot la Llotja de la Seda són els edificis cabdals d'aquest moment històric, encarà que no serà l'arquitectura precisament el que els deixarà bocabadats. Una passejada pels Poblats Marítims posarà fi al recorregut més patrimonial per la ciutat. Però encara els espera una altra cara de la ciutat. Es tracta de la València de les novel·les de Ferran Torrent. Després d'un dinar amb amics i d'assistir a un partit del Llevant, aquest itinerari per l'univers personal i literari de l'escriptor desembocarà en una 'road movie' nocturna en què coneixeran les espècies protegides que habiten la ciutat.",
         "genre": "ALTRES",
         "image": ""
       }
