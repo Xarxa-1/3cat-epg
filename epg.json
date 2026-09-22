@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-22T15:22:04.437189+00:00",
+  "updated": "2026-09-22T19:01:02.113326+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,19 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-22T17:20:12+02:00",
-        "stop": "2026-09-22T17:27:37+02:00",
-        "title": "CUINES CATALUNYA",
-        "subtitle": "CUINES CATALUNYA - Sopa de col i cigrons",
-        "description": "L'Arnau París ens demostra que hi ha vida més enllà de la col bullida. El cuiner més eixerit de 3cat fa un plat tradicional de la cuina catalana, sopa de col, i hi afegeix unes pilotilles o mandonguilles petites. Qui diu que menjar col és avorrit? Al contrari, és una manera original i diferent de menjar aquesta hortalissa, i fet en un pim-pam.",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-09-22T21:00:00+02:00",
+        "stop": "2026-09-22T21:59:56+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "Telenotícies vespre",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+      },
+      {
+        "start": "2026-09-22T21:59:56+02:00",
+        "stop": "2026-09-22T22:07:04+02:00",
+        "title": "De primera!",
+        "subtitle": "- La verema",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-22T17:00:00+02:00",
-        "stop": "2026-09-22T18:30:00+02:00",
+        "start": "2026-09-22T20:00:00+02:00",
+        "stop": "2026-09-22T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-22T18:30:00+02:00",
-        "stop": "2026-09-22T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-22T21:00:00+02:00",
+        "stop": "2026-09-22T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-22T17:16:31+02:00",
-        "stop": "2026-09-22T17:33:00+02:00",
-        "title": "Thalassa curts",
-        "subtitle": "Thalassa curts - Les veles de Stintitno",
-        "description": "",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-22T20:50:13+02:00",
+        "stop": "2026-09-22T21:50:18+02:00",
+        "title": "Futbol",
+        "subtitle": "Futbol - Reial Madrid CF-PSG / Champions League / J1",
+        "description": "Les blanques comencen la seva participació al gran campionat europeu contra les terceres classificades de la temporada passada a la lliga francesa.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"
       },
       {
-        "start": "2026-09-22T17:33:00+02:00",
-        "stop": "2026-09-22T17:59:00+02:00",
-        "title": "Top gols La Lliga",
-        "subtitle": "Top gols La Lliga - Jornada 7",
-        "description": "'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.",
-        "genre": "ESPECIALS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"
+        "start": "2026-09-22T21:50:18+02:00",
+        "stop": "2026-09-22T22:03:58+02:00",
+        "title": "Zona UFEC",
+        "subtitle": "Zona UFEC",
+        "description": "'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-22T17:23:53+02:00",
-        "stop": "2026-09-22T17:35:05+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla Peluda - Rescats extrems: La Patrulla i els ossos d’or amagats",
-        "description": "A Badia Aventures, tot comença a tremolar i a trencar-se. En Ryder encarrega a en Rocky que dirigeixi un rescat extrem de reparació amb tota la Patrulla.",
+        "start": "2026-09-22T20:59:44+02:00",
+        "stop": "2026-09-22T21:22:00+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Bola de drac Z - Les tàctiques secretes d'en Son Goku",
+        "description": "La intensitat de l'enfrontament fa que en Cèl·lula canviï les regles del torneig i, després de destruir el ring, la lluita es converteix en un combat a vida o mort. Aleshores, en Son Goku, davant de la sorpresa de tothom, decideix carregar un kamehameha des de l'aire per atacar en Cèl·lula, que és a la Terra, convençut que el seu rival no serà capaç de destrossar tot el planeta.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-22T17:35:05+02:00",
-        "stop": "2026-09-22T17:45:38+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla Peluda - La Patrulla salva un rellotge de cucut",
-        "description": "La Chickaletta es queda tancada a dins del rellotge de cucut d'en Jake i el rellotge comença a caure muntanya avall. En Ryder i la Patrulla Peluda hauran d'anar a rescatar la gallina i el rellotge.",
+        "start": "2026-09-22T21:22:00+02:00",
+        "stop": "2026-09-22T21:40:46+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Bola de drac Z - La rendició d'en Son Goku",
+        "description": "Després de caure fulminat amb l'increïble kamehameha d'en Son Goku, en Cèl·lula es regenera del tot i continua el combat. L'orgull d'en Son Goku, que després de l'últim atac s'ha quedat sense força, no li permet menjar-se una mongeta màgica per recuperar energia i, per sorpresa de tothom, acaba rendint-se.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-22T17:20:05+02:00",
-        "stop": "2026-09-22T18:03:27+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Viatges insòlits - Dubai",
-        "description": "Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-22T21:01:52+02:00",
+        "stop": "2026-09-22T21:10:45+02:00",
+        "title": "Gran!",
+        "subtitle": "Gran! - Els Pets: 'Bon dia'",
+        "description": "'Bon dia', la cançó editada l'any 1997 dins del disc 'Bondia', s'ha convertit en un dels temes més emblemàtics del grup i en un autèntic hit intergeneracional, a banda d'un clàssic del cançoner del pop rock cantat en català. Aquella melodia senyera amb què es reconeix una formació i sempre és un reclam necessari en el seu repertori en directe. Amb 40 anys de trajectòria, la formació de Constantí va assolir el cim de la popularitat (venent més de 100.00 còpies) i el reconeixement de la crítica a partir d'aquest lluminós senzill i, per extensió, amb un disc que va encetar una nova i exitosa trajectòria: de cop, l'aparença de conjunt d''esperit de festa major' creixia en ambició estilística i expressiva, i abraçava influències com el brit-pop, l'electrònica, el rock nord-americà, etc. I sempre sense perdre la seva identitat i manera de ser. ",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
       },
       {
-        "start": "2026-09-22T18:03:27+02:00",
-        "stop": "2026-09-22T18:47:29+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Viatges insòlits - Ulan Bator",
-        "description": "Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-22T21:10:45+02:00",
+        "stop": "2026-09-22T21:36:04+02:00",
+        "title": "Plats bruts",
+        "subtitle": "Plats bruts - Tinc classe",
+        "description": "El López ha de tornar a la Universitat per aconseguir el títol de llicenciat. Allà comprova que els estudiants d'ara ja no són com els de la seva època. El Ramon sospita que entre ell i la iaia potser hi ha alguna cosa més que amistat.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       }
     ],
