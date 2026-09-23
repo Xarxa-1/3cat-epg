@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-23T00:30:41.551239+00:00",
+  "updated": "2026-09-23T05:10:47.082984+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-23T02:00:00+02:00",
-        "stop": "2026-09-23T04:00:00+02:00",
+        "start": "2026-09-23T06:00:00+02:00",
+        "stop": "2026-09-23T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "Notícies 3CatInfo",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,25 +52,16 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-23T04:00:00+02:00",
-        "stop": "2026-09-23T05:00:00+02:00",
-        "title": "Ritmes a l'estudi",
-        "subtitle": "Ritmes a l'estudi - TRIPHASSIC",
-        "description": "Llibert Fortuny i Gary Willies afegeixen un nou projecte a la seva ja àmplia trajectòria. Aquest trio ens ofereixen un repertori peculiar en què els elements electrònics es barregen amb els del jazz, i aconsegueix noves maneres d'expressió. En la sessió que segueix, veureu un Llibert carregat d'efectes analògics i digitals, que donen com a fruit un deliri sonor molt ben acompanyat rítmicament per Willis i Davis Gómez.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-23T08:00:00+02:00",
+        "stop": "2026-09-23T10:29:57+02:00",
+        "title": "Matins",
+        "subtitle": "Matins",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
-      {
-        "start": "2026-09-23T01:00:00+02:00",
-        "stop": "2026-09-23T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-09-23T06:00:00+02:00",
         "stop": "2026-09-23T08:00:00+02:00",
@@ -79,21 +70,30 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-23T08:00:00+02:00",
+        "stop": "2026-09-23T09:00:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-23T02:16:45+02:00",
-        "stop": "2026-09-23T02:33:18+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "3CatInfo Esports",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-23T06:52:48+02:00",
+        "stop": "2026-09-23T08:23:27+02:00",
+        "title": "Onze",
+        "subtitle": "Onze",
+        "description": "Sique Rodríguez, Jordi Costa, Paula Reverter i Ivan San Antonio es recreen en el bon estat de forma del Barça. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer contesta les preguntes dels espectadors.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-23T02:33:18+02:00",
-        "stop": "2026-09-23T04:14:19+02:00",
+        "start": "2026-09-23T08:23:27+02:00",
+        "stop": "2026-09-23T10:04:47+02:00",
         "title": "Futbol",
         "subtitle": "Futbol - Reial Madrid CF-PSG / Champions League / J1",
         "description": "Les blanques comencen la seva participació al gran campionat europeu contra les terceres classificades de la temporada passada a la lliga francesa.",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-23T02:25:32+02:00",
-        "stop": "2026-09-23T02:46:39+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Ladybug",
-        "description": "La Lila, empesa per l'Esfinx, li para una trampa a la Marinette perquè tothom es pensi que ha copiat les respostes en un examen. La Mayura també hi col·labora amb un sentimonstre molt especial, una reproducció gairebé perfecta de Ladybug. Al Gat Noir li costarà distingir quina de les dues és l'autèntica.",
+        "start": "2026-09-23T06:59:47+02:00",
+        "stop": "2026-09-23T07:10:59+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva els pingüins polissons",
+        "description": "Uns pingüins s'han escampat per tot Badia Aventures! És hora de trucar a la Patrulla Peluda!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-23T02:46:39+02:00",
-        "stop": "2026-09-23T03:07:41+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Menjaamor (1a part)",
-        "description": "L'André Bourgeois i la seva dona, l'Audrey, fan anys de casats. Però a la festa que celebren, tothom veu que no se suporten. L'Esfinx ho aprofita per crear un monstre que s'alimenta de l'amor dels altres, un monstre tan poderós que la Marinette haurà de demanar ajuda al mestre Fu, i l'Esfinx no perdrà aquesta ocasió per localitzar-lo.",
+        "start": "2026-09-23T07:10:59+02:00",
+        "stop": "2026-09-23T07:21:32+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Peluda - La Patrulla salva un campionat de surf de neu",
+        "description": "En Jake i l'Everest tenen moltes ganes de fer el campionat de surf de neu, però resulta que hi ha hagut un temporal i la pista ha quedat colgada de neu.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-23T02:19:45+02:00",
-        "stop": "2026-09-23T02:58:07+02:00",
-        "title": "km33",
-        "subtitle": "km33 - Estònia",
-        "description": "El Frederic sovint enyora Estònia, on va ser amb una beca Erasmus. Torna al país bàltic per retrobar-se amb l'atmosfera de conte de Tallinn. Aprofita per visitar els amics i descobrir amb ells zones encara desconegudes.",
-        "genre": "ALTRES",
+        "start": "2026-09-23T06:30:20+02:00",
+        "stop": "2026-09-23T07:17:39+02:00",
+        "title": "El Foraster",
+        "subtitle": "El Foraster - Els regals del Foraster",
+        "description": "En l'últim capítol d'aquesta entrega d'El Foraster, en Quim recordarà els moments que la gent li ha regalat en els darrers pobles que ha visitat. Un recull d'emocions, amb històries divertides i històries emotives. Com la de la Maria i en Lluís, la mare i el fill que li regalen tot el seu temps i dedicació a la seva passió, els fesols de Santa Pau. O en Marcial i en Rafel de Sant Martí de Tous, que ens van regalar estones molt divertides amb els seus riures i el seu pèndol revelador. També podrem tornar a gaudir del regal que ens va fer l'Eli, quan ens va ensenyar com és el fons marí d'un indret tan bonic com Cadaqués. O el gran regal en forma d'abraçada que les Quimetes de Pacs del Penedés li van fer a en Quim. I ens podrem tornar a emocionar amb en Joan i en Hammou, el patró i el jornaler de Riudecanyes que ens van regalar la seva gran història.Santa Pau, Pacs del Penedés, Serinyà, Cadaqués, Sant Martí de Tous i Riudecanyes són els darrers pobles on en Quim ha pogut desembolicar els últims regals. Aquelles grans històries que hi ha darrera dels petits pobles.",
+        "genre": "VARIETATS",
         "image": ""
       },
       {
-        "start": "2026-09-23T02:58:07+02:00",
-        "stop": "2026-09-23T03:35:18+02:00",
-        "title": "km33",
-        "subtitle": "km33 - NY",
-        "description": "A la capital del mónLa Sandra i l'Oriol tornen a Nova York per perdre's en la metròpolis on algun dia voldrien viure. Des dels clàssics gratacels de Manhattan fins al Brooklyn emergent, passant pels barris multiculturals o l'imaginari 'freak' de Coney Island.I a més a més:L'IMPRESCINDIBLETours i visites que cal fer la primera vegada que es va a la ciutat.TURISME GASTRONÒMICViatjar pel món amb un objectiu ben gustós: la cultura del menjar.I UN CALENDARIDotze mesos, dotze esdeveniments gratuïts per gaudir d'una ciutat que no dorm mai.",
+        "start": "2026-09-23T07:17:39+02:00",
+        "stop": "2026-09-23T08:10:33+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Experiència Catalana - Corno",
+        "description": "Amb el Corno van der Berg, un jove holandès, visitem diferents indrets naturals dels Pallars i coneixem la tradicional baixada de falles d'Isil. A més, al circuit Barcelona-Catalunya gaudeix d'una experiència al límit.",
         "genre": "ALTRES",
         "image": ""
       }
