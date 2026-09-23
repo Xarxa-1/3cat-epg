@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-23T14:47:32.436000+00:00",
+  "updated": "2026-09-23T18:47:17.454257+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-23T16:41:26+02:00",
-        "stop": "2026-09-23T17:16:48+02:00",
-        "title": "La Riera",
+        "start": "2026-09-23T20:15:03+02:00",
+        "stop": "2026-09-23T21:00:00+02:00",
+        "title": "Està passant",
         "subtitle": "",
-        "description": "L'arribada del nou xef és imminent i a en Sergi no li fa cap gràcia. La Txell torna a la feina i a en Joan li ofereixen un ascens. En Mauri es presenta a la cuina, però les noies, sobretot la seva filla, li fan un paper de por. La Mercè vol que la Sònia el deixi en pau. Els germans es consolen i es fan companyia... i confidències.",
-        "genre": "TELENOVEL·LA",
-        "image": ""
+        "description": "En Jair i la Natza ens expliquen què ha passat amb la diputada gallega del PP, Ana Vázquez i un gas pebre. En Magí ens posa al dia de l'actualitat esportiva i l'Ignasi Taltavull proposa una nova llei relacionada amb el teatre",
+        "genre": "GAGS. HUMOR",
+        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
       },
       {
-        "start": "2026-09-23T17:16:48+02:00",
-        "stop": "2026-09-23T17:31:09+02:00",
-        "title": "CUINES CATALUNYA",
-        "subtitle": "Col saltada",
-        "description": "Aquest plat és perfecte per fer-se'l per sopar perquè és lleugeret, arreplegues les quatre coses que t'han quedat a la nevera i porta poca feina. Fem col saltada. ",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-09-23T21:00:00+02:00",
+        "stop": "2026-09-23T22:05:46+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-23T16:00:00+02:00",
-        "stop": "2026-09-23T17:00:00+02:00",
+        "start": "2026-09-23T20:00:00+02:00",
+        "stop": "2026-09-23T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-23T17:00:00+02:00",
-        "stop": "2026-09-23T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-23T21:00:00+02:00",
+        "stop": "2026-09-23T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-23T16:16:46+02:00",
-        "stop": "2026-09-23T17:03:05+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Ciutat de Mèxic",
-        "description": "Amb més de 22 milions d'habitants, Ciutat de Mèxic és una de les ciutats més grans i més influents del món. A la dècada de 1990, la ciutat encapçalava tota mena de llistes que descrivien la inhabitabilitat de la ciutat. Era una ciutat perillosa amb unes xifres de delinqüència disparades i milions de cotxes que creaven un boirum i una contaminació atmosfèrica alarmants. Durant el seu viatge a Ciutat de Mèxic, en Tom descobrirà els enormes canvis que aquesta metròpoli ha viscut els últims anys.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-23T20:20:17+02:00",
+        "stop": "2026-09-23T21:25:16+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Spar Girona-Cadí La Seu / Lliga Catalana / Final",
+        "description": "Des de Reus, final de la 38a edició de la Lliga Nacional Catalana Femenina de bàsquet. Les gironines, guanyadores en la darrera edició, s'enfronten amb el conjunt urgellenc que s'havia imposat de forma consecutiva en els quatre cursos anteriors (2021, 2022, 2023 i 2024). ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
       },
       {
-        "start": "2026-09-23T17:03:05+02:00",
-        "stop": "2026-09-23T17:18:31+02:00",
-        "title": "Pastors i ramats: un món que se'n va",
-        "subtitle": "Enric Gibert",
-        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-23T21:25:16+02:00",
+        "stop": "2026-09-23T22:16:24+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Spar Girona-Cadí La Seu / Lliga Catalana / Final",
+        "description": "Des de Reus, final de la 38a edició de la Lliga Nacional Catalana Femenina de bàsquet. Les gironines, guanyadores en la darrera edició, s'enfronten amb el conjunt urgellenc que s'havia imposat de forma consecutiva en els quatre cursos anteriors (2021, 2022, 2023 i 2024). ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-23T16:39:03+02:00",
-        "stop": "2026-09-23T16:49:27+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "Qui vol cantar 'Cargol, treu banya'?",
-        "description": "Del repertori bàsic infantil en català, 'Cargol, treu banya' és una de les cançons més conegudes.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-23T20:39:11+02:00",
+        "stop": "2026-09-23T21:00:16+02:00",
+        "title": "Henry Danger",
+        "subtitle": "La fuita de gas",
+        "description": "Una perillosa fuita de gas amenaça Bonavista just quan en Henry ha de triar entre les seves responsabilitats com a estudiant i com a superheroi.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-09-23T16:49:27+02:00",
-        "stop": "2026-09-23T17:00:15+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "El bolet petitó",
-        "description": "Quan el Mic i en Cincsegons van a buscar bolets, els més menuts els deixen tranquils perquè creixin i es facin ben grossos.",
+        "start": "2026-09-23T21:00:16+02:00",
+        "stop": "2026-09-23T21:22:32+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Enrabia't i allibera el teu poder ocult, Son Gohan!",
+        "description": "Tot i que el combat entre en Cèl·lula i en Son Gohan comença força igualat, queda clar ben aviat que l'androide perfecte ho té més bé per endur-se la victòria. L'única possibilitat que té en Son Gohan de derrotar-lo és enrabiar-se per alliberar tot el seu poder ocult, que és precisament el pla secret que tenia en Son Goku.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-23T16:21:22+02:00",
-        "stop": "2026-09-23T16:47:32+02:00",
-        "title": "Volcans i homes",
-        "subtitle": "L'illa de la Reunió. Al cor dels volcans",
-        "description": "En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a l'illa de la Reunió. Entre d'altres coses, l'acompanyarem en la seva visita als dos grans volcans de l'illa, el vell i suposadament apagat Piton des Neiges i el jove volcà Piton de la Fournaise, que manté una activitat constant. També veurem la seva incursió espeleològica en un túnel creat per la lava i l'acompanyarem en la seva visita al circ geològic de Mafate, al Piton des Neiges, i a la remota comunitat de Marla, que viu gairebé en l'autarquia. ",
+        "start": "2026-09-23T20:07:58+02:00",
+        "stop": "2026-09-23T21:00:00+02:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Volcans destructius",
+        "description": "Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-23T16:47:32+02:00",
-        "stop": "2026-09-23T17:13:48+02:00",
-        "title": "Volcans i homes",
-        "subtitle": "Tanzània. Un volcà en terra Massai",
-        "description": "En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Tanzània, al volcà OlDoinyoLengaï. Entre d'altres coses, i juntament amb Matthieu Kervyn, un dels pocs especialistes en aquest volcà, i Mwenga, un jove guerrer massai, l'acompanyarem en la dura ascensió a aquest volcà, que va patir una erupció el 2007 que va canviar totalment la morfologia del cràter. També visitarem el llac Natron, famós perquè van a reproduir-s'hi els flamencs rosats, i coneixerem la tècnica d'aprofitament de la sal del llac per part dels massais. ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-23T21:00:00+02:00",
+        "stop": "2026-09-23T21:01:54+02:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
