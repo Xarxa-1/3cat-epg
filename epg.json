@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-22T22:07:10.501389+00:00",
+  "updated": "2026-09-23T00:30:41.551239+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-22T23:11:29+02:00",
-        "stop": "2026-09-23T00:10:08+02:00",
-        "title": "Nits Sense ficció",
-        "subtitle": "Nits Sense ficció - Poliamor. Més enllà de la monogàmia",
-        "description": "'Poliamor. Més enllà de la monogàmia' (2022) és una producció de Televisió de Catalunya produïda per La Lupa Produccions SL.Què hi ha més enllà de la monogàmia?Trielles, anarquia relacional, relacions en forma de V… Qui ho ha dit que només hi pot haver una vida amorosa plena en la monogàmia? 'Poliamor. Més enllà de la monogàmia' ens presenta les experiències de persones que viuen les seves relacions sexoafectives sense exclusivitat. Gelosia, pors, sexe, fills, família? Els detalls, al documental.Fitxa tècnicaDirecció: Marta Palacín i Oriol Gispert Guió: Marta Palacín, Oriol Gispert i Carla Moreno Realització: Producció executiva: Marta Palacín i Oriol Gispert Productor: Producció i investigació: Carla Moreno i Alejandra CéspedesDirector executiu TVC: Montse Armengou MartínProductor executiu TVC: Sílvia Pairó VilaDirector fotografia: Oriol Bosch CastelletMuntatge: Bernat de FerrerGrafisme: Núria YebraCorporació Catalana de Mitjans Audiovisuals, SA 2022",
-        "genre": "DOCUMENTAL",
-        "image": ""
+        "start": "2026-09-23T02:00:00+02:00",
+        "stop": "2026-09-23T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "Notícies 3CatInfo",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-23T00:10:08+02:00",
-        "stop": "2026-09-23T00:13:21+02:00",
-        "title": "Espai Internet",
-        "subtitle": "Espai Internet",
-        "description": "",
-        "genre": "ESPECIALS INFORMATIUS",
+        "start": "2026-09-23T04:00:00+02:00",
+        "stop": "2026-09-23T05:00:00+02:00",
+        "title": "Ritmes a l'estudi",
+        "subtitle": "Ritmes a l'estudi - TRIPHASSIC",
+        "description": "Llibert Fortuny i Gary Willies afegeixen un nou projecte a la seva ja àmplia trajectòria. Aquest trio ens ofereixen un repertori peculiar en què els elements electrònics es barregen amb els del jazz, i aconsegueix noves maneres d'expressió. En la sessió que segueix, veureu un Llibert carregat d'efectes analògics i digitals, que donen com a fruit un deliri sonor molt ben acompanyat rítmicament per Willis i Davis Gómez.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-23T00:00:00+02:00",
-        "stop": "2026-09-23T00:30:00+02:00",
+        "start": "2026-09-23T01:00:00+02:00",
+        "stop": "2026-09-23T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-23T00:30:00+02:00",
-        "stop": "2026-09-23T01:00:00+02:00",
+        "start": "2026-09-23T06:00:00+02:00",
+        "stop": "2026-09-23T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-22T23:00:09+02:00",
-        "stop": "2026-09-23T00:30:57+02:00",
-        "title": "Onze",
-        "subtitle": "Onze",
-        "description": "Sique Rodríguez, Jordi Costa, Paula Reverter i Ivan San Antonio es recreen en el bon estat de forma del Barça. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer contesta les preguntes dels espectadors.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
-      },
-      {
-        "start": "2026-09-23T00:30:57+02:00",
-        "stop": "2026-09-23T00:51:44+02:00",
+        "start": "2026-09-23T02:16:45+02:00",
+        "stop": "2026-09-23T02:33:18+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "3CatInfo Esports",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+      },
+      {
+        "start": "2026-09-23T02:33:18+02:00",
+        "stop": "2026-09-23T04:14:19+02:00",
+        "title": "Futbol",
+        "subtitle": "Futbol - Reial Madrid CF-PSG / Champions League / J1",
+        "description": "Les blanques comencen la seva participació al gran campionat europeu contra les terceres classificades de la temporada passada a la lliga francesa.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-23T00:06:09+02:00",
-        "stop": "2026-09-23T00:27:09+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - Aventures a la neu",
-        "description": "Després d'haver curat uns conills d'Assam, els germans Kratt posen rumb cap als turons càlids i assolellats de l'Àsia per deixar-los en llibertat. El que no saben és que pel camí els perdran pels boscos glaçats de l'Amèrica del Nord i que els caldran els poders dels basiliscs, de les llebres i dels linxs per localitzar-los abans que sigui massa tard.",
+        "start": "2026-09-23T02:25:32+02:00",
+        "stop": "2026-09-23T02:46:39+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Ladybug",
+        "description": "La Lila, empesa per l'Esfinx, li para una trampa a la Marinette perquè tothom es pensi que ha copiat les respostes en un examen. La Mayura també hi col·labora amb un sentimonstre molt especial, una reproducció gairebé perfecta de Ladybug. Al Gat Noir li costarà distingir quina de les dues és l'autèntica.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-23T00:27:09+02:00",
-        "stop": "2026-09-23T00:51:46+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els germans Kratt - L'atac dels forasters menjaarbres",
-        "description": "Una colla de nens de l'Equip Kratt han fet arribar un senyal d'alarma des de l'est de Nord-amèrica a en Martin i en Chris avisant-los que la majoria d'arbres de la zona s'estan morint. Comença una cursa contrarellotge per salvar un bosc únic i una població d'animals que no poden viure sense els arbres! I per resoldre un misteri que té tothom amb l'ai al cor!",
+        "start": "2026-09-23T02:46:39+02:00",
+        "stop": "2026-09-23T03:07:41+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Prodigiosa: Les aventures de Ladybug i Gat Noir - Menjaamor (1a part)",
+        "description": "L'André Bourgeois i la seva dona, l'Audrey, fan anys de casats. Però a la festa que celebren, tothom veu que no se suporten. L'Esfinx ho aprofita per crear un monstre que s'alimenta de l'amor dels altres, un monstre tan poderós que la Marinette haurà de demanar ajuda al mestre Fu, i l'Esfinx no perdrà aquesta ocasió per localitzar-lo.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-22T22:53:29+02:00",
-        "stop": "2026-09-23T00:54:22+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Pel·lícula - El club dels poetes morts",
-        "description": "EL CLUB DELS POETES MORTS (Dead poets society)Idioma versió original: anglèsProducció: Steven Haft per a Touchstone Pictures, Silver Screen Partners IV i Witt-Thomas Productions, 1989 (Estats Units)Direcció: Peter Weir / Durada: 122 minutsGuió: Tom SchulmanFotografia: John Seale (Metrocolor)Música: Maurice JarreIntèrprets: Robin Williams (John Keating), Robert Sean Leonard (Neil Perry), Ethan Hawke (Todd), Josh Charles (Knox), Gale Hansen (Charlie), Dylan Kussman (Richard)En l'ambient tradicional i estricte de l'Acadèmia Welton, el professor John Keating no només ensenya anglès, està canviant les vides dels seus alumnes. Mentre altres professors esperen dels nois només conformisme i bones maneres, ell els inspira, a través de la poesia, a fer que les seves vides siguin extraordinàries, els encoratja a perseguir allò que els apassiona i els ajuda a explorar nous horitzons d'expressió. Keating, però, troba que les autoritats de l'escola i els pares dels nois no aproven els seus mètodes.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/2/1770400852924.jpg"
+        "start": "2026-09-23T02:19:45+02:00",
+        "stop": "2026-09-23T02:58:07+02:00",
+        "title": "km33",
+        "subtitle": "km33 - Estònia",
+        "description": "El Frederic sovint enyora Estònia, on va ser amb una beca Erasmus. Torna al país bàltic per retrobar-se amb l'atmosfera de conte de Tallinn. Aprofita per visitar els amics i descobrir amb ells zones encara desconegudes.",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-09-23T00:54:22+02:00",
-        "stop": "2026-09-23T02:19:43+02:00",
-        "title": "Guimerà, Nobel sense premi",
-        "subtitle": "Guimerà, Nobel sense premi - Guimerà, el Nobel sense premi",
-        "description": "Hi ha qui diu que Àngel Guimerà va estar a prop de guanyar el Nobel de Literatura, i també qui assegura, fins i tot, que li van robar el guardó a l'últim moment. Va ser ben bé així, però? L'actriu Àngels Gonyalons s'ha proposat investigar què hi ha de veritat en l'aventura sueca de Guimerà, arribant al fons de l'assumpte i descobrint que allò que va allunyar Guimerà del guardó no té res a veure amb la literatura.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-23T02:58:07+02:00",
+        "stop": "2026-09-23T03:35:18+02:00",
+        "title": "km33",
+        "subtitle": "km33 - NY",
+        "description": "A la capital del mónLa Sandra i l'Oriol tornen a Nova York per perdre's en la metròpolis on algun dia voldrien viure. Des dels clàssics gratacels de Manhattan fins al Brooklyn emergent, passant pels barris multiculturals o l'imaginari 'freak' de Coney Island.I a més a més:L'IMPRESCINDIBLETours i visites que cal fer la primera vegada que es va a la ciutat.TURISME GASTRONÒMICViatjar pel món amb un objectiu ben gustós: la cultura del menjar.I UN CALENDARIDotze mesos, dotze esdeveniments gratuïts per gaudir d'una ciutat que no dorm mai.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
