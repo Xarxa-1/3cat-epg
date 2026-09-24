@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-24T14:45:55.910566+00:00",
+  "updated": "2026-09-24T18:47:57.841983+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-24T16:43:57+02:00",
-        "stop": "2026-09-24T17:21:03+02:00",
-        "title": "La Riera",
+        "start": "2026-09-24T20:15:00+02:00",
+        "stop": "2026-09-24T21:00:00+02:00",
+        "title": "Està passant",
         "subtitle": "",
-        "description": "La lectura del testament de l'Ignasi posa en evidència que hi haurà problemes familiars. La Mireia i l'Oriol tornen del viatge de nuvis i cadascú n'explica una versió. A la cuina, l'Ernest presenta en Casellas, el nou xef, mentre que en Carlos vol que la Maribel denunciï en Mauri, i la Nora s'incomoda quan els companys li diuen que volen anar a veure el seu fill.",
-        "genre": "TELENOVEL·LA",
-        "image": ""
+        "description": "El Jair ens parla del desnonament de la Mari Carmen. Òscar Dalmau ens parla de meteorologia. I la Oye Sherman ens porta moments màgics de la televisió",
+        "genre": "GAGS. HUMOR",
+        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
       },
       {
-        "start": "2026-09-24T17:21:03+02:00",
-        "stop": "2026-09-24T17:30:19+02:00",
-        "title": "CUINES CATALUNYA",
-        "subtitle": "Alvocat a la planxa",
-        "description": "Heu tastat mai la síndria rostida? I un plàtan fregit? És divertit agafar un aliment que normalment mengem d'una manera, i cuinar-lo diferent. Us atreviu a provar-ho amb un alvocat?",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-09-24T21:00:00+02:00",
+        "stop": "2026-09-24T22:05:04+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-24T16:00:00+02:00",
-        "stop": "2026-09-24T17:00:00+02:00",
+        "start": "2026-09-24T20:00:00+02:00",
+        "stop": "2026-09-24T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-24T17:00:00+02:00",
-        "stop": "2026-09-24T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-24T21:00:00+02:00",
+        "stop": "2026-09-24T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-24T16:17:26+02:00",
-        "stop": "2026-09-24T17:01:57+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Dubai",
-        "description": "Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-24T20:31:35+02:00",
+        "stop": "2026-09-24T21:07:00+02:00",
+        "title": "Esport Club",
+        "subtitle": "Golejada de Champions, Dani García, NBA i tertúlia",
+        "description": "El Barça debuta a la Champions femenina amb golejada. En parlem amb Mireia Vera. Entrevistem Dani García, jugador de l'iLERNA Lleida. Aquest cap de setmana comença la Lliga ACB. L'NBA, amb Jordi de Mas; i a la tertúlia ens acompanyen Gemma Mallorca, Joan Prats i en Pere de Cal Tet. ",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       },
       {
-        "start": "2026-09-24T17:01:57+02:00",
-        "stop": "2026-09-24T17:18:04+02:00",
-        "title": "Pastors i ramats: un món que se'n va",
-        "subtitle": "Familia Domènech",
-        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-24T21:07:00+02:00",
+        "stop": "2026-09-24T21:34:30+02:00",
+        "title": "E3",
+        "subtitle": "Matchday Champions Women J1",
+        "description": "Les escenes més destacades de la primera jornada a la fase de lliga de la Champions femenina de futbol. El Barça ha començat la defensa del títol contra el París FC.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-24T16:40:41+02:00",
-        "stop": "2026-09-24T16:51:03+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "Amagats a la pinassa",
-        "description": "El Cargol i la Mosca s'amaguen a sota la pinassa. El joc d'amagar-se és un dels que més agrada els nens i nenes més petits.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-24T20:39:47+02:00",
+        "stop": "2026-09-24T21:00:04+02:00",
+        "title": "Henry Danger",
+        "subtitle": "L'enrenou del poder nou, 2a part",
+        "description": "Després d'una dura derrota, els amics d'en Henry busquen una manera extraordinària d'ajudar-lo a plantar cara a una nova amenaça.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-09-24T16:51:03+02:00",
-        "stop": "2026-09-24T17:01:37+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "Conte, pijama i coixí",
-        "description": "Un altre exemple de joc simbòlic que reprodueix una escena quotidiana: el moment d'anar a dormir.",
+        "start": "2026-09-24T21:00:04+02:00",
+        "stop": "2026-09-24T21:22:23+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "L'energia amagada d'en Son Gohan destrueix els fills d'en Cèl·lula",
+        "description": "Després d'haver alliberat el seu poder ocult, en Son Gohan decideix acabar amb tots els fills d'en Cèl·lula, que tenen ordres del seu cap de matar tots els altres superguerrers. La demostració de força d'en Son Gohan deixa tothom sorprès, sobretot en Vegeta, però encara no queda clar si amb aquesta energia en tindrà prou per destruir també el mateix Cèl·lula.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-24T16:44:13+02:00",
-        "stop": "2026-09-24T17:10:18+02:00",
-        "title": "Volcans i homes",
-        "subtitle": "Etna, la muntanya de les muntanyes",
-        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Sicília, per conèixer persones que viuen a tocar de l'Etna. Ens mostrarà, entre d'altres coses, les tradicions populars i religioses que ha originat el perill constant de l'Etna, la gran fertilitat de les terres agrícoles del peu del volcà i les dificultats quotidianes de les persones que viuen a la zona de les salinelle, els volcans de fang. A part d'anar fins a un cràter actiu amb un vulcanòleg per oferir-nos, també, el punt de vista científic sobre els fenòmens volcànics. ",
+        "start": "2026-09-24T20:07:52+02:00",
+        "stop": "2026-09-24T20:59:48+02:00",
+        "title": "A tocar de l'aigua",
+        "subtitle": "El Segre III; El Sió",
+        "description": "Després d'haver recorregut les capçaleres del Segre i bona part del seu curs mitjà, en aquest episodi ens acompanyarà un riu que travessa la comarca de la Noguera per llevant: el Sió, un petit afluent del Segre que guarda a les seves ribes un ric patrimoni natural i arquitectònic. El resseguirem fins al final i, després de visitar Balaguer, farem camí fins a Vilanova de la Barca.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-24T17:10:18+02:00",
-        "stop": "2026-09-24T17:36:04+02:00",
-        "title": "Volcans i homes",
-        "subtitle": "Els llacs volcànics en terra maori",
-        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Nova Zelanda, amb l'interès específic de visitar els àcids llacs de cràter. L'acompanyarem en la seva visita al llac volcànic de l'illa de White Island, el llac Taupo de l'illa del Nord i el llac del volcà Ruapehu, que els maoris consideren una muntanya sagrada.Això ens permetrà veure alhora el punt de vista dels científics que analitzen l'aigua i els gasos dels llacs, i també els estrats del terreny que mostren les diferents erupcions, i el punt de vista tradicional i religiós dels maoris.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-24T20:59:48+02:00",
+        "stop": "2026-09-24T21:01:45+02:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
