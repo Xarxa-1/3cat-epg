@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-24T18:47:57.841983+00:00",
+  "updated": "2026-09-24T21:55:08.163227+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,101 +43,101 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-24T20:15:00+02:00",
-        "stop": "2026-09-24T21:00:00+02:00",
-        "title": "Està passant",
+        "start": "2026-09-24T23:46:24+02:00",
+        "stop": "2026-09-25T00:28:12+02:00",
+        "title": "APM?",
         "subtitle": "",
-        "description": "El Jair ens parla del desnonament de la Mari Carmen. Òscar Dalmau ens parla de meteorologia. I la Oye Sherman ens porta moments màgics de la televisió",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
+        "description": "Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' Júlia Díaz i Roc Bernadí, el duet poblenoví que forma Svetlana, un grup que ha fet de l'autenticitat, el petardeig i la guerra contra el guiri un gènere musical propi. Junts parlaran de temes com els heterocuriosos, els 'josepmaries' o, per a sorpresa de ningú, els turistes i els expats.Mentrestant, la nostra síndica de greuges particular, Nerea Sanfe, segueix 'On falla!' visitant els racons de Catalunya que li suggereixen els nostres espectadors per Instagram. Aquesta setmana viatjarà fins a Cunit (la Venècia del Baix Penedès) per parlar amb els veïns dels problemes que pateixen amb la recollida d'escombraries. Veurem indignació, veïns enfadats i fins i tot un cara a cara entre una veïna i una persona que recull la brossa. I a més, resumirem els viatges de l'Imserso en un minut; ens prepararem mentalment per pair les properes tres setmanes sense cap partit del Barça; i trobarem uns nous intèrprets que entenguin el català (bé, més o menys) per al judici d'en Roger Español. #APM3CAT",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/2/1442394916120.jpg"
       },
       {
-        "start": "2026-09-24T21:00:00+02:00",
-        "stop": "2026-09-24T22:05:04+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-09-25T00:28:12+02:00",
+        "stop": "2026-09-25T02:46:18+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-24T20:00:00+02:00",
-        "stop": "2026-09-24T21:00:00+02:00",
+        "start": "2026-09-24T22:05:00+02:00",
+        "stop": "2026-09-25T00:00:00+02:00",
+        "title": "Mésnit",
+        "subtitle": "",
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
+      },
+      {
+        "start": "2026-09-25T00:00:00+02:00",
+        "stop": "2026-09-25T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-09-24T21:00:00+02:00",
-        "stop": "2026-09-24T22:05:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-24T20:31:35+02:00",
-        "stop": "2026-09-24T21:07:00+02:00",
-        "title": "Esport Club",
-        "subtitle": "Golejada de Champions, Dani García, NBA i tertúlia",
-        "description": "El Barça debuta a la Champions femenina amb golejada. En parlem amb Mireia Vera. Entrevistem Dani García, jugador de l'iLERNA Lleida. Aquest cap de setmana comença la Lliga ACB. L'NBA, amb Jordi de Mas; i a la tertúlia ens acompanyen Gemma Mallorca, Joan Prats i en Pere de Cal Tet. ",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-24T23:00:06+02:00",
+        "stop": "2026-09-25T00:30:59+02:00",
+        "title": "Onze",
+        "subtitle": "Supercampanya per la pilota d'or; el debut de Xavi a Holanda i 'El consultori'",
+        "description": "David Bernabeu, Víctor Lozano, Irati Vidal i Fernando Polo comenten les últimes declaracions d'Mbappé i Lamine Yamal reclamant per sí mateixos la pilota d'or. El Sergi Ferrer respon els dubtes dels espectadors de l'Onze.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-24T21:07:00+02:00",
-        "stop": "2026-09-24T21:34:30+02:00",
-        "title": "E3",
-        "subtitle": "Matchday Champions Women J1",
-        "description": "Les escenes més destacades de la primera jornada a la fase de lliga de la Champions femenina de futbol. El Barça ha començat la defensa del títol contra el París FC.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"
+        "start": "2026-09-25T00:30:59+02:00",
+        "stop": "2026-09-25T00:52:27+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-24T20:39:47+02:00",
-        "stop": "2026-09-24T21:00:04+02:00",
-        "title": "Henry Danger",
-        "subtitle": "L'enrenou del poder nou, 2a part",
-        "description": "Després d'una dura derrota, els amics d'en Henry busquen una manera extraordinària d'ajudar-lo a plantar cara a una nova amenaça.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-24T23:50:33+02:00",
+        "stop": "2026-09-25T00:10:43+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Quan els peixos volin",
+        "description": "El Martin i el Chris proposen a la Koki i l'Aviva una competició per saber qui té la feina més difícil, els nois explorant la natura i els animals o bé les noies fent invents. El repte consisteix a canviar-se la feina per veure si la saben fer: els nois inventant i les noies investigant animals. Durant la competició, la colla descobreix un animal sorprenent, un peix volador, que podria ajudar tots dos equips a guanyar l'aposta, o a perdre-la.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-24T21:00:04+02:00",
-        "stop": "2026-09-24T21:22:23+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "L'energia amagada d'en Son Gohan destrueix els fills d'en Cèl·lula",
-        "description": "Després d'haver alliberat el seu poder ocult, en Son Gohan decideix acabar amb tots els fills d'en Cèl·lula, que tenen ordres del seu cap de matar tots els altres superguerrers. La demostració de força d'en Son Gohan deixa tothom sorprès, sobretot en Vegeta, però encara no queda clar si amb aquesta energia en tindrà prou per destruir també el mateix Cèl·lula.",
+        "start": "2026-09-25T00:10:43+02:00",
+        "stop": "2026-09-25T00:30:52+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "La llúdria Llisca",
+        "description": "Els germans Kratt descobreixen un cadell de llúdria. Pensen que s'ha perdut i intenten trobar la seva família mentre l'ensenyen a sobreviure al pantà dels xiprers de Florida. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-24T20:07:52+02:00",
-        "stop": "2026-09-24T20:59:48+02:00",
-        "title": "A tocar de l'aigua",
-        "subtitle": "El Segre III; El Sió",
-        "description": "Després d'haver recorregut les capçaleres del Segre i bona part del seu curs mitjà, en aquest episodi ens acompanyarà un riu que travessa la comarca de la Noguera per llevant: el Sió, un petit afluent del Segre que guarda a les seves ribes un ric patrimoni natural i arquitectònic. El resseguirem fins al final i, després de visitar Balaguer, farem camí fins a Vilanova de la Barca.",
+        "start": "2026-09-24T23:54:57+02:00",
+        "stop": "2026-09-25T00:41:05+02:00",
+        "title": "Arxipèlag blau",
+        "subtitle": "Praderies i arenals",
+        "description": "Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-24T20:59:48+02:00",
-        "stop": "2026-09-24T21:01:45+02:00",
-        "title": "SENSE FI CANAL 33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-09-25T00:41:05+02:00",
+        "stop": "2026-09-25T01:23:23+02:00",
+        "title": "Arxipèlag blau",
+        "subtitle": "Albuferes i aigües somes",
+        "description": "En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
