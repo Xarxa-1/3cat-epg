@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-24T09:58:40.771021+00:00",
+  "updated": "2026-09-24T14:45:55.910566+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-24T10:30:07+02:00",
-        "stop": "2026-09-24T13:55:00+02:00",
-        "title": "Tot es mou",
+        "start": "2026-09-24T16:43:57+02:00",
+        "stop": "2026-09-24T17:21:03+02:00",
+        "title": "La Riera",
         "subtitle": "",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
-        "genre": "MAGAZINE",
+        "description": "La lectura del testament de l'Ignasi posa en evidència que hi haurà problemes familiars. La Mireia i l'Oriol tornen del viatge de nuvis i cadascú n'explica una versió. A la cuina, l'Ernest presenta en Casellas, el nou xef, mentre que en Carlos vol que la Maribel denunciï en Mauri, i la Nora s'incomoda quan els companys li diuen que volen anar a veure el seu fill.",
+        "genre": "TELENOVEL·LA",
         "image": ""
       },
       {
-        "start": "2026-09-24T13:55:00+02:00",
-        "stop": "2026-09-24T14:30:01+02:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "start": "2026-09-24T17:21:03+02:00",
+        "stop": "2026-09-24T17:30:19+02:00",
+        "title": "CUINES CATALUNYA",
+        "subtitle": "Alvocat a la planxa",
+        "description": "Heu tastat mai la síndria rostida? I un plàtan fregit? És divertit agafar un aliment que normalment mengem d'una manera, i cuinar-lo diferent. Us atreviu a provar-ho amb un alvocat?",
+        "genre": "CUINA",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-24T10:30:00+02:00",
-        "stop": "2026-09-24T12:00:00+02:00",
+        "start": "2026-09-24T16:00:00+02:00",
+        "stop": "2026-09-24T17:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-24T12:00:00+02:00",
-        "stop": "2026-09-24T13:55:00+02:00",
+        "start": "2026-09-24T17:00:00+02:00",
+        "stop": "2026-09-24T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-24T11:26:07+02:00",
-        "stop": "2026-09-24T13:00:00+02:00",
-        "title": "Onze",
-        "subtitle": "La nostra pilota d'or; Post Barça-París i 'El predicador'",
-        "description": "Lluís Carrasco, Juvenal Edjogo, Laia Tudel i Joan Poquí fan les seves votacions per la pilota d'or i comenten el debut del Barça femení a la Champions. L'Òscar Perez-Dols predica els manaments del bon culer.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-24T16:17:26+02:00",
+        "stop": "2026-09-24T17:01:57+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "Dubai",
+        "description": "Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-24T13:00:00+02:00",
-        "stop": "2026-09-24T14:01:05+02:00",
-        "title": "Esport Club",
-        "subtitle": "",
-        "description": "En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-24T17:01:57+02:00",
+        "stop": "2026-09-24T17:18:04+02:00",
+        "title": "Pastors i ramats: un món que se'n va",
+        "subtitle": "Familia Domènech",
+        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-24T11:54:41+02:00",
-        "stop": "2026-09-24T12:05:54+02:00",
-        "title": "Ghost Rockers",
-        "subtitle": "",
-        "description": "Tot i els advertiments de la directora, l'Alex surt de la DAM per anar a l'adreça que li ha dit la reina de trèvols perquè creu que hi ha en Jules. Els Ghosts Rockers temen que hagi estat la segona víctima dels jocs psicològics d'en Verlinden. D'altra banda, en Jonas encara no té clar si viatjarà als Estats Units, però l'Eva el convenç d'anar-hi, davant del disgust de la Mila.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-24T16:40:41+02:00",
+        "stop": "2026-09-24T16:51:03+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Amagats a la pinassa",
+        "description": "El Cargol i la Mosca s'amaguen a sota la pinassa. El joc d'amagar-se és un dels que més agrada els nens i nenes més petits.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-24T12:05:54+02:00",
-        "stop": "2026-09-24T12:15:30+02:00",
-        "title": "Ghost Rockers",
-        "subtitle": "",
-        "description": "A la DAM sembla que tot són problemes: l'Alex està tan trasbalsat després d'haver estat víctima de la trampa d'en Verlinden que diu als Ghosts Rockers que no comptin més amb ell; en Brandon segueix el seu pare i confirma el que sospitava; i la Mila, empipada després de descobrir que en Jonas s'ha embolicat amb l'Eva, parla més del compte sense adonar-se que algú sent tot el que diu.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-24T16:51:03+02:00",
+        "stop": "2026-09-24T17:01:37+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Conte, pijama i coixí",
+        "description": "Un altre exemple de joc simbòlic que reprodueix una escena quotidiana: el moment d'anar a dormir.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-24T11:50:59+02:00",
-        "stop": "2026-09-24T11:58:52+02:00",
-        "title": "Cuines",
-        "subtitle": "Galtes de vedella guisades",
-        "description": "Dificultat: mitjanaTemps d'elaboració: Producte principal: vedellaTemporada: tot l'any",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-24T16:44:13+02:00",
+        "stop": "2026-09-24T17:10:18+02:00",
+        "title": "Volcans i homes",
+        "subtitle": "Etna, la muntanya de les muntanyes",
+        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Sicília, per conèixer persones que viuen a tocar de l'Etna. Ens mostrarà, entre d'altres coses, les tradicions populars i religioses que ha originat el perill constant de l'Etna, la gran fertilitat de les terres agrícoles del peu del volcà i les dificultats quotidianes de les persones que viuen a la zona de les salinelle, els volcans de fang. A part d'anar fins a un cràter actiu amb un vulcanòleg per oferir-nos, també, el punt de vista científic sobre els fenòmens volcànics. ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-24T11:58:52+02:00",
-        "stop": "2026-09-24T12:05:30+02:00",
-        "title": "Cuines",
-        "subtitle": "cargols a la llauna amb oli de farigola i julivert",
-        "description": "Dificultat: mitjanaTemps d'elaboració: Producte principal: cargolsTemporada: tardor ",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-24T17:10:18+02:00",
+        "stop": "2026-09-24T17:36:04+02:00",
+        "title": "Volcans i homes",
+        "subtitle": "Els llacs volcànics en terra maori",
+        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Nova Zelanda, amb l'interès específic de visitar els àcids llacs de cràter. L'acompanyarem en la seva visita al llac volcànic de l'illa de White Island, el llac Taupo de l'illa del Nord i el llac del volcà Ruapehu, que els maoris consideren una muntanya sagrada.Això ens permetrà veure alhora el punt de vista dels científics que analitzen l'aigua i els gasos dels llacs, i també els estrats del terreny que mostren les diferents erupcions, i el punt de vista tradicional i religiós dels maoris.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
