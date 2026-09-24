@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-23T21:58:41.652823+00:00",
+  "updated": "2026-09-24T00:19:13.537898+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-23T23:21:12+02:00",
-        "stop": "2026-09-24T00:12:42+02:00",
-        "title": "País d'altura",
-        "subtitle": "Costa Brava",
-        "description": "La Costa Brava és molt més que cales de postal: és tramuntana, artistes, pirates, rucs catalans, Dalí i racons que et fan pensar que el paradís existeix.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-24T02:11:15+02:00",
+        "stop": "2026-09-24T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-24T00:12:42+02:00",
-        "stop": "2026-09-24T02:37:30+02:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
+        "start": "2026-09-24T04:00:00+02:00",
+        "stop": "2026-09-24T05:00:00+02:00",
+        "title": "Ritmes a l'estudi",
+        "subtitle": "TONI SOLÀ",
+        "description": "Solà és un dels saxofonistes de referència dins l'escena del jazz a casa nostra. Una de les seves virtuts és l'eclecticisme. Es mou en diferents estils de la música d'arrel negra, sempre amb un so molt personal. En el projecte que ens presenta avui ens ofereix un repertori que passa pel 'hard bop', el 'second line', certes influències brasileres i fins i tot pessiga uns certs aires 'coltranians'...",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-23T22:05:00+02:00",
-        "stop": "2026-09-24T00:00:00+02:00",
-        "title": "Mésnit",
+        "start": "2026-09-24T01:00:00+02:00",
+        "stop": "2026-09-24T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-24T00:00:00+02:00",
-        "stop": "2026-09-24T00:30:00+02:00",
+        "start": "2026-09-24T06:00:00+02:00",
+        "stop": "2026-09-24T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-23T23:00:05+02:00",
-        "stop": "2026-09-24T00:30:57+02:00",
+        "start": "2026-09-24T00:54:53+02:00",
+        "stop": "2026-09-24T02:29:09+02:00",
         "title": "Onze",
         "subtitle": "La nostra pilota d'or; Post Barça-París i 'El predicador'",
         "description": "Lluís Carrasco, Juvenal Edjogo, Laia Tudel i Joan Poquí fan les seves votacions per la pilota d'or i comenten el debut del Barça femení a la Champions. L'Òscar Perez-Dols predica els manaments del bon culer.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-24T00:30:57+02:00",
-        "stop": "2026-09-24T00:51:34+02:00",
+        "start": "2026-09-24T02:29:09+02:00",
+        "stop": "2026-09-24T02:50:01+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-23T23:49:38+02:00",
-        "stop": "2026-09-24T00:10:39+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Un monstre de Gila a sota casa",
-        "description": "Els germans Kratt acaben de rebre una trucada d'en Javier, un noi que viu al desert de Sonora i que assegura que se li ha instal·lat un monstre de Gila a sota de casa seva i que té molta por. La missió d'avui és descobrir com són de veritat els monstres de Gila i evitar que en Zach Virusmàtic aprofiti les característiques d'aquest animal per posar a la pràctica el seu pròxim invent!",
+        "start": "2026-09-24T02:05:54+02:00",
+        "stop": "2026-09-24T02:25:13+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Més enllà de la cavalleria...aspirant a ser Mestre Porro!",
+        "description": "La Sèrie Mundial de Coronació continua a tota marxa i l'Ash s'ha entrenat més que mai. Ell i el Goh fan un combat d'entrenament i se'n van cap al Centre Pokémon, on troben el Rinto, que prèviament havia derrotat l'Ash en un combat i ha ascendit a la classe excel·lent. L'Ash desafia el Rinto a un combat oficial, una revenja entre el Farfetch'd i el Gallade. Al principi, el Farfetch'd està una mica insegur, però l'Ash li fa recordar l'entrenament que va fer amb el Til·leu. Després de canviar d'estratègia, el Farfetch'd evoluciona a Sirfetch'd i derrota el Gallade.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-24T00:10:39+02:00",
-        "stop": "2026-09-24T00:31:40+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els follets del desert",
-        "description": "La Koki i en Jimmy s'han quedat penjats al mig del desert de Sonora, sense aigua, sense menjar, totalment incomunicats. Avui els tocarà confiar en l'Aviva i en els germans Kratt perquè els rescatin abans no sigui massa tard, però sobretot s'hauran de refiar de la vista i de l'oïda del mussolet dels saguaros, el mussol més petit del món, l'únic capaç de localitzar-los!",
+        "start": "2026-09-24T02:25:13+02:00",
+        "stop": "2026-09-24T02:46:20+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "La banda dels secrets",
+        "description": "La Marinette pensa que no podrà trobar mai l'amor de veritat mentre enganyi tothom per protegir la seva identitat secreta. Incapaç de confiar en ningú, es tanca i s'allunya dels que l'estimen. Les seves amigues Alya, Rose, Juleka, Alix i Mylène, preocupades, decideixen salvar la seva amiga fent que els hi expliqui tots els seus secrets. Però per culpa d'un malentès, la Marinette es baralla amb elles i les noies són akumatitzades. Transformades en la Banda dels Secrets, estan decidides a salvar la Marinette, tant si vol com si no vol. Serà capaç de continuar amagant-los el seu secret?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-23T22:49:06+02:00",
-        "stop": "2026-09-24T00:18:33+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "The kid",
-        "description": "THE KID 'The Kid'Direcció: Vincent D'OnofrioGuió: Andrew LanhamProducció: Mimran Schur Pictures, Suretone Pictures, Batrax Entertainment, Eagle Films, GEM Entertainment, LionsgateAny: 2019Durada: 99País: Estats UnitsMúsica: Latham Gaines, Shelby GainesFotografia: Matthew J. LloydIntèrprets: Ethan Hawke, Dane DeHaan, Jake Schur, Leila George, Vincent D'Onofrio, Chris Pratt, Adam Baldwin, Tait Fletcher, Ben Dickey, Keith Jardine, MorningStar Angeline, Jenny Gabrielle, Stafford Douglas, Howard Ferguson Jr., Douglas Bennett, Jacob Browne, Rachel Singer, Rachel de la Torre, Rachel de la Torre, Christian Dalton, Chris Bylsma, Chris Bylsma, J. Nathan Simmons, J. Nathan Simmons, David Christian Welborn, David Christian Welborn, Joe Berryman, Michael E. Stogner, Leslie Fleming-Mitchell, Rose CordovaEl jove Rio es veu obligat a recórrer el sud-oest dels Estats Units per salvar la seva germana Sara del seu despietat oncle Grant.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/6/1787556512569.jpg"
-      },
-      {
-        "start": "2026-09-24T00:18:33+02:00",
-        "stop": "2026-09-24T02:19:47+02:00",
+        "start": "2026-09-24T00:18:34+02:00",
+        "stop": "2026-09-24T02:19:48+02:00",
         "title": "Pel·lícula",
         "subtitle": "Assassinat a l'Orient Express",
         "description": "ASSASSINAT A L'ORIENT EXPRESS (Murder on the Orient Express)Idioma versió original: anglèsProducció: John Brabourne i Richard Goodwin per a EMI Films, 1974 (Gran Bretanya)Direcció: Sidney Lumet / Durada: 121 minutsGuió: Paul Dehn, basat en la novel·la d'Agatha ChristieFotografia: Geoffrey Unsworth (Technicolor)Música: Richard Rodney BennetIntèrprets: Albert Finney (Hercule Poirot), Lauren Bacall (senyora Hubbard), Martin Balsam (Bianchi), Ingrid Bergman (Greta), Jacqueline Bisset (comtessa Andrenyi), Jean-Pierre Cassel (Pierre)El 1930 esclata un drama amb el segrest de la nena Daisy Armstrong. El pare paga el rescat, però la nena mor. Detenen i condemnen el raptor i, al cap d'un temps, els Armstrong moren i la cangur se suïcida. El 1935 Hercule Poirot viatja en l'Orient Express i un dels viatgers, Ratchett, li demana que el protegeixi. Poirot s'hi nega i, poc després, Ratchett mor de dotze ganivetades. Poirot descobreix que Ratchett havia organitzat el segrest de Daisy i que tots els passatgers del tren tenen algun lligam amb la família Armstrong.",
         "genre": "PEL·LÍCULA / TELEFILM",
         "image": "https://img.3cat.cat/multimedia//jpg/1/7/1753211868571.jpg"
+      },
+      {
+        "start": "2026-09-24T02:19:48+02:00",
+        "stop": "2026-09-24T02:56:49+02:00",
+        "title": "km33",
+        "subtitle": "Romania",
+        "description": "De Transsilvània al mar NegreL'actor Jordi Vilches aprofita per viatjar entre rodatge i rodatge. Aquesta vegada, el destí és la Romania de Dràcula i els gitanos. Amb la Sílvia, una fotògrafa, anirà de Bucarest al mar Negre, passant pels castells de Transsilvània.I a més a més:VIATGES ECONÒMICSUn repàs de les companyies aèries de baix cost.EUROPA DE NITEls locals imprescindibles per anar de festa a les capitals europees.RUTES PER A MITÒMANSI els destins preferits dels mitòmans, com les tombes o les residències de cantants famosos.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "oca1": [],
