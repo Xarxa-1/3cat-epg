@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-24T00:19:13.537898+00:00",
+  "updated": "2026-09-24T05:08:50.383836+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-24T02:11:15+02:00",
-        "stop": "2026-09-24T04:00:00+02:00",
+        "start": "2026-09-24T06:00:00+02:00",
+        "stop": "2026-09-24T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,25 +52,16 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-24T04:00:00+02:00",
-        "stop": "2026-09-24T05:00:00+02:00",
-        "title": "Ritmes a l'estudi",
-        "subtitle": "TONI SOLÀ",
-        "description": "Solà és un dels saxofonistes de referència dins l'escena del jazz a casa nostra. Una de les seves virtuts és l'eclecticisme. Es mou en diferents estils de la música d'arrel negra, sempre amb un so molt personal. En el projecte que ens presenta avui ens ofereix un repertori que passa pel 'hard bop', el 'second line', certes influències brasileres i fins i tot pessiga uns certs aires 'coltranians'...",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-24T08:00:00+02:00",
+        "stop": "2026-09-24T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
-      {
-        "start": "2026-09-24T01:00:00+02:00",
-        "stop": "2026-09-24T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-09-24T06:00:00+02:00",
         "stop": "2026-09-24T08:00:00+02:00",
@@ -79,12 +70,21 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-24T08:00:00+02:00",
+        "stop": "2026-09-24T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-24T00:54:53+02:00",
-        "stop": "2026-09-24T02:29:09+02:00",
+        "start": "2026-09-24T06:57:37+02:00",
+        "stop": "2026-09-24T08:31:37+02:00",
         "title": "Onze",
         "subtitle": "La nostra pilota d'or; Post Barça-París i 'El predicador'",
         "description": "Lluís Carrasco, Juvenal Edjogo, Laia Tudel i Joan Poquí fan les seves votacions per la pilota d'or i comenten el debut del Barça femení a la Champions. L'Òscar Perez-Dols predica els manaments del bon culer.",
@@ -92,51 +92,51 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-24T02:29:09+02:00",
-        "stop": "2026-09-24T02:50:01+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-24T08:31:37+02:00",
+        "stop": "2026-09-24T09:16:12+02:00",
+        "title": "Aire Lliure",
+        "subtitle": "Montsec, amb Antonio Orozco",
+        "description": "El congost de Mont-rebei i el cantant Antonio Orozco seran els protagonistes del segon programa Aire Lliure. Orozco practicarà caiac en un lloc idíl·lic, el congost que separa les dues parets del Montsec. Precisament en una d'aquestes parets, Núria Picas passarà una nit penjada a més de cent mestres d'alçada al costat de Silvia Vidal.",
+        "genre": "REPORTATGES",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-24T02:05:54+02:00",
-        "stop": "2026-09-24T02:25:13+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Més enllà de la cavalleria...aspirant a ser Mestre Porro!",
-        "description": "La Sèrie Mundial de Coronació continua a tota marxa i l'Ash s'ha entrenat més que mai. Ell i el Goh fan un combat d'entrenament i se'n van cap al Centre Pokémon, on troben el Rinto, que prèviament havia derrotat l'Ash en un combat i ha ascendit a la classe excel·lent. L'Ash desafia el Rinto a un combat oficial, una revenja entre el Farfetch'd i el Gallade. Al principi, el Farfetch'd està una mica insegur, però l'Ash li fa recordar l'entrenament que va fer amb el Til·leu. Després de canviar d'estratègia, el Farfetch'd evoluciona a Sirfetch'd i derrota el Gallade.",
+        "start": "2026-09-24T07:08:45+02:00",
+        "stop": "2026-09-24T07:19:45+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva la Skye",
+        "description": "Volant cap a la muntanya d'en Jake, la Skye ha de fer un aterratge d'emergència a la neu. En Ryder demana ajuda a l'Everest, que salva la situació!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-24T02:25:13+02:00",
-        "stop": "2026-09-24T02:46:20+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "La banda dels secrets",
-        "description": "La Marinette pensa que no podrà trobar mai l'amor de veritat mentre enganyi tothom per protegir la seva identitat secreta. Incapaç de confiar en ningú, es tanca i s'allunya dels que l'estimen. Les seves amigues Alya, Rose, Juleka, Alix i Mylène, preocupades, decideixen salvar la seva amiga fent que els hi expliqui tots els seus secrets. Però per culpa d'un malentès, la Marinette es baralla amb elles i les noies són akumatitzades. Transformades en la Banda dels Secrets, estan decidides a salvar la Marinette, tant si vol com si no vol. Serà capaç de continuar amagant-los el seu secret?",
+        "start": "2026-09-24T07:19:45+02:00",
+        "stop": "2026-09-24T07:30:18+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva el concert de Bub and Roll",
+        "description": "Una estrella del rock ha de venir a fer un concert, però una tempesta ha deixat la ciutat i l'escenari fets un nyap! Ho podrà arreglar, la Patrulla Peluda?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-24T00:18:34+02:00",
-        "stop": "2026-09-24T02:19:48+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Assassinat a l'Orient Express",
-        "description": "ASSASSINAT A L'ORIENT EXPRESS (Murder on the Orient Express)Idioma versió original: anglèsProducció: John Brabourne i Richard Goodwin per a EMI Films, 1974 (Gran Bretanya)Direcció: Sidney Lumet / Durada: 121 minutsGuió: Paul Dehn, basat en la novel·la d'Agatha ChristieFotografia: Geoffrey Unsworth (Technicolor)Música: Richard Rodney BennetIntèrprets: Albert Finney (Hercule Poirot), Lauren Bacall (senyora Hubbard), Martin Balsam (Bianchi), Ingrid Bergman (Greta), Jacqueline Bisset (comtessa Andrenyi), Jean-Pierre Cassel (Pierre)El 1930 esclata un drama amb el segrest de la nena Daisy Armstrong. El pare paga el rescat, però la nena mor. Detenen i condemnen el raptor i, al cap d'un temps, els Armstrong moren i la cangur se suïcida. El 1935 Hercule Poirot viatja en l'Orient Express i un dels viatgers, Ratchett, li demana que el protegeixi. Poirot s'hi nega i, poc després, Ratchett mor de dotze ganivetades. Poirot descobreix que Ratchett havia organitzat el segrest de Daisy i que tots els passatgers del tren tenen algun lligam amb la família Armstrong.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia//jpg/1/7/1753211868571.jpg"
+        "start": "2026-09-24T06:21:10+02:00",
+        "stop": "2026-09-24T07:12:00+02:00",
+        "title": "El Foraster",
+        "subtitle": "Gisclareny",
+        "description": "Des del gener de 2018, Gisclareny, a la comarca del Berguedà, és oficialment el poble més petit de Catalunya. Només hi viuen 27 persones, i es nota. En el poble hi regnen un silenci i una calma totals. Després de conèixer en Joan, un alcalde tranquil com pocs, en Quim es trobarà amb en Gerard, un monitor d'esports d'aventura que li plantejarà un repte sense precedents: saltar des d'un pont de més de 30 metres d'alçada. S'atrevirà? Abans, però, anirem coneixent els altres veïns de Gisclareny: en Jordi i la Joanna, una parella de Sabadell que aquí hi han trobat el seu paradís; l'Oriol, que ens portarà a cavall fins a l'ermita de Sant Miquel de Turbians; o l'Anna i en Jordi, que sempre que poden presumeixen de tenir casa al poble més petit de Catalunya. I amb la Queralt i la Meritxell, filles de l'alcalde, en Quim descobrirà que, si aquest micropoble s'ha salvat de la desaparició, és gràcies als nouvinguts.",
+        "genre": "VARIETATS",
+        "image": ""
       },
       {
-        "start": "2026-09-24T02:19:48+02:00",
-        "stop": "2026-09-24T02:56:49+02:00",
-        "title": "km33",
-        "subtitle": "Romania",
-        "description": "De Transsilvània al mar NegreL'actor Jordi Vilches aprofita per viatjar entre rodatge i rodatge. Aquesta vegada, el destí és la Romania de Dràcula i els gitanos. Amb la Sílvia, una fotògrafa, anirà de Bucarest al mar Negre, passant pels castells de Transsilvània.I a més a més:VIATGES ECONÒMICSUn repàs de les companyies aèries de baix cost.EUROPA DE NITEls locals imprescindibles per anar de festa a les capitals europees.RUTES PER A MITÒMANSI els destins preferits dels mitòmans, com les tombes o les residències de cantants famosos.",
+        "start": "2026-09-24T07:12:00+02:00",
+        "stop": "2026-09-24T08:04:59+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Mash i Tassy",
+        "description": "En Mash i en Tassy són dos japonesos amb qui coneixem els secrets de l'elaboració del cava i el vi, i per fer-ho, marxem fins al Penedès i el Priorat. A més, la Ivana Miño els regala una experiència única que segur s'enduen per sempre; una jornada castellera a Tarragona.",
         "genre": "ALTRES",
         "image": ""
       }
