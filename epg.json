@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-25T10:06:47.320249+00:00",
+  "updated": "2026-09-25T15:14:32.648237+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-25T10:30:04+02:00",
-        "stop": "2026-09-25T13:55:00+02:00",
-        "title": "Tot es mou",
+        "start": "2026-09-25T16:43:59+02:00",
+        "stop": "2026-09-25T17:20:12+02:00",
+        "title": "La Riera",
         "subtitle": "",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
-        "genre": "MAGAZINE",
+        "description": "En Casellas, el nou xef, és un home molt exigent que vol fer-se seva la cuina. Més d'un en surt escaldat. L'Ernest està molt enfadat amb la Mercè per no haver volgut respectar la voluntat del pare. I la Nora s'empesca una nova estratègia per amagar les seves mentides.",
+        "genre": "TELENOVEL·LA",
         "image": ""
       },
       {
-        "start": "2026-09-25T13:55:00+02:00",
-        "stop": "2026-09-25T14:30:00+02:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "start": "2026-09-25T17:20:12+02:00",
+        "stop": "2026-09-25T17:30:29+02:00",
+        "title": "CUINES CATALUNYA",
+        "subtitle": "Amanida cruixent de bròquil",
+        "description": "Esteu tips de la típica verdura bullida? Us la voleu menjar d'una altra manera? Doncs us proposem una amanida de bròquil amb molts contrastos de sabor perquè l'acompanyem de làctics, fruits secs i una vinagreta potent. ",
+        "genre": "CUINA",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-25T12:00:00+02:00",
-        "stop": "2026-09-25T13:55:00+02:00",
+        "start": "2026-09-25T17:00:00+02:00",
+        "stop": "2026-09-25T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,28 +72,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-25T13:55:00+02:00",
-        "stop": "2026-09-25T14:30:00+02:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-09-25T18:30:00+02:00",
+        "stop": "2026-09-25T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-25T10:37:15+02:00",
-        "stop": "2026-09-25T12:10:00+02:00",
-        "title": "Onze",
-        "subtitle": "Supercampanya per la pilota d'or; el debut de Xavi a Holanda i 'El consultori'",
-        "description": "David Bernabeu, Víctor Lozano, Irati Vidal i Fernando Polo comenten les últimes declaracions d'Mbappé i Lamine Yamal reclamant per sí mateixos la pilota d'or. El Sergi Ferrer respon els dubtes dels espectadors de l'Onze.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-25T16:44:44+02:00",
+        "stop": "2026-09-25T17:39:08+02:00",
+        "title": "Canviant les regles del joc",
+        "subtitle": "Canviant les regles del joc",
+        "description": "La història del bàsquet femení a Vic: quan el bàsquet va canviar les seves vides i elles van canviar les regles del joc.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/3/1790065471935.jpg"
       },
       {
-        "start": "2026-09-25T12:10:00+02:00",
-        "stop": "2026-09-25T12:55:00+02:00",
+        "start": "2026-09-25T17:39:08+02:00",
+        "stop": "2026-09-25T19:00:00+02:00",
         "title": "Handbol",
         "subtitle": "Pinheiros-Barça / Mundial de Clubs / J1",
         "description": "Els blaugranes, campions de l'última edició, debuten en aquest nou Mundial de clubs a Egipte contra el conjunt brasiler de Sao Paulo.",
@@ -103,41 +103,41 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-25T12:02:22+02:00",
-        "stop": "2026-09-25T12:14:29+02:00",
-        "title": "Ghost Rockers",
-        "subtitle": "",
-        "description": "En Jonas decideix ajudar la Mila, que ha anat tota sola a enfrontar-se a en Pieter Verlinden a la partida final del joc. En Jimmy i l'Alex arriben a la conclusió que els Free Birds també volen que vagin a ajudar els companys i es presenten a la ubicació on han estat convocats. Mentrestant, la Charlie no es pot creure el que descobreix a l'habitació de la Jana.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-25T17:04:13+02:00",
+        "stop": "2026-09-25T17:14:35+02:00",
+        "title": "Titó",
+        "subtitle": "Excursió amb la truita de riu",
+        "description": "Avui anem d'excursió en un centre on crien truites de riu. Voleu que anem al riu a alliberar-les? Som-hi! Hi trobarem un pescador ben especial",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-25T12:14:29+02:00",
-        "stop": "2026-09-25T12:36:44+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els óssos polars no ballen",
-        "description": "En plena missió per la regió àrtica, en Chris i en Martin han vist com el malvat Zach capturava una cria de morsa i una d'ós polar per al seu nou espectacle. Per salvar-les, els nostres amics hauran d'aprendre els secrets de les morses... i moltes coses més! L'Aviva ja els té preparats, els Vestits de Poder Animal, però per activar-los primer han de tocar els animals! Que no els passi res!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-25T17:14:35+02:00",
+        "stop": "2026-09-25T17:24:21+02:00",
+        "title": "A jugar! Amb en Titó i els Fa la la",
+        "subtitle": "A jugar a cantar",
+        "description": "Qui guanyarà el concurs de millor cantant del parc? Serà en Titó? L'Os Bru? L'Oca de l'Empordà? El Tritó del Montseny? El Ruquicorn? O la Tat? Sí, avui també veurem la Tat!!!",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-25T11:58:11+02:00",
-        "stop": "2026-09-25T12:06:36+02:00",
-        "title": "Cuines",
-        "subtitle": "Pomes farcides gratinades",
-        "description": "Dificultat: mitjanaTemps d'elaboració: Producte principal: pomesTemporada: tardor/hivern",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-25T16:47:48+02:00",
+        "stop": "2026-09-25T17:13:39+02:00",
+        "title": "Volcans i homes",
+        "subtitle": "Tresors per als homes",
+        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, ens porta a Nova Zelanda. Visitarem amb ell l'illa de Mayor Island, un santuari natural ofert pels maoris a l'obsidiana, i veurem, per mitjà d'entrevistes a persones molt diverses, la gran importància que té a l'illa del Nord la geotèrmia, tant per als usos industrials i agrícoles, com per a la vida quotidiana de les persones que viuen a tocar dels guèisers i les fonts termals. A part dels estudis dels biòlegs i els microbiòlegs sobre les curioses formacions microbianes que es generen en aquests entorns extrems i que ofereixen noves interpretacions sobre l'origen de la vida a la Terra. ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-25T12:06:36+02:00",
-        "stop": "2026-09-25T12:13:36+02:00",
-        "title": "Cuines",
-        "subtitle": "bacalla a la planxa amb pessol negre",
-        "description": "Dificultat: baixaTemps d'elaboració: Producte principal: bacallà Temporada: tot l'any",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-09-25T17:13:39+02:00",
+        "stop": "2026-09-25T17:39:41+02:00",
+        "title": "Volcans i homes",
+        "subtitle": "L'Alvèrnia: Els misteris dels gegants adormits",
+        "description": "En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a França, a l'Alvèrnia. Entre d'altres coses, l'acompanyarem en la seva visita al llac Pavin, que ha inspirat moltes llegendes des de l'antiguitat, en una incursió espeleològica a la cova de Soucy i en les visites a la Cova del Gos de Chamalières i el penyal de l'Aiguilhe, amb la capella de Saint-Michel al capdamunt...",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
