@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-24T21:55:08.163227+00:00",
+  "updated": "2026-09-25T00:13:09.461914+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-24T23:46:24+02:00",
-        "stop": "2026-09-25T00:28:12+02:00",
-        "title": "APM?",
-        "subtitle": "",
-        "description": "Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' Júlia Díaz i Roc Bernadí, el duet poblenoví que forma Svetlana, un grup que ha fet de l'autenticitat, el petardeig i la guerra contra el guiri un gènere musical propi. Junts parlaran de temes com els heterocuriosos, els 'josepmaries' o, per a sorpresa de ningú, els turistes i els expats.Mentrestant, la nostra síndica de greuges particular, Nerea Sanfe, segueix 'On falla!' visitant els racons de Catalunya que li suggereixen els nostres espectadors per Instagram. Aquesta setmana viatjarà fins a Cunit (la Venècia del Baix Penedès) per parlar amb els veïns dels problemes que pateixen amb la recollida d'escombraries. Veurem indignació, veïns enfadats i fins i tot un cara a cara entre una veïna i una persona que recull la brossa. I a més, resumirem els viatges de l'Imserso en un minut; ens prepararem mentalment per pair les properes tres setmanes sense cap partit del Barça; i trobarem uns nous intèrprets que entenguin el català (bé, més o menys) per al judici d'en Roger Español. #APM3CAT",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/2/1442394916120.jpg"
-      },
-      {
-        "start": "2026-09-25T00:28:12+02:00",
-        "stop": "2026-09-25T02:46:18+02:00",
+        "start": "2026-09-25T00:28:14+02:00",
+        "stop": "2026-09-25T02:15:37+02:00",
         "title": "Mésnit",
         "subtitle": "",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
         "genre": "DEBAT",
         "image": ""
+      },
+      {
+        "start": "2026-09-25T02:15:37+02:00",
+        "stop": "2026-09-25T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-24T22:05:00+02:00",
-        "stop": "2026-09-25T00:00:00+02:00",
-        "title": "Mésnit",
+        "start": "2026-09-25T01:00:00+02:00",
+        "stop": "2026-09-25T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-25T00:00:00+02:00",
-        "stop": "2026-09-25T00:30:00+02:00",
+        "start": "2026-09-25T06:00:00+02:00",
+        "stop": "2026-09-25T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-24T23:00:06+02:00",
-        "stop": "2026-09-25T00:30:59+02:00",
+        "start": "2026-09-25T00:47:57+02:00",
+        "stop": "2026-09-25T02:20:28+02:00",
         "title": "Onze",
         "subtitle": "Supercampanya per la pilota d'or; el debut de Xavi a Holanda i 'El consultori'",
         "description": "David Bernabeu, Víctor Lozano, Irati Vidal i Fernando Polo comenten les últimes declaracions d'Mbappé i Lamine Yamal reclamant per sí mateixos la pilota d'or. El Sergi Ferrer respon els dubtes dels espectadors de l'Onze.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-25T00:30:59+02:00",
-        "stop": "2026-09-25T00:52:27+02:00",
+        "start": "2026-09-25T02:20:28+02:00",
+        "stop": "2026-09-25T02:35:01+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,41 +103,41 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-24T23:50:33+02:00",
-        "stop": "2026-09-25T00:10:43+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Quan els peixos volin",
-        "description": "El Martin i el Chris proposen a la Koki i l'Aviva una competició per saber qui té la feina més difícil, els nois explorant la natura i els animals o bé les noies fent invents. El repte consisteix a canviar-se la feina per veure si la saben fer: els nois inventant i les noies investigant animals. Durant la competició, la colla descobreix un animal sorprenent, un peix volador, que podria ajudar tots dos equips a guanyar l'aposta, o a perdre-la.",
+        "start": "2026-09-25T02:04:23+02:00",
+        "stop": "2026-09-25T02:24:01+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Per terra, per mar, i cap al futur!",
+        "description": "Se celebra la Cursa Atlètica Marina Pokémon. Quan hi arriben, els nostres herois es troben amb el Kiley, un amic de la Chrysa, perquè la Chloe i l'Eevee puguin aprendre més coses sobre el Vaporeon, el company del Kiley. El Kiley li confirma a la Chloe que, tot i que l'Eevee no és de tipus aigua, pot participar igualment en la cursa. L'Ash hi competeix amb el Dracovish, i el Goh tria el Dewgong, que acaba barallant-se amb un Huntail agressiu. El Huntail acorrala la Chloe, el Dewgong i l'Eevee en una cova submarina, però els nostres herois ajunten forces i el derroten. Després el Kiley li dona a la Chloe una pedra aigua com a opció per al futur, perquè l'Eevee pugui triar en què evoluciona quan arribi el moment adequat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-25T00:10:43+02:00",
-        "stop": "2026-09-25T00:30:52+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "La llúdria Llisca",
-        "description": "Els germans Kratt descobreixen un cadell de llúdria. Pensen que s'ha perdut i intenten trobar la seva família mentre l'ensenyen a sobreviure al pantà dels xiprers de Florida. ",
+        "start": "2026-09-25T02:24:01+02:00",
+        "stop": "2026-09-25T02:45:08+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "La reina Banana",
+        "description": "La Marinette ha dissenyat el vestuari d'una pel·lícula en què la Zoé, la mitja germana de la Chloé, interpreta el paper principal. Gelosa, la Chloé fa servir els seus contactes per robar la pel·lícula i fer que sigui com ella vol. Però els membres de l'equip de la pel·lícula, animats per la Marinette, es rebel·len contra la Chloé i acaben fent la pel·lícula sense ella. L'Esfinx Fosc akumatitza la Chloé i la transforma en la Reina Banana. Per fi pot convertir la vida real en la pel·lícula que hauria volgut, i l'Esfinx Fosc espera poder veure com derrota Ladybug i el Gat Noir. Però Ladybug dona el paper del prodigi de l'abella a una actriu nova i molt prometedora.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-24T23:54:57+02:00",
-        "stop": "2026-09-25T00:41:05+02:00",
-        "title": "Arxipèlag blau",
-        "subtitle": "Praderies i arenals",
-        "description": "Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-25T02:02:02+02:00",
+        "stop": "2026-09-25T02:39:13+02:00",
+        "title": "km33",
+        "subtitle": "Guatemala",
+        "description": "Cultura maia en erupcióLa Laila treballa a Guatemala com a cooperant. Abans de tornar a Barcelona fa un viatge per l'altiplà amb la Maria. Visiten llacs i volcans, descobreixen mercats indígenes i viuen la màgia de les cerimònies maies.I a més a més:COORDENADES DE GUATEMALATot allò que has de saber abans de trepitjar el país.TURISME SOLIDARICom evitar el turisme de masses. Una altra manera de viatjar és possible.FENÒMENS METEOROLÒGICSConsells per no ensopegar amb monsons, huracans o tifons durant el viatge.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-25T00:41:05+02:00",
-        "stop": "2026-09-25T01:23:23+02:00",
-        "title": "Arxipèlag blau",
-        "subtitle": "Albuferes i aigües somes",
-        "description": "En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-25T02:39:13+02:00",
+        "stop": "2026-09-25T03:08:51+02:00",
+        "title": "Arts i oficis",
+        "subtitle": "Disseny de Videojocs",
+        "description": "El més difícil a l'hora de dissenyar un joc és aconseguir que flueixi. El 'flow'en argot tècnic, consisteix a crear un joc que tingui la dificultat tècnica justa pel nivell de destresa del jugador. Aquest programa va de videojocs, un ofici lligat a la diversió que necessita, però, de professionals amb perfils resultant d'una formació molt seriosa i específica. El sector dels videojocs ha deixat de ser l'aneguet lleig de les indústries creatives i ja és el gran referent del present i el futur del negoci digital. Molts consideren que el videojoc és el fill híbrid de totes les arts. En un joc hi podem trobar grans dosis de narrativa, il·lustració, animació i realització al servei d'una història on el protagonista ets tu mateix. No hi ha jugadors bons ni jugadors dolents, simplement persones que no han trobat el seu joc ideal. L'Escola de Noves Tecnologies Interactives forma amb l'experiència per oferir sortides professionals per als que vulguin pensar, desenvolupar i produir els jocs ideals per a totes les edats i nivells.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
