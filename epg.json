@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-25T15:14:32.648237+00:00",
+  "updated": "2026-09-25T19:16:49.123786+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,101 +43,101 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-25T16:43:59+02:00",
-        "stop": "2026-09-25T17:20:12+02:00",
-        "title": "La Riera",
+        "start": "2026-09-25T21:00:00+02:00",
+        "stop": "2026-09-25T22:05:16+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "En Casellas, el nou xef, és un home molt exigent que vol fer-se seva la cuina. Més d'un en surt escaldat. L'Ernest està molt enfadat amb la Mercè per no haver volgut respectar la voluntat del pare. I la Nora s'empesca una nova estratègia per amagar les seves mentides.",
-        "genre": "TELENOVEL·LA",
-        "image": ""
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-09-25T17:20:12+02:00",
-        "stop": "2026-09-25T17:30:29+02:00",
-        "title": "CUINES CATALUNYA",
-        "subtitle": "Amanida cruixent de bròquil",
-        "description": "Esteu tips de la típica verdura bullida? Us la voleu menjar d'una altra manera? Doncs us proposem una amanida de bròquil amb molts contrastos de sabor perquè l'acompanyem de làctics, fruits secs i una vinagreta potent. ",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-09-25T22:05:16+02:00",
+        "stop": "2026-09-26T00:10:46+02:00",
+        "title": "La gran pel·lícula",
+        "subtitle": "El Porter",
+        "description": "EL PORTER 'Trautmann'Direcció: Marcus H. RosenmüllerGuió: Robert Marciniak, Marcus H. Rosenmüller, Nicholas J. SchofieldProducció: Lieblingsfilm, Zephyr Films, British Film CompanyAny: 2018Durada: 120País: AlemanyaMúsica: Gerd BaumannFotografia: Daniel GottschalkIntèrprets: David Kross, Freya Mavor, John Henshaw, Harry Melling, Michael Socha, Dave Johns, Barbara Young, Chloe Harris, Mikey Collins, Gary Lewis, Dervla Kirwan, Angus Barnett, Alex FreemanDurant la Segona Guerra Mundial, el soldat alemany Bert Trautmann és capturat i deportat a un camp de presoners a Anglaterra. Allà, la seva habilitat com a porter impressiona un entrenador local i acaba jugant pel Manchester City. Malgrat la desconfiança inicial de l'afició, s'acaba guanyant el seu respecte amb coratge i integritat mentre afronta el pes de la guerra i una tragèdia familiar que li marcarà la vida per sempre",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-25T17:00:00+02:00",
-        "stop": "2026-09-25T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-25T21:00:00+02:00",
+        "stop": "2026-09-25T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-09-25T18:30:00+02:00",
-        "stop": "2026-09-25T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-25T22:05:00+02:00",
+        "stop": "2026-09-25T23:30:00+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-25T16:44:44+02:00",
-        "stop": "2026-09-25T17:39:08+02:00",
-        "title": "Canviant les regles del joc",
-        "subtitle": "Canviant les regles del joc",
-        "description": "La història del bàsquet femení a Vic: quan el bàsquet va canviar les seves vides i elles van canviar les regles del joc.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/3/1790065471935.jpg"
+        "start": "2026-09-25T21:07:30+02:00",
+        "stop": "2026-09-25T21:19:37+02:00",
+        "title": "Zona UFEC",
+        "subtitle": "",
+        "description": "'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"
       },
       {
-        "start": "2026-09-25T17:39:08+02:00",
-        "stop": "2026-09-25T19:00:00+02:00",
-        "title": "Handbol",
-        "subtitle": "Pinheiros-Barça / Mundial de Clubs / J1",
-        "description": "Els blaugranes, campions de l'última edició, debuten en aquest nou Mundial de clubs a Egipte contra el conjunt brasiler de Sao Paulo.",
+        "start": "2026-09-25T21:19:37+02:00",
+        "stop": "2026-09-25T22:10:33+02:00",
+        "title": "Futbol sala",
+        "subtitle": "Barça-Cartagena FS / Primera divisió / J3",
+        "description": "Els blaugranes volen consolidar el liderat amb la tercera victòria en tres jornades de lliga. Els murcians hi arriben amb un partit guanyat i un altre de perdut.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-25T17:04:13+02:00",
-        "stop": "2026-09-25T17:14:35+02:00",
-        "title": "Titó",
-        "subtitle": "Excursió amb la truita de riu",
-        "description": "Avui anem d'excursió en un centre on crien truites de riu. Voleu que anem al riu a alliberar-les? Som-hi! Hi trobarem un pescador ben especial",
-        "genre": "ALTRES",
+        "start": "2026-09-25T21:00:11+02:00",
+        "stop": "2026-09-25T21:22:30+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "L'últim canvi de lloc instantani d'en Son Goku",
+        "description": "Superat totalment pel poder d'en Son Gohan, en Cèl·lula decideix autodestruir-se i, amb l'explosió, fer volar tota la Terra. Pocs segons abans de l'execució final, en Son Goku pren la decisió dràstica de dur a terme un canvi de lloc instantani per transportar-se, ell i en Cèl·lula, lluny de la Terra amb l'objectiu de salvar el planeta. Però, a quin preu?",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-25T17:14:35+02:00",
-        "stop": "2026-09-25T17:24:21+02:00",
-        "title": "A jugar! Amb en Titó i els Fa la la",
-        "subtitle": "A jugar a cantar",
-        "description": "Qui guanyarà el concurs de millor cantant del parc? Serà en Titó? L'Os Bru? L'Oca de l'Empordà? El Tritó del Montseny? El Ruquicorn? O la Tat? Sí, avui també veurem la Tat!!!",
-        "genre": "ALTRES",
+        "start": "2026-09-25T21:22:30+02:00",
+        "stop": "2026-09-25T21:43:02+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Un dia de terror",
+        "description": "Després que en Son Goku sacrifiqués la vida per salvar la Terra, en Cèl·lula reapareix totalment regenerat, molt més poderós i amb la capacitat de fer canvis de lloc instantanis. El primer de comprovar la nova força de l'androide és en Vegeta, però en Son Gohan, decidit a venjar la mort del seu pare, també hi pensa dir la seva, encara que sigui jugant-s'hi la vida.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-25T16:47:48+02:00",
-        "stop": "2026-09-25T17:13:39+02:00",
-        "title": "Volcans i homes",
-        "subtitle": "Tresors per als homes",
-        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, ens porta a Nova Zelanda. Visitarem amb ell l'illa de Mayor Island, un santuari natural ofert pels maoris a l'obsidiana, i veurem, per mitjà d'entrevistes a persones molt diverses, la gran importància que té a l'illa del Nord la geotèrmia, tant per als usos industrials i agrícoles, com per a la vida quotidiana de les persones que viuen a tocar dels guèisers i les fonts termals. A part dels estudis dels biòlegs i els microbiòlegs sobre les curioses formacions microbianes que es generen en aquests entorns extrems i que ofereixen noves interpretacions sobre l'origen de la vida a la Terra. ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-25T21:01:33+02:00",
+        "stop": "2026-09-25T21:30:26+02:00",
+        "title": "Plats bruts",
+        "subtitle": "TINC TOTA LA VIDA PER ENDAVANT",
+        "description": "L'Oriol, el pare del Lopes, es jubila i s'instal·la a casa dels nois. Però, com que estar jubilat és molt avorrit, el Lopes l'anima perquè s'apunti a fer activitats en un casal d'avis. Paral·lelament, el David se sent acomplexat perquè tothom li diu que està molt prim.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       },
       {
-        "start": "2026-09-25T17:13:39+02:00",
-        "stop": "2026-09-25T17:39:41+02:00",
-        "title": "Volcans i homes",
-        "subtitle": "L'Alvèrnia: Els misteris dels gegants adormits",
-        "description": "En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a França, a l'Alvèrnia. Entre d'altres coses, l'acompanyarem en la seva visita al llac Pavin, que ha inspirat moltes llegendes des de l'antiguitat, en una incursió espeleològica a la cova de Soucy i en les visites a la Cova del Gos de Chamalières i el penyal de l'Aiguilhe, amb la capella de Saint-Michel al capdamunt...",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-25T21:30:26+02:00",
+        "stop": "2026-09-25T22:02:07+02:00",
+        "title": "Plats bruts",
+        "subtitle": "Tinc cera",
+        "description": "L'Stasky replanteja el bar oferint servei a domicili. L'Emma s'ofereix per portar una comanda al Museu de Cera, però passen les hores i no torna. El David i l'Stasky van a buscar-la. Mestrestant, el Lopes està organitzant un congrès de planificació de Ràdio Bofarull.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       }
     ],
