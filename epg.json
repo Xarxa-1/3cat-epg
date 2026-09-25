@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-25T04:59:41.727588+00:00",
+  "updated": "2026-09-25T10:06:47.320249+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-25T06:00:00+02:00",
-        "stop": "2026-09-25T08:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-25T10:30:04+02:00",
+        "stop": "2026-09-25T13:55:00+02:00",
+        "title": "Tot es mou",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "genre": "MAGAZINE",
+        "image": ""
       },
       {
-        "start": "2026-09-25T08:00:00+02:00",
-        "stop": "2026-09-25T10:30:00+02:00",
-        "title": "Matins",
+        "start": "2026-09-25T13:55:00+02:00",
+        "stop": "2026-09-25T14:30:00+02:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-25T06:00:00+02:00",
-        "stop": "2026-09-25T08:00:00+02:00",
+        "start": "2026-09-25T12:00:00+02:00",
+        "stop": "2026-09-25T13:55:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,19 +72,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-25T08:00:00+02:00",
-        "stop": "2026-09-25T10:30:00+02:00",
-        "title": "Matins",
+        "start": "2026-09-25T13:55:00+02:00",
+        "stop": "2026-09-25T14:30:00+02:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-25T06:47:22+02:00",
-        "stop": "2026-09-25T08:19:55+02:00",
+        "start": "2026-09-25T10:37:15+02:00",
+        "stop": "2026-09-25T12:10:00+02:00",
         "title": "Onze",
         "subtitle": "Supercampanya per la pilota d'or; el debut de Xavi a Holanda i 'El consultori'",
         "description": "David Bernabeu, Víctor Lozano, Irati Vidal i Fernando Polo comenten les últimes declaracions d'Mbappé i Lamine Yamal reclamant per sí mateixos la pilota d'or. El Sergi Ferrer respon els dubtes dels espectadors de l'Onze.",
@@ -92,52 +92,52 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-25T08:19:55+02:00",
-        "stop": "2026-09-25T09:07:13+02:00",
-        "title": "Aire Lliure",
-        "subtitle": "Costa Central, amb Toni Albà",
-        "description": "Després d'aprendre alguns dels secrets de la vela oceànica de la mà d'Anna Corbella, Núria Picas arriba al port de Vilanova a on Toni Albà farà d'amfitrió. En aquest quart episodi d'Aire Lliure també ensenyarem a circular per Barcelona en bicicleta al costat de tot un especialista de les dues rodes: Sergi Fernández.",
-        "genre": "REPORTATGES",
-        "image": ""
+        "start": "2026-09-25T12:10:00+02:00",
+        "stop": "2026-09-25T12:55:00+02:00",
+        "title": "Handbol",
+        "subtitle": "Pinheiros-Barça / Mundial de Clubs / J1",
+        "description": "Els blaugranes, campions de l'última edició, debuten en aquest nou Mundial de clubs a Egipte contra el conjunt brasiler de Sao Paulo.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-25T06:59:08+02:00",
-        "stop": "2026-09-25T07:20:53+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla borda amb dinosaures",
-        "description": "Fent una excavació en un jaciment, la Patrulla Peluda descobreix tres ous fossilitzats. De cop i volta, en surten tres pollets de pterodàctil que comencen a córrer per Badia Aventures. Ara la patrulla haurà de capturar els dinosaures!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-25T12:02:22+02:00",
+        "stop": "2026-09-25T12:14:29+02:00",
+        "title": "Ghost Rockers",
+        "subtitle": "",
+        "description": "En Jonas decideix ajudar la Mila, que ha anat tota sola a enfrontar-se a en Pieter Verlinden a la partida final del joc. En Jimmy i l'Alex arriben a la conclusió que els Free Birds també volen que vagin a ajudar els companys i es presenten a la ubicació on han estat convocats. Mentrestant, la Charlie no es pot creure el que descobreix a l'habitació de la Jana.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-09-25T07:20:53+02:00",
-        "stop": "2026-09-25T07:31:26+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla troba un geni",
-        "description": "En Rubble troba una capsa sorpresa amb un geni a dins que li concedeix tres desitjos!",
+        "start": "2026-09-25T12:14:29+02:00",
+        "stop": "2026-09-25T12:36:44+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els óssos polars no ballen",
+        "description": "En plena missió per la regió àrtica, en Chris i en Martin han vist com el malvat Zach capturava una cria de morsa i una d'ós polar per al seu nou espectacle. Per salvar-les, els nostres amics hauran d'aprendre els secrets de les morses... i moltes coses més! L'Aviva ja els té preparats, els Vestits de Poder Animal, però per activar-los primer han de tocar els animals! Que no els passi res!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-25T06:33:35+02:00",
-        "stop": "2026-09-25T07:22:29+02:00",
-        "title": "El Foraster",
-        "subtitle": "Rodonyà",
-        "description": "Rodonyà és un poble de la comarca de l'Alt Camp, epicentre de les calçotades, i el Foraster hi arriba amb un objectiu molt concret: descobrir tots els secrets que envolten aquesta popular tradició. Per aconseguir-ho, en Quim es deixarà guiar pels veïns del poble, començant per la colla que s'asseu al banc de la plaça. I malgrat que tots ells es consideren autèntics mestres calçotaires, no hi haurà manera que es posin d'acord en cap dels processos necessaris per fer una bona calçotada. Per la seva banda, la Maria Teresa ens revelarà, pas a pas, la recepta de la millor salsa de calçots, i la parella formada per la Rossi i l'Ordisi ens confessaran de quina manera les conseqüències petarreres dels calçots els fan sentir molt més units.A més, en Quim també coneixerà l'Enric, l'únic alcalde de Catalunya que li tallen el cap cada any, en Josep Maria, un marbrista que promociona les seves làpides funeràries d'una manera força especial, i en Ton, que, a part del seu preuat Mehari, té una cronologia vital molt particular.",
-        "genre": "VARIETATS",
+        "start": "2026-09-25T11:58:11+02:00",
+        "stop": "2026-09-25T12:06:36+02:00",
+        "title": "Cuines",
+        "subtitle": "Pomes farcides gratinades",
+        "description": "Dificultat: mitjanaTemps d'elaboració: Producte principal: pomesTemporada: tardor/hivern",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-09-25T07:22:29+02:00",
-        "stop": "2026-09-25T08:15:12+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Meruschka",
-        "description": "La Ivana Miño acompanya la jove sud-africana Meruschka Govender, més coneguda com a Mzansi Girl, a la neu. Visitem amb ella la Vall d'Aran en ple hivern i, a Barcelona, l'acompanyem a conèixer les nostres tradicions de Nadal.",
-        "genre": "ALTRES",
+        "start": "2026-09-25T12:06:36+02:00",
+        "stop": "2026-09-25T12:13:36+02:00",
+        "title": "Cuines",
+        "subtitle": "bacalla a la planxa amb pessol negre",
+        "description": "Dificultat: baixaTemps d'elaboració: Producte principal: bacallà Temporada: tot l'any",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
