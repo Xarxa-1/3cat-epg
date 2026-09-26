@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-26T00:53:07.390790+00:00",
+  "updated": "2026-09-26T05:46:40.028840+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,17 +43,17 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-26T01:44:21+02:00",
-        "stop": "2026-09-26T03:04:06+02:00",
-        "title": "Mésnit",
+        "start": "2026-09-26T07:00:00+02:00",
+        "stop": "2026-09-26T10:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-26T03:04:06+02:00",
-        "stop": "2026-09-26T04:00:00+02:00",
+        "start": "2026-09-26T10:00:00+02:00",
+        "stop": "2026-09-26T11:35:41+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-09-26T01:00:00+02:00",
-        "stop": "2026-09-26T06:00:00+02:00",
+        "start": "2026-09-26T07:00:00+02:00",
+        "stop": "2026-09-26T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-26T06:00:00+02:00",
-        "stop": "2026-09-26T07:00:00+02:00",
+        "start": "2026-09-26T10:00:00+02:00",
+        "stop": "2026-09-26T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-26T02:43:17+02:00",
-        "stop": "2026-09-26T04:03:06+02:00",
-        "title": "Futbol sala",
-        "subtitle": "Barça-Cartagena FS / Primera divisió / J3",
-        "description": "Els blaugranes volen consolidar el liderat amb la tercera victòria en tres jornades de lliga. Els murcians hi arriben amb un partit guanyat i un altre de perdut.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
+        "start": "2026-09-26T06:56:30+02:00",
+        "stop": "2026-09-26T08:31:07+02:00",
+        "title": "Onze",
+        "subtitle": "Julán, el passat? Raphinha superestrella; Fàbregas, Delmàs i Cazorla",
+        "description": "Míriam Riau fa tertúlia amb Carles Fité, Laia Bonals, Juli Garcia i Edgar Fornós. Comentem les declaracions de Deco en les que gira full de l'afer Julián Álvarez. Amb Àlex Delmàs repassem l'impacte que ha tingut fins ara Raphinha a la posició de davanter centre. Ens visita Joan Fàbregas, entrevistem la campiona de motocròs Daniela Guillén i acabem amb l'humor de Xavi Cazorla.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-26T04:03:06+02:00",
-        "stop": "2026-09-26T04:19:44+02:00",
+        "start": "2026-09-26T08:31:07+02:00",
+        "stop": "2026-09-26T08:47:25+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-26T02:43:35+02:00",
-        "stop": "2026-09-26T03:04:17+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Sentibombollaire",
-        "description": "L'Esfinx Fosc ha descobert que l'Alya és la Guineu Roja. La Marinette ho sap i li fa por que faci servir aquesta informació contra la seva millor amiga. Sobretot ara que li ha confiat el prodigi de la guineu de manera permanent. I si s'ha equivocat? La Marinette se'n va corrents a casa de l'Alya per explicar-li els seus temors, i mentrestant l'Esfinx Fosc crea un sentimonstre que empresona tots els éssers estimats de l'Alya en bombolles que floten al cel de París. I només els alliberarà si la Guineu Roja traeix Ladybug i el Gat Noir. Aconseguirà impedir que el seu malson es faci realitat, la Marinette?",
+        "start": "2026-09-26T07:43:57+02:00",
+        "stop": "2026-09-26T07:54:05+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "La darrera fulla de la tardor",
+        "description": "El Mic espera al costat de l'arbre que li caigui la darrera fulla. Una a una totes han anat caient i només en queda una.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-26T03:04:17+02:00",
-        "stop": "2026-09-26T03:25:22+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Glaciator 2",
-        "description": "La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.",
+        "start": "2026-09-26T07:54:05+02:00",
+        "stop": "2026-09-26T08:04:50+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "El mico Pellofa",
+        "description": "Sabeu qui és el mico Pellofa? És un personatge inventat que sempre diu coses divertides. En aquest capítol el Mic i en Cincsegons juguen a fer tot el que mana aquest mico tan especial",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-26T02:40:50+02:00",
-        "stop": "2026-09-26T03:08:27+02:00",
-        "title": "GR Barcelona",
-        "subtitle": "Llum de nit",
-        "description": "'Quan el sol es pon, es desperta una nova Barcelona. El mateix escenari, sí, però podríem dir que amb l'ànima disfressada. Qualsevol ciutat quan cau la nit es posa les millors gales. I Barcelona, més. En aquest gran recorregut el Marc seguirà la llum d'una nit que el portarà per l'avinguda Reina Cristina a veure la font màgica de Montjuïc, a continuació als carrers de Ciutat Vella per viure la nit de la llum durant les Festes de Santa Eulàlia, després seguirà la multitudinària patinada nocturna, aprendrà a cuinar una de les millors hamburgueses de la ciutat i també a fer un gin tònic, farà una ruta per algunes de les zones de marxa del centre, parlarà amb taxistes i acabarà a Catalunya Ràdio, despertant Catalunya amb Mònica Terribas.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-26T07:21:21+02:00",
+        "stop": "2026-09-26T08:08:21+02:00",
+        "title": "La Renaixença",
+        "subtitle": "El compàs",
+        "description": "Tots hem fet servir el compàs durant la nostra època escolar. Alguns amb més destresa que d'altres, però tots l'hem fet servir alguna vegada per punxar la goma d'esborrar. En això segur que coincidim. Els músics també en fan servir un de compàs, però no és el mateix. Ens visita en Llorenç Barba, responsable del refugi Vicenç Barber de Montserrat. Fa'passejades' de 45 minuts fins al refugi diàriament pujant més de 200 kg a l'esquena cada setmana. A 'Històries per passejar el gos' anem amb la Dobby fins al 1960, a la catàstrofe de Nedelin.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-09-26T03:08:27+02:00",
-        "stop": "2026-09-26T03:34:45+02:00",
-        "title": "GR Barcelona",
-        "subtitle": "Miradors que ens miren",
-        "description": "'Estem rodejats de miradors silenciosos que només hi són si puges a veure'ls.'Hi ha llocs des d'on es pot contemplar la ciutat en la seva totalitat, sencera, des de les altures. Barcelona té el privilegi de comptar amb miradors impressionants que et descobreixen una realitat plena de matisos. Es començarà veient com desperta el dia des del Mirador del Carmel amb el fotògraf Sergi Periche, es seguirà vigilant el trànsit des de l'helicòpter del Civicat, es repassarà els miradors més coneguts de la ciutat (Colom, el Telefèric del Port, Montjuïc,el mirador de l'aeroport, el Tibidabo, terrasses d'hotels i la torre del rellotge de Gràcia), es pujarà a la teulada de Santa Maria del Mar amb Fra Vicenç, l'organista de la basílica, per presenciar la sintonia de campanes de Ciutat Vella, es farà running per la carretera de les aigües i s'acabarà a l'Observatori Fabra, sopant amb estrelles i mirant la lluna amb el seu telescopi centenari.",
+        "start": "2026-09-26T08:08:21+02:00",
+        "stop": "2026-09-26T08:32:47+02:00",
+        "title": "Fotografies",
+        "subtitle": "Retrat",
+        "description": "En aquest episodi, la fotògrafa Judit Vizcarra, renovadora de la fotografia d'estudi, descobreix els seus trucs per retratar una família amb un nadó; l'Atelier Retaguardia mostrarà com es feia un retrat al segle XIX; i la fotògrafa Lorena Ros explica per què utilitza el retrat per denunciar els abusos sexuals. Aquesta setmana, a 'Fotografies', 'El retrat'.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
