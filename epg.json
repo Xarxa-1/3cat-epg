@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-26T21:08:12.345225+00:00",
+  "updated": "2026-09-26T23:36:50.420330+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-26T22:11:00+02:00",
-        "stop": "2026-09-27T00:55:19+02:00",
-        "title": "Col·lapse",
-        "subtitle": "25/09/2026",
-        "description": "Estrenem temporada entrevistant el xef que va revolucionar la gastronomia mundial: FERRAN ADRIÀ. Ens visita la parella de moda de la nova temporada de 'La travessa': RAQUEL SANS i MIKI NÚÑEZ. Amb ells també descobrirem algunes de les coses més emocionants que han passat en aquesta edició vip tan especial que s'ha rodat a Mallorca i que comença a emetre's la setmana que ve. S'incorporen com a col·laboradors fixos Carlos Latre, Maria Fernández Vidal, Àngel Llàcer i l'influencer Marc Biarnès. I abordarem un tema d'actualitat com són els segrestos exprés que en menys un mes s'han produït a diferents indrets de Catalunya. Un d'ells, la setmana passada a l'AP-7, davant la sorpresa i la incredulitat de molts ciutadans que, en aquell moment, hi circulaven i ho van veure en directe. ",
-        "genre": "TALK-SHOW",
+        "start": "2026-09-27T01:17:07+02:00",
+        "stop": "2026-09-27T01:45:29+02:00",
+        "title": "Oh! Europa",
+        "subtitle": "Portugal",
+        "description": "L'Enric i la Pepa viuen la seva història d'amor, interrompuda per l'arribada de la dona de l'Enric per visitar-lo per sorpresa. Mentrestant, la família Deulofeu prepara un suculent sopar 'empordanès', després d'haver pres a l'assalt la cuina de l'hotel.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       },
       {
-        "start": "2026-09-27T00:55:19+02:00",
-        "stop": "2026-09-27T01:18:34+02:00",
-        "title": "Marcians",
-        "subtitle": "Quan ja no hi sigui",
-        "description": "La carrera dels artistes va més enllà del seu temps. Els creadors generen una obra, material o immaterial, que manté la vigència més enllà de la seva vida. Aquest reportatge demana a tres artistes que ja han passat de la vuitantena com es plantegen el seu llegat un cop ells ja no hi siguin.Pilar Aymerich té més de 100.000 negatius de les fotografies que ha fet durant la seva llarga trajectòria. Ja sigui a través de retrats d'artistes, de fotografies polítiques, feministes o de Barcelona, l'obra d'Aymerich és una crònica dels últims cinquanta anys del país. Per això ella vol que la seva obra sigui un llegat per a Catalunya.Francesc Parcerisas mai es va plantejar quina havia de ser la seva obra. Ha escrit poesia, prosa, ha fet traduccions. I al final, la seva producció intel·lectual ha conformat una gran obra. Però Parcerisas també ha anat guardant papers de tota mena, que permeten fer una mena d'arqueologia de la seva vida i la seva època.Josep Maria Pou creu que la seva feina d'actor, com diria Shakespeare, és com una ombra que passa un moment per l'escenari i ja no se'l veu mai més. I ell vol que sigui així: el seu llegat immaterial quedaria viu en el record dels espectadors mentre n'hi hagi un de sol de viu que l'hagi vist en un escenari.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-09-27T01:45:29+02:00",
+        "stop": "2026-09-27T02:40:42+02:00",
+        "title": "Vosaltres mateixos",
+        "subtitle": "L'espectacle de la gent",
+        "description": "Una selecció dels bons moments que ens han deixat l'Andreu i els convidats durant aquesta segona temporada.",
+        "genre": "TALK-SHOW",
+        "image": "https://img.ccma.cat/multimedia/png/6/6/1698344358966.png"
       }
     ],
     "324": [
       {
-        "start": "2026-09-26T23:00:00+02:00",
-        "stop": "2026-09-27T00:30:00+02:00",
+        "start": "2026-09-27T01:00:00+02:00",
+        "stop": "2026-09-27T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-27T00:30:00+02:00",
-        "stop": "2026-09-27T01:00:00+02:00",
+        "start": "2026-09-27T06:00:00+02:00",
+        "stop": "2026-09-27T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-26T23:00:00+02:00",
-        "stop": "2026-09-27T00:00:53+02:00",
-        "title": "Esport Club Cap de Setmana",
-        "subtitle": "Esport Club",
-        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
-      },
-      {
-        "start": "2026-09-27T00:00:53+02:00",
-        "stop": "2026-09-27T00:19:42+02:00",
+        "start": "2026-09-27T01:27:22+02:00",
+        "stop": "2026-09-27T01:49:40+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+      },
+      {
+        "start": "2026-09-27T01:49:40+02:00",
+        "stop": "2026-09-27T03:38:50+02:00",
+        "title": "Futbol",
+        "subtitle": "Logronyo-FC Barcelona / Lliga F / J5",
+        "description": "Les blaugranes volen sumar la 5a victòria en 5 jornades per seguir liderant la classificació. El conjunt de La Rioja ha guanyat 2 partits i n'ha perdut els altres 2.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-26T23:07:31+02:00",
-        "stop": "2026-09-26T23:18:17+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "Festa grossa",
-        "description": "En Prince truca la Tropa perquè la Bertha s'ha quedat encallada a la gatonera. Mentre la Maggie, la Flo i en Jo corren a ajudar-la, en Clive i en Billy es queden a la granja per preparar la festa anual que celebren l'únic dia de l'any que el granger se'n va de la ciutat.",
+        "start": "2026-09-27T01:25:05+02:00",
+        "stop": "2026-09-27T01:45:57+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Qilin",
+        "description": "La Marinette té una mare increïble. La Sabine té el do de crear harmonia al seu voltant d'una manera senzilla i serena. Cada dia fa servir aquest do per ajudar a créixer la seva filla despistada i pocatraça. I precisament per culpa d'una badada de la Marinette, acusen la Sabine d'haver comès un delicte. Ella prou que defensa la seva innocència, però no se la creu ningú. Un profund sentiment d'injustícia s'apodera d'ella i l'Esfinx Fosc l'akumatitza. Aquesta vegada serà Ladybug qui haurà d'ajudar la seva mare.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-26T23:18:17+02:00",
-        "stop": "2026-09-26T23:29:03+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "Amb l'Esther en són sis",
-        "description": "L'Albert truca la Tropa per demanar ajuda, però qui agafa el telèfon és l'Esther, que es vol unir a l'equip perquè està impressionada amb les gestes heroiques del grup. La Tropa hi accedeix i li fan seguir unes normes molt estrictes, però l'ambient es tensa quan l'actuació de l'Esther supera la de la resta.",
+        "start": "2026-09-27T01:45:57+02:00",
+        "stop": "2026-09-27T02:06:38+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Estimada família",
+        "description": "La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-26T22:16:40+02:00",
-        "stop": "2026-09-26T23:15:03+02:00",
-        "title": "Els caps de setmana llargs d'en Rick Stein",
-        "subtitle": "Tessalònica",
-        "description": "En Rick és un enamorat de la cuina grega. Li encanta el cafè espès que fa, la gran varietat de plats i, sobretot, la forta influència rebuda de llocs com Turquia, el Pròxim Orient i els Balcans. Aquest cap de setmana coneixerà una estrella de la televisió culinària grega, la Vefa Alexiadou, tastarà especialitats de Tessalònica, com la 'trigona', una 'bugatsa' de carn molt engrecadora i diversos plats fets amb préssec.",
+        "start": "2026-09-27T01:31:34+02:00",
+        "stop": "2026-09-27T01:57:58+02:00",
+        "title": "Els hotels més remots del món",
+        "subtitle": "Briol",
+        "description": "L'única manera d'arribar a aquesta encantadora fonda és a peu. La Johanna Fink von Klebelsberg, l'excèntrica propietària de Briol, besneta de la fundadora, ha preservat intel·ligentment el caràcter antic de la fonda sense afegir-hi cap luxe modern...ni homes! La tradició demana que tot el personal familiar de l'hotel sigui exclusivament femení. La majoria dels menús estan elaborats amb ingredients locals produïts per la comunitat local, creant una atmosfera única entre les muntanyes tiroleses. Fis a 4 generacions de dones ha dirigit aquest hotel fins avui. ",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-26T23:15:03+02:00",
-        "stop": "2026-09-27T00:14:00+02:00",
-        "title": "Els caps de setmana llargs d'en Rick Stein",
-        "subtitle": "Palerm",
-        "description": "A l'últim capítol d'aquesta sèrie, en Rick Stein va a Palerm, la capital de Sicília, on tastarà el menjar boníssim que fan a les parades del carrer: pop, 'mangia e bevi', 'panelle', 'cazilli', 'crocchè'... Gaudirà d'una ciutat que estat dominada per una llarga llista de pobles al llarg de la història, amb tocs de barroc, escenaris d''El padrí', palaus i un mar amb un peix fresquíssim. I cuinarà un pesto 'allà trapanese' i un pollastre amb salsa de vi marsala.",
+        "start": "2026-09-27T01:57:58+02:00",
+        "stop": "2026-09-27T02:23:17+02:00",
+        "title": "Els hotels més remots del món",
+        "subtitle": "Kasbah du Toubkal",
+        "description": "L'alcassaba de Toubkal és l'epíleg d'una història familiar. La de dos germans, el Mike i el Chris, un aventurer i un home de negocis, i del seu soci, el Haj Maurice, que es van enamorar del Marroc i d'Imlil en particular. El 1995, van comprar l'antiga residència d'estiueig del Caid Souktani, que era pràcticament una runa. Per reconstruir-la van fer servir només recursos locals: mà d'obra, personal, menjar, plats, estores, coixins, olles. Les seves vistes impressionants sobre la vall, la converteixen en un lloc excepcional que atrau viatgers de tot el món. I la seva filosofia, que consisteix a viure en perfecta autonomia i harmonia amb el territori, en particular participant en projectes.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
