@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-25T22:36:09.340550+00:00",
+  "updated": "2026-09-26T00:53:07.390790+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-26T00:10:59+02:00",
-        "stop": "2026-09-26T01:43:17+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Assassinats a La Vendée",
-        "description": "ASSASSINATS A LA VENDÉE 'Le Vent des sables'Direcció: Stéphane KappesGuió: Frédéric Faurt, Lionel PasquierProducció: Son et Lumière, France Télévisions, AT-Production, RTBFAny: 2024Durada: 90País: FrançaMúsica: Xavier BerthelotFotografia: Sophie ArdissonIntèrprets: Marie-Josée Croze, Tom Leeb, Alexandre Brasseur, William Nadylam, Guillaume Arnault, Gabrielle Atger, Stéphane Brel, Nicolas Jouhet, Célie Verger, Laurence Huby, Fatah Boudia, Simon Morant, Arnaud de Montlivault, Isaline Ponroy, Sylvain Saussereau, Pierre Ostoya Magnin, Clément VinetteMentre els patrons que competeixen a la Vendée Globe es preparen per salpar, l'assassinat d'un membre de la comunitat altera els preparatius de la competició. La víctima és el patrocinador d'en Yannick Berthomé, l'estrella de la zona i favorit per guanyar la competició. Els tinents Judith Kamara i Olivier Finet, de la policia judicial d'Angers, es desplacen fins a la competició per fer-se càrrec de la investigació del crim.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
-      },
-      {
-        "start": "2026-09-26T01:43:17+02:00",
-        "stop": "2026-09-26T03:03:02+02:00",
+        "start": "2026-09-26T01:44:21+02:00",
+        "stop": "2026-09-26T03:04:06+02:00",
         "title": "Mésnit",
         "subtitle": "",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
         "genre": "DEBAT",
         "image": ""
+      },
+      {
+        "start": "2026-09-26T03:04:06+02:00",
+        "stop": "2026-09-26T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-26T00:30:00+02:00",
-        "stop": "2026-09-26T01:00:00+02:00",
+        "start": "2026-09-26T01:00:00+02:00",
+        "stop": "2026-09-26T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-26T01:00:00+02:00",
-        "stop": "2026-09-26T06:00:00+02:00",
+        "start": "2026-09-26T06:00:00+02:00",
+        "stop": "2026-09-26T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-26T00:34:51+02:00",
-        "stop": "2026-09-26T00:51:08+02:00",
+        "start": "2026-09-26T02:43:17+02:00",
+        "stop": "2026-09-26T04:03:06+02:00",
+        "title": "Futbol sala",
+        "subtitle": "Barça-Cartagena FS / Primera divisió / J3",
+        "description": "Els blaugranes volen consolidar el liderat amb la tercera victòria en tres jornades de lliga. Els murcians hi arriben amb un partit guanyat i un altre de perdut.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
+      },
+      {
+        "start": "2026-09-26T04:03:06+02:00",
+        "stop": "2026-09-26T04:19:44+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
-      },
-      {
-        "start": "2026-09-26T00:51:08+02:00",
-        "stop": "2026-09-26T02:27:25+02:00",
-        "title": "Onze",
-        "subtitle": "Julán, el passat? Raphinha superestrella; Fàbregas, Delmàs i Cazorla",
-        "description": "Míriam Riau fa tertúlia amb Carles Fité, Laia Bonals, Juli Garcia i Edgar Fornós. Comentem les declaracions de Deco en les que gira full de l'afer Julián Álvarez. Amb Àlex Delmàs repassem l'impacte que ha tingut fins ara Raphinha a la posició de davanter centre. Ens visita Joan Fàbregas, entrevistem la campiona de motocròs Daniela Guillén i acabem amb l'humor de Xavi Cazorla.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-26T00:29:16+02:00",
-        "stop": "2026-09-26T00:49:55+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Bandit, el turó de peus negres",
-        "description": "En Martin, impacient, surt a provar la nova Excavapedres de l'Aviva abans que estigui acabada. Vola sense control i s'estavella en una praderia oculta on queda encallat i hi troba una colónia desconeguda de turons de peus negres. ",
+        "start": "2026-09-26T02:43:35+02:00",
+        "stop": "2026-09-26T03:04:17+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Sentibombollaire",
+        "description": "L'Esfinx Fosc ha descobert que l'Alya és la Guineu Roja. La Marinette ho sap i li fa por que faci servir aquesta informació contra la seva millor amiga. Sobretot ara que li ha confiat el prodigi de la guineu de manera permanent. I si s'ha equivocat? La Marinette se'n va corrents a casa de l'Alya per explicar-li els seus temors, i mentrestant l'Esfinx Fosc crea un sentimonstre que empresona tots els éssers estimats de l'Alya en bombolles que floten al cel de París. I només els alliberarà si la Guineu Roja traeix Ladybug i el Gat Noir. Aconseguirà impedir que el seu malson es faci realitat, la Marinette?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-26T00:49:55+02:00",
-        "stop": "2026-09-26T01:01:23+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Els perills de l'amnèsia",
-        "description": "La Marine li pren el mòbil a la seva germana i l'hi acaba trencant. Per evitar que la Wendy es posi feta una fúria, fa veure que pateix un atac d'amnèsia. La Wendy hi cau de quatre grapes i s'esforça perquè la seva germana recuperi la memòria sotmetent-la a situacions que li provoquin un xoc emocional.",
+        "start": "2026-09-26T03:04:17+02:00",
+        "stop": "2026-09-26T03:25:22+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Glaciator 2",
+        "description": "La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-26T00:18:18+02:00",
-        "stop": "2026-09-26T01:08:18+02:00",
-        "title": "La Rambla: secrets d'un escenari",
-        "subtitle": "La Rambla: secrets d'un escenari",
-        "description": "L'escriptor Lluís Permanyer ens endinsa en els secrets i misteris de La Rambla com a escenari del teatre de la complexa i variada història de Barcelona.En 'La Rambla: secrets d'un escenari, Permanyer ens descobreix per què aquest indret barceloní s'ha consagrat com un carrer únic al món i una veritable síntesi de la dinàmica ciutadana. Aquest documental ens mostra La Rambla com l'escenari escollit pels ciutadans per representar els grans esdeveniments de Barcelona.Amb Ventura Pons, Joan Gaspart, Nazario i altres personatges que han viscut aquest carrer, l'escriptor ens porta a reconèixer la força del patrimoni immaterial que reflecteix l'ànima ciutadana a través de: la vida, la mort, la guerra, la diversió, el sexe i l'urbanisme.L'escriptor ens explica com era La Rambla on es van concentrar els primers llocs d'oci i cultura de la ciutat: el teatre permanent mes antic d'Espanya, el primer cafè de Barcelona, el Liceu... i ens presenta personatges que ens parlen de La Rambla com un espai de llibertat on s'expressen desitjos, tendències i reivindicacions. Tot plegat ha fet que a la Rambla s'hagin donat espontàniament les formes de producció estètica i social més innovadores.Un carrer únic al món que, en paraules de Lluís Permanyer, no ens hem de deixar perdre.",
+        "start": "2026-09-26T02:40:50+02:00",
+        "stop": "2026-09-26T03:08:27+02:00",
+        "title": "GR Barcelona",
+        "subtitle": "Llum de nit",
+        "description": "'Quan el sol es pon, es desperta una nova Barcelona. El mateix escenari, sí, però podríem dir que amb l'ànima disfressada. Qualsevol ciutat quan cau la nit es posa les millors gales. I Barcelona, més. En aquest gran recorregut el Marc seguirà la llum d'una nit que el portarà per l'avinguda Reina Cristina a veure la font màgica de Montjuïc, a continuació als carrers de Ciutat Vella per viure la nit de la llum durant les Festes de Santa Eulàlia, després seguirà la multitudinària patinada nocturna, aprendrà a cuinar una de les millors hamburgueses de la ciutat i també a fer un gin tònic, farà una ruta per algunes de les zones de marxa del centre, parlarà amb taxistes i acabarà a Catalunya Ràdio, despertant Catalunya amb Mònica Terribas.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/4/1789603569346.jpg"
+        "image": ""
       },
       {
-        "start": "2026-09-26T01:08:18+02:00",
-        "stop": "2026-09-26T02:00:22+02:00",
-        "title": "Els plans de Cerdà",
-        "subtitle": "Els plans de Cerdà",
-        "description": "'ELS PLANS DE CERDÀ' (2020), una producció de Minoria Absoluta, SL, en coproducció amb Televisió de Catalunya, amb la col·laboració de la Diputació de Barcelona i el suport de l'ICEClldefons Cerda, un revolucionari que va canviar Barcelona per sempre, molt més que un simple arquitecte, i molt més que el creador de l'Eixample.Es parla molt del pla Cerda, tothom coneix l'Eixample de Barcelona, però ben poca gent sap qui va ser en realitat aquest home singularDirecció: Francesc Escribano – Josep Serra MateuGuió: Francesc Escribano – Albert Val Realització: Josep Serra MateuProductor: David FelaniProductor executiu TVC: Jordi AmbròsEdició continguts TVC: Montse Armengou MartínProductor delegat TVC: Daniel BareaDirector fotografia: Marc JuanMuntatge: Roger GispertDirector de producció: Mireia Gaitán Música: Emi Music (llibrería)Lingüista: Pep CornudellaGrafisme: Joan M. CelorioVeu en off: Francesc Orella",
+        "start": "2026-09-26T03:08:27+02:00",
+        "stop": "2026-09-26T03:34:45+02:00",
+        "title": "GR Barcelona",
+        "subtitle": "Miradors que ens miren",
+        "description": "'Estem rodejats de miradors silenciosos que només hi són si puges a veure'ls.'Hi ha llocs des d'on es pot contemplar la ciutat en la seva totalitat, sencera, des de les altures. Barcelona té el privilegi de comptar amb miradors impressionants que et descobreixen una realitat plena de matisos. Es començarà veient com desperta el dia des del Mirador del Carmel amb el fotògraf Sergi Periche, es seguirà vigilant el trànsit des de l'helicòpter del Civicat, es repassarà els miradors més coneguts de la ciutat (Colom, el Telefèric del Port, Montjuïc,el mirador de l'aeroport, el Tibidabo, terrasses d'hotels i la torre del rellotge de Gràcia), es pujarà a la teulada de Santa Maria del Mar amb Fra Vicenç, l'organista de la basílica, per presenciar la sintonia de campanes de Ciutat Vella, es farà running per la carretera de les aigües i s'acabarà a l'Observatori Fabra, sopant amb estrelles i mirant la lluna amb el seu telescopi centenari.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/0/1603811540701.jpg"
+        "image": ""
       }
     ],
     "oca1": [],
