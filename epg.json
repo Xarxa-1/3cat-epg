@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-26T18:03:10.839839+00:00",
+  "updated": "2026-09-26T21:08:12.345225+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-26T18:29:32+02:00",
-        "stop": "2026-09-26T20:16:52+02:00",
-        "title": "Tarda de cine",
-        "subtitle": "Fills",
-        "description": "FILLS 'Figli'Direcció: Giuseppe BonitoGuió: Mattia TorreProducció: Wildside, The Apartment, Vision DistributionAny: 2020Durada: 97País: ItàliaMúsica: Giuliano Taviani, Carmelo TraviaFotografia: Roberto ForzaIntèrprets: Valerio Mastandrea, Paola Cortellesi, Stefano Fresi, Valerio Aprea, Paolo Calabresi, Andrea Sartoretti, Massimo De Lorenzo, Gianfelice Imparato El naixement d'un nou fill trasbalsarà una família romana. És un nadó tan estimat com inesperat, i ho capgira tot.",
-        "genre": "PEL·LÍCULA / TELEFILM",
+        "start": "2026-09-26T22:11:00+02:00",
+        "stop": "2026-09-27T00:55:19+02:00",
+        "title": "Col·lapse",
+        "subtitle": "25/09/2026",
+        "description": "Estrenem temporada entrevistant el xef que va revolucionar la gastronomia mundial: FERRAN ADRIÀ. Ens visita la parella de moda de la nova temporada de 'La travessa': RAQUEL SANS i MIKI NÚÑEZ. Amb ells també descobrirem algunes de les coses més emocionants que han passat en aquesta edició vip tan especial que s'ha rodat a Mallorca i que comença a emetre's la setmana que ve. S'incorporen com a col·laboradors fixos Carlos Latre, Maria Fernández Vidal, Àngel Llàcer i l'influencer Marc Biarnès. I abordarem un tema d'actualitat com són els segrestos exprés que en menys un mes s'han produït a diferents indrets de Catalunya. Un d'ells, la setmana passada a l'AP-7, davant la sorpresa i la incredulitat de molts ciutadans que, en aquell moment, hi circulaven i ho van veure en directe. ",
+        "genre": "TALK-SHOW",
         "image": ""
       },
       {
-        "start": "2026-09-26T20:16:52+02:00",
-        "stop": "2026-09-26T20:21:45+02:00",
-        "title": "Atrapa'm si pots. Els millors moments.",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "start": "2026-09-27T00:55:19+02:00",
+        "stop": "2026-09-27T01:18:34+02:00",
+        "title": "Marcians",
+        "subtitle": "Quan ja no hi sigui",
+        "description": "La carrera dels artistes va més enllà del seu temps. Els creadors generen una obra, material o immaterial, que manté la vigència més enllà de la seva vida. Aquest reportatge demana a tres artistes que ja han passat de la vuitantena com es plantegen el seu llegat un cop ells ja no hi siguin.Pilar Aymerich té més de 100.000 negatius de les fotografies que ha fet durant la seva llarga trajectòria. Ja sigui a través de retrats d'artistes, de fotografies polítiques, feministes o de Barcelona, l'obra d'Aymerich és una crònica dels últims cinquanta anys del país. Per això ella vol que la seva obra sigui un llegat per a Catalunya.Francesc Parcerisas mai es va plantejar quina havia de ser la seva obra. Ha escrit poesia, prosa, ha fet traduccions. I al final, la seva producció intel·lectual ha conformat una gran obra. Però Parcerisas també ha anat guardant papers de tota mena, que permeten fer una mena d'arqueologia de la seva vida i la seva època.Josep Maria Pou creu que la seva feina d'actor, com diria Shakespeare, és com una ombra que passa un moment per l'escenari i ja no se'l veu mai més. I ell vol que sigui així: el seu llegat immaterial quedaria viu en el record dels espectadors mentre n'hi hagi un de sol de viu que l'hagi vist en un escenari.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-26T20:00:00+02:00",
-        "stop": "2026-09-26T21:00:00+02:00",
+        "start": "2026-09-26T23:00:00+02:00",
+        "stop": "2026-09-27T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,71 +72,71 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-26T21:00:00+02:00",
-        "stop": "2026-09-26T22:02:00+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-09-27T00:30:00+02:00",
+        "stop": "2026-09-27T01:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-26T19:49:54+02:00",
-        "stop": "2026-09-26T20:41:16+02:00",
-        "title": "Futbol",
-        "subtitle": "Gimnàstic de Tarragona-UE Sant Andreu / Primera Federació / J5",
-        "description": "Els tarragonins han sumat 7 punts de 12 i són a la part alta de la classificació. Els barcelonins en tenen 4, i volen sortir de la part baixa. Amb la narració d'Oriol Vidal, i l'anàlisi d'Alberto Manga i Santi Triguero.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+        "start": "2026-09-26T23:00:00+02:00",
+        "stop": "2026-09-27T00:00:53+02:00",
+        "title": "Esport Club Cap de Setmana",
+        "subtitle": "Esport Club",
+        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       },
       {
-        "start": "2026-09-26T20:41:16+02:00",
-        "stop": "2026-09-26T21:20:17+02:00",
-        "title": "Zona zàping",
-        "subtitle": "Raphinha fa un Hat Trick, mentre a Madrid torna el Xou de Mou",
-        "description": "El Barça ja supera el Real Madrid de 6 punts i és líder indiscutible de la Lliga, després del hat trick de Raphinha a Sevilla, i la derrota dels blancs amb l'Atlético. Una derrota amb força polèmica que ha fet tornar el Mourinho més esperpèntic a la sala de premsa.Edu Esteve, exconcursant d'Eufòria, acomiad el programa amb el seu nou tema 'Torna'.",
-        "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"
+        "start": "2026-09-27T00:00:53+02:00",
+        "stop": "2026-09-27T00:19:42+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-26T19:49:11+02:00",
-        "stop": "2026-09-26T20:09:41+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "Un gran partit de la J. League, entre bastidors",
-        "description": "En Conan, la Haibara, en Genta, en Mitsuhiko i l'Ayumi guanyen un sorteig per assistir a un partit commemoratiu del trentè aniversari de la J. League. Entre el públic, en Conan veu un home sospitós que no sembla interessar-se pel futbol. Mentrestant, els seguidors del Frontale no poden accedir a l'estadi tot i tenir les entrades. La Lliga de Detectius Júnior investiga si aquests fets tenen alguna relació.",
+        "start": "2026-09-26T23:07:31+02:00",
+        "stop": "2026-09-26T23:18:17+02:00",
+        "title": "La tropa del corral",
+        "subtitle": "Festa grossa",
+        "description": "En Prince truca la Tropa perquè la Bertha s'ha quedat encallada a la gatonera. Mentre la Maggie, la Flo i en Jo corren a ajudar-la, en Clive i en Billy es queden a la granja per preparar la festa anual que celebren l'únic dia de l'any que el granger se'n va de la ciutat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-26T20:09:41+02:00",
-        "stop": "2026-09-26T20:33:30+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "Els homes de gel",
-        "description": "En Kenzo Aizawa és el president d'una empresa familiar de productes d'alimentació. Mentre fa la ronda de vigilància rutinària al magatzem refrigerat, un home l'agredeix i el deixa tancat a l'interior. Al cap d'unes hores, el director executiu, Masaru Bando, troba el president inconscient dins del magatzem. Els sospitosos són els dos fills del president, que no estan ben avinguts i no sembla que li tinguin gaire afecte al seu pare.",
+        "start": "2026-09-26T23:18:17+02:00",
+        "stop": "2026-09-26T23:29:03+02:00",
+        "title": "La tropa del corral",
+        "subtitle": "Amb l'Esther en són sis",
+        "description": "L'Albert truca la Tropa per demanar ajuda, però qui agafa el telèfon és l'Esther, que es vol unir a l'equip perquè està impressionada amb les gestes heroiques del grup. La Tropa hi accedeix i li fan seguir unes normes molt estrictes, però l'ambient es tensa quan l'actuació de l'Esther supera la de la resta.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-26T19:32:21+02:00",
-        "stop": "2026-09-26T20:15:43+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Dubai",
-        "description": "Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.",
+        "start": "2026-09-26T22:16:40+02:00",
+        "stop": "2026-09-26T23:15:03+02:00",
+        "title": "Els caps de setmana llargs d'en Rick Stein",
+        "subtitle": "Tessalònica",
+        "description": "En Rick és un enamorat de la cuina grega. Li encanta el cafè espès que fa, la gran varietat de plats i, sobretot, la forta influència rebuda de llocs com Turquia, el Pròxim Orient i els Balcans. Aquest cap de setmana coneixerà una estrella de la televisió culinària grega, la Vefa Alexiadou, tastarà especialitats de Tessalònica, com la 'trigona', una 'bugatsa' de carn molt engrecadora i diversos plats fets amb préssec.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-26T20:15:43+02:00",
-        "stop": "2026-09-26T20:59:45+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Ulan Bator",
-        "description": "Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.",
+        "start": "2026-09-26T23:15:03+02:00",
+        "stop": "2026-09-27T00:14:00+02:00",
+        "title": "Els caps de setmana llargs d'en Rick Stein",
+        "subtitle": "Palerm",
+        "description": "A l'últim capítol d'aquesta sèrie, en Rick Stein va a Palerm, la capital de Sicília, on tastarà el menjar boníssim que fan a les parades del carrer: pop, 'mangia e bevi', 'panelle', 'cazilli', 'crocchè'... Gaudirà d'una ciutat que estat dominada per una llarga llista de pobles al llarg de la història, amb tocs de barroc, escenaris d''El padrí', palaus i un mar amb un peix fresquíssim. I cuinarà un pesto 'allà trapanese' i un pollastre amb salsa de vi marsala.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
