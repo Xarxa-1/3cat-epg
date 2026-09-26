@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-26T05:46:40.028840+00:00",
+  "updated": "2026-09-26T10:41:54.904509+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-26T07:00:00+02:00",
-        "stop": "2026-09-26T10:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-26T11:34:43+02:00",
+        "stop": "2026-09-26T12:50:40+02:00",
+        "title": "Soc i Seré",
+        "subtitle": "Un poble cantaire",
+        "description": "Comença la batalla per convertir-se en la persona que sap més de Catalunya. Dividits en dos equips de 50 persones, els aspirants s'enfrontaran als primers reptes de la segona temporada.El repte d'avantatge, anomenat Casa meva és casa vostra, serà una intrèpida gimcana de banderes on els aspirants hauran de demostrar els seus coneixements sobre els municipis catalans. Però tot es decidirà al repte eliminatori, titulat Canto jo i la colònia balla. Per continuar al programa, els dos equips hauran d'emocionar un jurat format per Nina, Laura Andrés i Arnau Vilà amb les versions corals de dues conegudes havaneres.Només un equip continuarà al programa i es ficarà els primeres 10.000 euros a la butxaca. Les 50 persones restants se n'aniran a casa, però alguns eliminats rebran unca carta misteriosa que els donarà una seogna oportunitat.Qui guanyarà aquest primer duel, els Alls o els Olis? Aquí comença 'Soc i seré'.",
+        "genre": "CONCURS",
+        "image": ""
       },
       {
-        "start": "2026-09-26T10:00:00+02:00",
-        "stop": "2026-09-26T11:35:41+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-26T12:50:40+02:00",
+        "stop": "2026-09-26T13:49:30+02:00",
+        "title": "País d'altura",
+        "subtitle": "Costa Brava",
+        "description": "La Costa Brava és molt més que cales de postal: és tramuntana, artistes, pirates, rucs catalans, Dalí i racons que et fan pensar que el paradís existeix.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-26T07:00:00+02:00",
-        "stop": "2026-09-26T10:00:00+02:00",
+        "start": "2026-09-26T12:00:00+02:00",
+        "stop": "2026-09-26T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,73 +72,73 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-26T10:00:00+02:00",
-        "stop": "2026-09-26T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-26T14:30:00+02:00",
+        "stop": "2026-09-26T15:40:00+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-26T06:56:30+02:00",
-        "stop": "2026-09-26T08:31:07+02:00",
-        "title": "Onze",
-        "subtitle": "Julán, el passat? Raphinha superestrella; Fàbregas, Delmàs i Cazorla",
-        "description": "Míriam Riau fa tertúlia amb Carles Fité, Laia Bonals, Juli Garcia i Edgar Fornós. Comentem les declaracions de Deco en les que gira full de l'afer Julián Álvarez. Amb Àlex Delmàs repassem l'impacte que ha tingut fins ara Raphinha a la posició de davanter centre. Ens visita Joan Fàbregas, entrevistem la campiona de motocròs Daniela Guillén i acabem amb l'humor de Xavi Cazorla.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-26T11:55:00+02:00",
+        "stop": "2026-09-26T12:50:30+02:00",
+        "title": "Futbol",
+        "subtitle": "FC Badalona Women-Granada CF / Lliga F / J5",
+        "description": "Les badalonines estan fent un bon inici de campionat, han sumat 7 punts de 12, i una nova victòria les mantindria a la zona alta de la classificació.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       },
       {
-        "start": "2026-09-26T08:31:07+02:00",
-        "stop": "2026-09-26T08:47:25+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-26T12:50:30+02:00",
+        "stop": "2026-09-26T12:59:27+02:00",
+        "title": "E3",
+        "subtitle": "Marnaton Cadaqués",
+        "description": "Documentals, reportatges, resums... Tot allò que t'imagines del món de l'esport, ho trobes aquí, a Esport3!",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/8/1697728797885.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-26T07:43:57+02:00",
-        "stop": "2026-09-26T07:54:05+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "La darrera fulla de la tardor",
-        "description": "El Mic espera al costat de l'arbre que li caigui la darrera fulla. Una a una totes han anat caient i només en queda una.",
+        "start": "2026-09-26T12:41:21+02:00",
+        "stop": "2026-09-26T12:47:51+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Genia animal",
+        "description": "En Grizzy i els lèmmings troben un gerro indi que conté un geni capaç de fer realitat tots els desitjos de qui el fa sortir fregant-nela superfície. Hi ha un petit inconvenient, però: els efectes de la màgia del geni desapareixen tan bon punt torna al gerro i es tanca la tapa. Es tracta d'aprofitar les entrades i sortides del gerro del geni enfavor propi.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-26T07:54:05+02:00",
-        "stop": "2026-09-26T08:04:50+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "El mico Pellofa",
-        "description": "Sabeu qui és el mico Pellofa? És un personatge inventat que sempre diu coses divertides. En aquest capítol el Mic i en Cincsegons juguen a fer tot el que mana aquest mico tan especial",
+        "start": "2026-09-26T12:47:51+02:00",
+        "stop": "2026-09-26T12:56:17+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Batalla de bambú",
+        "description": "En Grizzy desmunta el tobogan que han construït els Lèmmings per tota la cabana i reutilitza les canyes de bambú per construir-se un jacuzzi. Quan els Lèmmings descobreixen l'obra de l'os, imaginen un parc aquàtic gegantí amb un tobogan ben gran. Com que en Grizzy preveu les intencions dels Lèmmings, prova d'atrinxerar-se dins la cabana, però els rosegadors aconsegueixen fer-lo fora. L'os torna per enfrontar-s'hi protegit amb una superarmadura de bambú...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-26T07:21:21+02:00",
-        "stop": "2026-09-26T08:08:21+02:00",
-        "title": "La Renaixença",
-        "subtitle": "El compàs",
-        "description": "Tots hem fet servir el compàs durant la nostra època escolar. Alguns amb més destresa que d'altres, però tots l'hem fet servir alguna vegada per punxar la goma d'esborrar. En això segur que coincidim. Els músics també en fan servir un de compàs, però no és el mateix. Ens visita en Llorenç Barba, responsable del refugi Vicenç Barber de Montserrat. Fa'passejades' de 45 minuts fins al refugi diàriament pujant més de 200 kg a l'esquena cada setmana. A 'Històries per passejar el gos' anem amb la Dobby fins al 1960, a la catàstrofe de Nedelin.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-09-26T11:59:06+02:00",
+        "stop": "2026-09-26T12:59:33+02:00",
+        "title": "Una altra història",
+        "subtitle": "Monestir de Santes Creus a Tarragona",
+        "description": "Avui l'Albert Om arriba al Reial Monestir de Santes Creus en un dels tractors que van participar a la manifestació del 3 d'octubre de 2017. El monestir, símbol de la transició del romànic al gòtic ens servirà d'escenari per mostrar les eines amb les que s'assistia als parts fa 50 anys. Descobrirem com un soldat de la Guerra Civil va portar una bala al cos durant 40 anys i tindrem a les mans el trofeu que Pau Casals va entregar als guanyadors del I Concurs de Castells de Tarragona.",
+        "genre": "CONCURS",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/2/1698049504229.jpg"
       },
       {
-        "start": "2026-09-26T08:08:21+02:00",
-        "stop": "2026-09-26T08:32:47+02:00",
-        "title": "Fotografies",
-        "subtitle": "Retrat",
-        "description": "En aquest episodi, la fotògrafa Judit Vizcarra, renovadora de la fotografia d'estudi, descobreix els seus trucs per retratar una família amb un nadó; l'Atelier Retaguardia mostrarà com es feia un retrat al segle XIX; i la fotògrafa Lorena Ros explica per què utilitza el retrat per denunciar els abusos sexuals. Aquesta setmana, a 'Fotografies', 'El retrat'.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-26T12:59:33+02:00",
+        "stop": "2026-09-26T13:46:25+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Les puntes de coixí",
+        "description": "Que som uns nostàlgics ja ho sabem, nosaltres i vosaltres. Però és que no podem deixar de ser-ho. Per això, hem decidit dedicar aquest capítol a les puntes de coixí. Per si no ho sabeu, antigament s'havien utilitzat per enviar missatges secrets! Poca broma amb les puntaires! Passen per 'La Renaixença' Els Amics de les Arts. Parlar amb ells i escoltar-los amb l'Arnau i la Laia fent 'Jean-Luc' és d'aquelles coses que recordarem. A 'Històries per passejar el gos' anem amb en Jumo fins a la vaga dels tramvies del 1951.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
