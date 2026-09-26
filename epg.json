@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-26T10:41:54.904509+00:00",
+  "updated": "2026-09-26T14:44:04.822341+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-26T11:34:43+02:00",
-        "stop": "2026-09-26T12:50:40+02:00",
-        "title": "Soc i Seré",
-        "subtitle": "Un poble cantaire",
-        "description": "Comença la batalla per convertir-se en la persona que sap més de Catalunya. Dividits en dos equips de 50 persones, els aspirants s'enfrontaran als primers reptes de la segona temporada.El repte d'avantatge, anomenat Casa meva és casa vostra, serà una intrèpida gimcana de banderes on els aspirants hauran de demostrar els seus coneixements sobre els municipis catalans. Però tot es decidirà al repte eliminatori, titulat Canto jo i la colònia balla. Per continuar al programa, els dos equips hauran d'emocionar un jurat format per Nina, Laura Andrés i Arnau Vilà amb les versions corals de dues conegudes havaneres.Només un equip continuarà al programa i es ficarà els primeres 10.000 euros a la butxaca. Les 50 persones restants se n'aniran a casa, però alguns eliminats rebran unca carta misteriosa que els donarà una seogna oportunitat.Qui guanyarà aquest primer duel, els Alls o els Olis? Aquí comença 'Soc i seré'.",
-        "genre": "CONCURS",
+        "start": "2026-09-26T16:27:36+02:00",
+        "stop": "2026-09-26T16:48:55+02:00",
+        "title": "Jet lag",
+        "subtitle": "CRISI",
+        "description": "Un director de televisió ha triat el bar del Mario per rodar-hi l'anunci publicitari d'una nova marca de cerveses. Ja està tot preparat, només falta triar la noia que protagonitzarà l'anunci. A cap de les nostres protagonistes els hi fa gràcia aparèixer per la televisió fins que s'assabenten que el noi de l'anunci serà... el Javier Bardem. A partir d'aquest moment començarà una guerra entre totes elles per ser la protagonista de l'anunci i poder estar ben a prop del seu ídol.",
+        "genre": "TELESÈRIE",
         "image": ""
       },
       {
-        "start": "2026-09-26T12:50:40+02:00",
-        "stop": "2026-09-26T13:49:30+02:00",
-        "title": "País d'altura",
-        "subtitle": "Costa Brava",
-        "description": "La Costa Brava és molt més que cales de postal: és tramuntana, artistes, pirates, rucs catalans, Dalí i racons que et fan pensar que el paradís existeix.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-26T16:48:55+02:00",
+        "stop": "2026-09-26T17:13:56+02:00",
+        "title": "Jet lag",
+        "subtitle": "ESTRÈS",
+        "description": "La Carla, la Sílvia i l'Esther s'han quedat a l'atur. La Carla decideix trobar una feina millor de la que tenia. La Sílvia decideix agafar-se un any sabàtic i dedicar-lo als seus hobbies. L'Esther no sap estar sense fer d'hostessa, encara que sigui a casa. La Mariona es converteix en la golejadora de l'equip de futbol sala femení del barri. La Diana s'ha enamorat d'un paleta, a qui segueix fins allà on treballa, convençuda que ell també la correspon. Actors convidats: Jordi Bosch, Jordi Martínez i Lulú Palomares, i la col·laboració especial de Núria Hosta i Anna Azcona.",
+        "genre": "TELESÈRIE",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-26T12:00:00+02:00",
-        "stop": "2026-09-26T14:30:00+02:00",
+        "start": "2026-09-26T16:30:00+02:00",
+        "stop": "2026-09-26T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,73 +72,73 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-26T14:30:00+02:00",
-        "stop": "2026-09-26T15:40:00+02:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-09-26T18:30:00+02:00",
+        "stop": "2026-09-26T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-26T11:55:00+02:00",
-        "stop": "2026-09-26T12:50:30+02:00",
-        "title": "Futbol",
-        "subtitle": "FC Badalona Women-Granada CF / Lliga F / J5",
-        "description": "Les badalonines estan fent un bon inici de campionat, han sumat 7 punts de 12, i una nova victòria les mantindria a la zona alta de la classificació.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "start": "2026-09-26T16:07:33+02:00",
+        "stop": "2026-09-26T16:49:21+02:00",
+        "title": "Zona zàping",
+        "subtitle": "Raphinha fa un Hat Trick, mentre a Madrid torna el Xou de Mou",
+        "description": "El Barça ja supera el Real Madrid de 6 punts i és líder indiscutible de la Lliga, després del hat trick de Raphinha a Sevilla, i la derrota dels blancs amb l'Atlético. Una derrota amb força polèmica que ha fet tornar el Mourinho més esperpèntic a la sala de premsa.Edu Esteve, exconcursant d'Eufòria, acomiad el programa amb el seu nou tema 'Torna'.",
+        "genre": "ALTRES",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"
       },
       {
-        "start": "2026-09-26T12:50:30+02:00",
-        "stop": "2026-09-26T12:59:27+02:00",
+        "start": "2026-09-26T16:49:21+02:00",
+        "stop": "2026-09-26T17:41:15+02:00",
         "title": "E3",
-        "subtitle": "Marnaton Cadaqués",
-        "description": "Documentals, reportatges, resums... Tot allò que t'imagines del món de l'esport, ho trobes aquí, a Esport3!",
+        "subtitle": "L'home més fort del món 5",
+        "description": "Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.",
         "genre": "REPORTATGES",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/8/1697728797885.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/2/2/1780671126722.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-26T12:41:21+02:00",
-        "stop": "2026-09-26T12:47:51+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Genia animal",
-        "description": "En Grizzy i els lèmmings troben un gerro indi que conté un geni capaç de fer realitat tots els desitjos de qui el fa sortir fregant-nela superfície. Hi ha un petit inconvenient, però: els efectes de la màgia del geni desapareixen tan bon punt torna al gerro i es tanca la tapa. Es tracta d'aprofitar les entrades i sortides del gerro del geni enfavor propi.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-09-26T16:33:00+02:00",
+        "stop": "2026-09-26T16:58:21+02:00",
+        "title": "Fuet",
+        "subtitle": "La pèrdua de Cuba a ritme d'havaneres",
+        "description": "Entre tantes aventures, la nau de les extraterrestres Kiry i Eda ha deixat de funcionar. Enmig del caos, descobreixen que el Comandant Coloma ha estat qui ha immobilitzat la seva nau. Mentre busquen una solució, faran un viaje en el temps fins a Cuba i seran testimonis de com Espanya va perdre l'illa. També coneixeran la figura del mossèn Jacint Verdaguer i la història del protagonista d'una de les havaneres més conegudes: el meu avi.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-26T12:47:51+02:00",
-        "stop": "2026-09-26T12:56:17+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Batalla de bambú",
-        "description": "En Grizzy desmunta el tobogan que han construït els Lèmmings per tota la cabana i reutilitza les canyes de bambú per construir-se un jacuzzi. Quan els Lèmmings descobreixen l'obra de l'os, imaginen un parc aquàtic gegantí amb un tobogan ben gran. Com que en Grizzy preveu les intencions dels Lèmmings, prova d'atrinxerar-se dins la cabana, però els rosegadors aconsegueixen fer-lo fora. L'os torna per enfrontar-s'hi protegit amb una superarmadura de bambú...",
+        "start": "2026-09-26T16:58:21+02:00",
+        "stop": "2026-09-26T17:09:17+02:00",
+        "title": "Ideafix i els irreductibles",
+        "subtitle": "Són fosos, aquests romans!",
+        "description": "El general Labiè ordena confiscar totes les falçs d'or del pobre Amèrix per poder-les fondre i fer-ne un bust amb l'efígie del prefecte Astutus. Els Irreductibles Ideafix i Devòrix, amb l'ajut de les ratolines Sucrina i Neulina, lluitaran aferrissadament per impedir-ho.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-26T11:59:06+02:00",
-        "stop": "2026-09-26T12:59:33+02:00",
-        "title": "Una altra història",
-        "subtitle": "Monestir de Santes Creus a Tarragona",
-        "description": "Avui l'Albert Om arriba al Reial Monestir de Santes Creus en un dels tractors que van participar a la manifestació del 3 d'octubre de 2017. El monestir, símbol de la transició del romànic al gòtic ens servirà d'escenari per mostrar les eines amb les que s'assistia als parts fa 50 anys. Descobrirem com un soldat de la Guerra Civil va portar una bala al cos durant 40 anys i tindrem a les mans el trofeu que Pau Casals va entregar als guanyadors del I Concurs de Castells de Tarragona.",
-        "genre": "CONCURS",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/2/1698049504229.jpg"
+        "start": "2026-09-26T16:22:24+02:00",
+        "stop": "2026-09-26T17:14:46+02:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Els habitants dels extrems",
+        "description": "Arreu del món s'han establert societats humanes al peu de volcans actius. Viure en aquestes terres inestables té un preu. D'un dia per l'altre, els volcans es poden endur el que han permès que es construís. Per als homes i dones que viuen en aquestes terres, anar-se'n no és una opció. Estan decidits a continuar vivint on han viscut, passi el que passi. En aquest documental coneixerem aquests habitants dels extrems.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-26T12:59:33+02:00",
-        "stop": "2026-09-26T13:46:25+02:00",
-        "title": "La Renaixença",
-        "subtitle": "Les puntes de coixí",
-        "description": "Que som uns nostàlgics ja ho sabem, nosaltres i vosaltres. Però és que no podem deixar de ser-ho. Per això, hem decidit dedicar aquest capítol a les puntes de coixí. Per si no ho sabeu, antigament s'havien utilitzat per enviar missatges secrets! Poca broma amb les puntaires! Passen per 'La Renaixença' Els Amics de les Arts. Parlar amb ells i escoltar-los amb l'Arnau i la Laia fent 'Jean-Luc' és d'aquelles coses que recordarem. A 'Històries per passejar el gos' anem amb en Jumo fins a la vaga dels tramvies del 1951.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-09-26T17:14:46+02:00",
+        "stop": "2026-09-26T17:40:51+02:00",
+        "title": "Volcans i homes",
+        "subtitle": "Etna, la muntanya de les muntanyes",
+        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Sicília, per conèixer persones que viuen a tocar de l'Etna. Ens mostrarà, entre d'altres coses, les tradicions populars i religioses que ha originat el perill constant de l'Etna, la gran fertilitat de les terres agrícoles del peu del volcà i les dificultats quotidianes de les persones que viuen a la zona de les salinelle, els volcans de fang. A part d'anar fins a un cràter actiu amb un vulcanòleg per oferir-nos, també, el punt de vista científic sobre els fenòmens volcànics. ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
