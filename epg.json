@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-26T14:44:04.822341+00:00",
+  "updated": "2026-09-26T18:03:10.839839+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-26T16:27:36+02:00",
-        "stop": "2026-09-26T16:48:55+02:00",
-        "title": "Jet lag",
-        "subtitle": "CRISI",
-        "description": "Un director de televisió ha triat el bar del Mario per rodar-hi l'anunci publicitari d'una nova marca de cerveses. Ja està tot preparat, només falta triar la noia que protagonitzarà l'anunci. A cap de les nostres protagonistes els hi fa gràcia aparèixer per la televisió fins que s'assabenten que el noi de l'anunci serà... el Javier Bardem. A partir d'aquest moment començarà una guerra entre totes elles per ser la protagonista de l'anunci i poder estar ben a prop del seu ídol.",
-        "genre": "TELESÈRIE",
+        "start": "2026-09-26T18:29:32+02:00",
+        "stop": "2026-09-26T20:16:52+02:00",
+        "title": "Tarda de cine",
+        "subtitle": "Fills",
+        "description": "FILLS 'Figli'Direcció: Giuseppe BonitoGuió: Mattia TorreProducció: Wildside, The Apartment, Vision DistributionAny: 2020Durada: 97País: ItàliaMúsica: Giuliano Taviani, Carmelo TraviaFotografia: Roberto ForzaIntèrprets: Valerio Mastandrea, Paola Cortellesi, Stefano Fresi, Valerio Aprea, Paolo Calabresi, Andrea Sartoretti, Massimo De Lorenzo, Gianfelice Imparato El naixement d'un nou fill trasbalsarà una família romana. És un nadó tan estimat com inesperat, i ho capgira tot.",
+        "genre": "PEL·LÍCULA / TELEFILM",
         "image": ""
       },
       {
-        "start": "2026-09-26T16:48:55+02:00",
-        "stop": "2026-09-26T17:13:56+02:00",
-        "title": "Jet lag",
-        "subtitle": "ESTRÈS",
-        "description": "La Carla, la Sílvia i l'Esther s'han quedat a l'atur. La Carla decideix trobar una feina millor de la que tenia. La Sílvia decideix agafar-se un any sabàtic i dedicar-lo als seus hobbies. L'Esther no sap estar sense fer d'hostessa, encara que sigui a casa. La Mariona es converteix en la golejadora de l'equip de futbol sala femení del barri. La Diana s'ha enamorat d'un paleta, a qui segueix fins allà on treballa, convençuda que ell també la correspon. Actors convidats: Jordi Bosch, Jordi Martínez i Lulú Palomares, i la col·laboració especial de Núria Hosta i Anna Azcona.",
-        "genre": "TELESÈRIE",
+        "start": "2026-09-26T20:16:52+02:00",
+        "stop": "2026-09-26T20:21:45+02:00",
+        "title": "Atrapa'm si pots. Els millors moments.",
+        "subtitle": "",
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-26T16:30:00+02:00",
-        "stop": "2026-09-26T18:30:00+02:00",
+        "start": "2026-09-26T20:00:00+02:00",
+        "stop": "2026-09-26T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,71 +72,71 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-26T18:30:00+02:00",
-        "stop": "2026-09-26T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-26T21:00:00+02:00",
+        "stop": "2026-09-26T22:02:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-26T16:07:33+02:00",
-        "stop": "2026-09-26T16:49:21+02:00",
+        "start": "2026-09-26T19:49:54+02:00",
+        "stop": "2026-09-26T20:41:16+02:00",
+        "title": "Futbol",
+        "subtitle": "Gimnàstic de Tarragona-UE Sant Andreu / Primera Federació / J5",
+        "description": "Els tarragonins han sumat 7 punts de 12 i són a la part alta de la classificació. Els barcelonins en tenen 4, i volen sortir de la part baixa. Amb la narració d'Oriol Vidal, i l'anàlisi d'Alberto Manga i Santi Triguero.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+      },
+      {
+        "start": "2026-09-26T20:41:16+02:00",
+        "stop": "2026-09-26T21:20:17+02:00",
         "title": "Zona zàping",
         "subtitle": "Raphinha fa un Hat Trick, mentre a Madrid torna el Xou de Mou",
         "description": "El Barça ja supera el Real Madrid de 6 punts i és líder indiscutible de la Lliga, després del hat trick de Raphinha a Sevilla, i la derrota dels blancs amb l'Atlético. Una derrota amb força polèmica que ha fet tornar el Mourinho més esperpèntic a la sala de premsa.Edu Esteve, exconcursant d'Eufòria, acomiad el programa amb el seu nou tema 'Torna'.",
         "genre": "ALTRES",
         "image": "https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"
-      },
-      {
-        "start": "2026-09-26T16:49:21+02:00",
-        "stop": "2026-09-26T17:41:15+02:00",
-        "title": "E3",
-        "subtitle": "L'home més fort del món 5",
-        "description": "Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/2/1780671126722.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-26T16:33:00+02:00",
-        "stop": "2026-09-26T16:58:21+02:00",
-        "title": "Fuet",
-        "subtitle": "La pèrdua de Cuba a ritme d'havaneres",
-        "description": "Entre tantes aventures, la nau de les extraterrestres Kiry i Eda ha deixat de funcionar. Enmig del caos, descobreixen que el Comandant Coloma ha estat qui ha immobilitzat la seva nau. Mentre busquen una solució, faran un viaje en el temps fins a Cuba i seran testimonis de com Espanya va perdre l'illa. També coneixeran la figura del mossèn Jacint Verdaguer i la història del protagonista d'una de les havaneres més conegudes: el meu avi.",
-        "genre": "ALTRES",
+        "start": "2026-09-26T19:49:11+02:00",
+        "stop": "2026-09-26T20:09:41+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "Un gran partit de la J. League, entre bastidors",
+        "description": "En Conan, la Haibara, en Genta, en Mitsuhiko i l'Ayumi guanyen un sorteig per assistir a un partit commemoratiu del trentè aniversari de la J. League. Entre el públic, en Conan veu un home sospitós que no sembla interessar-se pel futbol. Mentrestant, els seguidors del Frontale no poden accedir a l'estadi tot i tenir les entrades. La Lliga de Detectius Júnior investiga si aquests fets tenen alguna relació.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-26T16:58:21+02:00",
-        "stop": "2026-09-26T17:09:17+02:00",
-        "title": "Ideafix i els irreductibles",
-        "subtitle": "Són fosos, aquests romans!",
-        "description": "El general Labiè ordena confiscar totes les falçs d'or del pobre Amèrix per poder-les fondre i fer-ne un bust amb l'efígie del prefecte Astutus. Els Irreductibles Ideafix i Devòrix, amb l'ajut de les ratolines Sucrina i Neulina, lluitaran aferrissadament per impedir-ho.",
+        "start": "2026-09-26T20:09:41+02:00",
+        "stop": "2026-09-26T20:33:30+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "Els homes de gel",
+        "description": "En Kenzo Aizawa és el president d'una empresa familiar de productes d'alimentació. Mentre fa la ronda de vigilància rutinària al magatzem refrigerat, un home l'agredeix i el deixa tancat a l'interior. Al cap d'unes hores, el director executiu, Masaru Bando, troba el president inconscient dins del magatzem. Els sospitosos són els dos fills del president, que no estan ben avinguts i no sembla que li tinguin gaire afecte al seu pare.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-26T16:22:24+02:00",
-        "stop": "2026-09-26T17:14:46+02:00",
-        "title": "Viure amb els volcans",
-        "subtitle": "Els habitants dels extrems",
-        "description": "Arreu del món s'han establert societats humanes al peu de volcans actius. Viure en aquestes terres inestables té un preu. D'un dia per l'altre, els volcans es poden endur el que han permès que es construís. Per als homes i dones que viuen en aquestes terres, anar-se'n no és una opció. Estan decidits a continuar vivint on han viscut, passi el que passi. En aquest documental coneixerem aquests habitants dels extrems.",
+        "start": "2026-09-26T19:32:21+02:00",
+        "stop": "2026-09-26T20:15:43+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "Dubai",
+        "description": "Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-26T17:14:46+02:00",
-        "stop": "2026-09-26T17:40:51+02:00",
-        "title": "Volcans i homes",
-        "subtitle": "Etna, la muntanya de les muntanyes",
-        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Sicília, per conèixer persones que viuen a tocar de l'Etna. Ens mostrarà, entre d'altres coses, les tradicions populars i religioses que ha originat el perill constant de l'Etna, la gran fertilitat de les terres agrícoles del peu del volcà i les dificultats quotidianes de les persones que viuen a la zona de les salinelle, els volcans de fang. A part d'anar fins a un cràter actiu amb un vulcanòleg per oferir-nos, també, el punt de vista científic sobre els fenòmens volcànics. ",
+        "start": "2026-09-26T20:15:43+02:00",
+        "stop": "2026-09-26T20:59:45+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "Ulan Bator",
+        "description": "Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
