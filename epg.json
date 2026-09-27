@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-27T17:47:20.031114+00:00",
+  "updated": "2026-09-27T20:45:05.792657+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-27T19:09:30+02:00",
-        "stop": "2026-09-27T19:58:22+02:00",
-        "title": "Temps de silenci",
-        "subtitle": "INFILTRATS",
-        "description": "Arriba la televisió.Barcelona es prepara per rebre la visita del Generalísimo. I no tots ho esperen de la mateixa manera... En Llorenç es retroba amb un vell conegut.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-09-27T22:38:30+02:00",
+        "stop": "2026-09-27T23:51:27+02:00",
+        "title": "Vèrtex",
+        "subtitle": "",
+        "description": "Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.",
+        "genre": "ENTREVISTES",
         "image": ""
+      },
+      {
+        "start": "2026-09-27T23:51:27+02:00",
+        "stop": "2026-09-28T00:48:18+02:00",
+        "title": "Passeig de Gràcia, l'escenari burgès",
+        "subtitle": "Passeig de Gràcia, l'escenari burgès",
+        "description": "El documental presenta una Barcelona oprimida per les muralles i els militars. I la història que Lluís Permanyer ens explica té l'origen en un caminet rural i abandonat que unia la ciutat i la vila de Gràcia, anomenat el camí de Jesús i que es transformaria en el Passeig de Gràcia.",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/4/1668086805342.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-09-27T18:30:00+02:00",
-        "stop": "2026-09-27T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-27T22:02:00+02:00",
+        "stop": "2026-09-27T23:00:00+02:00",
+        "title": "Telenotícies vespre (reemissió)",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": ""
       },
       {
-        "start": "2026-09-27T20:00:00+02:00",
-        "stop": "2026-09-27T21:00:00+02:00",
+        "start": "2026-09-27T23:00:00+02:00",
+        "stop": "2026-09-28T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -74,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-27T19:29:22+02:00",
-        "stop": "2026-09-27T21:19:52+02:00",
-        "title": "Futbol",
-        "subtitle": "Logronyo-FC Barcelona / Lliga F / J5",
-        "description": "Les blaugranes volen sumar la 5a victòria en 5 jornades per seguir liderant la classificació. El conjunt de La Rioja ha guanyat 2 partits i n'ha perdut els altres 2.",
+        "start": "2026-09-27T21:44:55+02:00",
+        "stop": "2026-09-27T23:00:00+02:00",
+        "title": "Handbol",
+        "subtitle": "Barça-Zamalek SC / Mundial de Clubs / J2",
+        "description": "Els blaugranes juguen contra l'equip egipci a la segona jornada del Mundial de clubs d'handbol que es disputa al Caire.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"
       },
       {
-        "start": "2026-09-27T21:19:52+02:00",
-        "stop": "2026-09-27T21:50:43+02:00",
-        "title": "Zona zàping",
-        "subtitle": "El millor de la setmana",
-        "description": "El 'Zona zàping' és un recull d'imatges de continguts esportius que ofereixen les diferents televisions, tant estatals com internacionals. Aquestes imatges destaquen per la seva espectacularitat, perquè són especialment curioses o perquè ens permeten repassar l'actualitat esportiva mundial de forma ràpida i concisa. En resum, tot allò relacionat amb el món dels esports que s'emeti per TV i tingui un mínim d'interès per a l'espectador.",
-        "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"
+        "start": "2026-09-27T23:00:00+02:00",
+        "stop": "2026-09-28T00:00:49+02:00",
+        "title": "Esport Club Cap de Setmana",
+        "subtitle": "Esport Club",
+        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-27T19:32:57+02:00",
-        "stop": "2026-09-27T19:55:22+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "Un amulet amb mals auguris (1a part)",
-        "description": "La Ran, la Kazuha i en Conan han vingut al santuari de Haido per comprar un amulet de l'amor. Allà en Conan s'ha trobat amb en Heiji, camuflat sota una màscara, que també ha anat a comprar un amulet. Mentre fan cua, senten un crit i descobreixen que hi ha un home mort.",
+        "start": "2026-09-27T22:33:47+02:00",
+        "stop": "2026-09-27T22:45:11+02:00",
+        "title": "La tropa del corral",
+        "subtitle": "Una tasca fàcil",
+        "description": "El granger s'emporta la Tropa al poble com a reclam de la seva paradeta al mercat, però l'Albert necessita ajuda per desencallar la porta de la seva gàbia. Un per un, es van escapolint per ajudar-lo, però han de tornar corrents cada cop que el granger s'adona que no hi són tots. Com s'ho faran?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-27T19:55:22+02:00",
-        "stop": "2026-09-27T20:14:40+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "Un amulet amb mals auguris (2a part)",
-        "description": "La Ran, la Kazuha i en Conan han vingut al santuari de Haido per comprar un amulet de l'amor. Allà en Conan s'ha trobat amb en Heiji, camuflat sota una màscara, que també ha anat a comprar un amulet. Llavors, un agent de policia apareix mort sota les escales del santuari. Els sospitosos són els tres fugitius a qui la víctima perseguia.",
+        "start": "2026-09-27T22:45:11+02:00",
+        "stop": "2026-09-27T22:56:10+02:00",
+        "title": "La tropa del corral",
+        "subtitle": "La gran cursa",
+        "description": "Després de llegir La llebre i la tortuga, en Reggie desafia la Maggie a una cursa per veure si el conte és realitat o ficció. La Maggie accepta de seguida, convençuda que guanyarà, però podrà evitar que les distraccions li facin perdre el ritme? ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-27T19:27:01+02:00",
-        "stop": "2026-09-27T19:52:46+02:00",
-        "title": "Volcans i homes",
-        "subtitle": "El Santiaguito. Volcans en terra Maia",
-        "description": "En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Guatemala, on hi ha un volcà molt jove, de només 90 anys, el Santiaguito. Entre d'altres coses, l'acompanyarem en la seva visita al volcà Santa María, que és l'únic lloc des d'on els científics poden observar el Santiaguito. També visitarem El Palmar, una ciutat destruïda per les colades de fang, i assistirem al llac Atitlan, i acompanyats d'un xaman, a una cerimònia per rebre l'any nou de tradició maia, que duen a terme els seus descendents, els quitxés. ",
+        "start": "2026-09-27T22:01:56+02:00",
+        "stop": "2026-09-27T22:46:12+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "Sao Paulo",
+        "description": "Sao Paulo pertany indiscutiblement a la llista de ciutats del món d'en Tom. Amb més de 24 milions d'habitants, no és només la ciutat més gran del Brasil, sinó també la més gran de tot l'hemisferi sud i de tot el continent sud-americà. Aquesta megaciutat és un reflex de tot el Brasil. Un país de la mida de la Unión Europea, amb la desorbitada xifra de 210 milions d'habitants. A més, l'anomenen escaientment 'Selva de pedra'. Per al turista mitjà, Rio de Janeiro és més fascinant que la Sao Paulo de formigó. Però juntament amb el seu company de viatge i intèrpret Tomaz, en Tom descobrirà que Sao Paulo també té molt per oferir...",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-27T19:52:46+02:00",
-        "stop": "2026-09-27T20:34:30+02:00",
-        "title": "Un món de Jocs",
-        "subtitle": "Trencar la barrera del dolor",
-        "description": "Els jocs més perillosos són els que ens porten al límit. Els jocs durs, dolorosos i, sovint, mortals, ens ajuden a explorar fins on podem arribar. En aquest episodi, visitem alguns dels espais de joc més terrorífics del món, on els humans desafien el límit del dolor. Cal ser valent per buscar-lo, i tots els jugadors tenen els seus motius per participar en aquests jocs.Marathon des Sables, el MarrocParís-Roubaix, FrançaCourse Landaise, FrançaNatació al gel, Itàlia",
+        "start": "2026-09-27T22:46:12+02:00",
+        "stop": "2026-09-27T23:28:37+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "Nairobi",
+        "description": "Nairobi és la ciutat amb el creixement més ràpid del món. Raó per la qual en Tom l'ha inclòs en la seva llista de grans ciutats del món. El seu dinamisme i innovació deixaran enlluernat a en Tom, i alhora, es trobarà amb els grans reptes d'aquest creixement imparable: la lluita per sortir de la pobresa i per protegir una naturalesa amenaçada.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
+        "image": ""
       }
     ],
     "oca1": [],
