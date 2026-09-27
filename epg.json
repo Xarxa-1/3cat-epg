@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-27T20:45:05.792657+00:00",
+  "updated": "2026-09-27T23:25:15.206300+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-27T22:38:30+02:00",
-        "stop": "2026-09-27T23:51:27+02:00",
-        "title": "Vèrtex",
+        "start": "2026-09-28T01:00:00+02:00",
+        "stop": "2026-09-28T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.",
-        "genre": "ENTREVISTES",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-27T23:51:27+02:00",
-        "stop": "2026-09-28T00:48:18+02:00",
-        "title": "Passeig de Gràcia, l'escenari burgès",
-        "subtitle": "Passeig de Gràcia, l'escenari burgès",
-        "description": "El documental presenta una Barcelona oprimida per les muralles i els militars. I la història que Lluís Permanyer ens explica té l'origen en un caminet rural i abandonat que unia la ciutat i la vila de Gràcia, anomenat el camí de Jesús i que es transformaria en el Passeig de Gràcia.",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/4/1668086805342.jpg"
+        "start": "2026-09-28T04:00:00+02:00",
+        "stop": "2026-09-28T05:00:14+02:00",
+        "title": "Blues a l'estudi",
+        "subtitle": "Bernat Font Trio",
+        "description": "Aquest jove pianista barceloní ha consolidat la seva formació després de la publicació del primer disc. Va rebre el guardó de Millor Nova Proposta de la revista 'Jaç' i no ha parat de tocar per tot l'estat.El repertori d'avui veu dels clàssics i oscil·la entre el blues i el swing. Ivan Kovacevic al contrabaix, Martí Elías a la bateria i el mateix Font al piano: un trio que desprèn una energia càlida i sincera.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-27T22:02:00+02:00",
-        "stop": "2026-09-27T23:00:00+02:00",
-        "title": "Telenotícies vespre (reemissió)",
+        "start": "2026-09-28T01:00:00+02:00",
+        "stop": "2026-09-28T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-27T23:00:00+02:00",
-        "stop": "2026-09-28T00:30:00+02:00",
+        "start": "2026-09-28T06:00:00+02:00",
+        "stop": "2026-09-28T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-27T21:44:55+02:00",
-        "stop": "2026-09-27T23:00:00+02:00",
-        "title": "Handbol",
-        "subtitle": "Barça-Zamalek SC / Mundial de Clubs / J2",
-        "description": "Els blaugranes juguen contra l'equip egipci a la segona jornada del Mundial de clubs d'handbol que es disputa al Caire.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"
+        "start": "2026-09-28T01:21:46+02:00",
+        "stop": "2026-09-28T01:43:21+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       },
       {
-        "start": "2026-09-27T23:00:00+02:00",
-        "stop": "2026-09-28T00:00:49+02:00",
-        "title": "Esport Club Cap de Setmana",
-        "subtitle": "Esport Club",
-        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-28T01:43:21+02:00",
+        "stop": "2026-09-28T03:39:40+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Río Breogán-Asisa Joventut / Lliga / J1",
+        "description": "Després de celebrar la gran victòria a la Supercopa d'Espanya, els badalonins comencen la seva participació a la Lliga Endesa, a la pista del conjunt de Lugo.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-27T22:33:47+02:00",
-        "stop": "2026-09-27T22:45:11+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "Una tasca fàcil",
-        "description": "El granger s'emporta la Tropa al poble com a reclam de la seva paradeta al mercat, però l'Albert necessita ajuda per desencallar la porta de la seva gàbia. Un per un, es van escapolint per ajudar-lo, però han de tornar corrents cada cop que el granger s'adona que no hi són tots. Com s'ho faran?",
+        "start": "2026-09-28T01:24:29+02:00",
+        "stop": "2026-09-28T01:45:56+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Risc (L'últim atac de l'Esfinx Fosc - 1a part)",
+        "description": "Conscient que Ladybug sempre guanya gràcies a la seva prudència, l'Esfinx Fosc concep un pla diabòlic que inclou un supermalvat que té el poder d'empènyer totes les seves víctimes a córrer riscos. Quan la Marinette s'assabenta que l'Adrien ha de marxar de París durant unes quantes setmanes amb la Lila, la nova musa de la marca Agreste, està disposada a fer el que calgui per impedir-ho. Fins on serà capaç d'arribar? S'arriscarà a trair la seva identitat secreta per amor? I l'Adrien, s'arriscarà per fi a plantar cara al seu pare?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-27T22:45:11+02:00",
-        "stop": "2026-09-27T22:56:10+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "La gran cursa",
-        "description": "Després de llegir La llebre i la tortuga, en Reggie desafia la Maggie a una cursa per veure si el conte és realitat o ficció. La Maggie accepta de seguida, convençuda que guanyarà, però podrà evitar que les distraccions li facin perdre el ritme? ",
+        "start": "2026-09-28T01:45:56+02:00",
+        "stop": "2026-09-28T02:07:19+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Rèplica (L'últim atac de l'Esfinx Fosc - 2a part)",
+        "description": "Sense sospitar que es troben sota la influència d'un akumatitzat molt perillós, Ladybug i el Gat Noir estan disposats a arriscar-se tant com calgui per tornar de seguida que puguin a la seva vida normal, on s'està a punt de capgirar el seu destí. Els nostres superherois subestimen un sentimonstre invulnerable, que a més es pensen que és l'únic enemic que tenen, i ells es van tornant cada vegada més vulnerables. I des de l'ombra, l'Esfinx Fosc espera que el seu últim pla surti bé i pugui aconseguir la seva primera victòria.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-27T22:01:56+02:00",
-        "stop": "2026-09-27T22:46:12+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Sao Paulo",
-        "description": "Sao Paulo pertany indiscutiblement a la llista de ciutats del món d'en Tom. Amb més de 24 milions d'habitants, no és només la ciutat més gran del Brasil, sinó també la més gran de tot l'hemisferi sud i de tot el continent sud-americà. Aquesta megaciutat és un reflex de tot el Brasil. Un país de la mida de la Unión Europea, amb la desorbitada xifra de 210 milions d'habitants. A més, l'anomenen escaientment 'Selva de pedra'. Per al turista mitjà, Rio de Janeiro és més fascinant que la Sao Paulo de formigó. Però juntament amb el seu company de viatge i intèrpret Tomaz, en Tom descobrirà que Sao Paulo també té molt per oferir...",
+        "start": "2026-09-28T01:23:49+02:00",
+        "stop": "2026-09-28T01:51:52+02:00",
+        "title": "Els hotels més remots del món",
+        "subtitle": "Budir - Islàndia",
+        "description": "Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-27T22:46:12+02:00",
-        "stop": "2026-09-27T23:28:37+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Nairobi",
-        "description": "Nairobi és la ciutat amb el creixement més ràpid del món. Raó per la qual en Tom l'ha inclòs en la seva llista de grans ciutats del món. El seu dinamisme i innovació deixaran enlluernat a en Tom, i alhora, es trobarà amb els grans reptes d'aquest creixement imparable: la lluita per sortir de la pobresa i per protegir una naturalesa amenaçada.",
+        "start": "2026-09-28T01:51:52+02:00",
+        "stop": "2026-09-28T02:17:19+02:00",
+        "title": "Els hotels més remots del món",
+        "subtitle": "Qasr Al Sarab d'Anantara - Emirats Àrabs Units",
+        "description": "Enclavat en una vall desèrtica enmig d'immenses dunes, i davant d'unes salines, l'hotel destaca amb les seves torres de pedra, grans enreixats i fonts d'aigua, recordant una antiga fortalesa àrab. Qasr Al Sarab és pràcticament l'única estructura en un radi de diversos quilòmetres: un vaixell solitari a la deriva en un mar de sorra. L'hotel, per tant, ha de satisfer les seves pròpies necessitats. L'hotel recicla tota la seva aigua, té la seva pròpia planta de tractament i fins i tot cultiva les seves pròpies fruites i verdures en un hivernacle al desert. Va ser elegit com el gran hotel més sostenible del món l'any 2022.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
