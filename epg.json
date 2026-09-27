@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-27T01:48:09.233399+00:00",
+  "updated": "2026-09-27T07:29:56.392296+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-27T02:40:43+02:00",
-        "stop": "2026-09-27T04:00:00+02:00",
+        "start": "2026-09-27T07:00:00+02:00",
+        "stop": "2026-09-27T09:51:15+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-27T04:00:00+02:00",
-        "stop": "2026-09-27T05:00:00+02:00",
-        "title": "Blues a l'estudi",
-        "subtitle": "Biel & Randy",
-        "description": "Biel Ballester i Randy Greer. Dos grans intèrprets, que uneixen forces per acostar-nos al seu univers de música d'arrel i amb cert regust dels anys 50. Aquests dos creadors, defineixen l'estil del seu projecte comú com un blues primitiu i pantanós, barrejat amb el Rockabilly i el country més primari.Acompanyen Biel and Randy, dos dels músics més actius i carismàtics del panorama del Rhythm'n'blues a Catalunya: Anton Jarl, a la bateria, i Ivan Kovacevic, al contrabaix.",
-        "genre": "ALTRES",
+        "start": "2026-09-27T09:51:15+02:00",
+        "stop": "2026-09-27T10:12:51+02:00",
+        "title": "Néixer de nou",
+        "subtitle": "Protestants sota el franquisme, els protestants de Barcelona",
+        "description": "La Restauració borbònica va venir de la mà de la Constitució del 1876. Amb aquesta Constitució, els protestants vam perdre les llibertats que s'havien aconseguit gràcies a la Revolució del 1868. Quin és el tarannà religiós de la ciutat de Barcelona 150 anys més tard? De tot això avui en parlarem aquí, a 'Néixer de nou', amb el comissionat de Relacions Ciutadanes i Diversitat Cultural i Religiosa: Sr. Richard Sánchez.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-27T01:00:00+02:00",
-        "stop": "2026-09-27T06:00:00+02:00",
+        "start": "2026-09-27T07:00:00+02:00",
+        "stop": "2026-09-27T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-27T06:00:00+02:00",
-        "stop": "2026-09-27T07:00:00+02:00",
+        "start": "2026-09-27T10:00:00+02:00",
+        "stop": "2026-09-27T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-27T03:38:54+02:00",
-        "stop": "2026-09-27T04:00:47+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-27T08:06:50+02:00",
+        "stop": "2026-09-27T09:55:00+02:00",
+        "title": "Futbol",
+        "subtitle": "Logronyo-FC Barcelona / Lliga F / J5",
+        "description": "Les blaugranes volen sumar la 5a victòria en 5 jornades per seguir liderant la classificació. El conjunt de La Rioja ha guanyat 2 partits i n'ha perdut els altres 2.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       },
       {
-        "start": "2026-09-27T04:00:47+02:00",
-        "stop": "2026-09-27T05:52:45+02:00",
-        "title": "Futbol",
-        "subtitle": "Gimnàstic de Tarragona-UE Sant Andreu / Primera Federació / J5",
-        "description": "Els tarragonins han sumat 7 punts de 12 i són a la part alta de la classificació. Els barcelonins en tenen 4, i volen sortir de la part baixa. Amb la narració d'Oriol Vidal, i l'anàlisi d'Alberto Manga i Santi Triguero.",
+        "start": "2026-09-27T09:55:00+02:00",
+        "stop": "2026-09-27T11:46:50+02:00",
+        "title": "Voleibol",
+        "subtitle": "Tarragona SPSP-Barça / Lliga catalana masculina voleibol / Final",
+        "description": "L'Asisa Tarragona Sant Pere i Sant Pau, i el FC Barcelona juguen la final de la competició masculina que organitza la Federació Catalana de Voleibol.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/4/0/1790165555204.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-27T03:39:52+02:00",
-        "stop": "2026-09-27T03:49:52+02:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "Somrieu",
-        "description": "A l'aventura poptàstica d'avui, els amics fan neteja! La Mae-Mae perd sense voler l'àlbum de fotos especial de la Phoebe. Podrà substituir les fotos perdudes amb la càmera d'en Zip?",
+        "start": "2026-09-27T09:25:06+02:00",
+        "stop": "2026-09-27T09:46:12+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Marina salva el Patrullaveixell piratejat",
+        "description": "En Sid el pirata i l'Arrby han robat la nòria i la Patrulla l'ha d'anar a buscar per tornar-la a Badia Aventures. Però en Sid s'empesca un pla encara més agosarat: robar el Patrullavaixell!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-27T03:49:52+02:00",
-        "stop": "2026-09-27T03:59:56+02:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "El dia de la germana gran",
-        "description": "A l'aventura poptàstica d'avui, en Hooper prepara una festa sorpresa especial per la Phoebe! Podrà acabar els preparatius a temps i muntar-li a la seva germana gran una festa per recordar?",
+        "start": "2026-09-27T09:46:12+02:00",
+        "stop": "2026-09-27T09:56:45+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva les papaies",
+        "description": "En Carlos i en Tracker fan suc de papaia amb la Patrulla Peluda, però llavors veuen que l'alcaldessa Goodway i la Chickaletta estan en perill.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-27T03:46:03+02:00",
-        "stop": "2026-09-27T04:41:28+02:00",
-        "title": "1942",
-        "subtitle": "Si cal creure-hi",
-        "description": "SINOPSI:L'any 1942, amb el món en guerra, les nacions necessiten l'adhesió ferma de la seva població. I una de les maneres d'aconseguir-la és l'adoctrinament d'infants i joves en els valors patriòtics, com ens demostraran les experiències de l'Ursula, una jove alemanya allistada a les Joventuts Hitlerianes; la Nina, enrolada en l'exèrcit soviètic; o l'Eric, un jove anglès que se'n va a Singapur a defensar l'Imperi Britànic.",
+        "start": "2026-09-27T08:36:58+02:00",
+        "stop": "2026-09-27T09:30:15+02:00",
+        "title": "Viure als Pirineus- A banda i banda",
+        "subtitle": "Vanesa Freixa, Cédric Lacraberie i Yann Brianti - Hivern",
+        "description": "",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"
+        "image": ""
       },
       {
-        "start": "2026-09-27T04:41:28+02:00",
-        "stop": "2026-09-27T05:35:00+02:00",
-        "title": "1942",
-        "subtitle": "Si cal triar",
-        "description": "A la primavera del 1942, les forces de l'Eix avancen en tots els fronts. Llavors tothom ha de triar quin paper vol tenir a la història. Com l'André, que amb quinze anys s'apunta a la Resistència francesa. O en Ladislav, que s'arrisca per ajudar dos paracaigudistes que han vingut a fer una alta missió a Txecoslovàquia. O la Mary, una americana d'origen japonès obligada a confinar-se en un camp de concentració...",
+        "start": "2026-09-27T09:30:15+02:00",
+        "stop": "2026-09-27T10:01:45+02:00",
+        "title": "GR Pirineus",
+        "subtitle": "Els Pirineus, als peus",
+        "description": "La ruta portarà el Marc de las Heras des de Saldes fins a la Seu d'Urgell. En total, uns 65 km, repartits en tres jornades, fets a peu, en cotxe i amb els Pirineus als nostres peus.I el Marc comença fort: pujant al Pedraforca! Un cim especial. La primera nit la passa al refugi Lluís Estasen i, l'endemà, corona aquest símbol del muntanyisme català amb un expert muntanyenc. De baixada passa per Gósol, un poble encantador, segueix per Josa i farem nit a Tuixén, on visita el museu de les trementinaires.La tercera jornada d'aquest utòpic GR el Marc matina per anar fins a Ossera, el lloc ideal per comprar herbes remeieres. Segueix per Sorribes, el Ges i, finalment, arriba a la Seu d'Urgell, on aprèn com es fa un dels millors formatges de vaca del món, que després ven al mercat de Sant Ermengol; i on es topa amb un concertista, que el convida al Festival de Música Antiga dels Pirineus. Un menú molt complet!",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
       }
     ],
     "oca1": [],
