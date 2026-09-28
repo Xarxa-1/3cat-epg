@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-28T16:44:34.584359+00:00",
+  "updated": "2026-09-28T22:17:12.364467+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-28T17:33:01+02:00",
-        "stop": "2026-09-28T19:15:26+02:00",
-        "title": "La Selva",
-        "subtitle": "",
-        "description": "Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
+        "start": "2026-09-28T23:48:38+02:00",
+        "stop": "2026-09-29T00:26:24+02:00",
+        "title": "Xefs: noves generacions",
+        "subtitle": "Moha Quach (Restaurant El Terrat by Quach)",
+        "description": "Moha Quach construeix a El Terrat una cuina profundament personal, nascuda dels records d'infància al Rif marroquí i arrelada a Tarragona i al Mediterrani. El capítol recorre el seu viatge vital i creatiu, des de la cuina de l'àvia i l'hort familiar fins a una proposta contemporània que dialoga amb la cuina catalana, el Marroc i l'herència de l'antiga Roma. Format en cuines d'alta exigència, com Disfrutar, integra tècnica, rigor històric i producte de proximitat. El capítol mostra amb una mirada íntima un xef inquiet i reconegut, que ha creat un univers propi.",
+        "genre": "SÈRIE DOCUMENTAL",
+        "image": ""
       },
       {
-        "start": "2026-09-28T19:15:26+02:00",
-        "stop": "2026-09-28T20:20:25+02:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "start": "2026-09-29T00:26:24+02:00",
+        "stop": "2026-09-29T01:04:19+02:00",
+        "title": "Xefs: noves generacions",
+        "subtitle": "Toni Solans i David Romero (Restaurant Mantis)",
+        "description": "El Toni i el David són el motor creatiu de Mantis, un restaurant d'autor jove i inconformista construït des de la llibertat creativa i el respecte pel producte. Es van conèixer a l'escola Hofmann i, després de trajectòries divergents en cuines d'alta exigència, van retrobar-se durant la pandèmia amb Mosk, un projecte clandestí que va funcionar com a espai de prova i llibertat per crear la base del que avui és Mantis. No creuen en etiquetes i la seva cuina beu d'influències d'arreu del món, sobretot orientals. A Mantis, el joc conviu amb el rigor tècnic, fruit de dos caràcters oposats però profundament complementaris.",
+        "genre": "SÈRIE DOCUMENTAL",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-28T18:30:00+02:00",
-        "stop": "2026-09-28T20:00:00+02:00",
+        "start": "2026-09-29T00:00:00+02:00",
+        "stop": "2026-09-29T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-28T20:00:00+02:00",
-        "stop": "2026-09-28T21:00:00+02:00",
+        "start": "2026-09-29T00:30:00+02:00",
+        "stop": "2026-09-29T01:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-28T18:28:06+02:00",
-        "stop": "2026-09-28T19:00:00+02:00",
-        "title": "La frontal",
-        "subtitle": "L'ascens meteòric del Terres de Lleida CFF",
-        "description": "Campió vigent de la Copa Lleida femenina, l'objectiu d'aquesta temporada és assolir l'ascens a Tercera Federació després de consolidar-se la Preferent femenina. Fundat el 2022, en només 4 temporades ha aconseguit dos ascensos. Carles Fité entrevista la presidenta del club, Cristina Royes; un dels fundadors i entrenador del primer equip, Andrés Ibáñez; i l'extresorer i fidel seguidor del Terres de Lleida CFF, Germà Plana. I a més a més, els resums dels partits més destacats del cap de setmana. ",
-        "genre": "ESPECIALS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"
+        "start": "2026-09-28T23:00:00+02:00",
+        "stop": "2026-09-29T00:31:00+02:00",
+        "title": "Onze",
+        "subtitle": "Final de campanya; sanció al City i 'El colegiado'",
+        "description": "Carles Fité, Aina Cerdà, Xavi Torres i Jordi Martí comenten com està la votació de la pilota d'or l'últim dia de les votacions. En Joan Fàbregas analitza les polèmiques de la jornada de Nations League.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-28T19:00:00+02:00",
-        "stop": "2026-09-28T20:30:41+02:00",
-        "title": "Tot Costa",
-        "subtitle": "Lamine té rival?",
-        "description": "Avui es tanquen les votacions per a la Pilota d'Or. Ho analitzem amb Dani Senabre, Marcos López i Mireia Ruiz. Amb Roger Arbusà expliquem l'última hora d'Eric Garcia i Adeyemi. Laia Tudel parlarà dels no internacionals i també ens visita Albert Om per donar el seu punt de vista barcelonista de l'aturada de tres setmanes. Amb Marta Ferrer ens endinsem en la sèrie documental sobre Mourinho. ",
+        "start": "2026-09-29T00:31:00+02:00",
+        "stop": "2026-09-29T00:52:15+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-28T18:34:01+02:00",
-        "stop": "2026-09-28T18:45:01+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "Quina nina!",
-        "description": "El Barrufet Presumit i la Barrutempesta es troben la Rowena jugant al bosc amb una nina feta per ella. El Presumit li diu que és horrorosa i la Rowena se l'endú per convertir-lo a ell en la seva nova nina. La Barrutempesta intentarà rescatar-lo, però el Dwayne la capturarà. Quan el nen està a punt de llançar-la enlaire lligada a un coet, el Presumit té una idea genial per salvar-la.",
+        "start": "2026-09-29T00:08:55+02:00",
+        "stop": "2026-09-29T00:29:04+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "El què de les praderies",
+        "description": "Un tornado sorprèn la Tortuga en ple vol i tots els membres de l'equip han de saltar de la nau i queden dispersats per la praderia. Saben que per tornar-se a reunir s'han de trobar en un lloc on visqui un dels animals de la praderia, però resulta que cadascun en busca un de diferent. Així aniran coneixent la fauna d'aquest hàbitat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-28T18:45:01+02:00",
-        "stop": "2026-09-28T18:56:46+02:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "Vull un drac",
-        "description": "El Barrufet Tou està fart que tothom l'hagi d'ajudar en situacions delicades, com quan la Flor de Lis i el Voltaire el rescaten de l'ogre Bocagrossa. Perquè no es repeteixi una situació com aquesta, decideix fer-se amic del Voltaire, però el drac se l'empassa. La Flor de Lis haurà d'anar a demanar ajuda a la Barrusalze i el Gran Barrufet abans que el Tou quedi glaçat a dins de la panxa del drac.",
+        "start": "2026-09-29T00:29:04+02:00",
+        "stop": "2026-09-29T00:49:43+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "El misteri de la praderia",
+        "description": "El Martin i el Chris veuen que, en un arbust espinós, algú ha clavat a les punxes tot de llagostes i escarabats, i llavors decideixen emprendre una aventura per resoldre aquest nou misteri de la natura: quin és l'animal que té aquest hàbit tan estrany i per què ho fa? El que descobreixen és que es tracta d'un curiós ocell, el botxí, un rapinyaire que no utilitza les urpes com els altres, sinó el bec, i que té el costum de guardar-se reserves de menjar.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-28T18:33:22+02:00",
-        "stop": "2026-09-28T19:19:45+02:00",
-        "title": "Arxipèlag blau",
-        "subtitle": "Praderies i arenals",
-        "description": "Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-29T00:02:05+02:00",
+        "stop": "2026-09-29T00:50:13+02:00",
+        "title": "Aeroport",
+        "subtitle": "MWC i rics",
+        "description": "El Mobile World Congress augmenta la pressió de l'aeroport perquè en poques hores hi passen més de 50.000 persones. S'incrementen els vols privats i els passatgers VIPs disposen de tota mena de luxes a les sales exclusives, fins i tot, de perruqueria. VIPs i famosos que generen expectació, com Neymar quan arriba a la terminal.",
+        "genre": "Docu-Entreteniment",
         "image": ""
       },
       {
-        "start": "2026-09-28T19:19:45+02:00",
-        "stop": "2026-09-28T20:02:11+02:00",
-        "title": "Arxipèlag blau",
-        "subtitle": "Albuferes i aigües somes",
-        "description": "En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-29T00:50:13+02:00",
+        "stop": "2026-09-29T01:20:13+02:00",
+        "title": "No tenim vergonya",
+        "subtitle": "",
+        "description": "'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.",
+        "genre": "REPORTATGES",
         "image": ""
       }
     ],
