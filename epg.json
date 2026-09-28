@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-28T01:49:41.352908+00:00",
+  "updated": "2026-09-28T08:07:34.086273+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-28T01:00:00+02:00",
-        "stop": "2026-09-28T04:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-28T08:00:08+02:00",
+        "stop": "2026-09-28T10:30:00+02:00",
+        "title": "Matins",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       },
       {
-        "start": "2026-09-28T04:00:00+02:00",
-        "stop": "2026-09-28T05:00:14+02:00",
-        "title": "Blues a l'estudi",
-        "subtitle": "Bernat Font Trio",
-        "description": "Aquest jove pianista barceloní ha consolidat la seva formació després de la publicació del primer disc. Va rebre el guardó de Millor Nova Proposta de la revista 'Jaç' i no ha parat de tocar per tot l'estat.El repertori d'avui veu dels clàssics i oscil·la entre el blues i el swing. Ivan Kovacevic al contrabaix, Martí Elías a la bateria i el mateix Font al piano: un trio que desprèn una energia càlida i sincera.",
-        "genre": "ALTRES",
+        "start": "2026-09-28T10:30:00+02:00",
+        "stop": "2026-09-28T13:55:00+02:00",
+        "title": "Tot es mou",
+        "subtitle": "",
+        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "genre": "MAGAZINE",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-28T01:00:00+02:00",
-        "stop": "2026-09-28T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-28T08:00:00+02:00",
+        "stop": "2026-09-28T10:30:00+02:00",
+        "title": "Matins",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       },
       {
-        "start": "2026-09-28T06:00:00+02:00",
-        "stop": "2026-09-28T08:00:00+02:00",
+        "start": "2026-09-28T10:30:00+02:00",
+        "stop": "2026-09-28T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-28T03:39:44+02:00",
-        "stop": "2026-09-28T03:59:27+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-09-28T09:59:45+02:00",
+        "stop": "2026-09-28T10:43:31+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "El Caire",
+        "description": "La imatge icònica d'Egipte, les piràmides, és a molt poca distància de la gran metròpoli del Caire. Una ciutat que no para de créixer amb immigrants de la resta del país, fins al punt que els embussos de trànsit són infinits i el president ha decidit construir una capital nova al mig del desert i traslladar-hi tots els edificis governamentals. En Tom visita aquesta nova ciutat, i també diferents barris de l'actual, on descobrirà la passió dels seus habitants pels coloms i com viuen les persones que es dediquen a reciclar manualment les tones d'escombraries que s'hi generen cada dia.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-09-28T03:59:27+02:00",
-        "stop": "2026-09-28T05:14:53+02:00",
-        "title": "Handbol",
-        "subtitle": "Barça-Zamalek SC / Mundial de Clubs / J2",
-        "description": "Els blaugranes juguen contra l'equip egipci a la segona jornada del Mundial de clubs d'handbol que es disputa al Caire.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"
+        "start": "2026-09-28T10:43:31+02:00",
+        "stop": "2026-09-28T11:28:18+02:00",
+        "title": "Viatges insòlits",
+        "subtitle": "Dubai",
+        "description": "Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-28T03:40:05+02:00",
-        "stop": "2026-09-28T03:50:05+02:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "Super Hooperlàndia",
-        "description": "A l'aventura poptàstica d'avui, en Hooper i la Mà Amiga han construït un parc temàtic increïble! Però, quan les coses no surten com estaven previstes, com s'ho farà en Hooper perquè el parc sigui tan divertit com havia promès?",
+        "start": "2026-09-28T10:06:24+02:00",
+        "stop": "2026-09-28T10:17:28+02:00",
+        "title": "Les Sisters",
+        "subtitle": "La meva germana és una zombi",
+        "description": "A la Wendy li surt un gra espantós a la cara. La Marine li prepara una crema a base de camembert que encara empitjora les coses. Li surten tants grans que sembla un zombi. Aviat els veïns surten a caçar zombis pel barri. Pobra Wendy!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-28T03:50:05+02:00",
-        "stop": "2026-09-28T04:00:05+02:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "El joc dels contes",
-        "description": "En l'aventura poptàstica d'avui, el Zip i els seus amics jugaran a una cacera del tresor basada en contes! Però el Zip no està segur de saber la solució de les pistes... Aconseguiran el premi de conte?",
+        "start": "2026-09-28T10:17:28+02:00",
+        "stop": "2026-09-28T10:28:31+02:00",
+        "title": "Les Sisters",
+        "subtitle": "En la pell de la meva germana",
+        "description": "La Wendy promet a la seva germana que li donarà el mòbil vell, però finalment l'hi dóna al Maxence. Per venjar-se, la Marine li pren a la Wendy el mòbil nou, li pren l'habitació i fins i tot... les amigues. Per recuperar les seves coses, la Wendy farà servir les mateixes armes que la seva germana.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-28T03:10:26+02:00",
-        "stop": "2026-09-28T04:09:18+02:00",
-        "title": "1942",
-        "subtitle": "Si cal morir",
-        "description": "SINOPSI: L'any 1942, els drets humans no existeixen. Perquè les persones no són lliures ni de creure ni de pensar. Perquè, per vèncer, tant hi fan les penúries, les epidèmies, la fatiga... L'home ho ha de donar tot: la força de treball, el compromís, la salut, la vida. Les derrotes individuals valen molt menys que la victòria comuna. Tot va bé, per guanyar: les arbitrarietats, les il*legalitats, les traïcions...",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"
+        "start": "2026-09-28T09:50:42+02:00",
+        "stop": "2026-09-28T10:09:54+02:00",
+        "title": "Marcians",
+        "subtitle": "On són els nadons robats?",
+        "description": "'Marcians' s'acosta al drama dels nadons robats durant el franquisme, uns fets mai resolts que es van detectar fins ben entrada la democràcia, als anys 80 i 90. D'aquesta última època en parla la pel·lícula de Pau Teixidor 'Alumbramiento', centrada en un grup de noies recloses al centre de Peña Grande, de Madrid, custodiat per monges. Un film fosc pels fets que relata i, al mateix temps, lluminós perquè les protagonistes són adolescents que tot just estan descobrint la vida. El reportatge compta també amb l'aportació d'Andrea Queralt, guionista i productora d'una altra pel·lícula que parla dels nadons robats, 'Sobre todo de noche', del director Víctor Iriarte. Un film, disponible a Filmin, que tracta el tema des de tres perspectives: la de la mare biològica que busca el fill robat, la de la mare que l'adopta i la del fill d'ambdues. En el reportatge també es poden escoltar testimonis reals de mares que van perdre els seus nadons a Catalunya i que sospiten que els hi van robar. El documental 'Cómo decirte que te quiero', impulsat per la psicòloga i periodista Carolina Escudero, es fa ressò de totes aquestes històries. Un documental que s'ha estrenat als Cinemes Girona de Barcelona aquest mes de juny i que s'ha pogut fer amb capital argentí.",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-09-28T04:09:18+02:00",
-        "stop": "2026-09-28T05:01:30+02:00",
-        "title": "1942",
-        "subtitle": "Si cal matar",
-        "description": "SINOPSI: De què val, la prohibició de matar durant una guerra? L'any 1942, la guerra continua estenent-se arreu del planeta i implica cada vegada més països de tots els continents. De manera que persones com en George, un nadiu de les Illes Salomó, es veuen obligades a participar en un conflicte que no té res a veure amb ells. O una nena com la Walderez, del Brasil, en patirà les conseqüències.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"
+        "start": "2026-09-28T10:09:54+02:00",
+        "stop": "2026-09-28T10:29:37+02:00",
+        "title": "Marcians",
+        "subtitle": "Ballo, doncs existeixo",
+        "description": "La Mabel Olea és una ballarina, performer i coreògrafa lleidatana que imagina personatges amb punxes, ales, tentacles, braços llarguíssims... és així com acaba fent gestos i moviments impossibles.L'hem vist formant part del cos de ball de la gira de Rigoberta Bandini o interpretant una de les germanes de Stella Maris, el grup de pop cristià de la sèrie 'La Mesías' de Los Javis.A la pròxima edició de la Biennal del Pensament hi presentarà un nou lliurament de la seva performance 'The Big City', mentre està enllestint el seu primer solo de gran format que estrenarà la pròxima temporada, 'Cut One Teeth'. La Meritxell de Soto és una performer i DJ barcelonina amb formació musical clàssica i també de ballarina que l'ha portat a treballar en companyies com La Sadcum.En la seva vessant de DJ ha començat a utilitzar tot el seu cos per punxar. Ho fa en una sessió i peça coreogràfica titulada 'Espai segur' inspirada, precisament, en aquesta noció dins del context dels clubs. Concebuda des d'un perspectiva queer, li ha donat forma després d'entrevistar-se amb diverses persones relacionades amb el món de la nit.Ella és una de les artistes d'aquesta edició del Sónar. La Inés Sybille Vooduness és una ballarina, coreògrafa i professora barcelonina. Es va iniciar en la dansa amb el ballet clàssic però ha acabat sent una gran coneixedora de les diferents danses urbanes i actuals del continent i la diàspora africana, com el coupé-décalé de la Costa de Marfil o el kuduro d'Angola.Després de passar per la companyia Ku'dancin Afrobeatz, al costat de Lídia Martos i Yissel Rodríguez, ha començat una trajectòria personal amb peces com 'Santa de sustrato autónomo' o 'Simbi en Aigües Astronòmiques', la seva nova producció, que presentarà en la nova edició del Festival TNT aquest setembre i que remet a l'illa natal del seu pare, Haití i a la seva espiritualitat, el vudú.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "oca1": [],
