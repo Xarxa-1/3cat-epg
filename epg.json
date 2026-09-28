@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-28T08:07:34.086273+00:00",
+  "updated": "2026-09-28T16:44:34.584359+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-28T08:00:08+02:00",
-        "stop": "2026-09-28T10:30:00+02:00",
-        "title": "Matins",
+        "start": "2026-09-28T17:33:01+02:00",
+        "stop": "2026-09-28T19:15:26+02:00",
+        "title": "La Selva",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "description": "Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!",
+        "genre": "MAGAZINE",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
       },
       {
-        "start": "2026-09-28T10:30:00+02:00",
-        "stop": "2026-09-28T13:55:00+02:00",
-        "title": "Tot es mou",
+        "start": "2026-09-28T19:15:26+02:00",
+        "stop": "2026-09-28T20:20:25+02:00",
+        "title": "Atrapa'm si pots",
         "subtitle": "",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
-        "genre": "MAGAZINE",
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-28T08:00:00+02:00",
-        "stop": "2026-09-28T10:30:00+02:00",
-        "title": "Matins",
+        "start": "2026-09-28T18:30:00+02:00",
+        "stop": "2026-09-28T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-28T10:30:00+02:00",
-        "stop": "2026-09-28T12:00:00+02:00",
+        "start": "2026-09-28T20:00:00+02:00",
+        "stop": "2026-09-28T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-28T09:59:45+02:00",
-        "stop": "2026-09-28T10:43:31+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "El Caire",
-        "description": "La imatge icònica d'Egipte, les piràmides, és a molt poca distància de la gran metròpoli del Caire. Una ciutat que no para de créixer amb immigrants de la resta del país, fins al punt que els embussos de trànsit són infinits i el president ha decidit construir una capital nova al mig del desert i traslladar-hi tots els edificis governamentals. En Tom visita aquesta nova ciutat, i també diferents barris de l'actual, on descobrirà la passió dels seus habitants pels coloms i com viuen les persones que es dediquen a reciclar manualment les tones d'escombraries que s'hi generen cada dia.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-28T18:28:06+02:00",
+        "stop": "2026-09-28T19:00:00+02:00",
+        "title": "La frontal",
+        "subtitle": "L'ascens meteòric del Terres de Lleida CFF",
+        "description": "Campió vigent de la Copa Lleida femenina, l'objectiu d'aquesta temporada és assolir l'ascens a Tercera Federació després de consolidar-se la Preferent femenina. Fundat el 2022, en només 4 temporades ha aconseguit dos ascensos. Carles Fité entrevista la presidenta del club, Cristina Royes; un dels fundadors i entrenador del primer equip, Andrés Ibáñez; i l'extresorer i fidel seguidor del Terres de Lleida CFF, Germà Plana. I a més a més, els resums dels partits més destacats del cap de setmana. ",
+        "genre": "ESPECIALS",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"
       },
       {
-        "start": "2026-09-28T10:43:31+02:00",
-        "stop": "2026-09-28T11:28:18+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Dubai",
-        "description": "Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-28T19:00:00+02:00",
+        "stop": "2026-09-28T20:30:41+02:00",
+        "title": "Tot Costa",
+        "subtitle": "Lamine té rival?",
+        "description": "Avui es tanquen les votacions per a la Pilota d'Or. Ho analitzem amb Dani Senabre, Marcos López i Mireia Ruiz. Amb Roger Arbusà expliquem l'última hora d'Eric Garcia i Adeyemi. Laia Tudel parlarà dels no internacionals i també ens visita Albert Om per donar el seu punt de vista barcelonista de l'aturada de tres setmanes. Amb Marta Ferrer ens endinsem en la sèrie documental sobre Mourinho. ",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-28T10:06:24+02:00",
-        "stop": "2026-09-28T10:17:28+02:00",
-        "title": "Les Sisters",
-        "subtitle": "La meva germana és una zombi",
-        "description": "A la Wendy li surt un gra espantós a la cara. La Marine li prepara una crema a base de camembert que encara empitjora les coses. Li surten tants grans que sembla un zombi. Aviat els veïns surten a caçar zombis pel barri. Pobra Wendy!",
+        "start": "2026-09-28T18:34:01+02:00",
+        "stop": "2026-09-28T18:45:01+02:00",
+        "title": "Els barrufets (3D)",
+        "subtitle": "Quina nina!",
+        "description": "El Barrufet Presumit i la Barrutempesta es troben la Rowena jugant al bosc amb una nina feta per ella. El Presumit li diu que és horrorosa i la Rowena se l'endú per convertir-lo a ell en la seva nova nina. La Barrutempesta intentarà rescatar-lo, però el Dwayne la capturarà. Quan el nen està a punt de llançar-la enlaire lligada a un coet, el Presumit té una idea genial per salvar-la.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-28T10:17:28+02:00",
-        "stop": "2026-09-28T10:28:31+02:00",
-        "title": "Les Sisters",
-        "subtitle": "En la pell de la meva germana",
-        "description": "La Wendy promet a la seva germana que li donarà el mòbil vell, però finalment l'hi dóna al Maxence. Per venjar-se, la Marine li pren a la Wendy el mòbil nou, li pren l'habitació i fins i tot... les amigues. Per recuperar les seves coses, la Wendy farà servir les mateixes armes que la seva germana.",
+        "start": "2026-09-28T18:45:01+02:00",
+        "stop": "2026-09-28T18:56:46+02:00",
+        "title": "Els barrufets (3D)",
+        "subtitle": "Vull un drac",
+        "description": "El Barrufet Tou està fart que tothom l'hagi d'ajudar en situacions delicades, com quan la Flor de Lis i el Voltaire el rescaten de l'ogre Bocagrossa. Perquè no es repeteixi una situació com aquesta, decideix fer-se amic del Voltaire, però el drac se l'empassa. La Flor de Lis haurà d'anar a demanar ajuda a la Barrusalze i el Gran Barrufet abans que el Tou quedi glaçat a dins de la panxa del drac.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-28T09:50:42+02:00",
-        "stop": "2026-09-28T10:09:54+02:00",
-        "title": "Marcians",
-        "subtitle": "On són els nadons robats?",
-        "description": "'Marcians' s'acosta al drama dels nadons robats durant el franquisme, uns fets mai resolts que es van detectar fins ben entrada la democràcia, als anys 80 i 90. D'aquesta última època en parla la pel·lícula de Pau Teixidor 'Alumbramiento', centrada en un grup de noies recloses al centre de Peña Grande, de Madrid, custodiat per monges. Un film fosc pels fets que relata i, al mateix temps, lluminós perquè les protagonistes són adolescents que tot just estan descobrint la vida. El reportatge compta també amb l'aportació d'Andrea Queralt, guionista i productora d'una altra pel·lícula que parla dels nadons robats, 'Sobre todo de noche', del director Víctor Iriarte. Un film, disponible a Filmin, que tracta el tema des de tres perspectives: la de la mare biològica que busca el fill robat, la de la mare que l'adopta i la del fill d'ambdues. En el reportatge també es poden escoltar testimonis reals de mares que van perdre els seus nadons a Catalunya i que sospiten que els hi van robar. El documental 'Cómo decirte que te quiero', impulsat per la psicòloga i periodista Carolina Escudero, es fa ressò de totes aquestes històries. Un documental que s'ha estrenat als Cinemes Girona de Barcelona aquest mes de juny i que s'ha pogut fer amb capital argentí.",
-        "genre": "ALTRES",
+        "start": "2026-09-28T18:33:22+02:00",
+        "stop": "2026-09-28T19:19:45+02:00",
+        "title": "Arxipèlag blau",
+        "subtitle": "Praderies i arenals",
+        "description": "Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-28T10:09:54+02:00",
-        "stop": "2026-09-28T10:29:37+02:00",
-        "title": "Marcians",
-        "subtitle": "Ballo, doncs existeixo",
-        "description": "La Mabel Olea és una ballarina, performer i coreògrafa lleidatana que imagina personatges amb punxes, ales, tentacles, braços llarguíssims... és així com acaba fent gestos i moviments impossibles.L'hem vist formant part del cos de ball de la gira de Rigoberta Bandini o interpretant una de les germanes de Stella Maris, el grup de pop cristià de la sèrie 'La Mesías' de Los Javis.A la pròxima edició de la Biennal del Pensament hi presentarà un nou lliurament de la seva performance 'The Big City', mentre està enllestint el seu primer solo de gran format que estrenarà la pròxima temporada, 'Cut One Teeth'. La Meritxell de Soto és una performer i DJ barcelonina amb formació musical clàssica i també de ballarina que l'ha portat a treballar en companyies com La Sadcum.En la seva vessant de DJ ha començat a utilitzar tot el seu cos per punxar. Ho fa en una sessió i peça coreogràfica titulada 'Espai segur' inspirada, precisament, en aquesta noció dins del context dels clubs. Concebuda des d'un perspectiva queer, li ha donat forma després d'entrevistar-se amb diverses persones relacionades amb el món de la nit.Ella és una de les artistes d'aquesta edició del Sónar. La Inés Sybille Vooduness és una ballarina, coreògrafa i professora barcelonina. Es va iniciar en la dansa amb el ballet clàssic però ha acabat sent una gran coneixedora de les diferents danses urbanes i actuals del continent i la diàspora africana, com el coupé-décalé de la Costa de Marfil o el kuduro d'Angola.Després de passar per la companyia Ku'dancin Afrobeatz, al costat de Lídia Martos i Yissel Rodríguez, ha començat una trajectòria personal amb peces com 'Santa de sustrato autónomo' o 'Simbi en Aigües Astronòmiques', la seva nova producció, que presentarà en la nova edició del Festival TNT aquest setembre i que remet a l'illa natal del seu pare, Haití i a la seva espiritualitat, el vudú.",
-        "genre": "ALTRES",
+        "start": "2026-09-28T19:19:45+02:00",
+        "stop": "2026-09-28T20:02:11+02:00",
+        "title": "Arxipèlag blau",
+        "subtitle": "Albuferes i aigües somes",
+        "description": "En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
