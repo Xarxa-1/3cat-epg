@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-27T23:25:15.206300+00:00",
+  "updated": "2026-09-28T01:49:41.352908+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-28T01:21:46+02:00",
-        "stop": "2026-09-28T01:43:21+02:00",
+        "start": "2026-09-28T03:39:44+02:00",
+        "stop": "2026-09-28T03:59:27+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -92,53 +92,53 @@
         "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       },
       {
-        "start": "2026-09-28T01:43:21+02:00",
-        "stop": "2026-09-28T03:39:40+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Río Breogán-Asisa Joventut / Lliga / J1",
-        "description": "Després de celebrar la gran victòria a la Supercopa d'Espanya, els badalonins comencen la seva participació a la Lliga Endesa, a la pista del conjunt de Lugo.",
+        "start": "2026-09-28T03:59:27+02:00",
+        "stop": "2026-09-28T05:14:53+02:00",
+        "title": "Handbol",
+        "subtitle": "Barça-Zamalek SC / Mundial de Clubs / J2",
+        "description": "Els blaugranes juguen contra l'equip egipci a la segona jornada del Mundial de clubs d'handbol que es disputa al Caire.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-28T01:24:29+02:00",
-        "stop": "2026-09-28T01:45:56+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Risc (L'últim atac de l'Esfinx Fosc - 1a part)",
-        "description": "Conscient que Ladybug sempre guanya gràcies a la seva prudència, l'Esfinx Fosc concep un pla diabòlic que inclou un supermalvat que té el poder d'empènyer totes les seves víctimes a córrer riscos. Quan la Marinette s'assabenta que l'Adrien ha de marxar de París durant unes quantes setmanes amb la Lila, la nova musa de la marca Agreste, està disposada a fer el que calgui per impedir-ho. Fins on serà capaç d'arribar? S'arriscarà a trair la seva identitat secreta per amor? I l'Adrien, s'arriscarà per fi a plantar cara al seu pare?",
+        "start": "2026-09-28T03:40:05+02:00",
+        "stop": "2026-09-28T03:50:05+02:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "Super Hooperlàndia",
+        "description": "A l'aventura poptàstica d'avui, en Hooper i la Mà Amiga han construït un parc temàtic increïble! Però, quan les coses no surten com estaven previstes, com s'ho farà en Hooper perquè el parc sigui tan divertit com havia promès?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-28T01:45:56+02:00",
-        "stop": "2026-09-28T02:07:19+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Rèplica (L'últim atac de l'Esfinx Fosc - 2a part)",
-        "description": "Sense sospitar que es troben sota la influència d'un akumatitzat molt perillós, Ladybug i el Gat Noir estan disposats a arriscar-se tant com calgui per tornar de seguida que puguin a la seva vida normal, on s'està a punt de capgirar el seu destí. Els nostres superherois subestimen un sentimonstre invulnerable, que a més es pensen que és l'únic enemic que tenen, i ells es van tornant cada vegada més vulnerables. I des de l'ombra, l'Esfinx Fosc espera que el seu últim pla surti bé i pugui aconseguir la seva primera victòria.",
+        "start": "2026-09-28T03:50:05+02:00",
+        "stop": "2026-09-28T04:00:05+02:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "El joc dels contes",
+        "description": "En l'aventura poptàstica d'avui, el Zip i els seus amics jugaran a una cacera del tresor basada en contes! Però el Zip no està segur de saber la solució de les pistes... Aconseguiran el premi de conte?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-28T01:23:49+02:00",
-        "stop": "2026-09-28T01:51:52+02:00",
-        "title": "Els hotels més remots del món",
-        "subtitle": "Budir - Islàndia",
-        "description": "Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.",
+        "start": "2026-09-28T03:10:26+02:00",
+        "stop": "2026-09-28T04:09:18+02:00",
+        "title": "1942",
+        "subtitle": "Si cal morir",
+        "description": "SINOPSI: L'any 1942, els drets humans no existeixen. Perquè les persones no són lliures ni de creure ni de pensar. Perquè, per vèncer, tant hi fan les penúries, les epidèmies, la fatiga... L'home ho ha de donar tot: la força de treball, el compromís, la salut, la vida. Les derrotes individuals valen molt menys que la victòria comuna. Tot va bé, per guanyar: les arbitrarietats, les il*legalitats, les traïcions...",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"
       },
       {
-        "start": "2026-09-28T01:51:52+02:00",
-        "stop": "2026-09-28T02:17:19+02:00",
-        "title": "Els hotels més remots del món",
-        "subtitle": "Qasr Al Sarab d'Anantara - Emirats Àrabs Units",
-        "description": "Enclavat en una vall desèrtica enmig d'immenses dunes, i davant d'unes salines, l'hotel destaca amb les seves torres de pedra, grans enreixats i fonts d'aigua, recordant una antiga fortalesa àrab. Qasr Al Sarab és pràcticament l'única estructura en un radi de diversos quilòmetres: un vaixell solitari a la deriva en un mar de sorra. L'hotel, per tant, ha de satisfer les seves pròpies necessitats. L'hotel recicla tota la seva aigua, té la seva pròpia planta de tractament i fins i tot cultiva les seves pròpies fruites i verdures en un hivernacle al desert. Va ser elegit com el gran hotel més sostenible del món l'any 2022.",
+        "start": "2026-09-28T04:09:18+02:00",
+        "stop": "2026-09-28T05:01:30+02:00",
+        "title": "1942",
+        "subtitle": "Si cal matar",
+        "description": "SINOPSI: De què val, la prohibició de matar durant una guerra? L'any 1942, la guerra continua estenent-se arreu del planeta i implica cada vegada més països de tots els continents. De manera que persones com en George, un nadiu de les Illes Salomó, es veuen obligades a participar en un conflicte que no té res a veure amb ells. O una nena com la Walderez, del Brasil, en patirà les conseqüències.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"
       }
     ],
     "oca1": [],
