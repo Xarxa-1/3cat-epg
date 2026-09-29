@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-29T14:58:30.154486+00:00",
+  "updated": "2026-09-29T19:52:26.239125+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,117 +43,107 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-29T16:39:29+02:00",
-        "stop": "2026-09-29T17:15:46+02:00",
-        "title": "La Riera",
+        "start": "2026-09-29T21:00:00+02:00",
+        "stop": "2026-09-29T22:01:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "La Mercè ha pres una decisió, la que ella considera millor per a la família. No tots hi estan d'acord... L'Ernest, disposat a fer les paus amb tothom, demana a la Sònia que deixi d'investigar en Claudi, però ara hi està engrescada l'Estel i tot. A la cuina, en Nil, fart d'en Casellas, està a punt de llançar la tovallola. I l'Oriol, que defuig tant com pot una decebuda Mireia, torna a coincidir amb en Balló.",
-        "genre": "TELENOVEL·LA",
-        "image": ""
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-09-29T17:15:46+02:00",
-        "stop": "2026-09-29T17:25:18+02:00",
-        "title": "CUINES CATALUNYA",
-        "subtitle": "Crema de carbassó i menta",
-        "description": "Aquest és un plat vegetarià que, sense deixar de ser molt senzill, està ple de sabors, colors i textures. Fem crema de carbassó i menta.",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-09-29T22:01:00+02:00",
+        "stop": "2026-09-29T22:09:36+02:00",
+        "title": "De primera!",
+        "subtitle": "- Més que un arròs",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-29T16:00:00+02:00",
-        "stop": "2026-09-29T17:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-29T21:00:00+02:00",
+        "stop": "2026-09-29T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-09-29T17:00:00+02:00",
-        "stop": "2026-09-29T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-29T22:05:00+02:00",
+        "stop": "2026-09-30T00:00:00+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-29T16:50:10+02:00",
-        "stop": "2026-09-29T17:01:10+02:00",
-        "title": "PITCH&CAT",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
+        "start": "2026-09-29T21:39:01+02:00",
+        "stop": "2026-09-29T23:00:00+02:00",
+        "title": "Handbol",
+        "subtitle": "Montada-Barça / Mundial de Clubs / J3",
+        "description": "Els barcelonistes, que ja tenen assegurada la presència a la final, volen acabar invictes la fase de grups.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"
       },
       {
-        "start": "2026-09-29T17:01:10+02:00",
-        "stop": "2026-09-29T17:31:56+02:00",
-        "title": "Zona zàping",
-        "subtitle": "El millor de la setmana",
-        "description": "El 'Zona zàping' és un recull d'imatges de continguts esportius que ofereixen les diferents televisions, tant estatals com internacionals. Aquestes imatges destaquen per la seva espectacularitat, perquè són especialment curioses o perquè ens permeten repassar l'actualitat esportiva mundial de forma ràpida i concisa. En resum, tot allò relacionat amb el món dels esports que s'emeti per TV i tingui un mínim d'interès per a l'espectador.",
-        "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"
+        "start": "2026-09-29T23:00:00+02:00",
+        "stop": "2026-09-30T00:31:00+02:00",
+        "title": "Onze",
+        "subtitle": "",
+        "description": "Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-29T16:48:37+02:00",
-        "stop": "2026-09-29T17:00:24+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "El vermell dels pebrots",
-        "description": "El Mic busca el color vermell i el troba a les maduixes, les cireres i els pebrots.",
+        "start": "2026-09-29T21:40:34+02:00",
+        "stop": "2026-09-29T22:02:25+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "El número 1 de l'Altre Món",
+        "description": "En Son Goku es mor de ganes de rebre una classe del Gran Rei, el lluitador que està considerat el número 1 de l'Altre Món. Per fer realitat aquest somni, primer haurà de quedar campió del Torneig d'Arts Marcials de l'Altre Món, on s'haurà d'enfrontar a guerrers mítics com en Paiku Han.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-29T17:00:24+02:00",
-        "stop": "2026-09-29T17:10:05+02:00",
-        "title": "Titó",
-        "subtitle": "Excursió a fer ràfting",
-        "description": "L'excursió d'avui ve carregada d'aventura! Baixarem riu avall fent ràfting. Tothom amb les pales preparades i endavant!",
-        "genre": "ALTRES",
+        "start": "2026-09-29T22:02:25+02:00",
+        "stop": "2026-09-29T22:23:38+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "L'escenari de la traïció (1a part)",
+        "description": "La Sonoko i la Ran volen anar a veure l'assaig del famós músic Rokumichi Hado, que ha compost una cançó titulada 'Asaca'. Quan ho descobreixen, en Conan i en Subaru Okiya també hi volen anar. Un cop a l'auditori es troben en Toru Amuro i la seva companya Azusa, que en realitat és la Vermouth disfressada. Tot d'una, en Rokumichi Hado apareix mort, penjat dalt de l'escenari, i els detectius hauran de desemmascarar l'assassí.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-29T16:08:55+02:00",
-        "stop": "2026-09-29T16:56:37+02:00",
-        "title": "Aeroport",
-        "subtitle": "Els millors moments",
-        "description": "Arribades una mica surrealistes i sortides de passatgers que entendreixen; individus molt especials que recorren els aeroports de tot el món per fotografiar avions estel·lars; personatges inimitables que ens han donat grans moments de televisió, el programa recull els millors moments de l'aeroport.",
-        "genre": "Docu-Entreteniment",
+        "start": "2026-09-29T21:32:20+02:00",
+        "stop": "2026-09-29T22:05:01+02:00",
+        "title": "Plats bruts",
+        "subtitle": "Tinc un tresor",
+        "description": "El Pol torna uns dies a Barcelona i el David està molt emocionat. Però, quan els dos amics es retroben, s'adonen que la seva relació ja no és com abans. La iaia ensenya unes joies molt valuoses al Lopes i li promet que les hi deixarà en herència.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       },
       {
-        "start": "2026-09-29T16:56:37+02:00",
-        "stop": "2026-09-29T17:42:12+02:00",
-        "title": "Aeroport",
-        "subtitle": "Especial Queco",
-        "description": "Queco Novell, 'la veu' del programa, es trasllada de l'estudi de so a l'aeroport per conèixer alguns dels protagonistes de la sèrie. Comparteix anècdotes, puja a la torre del fanal i parla amb els controladors aeris, carrega maletes i viatja per la T1 amb un bugui.",
-        "genre": "Docu-Entreteniment",
-        "image": ""
+        "start": "2026-09-29T22:05:01+02:00",
+        "stop": "2026-09-29T22:57:25+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Les estisores",
+        "description": "Hi ha molts tipus d'estisores, però en general sempre es diferencien pel mateix; per si funcionen, o per si són una autèntica merda. Dediquem el programa a un objecte sense el qual seria impossible que existís la classe de plàstica, l'única en què teníem traça a l'escola. Ens visita un campanòleg, en Xavier Pallàs, una persona que a més de saber tocar campanes ha dedicat mitja vida a estudiar-les. Déu n'hi do. I passegem el gos per un judici inversemblant: el d'una truja a qui es jutja per haver-se menjat un nen petit.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
     "oca2": [],
     "oca3": [],
-    "oca4": [
-      {
-        "start": "2026-09-29T16:00:05+02:00",
-        "stop": "2026-09-29T19:00:00+02:00",
-        "title": "Debat de política general",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1699359531979.jpg"
-      }
-    ]
+    "oca4": []
   }
 }
