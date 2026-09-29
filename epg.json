@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-29T19:52:26.239125+00:00",
+  "updated": "2026-09-29T23:22:42.287313+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-29T21:00:00+02:00",
-        "stop": "2026-09-29T22:01:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
-        "start": "2026-09-29T22:01:00+02:00",
-        "stop": "2026-09-29T22:09:36+02:00",
-        "title": "De primera!",
-        "subtitle": "- Més que un arròs",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-09-29T21:00:00+02:00",
-        "stop": "2026-09-29T22:05:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
-        "start": "2026-09-29T22:05:00+02:00",
-        "stop": "2026-09-30T00:00:00+02:00",
+        "start": "2026-09-30T00:41:58+02:00",
+        "stop": "2026-09-30T02:22:18+02:00",
         "title": "Mésnit",
         "subtitle": "",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
         "genre": "DEBAT",
         "image": ""
+      },
+      {
+        "start": "2026-09-30T02:22:18+02:00",
+        "stop": "2026-09-30T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-09-30T01:00:00+02:00",
+        "stop": "2026-09-30T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-09-30T06:00:00+02:00",
+        "stop": "2026-09-30T08:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-09-29T21:39:01+02:00",
-        "stop": "2026-09-29T23:00:00+02:00",
-        "title": "Handbol",
-        "subtitle": "Montada-Barça / Mundial de Clubs / J3",
-        "description": "Els barcelonistes, que ja tenen assegurada la presència a la final, volen acabar invictes la fase de grups.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"
-      },
-      {
-        "start": "2026-09-29T23:00:00+02:00",
-        "stop": "2026-09-30T00:31:00+02:00",
+        "start": "2026-09-30T00:51:09+02:00",
+        "stop": "2026-09-30T02:21:33+02:00",
         "title": "Onze",
-        "subtitle": "",
-        "description": "Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.",
+        "subtitle": "Ensurt Raphinha; 'Onzeclopèdia' i 'El consultori'",
+        "description": "Juvenal Edjogo, Fernando Polo, Irati Vidal i Ivan San Antonio comenten la lesió de Raphinha en l'amistós del Brasil. En Fran Domènech presenta els titulats més curiosos de la premsa esportiva. En Sergi Ferrer respon les consultes dels espectadors de l'Onze.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+      },
+      {
+        "start": "2026-09-30T02:21:33+02:00",
+        "stop": "2026-09-30T02:41:18+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-29T21:40:34+02:00",
-        "stop": "2026-09-29T22:02:25+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "El número 1 de l'Altre Món",
-        "description": "En Son Goku es mor de ganes de rebre una classe del Gran Rei, el lluitador que està considerat el número 1 de l'Altre Món. Per fer realitat aquest somni, primer haurà de quedar campió del Torneig d'Arts Marcials de l'Altre Món, on s'haurà d'enfrontar a guerrers mítics com en Paiku Han.",
+        "start": "2026-09-30T01:19:46+02:00",
+        "stop": "2026-09-30T01:31:03+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Joc, set i partit per les germanes",
+        "description": "La Wendy guanya dues entrades per anar a una final d'un torneig de tenis. La Marine i la seva mare volen acompanyar-la a veure el partit, però la Wendy s'estima més convidar-hi el Maxence. Mare i filla fan servir totes les seves armes per seduir la Wendy i convèncer-la que les deixi anar amb ella. Mentrestant, la Wendy s'aprofita de la situació...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-29T22:02:25+02:00",
-        "stop": "2026-09-29T22:23:38+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "L'escenari de la traïció (1a part)",
-        "description": "La Sonoko i la Ran volen anar a veure l'assaig del famós músic Rokumichi Hado, que ha compost una cançó titulada 'Asaca'. Quan ho descobreixen, en Conan i en Subaru Okiya també hi volen anar. Un cop a l'auditori es troben en Toru Amuro i la seva companya Azusa, que en realitat és la Vermouth disfressada. Tot d'una, en Rokumichi Hado apareix mort, penjat dalt de l'escenari, i els detectius hauran de desemmascarar l'assassí.",
+        "start": "2026-09-30T01:31:03+02:00",
+        "stop": "2026-09-30T01:50:59+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Emporteu-vos aquest lladre! Sisplau!",
+        "description": "El Team Rocket comença a estar tip que el Morpeko es mengi constantment tot el seu menjar. Quan la gana es torna insuportable, el James accedeix a dur el Morpeko a les muntanyes i abandonar-lo. Però, com de costum, al Morpeko això no li sembla gens bé! Després de nombrosos intents fallits perquè el Goh capturi el Pokémon sempre afamat, com ara un improvisat concurs d'endrapar entre el Greedent i el Morpeko, el Team Rocket aconsegueix desfer-se del Morpeko. Però quan el James sent que els crida, la seva naturalesa empàtica i de bon cor l'empeny a capturar-lo, cosa que el converteix en un membre més del Team Rocket... i també en el que té més gana! ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-29T21:32:20+02:00",
-        "stop": "2026-09-29T22:05:01+02:00",
-        "title": "Plats bruts",
-        "subtitle": "Tinc un tresor",
-        "description": "El Pol torna uns dies a Barcelona i el David està molt emocionat. Però, quan els dos amics es retroben, s'adonen que la seva relació ja no és com abans. La iaia ensenya unes joies molt valuoses al Lopes i li promet que les hi deixarà en herència.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "start": "2026-09-30T00:31:27+02:00",
+        "stop": "2026-09-30T01:30:12+02:00",
+        "title": "Rick Stein: De Venècia a Istanbul",
+        "subtitle": "Venècia",
+        "description": "El nou viatge culinari d'en Rick Stein comença a Venècia, una ciutat que coneix bé i adora per la seva senzilla i fabulosa gastronomia, que va incorporar les espècies gràcies al comerç amb Bizanci. En Rick recorrerà tot Venècia per terra i per la llacuna, visitarà el mercat de Rialto, el Lido o la Giudecca, i degustarà moltíssims menjars, com els 'cicchetti' -tapes venecianes-, els espaguetis 'alle vongole' o el fetge a la veneciana. I cuinarà nyoquis amb cranc, un tiramisú i un 'risotto' de marisc.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-09-29T22:05:01+02:00",
-        "stop": "2026-09-29T22:57:25+02:00",
-        "title": "La Renaixença",
-        "subtitle": "Les estisores",
-        "description": "Hi ha molts tipus d'estisores, però en general sempre es diferencien pel mateix; per si funcionen, o per si són una autèntica merda. Dediquem el programa a un objecte sense el qual seria impossible que existís la classe de plàstica, l'única en què teníem traça a l'escola. Ens visita un campanòleg, en Xavier Pallàs, una persona que a més de saber tocar campanes ha dedicat mitja vida a estudiar-les. Déu n'hi do. I passegem el gos per un judici inversemblant: el d'una truja a qui es jutja per haver-se menjat un nen petit.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-09-30T01:30:12+02:00",
+        "stop": "2026-09-30T03:06:29+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Falses aparences",
+        "description": "FALSES APARENCES 'Faux-semblants'Direcció: Akim IskerGuió: Isabelle Polin, Frédéric J. LozetProducció: Les Films du Printemps, France TV, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Région des Pays-de-la-Loire, CNCAny: 2020Durada: 97País: FrançaMúsica: Éric NeveuxFotografia: Emmanuel de FleuryIntèrprets: Thierry Godard, Noémie Schmidt, Francis Renaud, Marc Ruchmann, Laurent Bateau, Steve Tientcheu, Thor Schenker, Thomas Drelon, Gigi Ledron, Florence Janas, Félicien Juttner, Elisa Sergent, Caroline Piette, Erika Vandelet, Étienne MénardLa jove capitana Valentine Ventura, de la divisió econòmica de la policia, s'incorpora a la brigada criminal per treballar al costat del famós comandant Antoine Thomas, que acaba de reprendre l'activitat després d'un terrible accident de cotxe que el va deixar en cadira de rodes. Tots dos policies investiguen l'assassinat d'una jove periodista de Nantes, que sembla que estigui relacionat amb dues altres morts. Tot indica que es troben davant d'un assassí en sèrie, però la Valentine aviat sospita que les aparences enganyen.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia//jpg/4/0/1787303035004.jpg"
       }
     ],
     "oca1": [],
