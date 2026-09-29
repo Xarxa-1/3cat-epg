@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-28T22:17:12.364467+00:00",
+  "updated": "2026-09-29T02:08:28.309450+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-28T23:48:38+02:00",
-        "stop": "2026-09-29T00:26:24+02:00",
-        "title": "Xefs: noves generacions",
-        "subtitle": "Moha Quach (Restaurant El Terrat by Quach)",
-        "description": "Moha Quach construeix a El Terrat una cuina profundament personal, nascuda dels records d'infància al Rif marroquí i arrelada a Tarragona i al Mediterrani. El capítol recorre el seu viatge vital i creatiu, des de la cuina de l'àvia i l'hort familiar fins a una proposta contemporània que dialoga amb la cuina catalana, el Marroc i l'herència de l'antiga Roma. Format en cuines d'alta exigència, com Disfrutar, integra tècnica, rigor històric i producte de proximitat. El capítol mostra amb una mirada íntima un xef inquiet i reconegut, que ha creat un univers propi.",
-        "genre": "SÈRIE DOCUMENTAL",
+        "start": "2026-09-29T04:00:00+02:00",
+        "stop": "2026-09-29T05:00:00+02:00",
+        "title": "Blues a l'estudi",
+        "subtitle": "The Birdie Num Num Trio",
+        "description": "Aquest projecte ens proposa un viatge en el temps, portant-nos a l'època daurada dels grans trios de soul-jazz dels anys seixanta, com el trio de Ramsey Lewis o el de Les McCan. Jules Bikoko, al contrabaix; Caspar St.Charles, a la bateria, i Xavi Algans, al piano, aconsegueixen un so contundent i ple de dinàmiques.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-29T00:26:24+02:00",
-        "stop": "2026-09-29T01:04:19+02:00",
-        "title": "Xefs: noves generacions",
-        "subtitle": "Toni Solans i David Romero (Restaurant Mantis)",
-        "description": "El Toni i el David són el motor creatiu de Mantis, un restaurant d'autor jove i inconformista construït des de la llibertat creativa i el respecte pel producte. Es van conèixer a l'escola Hofmann i, després de trajectòries divergents en cuines d'alta exigència, van retrobar-se durant la pandèmia amb Mosk, un projecte clandestí que va funcionar com a espai de prova i llibertat per crear la base del que avui és Mantis. No creuen en etiquetes i la seva cuina beu d'influències d'arreu del món, sobretot orientals. A Mantis, el joc conviu amb el rigor tècnic, fruit de dos caràcters oposats però profundament complementaris.",
-        "genre": "SÈRIE DOCUMENTAL",
+        "start": "2026-09-29T05:00:00+02:00",
+        "stop": "2026-09-29T06:00:00+02:00",
+        "title": "Jazz a l'estudi",
+        "subtitle": "Xavi Maureta",
+        "description": "Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. ",
+        "genre": "JAZZ",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-29T00:00:00+02:00",
-        "stop": "2026-09-29T00:30:00+02:00",
+        "start": "2026-09-29T01:00:00+02:00",
+        "stop": "2026-09-29T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-09-29T00:30:00+02:00",
-        "stop": "2026-09-29T01:00:00+02:00",
+        "start": "2026-09-29T06:00:00+02:00",
+        "stop": "2026-09-29T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-28T23:00:00+02:00",
-        "stop": "2026-09-29T00:31:00+02:00",
-        "title": "Onze",
-        "subtitle": "Final de campanya; sanció al City i 'El colegiado'",
-        "description": "Carles Fité, Aina Cerdà, Xavi Torres i Jordi Martí comenten com està la votació de la pilota d'or l'últim dia de les votacions. En Joan Fàbregas analitza les polèmiques de la jornada de Nations League.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-09-29T02:39:10+02:00",
+        "stop": "2026-09-29T04:09:15+02:00",
+        "title": "Tot Costa",
+        "subtitle": "Lamine té rival?",
+        "description": "Avui es tanquen les votacions per a la Pilota d'Or. Ho analitzem amb Dani Senabre, Marcos López i Mireia Ruiz. Amb Roger Arbusà expliquem l'última hora d'Eric Garcia i Adeyemi. Laia Tudel parlarà dels no internacionals i també ens visita Albert Om per donar el seu punt de vista barcelonista de l'aturada de tres setmanes. Amb Marta Ferrer ens endinsem en la sèrie documental sobre Mourinho. ",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       },
       {
-        "start": "2026-09-29T00:31:00+02:00",
-        "stop": "2026-09-29T00:52:15+02:00",
+        "start": "2026-09-29T04:09:15+02:00",
+        "stop": "2026-09-29T04:25:38+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,41 +103,41 @@
     ],
     "sx3": [
       {
-        "start": "2026-09-29T00:08:55+02:00",
-        "stop": "2026-09-29T00:29:04+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El què de les praderies",
-        "description": "Un tornado sorprèn la Tortuga en ple vol i tots els membres de l'equip han de saltar de la nau i queden dispersats per la praderia. Saben que per tornar-se a reunir s'han de trobar en un lloc on visqui un dels animals de la praderia, però resulta que cadascun en busca un de diferent. Així aniran coneixent la fauna d'aquest hàbitat.",
+        "start": "2026-09-29T04:07:55+02:00",
+        "stop": "2026-09-29T04:29:55+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Passió",
+        "description": "La Marinette intenta convence's que estima el Gat Noir per treure's l'Adrien del cap. L'Adrien, que ha renunciat a estimar Ladybug, intenta trobar la manera de declarar els seus sentiments a la Marinette. Quan tot se'ls hi capgira, Ladybug i el Gat Noir intercanvien els seus prodigis per fugir d'una malvada despietada. Però el retorn de Mister Bug encara farà que Lady Noire tingui les coses menys clares.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-29T00:29:04+02:00",
-        "stop": "2026-09-29T00:49:43+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El misteri de la praderia",
-        "description": "El Martin i el Chris veuen que, en un arbust espinós, algú ha clavat a les punxes tot de llagostes i escarabats, i llavors decideixen emprendre una aventura per resoldre aquest nou misteri de la natura: quin és l'animal que té aquest hàbit tan estrany i per què ho fa? El que descobreixen és que es tracta d'un curiós ocell, el botxí, un rapinyaire que no utilitza les urpes com els altres, sinó el bec, i que té el costum de guardar-se reserves de menjar.",
+        "start": "2026-09-29T04:29:55+02:00",
+        "stop": "2026-09-29T04:41:50+02:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "Un cau molt desitjat",
+        "description": "La Guineta i la Castina descobreixen un cau fantàstic que una vegada ben arreglat podria servir per allotjar el pare de la Guineta quan la ve a veure. Però la cosa es complica, quan en Pinxo i en Timbal també el descobreixen i el volen convertir en una sala de jocs.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-29T00:02:05+02:00",
-        "stop": "2026-09-29T00:50:13+02:00",
-        "title": "Aeroport",
-        "subtitle": "MWC i rics",
-        "description": "El Mobile World Congress augmenta la pressió de l'aeroport perquè en poques hores hi passen més de 50.000 persones. S'incrementen els vols privats i els passatgers VIPs disposen de tota mena de luxes a les sales exclusives, fins i tot, de perruqueria. VIPs i famosos que generen expectació, com Neymar quan arriba a la terminal.",
-        "genre": "Docu-Entreteniment",
+        "start": "2026-09-29T03:40:25+02:00",
+        "stop": "2026-09-29T04:10:47+02:00",
+        "title": "Arts i oficis",
+        "subtitle": "Galeristes",
+        "description": "La relació amb els artistes és una part important de la professió de galerista però no n'és l'única. També cal tenir cura dels col·leccionistes que s'apropen a les galeristes a la recerca d'assessorament i complicitat. Exercir aquest ofici requereix doncs entendre els mecanismes de la creativitat i del mercat de l'Art. Cal tenir curiositat, iniciativa i una contant formació. El Màster d'Art Actual de la Universitat de Barcelona ofereix formació contínua per aquelles persones que volen disposar de les claus que descodifiquen els mecanismes de gestió del sector.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-29T00:50:13+02:00",
-        "stop": "2026-09-29T01:20:13+02:00",
-        "title": "No tenim vergonya",
-        "subtitle": "",
-        "description": "'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.",
-        "genre": "REPORTATGES",
+        "start": "2026-09-29T04:10:47+02:00",
+        "stop": "2026-09-29T04:32:12+02:00",
+        "title": "Caçadors de paraules",
+        "subtitle": "Parlem del temps",
+        "description": "El temps meteorològic és el nucli d'aquest capítol del programa en què en Roger de Gràcia recorre Catalunya buscant les paraules amb què els catalans ens esplaiem sobre el que aparentment és un dels nostres temes preferits de conversa. Així, viatja a la Segarra per comprovar que els meteoròlegs més experts són els pagesos; al Ripollès ¿la comarca més plujosa- per saber com en diem de l'aigua que cau; a Andorra, a buscar els noms de la neu. I a Palamós, per fer-se a la mar amb una família de pescadors experts en els noms dels vents. I per acabar, intentarà aclarir el significat d'algunes paraules meteorològiques que la televisió ha convertit en habituals gràcies als homes i les dones del temps de TV3. ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
