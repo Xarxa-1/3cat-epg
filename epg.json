@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-29T23:22:42.287313+00:00",
+  "updated": "2026-09-30T02:14:50.360110+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,22 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-30T00:41:58+02:00",
-        "stop": "2026-09-30T02:22:18+02:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
+        "start": "2026-09-30T04:00:00+02:00",
+        "stop": "2026-09-30T05:00:04+02:00",
+        "title": "Blues a l'estudi",
+        "subtitle": "The Walking Stick Man",
+        "description": "L'ànima d'aquest projecte és el multiinstrumentista i compositor barceloní Jordi Llaurens. Amb una densa trajectòria i desenes de col·laboracions amb el grans noms del blues com Alvin Young Blood Heart, James Harman o Barrel-House Chuck. Jordi Llaurens ens visita avui al programa, acompanyat de David Giorcelli, Reginald Vilardell, Josep Martí i Llorenç Barceló.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-30T02:22:18+02:00",
-        "stop": "2026-09-30T04:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-09-30T05:00:04+02:00",
+        "stop": "2026-09-30T06:00:00+02:00",
+        "title": "Jazz a l'estudi",
+        "subtitle": "Francesc Capella",
+        "description": "Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. ",
+        "genre": "JAZZ",
+        "image": ""
       }
     ],
     "324": [
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-30T00:51:09+02:00",
-        "stop": "2026-09-30T02:21:33+02:00",
-        "title": "Onze",
-        "subtitle": "Ensurt Raphinha; 'Onzeclopèdia' i 'El consultori'",
-        "description": "Juvenal Edjogo, Fernando Polo, Irati Vidal i Ivan San Antonio comenten la lesió de Raphinha en l'amistós del Brasil. En Fran Domènech presenta els titulats més curiosos de la premsa esportiva. En Sergi Ferrer respon les consultes dels espectadors de l'Onze.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
-      },
-      {
-        "start": "2026-09-30T02:21:33+02:00",
-        "stop": "2026-09-30T02:41:18+02:00",
+        "start": "2026-09-30T04:00:51+02:00",
+        "stop": "2026-09-30T04:20:29+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+      },
+      {
+        "start": "2026-09-30T04:20:29+02:00",
+        "stop": "2026-09-30T06:02:10+02:00",
+        "title": "E3D",
+        "subtitle": "Scooter Street / Extreme Barcelona / Final masculina",
+        "description": "Final masculina d'scootering street a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-30T01:19:46+02:00",
-        "stop": "2026-09-30T01:31:03+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Joc, set i partit per les germanes",
-        "description": "La Wendy guanya dues entrades per anar a una final d'un torneig de tenis. La Marine i la seva mare volen acompanyar-la a veure el partit, però la Wendy s'estima més convidar-hi el Maxence. Mare i filla fan servir totes les seves armes per seduir la Wendy i convèncer-la que les deixi anar amb ella. Mentrestant, la Wendy s'aprofita de la situació...",
+        "start": "2026-09-30T03:55:47+02:00",
+        "stop": "2026-09-30T04:17:25+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Perfecció",
+        "description": "Què faria la Marinette sense els seus amics? Tota la colla han decidit fer el que puguin per ajudar-la a acostar-se a l'Adrien. Aquesta vegada, els ha de sortir bé. Però la Marinette sempre és capaç de sorprendre. Ningú li ha explicat res i ningú sap que ella també té un pla infal·lible per dir-li a l'Adrien el que sent per ell. Tots descobriran que és millor dir les coses clares als amics per evitar malentesos... que podrien provocar que algú acabés akumatitzat!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-30T01:31:03+02:00",
-        "stop": "2026-09-30T01:50:59+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Emporteu-vos aquest lladre! Sisplau!",
-        "description": "El Team Rocket comença a estar tip que el Morpeko es mengi constantment tot el seu menjar. Quan la gana es torna insuportable, el James accedeix a dur el Morpeko a les muntanyes i abandonar-lo. Però, com de costum, al Morpeko això no li sembla gens bé! Després de nombrosos intents fallits perquè el Goh capturi el Pokémon sempre afamat, com ara un improvisat concurs d'endrapar entre el Greedent i el Morpeko, el Team Rocket aconsegueix desfer-se del Morpeko. Però quan el James sent que els crida, la seva naturalesa empàtica i de bon cor l'empeny a capturar-lo, cosa que el converteix en un membre més del Team Rocket... i també en el que té més gana! ",
+        "start": "2026-09-30T04:17:25+02:00",
+        "stop": "2026-09-30T04:39:07+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Migració",
+        "description": "El Luka és moltes coses. A banda de ser el germà bessó de la Juleka, també és com un germà gran per tots els seus amics, inclosos la Marinette i l'Adrien. A tots dos els hi agrada demanar-li consell, perquè en el Luca sempre hi troben paraules reconfortants. A més, el Luka és el guitarrista del grup Kitty Section i és fill d'un famós. Precisament això atraurà l'interès de l'empresari discogràfic Bob Roth, que està disposat a qualsevol cosa per fer diners. Però el Bob Roth subestima el Luka, que està disposat a qualsevol cosa per defensar els seus amics i els seus valors.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-30T00:31:27+02:00",
-        "stop": "2026-09-30T01:30:12+02:00",
-        "title": "Rick Stein: De Venècia a Istanbul",
-        "subtitle": "Venècia",
-        "description": "El nou viatge culinari d'en Rick Stein comença a Venècia, una ciutat que coneix bé i adora per la seva senzilla i fabulosa gastronomia, que va incorporar les espècies gràcies al comerç amb Bizanci. En Rick recorrerà tot Venècia per terra i per la llacuna, visitarà el mercat de Rialto, el Lido o la Giudecca, i degustarà moltíssims menjars, com els 'cicchetti' -tapes venecianes-, els espaguetis 'alle vongole' o el fetge a la veneciana. I cuinarà nyoquis amb cranc, un tiramisú i un 'risotto' de marisc.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-09-30T03:47:36+02:00",
+        "stop": "2026-09-30T04:27:01+02:00",
+        "title": "km33",
+        "subtitle": "Uapskushish, el petit núvol blanc",
+        "description": "La Rosa i la Maite se'n van al Quebec seduïdes per la seva impressionant natura. Totes dues comparteixen la passió de muntar a cavall. Veuran balenes i aniran en canoa amb els indis autòctons. Visitaran la cosmopolita Mont-real i la històrica ciutat de Quebec. I, a més a més: el Quebec dins el Canadà, esports d'aventura, i les primeres nacions.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-09-30T01:30:12+02:00",
-        "stop": "2026-09-30T03:06:29+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Falses aparences",
-        "description": "FALSES APARENCES 'Faux-semblants'Direcció: Akim IskerGuió: Isabelle Polin, Frédéric J. LozetProducció: Les Films du Printemps, France TV, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Région des Pays-de-la-Loire, CNCAny: 2020Durada: 97País: FrançaMúsica: Éric NeveuxFotografia: Emmanuel de FleuryIntèrprets: Thierry Godard, Noémie Schmidt, Francis Renaud, Marc Ruchmann, Laurent Bateau, Steve Tientcheu, Thor Schenker, Thomas Drelon, Gigi Ledron, Florence Janas, Félicien Juttner, Elisa Sergent, Caroline Piette, Erika Vandelet, Étienne MénardLa jove capitana Valentine Ventura, de la divisió econòmica de la policia, s'incorpora a la brigada criminal per treballar al costat del famós comandant Antoine Thomas, que acaba de reprendre l'activitat després d'un terrible accident de cotxe que el va deixar en cadira de rodes. Tots dos policies investiguen l'assassinat d'una jove periodista de Nantes, que sembla que estigui relacionat amb dues altres morts. Tot indica que es troben davant d'un assassí en sèrie, però la Valentine aviat sospita que les aparences enganyen.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia//jpg/4/0/1787303035004.jpg"
+        "start": "2026-09-30T04:27:01+02:00",
+        "stop": "2026-09-30T04:48:32+02:00",
+        "title": "Caçadors de paraules",
+        "subtitle": "Catalunya beu",
+        "description": "A diferència d'alguns dels nostres veïns, que beuen el cap de setmana fins a caure inconscients, amagant les ampolles en bosses de plàstic, els catalans som bebedors de fons. Roger de Gràcia dedica un dia de la seva vida a fer de bevedor passiu, des que es lleva fins que se'n va a dormir, desxifrant totes les paraules que envolten el món de la beguda autòctona, de punta a punta del país. Cava o xampany, cigalons i barreges, licors, estomacals, còctels, vins i fins i tot aigües seran l'objectiu d'un capítol que ens pot deixar una bona ressaca.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
