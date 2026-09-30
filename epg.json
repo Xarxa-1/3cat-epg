@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-30T15:18:34.973117+00:00",
+  "updated": "2026-09-30T20:11:39.085648+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-30T16:46:15+02:00",
-        "stop": "2026-09-30T17:25:01+02:00",
-        "title": "La Riera",
-        "subtitle": "",
-        "description": "En Claudi convenç la Lídia per anar junts a presentar a l'Estel el projecte de la Pineda. Serà desagradable. Per la seva banda, la Txell deixa clar a en Mauri que està disposada a ajudar la Sònia a desemmascarar-lo. A can Riera, l'Ernest no aguanta la situació i, per fi, es rebel·la contra la decisió de la mare. Al mateix temps, la Maribel descobreix què és el que amaga en Daniel.",
-        "genre": "TELENOVEL·LA",
+        "start": "2026-09-30T22:11:38+02:00",
+        "stop": "2026-09-30T23:33:12+02:00",
+        "title": "Soc i Seré",
+        "subtitle": "Un territori amb història",
+        "description": "Després de sobreviure a la primera eliminació, 50 aspirants continuen a la competició i s'hauran d'enfrontar als seus antics aliats. En aquest capítol, es dividiran en 5 equips formats per 10 persones, i cada equip durà el nom d'un emblemàtic cim català.Al repte d'avantatge, els aspirants es mouran Amunt i Avall per demostrar que dominen les dades geogràfiques més rellevants de Catalunya, però l'expulsió es decidirà amb el primer repte d'història que s'ha fet mai a 'Soc i seré'. Els equips viatjaran a diferents etapes del passat del nostre país per posar Cada cosa al seu temps.Un dels 5 equips se'n tornarà cap a casa, mentre que les 10 persones que guanyin el repte eliminatori ompliran la seva butxaca persona amb 10.000 euros més.Quin equip serà el més resolutiu en aquesta segona etapa del programa? I qui, d'entre els que se'n vagin, tindrà l'oportunitat de tornar al concurs?",
+        "genre": "CONCURS",
         "image": ""
       },
       {
-        "start": "2026-09-30T17:25:01+02:00",
-        "stop": "2026-09-30T17:34:19+02:00",
-        "title": "CUINES CATALUNYA",
-        "subtitle": "Mongeta tendra amb salsa de formatge",
-        "description": "Si voleu que els llegums i les verdures triomfin tant com la pasta, un bon truc és cuinar-les com ho faríeu amb uns espaguetis o uns macarrons. Aquesta mongeta tendra amb salsa de formatge n'és la prova.",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-09-30T23:33:12+02:00",
+        "stop": "2026-10-01T00:31:46+02:00",
+        "title": "País d'altura",
+        "subtitle": "Pirineus",
+        "description": "Els Pirineus són una frontera de muntanyes gegants i vides a gran altitud. Pobles penjats del mapa, cims que toquen el cel i gent que viu més a prop dels núvols que dels embussos.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-09-30T17:00:00+02:00",
-        "stop": "2026-09-30T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-09-30T22:05:00+02:00",
+        "stop": "2026-10-01T00:00:00+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       },
       {
-        "start": "2026-09-30T18:30:00+02:00",
-        "stop": "2026-09-30T20:00:00+02:00",
+        "start": "2026-10-01T00:00:00+02:00",
+        "stop": "2026-10-01T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,66 +83,76 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-30T17:18:16+02:00",
-        "stop": "2026-09-30T17:39:17+02:00",
-        "title": "Thalassa curts",
-        "subtitle": "Joan Vehí, la mirada de Cadaqués",
-        "description": "",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-30T21:17:08+02:00",
+        "stop": "2026-09-30T22:09:48+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Bàsquet Girona-Emlak Konut / Euroleague / Prèvia",
+        "description": "L'Spar es juga l'accés a la màxima competició continental en aquesta eliminatòria prèvia, a un sol partit, contra el conjunt turc.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/9/1790606432091.jpg"
       },
       {
-        "start": "2026-09-30T17:39:17+02:00",
-        "stop": "2026-09-30T18:40:00+02:00",
-        "title": "Esport Club",
-        "subtitle": "Roma-Barça, exhibició de Lamine i Queralt Casas",
-        "description": "Avui, Roma-Barça de Champions per TV3. Raphinha torna cap a Barcelona. Exhibició de Lamine Yamal a Sevilla. En parlem amb l'Àlex Delmàs. Què és la llei Wenger? Ens ho explica Joan Fàbregas. Entrevistem Queralt Casas, jugadora de l'Spar Girona. A la tertúlia ens acompanyen Dani Senabre, Frederic Porta i Gemma Mallorca.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-09-30T22:09:48+02:00",
+        "stop": "2026-09-30T22:33:54+02:00",
+        "title": "Futbol",
+        "subtitle": "AS Roma-FC Barcelona / Champions League / J2",
+        "description": "Les blaugranes visiten la capital d'Itàlia en el primer desplaçament a la fase de lliga. Després de golejar el París FC, per 5 a 2, hi van a la recerca d'una nova victòria per seguir a la zona de privilegi.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-30T17:12:06+02:00",
-        "stop": "2026-09-30T17:23:26+02:00",
-        "title": "Titó",
-        "subtitle": "Excursió amb eriçons",
-        "description": "Avui anirem d'excursió amb un animaló molt bufó: un eriçó! Té el cos cobert de punxes i per protegir-se es fa una bola. Vols saber què has de fer si et trobes un eriçó? Avui ho descobrirem!",
-        "genre": "ALTRES",
+        "start": "2026-09-30T22:01:15+02:00",
+        "stop": "2026-09-30T22:22:36+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "En Conan cau per un penya-segat (1a part)",
+        "description": "Un lladre anomenat El Zorro i la seva banda cometen un robatori i maten tres persones. En Yuji Isehara, un dels membres de la banda, fuig perquè no sabia que actuarien amb tanta violència. En Conan i la Lliga de Detectius Júnior van a passar un cap de setmana en una casa al camp i s'hi troben en Fuji al jardí, malferit. En un moment determinat, en Conan, per salvar-li la vida, arriscarà la seva.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-30T17:23:26+02:00",
-        "stop": "2026-09-30T17:34:45+02:00",
-        "title": "A jugar! Amb en Titó i els Fa la la",
-        "subtitle": "A jugar amb bolets",
-        "description": "Buscar bolets a la tardor és molt divertit, però encara ho seria més si els bolets poguessin moure's... així jugaríem a fet i amagar amb ells! Per sort, amb la màgia de la banyeta del Ruquicorn tot és possible.",
-        "genre": "ALTRES",
+        "start": "2026-09-30T22:22:36+02:00",
+        "stop": "2026-09-30T22:40:55+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "En Conan cau per un penya-segat (2a part)",
+        "description": "Per salvar en Yuji Isehara de la banda del Zorro, en Conan es llança daltabaix d'un penya-segat i desapareix. La Ran i companyia no se'n saben avenir i no es volen ni imaginar la possibilitat d'haver perdut el seu amic, però, en realitat, tothom el dona per mort. La pròxima a desaparèixer és l'Ai, que rep un missatge que podria ser el principi de la salvació del seu amic de l'ànima.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-30T17:05:21+02:00",
-        "stop": "2026-09-30T17:47:46+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Nairobi",
-        "description": "Nairobi és la ciutat amb el creixement més ràpid del món. Raó per la qual en Tom l'ha inclòs en la seva llista de grans ciutats del món. El seu dinamisme i innovació deixaran enlluernat a en Tom, i alhora, es trobarà amb els grans reptes d'aquest creixement imparable: la lluita per sortir de la pobresa i per protegir una naturalesa amenaçada.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-30T22:05:36+02:00",
+        "stop": "2026-09-30T22:58:00+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Les ulleres de sol",
+        "description": "No, les ulleres de sol no les van inventar els americans, que el senyor Ray-Ban i els pilots d'avió ianquis les posessin de moda és un altre tema. També ens visita un berguedà il·lustre, en Titot dels Brams, que han tornat després d'estar 8 anys aparats dels escenaris. Per passejar el quisso ens traslladem a la Cuba colonial, en els espanyols tenien un desgavell de cal Déu. Només hi faltaven els estatunidencs traient el nas.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-09-30T17:47:46+02:00",
-        "stop": "2026-09-30T18:33:17+02:00",
-        "title": "Viatges insòlits",
-        "subtitle": "Bombai",
-        "description": "La població de l'Índia ha crescut exponencialment en els últims anys i també s'ha anat concentrant a les zones urbanes, la qual cosa ha fet esclatar el nombre d'habitants de ciutats com Bombai. A més, en aquest cas, a causa de la seva situació geogràfica la ciutat no pot créixer gaire, de manera que té una densitat de població altíssima. En Tom la visita en època de pluges, i es passa la major part del temps remullat mentre descobreix els grans contrastos entre rics i pobres, el sorprenent dia a dia dels suburbis on tothom somia amb una vida millor, el menjar picant i la pràctica de disciplines antigues com esports tradicionals o el ioga del riure.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-09-30T22:58:00+02:00",
+        "stop": "2026-10-01T00:54:48+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Match point",
+        "description": "MATCH POINT (Match point)Idioma versió original: anglèsProducció: BBC Films, Thema Productions i Jada Productions, 2005 (Gran Bretanya i Estats Units)Direcció i guió: Woody AllenDurada: 122 minutsFotografia: Remi Adefarasin (color)Intèrprets: Jonathan Rhys-Meyers (Chris Wilton), Scarlett Johansson (Nola), Matthew Goode (Tom Hewett), Emily Mortimer (Chloe Hewett), Brian Cox (Alex Hewett), Penelope Wilson (Eleanor Hewett)Dramàtica història sobre l'ascens d'un jove en la societat londinenca i de les terribles conseqüències de la seva ambició. Chris Wilton és un professor de tennis que dóna classes a Tom Hewett, un jove molt ric. Chloe, la germana de Tom, s'enamora de Chris i es casen. Però Chris i la nòvia de Tom, una actriu nord-americana, es fan amants. La noia queda embarassada i Chris es trobarà en un carreró sense sortida.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia//jpg/3/9/1787666178593.jpg"
       }
     ],
     "oca1": [],
-    "oca2": [],
+    "oca2": [
+      {
+        "start": "2026-09-30T20:10:00+02:00",
+        "stop": "2026-09-30T22:09:55+02:00",
+        "title": "Bàsquet",
+        "subtitle": "- Bàsquet Girona-Emlak Konut / Euroleague / Prèvia",
+        "description": "L'Spar es juga l'accés a la màxima competició continental en aquesta eliminatòria prèvia, a un sol partit, contra el conjunt turc.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/9/1790606432091.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
