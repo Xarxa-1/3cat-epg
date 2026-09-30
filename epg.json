@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-30T20:11:39.085648+00:00",
+  "updated": "2026-09-30T23:49:01.982194+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-09-30T22:11:38+02:00",
-        "stop": "2026-09-30T23:33:12+02:00",
-        "title": "Soc i Seré",
-        "subtitle": "Un territori amb història",
-        "description": "Després de sobreviure a la primera eliminació, 50 aspirants continuen a la competició i s'hauran d'enfrontar als seus antics aliats. En aquest capítol, es dividiran en 5 equips formats per 10 persones, i cada equip durà el nom d'un emblemàtic cim català.Al repte d'avantatge, els aspirants es mouran Amunt i Avall per demostrar que dominen les dades geogràfiques més rellevants de Catalunya, però l'expulsió es decidirà amb el primer repte d'història que s'ha fet mai a 'Soc i seré'. Els equips viatjaran a diferents etapes del passat del nostre país per posar Cada cosa al seu temps.Un dels 5 equips se'n tornarà cap a casa, mentre que les 10 persones que guanyin el repte eliminatori ompliran la seva butxaca persona amb 10.000 euros més.Quin equip serà el més resolutiu en aquesta segona etapa del programa? I qui, d'entre els que se'n vagin, tindrà l'oportunitat de tornar al concurs?",
-        "genre": "CONCURS",
-        "image": ""
-      },
-      {
-        "start": "2026-09-30T23:33:12+02:00",
-        "stop": "2026-10-01T00:31:46+02:00",
-        "title": "País d'altura",
-        "subtitle": "Pirineus",
-        "description": "Els Pirineus són una frontera de muntanyes gegants i vides a gran altitud. Pobles penjats del mapa, cims que toquen el cel i gent que viu més a prop dels núvols que dels embussos.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-09-30T22:05:00+02:00",
-        "stop": "2026-10-01T00:00:00+02:00",
+        "start": "2026-10-01T00:30:00+02:00",
+        "stop": "2026-10-01T02:15:08+02:00",
         "title": "Mésnit",
         "subtitle": "",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
@@ -72,8 +52,28 @@
         "image": ""
       },
       {
-        "start": "2026-10-01T00:00:00+02:00",
-        "stop": "2026-10-01T00:30:00+02:00",
+        "start": "2026-10-01T02:15:08+02:00",
+        "stop": "2026-10-01T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-10-01T01:00:00+02:00",
+        "stop": "2026-10-01T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-01T06:00:00+02:00",
+        "stop": "2026-10-01T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,76 +83,66 @@
     ],
     "esport3": [
       {
-        "start": "2026-09-30T21:17:08+02:00",
-        "stop": "2026-09-30T22:09:48+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Bàsquet Girona-Emlak Konut / Euroleague / Prèvia",
-        "description": "L'Spar es juga l'accés a la màxima competició continental en aquesta eliminatòria prèvia, a un sol partit, contra el conjunt turc.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/9/1790606432091.jpg"
+        "start": "2026-10-01T00:50:23+02:00",
+        "stop": "2026-10-01T02:21:30+02:00",
+        "title": "Onze",
+        "subtitle": "Rendits a Lamine; Cristiano explota i 'El predicador'",
+        "description": "Lluís Carrasco, Jordi Costa, Gemma Mallorca i Jofre Mateu opinen sobre el gran moment de forma de Lamine Yamal i l'abandonament de Ronaldo de la concentració de Portugal. L'Òscar Pérez-Dolz predica els manaments del bon culer.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-09-30T22:09:48+02:00",
-        "stop": "2026-09-30T22:33:54+02:00",
-        "title": "Futbol",
-        "subtitle": "AS Roma-FC Barcelona / Champions League / J2",
-        "description": "Les blaugranes visiten la capital d'Itàlia en el primer desplaçament a la fase de lliga. Després de golejar el París FC, per 5 a 2, hi van a la recerca d'una nova victòria per seguir a la zona de privilegi.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"
+        "start": "2026-10-01T02:21:30+02:00",
+        "stop": "2026-10-01T02:39:50+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-09-30T22:01:15+02:00",
-        "stop": "2026-09-30T22:22:36+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "En Conan cau per un penya-segat (1a part)",
-        "description": "Un lladre anomenat El Zorro i la seva banda cometen un robatori i maten tres persones. En Yuji Isehara, un dels membres de la banda, fuig perquè no sabia que actuarien amb tanta violència. En Conan i la Lliga de Detectius Júnior van a passar un cap de setmana en una casa al camp i s'hi troben en Fuji al jardí, malferit. En un moment determinat, en Conan, per salvar-li la vida, arriscarà la seva.",
+        "start": "2026-10-01T01:29:07+02:00",
+        "stop": "2026-10-01T01:49:03+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "El líder aprèn a liderar!",
+        "description": "Quan el professor Cirerer parla d'un Pokémon que es diu Falinks, l'Ash i el Goh s'animen a anar a la regió de Galar a investigar-lo. Un Falinks el formen sis individus que es mouen junts com un sol Pokémon: el líder dona ordres i els subalterns les segueixen. Però llavors, els nostres amics troben un Falinks que té dificultats per coordinar-se. La solució? Practicar. El Goh i els seus Pokémon entrenen el líder mentre els subalterns proven de seguir el Pikachu. Però quan es tornen a ajuntar, apareix un Eiscue esgarriat disposat a combatre.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-09-30T22:22:36+02:00",
-        "stop": "2026-09-30T22:40:55+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "En Conan cau per un penya-segat (2a part)",
-        "description": "Per salvar en Yuji Isehara de la banda del Zorro, en Conan es llança daltabaix d'un penya-segat i desapareix. La Ran i companyia no se'n saben avenir i no es volen ni imaginar la possibilitat d'haver perdut el seu amic, però, en realitat, tothom el dona per mort. La pròxima a desaparèixer és l'Ai, que rep un missatge que podria ser el principi de la salvació del seu amic de l'ànima.",
+        "start": "2026-10-01T01:49:03+02:00",
+        "stop": "2026-10-01T02:08:59+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "A la nit? Malsons!",
+        "description": "Arriben informes que expliquen que els habitants de la regió de Sinnoh tenen malsons. El professor Cirerer sospita que el Darkrai hi pot tenir alguna cosa a veure, i l'Ash i el Goh se'n van a investigar-ho. Mentrestant, la Chloe se'n va sola de vacances perquè la família no hi pot anar. L'Ash i el Goh descobreixen que el Darkrai ronda pel voltant d'un bosc de Sinnoh, on el Team Rocket té ordres de capturar una Cresselia, que han localitzat al mateix bosc. Al bosc, la Chloe coneix la Maia i el Piplup, i accepta d'anar amb ells a Ciutat Vetusta.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-09-30T22:05:36+02:00",
-        "stop": "2026-09-30T22:58:00+02:00",
-        "title": "La Renaixença",
-        "subtitle": "Les ulleres de sol",
-        "description": "No, les ulleres de sol no les van inventar els americans, que el senyor Ray-Ban i els pilots d'avió ianquis les posessin de moda és un altre tema. També ens visita un berguedà il·lustre, en Titot dels Brams, que han tornat després d'estar 8 anys aparats dels escenaris. Per passejar el quisso ens traslladem a la Cuba colonial, en els espanyols tenien un desgavell de cal Déu. Només hi faltaven els estatunidencs traient el nas.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-10-01T00:54:50+02:00",
+        "stop": "2026-10-01T02:30:27+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "La increïble Elisa",
+        "description": "ASOMBROSA ELISAProducció de La Charito Films amb la participació de TV3.Director: Sadrac González-PerellónGuionista: Sadrac González-PerellónDirector fotografia: Iván RomeroIntèrprets: Silvia Abascal, Asier Etxeandia, Ivan Massagué i Jana San Antonio.SINOPSIElisa és una nena de dotze anys que, després de la mort accidental de la seva mare, intenta convèncer el seu pare que?posseeix els superpoders de la seva heroïna de còmic favorita, amb els quals pot venjar-se de qui va provocar l'accident mortal. ",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/7/1762796155872.jpg"
       },
       {
-        "start": "2026-09-30T22:58:00+02:00",
-        "stop": "2026-10-01T00:54:48+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Match point",
-        "description": "MATCH POINT (Match point)Idioma versió original: anglèsProducció: BBC Films, Thema Productions i Jada Productions, 2005 (Gran Bretanya i Estats Units)Direcció i guió: Woody AllenDurada: 122 minutsFotografia: Remi Adefarasin (color)Intèrprets: Jonathan Rhys-Meyers (Chris Wilton), Scarlett Johansson (Nola), Matthew Goode (Tom Hewett), Emily Mortimer (Chloe Hewett), Brian Cox (Alex Hewett), Penelope Wilson (Eleanor Hewett)Dramàtica història sobre l'ascens d'un jove en la societat londinenca i de les terribles conseqüències de la seva ambició. Chris Wilton és un professor de tennis que dóna classes a Tom Hewett, un jove molt ric. Chloe, la germana de Tom, s'enamora de Chris i es casen. Però Chris i la nòvia de Tom, una actriu nord-americana, es fan amants. La noia queda embarassada i Chris es trobarà en un carreró sense sortida.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia//jpg/3/9/1787666178593.jpg"
+        "start": "2026-10-01T02:30:27+02:00",
+        "stop": "2026-10-01T03:24:43+02:00",
+        "title": "Downton Abbey",
+        "subtitle": "Les maneres de Downton Abbey",
+        "description": "A través de l'historiador Alastair Bruce, aquest especial retrata les estrictes normes d'etiqueta que regien la vida a Downton Abbey. Les maneres eduardianes definien cada gest: com seure a taula, com vestir-se, com parlar, estimar o casar-se. Tant l'aristocràcia com els servents vivien sotmesos a un codi rigorós que mantenia l'ordre social, el poder i la reputació en un món ple de canvis. Un retrat fascinant d'un univers refinat, complex i profundament jeràrquic.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       }
     ],
     "oca1": [],
-    "oca2": [
-      {
-        "start": "2026-09-30T20:10:00+02:00",
-        "stop": "2026-09-30T22:09:55+02:00",
-        "title": "Bàsquet",
-        "subtitle": "- Bàsquet Girona-Emlak Konut / Euroleague / Prèvia",
-        "description": "L'Spar es juga l'accés a la màxima competició continental en aquesta eliminatòria prèvia, a un sol partit, contra el conjunt turc.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/9/1790606432091.jpg"
-      }
-    ],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
