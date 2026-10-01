@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-30T23:49:01.982194+00:00",
+  "updated": "2026-10-01T03:45:58.665367+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,17 +43,17 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-01T00:30:00+02:00",
-        "stop": "2026-10-01T02:15:08+02:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
+        "start": "2026-10-01T05:00:00+02:00",
+        "stop": "2026-10-01T06:00:00+02:00",
+        "title": "Jazz a l'estudi",
+        "subtitle": "Gabriel Amargant",
+        "description": "Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. ",
+        "genre": "JAZZ",
         "image": ""
       },
       {
-        "start": "2026-10-01T02:15:08+02:00",
-        "stop": "2026-10-01T04:00:00+02:00",
+        "start": "2026-10-01T06:00:00+02:00",
+        "stop": "2026-10-01T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-01T00:50:23+02:00",
-        "stop": "2026-10-01T02:21:30+02:00",
-        "title": "Onze",
-        "subtitle": "Rendits a Lamine; Cristiano explota i 'El predicador'",
-        "description": "Lluís Carrasco, Jordi Costa, Gemma Mallorca i Jofre Mateu opinen sobre el gran moment de forma de Lamine Yamal i l'abandonament de Ronaldo de la concentració de Portugal. L'Òscar Pérez-Dolz predica els manaments del bon culer.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-10-01T04:36:27+02:00",
+        "stop": "2026-10-01T06:14:29+02:00",
+        "title": "Bàsquet",
+        "subtitle": "PAOK-Kids&Us Manresa / Eurocup / J1",
+        "description": "Els del Bages visiten la ciutat grega de Tessalònica per debutar en una nova edició d'aquesta competició europea de bàsquet.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/7/1761644896070.jpg"
       },
       {
-        "start": "2026-10-01T02:21:30+02:00",
-        "stop": "2026-10-01T02:39:50+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-10-01T06:14:29+02:00",
+        "stop": "2026-10-01T06:38:52+02:00",
+        "title": "Espòiler",
+        "subtitle": "El Mercedes-Benz GLC, el Hyundai Ioniq 9 i la brutal Adria Supertwin",
+        "description": "En aquest capítol ens posem al volant del nou Mercedes-Benz GLC, un dels SUVs més populars de la marca alemanya que arriba en format 100% elèctric. També posem a prova el Hyundai Ioniq 9, un tot camí de disseny futurista i set places reals. A més, a la secció del caravaning provem l'Adria Supertwin, una camper d'estil off-road ideal per viure tot tipus d'aventures. ",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-01T01:29:07+02:00",
-        "stop": "2026-10-01T01:49:03+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "El líder aprèn a liderar!",
-        "description": "Quan el professor Cirerer parla d'un Pokémon que es diu Falinks, l'Ash i el Goh s'animen a anar a la regió de Galar a investigar-lo. Un Falinks el formen sis individus que es mouen junts com un sol Pokémon: el líder dona ordres i els subalterns les segueixen. Però llavors, els nostres amics troben un Falinks que té dificultats per coordinar-se. La solució? Practicar. El Goh i els seus Pokémon entrenen el líder mentre els subalterns proven de seguir el Pikachu. Però quan es tornen a ajuntar, apareix un Eiscue esgarriat disposat a combatre.",
+        "start": "2026-10-01T05:44:32+02:00",
+        "stop": "2026-10-01T05:47:15+02:00",
+        "title": "Looloo Kids (cançons)",
+        "subtitle": "Les pomes i els plàtans",
+        "description": "Ens nens canten la cançó de les pomes i els plàtans, però d'una manera molt divertida.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-01T01:49:03+02:00",
-        "stop": "2026-10-01T02:08:59+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "A la nit? Malsons!",
-        "description": "Arriben informes que expliquen que els habitants de la regió de Sinnoh tenen malsons. El professor Cirerer sospita que el Darkrai hi pot tenir alguna cosa a veure, i l'Ash i el Goh se'n van a investigar-ho. Mentrestant, la Chloe se'n va sola de vacances perquè la família no hi pot anar. L'Ash i el Goh descobreixen que el Darkrai ronda pel voltant d'un bosc de Sinnoh, on el Team Rocket té ordres de capturar una Cresselia, que han localitzat al mateix bosc. Al bosc, la Chloe coneix la Maia i el Piplup, i accepta d'anar amb ells a Ciutat Vetusta.",
+        "start": "2026-10-01T05:47:15+02:00",
+        "stop": "2026-10-01T05:49:06+02:00",
+        "title": "Looloo Kids (cançons)",
+        "subtitle": "M’estimo les muntanyes",
+        "description": "Els nens canten una cançó on expliquen que estimen molt la muntanya, les flors i les postes de sol.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-01T00:54:50+02:00",
-        "stop": "2026-10-01T02:30:27+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "La increïble Elisa",
-        "description": "ASOMBROSA ELISAProducció de La Charito Films amb la participació de TV3.Director: Sadrac González-PerellónGuionista: Sadrac González-PerellónDirector fotografia: Iván RomeroIntèrprets: Silvia Abascal, Asier Etxeandia, Ivan Massagué i Jana San Antonio.SINOPSIElisa és una nena de dotze anys que, després de la mort accidental de la seva mare, intenta convèncer el seu pare que?posseeix els superpoders de la seva heroïna de còmic favorita, amb els quals pot venjar-se de qui va provocar l'accident mortal. ",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/7/1762796155872.jpg"
+        "start": "2026-10-01T05:38:26+02:00",
+        "stop": "2026-10-01T05:47:05+02:00",
+        "title": "Gran!",
+        "subtitle": "'Antoni Tàpies'",
+        "description": "Pintor, escultor, escriptor i teòric, Antoni Tàpies va ser un dels artistes catalans més rellevants del segle XX. La seva obra contribuïa a reflexionar amb inventiva i llibertat sobre aspectes com la bellesa, l'espiritualitat o la condició humana. Com ell mateix deia: 'Un quadre s'ha de mirar amb netedat, esperant rebre el que ell et dona, no el que t'han ensenyat que ha de dir la pintura.' La celebració del centenari del seu naixement ens retroba amb el perfil d'aquest creador incansable, exponent de la pintura matèrica i un dels principals noms a nivell internacional de l'informalisme. ",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
       },
       {
-        "start": "2026-10-01T02:30:27+02:00",
-        "stop": "2026-10-01T03:24:43+02:00",
-        "title": "Downton Abbey",
-        "subtitle": "Les maneres de Downton Abbey",
-        "description": "A través de l'historiador Alastair Bruce, aquest especial retrata les estrictes normes d'etiqueta que regien la vida a Downton Abbey. Les maneres eduardianes definien cada gest: com seure a taula, com vestir-se, com parlar, estimar o casar-se. Tant l'aristocràcia com els servents vivien sotmesos a un codi rigorós que mantenia l'ordre social, el poder i la reputació en un món ple de canvis. Un retrat fascinant d'un univers refinat, complex i profundament jeràrquic.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "start": "2026-10-01T05:47:05+02:00",
+        "stop": "2026-10-01T05:52:04+02:00",
+        "title": "Xarxa Natura",
+        "subtitle": "Banyoles",
+        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
       }
     ],
     "oca1": [],
