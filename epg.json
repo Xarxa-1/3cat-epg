@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-01T21:49:15.417538+00:00",
+  "updated": "2026-10-02T01:15:20.956104+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-01T23:18:05+02:00",
-        "stop": "2026-10-01T23:54:22+02:00",
-        "title": "Departament Amades",
-        "subtitle": "L'home del sac",
-        "description": "La consellera Molló ho té tot a punt per tancar el departament. La Dolça intenta salvar-lo a la desesperada aturant l'home del sac, que ha tornat a empaitar criatures. Enmig de tot aquest caos, la Xènia té una cita amb el dimoni.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "start": "2026-10-02T02:20:41+02:00",
+        "stop": "2026-10-02T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-01T23:54:22+02:00",
-        "stop": "2026-10-02T00:35:45+02:00",
-        "title": "APM?",
-        "subtitle": "",
-        "description": "Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' un autèntic tòtem de la televisió de Catalunya, un veritable superman, el meteoròleg més polifacètic i sense pèls a la llengua (ni al cap): Tomàs Molina. Després de 40 anys ininterromputs a la casa, deixarà els mapes del temps orfes per ocupar el seu escó al Parlament Europeu. A l'entrevista parlaran del nou escó, de com de poc li agrada que l'imitin… i en Tomàs acabarà cantant sarsueles!Mentrestant, Nerea Sanfe segueix 'On falla!' visitant els racons del país que li suggereixen els nostres espectadors per Instagram. Aquest cop viatjarà fins al Fonoll, l'únic poble de Catalunya cent per cent nudista. I, com que a l''APM?' ens prenem molt seriosament la feina de camp, també el practicarà ella mateixa. A més, descobrirem per què fer topless s'ha convertit en un esport de risc. Com diria aquell savi: ¡Ueah, despelote!I a més, veurem el retorn de Carles Puigdemont a Catalunya per participar a 'La travessa VIP'; estrenarem l'spin-off de 'La bola negra' rodat a Vallbona amb el bo d'en Paco; i ens imaginarem com seria el nostre programa si mai deixéssim TV3 i comencéssim a emetre el nostre programa a Trump TV. #APM3CAT",
+        "start": "2026-10-02T04:00:00+02:00",
+        "stop": "2026-10-02T05:00:01+02:00",
+        "title": "Blues a l'estudi",
+        "subtitle": "The Suitcase Brothers",
+        "description": "Sens dubte, els germans Puertas són el millor duo de blues acústic de tot l'estat. Influïts per duos mítics com els de Sonny Terry i Brownie McGhee o Paul Rishell i Annie Raines. Els Suitcase han desenvolupat un estil propi, ple de força i sentiment. Pere Puertas, a la guitarra i la veu, i Víctor Puertas, a l'harmònica i la veu, són els fantàstics Suitcase Brothers.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/2/1442394916120.jpg"
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-01T22:05:00+02:00",
-        "stop": "2026-10-02T00:00:00+02:00",
-        "title": "Mésnit",
+        "start": "2026-10-02T01:00:00+02:00",
+        "stop": "2026-10-02T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-02T00:00:00+02:00",
-        "stop": "2026-10-02T00:30:00+02:00",
+        "start": "2026-10-02T06:00:00+02:00",
+        "stop": "2026-10-02T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-01T23:00:02+02:00",
-        "stop": "2026-10-02T00:31:29+02:00",
-        "title": "Onze",
-        "subtitle": "Guerra per Negreira; Mbappé de festa i 'El consultori'",
-        "description": "David Bernabeu, Víctor Lozano, Juli Garcia i Sique Rodriguez parlen de la guerra de comunicats entre Barça i Madrid pel cas Negreira. En Sergi Ferrer respon les consultes dels espectadors.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-10-02T02:34:13+02:00",
+        "stop": "2026-10-02T03:53:55+02:00",
+        "title": "Handbol",
+        "subtitle": "Barça-Veszprém / Mundial de Clubs / Final",
+        "description": "Els blaugranes, que dominen el palmarès d'aquest Mundial de clubs, aspiren al 7è títol. Com la temporada passada, el rival és el campió hongarès. En aquell precedent, el Barça es va imposar al Veszprém per 30-31 després d'un matx molt igualat i dues pròrrogues. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"
       },
       {
-        "start": "2026-10-02T00:31:29+02:00",
-        "stop": "2026-10-02T00:52:12+02:00",
+        "start": "2026-10-02T03:53:55+02:00",
+        "stop": "2026-10-02T04:08:24+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,41 +103,41 @@
     ],
     "sx3": [
       {
-        "start": "2026-10-01T23:44:04+02:00",
-        "stop": "2026-10-02T00:04:13+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Liturgusa Krattorium",
-        "description": "L'equip viatja a la selva del Perú per conèixer investigar una nova espècie de pregadéu que els científics han batejat amb el nom dels germans Kratt per homenatjar la tasca que fan per ajudar els animals. Els tres malvats de la sèrie (el Zach, la Donita i el Gormand) s'empipen i es moren d'enveja, i en aquesta ocasió, excepcionalment, s'aliaran per intentar, una vegada més, fer la guitza als nostres amics.",
+        "start": "2026-10-02T03:13:05+02:00",
+        "stop": "2026-10-02T03:35:16+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Conspiració",
+        "description": "S'acosta final de curs i es prepara una revolta. Al Monarca no li queda temps ni té gaires alternatives: decideix implementar un pla que és perillós per la seva identitat secreta i extremament perillós per Ladybug i el Gat Noir, també. Sense saber-ho, el malvat es beneficiarà de l'ajuda de la Lila, que controla d'amagat la Chloé, més dolenta que mai. Pel que fa a la Marinette, no sap que l'Adrien no s'atreveix a explicar-li un terrible secret que podria fer perillar la seva relació.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-02T00:04:13+02:00",
-        "stop": "2026-10-02T00:24:22+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Energia de panda",
-        "description": "Els germans Kratt i tot l'equip se'n van d'expedició a la Xina per estudiar els óssos panda i fer-ne un recompte, ja que estan en perill d'extinció, i l'Aviva es posa molt contenta perquè és un animal que li agrada molt. Com sempre, s'hauran d'enfrontar amb un dels malvats. El Zach vol capturar els pandes i convertir-los en ninots de peluix vius robotitzats, i quan deixa els nostres herois sense energia per fer anar els vehicles, ells s'inspiren en el panda per trobar una energia alternativa.",
+        "start": "2026-10-02T03:35:16+02:00",
+        "stop": "2026-10-02T03:57:18+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Revolució",
+        "description": "La Chloé és més poderosa que mai i, gràcies a ella, el Monarca també. Ladybug i el Gat Noir exhibeixen els seus superpoders sense sospitar que acaben de caure en una trampa malvada. Pel que fa a la Marinette i l'Adrien, les seves vides estan a punt de canviar per sempre.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-01T22:52:04+02:00",
-        "stop": "2026-10-01T23:49:49+02:00",
-        "title": "Un planeta perfecte",
-        "subtitle": "Humans",
-        "description": "L'activitat humana ha afectat la majoria dels hàbitats del planeta. En aquest episodi, 'la història més important del nostres temps' en paraules de David Attenborough, veiem com la nostra addicció als combustibles fòssils altera les forces de la natura. Però encara hi ha esperança: els projectes de recuperació de boscos i fauna, i d'aprofitament de l'energia van en la direcció correcta. Si ens ho proposem, encara estem a temps de salvar el nostre planeta perfecte.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"
+        "start": "2026-10-02T02:35:03+02:00",
+        "stop": "2026-10-02T03:18:34+02:00",
+        "title": "km33",
+        "subtitle": "Vietnam. Viatjant sense guió",
+        "description": "Fer la volta al món és el somni de molta gent. Pel Bruno Sokolowicz, de l''Sputnik', ja és una realitat. Enmig de la seva ruta mundial, ens trobarem el periodista musical al Vietnam, perdut pels mercats de les ètnies del nord. El barri vell de Hanoi, la badia de Halong, els mausoleus de Hué o els carrers bohemis de Hoian són ara casa seva.",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-10-01T23:49:49+02:00",
-        "stop": "2026-10-02T00:34:04+02:00",
-        "title": "Arxipèlag blau",
-        "subtitle": "Mar pelágica",
-        "description": "Ens endinsarem a la mar oberta, un univers desconegut i misteriós, on habiten des del microscòpic plàncton fins als grans mamífers marins. Enmig de la mar, la costa és lluny i el fons és gairebé inabastable. Una immensitat que és la llar sense fronteres de grans mamífers marins, intel·ligents i gregaris, com alguns dofins o els caps d'olla. Però cap d'aquests animals podria viure si no existissin uns organismes gairebé invisibles: el plàncton. Més de la meitat de l'oxigen que respirem prové d'uns minúsculs organismes que viuen a la deriva a mars i oceans: és el plàncton vegetal o fitoplàncton. A la mar és la base de la cadena alimentària marina i fa possible que es desenvolupi la resta de diversitat marina.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-02T03:18:34+02:00",
+        "stop": "2026-10-02T03:47:47+02:00",
+        "title": "Arts i oficis",
+        "subtitle": "Llibreria",
+        "description": "Hi ha moltes menes de llibreria però totes tenen dos elements en comú: els llibres i el llibreter. Aquest darrer és el protagonista d'un programa que explica una professió en la que una simple recomanació és un acte que et pot canviar la vida. El de llibreter és un ofici què requereix perspicàcia per entendre els gustos del lector i coneixement del sector editorial. Per aquest motiu, cal una oferta docent i la Facultat de Biblioteconomia i Documentació de la Universitat de Barcelona la proporciona. En paral·lel, les llibreries No Llegiu de Barcelona i La Gralla de Granollers ens expliquen com l'ofici de continuarà sent el mateix malgrat que l'entorn serà completament diferent.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
