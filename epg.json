@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-02T13:53:49.574659+00:00",
+  "updated": "2026-10-02T18:55:03.360986+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-02T15:43:32+02:00",
-        "stop": "2026-10-02T16:04:53+02:00",
-        "title": "Cuines",
-        "subtitle": "Arròs melós a la cassola",
-        "description": "De què sou més, de menjar l'arròs amb forquilla o cullera? Si trieu forquilla, és que us agrada més aviat sec. I si trieu cullera, és que el voleu caldós. Però, què passa si ens aturem en un punt intermedi? Doncs que Gessamí Caramés ens cuina un arròs melós a la cassola.",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-10-02T19:52:40+02:00",
+        "stop": "2026-10-02T21:00:00+02:00",
+        "title": "Està passant",
+        "subtitle": "",
+        "description": "La Núria i la Natza ens expliquen les noves propostes sobre absentisme laboral de Foment del Treball. L'Alba Riera arriba amb més culebrots i la Oye Sherman ens porta nous moments màgics de la televisió",
+        "genre": "GAGS. HUMOR",
+        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
       },
       {
-        "start": "2026-10-02T16:04:53+02:00",
-        "stop": "2026-10-02T16:04:53+02:00",
-        "title": "Cuines",
-        "subtitle": "Remolada de raves i recuit",
-        "description": "Ens inspirem en un plat típicament francès, però que es menja a molts llocs d'Europa i també als Estats Units dins de sandvitxos: la salsa remolada. Es fa amb una barreja cremosa de maionesa, mostassa, cogombrets, tàperes i espècies, però nosaltres avui la portem al nostre terreny i hi posem un formatge molt nostrat. Una pista? Va embolicat amb un drap.  ",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-10-02T21:00:00+02:00",
+        "stop": "2026-10-02T22:04:30+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-02T15:30:00+02:00",
-        "stop": "2026-10-02T17:00:00+02:00",
+        "start": "2026-10-02T20:00:00+02:00",
+        "stop": "2026-10-02T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,78 +72,88 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-02T17:00:00+02:00",
-        "stop": "2026-10-02T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-02T21:00:00+02:00",
+        "stop": "2026-10-02T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-02T15:31:24+02:00",
-        "stop": "2026-10-02T16:26:55+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Jarek i Beata",
-        "description": "En Jarek Kret i la Beata Tadla, dos famosos presentadors de la televisió polonesa, protagonitzen aquest capítol, on gaudeixen de les aigües termals, dels magnífics paisatges de la Costa Brava i de la diada de Sant Jordi a Barcelona.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-02T20:30:34+02:00",
+        "stop": "2026-10-02T20:58:19+02:00",
+        "title": "E3",
+        "subtitle": "Matchday Champions Women J2",
+        "description": "Les milors imatges a la segona jornada de la gran competició europea femenina de futbol. El FC Barcelona ha visitat el camp de la Roma.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"
       },
       {
-        "start": "2026-10-02T16:26:55+02:00",
-        "stop": "2026-10-02T17:21:17+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Annabel",
-        "description": "Amb l'Annabel Candy, una dona australiana, visitem Montserrat i la Vall de Núria. Ja a Barcelona, la Ivana Miño la porta a la Pedrera i a l'Anella Olímpica, però el viatge no acaba aquí, sinó al Carnaval de Vilanova.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-02T20:58:19+02:00",
+        "stop": "2026-10-02T23:01:52+02:00",
+        "title": "Hípica",
+        "subtitle": "Gran Premi Ciutat de Barcelona / CSIO",
+        "description": "Des del Reial Club de Polo de Barcelona, la prova individual del Concurs de Salts Internacional Oficial.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/6/1790764872063.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-02T15:48:56+02:00",
-        "stop": "2026-10-02T15:55:51+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Dòmino extrem",
-        "description": "Els Lèmmings han muntat una llarga seqüència de fitxes de dòmino dins la cabana que culmina a l'exterior amb uns blocs de gel enormes i focs artificials. Cansat de no tenir la tranquil·litat que tant li agrada, en Grizzy saboteja el recorregut. En conseqüència, un coet xoca contra una gran paret de gel que, en caure, provoca una explosió que destrueix la cabana. Llavors en Grizzy confisca una màquina que pot esculpir gel i somia en construir-se un iglú, però els Lèmmings tenen altres plans...",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-02T20:38:42+02:00",
+        "stop": "2026-10-02T21:00:08+02:00",
+        "title": "Henry Danger",
+        "subtitle": "Un directe perillós, primera part",
+        "description": "Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-10-02T15:55:51+02:00",
-        "stop": "2026-10-02T16:02:20+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Laberint infernal",
-        "description": "En Grizzy i els Lèmmings perden un pot de crema de xocolata dins d'un temple laberíntic. S'encaren, decidits a recuperar el seu berenar preferit, però acaben completament perduts dins d'aquest laberint. En Grizzy aconsegueix tornar al punt de partida i ho aprofita per buscar alguna eina amb què fer trampes i foradar les parets. Per la seva banda, els Lèmmings descobreixen un mapa màgic del temple que els permet orientar-se i modificar els passadissos en temps real. Qui serà el trampós que en sortirà vencedor?",
+        "start": "2026-10-02T21:00:08+02:00",
+        "stop": "2026-10-02T21:22:26+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "La Videl corre perill",
+        "description": "La Videl està decidida més que mai a desemmascarar el gran Guerrer del Vent i aprofita totes les oportunitats per seguir-lo. Avui, el segrest de l'alcalde de la ciutat farà que es trobin cara a cara. La Videl, filla del senyor Satan, que també fa de superheroïna, intentarà salvar l'alcalde, però necessitarà reforços... els del Guerrer del Vent, esclar!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-02T15:21:26+02:00",
-        "stop": "2026-10-02T16:07:39+02:00",
-        "title": "La Renaixença",
-        "subtitle": "Millors moments - setmana 6",
-        "description": "El resum dels millors moments sempre és una manera d'acabar la setmana rient. Aquí sempre hi trobareu els moments que més hem rigut, o que més ens han impactat. Si us ha passat el mateix, podeu tornar a veure els capítols d'aquests dies, o veure'ls per primera vegada en l'ordre que us faci més gràcia.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-10-02T20:17:23+02:00",
+        "stop": "2026-10-02T20:59:46+02:00",
+        "title": "Un món de Jocs",
+        "subtitle": "La recerca de la perfecció",
+        "description": "Som animals que ens enorgullim d'estar al cim de l'ordre natural. Per això, ens esforcem per demostrar que som superiors a la resta, esperem que el nostre talent ens faci més valents i impressionants. Però hi ha res més darrere d'aquestes activitats que l'afany de ser els millors? En aquest episodi, parlarem d'espais de joc on el que compta no és ser els primers de creuar la línia de meta i on els jugadors fan servir els seus cossos per oferir els millors espectacles del món.Surf d'onades gegants, Nazaré, PortugalSalt de penya-segat, MèxicDrifting, CisjordàniaMister Olympia, els Estats Units",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
       },
       {
-        "start": "2026-10-02T16:07:39+02:00",
-        "stop": "2026-10-02T16:35:33+02:00",
-        "title": "Els hotels més remots del món",
-        "subtitle": "Hoshi Onsen",
-        "description": "És un dels més antics del món i la mateixa família gestiona aquest ryokan tradicional des de 1875 anys. A la vall verge del parc nacional de Joshintetsu, l'hostal atrau escriptors, pintors, a la recerca de la increïble serenitat d'aquest lloc. Els banys històrics de les fonts termals naturals del riu Hoshi, construïts al voltant d'una antiga estructura de fusta, són molt coneguts al Japó i completen la sensació d'haver estat enviat en un segle més. Tot el personal és de la regió de Gunma i viu amb la família dins de l'hostal, compartint la increïble tradició d'hospitalitat amb els hostes. Apassionat per les espases, el fill del propietari és artesà en un taller ancestral del poble veí, i a l'hotel se'n conserven alguns exemples rars i originals.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-02T20:59:46+02:00",
+        "stop": "2026-10-02T21:00:08+02:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
     "oca1": [],
     "oca2": [],
     "oca3": [],
-    "oca4": []
+    "oca4": [
+      {
+        "start": "2026-10-02T20:55:00+02:00",
+        "stop": "2026-10-02T23:54:55+02:00",
+        "title": "Hípica",
+        "subtitle": "- Gran Premi Ciutat de Barcelona / CSIO",
+        "description": "Des del Reial Club de Polo de Barcelona, la prova individual del Concurs de Salts Internacional Oficial.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/6/1790764872063.jpg"
+      }
+    ]
   }
 }
