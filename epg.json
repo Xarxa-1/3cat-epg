@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-02T18:55:03.360986+00:00",
+  "updated": "2026-10-02T22:47:08.131811+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-02T19:52:40+02:00",
-        "stop": "2026-10-02T21:00:00+02:00",
-        "title": "Està passant",
-        "subtitle": "",
-        "description": "La Núria i la Natza ens expliquen les noves propostes sobre absentisme laboral de Foment del Treball. L'Alba Riera arriba amb més culebrots i la Oye Sherman ens porta nous moments màgics de la televisió",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
+        "start": "2026-10-03T00:03:37+02:00",
+        "stop": "2026-10-03T01:35:21+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Assassinats a Chantilly",
+        "description": "ASSASSINATS A CHANTILLY 'Meurtres à Chantilly'Direcció: Marjolaine de LecluseGuió: Matthieu SavignacProducció: Siècle Productions, France Télévisions, AT-Production, Radio Télévision Belge Francophone (RTBF), Pictanovo, Centre national du cinéma et de l'image animée (CNC), TV5MONDE, Radio Télévision Suisse (RTS)Any: 2023Durada: 90País: França Música: Armand AmarIntèrprets: Bruno Todeschini, Elodie Frenck, Nathalie Richard, Hippolyte Girardot, Sofiia Manousha, Damien Jouillerot, Vincent Martin, Michaël Vander-Meiren, Mélissandre Fortumeau, Charlotte Talpaert, Aymen Saïdi, Luna Lou, Matthieu Le Goaster, Cristina Garcia Rios, Bruno Tuchszer, Sylvie Flepp, Saverio Maligno, Floriane PotiezUna amazona de vint anys apareix assassinada al castell de Chantilly. Aquesta tràgica mort fa ressorgir una antiga llegenda: la de l'anell màgic de Louise de Budos, que tenia el poder de tornar irresistible qualsevol dona que el portés. Els capitans de la gendarmeria Antoine Mercier i Juliette Delambre, que s'acaben de divorciar, es veuen obligats a unir forces per resoldre el cas. ",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       },
       {
-        "start": "2026-10-02T21:00:00+02:00",
-        "stop": "2026-10-02T22:04:30+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-10-03T01:35:21+02:00",
+        "stop": "2026-10-03T02:59:32+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-02T20:00:00+02:00",
-        "stop": "2026-10-02T21:00:00+02:00",
+        "start": "2026-10-03T00:30:00+02:00",
+        "stop": "2026-10-03T01:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,88 +72,78 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-02T21:00:00+02:00",
-        "stop": "2026-10-02T22:05:00+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-10-03T01:00:00+02:00",
+        "stop": "2026-10-03T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-02T20:30:34+02:00",
-        "stop": "2026-10-02T20:58:19+02:00",
-        "title": "E3",
-        "subtitle": "Matchday Champions Women J2",
-        "description": "Les milors imatges a la segona jornada de la gran competició europea femenina de futbol. El FC Barcelona ha visitat el camp de la Roma.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"
+        "start": "2026-10-03T00:33:53+02:00",
+        "stop": "2026-10-03T00:53:26+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       },
       {
-        "start": "2026-10-02T20:58:19+02:00",
-        "stop": "2026-10-02T23:01:52+02:00",
-        "title": "Hípica",
-        "subtitle": "Gran Premi Ciutat de Barcelona / CSIO",
-        "description": "Des del Reial Club de Polo de Barcelona, la prova individual del Concurs de Salts Internacional Oficial.",
+        "start": "2026-10-03T00:53:26+02:00",
+        "stop": "2026-10-03T01:20:50+02:00",
+        "title": "WRC",
+        "subtitle": "Ral·li d'Itàlia-Sardenya / WRC 2026 / J1",
+        "description": "13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el més destacat de la primera jornada. ",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/6/1790764872063.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-02T20:38:42+02:00",
-        "stop": "2026-10-02T21:00:08+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Un directe perillós, primera part",
-        "description": "Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-10-03T00:46:20+02:00",
+        "stop": "2026-10-03T00:57:47+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Gràcies per les vostres dolenteries",
+        "description": "Avui la Marine i la Wendy no saben distreure's sense fer empipar el seu pare, que es trenca les banyes per trobar idees pel seu nou còmic i necessita silenci. Les dues germanes, per ajudar-lo a inspirar-se, li expliquen algunes de les pitjors dolenteries que han fet. El seu pare acaba trobat una font d'inspiració...",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-02T21:00:08+02:00",
-        "stop": "2026-10-02T21:22:26+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "La Videl corre perill",
-        "description": "La Videl està decidida més que mai a desemmascarar el gran Guerrer del Vent i aprofita totes les oportunitats per seguir-lo. Avui, el segrest de l'alcalde de la ciutat farà que es trobin cara a cara. La Videl, filla del senyor Satan, que també fa de superheroïna, intentarà salvar l'alcalde, però necessitarà reforços... els del Guerrer del Vent, esclar!",
+        "start": "2026-10-03T00:57:47+02:00",
+        "stop": "2026-10-03T01:08:51+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Quina és la pitjor?",
+        "description": "La Marine i la Wendy fan una dolenteria rere una altra. Els seus pares n'estan farts i volen que passin les vacances separades. Per impedir-ho, les dues germanes fan mans i mànigues per demostrar-los que són adorables i que es porten superbé i els expliquen coses que els han passat. Però llavors comencen a sortir els disbarats que han fet...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-02T20:17:23+02:00",
-        "stop": "2026-10-02T20:59:46+02:00",
-        "title": "Un món de Jocs",
-        "subtitle": "La recerca de la perfecció",
-        "description": "Som animals que ens enorgullim d'estar al cim de l'ordre natural. Per això, ens esforcem per demostrar que som superiors a la resta, esperem que el nostre talent ens faci més valents i impressionants. Però hi ha res més darrere d'aquestes activitats que l'afany de ser els millors? En aquest episodi, parlarem d'espais de joc on el que compta no és ser els primers de creuar la línia de meta i on els jugadors fan servir els seus cossos per oferir els millors espectacles del món.Surf d'onades gegants, Nazaré, PortugalSalt de penya-segat, MèxicDrifting, CisjordàniaMister Olympia, els Estats Units",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
+        "start": "2026-10-03T00:12:20+02:00",
+        "stop": "2026-10-03T01:33:30+02:00",
+        "title": "Al Cim",
+        "subtitle": "Al Cim",
+        "description": "",
+        "genre": "ALTRES",
+        "image": "https://img.3cat.cat/multimedia/jpg/8/6/1728060903668.jpg"
       },
       {
-        "start": "2026-10-02T20:59:46+02:00",
-        "stop": "2026-10-02T21:00:08+02:00",
-        "title": "SENSE FI CANAL 33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
+        "start": "2026-10-03T01:33:30+02:00",
+        "stop": "2026-10-03T03:03:31+02:00",
+        "title": "Sagrada família, el repte de Gaudí",
+        "subtitle": "Sagrada Família, el repte de Gaudí",
+        "description": "Sagrada Família, el repte de Gaudí (2022), una producción de Produccions Quart en coproducció amb Atomis Media i Gedeon Programmes, amb la participació de Televisió de Catalunya, Arte, M+, Tourespaña, i el suport de l'ICEC.Dirigit per Marc Jampolsky, reconegut internacionalment pels seus documentals sobre grans monuments històrics com Versalles o el Vaticà, 'Sagrada Família, el repte de Gaudí' relata la desmesura artística de Gaudí en la recta final de la construcció del temple, l'únic del món començat al segle XIX que encara es continua aixecant al XX. Equip:Direcció: Marc JampolskyGuió: Marc Jampolsky i Marie ThiryRealització: Raul FernándezProducció: Abigaïl Schaaff, Isavel Raventós, Stephane MillereProducció executiva TV3: Jordi Ambròs HortensiEdició continguts TV3: Montse Armengou MartínRealització TV3: Jacob Peña GómezProducció delegada TV3: Daniel Barea DelgadoDirector de fotografia: Raul FernándezMuntatge: Giller PerruDirector de producció: Rejané Gay, Diane Riethof i Jorge VelascoMúsica: Bruno CourtinLingüista: David ArnauGrafisme: Christophe DentinVeu en off: Luis Posadas",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/3/1730743738033.jpg"
       }
     ],
     "oca1": [],
     "oca2": [],
     "oca3": [],
-    "oca4": [
-      {
-        "start": "2026-10-02T20:55:00+02:00",
-        "stop": "2026-10-02T23:54:55+02:00",
-        "title": "Hípica",
-        "subtitle": "- Gran Premi Ciutat de Barcelona / CSIO",
-        "description": "Des del Reial Club de Polo de Barcelona, la prova individual del Concurs de Salts Internacional Oficial.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/6/1790764872063.jpg"
-      }
-    ]
+    "oca4": []
   }
 }
