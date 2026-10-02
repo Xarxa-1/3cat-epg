@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-02T01:15:20.956104+00:00",
+  "updated": "2026-10-02T07:14:28.431166+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-02T02:20:41+02:00",
-        "stop": "2026-10-02T04:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-02T08:00:24+02:00",
+        "stop": "2026-10-02T10:30:00+02:00",
+        "title": "Matins",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       },
       {
-        "start": "2026-10-02T04:00:00+02:00",
-        "stop": "2026-10-02T05:00:01+02:00",
-        "title": "Blues a l'estudi",
-        "subtitle": "The Suitcase Brothers",
-        "description": "Sens dubte, els germans Puertas són el millor duo de blues acústic de tot l'estat. Influïts per duos mítics com els de Sonny Terry i Brownie McGhee o Paul Rishell i Annie Raines. Els Suitcase han desenvolupat un estil propi, ple de força i sentiment. Pere Puertas, a la guitarra i la veu, i Víctor Puertas, a l'harmònica i la veu, són els fantàstics Suitcase Brothers.",
-        "genre": "ALTRES",
+        "start": "2026-10-02T10:30:00+02:00",
+        "stop": "2026-10-02T13:55:00+02:00",
+        "title": "Tot es mou",
+        "subtitle": "",
+        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "genre": "MAGAZINE",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-02T01:00:00+02:00",
-        "stop": "2026-10-02T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-02T08:00:00+02:00",
+        "stop": "2026-10-02T10:30:00+02:00",
+        "title": "Matins",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       },
       {
-        "start": "2026-10-02T06:00:00+02:00",
-        "stop": "2026-10-02T08:00:00+02:00",
+        "start": "2026-10-02T10:30:00+02:00",
+        "stop": "2026-10-02T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-02T02:34:13+02:00",
-        "stop": "2026-10-02T03:53:55+02:00",
+        "start": "2026-10-02T08:45:14+02:00",
+        "stop": "2026-10-02T10:05:21+02:00",
         "title": "Handbol",
         "subtitle": "Barça-Veszprém / Mundial de Clubs / Final",
         "description": "Els blaugranes, que dominen el palmarès d'aquest Mundial de clubs, aspiren al 7è títol. Com la temporada passada, el rival és el campió hongarès. En aquell precedent, el Barça es va imposar al Veszprém per 30-31 després d'un matx molt igualat i dues pròrrogues. ",
@@ -92,51 +92,51 @@
         "image": "https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"
       },
       {
-        "start": "2026-10-02T03:53:55+02:00",
-        "stop": "2026-10-02T04:08:24+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-10-02T10:05:21+02:00",
+        "stop": "2026-10-02T10:54:34+02:00",
+        "title": "Terreny personal",
+        "subtitle": "Delta de l'Ebre",
+        "description": "Aquest capítol ens descobreix un territori atractiu i singular. De l'Ampolla a Sant Carles de la Ràpita i d'Amposta fins a l'illa de Buda hi ha un tros de terra que entra dins del mar. És el delta de l'Ebre. Els protagonistes del programa ens expliquen què els lliga a aquest paisatge fet d'aigua i arròs. La Sònia Tomàs ha decidit viure, un cop jubilada, en una barraca tradicional al mig dels arrossars. La Vanessa Castan ha buscat una feina relacionada amb la natura que pogués fer a Sant Carles de la Ràpita, i ho ha aconseguit. El Josep Llambrich va estudiar econòmiques a Barcelona, però ha acabat tornant a l'Ampolla per portar les terres de la família, i el Ramon Carles ha heretat el negoci de la producció de musclos que un dia va començar el seu pare gairebé per casualitat.Al llarg del capítol també s'hi van afegint altres veus, intervencions més curtes, que completen el mosaic dels testimonis del delta:Nens i nenes de l'escola Sant Jaume de Sant Jaume d'Enveja que ens expliquen quin són els seus espais preferits, l'escriptor Emili Rosales que llegeix un fragment de la seva novel·la a Sant Carles de la Ràpita i l'Èric Vinaixa que canta a la desembocadura de l'Ebre.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-02T03:13:05+02:00",
-        "stop": "2026-10-02T03:35:16+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Conspiració",
-        "description": "S'acosta final de curs i es prepara una revolta. Al Monarca no li queda temps ni té gaires alternatives: decideix implementar un pla que és perillós per la seva identitat secreta i extremament perillós per Ladybug i el Gat Noir, també. Sense saber-ho, el malvat es beneficiarà de l'ajuda de la Lila, que controla d'amagat la Chloé, més dolenta que mai. Pel que fa a la Marinette, no sap que l'Adrien no s'atreveix a explicar-li un terrible secret que podria fer perillar la seva relació.",
+        "start": "2026-10-02T09:10:55+02:00",
+        "stop": "2026-10-02T09:34:03+02:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les Tres Bessones i l'home invisible",
+        "description": "Les Bessones coneixen un científic que investiga la fórmula d'un medicament que necessita prendre amb urgència. Ell els explica que s'amaga en un centre comercial per culpa d'un experiment que l'ha fet tornar invisible… Allí, es diverteix espantant els clients i se sent l'home més poderós del món. Però les nenes descobreixen que és vergonyós i que es torna visible quan es posa vermell.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-02T03:35:16+02:00",
-        "stop": "2026-10-02T03:57:18+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Revolució",
-        "description": "La Chloé és més poderosa que mai i, gràcies a ella, el Monarca també. Ladybug i el Gat Noir exhibeixen els seus superpoders sense sospitar que acaben de caure en una trampa malvada. Pel que fa a la Marinette i l'Adrien, les seves vides estan a punt de canviar per sempre.",
+        "start": "2026-10-02T09:34:03+02:00",
+        "stop": "2026-10-02T09:54:56+02:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "La llegenda del drac vermell",
+        "description": "La Bruixa Avorrida se'n va a la Xina i des d'allà envia una postal a les bessones i els recorda que és moment d'enviar-les a una llegenda xinesa. A la nit, les tres bessones, se sorprenen en veure passar una silueta volant davant la lluna. Tots els animals pujaran sobre el llom del dragó, que amb la sobrecàrrega acabarà caient a l'aigua. La resta dels animals intentaran guiar-lo a la superfície, però el drac, en veure el reflex de la lluna s'espanta i s'enfonsa. Des de llavors, ningú l'ha tornat a veure.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-02T02:35:03+02:00",
-        "stop": "2026-10-02T03:18:34+02:00",
-        "title": "km33",
-        "subtitle": "Vietnam. Viatjant sense guió",
-        "description": "Fer la volta al món és el somni de molta gent. Pel Bruno Sokolowicz, de l''Sputnik', ja és una realitat. Enmig de la seva ruta mundial, ens trobarem el periodista musical al Vietnam, perdut pels mercats de les ètnies del nord. El barri vell de Hanoi, la badia de Halong, els mausoleus de Hué o els carrers bohemis de Hoian són ara casa seva.",
-        "genre": "ALTRES",
+        "start": "2026-10-02T09:04:21+02:00",
+        "stop": "2026-10-02T09:58:38+02:00",
+        "title": "Katalonski",
+        "subtitle": "Pequín",
+        "description": "Halldor viatjarà a la Xina, a Pequín, per trobar els katalonskis més exòtics. Hi anirà en plena celebració del Cap d'Any. Shuangqing Li el portarà a la famosa Festa dels fanalets, i també li ensenyarà a ballar street dance. Visitarà la ciutat amb el millor guia, David Salamanca, un noi de Madrid apassionat per la Xina, que li ensenyarà la Ciutat Prohibida i com es menja el famós ànec rostit. Amb Wang Qiqi cantarà a la gran muralla i, amb Jian Sun, acabarà ballant salsa.",
+        "genre": "Docu-Entreteniment",
         "image": ""
       },
       {
-        "start": "2026-10-02T03:18:34+02:00",
-        "stop": "2026-10-02T03:47:47+02:00",
-        "title": "Arts i oficis",
-        "subtitle": "Llibreria",
-        "description": "Hi ha moltes menes de llibreria però totes tenen dos elements en comú: els llibres i el llibreter. Aquest darrer és el protagonista d'un programa que explica una professió en la que una simple recomanació és un acte que et pot canviar la vida. El de llibreter és un ofici què requereix perspicàcia per entendre els gustos del lector i coneixement del sector editorial. Per aquest motiu, cal una oferta docent i la Facultat de Biblioteconomia i Documentació de la Universitat de Barcelona la proporciona. En paral·lel, les llibreries No Llegiu de Barcelona i La Gralla de Granollers ens expliquen com l'ofici de continuarà sent el mateix malgrat que l'entorn serà completament diferent.",
+        "start": "2026-10-02T09:58:38+02:00",
+        "stop": "2026-10-02T10:25:02+02:00",
+        "title": "Marcians",
+        "subtitle": "Malfia't dels rics",
+        "description": "Tenim la sensació que anem acumulant crisis econòmiques. No sortim d'una i n'apareix una altra que agreuja l'empobriment i precarietat de la població, però no de tothom. La majoria dels que ja eren superrics abans, en cada nova crisi se'n fan més i així ens preguntem: les fortunes neixen de la virtut? L'escriptor guanyador del Premi Pulitzer amb 'Fortuna' Hernán Diaz, les periodistes i escriptores Anna Pacheco, Raquel Peláez i Fonsi Loaiza, el guionista i dramaturg David Desola i els artistes Eugenio Merino i Carlos Aires reflexionen sobre si acumular riquesa immensament és compatible amb l'honestedat. També, sobre la coincidència de diverses ficcions crítiques o satíriques que els últims temps fan una mena de venjança contra els rics, a través de pel·lícules o sèries com 'El triangle de la tristesa', 'Saltburn', 'The White Lotus' o 'Succession'.",
         "genre": "ALTRES",
         "image": ""
       }
