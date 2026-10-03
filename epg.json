@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-03T12:31:19.800756+00:00",
+  "updated": "2026-10-03T16:43:11.892102+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-03T14:30:00+02:00",
-        "stop": "2026-10-03T15:39:03+02:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "start": "2026-10-03T17:13:10+02:00",
+        "stop": "2026-10-03T18:48:26+02:00",
+        "title": "Tarda de cine",
+        "subtitle": "Escape room",
+        "description": "ESCAPE ROOMProducció d'Arriska, Focus i Nakatomi que compta amb la participació de Televisió de Catalunya i el suport de l'ICEC.Director: Hèctor Claramunt Guió: Joel Joan i Hèctor Claramunt Director Fotografia: Xavi GiménezBasat en l'obra 'Escape room' de Joel Joan & Hèctor Claramunt Intèrprets: Joel Joan, Paula Vives, Mònica Pérez i Ivan Massagué,SINOPSIQuatre amics, una habitació, molts secrets i una única via de sortida: la veritat. La comèdia més delirant de la temporada capgira els plans de dues parelles disposades a passar una gran nit en?un escape room. Si volen sortir d'aquest joc tan imprevisible com esbojarrat hauran de posar a prova la seva amistat. Els ha arribat l'hora de la veritat.? ",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       },
       {
-        "start": "2026-10-03T15:31:21+02:00",
-        "stop": "2026-10-03T16:31:19+02:00",
-        "title": "Infidels",
+        "start": "2026-10-03T18:48:26+02:00",
+        "stop": "2026-10-03T18:48:26+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "En Toni s'instal·la uns dies a casa de la Lídia per acabar de recuperar-se. El noi va a visitar la seva àvia i s'adona que algú més, a part d'el,l la visita. La Cruz somia angoixada perquè no sap si el fill que espera és o no de l'Eduard. En Robert vol veure els moviments del compte de l''Abadal i la Cruz, per despistar-lo, li diu que està embarassada. L'Eduard menteix a en Jesús sobre la procedència de l'ingrés providencial que va salvar la immobiliària. La Paula i en Marc han d'anul·lar els seus plans de viatge, perquè ella es troba malament. En Dani i l'Arlet parlen de què faran a l'estiu, però de seguida s'adonen que són massa diferents. L'Arlet no té cap ganes d'anar a casa seva.",
-        "genre": "TELESÈRIE",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-03T14:30:00+02:00",
-        "stop": "2026-10-03T16:30:00+02:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-10-03T18:30:00+02:00",
+        "stop": "2026-10-03T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-03T16:30:00+02:00",
-        "stop": "2026-10-03T18:30:00+02:00",
+        "start": "2026-10-03T20:00:00+02:00",
+        "stop": "2026-10-03T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,67 +83,77 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-03T14:22:06+02:00",
-        "stop": "2026-10-03T14:46:06+02:00",
-        "title": "E3",
-        "subtitle": "Monster Jam / Indianapolis / 8",
-        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. ",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
+        "start": "2026-10-03T18:00:45+02:00",
+        "stop": "2026-10-03T19:57:20+02:00",
+        "title": "Hípica",
+        "subtitle": "Copa de la Reina / CSIO",
+        "description": "Retransmissió de la Copa de la Reina d'hípica que forma part del Concurs de Salts Internacional Oficial que s'està disputant al Reial Club de Polo de Barcelona. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/5/1759143921253.jpg"
       },
       {
-        "start": "2026-10-03T14:46:06+02:00",
-        "stop": "2026-10-03T15:11:02+02:00",
-        "title": "E3",
-        "subtitle": "Monster Jam / Seattle / 9",
-        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. ",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
+        "start": "2026-10-03T19:57:20+02:00",
+        "stop": "2026-10-03T23:00:00+02:00",
+        "title": "WRC",
+        "subtitle": "Ral·li d'Itàlia-Sardenya / WRC 2026 / J2",
+        "description": "13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el més destacat de la segona jornada.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-03T14:07:08+02:00",
-        "stop": "2026-10-03T14:33:31+02:00",
-        "title": "Manduka",
-        "subtitle": "Arròs anem al gra – Mireia Oriol",
-        "description": "La recepta d'avui és un arròs que anirà tan farcit d'ingredients de mar i muntanya que costarà trobar-hi els grans d'arròs. Sort que a la convidada d'avui, l'actriu Mireia Oriol, que fa de Lore a la sèrie 'Les de l'hoquei', li agrada anar al gra. També aprendrem a tancar bé un paquet d'arròs i a protegir el mòbil mentre cuinem. I farem escombres de bruixa i llapis de formatge!",
-        "genre": "ALTRES",
+        "start": "2026-10-03T18:41:35+02:00",
+        "stop": "2026-10-03T18:48:04+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Os animat",
+        "description": "Els lèmmings estan tots assegudets al sofà mirant uns dibuixos animats en què un ratolí fa bromes pesades a un gat. En Grizzy, que té intenció de fer una migdiada, apaga la televisió i confisca les piles del comandament a distància per assegurar-se que no podran tornar a posar el seu programa. Potser s'ho hauria d'haver pensat dues vegades abans d'interposar-se entre una colla de lèmmings i el seu interès per l'animació.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-03T14:33:31+02:00",
-        "stop": "2026-10-03T14:45:26+02:00",
-        "title": "Les Sisters",
-        "subtitle": "La meva germana olímpica",
-        "description": "Avui la Marine al·lucina: la seva germaneta ha decidit seguir un programa per posar-se en forma amb el Maxence. Junts formen l'equip olímpic i es passen el dia fent exercici per cremar greix i tenir més músculs. La Wendy no té temps per jugar amb la seva germana, que enyora els dies en què s'arrepapaven al sofà menjant crispetes i mirant la tele.",
+        "start": "2026-10-03T18:48:04+02:00",
+        "stop": "2026-10-03T18:55:20+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Escàndol nocturn",
+        "description": "Els Lèmmings han organitzat una gran festa a la cabana i, com és de costum, a en Grizzy no li fa gens de gràcia i els fa fora. Els Lèmmings descobreixen una cova on la festa pot ser encara més divertida, però l'enrenou espanta uns ratpenats que hi descansaven i arriben a la cabana tot buscant refugi. En Grizzy, atemorit, intenta de tot per desfer-se d'ells i s'adona que el remei més eficaç és l'equip de música dels Lèmmings.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-03T14:22:57+02:00",
-        "stop": "2026-10-03T14:47:42+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Neurorehabilitació: aprendre dels encerts",
-        "description": "Un simple mirall pot fer desaparèixer el dolor d'un membre amputat fent creure al cervell que l'extremitat perduda es mou. Això és una de les coses aparentment impossibles que fan a l'Institut Guttmann. Una altra és aconseguir la recuperació del moviment en persones que han patit una lesió important, però no absoluta, del sistema nerviós. En tots dos casos apliquen tècniques basades en el reforçament positiu per restablir els camins neuronals perduts en un accident.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-10-03T18:04:16+02:00",
+        "stop": "2026-10-03T18:46:44+02:00",
+        "title": "Un món de Jocs",
+        "subtitle": "La recerca de la perfecció",
+        "description": "Som animals que ens enorgullim d'estar al cim de l'ordre natural. Per això, ens esforcem per demostrar que som superiors a la resta, esperem que el nostre talent ens faci més valents i impressionants. Però hi ha res més darrere d'aquestes activitats que l'afany de ser els millors? En aquest episodi, parlarem d'espais de joc on el que compta no és ser els primers de creuar la línia de meta i on els jugadors fan servir els seus cossos per oferir els millors espectacles del món.Surf d'onades gegants, Nazaré, PortugalSalt de penya-segat, MèxicDrifting, CisjordàniaMister Olympia, els Estats Units",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
       },
       {
-        "start": "2026-10-03T14:47:42+02:00",
-        "stop": "2026-10-03T15:13:57+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Conviure amb lloros",
-        "description": "El reporter Pere Renom és testimoni de com parlen i ensinistren els lloros de Portaventura. També descobreix què és la malaltia anomenada 'pulmó de l'ocellaire' amb el Dr. Ferran Morell, de la Vall d'Hebron, qui tracta un cas associat als agapornis. I finalment, unes nouvingudes: les cotorres argentines. Es descriu el seguiment que en fan des del Museu de Ciències Naturals, de Barcelona. L'èxit de l'espècie es relaciona directament amb la seva variada dieta i amb el fet que cria en els nius que construeix, en lloc de criar en forats, com la majoria de lloros del món. DesenvolupamentEls lloros són una de les famílies d'ocells més intel·ligents que hi ha. La conducta social, un crani desproporcionadament gros respecte a la mida del cos i unes potes amb gran capacitat prènsil sembla que en són les causes determinants. Precisament perquè són intel·ligents i sociables ens resulten especialment simpàtics. Si, a més, hi afegim la seva exuberant bellesa i el fet que suporten relativament bé la captivitat, és lògic que hagin esdevingut mascotes ideals i actors preferents en espectacles circenses. El Reporter Pere Renom presencia un espectacle amb lloros a Portaventura i aprèn que l'ensinistrament és una barreja d'etologia, és a dir, del coneixement de la conducta animal, i de psicologia, ja que cada individu té el seu propi caràcter. L'ensinistrador Paco Navarro ha d'identificar les habilitats particulars de cada lloro, de cada actor, i treballar per potenciar-les. El resultat és un 'paper' diferent per cadascun: uns volen, altres interaccionen amb el públic o parlen i canten amb fluïdesa. Però conviure amb lloros també pot portar maldecaps. Carme Baraldés fa cinc anys que té agapornis a casa. Des d'aleshores té problemes respiratoris. El doctor Ferran Morell, de la unitat de pneumologia de la Vall d'Hebron, explica que hi ha una malaltia anomenada 'pulmó de l'ocellaire', que consisteix en una inflamació pulmonar produïda per la inhalació de certe",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-10-03T18:46:44+02:00",
+        "stop": "2026-10-03T19:12:48+02:00",
+        "title": "Els hotels més remots del món",
+        "subtitle": "Tree hotel",
+        "description": "El Kent, el fundador, la seva dona Brita, i la seva filla Sofia, tots nascuts en un poble veí, són els fundadors i els amfitrions acollidors d'aquest extraordinari hotel. Actualment l'Hotel dels arbres compta amb 7 cabanes, de les més luxoses a les més exuberants, totes creades per grans noms de l'arquitectura sueca. El concepte clau d'aquest lloc és l'harmonia amb la natura: aïllats a les seves cabanes a les capçades dels arbres, els hostes perden gradualment la seva concepció urbana i es deixen endur pel paisatge.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "oca1": [],
     "oca2": [],
     "oca3": [],
-    "oca4": []
+    "oca4": [
+      {
+        "start": "2026-10-03T17:25:00+02:00",
+        "stop": "2026-10-03T20:19:55+02:00",
+        "title": "Hípica",
+        "subtitle": "- Copa de la Reina / CSIO",
+        "description": "Retransmissió de la Copa de la Reina d'hípica que forma part del Concurs de Salts Internacional Oficial que s'està disputant al Reial Club de Polo de Barcelona. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/5/1759143921253.jpg"
+      }
+    ]
   }
 }
