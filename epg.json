@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-02T22:47:08.131811+00:00",
+  "updated": "2026-10-03T01:40:22.516153+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-03T00:03:37+02:00",
-        "stop": "2026-10-03T01:35:21+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Assassinats a Chantilly",
-        "description": "ASSASSINATS A CHANTILLY 'Meurtres à Chantilly'Direcció: Marjolaine de LecluseGuió: Matthieu SavignacProducció: Siècle Productions, France Télévisions, AT-Production, Radio Télévision Belge Francophone (RTBF), Pictanovo, Centre national du cinéma et de l'image animée (CNC), TV5MONDE, Radio Télévision Suisse (RTS)Any: 2023Durada: 90País: França Música: Armand AmarIntèrprets: Bruno Todeschini, Elodie Frenck, Nathalie Richard, Hippolyte Girardot, Sofiia Manousha, Damien Jouillerot, Vincent Martin, Michaël Vander-Meiren, Mélissandre Fortumeau, Charlotte Talpaert, Aymen Saïdi, Luna Lou, Matthieu Le Goaster, Cristina Garcia Rios, Bruno Tuchszer, Sylvie Flepp, Saverio Maligno, Floriane PotiezUna amazona de vint anys apareix assassinada al castell de Chantilly. Aquesta tràgica mort fa ressorgir una antiga llegenda: la de l'anell màgic de Louise de Budos, que tenia el poder de tornar irresistible qualsevol dona que el portés. Els capitans de la gendarmeria Antoine Mercier i Juliette Delambre, que s'acaben de divorciar, es veuen obligats a unir forces per resoldre el cas. ",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
-      },
-      {
-        "start": "2026-10-03T01:35:21+02:00",
-        "stop": "2026-10-03T02:59:32+02:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-10-03T00:30:00+02:00",
-        "stop": "2026-10-03T01:00:00+02:00",
+        "start": "2026-10-03T03:00:00+02:00",
+        "stop": "2026-10-03T04:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
+        "start": "2026-10-03T04:00:00+02:00",
+        "stop": "2026-10-03T05:00:00+02:00",
+        "title": "Blues a l'estudi",
+        "subtitle": "Ivan Kovacevic 5 Spots",
+        "description": "El contrabaixísta serbi és un dels músics més treballadors dins l'escena del blues a Catalunya. Després d'onze anys a casa nostra, es presenta per primera vegada amb una formació sota el seu nom. Ho fa acompanyat d'uns músics de primera línia: David Pastor a la trompeta, Toni Solà al saxo, Bernat Font al piano i Roger Gutierrez a la bateria.",
+        "genre": "ALTRES",
+        "image": ""
+      }
+    ],
+    "324": [
+      {
         "start": "2026-10-03T01:00:00+02:00",
         "stop": "2026-10-03T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-03T06:00:00+02:00",
+        "stop": "2026-10-03T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-03T00:33:53+02:00",
-        "stop": "2026-10-03T00:53:26+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "start": "2026-10-03T03:40:55+02:00",
+        "stop": "2026-10-03T05:12:48+02:00",
+        "title": "Tot Costa",
+        "subtitle": "Arriba el primer clàssic",
+        "description": "El Barça femení rep diumenge el Madrid en partit de Lliga. Analitzem com hi arriben unes i altres amb Sergi Solé, Gemma Herrero i Oriol Domènech. Amb Marcos García expliquem l'última hora de les blaugranes i sentim Clara Serrajordi. Amb Laia Tudel, expliquem com han anat les proves mèdiques de Raphinha. I acabem amb entrevista al jugador blanc-i-blau Omar El Hilali. ",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       },
       {
-        "start": "2026-10-03T00:53:26+02:00",
-        "stop": "2026-10-03T01:20:50+02:00",
-        "title": "WRC",
-        "subtitle": "Ral·li d'Itàlia-Sardenya / WRC 2026 / J1",
-        "description": "13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el més destacat de la primera jornada. ",
+        "start": "2026-10-03T05:12:48+02:00",
+        "stop": "2026-10-03T06:07:39+02:00",
+        "title": "E3D",
+        "subtitle": "BMX UCI HC / Extreme Barcelona / Final femenina",
+        "description": "Final femenina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. ",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-03T00:46:20+02:00",
-        "stop": "2026-10-03T00:57:47+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Gràcies per les vostres dolenteries",
-        "description": "Avui la Marine i la Wendy no saben distreure's sense fer empipar el seu pare, que es trenca les banyes per trobar idees pel seu nou còmic i necessita silenci. Les dues germanes, per ajudar-lo a inspirar-se, li expliquen algunes de les pitjors dolenteries que han fet. El seu pare acaba trobat una font d'inspiració...",
+        "start": "2026-10-03T03:24:37+02:00",
+        "stop": "2026-10-03T03:46:18+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "La Dibuixant Trista",
+        "description": "La Marinette ho té tot per ser feliç: per fi surt amb l'Adrien i té un equip de superherois que li donen suport quan es transforma en Ladybug, però aquesta nova situació és completament nova per a ella i no sap gaire com actuar. Mentre s'esforça a aprendre a no controlar-ho tot, Ladybug i el seu equip s'han d'enfrontar a una supermalvada que té una imaginació desbordant.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-03T00:57:47+02:00",
-        "stop": "2026-10-03T01:08:51+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Quina és la pitjor?",
-        "description": "La Marine i la Wendy fan una dolenteria rere una altra. Els seus pares n'estan farts i volen que passin les vacances separades. Per impedir-ho, les dues germanes fan mans i mànigues per demostrar-los que són adorables i que es porten superbé i els expliquen coses que els han passat. Però llavors comencen a sortir els disbarats que han fet...",
+        "start": "2026-10-03T03:46:18+02:00",
+        "stop": "2026-10-03T04:07:27+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Sublimació",
+        "description": "La Marinette està fascinada per la Sublime, una noia que s'ha fet amiga de l'Adrien. Bé per gelosia, bé per curiositat, la Marinette també vol fer-se amiga de la Sublime tant sí com no. Però hi ha un problema: la Marinette no sap com fer-se amiga d'una persona que no necessita ajuda. I els seus intents maldestres poden tenir conseqüències greus.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-03T00:12:20+02:00",
-        "stop": "2026-10-03T01:33:30+02:00",
-        "title": "Al Cim",
-        "subtitle": "Al Cim",
-        "description": "",
+        "start": "2026-10-03T03:32:01+02:00",
+        "stop": "2026-10-03T04:02:10+02:00",
+        "title": "Arts i oficis",
+        "subtitle": "Producció de TV d'entreteniment",
+        "description": "Catalunya ha estat bressol de moltes productores de televisió d'entreteniment i en Tinet Rubira n'és un dels professionals de referència. Aquest ofici demana conèixer el negoci de la televisió comercial, els gèneres televisius i observar el comportament de l'audiència. Això s'aprèn al Màster de TV d' Entreteniment de la Universitat Rovira i Virgili. De tots els gèneres televisius, no n'hi ha cap que desperti més interès i controvèrsia que l'entreteniment però com hi influiran les noves formes de l'entreteniment?",
         "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/8/6/1728060903668.jpg"
+        "image": ""
       },
       {
-        "start": "2026-10-03T01:33:30+02:00",
-        "stop": "2026-10-03T03:03:31+02:00",
-        "title": "Sagrada família, el repte de Gaudí",
-        "subtitle": "Sagrada Família, el repte de Gaudí",
-        "description": "Sagrada Família, el repte de Gaudí (2022), una producción de Produccions Quart en coproducció amb Atomis Media i Gedeon Programmes, amb la participació de Televisió de Catalunya, Arte, M+, Tourespaña, i el suport de l'ICEC.Dirigit per Marc Jampolsky, reconegut internacionalment pels seus documentals sobre grans monuments històrics com Versalles o el Vaticà, 'Sagrada Família, el repte de Gaudí' relata la desmesura artística de Gaudí en la recta final de la construcció del temple, l'únic del món començat al segle XIX que encara es continua aixecant al XX. Equip:Direcció: Marc JampolskyGuió: Marc Jampolsky i Marie ThiryRealització: Raul FernándezProducció: Abigaïl Schaaff, Isavel Raventós, Stephane MillereProducció executiva TV3: Jordi Ambròs HortensiEdició continguts TV3: Montse Armengou MartínRealització TV3: Jacob Peña GómezProducció delegada TV3: Daniel Barea DelgadoDirector de fotografia: Raul FernándezMuntatge: Giller PerruDirector de producció: Rejané Gay, Diane Riethof i Jorge VelascoMúsica: Bruno CourtinLingüista: David ArnauGrafisme: Christophe DentinVeu en off: Luis Posadas",
+        "start": "2026-10-03T04:02:10+02:00",
+        "stop": "2026-10-03T04:25:11+02:00",
+        "title": "Caçadors de paraules",
+        "subtitle": "Resum (temporada 1era)",
+        "description": "'Caçadors de paraules' s'acomiada aquest dilluns amb un programa especial en què Roger de Gràcia explica als espectadors com s'ha convertit en un bon caçador: quines són les estratègies per trobar els millors interlocutors, on cal buscar les paraules més estranyes i com moure's en els pantanosos terrenys de la llengua. En aquest últim programa de la temporada veurem els millors moments de la sèrie, i alguns dels que s'han quedat fora de la sala de muntatge, juntament amb imatges del rodatge i les errades més divertides del nostre 'caçador de paraules'. L'humor, que ja ha estat present al llarg de tota la sèrie, capitalitzarà aquest capítol.Un èxit que tornarà a TV3'Caçadors de paraules' ha aconseguit en els seus 18 capítols una mitjana d'audiència 758.000 espectadorsi una quota de pantalla del 24,2 %, un èxit que ha portat la cadena a preparar ja els nous capítols de la sèrie per a emetre l'any vinent.A més del bon seguiment de l'audiència, el programa també ha rebut una important participació dels telespectadors. Setmana rere setmana, els 'caçadors de paraules' han enviat més de 3.000 paraules i moltes peticions i consultes, que han contribuït a millorar i fer més viu el programa. ",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/3/1730743738033.jpg"
+        "image": ""
       }
     ],
     "oca1": [],
