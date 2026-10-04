@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-03T22:21:12.249485+00:00",
+  "updated": "2026-10-04T01:46:10.764503+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-03T23:14:20+02:00",
-        "stop": "2026-10-04T00:43:53+02:00",
+        "start": "2026-10-04T00:25:27+02:00",
+        "stop": "2026-10-04T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,8 +52,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-04T00:43:53+02:00",
-        "stop": "2026-10-04T06:00:00+02:00",
+        "start": "2026-10-04T06:00:00+02:00",
+        "stop": "2026-10-04T09:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-10-03T23:00:00+02:00",
-        "stop": "2026-10-04T00:30:00+02:00",
+        "start": "2026-10-04T01:00:00+02:00",
+        "stop": "2026-10-04T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-04T00:30:00+02:00",
-        "stop": "2026-10-04T01:00:00+02:00",
+        "start": "2026-10-04T06:00:00+02:00",
+        "stop": "2026-10-04T09:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-03T23:31:17+02:00",
-        "stop": "2026-10-04T00:23:49+02:00",
+        "start": "2026-10-04T00:56:57+02:00",
+        "stop": "2026-10-04T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-04T00:23:49+02:00",
-        "stop": "2026-10-04T06:00:00+02:00",
+        "start": "2026-10-04T06:00:00+02:00",
+        "stop": "2026-10-04T09:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -103,48 +103,48 @@
     ],
     "sx3": [
       {
-        "start": "2026-10-04T00:21:00+02:00",
-        "stop": "2026-10-04T00:31:19+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "El monstre d'ulls verds",
-        "description": "La Felicity i el Miguel celebren l'aniversari de la seva amistat amb una excursió i el Miguel hi convida una nova amiga: una petita esquirol molt tímida. De seguida, però, la Felicity comença a sospitar que l'animaló no és tan inofensiu com sembla.",
+        "start": "2026-10-04T03:42:11+02:00",
+        "stop": "2026-10-04T03:52:11+02:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "El gran agraïment",
+        "description": "En l'aventura poptàstica d'avui, els amics li fan una festa fantàstica a la Mà Amiga! Però, amb tantes coses per fer, la Phoebe sabrà treballar amb els seus amics per preparar-ho tot a temps?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-04T00:31:19+02:00",
-        "stop": "2026-10-04T00:42:07+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "Ningú és purrfecte",
-        "description": "La Felicity està obsessionada amb convertir-se en una gateta perfecta. Però, com més ho intenta, més malament li surt tot i més sapastre se sent, fins al punt que els poders li comencen a fallar. Els seus amics, amoïnats, ideen un pla per animar-la.",
+        "start": "2026-10-04T03:52:11+02:00",
+        "stop": "2026-10-04T04:02:16+02:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "La pel·lícula d'en Zip",
+        "description": "A l'aventura poptàstica d'avui, els amics volen fer les seves pròpies pel·lícules, però a en Zip li costa pensar una idea. Podrà fer la pel·lícula a temps per la gran nit de cinema?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-03T23:43:27+02:00",
-        "stop": "2026-10-04T00:35:00+02:00",
-        "title": "60 minuts",
-        "subtitle": "11 de setembre, l'avís ignorat",
-        "description": "11 de setembre, l'advertiment ignorat és un documental de Nicolas Jallot que recupera la figura d'Ahmad Shah Massoud, el llegendari líder de la resistència afganesa conegut com el 'Lleó del Panjshir'. Assassinat per membres d'Al-Qaeda el 9 de setembre de 2001, dos dies abans dels atemptats contra els Estats Units, Massoud havia advertit mesos abans les capitals occidentals de l'amenaça creixent dels talibans, i els plans d'Ossama bin Laden. A través d'arxius, testimonis i una investigació històrica, la cinta mostra com els seus crits d'auxili van ser ignorats per Europa i els EUA, que tampoc van fer cas de l'advertiment de Massoud sobre el paper del Pakistan en el suport als talibans. El documental reflexiona sobre una oportunitat perduda que hauria pogut canviar el curs de la història recent.",
+        "start": "2026-10-04T03:33:00+02:00",
+        "stop": "2026-10-04T04:19:00+02:00",
+        "title": "Arxipèlag blau",
+        "subtitle": "Praderies i arenals",
+        "description": "Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-04T00:35:00+02:00",
-        "stop": "2026-10-04T01:52:00+02:00",
-        "title": "Perifèria",
-        "subtitle": "Perifèria",
-        "description": "'PERIFÈRIA' (2020). Una producció de Antivaho Cinematográfico S.L. en coproducció amb TV3 i la col·laboració de : Ajuntament de Santa Coloma de Gramenet, Ajuntament de Barcelona, AMB, Pla Estratègic Metropolità de Barcelona, Màster de Documental de Creació de la Universitat Pompeu Fabra, i el suport de l' ICAA.Perifèria és un viatge als ecos del passat de Santa Coloma de Gramenet, municipi proper a Barcelona. Els seus veïns van transformar el suburbi que els imposava l'especulació franquista en una ciutat digna. Aquest passat reverbera en el present dels seus carrers, places i rostres.Xavier Valls va ser l'arquitecte que elaborà el Pla Popular, una experiència pionera de participació ciutadana. El 1987, va ser assassinat per ETA a l'atemptat d'Hipercor. Els seus fills tornen al soterrani on va quedar sepultat el seu arxiu personal per recuperar aquella epopeia i, amb ella, la de tota una ciutat en lluita.Partint d'aquest descens a la memòria, Perifèria navega, a través d'una estructura en espiral, per diversos espais i personatges del present de la ciutat, convidant-nos a reflexionar sobre què sosté l'urbanisme d'una ciutat i l'arquitectura de les nostres formes de vida: què significa implicar-se en un món que no es deixa transformar a millor? Un cop més, les perifèries se'ns revelen com espais on assajar formes de vida genuïnes.Direcció: Xavi Esteban / Odei A.-EtxearteGuió: Odei A.-Etxearte, Xavi Esteban, Èrika Sánchez, Xavier VallsRealització i producció: Èrika SánchezProductor executiu TVC: Jordi AmbrósProductor delegat TVC: Daniel BareaDirector fotografia: Julián ElizaldeMuntatge: Xavi EstebanDirector de producció: Gemma ComasMúsica: Xavi Alías",
+        "start": "2026-10-04T04:19:00+02:00",
+        "stop": "2026-10-04T04:59:00+02:00",
+        "title": "Arxipèlag blau",
+        "subtitle": "Albuferes i aigües somes",
+        "description": "En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/6/1610701423467.jpg"
+        "image": ""
       }
     ],
     "oca1": [
       {
-        "start": "2026-10-03T19:55:12+02:00",
-        "stop": "2026-10-03T22:25:03+02:00",
+        "start": "2026-10-04T03:08:14+02:00",
+        "stop": "2026-10-04T11:34:00+02:00",
         "title": "Radar meteorològic: segueix l'evolució de les tempestes",
         "subtitle": "",
         "description": "",
