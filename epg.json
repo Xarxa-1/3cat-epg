@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-04T20:47:32.939378+00:00",
+  "updated": "2026-10-04T23:47:12.704664+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-04T22:28:56+02:00",
-        "stop": "2026-10-04T23:46:07+02:00",
-        "title": "Vèrtex",
-        "subtitle": "",
-        "description": "Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.",
-        "genre": "ENTREVISTES",
-        "image": ""
-      },
-      {
-        "start": "2026-10-04T23:46:07+02:00",
-        "stop": "2026-10-05T00:25:14+02:00",
+        "start": "2026-10-05T00:29:41+02:00",
+        "stop": "2026-10-05T04:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-05T04:00:00+02:00",
+        "stop": "2026-10-05T05:00:00+02:00",
+        "title": "Blues a l'estudi",
+        "subtitle": "David Philips",
+        "description": "Cantautor del Regne Unit que ens presenta un repertori a cavall del blues i el folk americà. En ocasions ens pot evocar atmosferes de rock acústic com les de Ry Cooder, Kelly Joe Phelps o Amos Lee. Però, sens dubte, Philips té un estil propi. Caspar St. Charles a la bateria, Thomas Kent Warburton, al baix; Abel Boquera als teclats i el mateix David Philips a la guitarra i veu.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-04T21:00:00+02:00",
-        "stop": "2026-10-04T23:00:00+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-10-05T01:00:00+02:00",
+        "stop": "2026-10-05T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-04T23:00:00+02:00",
-        "stop": "2026-10-05T00:30:00+02:00",
+        "start": "2026-10-05T06:00:00+02:00",
+        "stop": "2026-10-05T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-04T22:31:57+02:00",
-        "stop": "2026-10-04T23:00:00+02:00",
+        "start": "2026-10-05T01:28:45+02:00",
+        "stop": "2026-10-05T01:50:19+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+      },
+      {
+        "start": "2026-10-05T01:50:19+02:00",
+        "stop": "2026-10-05T02:16:58+02:00",
         "title": "WRC",
         "subtitle": "Ral·li d'Itàlia-Sardenya / WRC 2026 / J3",
         "description": "13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el desenllaç de la cursa italiana i el Campionat del Món.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"
-      },
-      {
-        "start": "2026-10-04T23:00:00+02:00",
-        "stop": "2026-10-05T00:02:04+02:00",
-        "title": "Esport Club Cap de Setmana",
-        "subtitle": "Esport Club",
-        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-04T22:44:33+02:00",
-        "stop": "2026-10-04T22:55:28+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "Un desastre somnàmbul",
-        "description": "Quan els habitants de Vilanimal es comencen a despertar a cases que no són les seves, truquen la Tropa perquè els ajudi a resoldre el misteri. Aviat descobreixen que el responsable de tot aquest desgavell és en Cornelius, que és somnàmbul! Ara el problema serà aturar-lo.",
+        "start": "2026-10-05T01:45:37+02:00",
+        "stop": "2026-10-05T02:07:36+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "El senyor Agreste",
+        "description": "L'Adrien ha de donar el seu vistiplau perquè erigeixin una estàtua en honor al seu pare, Gabriel Agreste, i a la Marinette cada vegada li costa més mantenir el secret que li amaga sobre el seu pare. I l'arribada d'un supermalvat que és com el seu vell enemic no l'ajudarà gens.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-04T22:55:28+02:00",
-        "stop": "2026-10-04T23:06:00+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "Diversió a la granja",
-        "description": "L'Elvis truca la Tropa: havia promès a en Cornelius que el colaria a la fira perquè no havia estat mai a cap, i ara resulta que l'han cancel·lat. La Tropa decideix muntar-ne una de molt divertida a la granja, però la cosa es complica quan la resta d'animals hi apareixen per sorpresa!",
+        "start": "2026-10-05T02:07:36+02:00",
+        "stop": "2026-10-05T02:28:46+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "El Castell Negre",
+        "description": "Per celebrar l'aniversari de l'Alix, la Marinette organitza un pla perquè pugui passar el dia amb els amics i la família. Per fer-ho recupera el prodigi del conill i es converteix en guardiana del temps per unes quantes hores. Però un supermalvat trastocarà els seus plans i amenaçarà d'esguerrar-los la festa.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-04T22:00:37+02:00",
-        "stop": "2026-10-04T23:37:56+02:00",
-        "title": "Pel.lícula",
-        "subtitle": "Pau, la força d'un silenci",
-        "description": "Pau, la força d'un silenciProductores :Televisió de Catalunya, Minoria Absoluta i Euskal Telebista amb el suport d'Institut Català de les Empreses Culturals. 2017Director : Manuel HuergaProductor : Francesc EscribanoProductora executiva TVC : Elisa PlazaGuió : Jordi Vallejo i Maria JaénDirector fotografia : Mario MonteroComposició musical : Xavi CapellasIntèrprets : Joan Pera( Pau Casals), Nao Albet (Pierre Fermat), Carme Sansa ( Frasquita Capdevila), Marc Cartes (Schneider), Albert Pérez (Antoine Giraud), Joan Carreras (Heimlich), Josean Bengoetxea (MIkel), David Bagès (Enric Casals), Manel Dueso ( Doctor Puig)Sinopsi :Exiliat a Prada de Conflent, Pau Casals, considerat el millor intèrpret del moment, ha decidit no tocar més en públic fins que la dictadura de Franco no caigui. Pierre, un jove francès a qui el mestre fa classes, intentarà convèncer-lo que faci un concert extraordinari que pot convertir-se en un homenatge a la llibertat.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
+        "start": "2026-10-05T01:07:10+02:00",
+        "stop": "2026-10-05T02:06:38+02:00",
+        "title": "Pau Casals, l'home que va fer sentir el silenci",
+        "subtitle": "Pau Casals, l'home que va fer sentir el silenci",
+        "description": "'Pau Casals, l'home que va fer sentir el silenci' (2011), un documental de RBA Audiovisuales en coproducció amb TELEVISIÓ DE CATALUNYA i amb la col·laboració de Fundació Pau Casals, Memorial Democràtic i l'ICEC. Va fer sonar la música més sublim i la va fer callar allà on la pau, la justícia i la llibertat no eren respectades. La música no podia elevar els esperits mentre la gent patia, era humiliada o moria. Però, ¿podia potser donar una llum d'esperança, l'esperança que un món millor és possible?Pau Casals va ser un músic importantíssim, que ocupa un lloc molt destacat a la història de la música. Però també va ser un símbol perquè va encarnar com ningú i abans que tots la figura de l'artista compromès. Ho va fer fins al punt de sacrificar el seu art, de fer callar la música durant anys i fer sentir un silenci que va ser eloqüent com un clam de llibertat.Pau Casals va viure convençut que la música podia portar a un món millor, més fraternal i just. Un món nou que la realitat del segle més violent de la història va negar-li un cop i un altre. La lluita entre aquest ideal esperançat i aquesta realitat dolorosa va ser la vida de Pau Casals. En ella se centra aquest documental, fet amb la col·laboració de la Fundació Pau Casals, la participació directa de la viuda del mestre, Marta Casals Istomin, testimonis de grans músics i una detallada documentació que presenta materials poc coneguts dels arxius personals, alguns fins ara inèdits.Producció executiva: Jordi Sellas i Francisco Vargas EcheverríaProducció executiva TVC: Jordi Ambròs Producció: Susanna AlcorizaProducció delegada TVC: Ruth Llòria Direcció i guió: Jaume BoixAssessorament històric: Núria BallesterRealització: Miguel E. LópezDirecció de producció: Cristina BoschDirecció de fotografia: Raül FabregatMúsics: Eulàlia Subirà, Marina González, Bruna González, Minerva Comerma, Helena Castells, Gemma Dalmau, Clara Dalmau, Pere Puertas, Quim Puertas, Pau Codina, Jordi Claret i Fe",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/8/1634806186282.jpg"
       },
       {
-        "start": "2026-10-04T23:37:56+02:00",
-        "stop": "2026-10-05T00:15:36+02:00",
-        "title": "Les nacions prohibides. Ciemen",
-        "subtitle": "Les nacions prohibides. Ciemen",
-        "description": "A l'escola aprenem que el món es divideix en països, separats per fronteres que semblen òbvies. Però moltes d'aquelles ratlles són arbitràries, i sota el mapa oficial bateguen realitats diferents: llengües, cultures i nacions soterrades. Les nacions prohibides és la història dels qui s'han dedicat a fer-les visibles. Al centre del relat hi ha el CIEMEN –Centre Internacional Escarré per a les Minories Ètniques i les Nacions&mdash; i el seu fundador, Aureli Argemí. Fundat a Milà el 1974, a l'exili, el CIEMEN va voler defensar la identitat catalana i connectar-la, alhora, amb totes les nacions sense estat i les llengües minoritzades del món. A través de les veus de Jordi Sànchez, Carles Riera, David Minoves, Mònica Sabata, Anne Degenève i Omaira Beltran, el documental ressegueix de quina manera aquesta entitat va ser el motor a l'ombra de la Crida a la Solidaritat i el 'Som una Nació' del Camp Nou, com va portar la causa catalana a Europa i a la UNESCO, com va impulsar la Declaració Universal dels Drets Lingüístics i la solidaritat amb els pobles d'arreu, i com va ser el bressol de la Plataforma pel Dret de Decidir, llavor de l'1 d'Octubre del 2017. Un retrat coral d'Argemí –l'ànima intel·lectual, el mestre, l'home dels acudits– i una manera de fer país: discreta, internacionalista i tossuda. Perquè els mapes oficials continuen amagant nacions i sempre hi haurà qui s'entesti a dibuixar-ne de noves.",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/6/1785239151163.jpg"
+        "start": "2026-10-05T02:06:38+02:00",
+        "stop": "2026-10-05T02:50:52+02:00",
+        "title": "Arxipèlag blau",
+        "subtitle": "Mar pelágica",
+        "description": "Ens endinsarem a la mar oberta, un univers desconegut i misteriós, on habiten des del microscòpic plàncton fins als grans mamífers marins. Enmig de la mar, la costa és lluny i el fons és gairebé inabastable. Una immensitat que és la llar sense fronteres de grans mamífers marins, intel·ligents i gregaris, com alguns dofins o els caps d'olla. Però cap d'aquests animals podria viure si no existissin uns organismes gairebé invisibles: el plàncton. Més de la meitat de l'oxigen que respirem prové d'uns minúsculs organismes que viuen a la deriva a mars i oceans: és el plàncton vegetal o fitoplàncton. A la mar és la base de la cadena alimentària marina i fa possible que es desenvolupi la resta de diversitat marina.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
