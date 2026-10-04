@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-04T01:46:10.764503+00:00",
+  "updated": "2026-10-04T07:41:16.751313+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-04T00:25:27+02:00",
-        "stop": "2026-10-04T06:00:00+02:00",
+        "start": "2026-10-04T09:00:00+02:00",
+        "stop": "2026-10-04T10:35:45+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,8 +52,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-04T06:00:00+02:00",
-        "stop": "2026-10-04T09:00:00+02:00",
+        "start": "2026-10-04T10:35:45+02:00",
+        "stop": "2026-10-04T11:50:44+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-10-04T01:00:00+02:00",
-        "stop": "2026-10-04T06:00:00+02:00",
+        "start": "2026-10-04T09:00:00+02:00",
+        "stop": "2026-10-04T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-04T06:00:00+02:00",
-        "stop": "2026-10-04T09:00:00+02:00",
+        "start": "2026-10-04T12:00:00+02:00",
+        "stop": "2026-10-04T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-04T00:56:57+02:00",
-        "stop": "2026-10-04T06:00:00+02:00",
+        "start": "2026-10-04T09:00:00+02:00",
+        "stop": "2026-10-04T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -92,59 +92,71 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-04T06:00:00+02:00",
-        "stop": "2026-10-04T09:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-10-04T10:00:00+02:00",
+        "stop": "2026-10-04T10:27:50+02:00",
+        "title": "E3",
+        "subtitle": "Matchday Champions Women J2",
+        "description": "Les milors imatges a la segona jornada de la gran competició europea femenina de futbol. El FC Barcelona ha visitat el camp de la Roma.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-04T03:42:11+02:00",
-        "stop": "2026-10-04T03:52:11+02:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "El gran agraïment",
-        "description": "En l'aventura poptàstica d'avui, els amics li fan una festa fantàstica a la Mà Amiga! Però, amb tantes coses per fer, la Phoebe sabrà treballar amb els seus amics per preparar-ho tot a temps?",
+        "start": "2026-10-04T09:32:25+02:00",
+        "stop": "2026-10-04T09:42:58+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla i el misteri de vehicle eruga sense conductor",
+        "description": "En Danny l'Audaç té un nou comandament a distància que pren el control del vehicle eruga de l'Everest i de tots els vehicles de Badia Aventures!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-04T03:52:11+02:00",
-        "stop": "2026-10-04T04:02:16+02:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "La pel·lícula d'en Zip",
-        "description": "A l'aventura poptàstica d'avui, els amics volen fer les seves pròpies pel·lícules, però a en Zip li costa pensar una idea. Podrà fer la pel·lícula a temps per la gran nit de cinema?",
+        "start": "2026-10-04T09:42:58+02:00",
+        "stop": "2026-10-04T09:53:31+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva els nens de Halloween",
+        "description": "Per Halloween, un nen misteriós disfressat d'aranya gegant s'endú tots els caramels de Badia Aventures!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-04T03:33:00+02:00",
-        "stop": "2026-10-04T04:19:00+02:00",
-        "title": "Arxipèlag blau",
-        "subtitle": "Praderies i arenals",
-        "description": "Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.",
+        "start": "2026-10-04T09:19:27+02:00",
+        "stop": "2026-10-04T09:51:50+02:00",
+        "title": "GR Pirineus",
+        "subtitle": "De vall a vall",
+        "description": "Avui el nostre viatge comença a la Vall d'Aran i acaba a la Vall de Boí. Sortirem de Casau, el balcó de Vielha e Mijaran, i travessant el seu famós túnel farem un tram llarg de carretera passant per Senet de Barravés, Vilaller i després ens endinsarem de cap a la Vall de Boí. I què no podem deixar de fer aquí? sobretot descobrir el seu romànic, una meravella. I acabarem el dia a Erill la Vall, on coneixerem uns germans molt vinculats a la vaca bruna: amb un la pasturarem, i amb l'altre..., eeeh!, la tastarem. L'endemà matinarem per passejar pel Parc Nacional d'Aigüestortes i Estany de Sant Maurici. Anirem a Barruera per aprendre a tocar l'acordió diatònic... I tancarem la ruta anant de falles. A València no, a Durro! Una festa molt emblemàtica.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
       },
       {
-        "start": "2026-10-04T04:19:00+02:00",
-        "stop": "2026-10-04T04:59:00+02:00",
-        "title": "Arxipèlag blau",
-        "subtitle": "Albuferes i aigües somes",
-        "description": "En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.",
+        "start": "2026-10-04T09:51:50+02:00",
+        "stop": "2026-10-04T10:22:22+02:00",
+        "title": "GR Pirineus",
+        "subtitle": "Pura energia",
+        "description": "Avui el nostre viatge transcorrerà pel Pallars Jussà, des de la Vall Fosca fins a Tremp!Començarem a la capçalera de la Vall, a l'estany de Sallente, on primer pujarem amb el telefèric per visitar l'estany Gento i després baixarem a l'interior de la Terra per descobrir la central hidroelèctrica més gran de Catalunya. A partir d'aquí creuarem la Vall per anar fins al seu límit, Senterada, on tastarem la girella, l'embotit típic del Pallars i hi farem nit.L'endemà matinarem per visitar la Pobla de Segur i Salàs, el poble de les botigues. Passarem per Talarn, on ens endinsarem de ple en el món del vi, i acabarem la ruta a la capital, Tremp.En total, uns 50 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb telefèric... ",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
       }
     ],
-    "oca1": [
+    "oca1": [],
+    "oca2": [
       {
-        "start": "2026-10-04T03:08:14+02:00",
-        "stop": "2026-10-04T11:34:00+02:00",
+        "start": "2026-10-04T09:25:00+02:00",
+        "stop": "2026-10-04T10:29:55+02:00",
+        "title": "El govern actualitza l'alerta i les restriccions per les pluges torrencials",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpeg/1/6/1791092610461.jpeg"
+      }
+    ],
+    "oca3": [
+      {
+        "start": "2026-10-04T06:02:41+02:00",
+        "stop": "2026-10-04T16:00:00+02:00",
         "title": "Radar meteorològic: segueix l'evolució de les tempestes",
         "subtitle": "",
         "description": "",
@@ -152,8 +164,6 @@
         "image": "https://img.3cat.cat/multimedia/jpg/0/0/1791048300700.jpg"
       }
     ],
-    "oca2": [],
-    "oca3": [],
     "oca4": []
   }
 }
