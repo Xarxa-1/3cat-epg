@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-04T07:41:16.751313+00:00",
+  "updated": "2026-10-04T13:28:22.116310+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-04T09:00:00+02:00",
-        "stop": "2026-10-04T10:35:45+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-04T14:30:00+02:00",
+        "stop": "2026-10-04T15:36:35+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-10-04T10:35:45+02:00",
-        "stop": "2026-10-04T11:50:44+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-10-04T15:36:35+02:00",
+        "stop": "2026-10-04T17:20:09+02:00",
+        "title": "Tarda de cine",
+        "subtitle": "Assassinat a Brocelianda",
+        "description": "ASSASSINAT A BROCELIANDA 'L'inconnu de Brocéliande'Direcció: Vincent GiovanniGuió: Virginie Brami, Yann Le GalProducció: TV5 Monde, Radio Télévision Suisse (RTS), BE-FILMS, CNC, Région Bretagne, Compagnie des Phares et Balises, France Télévisions, RTBF (Télévision Belge)Any: 2016Durada: 90País: FrançaMúsica: Hadrien BongueFotografia: Penélope PourriatIntèrprets: Claire Keim, Fred Bianconi, François Vincentelli, Carole Bianic, Stéphane Boucher, Yanis Richard, Féodor Atkine, Nadia Fossier, Francis Renaud, Anouck Montreuil, Vinciane Amilhon, Dominique Prie, Vanessa BeucherEn ple bosc de Brocelianda apareix un cadàver sense identificar parcialment cremat i un nen de tretze anys en estat de xoc incapaç de parlar. Què hi fa, allà? I per què no pot dir res? La seva presència està relacionada amb l'assassinat? La Marie Delorme i l'Eric Guillaumond, els dos gendarmes encarregats del cas, i un psiquiatre infantil poc convencional intenten aclarir el misteri.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-04T09:00:00+02:00",
-        "stop": "2026-10-04T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-04T14:30:00+02:00",
+        "stop": "2026-10-04T16:30:00+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-10-04T12:00:00+02:00",
-        "stop": "2026-10-04T14:30:00+02:00",
+        "start": "2026-10-04T16:30:00+02:00",
+        "stop": "2026-10-04T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,74 +83,74 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-04T09:00:00+02:00",
-        "stop": "2026-10-04T10:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-10-04T14:25:00+02:00",
+        "stop": "2026-10-04T16:08:02+02:00",
+        "title": "Hípica",
+        "subtitle": "Lliga de les Nacions / CSIO / 2a mànega",
+        "description": "El Reial Club de Polo de Barcelona és l'escenari de la competició per equips a la Lliga de les Nacions del Concurs de Salts Internacional Oficial. ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/6/1790764872063.jpg"
       },
       {
-        "start": "2026-10-04T10:00:00+02:00",
-        "stop": "2026-10-04T10:27:50+02:00",
-        "title": "E3",
-        "subtitle": "Matchday Champions Women J2",
-        "description": "Les milors imatges a la segona jornada de la gran competició europea femenina de futbol. El FC Barcelona ha visitat el camp de la Roma.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"
+        "start": "2026-10-04T16:08:02+02:00",
+        "stop": "2026-10-04T16:55:00+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Pere Romeu / Prèvia Barça-R. Madrid / J6",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-04T09:32:25+02:00",
-        "stop": "2026-10-04T09:42:58+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla i el misteri de vehicle eruga sense conductor",
-        "description": "En Danny l'Audaç té un nou comandament a distància que pren el control del vehicle eruga de l'Everest i de tots els vehicles de Badia Aventures!",
+        "start": "2026-10-04T15:19:21+02:00",
+        "stop": "2026-10-04T15:30:51+02:00",
+        "title": "Les Sisters",
+        "subtitle": "El noviet a casa",
+        "description": "Per unes reparacions que han de fer a casa seva, el Maxence passarà uns dies a casa de les Sisters i la Marine té por que s'hi quedi per sempre. La Marine explica a la Wendy que passar massa temps amb la parella no és bo per la relació i la convenç que s'allunyi del Maxence!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-04T09:42:58+02:00",
-        "stop": "2026-10-04T09:53:31+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla salva els nens de Halloween",
-        "description": "Per Halloween, un nen misteriós disfressat d'aranya gegant s'endú tots els caramels de Badia Aventures!",
+        "start": "2026-10-04T15:30:51+02:00",
+        "stop": "2026-10-04T15:41:58+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Adéu vacances!",
+        "description": "La Marine i la Wendy tenen grans plans per passar les vacances amb els seus amics, però els seus pares les volen enviar a casa l'avi i l'àvia. Ni parlar-ne! La parella de germanes decideix portar-se supermalament perquè els pares les castiguin sense anar a casa els avis. Finalment, però, les coses no surten com esperaven.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-04T09:19:27+02:00",
-        "stop": "2026-10-04T09:51:50+02:00",
-        "title": "GR Pirineus",
-        "subtitle": "De vall a vall",
-        "description": "Avui el nostre viatge comença a la Vall d'Aran i acaba a la Vall de Boí. Sortirem de Casau, el balcó de Vielha e Mijaran, i travessant el seu famós túnel farem un tram llarg de carretera passant per Senet de Barravés, Vilaller i després ens endinsarem de cap a la Vall de Boí. I què no podem deixar de fer aquí? sobretot descobrir el seu romànic, una meravella. I acabarem el dia a Erill la Vall, on coneixerem uns germans molt vinculats a la vaca bruna: amb un la pasturarem, i amb l'altre..., eeeh!, la tastarem. L'endemà matinarem per passejar pel Parc Nacional d'Aigüestortes i Estany de Sant Maurici. Anirem a Barruera per aprendre a tocar l'acordió diatònic... I tancarem la ruta anant de falles. A València no, a Durro! Una festa molt emblemàtica.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "start": "2026-10-04T15:10:54+02:00",
+        "stop": "2026-10-04T15:33:12+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Transgènics a la carta",
+        "description": "'Quèquicom' sotmetrà a examen els aliments transgènics. El programa examinarà els pros i els contres d'aquests conreus i els seus possibles efectes sobre la salut humana. El blat de moro és l'única planta transgènica que té autorització per ser cultivada a Espanya, i molts pagesos la trien per la seva resistència a les malures. La reportera Anna Lasaga farà un viatge pels camps i els laboratoris on s'estudien aquestes plantes per treure l'aigua clara sobre què és un transgènic i quins efectes pot tenir sobre l'ambient i els sers humans. A més, Francesc Vilarroya, professor de biotecnologia de la Universitat de Barcelona, explicarà com processa el cos humà els productes transgènics per poder-los assimilar. I Pere Puigdomènec, director del laboratori CSIC- IRTA, creu que els transgènics són útils i considera excessius els tràmits que es necessiten per autoritzar que un nou transgènic surti al mercat.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       },
       {
-        "start": "2026-10-04T09:51:50+02:00",
-        "stop": "2026-10-04T10:22:22+02:00",
-        "title": "GR Pirineus",
-        "subtitle": "Pura energia",
-        "description": "Avui el nostre viatge transcorrerà pel Pallars Jussà, des de la Vall Fosca fins a Tremp!Començarem a la capçalera de la Vall, a l'estany de Sallente, on primer pujarem amb el telefèric per visitar l'estany Gento i després baixarem a l'interior de la Terra per descobrir la central hidroelèctrica més gran de Catalunya. A partir d'aquí creuarem la Vall per anar fins al seu límit, Senterada, on tastarem la girella, l'embotit típic del Pallars i hi farem nit.L'endemà matinarem per visitar la Pobla de Segur i Salàs, el poble de les botigues. Passarem per Talarn, on ens endinsarem de ple en el món del vi, i acabarem la ruta a la capital, Tremp.En total, uns 50 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb telefèric... ",
+        "start": "2026-10-04T15:33:12+02:00",
+        "stop": "2026-10-04T16:31:04+02:00",
+        "title": "Un planeta perfecte",
+        "subtitle": "Humans",
+        "description": "L'activitat humana ha afectat la majoria dels hàbitats del planeta. En aquest episodi, 'la història més important del nostres temps' en paraules de David Attenborough, veiem com la nostra addicció als combustibles fòssils altera les forces de la natura. Però encara hi ha esperança: els projectes de recuperació de boscos i fauna, i d'aprofitament de l'energia van en la direcció correcta. Si ens ho proposem, encara estem a temps de salvar el nostre planeta perfecte.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"
       }
     ],
     "oca1": [],
     "oca2": [
       {
-        "start": "2026-10-04T09:25:00+02:00",
-        "stop": "2026-10-04T10:29:55+02:00",
-        "title": "El govern actualitza l'alerta i les restriccions per les pluges torrencials",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpeg/1/6/1791092610461.jpeg"
+        "start": "2026-10-04T15:25:00+02:00",
+        "stop": "2026-10-04T19:30:00+02:00",
+        "title": "Diades Castelleres Especials",
+        "subtitle": "- Concurs de Castells de Tarragona 2026 - Jornada de diumenge (part 1)",
+        "description": "Màximes expectatives al Concurs de Castells de Tarragona en una nova cita biennal, el primer cap de setmana d'octubre. L'única diada castellera en format competitiu que arriba en una temporada de bogeria en què de bon començament ja s'han aixecat estructures de gamma alta i hi han sovintejat els castells de 10. La jornada més espectacular, la de diumenge a la Tarraco Arena, on competeixen les 12 millors colles, amb els verds de Vilafranca; la Vella i la Jove dels Xiquets de Valls, i la colla Jove dels Xiquets de Tarragona com a grans favorites. Un concurs molt renyit on les colles estan preparades per donar-ho tot. S'aixecaran castells mai vistos fins ara? Quines estratègies es desplegaran a plaça? L'emoció castellera està servida. La retransmissió del Concurs de Castells de Tarragona és una producció de La Xarxa i TAC12",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/1/1790689831717.jpg"
       }
     ],
     "oca3": [
