@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-04T23:47:12.704664+00:00",
+  "updated": "2026-10-05T03:42:25.170016+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,21 +43,21 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-05T00:29:41+02:00",
-        "stop": "2026-10-05T04:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-10-05T05:00:00+02:00",
+        "stop": "2026-10-05T05:59:42+02:00",
+        "title": "Jazz a l'estudi",
+        "subtitle": "Victor de Diego",
+        "description": "Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. ",
+        "genre": "JAZZ",
+        "image": ""
       },
       {
-        "start": "2026-10-05T04:00:00+02:00",
-        "stop": "2026-10-05T05:00:00+02:00",
-        "title": "Blues a l'estudi",
-        "subtitle": "David Philips",
-        "description": "Cantautor del Regne Unit que ens presenta un repertori a cavall del blues i el folk americà. En ocasions ens pot evocar atmosferes de rock acústic com les de Ry Cooder, Kelly Joe Phelps o Amos Lee. Però, sens dubte, Philips té un estil propi. Caspar St. Charles a la bateria, Thomas Kent Warburton, al baix; Abel Boquera als teclats i el mateix David Philips a la guitarra i veu.",
-        "genre": "ALTRES",
+        "start": "2026-10-05T05:59:42+02:00",
+        "stop": "2026-10-05T06:00:00+02:00",
+        "title": "Jazz a l'estudi",
+        "subtitle": "Victor de Diego",
+        "description": "Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. ",
+        "genre": "JAZZ",
         "image": ""
       }
     ],
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-05T01:28:45+02:00",
-        "stop": "2026-10-05T01:50:19+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-10-05T04:08:07+02:00",
+        "stop": "2026-10-05T06:03:22+02:00",
+        "title": "Bàsquet",
+        "subtitle": "iLERNA Lleida-RS San Pablo Burgos / Lliga / J2",
+        "description": "Després de la gran victòria a València (100-105), en la 1a jornada, el conjunt de la Terra Ferma s'estrena a Barris Nord contra els castellans.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"
       },
       {
-        "start": "2026-10-05T01:50:19+02:00",
-        "stop": "2026-10-05T02:16:58+02:00",
+        "start": "2026-10-05T06:03:22+02:00",
+        "stop": "2026-10-05T06:29:55+02:00",
         "title": "WRC",
         "subtitle": "Ral·li d'Itàlia-Sardenya / WRC 2026 / J3",
         "description": "13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el desenllaç de la cursa italiana i el Campionat del Món.",
@@ -103,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-10-05T01:45:37+02:00",
-        "stop": "2026-10-05T02:07:36+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "El senyor Agreste",
-        "description": "L'Adrien ha de donar el seu vistiplau perquè erigeixin una estàtua en honor al seu pare, Gabriel Agreste, i a la Marinette cada vegada li costa més mantenir el secret que li amaga sobre el seu pare. I l'arribada d'un supermalvat que és com el seu vell enemic no l'ajudarà gens.",
+        "start": "2026-10-05T05:37:53+02:00",
+        "stop": "2026-10-05T05:43:53+02:00",
+        "title": "El xai Shaun",
+        "subtitle": "Pel·lícula d'època",
+        "description": "Un equip de filmació ha triat la granja per rodar-hi una pel·lícula d'època. Quan la Segaboca es menja la cinta, el Shaun i el ramat hi han d'intervenir per assegurar-se que la pel·lícula s'acaba i arriba als cinemes de tot arreu.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-05T02:07:36+02:00",
-        "stop": "2026-10-05T02:28:46+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "El Castell Negre",
-        "description": "Per celebrar l'aniversari de l'Alix, la Marinette organitza un pla perquè pugui passar el dia amb els amics i la família. Per fer-ho recupera el prodigi del conill i es converteix en guardiana del temps per unes quantes hores. Però un supermalvat trastocarà els seus plans i amenaçarà d'esguerrar-los la festa.",
+        "start": "2026-10-05T05:43:53+02:00",
+        "stop": "2026-10-05T05:49:52+02:00",
+        "title": "El xai Shaun",
+        "subtitle": "El zoo infantil",
+        "description": "Com que s'adona que els animals de la granja susciten més interès que no pas els productes que vol vendre, el granger decideix obrir un zoo infantil. Però quan perd el control de la situació per culpa dels eufòrics visitants, el Shaun ha d'entrar en acció per tornar a posar les coses al seu lloc.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-05T01:07:10+02:00",
-        "stop": "2026-10-05T02:06:38+02:00",
-        "title": "Pau Casals, l'home que va fer sentir el silenci",
-        "subtitle": "Pau Casals, l'home que va fer sentir el silenci",
-        "description": "'Pau Casals, l'home que va fer sentir el silenci' (2011), un documental de RBA Audiovisuales en coproducció amb TELEVISIÓ DE CATALUNYA i amb la col·laboració de Fundació Pau Casals, Memorial Democràtic i l'ICEC. Va fer sonar la música més sublim i la va fer callar allà on la pau, la justícia i la llibertat no eren respectades. La música no podia elevar els esperits mentre la gent patia, era humiliada o moria. Però, ¿podia potser donar una llum d'esperança, l'esperança que un món millor és possible?Pau Casals va ser un músic importantíssim, que ocupa un lloc molt destacat a la història de la música. Però també va ser un símbol perquè va encarnar com ningú i abans que tots la figura de l'artista compromès. Ho va fer fins al punt de sacrificar el seu art, de fer callar la música durant anys i fer sentir un silenci que va ser eloqüent com un clam de llibertat.Pau Casals va viure convençut que la música podia portar a un món millor, més fraternal i just. Un món nou que la realitat del segle més violent de la història va negar-li un cop i un altre. La lluita entre aquest ideal esperançat i aquesta realitat dolorosa va ser la vida de Pau Casals. En ella se centra aquest documental, fet amb la col·laboració de la Fundació Pau Casals, la participació directa de la viuda del mestre, Marta Casals Istomin, testimonis de grans músics i una detallada documentació que presenta materials poc coneguts dels arxius personals, alguns fins ara inèdits.Producció executiva: Jordi Sellas i Francisco Vargas EcheverríaProducció executiva TVC: Jordi Ambròs Producció: Susanna AlcorizaProducció delegada TVC: Ruth Llòria Direcció i guió: Jaume BoixAssessorament històric: Núria BallesterRealització: Miguel E. LópezDirecció de producció: Cristina BoschDirecció de fotografia: Raül FabregatMúsics: Eulàlia Subirà, Marina González, Bruna González, Minerva Comerma, Helena Castells, Gemma Dalmau, Clara Dalmau, Pere Puertas, Quim Puertas, Pau Codina, Jordi Claret i Fe",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/8/1634806186282.jpg"
+        "start": "2026-10-05T05:39:51+02:00",
+        "stop": "2026-10-05T05:45:01+02:00",
+        "title": "Xarxa Natura",
+        "subtitle": "Collserola",
+        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
       },
       {
-        "start": "2026-10-05T02:06:38+02:00",
-        "stop": "2026-10-05T02:50:52+02:00",
-        "title": "Arxipèlag blau",
-        "subtitle": "Mar pelágica",
-        "description": "Ens endinsarem a la mar oberta, un univers desconegut i misteriós, on habiten des del microscòpic plàncton fins als grans mamífers marins. Enmig de la mar, la costa és lluny i el fons és gairebé inabastable. Una immensitat que és la llar sense fronteres de grans mamífers marins, intel·ligents i gregaris, com alguns dofins o els caps d'olla. Però cap d'aquests animals podria viure si no existissin uns organismes gairebé invisibles: el plàncton. Més de la meitat de l'oxigen que respirem prové d'uns minúsculs organismes que viuen a la deriva a mars i oceans: és el plàncton vegetal o fitoplàncton. A la mar és la base de la cadena alimentària marina i fa possible que es desenvolupi la resta de diversitat marina.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-10-05T05:45:01+02:00",
+        "stop": "2026-10-05T05:50:55+02:00",
+        "title": "Xarxa Natura",
+        "subtitle": "Delta de l''Ebre",
+        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
       }
     ],
     "oca1": [],
