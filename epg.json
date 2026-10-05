@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-05T03:42:25.170016+00:00",
+  "updated": "2026-10-05T10:51:42.524029+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-05T05:00:00+02:00",
-        "stop": "2026-10-05T05:59:42+02:00",
-        "title": "Jazz a l'estudi",
-        "subtitle": "Victor de Diego",
-        "description": "Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. ",
-        "genre": "JAZZ",
+        "start": "2026-10-05T10:31:40+02:00",
+        "stop": "2026-10-05T13:55:00+02:00",
+        "title": "Tot es mou",
+        "subtitle": "",
+        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "genre": "MAGAZINE",
         "image": ""
       },
       {
-        "start": "2026-10-05T05:59:42+02:00",
-        "stop": "2026-10-05T06:00:00+02:00",
-        "title": "Jazz a l'estudi",
-        "subtitle": "Victor de Diego",
-        "description": "Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. ",
-        "genre": "JAZZ",
-        "image": ""
+        "start": "2026-10-05T13:55:00+02:00",
+        "stop": "2026-10-05T14:30:00+02:00",
+        "title": "Telenotícies comarques",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-05T01:00:00+02:00",
-        "stop": "2026-10-05T06:00:00+02:00",
+        "start": "2026-10-05T12:00:00+02:00",
+        "stop": "2026-10-05T13:55:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,78 +72,98 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-05T06:00:00+02:00",
-        "stop": "2026-10-05T08:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-05T13:55:00+02:00",
+        "stop": "2026-10-05T14:30:00+02:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-05T04:08:07+02:00",
-        "stop": "2026-10-05T06:03:22+02:00",
-        "title": "Bàsquet",
-        "subtitle": "iLERNA Lleida-RS San Pablo Burgos / Lliga / J2",
-        "description": "Després de la gran victòria a València (100-105), en la 1a jornada, el conjunt de la Terra Ferma s'estrena a Barris Nord contra els castellans.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"
+        "start": "2026-10-05T12:27:39+02:00",
+        "stop": "2026-10-05T13:00:00+02:00",
+        "title": "Zona zàping",
+        "subtitle": "El millor de l'esport i la TV",
+        "description": "Les imatges més espectaculars i curioses de l'actualitat esportiva.",
+        "genre": "ALTRES",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"
       },
       {
-        "start": "2026-10-05T06:03:22+02:00",
-        "stop": "2026-10-05T06:29:55+02:00",
-        "title": "WRC",
-        "subtitle": "Ral·li d'Itàlia-Sardenya / WRC 2026 / J3",
-        "description": "13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el desenllaç de la cursa italiana i el Campionat del Món.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"
+        "start": "2026-10-05T13:00:00+02:00",
+        "stop": "2026-10-05T14:02:23+02:00",
+        "title": "Esport Club",
+        "subtitle": "",
+        "description": "En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-05T05:37:53+02:00",
-        "stop": "2026-10-05T05:43:53+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "Pel·lícula d'època",
-        "description": "Un equip de filmació ha triat la granja per rodar-hi una pel·lícula d'època. Quan la Segaboca es menja la cinta, el Shaun i el ramat hi han d'intervenir per assegurar-se que la pel·lícula s'acaba i arriba als cinemes de tot arreu.",
+        "start": "2026-10-05T12:36:00+02:00",
+        "stop": "2026-10-05T12:58:22+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Delícies d'ornitorinc",
+        "description": "Tot fent caiac per Austràlia, en Chris i en Martin s'han trobat un dels animals més estrambòtics del món: un mamífer amb potes d'ànec, cua de castor... i que pon ous?! Només pot ser l'ornitorinc! El pitjor de tot és que en Gormand, un xef molt malvat, vol afegir els ous d'aquest animal en extinció al seu menú! Avui tenen feina, els germans Kratt!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-05T05:43:53+02:00",
-        "stop": "2026-10-05T05:49:52+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "El zoo infantil",
-        "description": "Com que s'adona que els animals de la granja susciten més interès que no pas els productes que vol vendre, el granger decideix obrir un zoo infantil. Però quan perd el control de la situació per culpa dels eufòrics visitants, el Shaun ha d'entrar en acció per tornar a posar les coses al seu lloc.",
+        "start": "2026-10-05T12:58:22+02:00",
+        "stop": "2026-10-05T13:19:35+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El punt cec de l'emprovador (1a part)",
+        "description": "La Ran, la Sonoko i la Masumi se'n van a una botiga per comprar-se un biquini. Quan en Conan veu el model que s'emprova la Masumi, de sobte li venen a la ment imatges d'un estiu llunyà, però no aconsegueix ubicar-les. Cansat d'esperar, se'n va a fer un tomb pel centre comercial. Quan es torna a reunir amb les noies se sent un crit. S'ha comès un crim en una de les botigues on havia entrat en Conan.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-05T05:39:51+02:00",
-        "stop": "2026-10-05T05:45:01+02:00",
-        "title": "Xarxa Natura",
-        "subtitle": "Collserola",
-        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
+        "start": "2026-10-05T12:46:05+02:00",
+        "stop": "2026-10-05T14:26:33+02:00",
+        "title": "El Gran Dictat, VIP",
+        "subtitle": "El Gran Gran Dictat",
+        "description": "Albert Om, Empar Moliner i Pep Plaza revolucionen 'EL GRAN GRAN DICTAT'El concurs multiplica presentador i convidats en el programa més esbojarrat de la temporada. Òscar Dalmau rebrà dos concursants de primera línia: Albert Om, tot un expert fent de convidat, i Empar Moliner, l'escriptora i col·laboradora d''Els Matins', que no para quieta. I no estaran sols, perquè en aquesta ocasió compartiran taula amb un munt de gent: Pep Guardiola, Jordi González, Quim Monzó, Boris Izaguirre, Jordi Pujol i Raphael, entre molts altres, també hi seran presents... Això sí, encarnats per l'imitador Pep Plaza. Tots plegats concursaran per endur-se un premi de 2.000 euros, que donaran a l'ONG que hagin triat.Albert Om i el mateix presentador del programa també seran 'víctimes' de Pep Plaza, que aprofitarà l'avinentesa per imitar-los davant seu i, fins i tot, intentarà prendre la feina a Òscar Dalmau presentant una part del programa.Els concursants també participaran en diversos esquetxos en què descobriran alguns dels seus secrets més ben guardats: ¿què ho fa, que Albert Om sempre s'afaiti i miri un partit del Barça quan va convidat? Quin mètode fa servir Empar Moliner per tenir tan bones idees? I per què Pep Plaza va a la platja en ple hivern?Com cada setmana, el Mag Lari deixarà bocabadats presentador, concursants i públic amb els trucs de màgia més espectaculars.",
+        "genre": "EDUCATIU",
+        "image": ""
       },
       {
-        "start": "2026-10-05T05:45:01+02:00",
-        "stop": "2026-10-05T05:50:55+02:00",
-        "title": "Xarxa Natura",
-        "subtitle": "Delta de l''Ebre",
-        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
+        "start": "2026-10-05T14:26:33+02:00",
+        "stop": "2026-10-05T14:56:37+02:00",
+        "title": "No tenim vergonya",
+        "subtitle": "",
+        "description": "'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.",
+        "genre": "REPORTATGES",
+        "image": ""
       }
     ],
-    "oca1": [],
+    "oca1": [
+      {
+        "start": "2026-10-05T12:29:26+02:00",
+        "stop": "2026-10-05T14:29:21+02:00",
+        "title": "Parlon informa de l'última hora del temporal de pluges",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpeg/1/6/1791092610461.jpeg"
+      }
+    ],
     "oca2": [],
-    "oca3": [],
+    "oca3": [
+      {
+        "start": "2026-10-05T08:03:33+02:00",
+        "stop": "2026-10-05T13:03:28+02:00",
+        "title": "Radar meteorològic: segueix l'evolució de les tempestes",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/0/1791048300700.jpg"
+      }
+    ],
     "oca4": []
   }
 }
