@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-06T14:10:25.593104+00:00",
+  "updated": "2026-10-06T19:31:21.535320+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,117 +43,137 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-06T15:57:11+02:00",
-        "stop": "2026-10-06T16:35:42+02:00",
-        "title": "Com si fos ahir",
+        "start": "2026-10-06T21:00:05+02:00",
+        "stop": "2026-10-06T21:59:58+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "En Miquel veu la complicitat professional entre la Noe i en Maurici i es comença a posar gelós. La Itziar està molt cansada per la falta d'un cuiner i acaba discutint amb la Foix just abans que l'Iker torni a aparèixer de manera inquietant. I en Sam continua buscant excuses per estar amb la Sílvia, mentre el seu pare també s'acosta al gimnàs per desfogar-se. ",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-06T16:40:07+02:00",
-        "stop": "2026-10-06T17:16:59+02:00",
-        "title": "La Riera",
-        "subtitle": "",
-        "description": "Lluny de fer-se enrere per les amenaces de la Lídia, l'Estel aconsegueix una cita amb en Claudi. El negoci que ha proposat l'Ona amenaça de convertir-se en una font de conflictes familiars. A la cuina, en Carlos i en Sergi competeixen per la Maribel i en Casellas ho ha d'aturar mentre la noia al·lucina. En Joan, desesperat perquè la Txell 'no es deixa', torna a buscar la Maribel. I avui és el primer dia com a cap de sala per a en Lluís...",
-        "genre": "TELENOVEL·LA",
+        "start": "2026-10-06T21:59:58+02:00",
+        "stop": "2026-10-06T22:07:33+02:00",
+        "title": "De primera!",
+        "subtitle": "- De primera: De la mar a la memòria",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-06T16:00:00+02:00",
-        "stop": "2026-10-06T17:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-06T21:00:00+02:00",
+        "stop": "2026-10-06T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-06T17:00:00+02:00",
-        "stop": "2026-10-06T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-06T22:05:00+02:00",
+        "stop": "2026-10-07T00:00:00+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-06T15:36:31+02:00",
-        "stop": "2026-10-06T16:29:22+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Puan",
-        "description": "La Putri Anindya, més coneguda com la 'Puan', és una jove indonèsia que, acompanyada de la Ivana Miño, descobreix la Sagrada Família, el Tibidabo i llocs magnífics del Berguedà. A més, a Berga, l'espera una experiència única; la Patum.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-06T19:40:00+02:00",
+        "stop": "2026-10-06T21:41:56+02:00",
+        "title": "Bàsquet",
+        "subtitle": "FIATC Girona-Dinamo Bucarest / Fiba Europe Cup / J1",
+        "description": "Els gironins s'estrenen, a Fontajau, en la primera jornada a la fase de grups d'aquesta competició europea.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"
       },
       {
-        "start": "2026-10-06T16:29:22+02:00",
-        "stop": "2026-10-06T17:23:17+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Corno",
-        "description": "Amb el Corno van der Berg, un jove holandès, visitem diferents indrets naturals dels Pallars i coneixem la tradicional baixada de falles d'Isil. A més, al circuit Barcelona-Catalunya gaudeix d'una experiència al límit.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-06T21:41:56+02:00",
+        "stop": "2026-10-06T22:28:15+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Asisa Joventut-Bnei Penlink / Champions League / J1",
+        "description": "El conjunt de Badalona comença la nova participació a la Champions contra l'equip israelià de Herzliya.  ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-06T16:07:53+02:00",
-        "stop": "2026-10-06T16:14:23+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Dia i nit",
-        "description": "Volant sobre ratpenats, els Lèmmings celebren una cursa d'obstacles a la cabana, completament a les fosques. Quan en Grizzy arriba a casa, s'espanta i encén els llums. Els ratpenats es pengen gairebé a l'instant del sostre i s'adormen. Quan l'os els llança fora de la cabana, els Lèmmings van a parar a un temple inca on descobreixen un objecte esfèric que pot controlar la rotació de la Terra. Els rosegadors fan que a la selva ara sigui de nit i desperten les seves muntures...",
+        "start": "2026-10-06T21:22:17+02:00",
+        "stop": "2026-10-06T21:40:52+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "En Trunks és un guerrer fabulós",
+        "description": "El campionat infantil comença sense gaires sorpreses. En Trunks, que s'avorreix una mica, i en Son Goten, que està impressionat amb la quantitat de públic que hi ha, no tenen rival i demostren que són molt superiors a la resta. A la Bulma i a la Xixi els cau la bava amb les victòries dels seus fills, i en Son Goku se'n sent més orgullós que mai.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-06T16:14:23+02:00",
-        "stop": "2026-10-06T16:20:53+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Enemics pacífics",
-        "description": "En Grizzy i els Lèmmings es barallen per una tauleta tàctil. Durant la brega, fan caure d'un helicòpter militar una caixa que aterra al bosc de bambú que envolta la cabana. De la caixa en surt un panda missioner de la pau que, atret per l'enrenou, intenta tranquil·litzar els adversaris. Però, podran les estratègies sense límit d'en Grizzy i els Lèmmings per recuperar la tauleta superar la paciència del panda?",
+        "start": "2026-10-06T21:40:52+02:00",
+        "stop": "2026-10-06T22:03:07+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "En Son Goten contra en Trunks",
+        "description": "Després de vèncer tots els seus rivals amb molta facilitat, en Son Goten i en Trunks, tal com s'esperava, arriben a la final del Campionat Infantil d'Arts Marcials. El públic aviat quedarà sorprès davant del poder i del nivell de dos nens de set i vuit anys, fills de superguerrers, que estan a punt d'oferir un espectacle difícil de repetir.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-06T15:41:40+02:00",
-        "stop": "2026-10-06T16:27:57+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La mosquitera",
-        "description": "Aquest capítol de 'La Renaixença' està dedicat a la mosquitera, un objecte que ens ha salvat la vida, literalment, perquè resulta que els mosquits són l'animal que causa més morts humanes del món. Si no teniu mosquiteres a casa, ara és el moment de posar-les. Ve l'Andrea Motis, amb qui parlem una estona i que comparteix escenari amb la Laia Glück i l'Arnau Tordera per interpretar 'Record de nit'. I sortim a passejar el gos per l'epidèmia del ball d'Estrasburg, el 1518.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-10-06T21:12:30+02:00",
+        "stop": "2026-10-06T21:37:56+02:00",
+        "title": "L'un per l'altre",
+        "subtitle": "Banyes",
+        "description": "Gràcies al Calafell, el Toni s'assabenta que la Joana sempre l'ha trobat molt atractiu. A partir d'aquest moment el Toni es mira la Joana amb uns altres ulls i ell també la troba extremadament desitjable. Per la seva banda, a la Rosa li fa gràcia un noi que treballa en una verduleria de la plaça. Feia anys que no hi anava a comprar tan sovint.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "image": ""
       },
       {
-        "start": "2026-10-06T16:27:57+02:00",
-        "stop": "2026-10-06T17:34:42+02:00",
-        "title": "Còmics",
-        "subtitle": "Tricicle",
-        "description": "Com es poden dir tantes coses sense pronunciar ni una paraula? Joan Gràcia, Carles Sans i Paco Mir encarnen la universalitat de l'humor gestual ple de tendresa i de dobles sentits, que juga amb l'absurd però que alhora es pot reconèixer en la quotidianitat de tothom. El programa recrea alguns dels seus números més coneguts, per a la qual cosa ha reunit un trio de mims ocasionals insòlit i sorprenent",
-        "genre": "GAGS. HUMOR",
+        "start": "2026-10-06T21:37:56+02:00",
+        "stop": "2026-10-06T22:00:43+02:00",
+        "title": "L'un per l'altre",
+        "subtitle": "Ambicions",
+        "description": "El Toni està passant una crisi laboral. Ell volia ser un gran arqueòleg i ha acabat sent un trist professor d'institut. El problema s'agreuja quan un antic company de la facultat li ofereix marxar amb ell a Egipte per excavar unes ruïnes. Tothom li diu que és la oportunitat de la seva vida, però ell no ho veu tan clar. Per la seva banda, la Maria també reb una bona oferta que l'obliga a canviar els seus plans a curt termini.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       }
     ],
-    "oca1": [],
-    "oca2": [],
-    "oca3": [],
-    "oca4": [
+    "oca1": [
       {
-        "start": "2026-10-06T14:59:30+02:00",
-        "stop": "2026-10-06T17:29:25+02:00",
-        "title": "Ple del Parlament",
+        "start": "2026-10-06T20:25:00+02:00",
+        "stop": "2026-10-06T22:24:55+02:00",
+        "title": "Bàsquet",
+        "subtitle": "- Asisa Joventut-Bnei Penlink / Champions League / J1",
+        "description": "El conjunt de Badalona comença la nova participació a la Champions contra l'equip israelià de Herzliya.  ",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"
+      }
+    ],
+    "oca2": [
+      {
+        "start": "2026-10-06T20:35:00+02:00",
+        "stop": "2026-10-06T22:29:55+02:00",
+        "title": "Handbol",
+        "subtitle": "- BM Granollers-Buzau / EHF European League / J2",
+        "description": "El Fraikin rep el conjunt rumanès amb l'objectiu de sumar la primera victòria en el campionat.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1729614341772.jpg"
+      }
+    ],
+    "oca3": [
+      {
+        "start": "2026-10-06T20:02:02+02:00",
+        "stop": "2026-10-07T05:59:54+02:00",
+        "title": "Radar meteorològic: segueix l'evolució de les tempestes",
         "subtitle": "",
         "description": "",
         "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1699359531979.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/0/0/1791048300700.jpg"
       }
-    ]
+    ],
+    "oca4": []
   }
 }
