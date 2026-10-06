@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-06T19:31:21.535320+00:00",
+  "updated": "2026-10-06T23:15:07.177209+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,130 +43,110 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-06T21:00:05+02:00",
-        "stop": "2026-10-06T21:59:58+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
-        "start": "2026-10-06T21:59:58+02:00",
-        "stop": "2026-10-06T22:07:33+02:00",
-        "title": "De primera!",
-        "subtitle": "- De primera: De la mar a la memòria",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-10-06T21:00:00+02:00",
-        "stop": "2026-10-06T22:05:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
-        "start": "2026-10-06T22:05:00+02:00",
-        "stop": "2026-10-07T00:00:00+02:00",
+        "start": "2026-10-07T00:29:42+02:00",
+        "stop": "2026-10-07T02:11:38+02:00",
         "title": "Mésnit",
         "subtitle": "",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
         "genre": "DEBAT",
         "image": ""
+      },
+      {
+        "start": "2026-10-07T02:11:38+02:00",
+        "stop": "2026-10-07T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-10-07T01:00:00+02:00",
+        "stop": "2026-10-07T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-07T06:00:00+02:00",
+        "stop": "2026-10-07T08:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-06T19:40:00+02:00",
-        "stop": "2026-10-06T21:41:56+02:00",
-        "title": "Bàsquet",
-        "subtitle": "FIATC Girona-Dinamo Bucarest / Fiba Europe Cup / J1",
-        "description": "Els gironins s'estrenen, a Fontajau, en la primera jornada a la fase de grups d'aquesta competició europea.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"
+        "start": "2026-10-07T00:50:05+02:00",
+        "stop": "2026-10-07T02:22:32+02:00",
+        "title": "Onze",
+        "subtitle": "L'últim tango de Messi; Mayola Academy i 'Onzeclopèdia'",
+        "description": "Sique Rodríguez, Fernando Polo, Paula Reverter i Ivan San Antonio comenten l'últim partit de Messi amb la selecció argentina. En Marc Mayola analitza alguns aspectes tàctics del joc del Barça i en Fran Domènech presenta els titulars més curiosos de la premsa esportiva.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-10-06T21:41:56+02:00",
-        "stop": "2026-10-06T22:28:15+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Asisa Joventut-Bnei Penlink / Champions League / J1",
-        "description": "El conjunt de Badalona comença la nova participació a la Champions contra l'equip israelià de Herzliya.  ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"
+        "start": "2026-10-07T02:22:32+02:00",
+        "stop": "2026-10-07T02:39:56+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-06T21:22:17+02:00",
-        "stop": "2026-10-06T21:40:52+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "En Trunks és un guerrer fabulós",
-        "description": "El campionat infantil comença sense gaires sorpreses. En Trunks, que s'avorreix una mica, i en Son Goten, que està impressionat amb la quantitat de públic que hi ha, no tenen rival i demostren que són molt superiors a la resta. A la Bulma i a la Xixi els cau la bava amb les victòries dels seus fills, i en Son Goku se'n sent més orgullós que mai.",
+        "start": "2026-10-07T01:09:56+02:00",
+        "stop": "2026-10-07T01:21:18+02:00",
+        "title": "Les Sisters",
+        "subtitle": "La cangur",
+        "description": "La Wendy està supercontenta: guanyarà uns calerons cuidant la neboda petita de la senyora Georgette mentre passa la tarda amb el seu Maxence. Però quan veu que a la jove parelleta els cau la bava amb la petitona, a la Marine se li fica al cap que la seva germana voldrà tenir un munt de fills, se n'anirà de casa i la deixarà sola. Només hi ha una solució: aconseguir que avorreixi els nens petits per sempre.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-06T21:40:52+02:00",
-        "stop": "2026-10-06T22:03:07+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "En Son Goten contra en Trunks",
-        "description": "Després de vèncer tots els seus rivals amb molta facilitat, en Son Goten i en Trunks, tal com s'esperava, arriben a la final del Campionat Infantil d'Arts Marcials. El públic aviat quedarà sorprès davant del poder i del nivell de dos nens de set i vuit anys, fills de superguerrers, que estan a punt d'oferir un espectacle difícil de repetir.",
+        "start": "2026-10-07T01:21:18+02:00",
+        "stop": "2026-10-07T01:32:54+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Retorn al passat",
+        "description": "La Wendy es nega a jugar amb la seva germana perquè ha de fer una cosa molt important tota sola. La Marine segueix la Wendy al bosc, on colga un cofre. Què pot ser? Una càpsula temporal! Un cofre on la Wendy ha posat els records de la seva infància. La Marine vol fer el mateix que la seva germana i enterra la seva pròpia càpsula temporal al costat de la de la Wendy. Però la Rachel la veu i agafa el cofre de la Wendy...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-06T21:12:30+02:00",
-        "stop": "2026-10-06T21:37:56+02:00",
-        "title": "L'un per l'altre",
-        "subtitle": "Banyes",
-        "description": "Gràcies al Calafell, el Toni s'assabenta que la Joana sempre l'ha trobat molt atractiu. A partir d'aquest moment el Toni es mira la Joana amb uns altres ulls i ell també la troba extremadament desitjable. Per la seva banda, a la Rosa li fa gràcia un noi que treballa en una verduleria de la plaça. Feia anys que no hi anava a comprar tan sovint.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "start": "2026-10-07T00:36:21+02:00",
+        "stop": "2026-10-07T01:34:01+02:00",
+        "title": "Rick Stein: De Venècia a Istanbul",
+        "subtitle": "Croàcia",
+        "description": "En Rick deixa Venècia i es dirigeix a Ravenna, on menja unes piadine delicioses. D'allà va amb ferri a Split, Croàcia, on descobreix una ciutat encantadora. A Croàcia tasta plats de peix boníssims, però també un xai deliciós fet d'una manera molt especial a les muntanyes. A la seva cuina de l'illa grega de Simi, en Rick prepara tres plats: llagostins a la buzara, pašticada, i llonzes de porc amb crosta de nous i salsa de figues.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-06T21:37:56+02:00",
-        "stop": "2026-10-06T22:00:43+02:00",
-        "title": "L'un per l'altre",
-        "subtitle": "Ambicions",
-        "description": "El Toni està passant una crisi laboral. Ell volia ser un gran arqueòleg i ha acabat sent un trist professor d'institut. El problema s'agreuja quan un antic company de la facultat li ofereix marxar amb ell a Egipte per excavar unes ruïnes. Tothom li diu que és la oportunitat de la seva vida, però ell no ho veu tan clar. Per la seva banda, la Maria també reb una bona oferta que l'obliga a canviar els seus plans a curt termini.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "start": "2026-10-07T01:34:01+02:00",
+        "stop": "2026-10-07T02:32:30+02:00",
+        "title": "Rick Stein: De Venècia a Istanbul",
+        "subtitle": "Croàcia",
+        "description": "El viatge culinari d'en Rick Stein continua per Croàcia, on tastarà les ostres de Ston i recorrerà les vinyes que fan el raïm del vi negre 'dingac'. Tot seguit, s'endinsa a la desconeguda Albània, que, després del règim comunista, malda per recuperar la gastronomia autòctona, com ara un estofat de mongetes i porc fumat, arròs amb anguiles o menuts de xai a l'ast. I ens farà un 'risotto' negre amb sípia, un estofat de conill albanès i un 'tavë kosi', que és xai al forn amb crema de iogurt, també albanès.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-10-06T20:25:00+02:00",
-        "stop": "2026-10-06T22:24:55+02:00",
-        "title": "Bàsquet",
-        "subtitle": "- Asisa Joventut-Bnei Penlink / Champions League / J1",
-        "description": "El conjunt de Badalona comença la nova participació a la Champions contra l'equip israelià de Herzliya.  ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"
-      }
-    ],
-    "oca2": [
-      {
-        "start": "2026-10-06T20:35:00+02:00",
-        "stop": "2026-10-06T22:29:55+02:00",
-        "title": "Handbol",
-        "subtitle": "- BM Granollers-Buzau / EHF European League / J2",
-        "description": "El Fraikin rep el conjunt rumanès amb l'objectiu de sumar la primera victòria en el campionat.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1729614341772.jpg"
-      }
-    ],
+    "oca1": [],
+    "oca2": [],
     "oca3": [
       {
-        "start": "2026-10-06T20:02:02+02:00",
-        "stop": "2026-10-07T05:59:54+02:00",
+        "start": "2026-10-07T00:00:01+02:00",
+        "stop": "2026-10-07T05:59:45+02:00",
         "title": "Radar meteorològic: segueix l'evolució de les tempestes",
         "subtitle": "",
         "description": "",
