@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T21:27:49.987019+00:00",
+  "updated": "2026-10-08T01:11:58.399219+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-07T22:10:39+02:00",
-        "stop": "2026-10-07T23:31:49+02:00",
-        "title": "Soc i Seré",
-        "subtitle": "Que no et balli la llengua",
-        "description": "En el tercer capítols d'aquesta temporada, els concursants s'organitzaran en dos equips de 20 persones amb noms molt festius. Els Gresca i els Xerinola hauran de fer front a dos nous reptes on la coordinació i el domini de la llengua catalana seran molt importants.Per aconseguir l'avantatge, els aspirants hauran de donar un Bon cop de pals i sorprendre Mari Pau Huguet i els bastoners d'Oló amb un ball de bastons molt complicat. Quin equip demostrarà que porta les danses populars al cos i quin serà incapaç de seguir el ritme?En canvi, el repte eliminatori serà menys físic, però el seu cervell haurà de treballar de valent. Els barbarismes tornen a 'Soc i seré' i , en aquest ocasió, ho fan acompanyats dels refranys catalans, que els aspirants hauran de completar sense cometre cap error. Tot sota l'atenta mirada d'unes expertes en el tema: la Maria Bouabdellah i la Shalana, dues convidades que vetllaran perquè tot quedi Clar i català.Al final del programa només quedaran 20 aspirants, i dos eliminats rebran la tan desitjada segona oportunitat.",
-        "genre": "CONCURS",
-        "image": ""
+        "start": "2026-10-08T02:15:26+02:00",
+        "stop": "2026-10-08T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-07T23:31:49+02:00",
-        "stop": "2026-10-08T00:29:31+02:00",
-        "title": "País d'altura",
-        "subtitle": "Terres de Lleida",
-        "description": "Ponent és una plana ordenada com un Excel, amb una aigua que ho va capgirar tot, castells, oli, xocolata i un cel amb més estrelles que un hotel de luxe. ",
-        "genre": "",
+        "start": "2026-10-08T04:00:00+02:00",
+        "stop": "2026-10-08T05:00:00+02:00",
+        "title": "Blues a l'estudi",
+        "subtitle": "Blas Picón",
+        "description": "Picón ofereix un repertori clàssic, però a la vegada amb una veu pròpia. En la seva música, el sentiment està per damunt del virtuosisme, i l'honestedat i la simplicitat, per damunt dels malabarismes musicals. Blues i Rhythm'n'Blues apassionat i enèrgic. L'acompanyen en la sessió d'avui: Òscar Rabadán a la guitarra, Johnny Pedraza també a la guitarra i Reginald Vilardell a la bateria.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-07T22:05:00+02:00",
-        "stop": "2026-10-08T00:00:00+02:00",
-        "title": "Mésnit",
+        "start": "2026-10-08T01:00:00+02:00",
+        "stop": "2026-10-08T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-08T00:00:00+02:00",
-        "stop": "2026-10-08T00:30:00+02:00",
+        "start": "2026-10-08T06:00:00+02:00",
+        "stop": "2026-10-08T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-07T23:00:00+02:00",
-        "stop": "2026-10-08T00:31:39+02:00",
-        "title": "Onze",
-        "subtitle": "Leo, et trobarem a faltar; l'ego de Cristiano i 'El predicador'",
-        "description": "Lluís Carrasco, Jordi Martí, Gemma Mallorca, Jofre Mateu i Joaquín Maroto comenten l'adeu de Messi de la selecció argentina. L'Òscar Pérez-Dolz predica els manaments del bon culer.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-10-08T02:32:07+02:00",
+        "stop": "2026-10-08T03:56:27+02:00",
+        "title": "Tot Costa",
+        "subtitle": "El comiat de Messi",
+        "description": "Messi ja no serà mai més internacional, Pedro es retira i Cristiano fa un comunicat. Ho analitzem tot plegat amb Gerard Autet, Laia Bonals i Ferran Correas. Amb Laia Tudel també analitzarem com ha anat la finestra FIFA pel que fa al Barça: Lamine ha jugat un pèl massa? Acabarem amb el 'Cinquè quart' sobre l'actualitat basquetbolística amb Laura Antoja, Xavi Ballesteros i Ernest Macià.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       },
       {
-        "start": "2026-10-08T00:31:39+02:00",
-        "stop": "2026-10-08T00:52:36+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-10-08T03:56:27+02:00",
+        "stop": "2026-10-08T06:02:53+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Kids&Us Manresa-Ratiopharm Ulm / Eurocup / J2",
+        "description": "Després de la derrota en l'estrena, a la pista del PAOK de Tessalònica, el conjunt del Bages disputa el primer partit europeu del curs al Nou Congost.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/7/1761644896070.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-07T23:22:48+02:00",
-        "stop": "2026-10-07T23:42:57+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El mestre arquer",
-        "description": "Els germans Kratt troben un banc de peixos arquers. Gràcies a un d'ells, a qui posen el nom de Fletxa, aprenen el secret del llançament de fletxes d'aigua que fan servir els peixos arquers per caçar i alimentar-se. Aquesta nova habilitat els resultarà molt útil per infiltrar-se al iot de la Donita Donata i rescatar les cries d'animal que els maniquins de la Donita han capturat per la seva nova línia de moda de luxe. ",
+        "start": "2026-10-08T02:51:03+02:00",
+        "stop": "2026-10-08T03:12:39+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "La reine de Frayeurville",
+        "description": "Quan s'assabenta que la Chloé ha tornat a París, la Marinette tem el pitjor. Ben al contrari de la Sabrina, que està convençuda que la Chloé ha canviat i s'ha tornat bona persona. Qui té raó?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-07T23:42:57+02:00",
-        "stop": "2026-10-08T00:03:06+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "L'orca que menjava taurons",
-        "description": "L'equip dels germans Kratt descobreix un mapa del recorregut d'una orca que només s'alimenta de grans taurons. Com que els estranya molt, es posen a buscar aquesta orca per estudiar-la. I com que l'orca és un tipus de dofí, l'Aviva modifica el descodificador de dofins perquè els germans Kratt puguin parlar el llenguatge de les orques i comunicar-s'hi. D'aquesta manera, descobriran que al mar, les relacions entre els depredadors i les preses no són el que semblen.",
+        "start": "2026-10-08T03:12:39+02:00",
+        "stop": "2026-10-08T03:34:04+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Protocol secret",
+        "description": "La Marinette prepara una sorpresa per l'aniversari de la Sabine, però la que té una sorpresa és ella quan veu arribar l'oncle Wang, que ha vingut expressament de Shanghai per passar el dia amb la família. L'alegria de tornar a veure l'oncle no li dura gaire: la Marinette de seguida li nota un comportament sospitós i decideix activar el protocol secret.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-07T22:49:46+02:00",
-        "stop": "2026-10-08T00:13:02+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Escape room",
-        "description": "ESCAPE ROOMProducció d'Arriska, Focus i Nakatomi que compta amb la participació de Televisió de Catalunya i el suport de l'ICEC.Director: Hèctor Claramunt Guió: Joel Joan i Hèctor Claramunt Director Fotografia: Xavi GiménezBasat en l'obra 'Escape room' de Joel Joan & Hèctor Claramunt Intèrprets: Joel Joan, Paula Vives, Mònica Pérez i Ivan Massagué,SINOPSIQuatre amics, una habitació, molts secrets i una única via de sortida: la veritat. La comèdia més delirant de la temporada capgira els plans de dues parelles disposades a passar una gran nit en?un escape room. Si volen sortir d'aquest joc tan imprevisible com esbojarrat hauran de posar a prova la seva amistat. Els ha arribat l'hora de la veritat.? ",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/0/1725015673706.jpg"
+        "start": "2026-10-08T03:05:26+02:00",
+        "stop": "2026-10-08T03:26:34+02:00",
+        "title": "Caçadors de paraules",
+        "subtitle": "Vestits per parlar",
+        "description": "'Caçadors de paraules' posa fil a l'agulla i busca totes les paraules del món de la moda i de la indústria tèxtil. Roger de Gràcia comença a cal sastre, per caçar les paraules d'un ofici que torna cada vegada més, i de passada encarregar un vestit. Després, una passada per la fira Bread&Butter, la meca de la gent moderna, de la roba casual, i dels trend setters, els que marquen les tendències en això de la moda. A la fira, el nostre caçador parlarà amb la dissenyadora Sita Murt per saber el que es portarà la temporada que ve. I en una terra amb tanta tradició de la indústria tèxtil, no ens podríem oblidar de visitar els telers i les frases fetes i expressions que ens han deixat: sense embolicar la troca per no tenir mala peça al teler.  Per acabar, la producció més actual, però d'aquelles peces de roba que menys es veuen: les de llenceria. Roger de Gràcia haurà de mantenir el tipus davant d'uns quants tangues, sostenidors i lligacames, sense perdre el fil en cap moment.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-10-08T00:13:02+02:00",
-        "stop": "2026-10-08T01:47:55+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Tres",
-        "description": "TRESProductora: Tres la Película Frida Nadir AIE i Frida Films, 2021Director: Juanjo GiménezGuió: Juanjo Giménez i Pere AltimiraDirector de fotografia: Javier ArrontesMúsica: Domas StrupinskasIntèrprets: Marta Nieto(C.). Miki Esparbé (Iván), Fran Lareu (Pablo), Luisa Merelas (Marga), Cris Iglesias (Aurora), Julius Cotter (Phil) i Iria Parada (Isa)Sinopsi:C. és dissenyadora de so. Gaudeix amb la seva feina. Passa moltes hores sola, gravant efectes de sala, wild-tracks, editant i barrejant. L'estudi és el seu últim refugi: un lloc on postergar les avariades relacions que manté amb la seva exparella, amb la seva mare que ja és gran i amb els seus companys de treball. Encara que ella encara no ho sap, C. està començant a dessincronizar-se. Com si fos una pel·lícula mal sonoritzada, el seu cervell ha començat a processar el so més tard que les imatges. De cop, està curada, però ja no és la mateixa. La seva odissea l'ha fet madurar. Ara disposa d'una segona oportunitat. És a les seves mans no deixar-la escapar.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/2/1728388091426.jpg"
+        "start": "2026-10-08T03:26:34+02:00",
+        "stop": "2026-10-08T03:56:17+02:00",
+        "title": "GR Barcelona",
+        "subtitle": "El camí del cava",
+        "description": "Alt Penedès. Camins del vi i del cava. Ruta Subirat Parent.Ruta d'1 jornada i d'uns 10 km a peu.A la comarca del Penedès seguirem els camins del Vi i del Cava des del mirador del Circell a Les Gunyoles. D'aquí anirem fins a l'aeròdrom d'Avinyonet on dalt d'un ultralleuger contemplarem les vinyes. Passarem per Cantallops, Sant Pau d'Ordal i a Lavern, coneixerem una família que viu i treballa al voltant d'un producte poc conegut però molt suculent, el préssec d'Ordal. Acabarem a Sant Sadurní de Noia, la capital mundial del cava, coneixent la història d'aquest producte tant Internacional i descobrint el seu procés d'elaboració.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
