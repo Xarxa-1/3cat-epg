@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T01:11:58.399219+00:00",
+  "updated": "2026-10-08T07:25:21.185502+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-08T02:15:26+02:00",
-        "stop": "2026-10-08T04:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-08T08:00:11+02:00",
+        "stop": "2026-10-08T10:30:00+02:00",
+        "title": "Matins",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       },
       {
-        "start": "2026-10-08T04:00:00+02:00",
-        "stop": "2026-10-08T05:00:00+02:00",
-        "title": "Blues a l'estudi",
-        "subtitle": "Blas Picón",
-        "description": "Picón ofereix un repertori clàssic, però a la vegada amb una veu pròpia. En la seva música, el sentiment està per damunt del virtuosisme, i l'honestedat i la simplicitat, per damunt dels malabarismes musicals. Blues i Rhythm'n'Blues apassionat i enèrgic. L'acompanyen en la sessió d'avui: Òscar Rabadán a la guitarra, Johnny Pedraza també a la guitarra i Reginald Vilardell a la bateria.",
-        "genre": "ALTRES",
+        "start": "2026-10-08T10:30:00+02:00",
+        "stop": "2026-10-08T13:55:00+02:00",
+        "title": "Tot es mou",
+        "subtitle": "",
+        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "genre": "MAGAZINE",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-08T01:00:00+02:00",
-        "stop": "2026-10-08T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-08T08:00:00+02:00",
+        "stop": "2026-10-08T10:30:00+02:00",
+        "title": "Matins",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       },
       {
-        "start": "2026-10-08T06:00:00+02:00",
-        "stop": "2026-10-08T08:00:00+02:00",
+        "start": "2026-10-08T10:30:00+02:00",
+        "stop": "2026-10-08T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,67 +83,77 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-08T02:32:07+02:00",
-        "stop": "2026-10-08T03:56:27+02:00",
-        "title": "Tot Costa",
-        "subtitle": "El comiat de Messi",
-        "description": "Messi ja no serà mai més internacional, Pedro es retira i Cristiano fa un comunicat. Ho analitzem tot plegat amb Gerard Autet, Laia Bonals i Ferran Correas. Amb Laia Tudel també analitzarem com ha anat la finestra FIFA pel que fa al Barça: Lamine ha jugat un pèl massa? Acabarem amb el 'Cinquè quart' sobre l'actualitat basquetbolística amb Laura Antoja, Xavi Ballesteros i Ernest Macià.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
-      },
-      {
-        "start": "2026-10-08T03:56:27+02:00",
-        "stop": "2026-10-08T06:02:53+02:00",
+        "start": "2026-10-08T07:59:52+02:00",
+        "stop": "2026-10-08T10:01:36+02:00",
         "title": "Bàsquet",
         "subtitle": "Kids&Us Manresa-Ratiopharm Ulm / Eurocup / J2",
         "description": "Després de la derrota en l'estrena, a la pista del PAOK de Tessalònica, el conjunt del Bages disputa el primer partit europeu del curs al Nou Congost.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.3cat.cat/multimedia/jpg/0/7/1761644896070.jpg"
+      },
+      {
+        "start": "2026-10-08T10:01:36+02:00",
+        "stop": "2026-10-08T10:53:21+02:00",
+        "title": "Terreny personal",
+        "subtitle": "Plana de Vic",
+        "description": "En aquest capítol descobrirem un terreny envoltat de muntanyes que s'amaga sota la boira. Situat entre les Guilleries i el Moianès, entre el Montseny i el Lluçanès, travessa la comarca d'Osona de nord a sud: és la plana de Vic.Els protagonistes d'aquest programa estan molt lligats a aquest terreny tancat que els defineix. El Xevi Crosas ha decidit muntar una granja d'ovelles a la terra on va néixer, a prop del Ter, un riu que ell defensa i reivindica. El Quico Arumí buscava feina a la cuina, però tenia clar que havia de ser al costat de casa i la va trobar... a Can Jubany. El Miquel Saborit és de Vic. Escalador, li agrada mirar des de ben amunt la terra on va néixer.I la Ouafae Dabbou va arribar a Manlleu de gran, però d'aquest territori n'ha fet casa seva i de la seva família.En aquest capítol també hi intervenen nens de l'escola Vall del Ges de Torelló, que ens expliquen els seus espais preferits. L'escriptor Jordi Puntí llegeix un fragment del seu llibre 'Els castellans' a Manlleu, on va néixer, i l'Ernest Crusats, cantant de La Iaia, canta 'Sota l'arbre' i recorda la seva infantesa a la plaça de Vic.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-08T02:51:03+02:00",
-        "stop": "2026-10-08T03:12:39+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "La reine de Frayeurville",
-        "description": "Quan s'assabenta que la Chloé ha tornat a París, la Marinette tem el pitjor. Ben al contrari de la Sabrina, que està convençuda que la Chloé ha canviat i s'ha tornat bona persona. Qui té raó?",
+        "start": "2026-10-08T09:12:29+02:00",
+        "stop": "2026-10-08T09:35:50+02:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les tres bessones i el fantasma de l'òpera",
+        "description": "Les tres bessones es troben en un teatre, però aviat s'adonen que no és un teatre qualsevol. La Bruixa Avorrida s'enamora de la veu de la cantant, la Cristina, que viu un terrible drama d'amor. La Bruixa n'enveja la veu i, com sempre, posarà tots els entrebancs perquè les tres nenes no aconsegueixin que el Raül es declari a la Cristina.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-08T03:12:39+02:00",
-        "stop": "2026-10-08T03:34:04+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Protocol secret",
-        "description": "La Marinette prepara una sorpresa per l'aniversari de la Sabine, però la que té una sorpresa és ella quan veu arribar l'oncle Wang, que ha vingut expressament de Shanghai per passar el dia amb la família. L'alegria de tornar a veure l'oncle no li dura gaire: la Marinette de seguida li nota un comportament sospitós i decideix activar el protocol secret.",
+        "start": "2026-10-08T09:35:50+02:00",
+        "stop": "2026-10-08T09:57:16+02:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les tres bessones a l'Àfrica",
+        "description": "La Bruixa envia les Bessones a l'Àfrica, on coneixeran en Soco Banzo, un taxista que els mostrarà i els ensenyarà a valorar la seva cultura.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-08T03:05:26+02:00",
-        "stop": "2026-10-08T03:26:34+02:00",
-        "title": "Caçadors de paraules",
-        "subtitle": "Vestits per parlar",
-        "description": "'Caçadors de paraules' posa fil a l'agulla i busca totes les paraules del món de la moda i de la indústria tèxtil. Roger de Gràcia comença a cal sastre, per caçar les paraules d'un ofici que torna cada vegada més, i de passada encarregar un vestit. Després, una passada per la fira Bread&Butter, la meca de la gent moderna, de la roba casual, i dels trend setters, els que marquen les tendències en això de la moda. A la fira, el nostre caçador parlarà amb la dissenyadora Sita Murt per saber el que es portarà la temporada que ve. I en una terra amb tanta tradició de la indústria tèxtil, no ens podríem oblidar de visitar els telers i les frases fetes i expressions que ens han deixat: sense embolicar la troca per no tenir mala peça al teler.  Per acabar, la producció més actual, però d'aquelles peces de roba que menys es veuen: les de llenceria. Roger de Gràcia haurà de mantenir el tipus davant d'uns quants tangues, sostenidors i lligacames, sense perdre el fil en cap moment.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-08T08:32:26+02:00",
+        "stop": "2026-10-08T09:23:13+02:00",
+        "title": "Cosins Germans",
+        "subtitle": "Cultura de l'aigua",
+        "description": "L'aigua és la font de la vida i és present en molts dels nostres rituals. A la Pobla de Segur, Ferran Torrent perd una aposta i Araceli Segarra li ho fa pagar baixant pels ràpids del Noguera Pallaresa, en la Festa dels Raiers. A les aigües plàcides de l'Albufera de València, Ferran tindrà la seva revenja particular, i junts embarcaran per conèixer els secrets de la vela llatina, un dels sistemes de navegació més antics. Acabarem en companyia d'Elisabet Carnicé al barri del Serrallo de Tarragona, on serem testimonis de la processó marítima del Carme, una de les més genuïnes.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-10-08T03:26:34+02:00",
-        "stop": "2026-10-08T03:56:17+02:00",
-        "title": "GR Barcelona",
-        "subtitle": "El camí del cava",
-        "description": "Alt Penedès. Camins del vi i del cava. Ruta Subirat Parent.Ruta d'1 jornada i d'uns 10 km a peu.A la comarca del Penedès seguirem els camins del Vi i del Cava des del mirador del Circell a Les Gunyoles. D'aquí anirem fins a l'aeròdrom d'Avinyonet on dalt d'un ultralleuger contemplarem les vinyes. Passarem per Cantallops, Sant Pau d'Ordal i a Lavern, coneixerem una família que viu i treballa al voltant d'un producte poc conegut però molt suculent, el préssec d'Ordal. Acabarem a Sant Sadurní de Noia, la capital mundial del cava, coneixent la història d'aquest producte tant Internacional i descobrint el seu procés d'elaboració.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-08T09:23:13+02:00",
+        "stop": "2026-10-08T10:16:30+02:00",
+        "title": "Katalonski",
+        "subtitle": "Roma",
+        "description": "El Halldor visita Roma, una ciutat de pel·lícula, per conèixer gent com Alessandra Febo: a la seva classe de primària el nens no canten 'Sol solet', precisament; de nit, ella balla tango per enfortir la relació amb el seu marit; pujarà a la l'escúter del periodista Adriano Petrucci per anar a recollir la seva filla, i assistirà a un divertit dinar familiar; Giulia di Filipo li ensenyarà a fer i revelar fotos digitals; es llançarà a la piscina per fer natació sincronitzada amb Erica Castorani i en Halldor l'ajudarà a muntar una coreografia; i el professor Paolo Vitti li farà de guia i el colarà a un lloc molt exclusiu: el Colosseu.",
+        "genre": "Docu-Entreteniment",
         "image": ""
       }
     ],
     "oca1": [],
     "oca2": [],
     "oca3": [],
-    "oca4": []
+    "oca4": [
+      {
+        "start": "2026-10-08T09:00:06+02:00",
+        "stop": "2026-10-08T14:00:01+02:00",
+        "title": "Ple del Parlament",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1699359531979.jpg"
+      }
+    ]
   }
 }
