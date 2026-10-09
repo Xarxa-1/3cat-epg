@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-09T19:12:28.858116+00:00",
+  "updated": "2026-10-09T23:16:35.020581+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,101 +43,101 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-09T21:00:00+02:00",
-        "stop": "2026-10-09T22:05:34+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "start": "2026-10-10T01:10:08+02:00",
+        "stop": "2026-10-10T01:40:07+02:00",
+        "title": "Oh! Europa",
+        "subtitle": "Espanya",
+        "description": "A Madrid, tots estan tristos perquè el viatge s'acaba, i decideixen fer un sopar de comiat. Però l'Ampariues no assisteix perquè ha conegut tres nois molt simpàtics que no la deixen en tot el dia. De tornada a Barcelona, s'acomiaden els uns dels altres i prometen de tornar-se a veure per passar els vídeos. És el final del viatge i de la sèrie.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "image": ""
       },
       {
-        "start": "2026-10-09T22:05:34+02:00",
-        "stop": "2026-10-10T00:46:56+02:00",
-        "title": "Col·lapse",
-        "subtitle": "",
-        "description": "Jordi González visita una de les zones afectades pels aiguats. Parlarà amb Patricia Lucas, una veïna de Malgrat de Mar a qui la pluja intensa ha inundat completament la casa i l'ha obligada a viure temporalment en un càmping. Queden 50 dies per a les eleccions generals; és decisiu el vot dels catalans. Què ens espera? En parlem amb els periodistes Maiol Roger (subdirector d''El matí de Catalunya Ràdio'), Josep Capella (de la delegació de Madrid de TV3), i Iva Angera. Carlos Latre, l'home de les mil cares, estrena una secció en què barreja actualitat i humor.Analitzem l'esdeveniment musical de l'any: els concerts de comiat d'Oques Grasses, amb Oscar Nin (crític d'art), Gal·la Castelltort (presentadora de 'Loft ' a Icat Fm) i fan número 1 del grup, i la cantant Suu.I el psiconeuroinmunòleg Xevi Verdaguer explica trucs per entendre el nostre metabolisme si volem treure'ns els quilos de més que encara tenim acumulats de l'estiu. I, com sempre, ens acompanyaran els nostres col·laboradora fixos Sergi Pàmies, Albert Montagut i els membres de la taula final.Aquesta setmana i de forma excepcional, divendres 22:10. ",
-        "genre": "TALK-SHOW",
+        "start": "2026-10-10T01:40:07+02:00",
+        "stop": "2026-10-10T02:31:09+02:00",
+        "title": "Documental",
+        "subtitle": "Milicianes",
+        "description": "'MILICIANES' (2018), una producció de Nina Produccions (Raw Lab JC 20 SL) en coproducció amb Cinetica Produccions, Televisió de Catalunya i IB3, amb la col·laboració d'International Center of Photography i amb el suport del Dep. Justícia de la Generalitat, Institut d'Estudis Baleàrics, Dept. Cultura, Patrimoni i Esports - Consell de Mallorca, Ajuntament de Palma i Ajuntament de Barcelona.La matinada del 5 de setembre de 1936, a Manacor, van ser executades pels feixistes, cinc milicianes, després d'una nit de tortures i violacions. L'existència d'un diari, escrit per una d'elles, on es relaten els dies de campanya a Mallorca, una foto del grup, feta poc després de ser detingudes, i l'anonimat de tres d'elles, ha fet que sobre aquesta història hi hagi moltes llegendes. Vuitanta anys després, una intensa investigació retorna la identitat de les tres milicianes anònimes i les contextualitza en el moment històric que van viure des d'una perspectiva de gènere. La seva història ens permet sentenciar que la guerra no va ser tan sols cosa d'homes.Direcció: Tània Balló, Jaume Miró Guió: Tània Balló, Jaume Miró, Gonzalo Berger Realització i direcció de fotografia: Pedro Sara Productor: Tània Balló, Lluís Ortas, Marisa Goñi, Gonzalo Berger Productor Executiu TVC: Jordi Ambròs Productor Delegat TVC: Elisa Plaza Muntatge: Carlos Prieto Direcció de Producció: Tània BallóMúsica: Miquel Ángel Aguiló Lingüista: Roser TintóGrafisme: Luis OzonasVeu en off: Tània Ballo",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-09T21:00:00+02:00",
-        "stop": "2026-10-09T22:05:00+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-10-10T01:00:00+02:00",
+        "stop": "2026-10-10T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-09T22:05:00+02:00",
-        "stop": "2026-10-09T23:30:00+02:00",
-        "title": "Mésnit",
+        "start": "2026-10-10T06:00:00+02:00",
+        "stop": "2026-10-10T07:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-09T20:47:54+02:00",
-        "stop": "2026-10-09T21:47:54+02:00",
-        "title": "Esport Club",
-        "subtitle": "Minut a minut / Màlaga-Espanyol",
-        "description": "Fem el seguiment del matx corresponent a la 8a jornada de Lliga. El conjunt de Manolo González vol aprofitar la visita al camp del cuer per allunyar el fantasma del descens.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/3/1766405994630.jpg"
+        "start": "2026-10-10T00:53:43+02:00",
+        "stop": "2026-10-10T02:28:14+02:00",
+        "title": "Onze",
+        "subtitle": "L'hora de Gabriel Jesus; el Màlaga-Espanyol i Mou defensa Mbappé",
+        "description": "Míriam Riau fa tertúlia amb Juvenal Edjogo, Laia Tudel, Irati Vidal i Santi Ovalle. Rapinha està lesionat i no jugarà contra el Getafe: el davanter centre serà Gabriel Jesús. Veiem el resum del Màlaga-Espanyol amb David Balaguer i analitzem la roda de premsa de Mourinho, que ha defensat Mbappé. Acabem amb les golfes de l'Onze, amb Òscar Nin.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-10-09T21:47:54+02:00",
-        "stop": "2026-10-09T22:00:20+02:00",
-        "title": "Sala de Premsa",
-        "subtitle": "Hansi Flick / Prèvia Barça-Getafe / J8",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "start": "2026-10-10T02:28:14+02:00",
+        "stop": "2026-10-10T02:46:20+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-09T21:00:00+02:00",
-        "stop": "2026-10-09T21:22:18+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Per fi el món descobreix qui és el gran Guerrer del Vent",
-        "description": "Després de salvar la Videl amb les mongetes màgiques, ha arribat l'hora del gran Guerrer del Vent, que s'haurà d'enfrontar a l'ajudant del déu Neptú. Just abans de començar el combat, dos companys de classe d'en Son Gohan el reconeixen i decideix lluitar fent servir el seu nom. Quan comença l'enfrontament, el que més sorprèn és que el seu rival vol que es transformi de seguida en superguerrer.",
+        "start": "2026-10-10T01:12:00+02:00",
+        "stop": "2026-10-10T01:23:35+02:00",
+        "title": "Les Sisters",
+        "subtitle": "SOS diari 'presonal'",
+        "description": "Per impedir que la seva germana el llegeixi, la Wendy amaga el seu diari personal en un gerro vell que guarden al garatge. Però sense saber que a dins hi ha el diari, la Marine li ven el gerro al Maxence. Quin desastre! La Wendy no vol per res del món que el Maxence llegeixi el que hi ha escrit. Les germanes han de treballar en equip per recuperar-lo abans no sigui massa tard...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-09T21:22:18+02:00",
-        "stop": "2026-10-09T21:41:40+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Conspiració per absorbir l'energia d'en Son Gohan",
-        "description": "La sorpresa de l'ajudant del déu Neptú, que li demana al seu rival que es converteixi de seguida en superguerrer, acaba sent encara més gran quan l'Spopovitx i el seu acompanyant absorbeixen l'energia d'en Son Gohan. Tot seguit, el déu Neptú revela la seva identitat a en Son Goku i comencen a perseguir els dos enviats del mag Babidí.",
+        "start": "2026-10-10T01:23:35+02:00",
+        "stop": "2026-10-10T01:43:32+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "El desamor del Heracross i l’amor del Pinsir!",
+        "description": "Quan la Lilligant s'afegeix als altres Pokémon del laboratori Cirerer, el Heracross, que fins ara estava enamorat del Pinsir, s'enamora de la Lilligant! Mentre el Goh prova d'animar el Pinsir, la Chloe descobreix una classe d'arranjaments florals amb Pokémon. Sembla una bona manera d'animar el Pinsir, de manera que els nostres herois també decideixen apuntar-s'hi! Guiats per l'Erika, líder del gimnàs de Ciutat Celadont, el grup aprèn la importància de la decoració floral amb Pokémon! Però el Team Rocket, que també vol 'collir flors' i robar el Pikachu, els ataca. Quan el Pinsir intervé per protegir el Heracross, la seva relació queda restablerta. Gràcies a aquesta classe ningú oblidarà mai la connexió entre els Pokémon i els arranjaments florals! ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-09T21:09:24+02:00",
-        "stop": "2026-10-09T21:33:09+02:00",
-        "title": "L'un per l'altre",
-        "subtitle": "Últimes voluntats",
-        "description": "Durant la celebració del seu centenari, la padrina del Toni es mor a casa seva. La dona ha deixat escrit en el seu testament el que vol que el Toni faci amb les seves cendres: llençar-ne una part a Cuenca. El Toni decideix no fer-ho perquè li fa mandra haver d'anar tan lluny. A partir d'aquest moment, al Toni comencen a passar-li fets paranormals.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "start": "2026-10-10T00:24:54+02:00",
+        "stop": "2026-10-10T01:17:52+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Germans Green",
+        "description": "La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-10-09T21:33:09+02:00",
-        "stop": "2026-10-09T21:57:20+02:00",
-        "title": "L'un per l'altre",
-        "subtitle": "La Boles",
-        "description": "Tots descobreixen esverats que la Joana és una mentidera compulsiva. Ha mentit sobre la seva situació personal i laboral al seu pare i el pitjor de tot és que en la mentida hi està involucrat el Toni. Li ha dit que és el seu marit. Ara el seu pare ve a visitar-la i els hi demana a tots que sisplau l'ajudin a impedir que descobreixi la veritat. Els altres acceptaran però a canvi d'alguna cosa.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "start": "2026-10-10T01:17:52+02:00",
+        "stop": "2026-10-10T01:59:37+02:00",
+        "title": "Teories de la relativitat",
+        "subtitle": "Sexualitat a les xarxes",
+        "description": "Sinopsis dels capítols Teories de la Relativitat",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
