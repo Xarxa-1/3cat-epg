@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-09T23:16:35.020581+00:00",
+  "updated": "2026-10-10T02:31:24.341939+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,21 +43,21 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-10T01:10:08+02:00",
-        "stop": "2026-10-10T01:40:07+02:00",
-        "title": "Oh! Europa",
-        "subtitle": "Espanya",
-        "description": "A Madrid, tots estan tristos perquè el viatge s'acaba, i decideixen fer un sopar de comiat. Però l'Ampariues no assisteix perquè ha conegut tres nois molt simpàtics que no la deixen en tot el dia. De tornada a Barcelona, s'acomiaden els uns dels altres i prometen de tornar-se a veure per passar els vídeos. És el final del viatge i de la sèrie.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "start": "2026-10-10T04:00:00+02:00",
+        "stop": "2026-10-10T04:59:58+02:00",
+        "title": "Blues a l'estudi",
+        "subtitle": "Lluís Coloma",
+        "description": "El pianista barceloní és un del màxims exponents del blues i el bugui-bugui, no tan sols a casa nostra, sinó a tot Europa. Amb cadascuna de les seves formacions, Coloma ens ofereix un repertori personal que uneix tradició i originalitat. L'acompanyen: Manolo Germán, al contrabaix; Marc Ruiz, a la bateria; Pep Pasqual, al saxo alt; Dani Pérez, al saxo tenor; Jaume Badrenas, també al tenor, i Joan Chamorro, al saxo baríton.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-10-10T01:40:07+02:00",
-        "stop": "2026-10-10T02:31:09+02:00",
-        "title": "Documental",
-        "subtitle": "Milicianes",
-        "description": "'MILICIANES' (2018), una producció de Nina Produccions (Raw Lab JC 20 SL) en coproducció amb Cinetica Produccions, Televisió de Catalunya i IB3, amb la col·laboració d'International Center of Photography i amb el suport del Dep. Justícia de la Generalitat, Institut d'Estudis Baleàrics, Dept. Cultura, Patrimoni i Esports - Consell de Mallorca, Ajuntament de Palma i Ajuntament de Barcelona.La matinada del 5 de setembre de 1936, a Manacor, van ser executades pels feixistes, cinc milicianes, després d'una nit de tortures i violacions. L'existència d'un diari, escrit per una d'elles, on es relaten els dies de campanya a Mallorca, una foto del grup, feta poc després de ser detingudes, i l'anonimat de tres d'elles, ha fet que sobre aquesta història hi hagi moltes llegendes. Vuitanta anys després, una intensa investigació retorna la identitat de les tres milicianes anònimes i les contextualitza en el moment històric que van viure des d'una perspectiva de gènere. La seva història ens permet sentenciar que la guerra no va ser tan sols cosa d'homes.Direcció: Tània Balló, Jaume Miró Guió: Tània Balló, Jaume Miró, Gonzalo Berger Realització i direcció de fotografia: Pedro Sara Productor: Tània Balló, Lluís Ortas, Marisa Goñi, Gonzalo Berger Productor Executiu TVC: Jordi Ambròs Productor Delegat TVC: Elisa Plaza Muntatge: Carlos Prieto Direcció de Producció: Tània BallóMúsica: Miquel Ángel Aguiló Lingüista: Roser TintóGrafisme: Luis OzonasVeu en off: Tània Ballo",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-10T04:59:58+02:00",
+        "stop": "2026-10-10T06:00:00+02:00",
+        "title": "Jazz a l'estudi",
+        "subtitle": "Benavent/Bonell",
+        "description": "Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. ",
+        "genre": "JAZZ",
         "image": ""
       }
     ],
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-10T00:53:43+02:00",
-        "stop": "2026-10-10T02:28:14+02:00",
-        "title": "Onze",
-        "subtitle": "L'hora de Gabriel Jesus; el Màlaga-Espanyol i Mou defensa Mbappé",
-        "description": "Míriam Riau fa tertúlia amb Juvenal Edjogo, Laia Tudel, Irati Vidal i Santi Ovalle. Rapinha està lesionat i no jugarà contra el Getafe: el davanter centre serà Gabriel Jesús. Veiem el resum del Màlaga-Espanyol amb David Balaguer i analitzem la roda de premsa de Mourinho, que ha defensat Mbappé. Acabem amb les golfes de l'Onze, amb Òscar Nin.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-10-10T04:32:13+02:00",
+        "stop": "2026-10-10T05:03:09+02:00",
+        "title": "E3",
+        "subtitle": "Prèvia WEC Barcelona",
+        "description": "Per primera vegada a la seva història, el Campionat Mundial de Resistència de la FIA (World Endurance Championship) arriba al Circuit de Barcelona-Catalunya. Després d'Imola, Spa, Le Mans, São Paulo, Austin i Fuji, la penúltima ronda de la temporada serà decisiva en la lluita pels títols mundials.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/1/1791283263910.jpg"
       },
       {
-        "start": "2026-10-10T02:28:14+02:00",
-        "stop": "2026-10-10T02:46:20+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-10-10T05:03:09+02:00",
+        "stop": "2026-10-10T05:27:09+02:00",
+        "title": "E3",
+        "subtitle": "Monster Jam / San Antonio / 6",
+        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. ",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-10T01:12:00+02:00",
-        "stop": "2026-10-10T01:23:35+02:00",
-        "title": "Les Sisters",
-        "subtitle": "SOS diari 'presonal'",
-        "description": "Per impedir que la seva germana el llegeixi, la Wendy amaga el seu diari personal en un gerro vell que guarden al garatge. Però sense saber que a dins hi ha el diari, la Marine li ven el gerro al Maxence. Quin desastre! La Wendy no vol per res del món que el Maxence llegeixi el que hi ha escrit. Les germanes han de treballar en equip per recuperar-lo abans no sigui massa tard...",
+        "start": "2026-10-10T04:27:24+02:00",
+        "stop": "2026-10-10T04:39:18+02:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "Cadascú per la seva banda",
+        "description": "Avui venen els avis Guineu al cau de la família Teixó-Guineu. En Pinxo i en Timbal els han preparat un berenar a fora, però l'avi i l'àvia es fan morros perquè s'han discutit i no tenen cap intenció de passar el dia junts. Però a mesura que passen les hores es van ensopint, perquè en el fons es troben a faltar.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-10T01:23:35+02:00",
-        "stop": "2026-10-10T01:43:32+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "El desamor del Heracross i l’amor del Pinsir!",
-        "description": "Quan la Lilligant s'afegeix als altres Pokémon del laboratori Cirerer, el Heracross, que fins ara estava enamorat del Pinsir, s'enamora de la Lilligant! Mentre el Goh prova d'animar el Pinsir, la Chloe descobreix una classe d'arranjaments florals amb Pokémon. Sembla una bona manera d'animar el Pinsir, de manera que els nostres herois també decideixen apuntar-s'hi! Guiats per l'Erika, líder del gimnàs de Ciutat Celadont, el grup aprèn la importància de la decoració floral amb Pokémon! Però el Team Rocket, que també vol 'collir flors' i robar el Pikachu, els ataca. Quan el Pinsir intervé per protegir el Heracross, la seva relació queda restablerta. Gràcies a aquesta classe ningú oblidarà mai la connexió entre els Pokémon i els arranjaments florals! ",
+        "start": "2026-10-10T04:39:18+02:00",
+        "stop": "2026-10-10T04:50:48+02:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "El ball del bosc",
+        "description": "Els Teixó-Guineu han d'organitzar d'imprevist el ball anual del bosc. I la tradició exigeix que la parella organitzadora sigui la que obri el ball. Però com que l'Edmond no sap ballar es busca tota mena d'excuses per amagar el seu problema i no decebre la Marguerite.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-10T00:24:54+02:00",
-        "stop": "2026-10-10T01:17:52+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Germans Green",
-        "description": "La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.",
-        "genre": "ALTRES",
+        "start": "2026-10-10T04:24:31+02:00",
+        "stop": "2026-10-10T04:45:12+02:00",
+        "title": "Caçadors de paraules",
+        "subtitle": "Foc",
+        "description": "Escalfar, il·luminar, coure aliments, fondre metalls, fabricar vidre... la civilització no hauria existit sense el domini del foc. I evidentment, les espurnes han omplert el nostre llenguatge de cada dia. Roger de Gràcia investiga la fascinació que ens provoquen les flames i rastreja totes les paraules que envolten els qui lluiten contra el foc i els qui el viuen amb ànim festiu. Per començar conviurà amb els bombers, descobrirà el seu argot i els ajudarà a apagar focs als boscos i a la ciutat. El nostre caçador haurà de vigilar de no cremar-se les celles, perquè acabarà fent de 'punta de llança' en una perillós exercici dels bombers.Però el foc també és sinònim de festa, i recollint l'herència pagana dels solsticis i equinoccis, les nostres festes populars estan farcides de falles, fogueres, foguerons i pirotècnia. Aquesta vegada, els caçadors de paraules celebren les Santantonades, una de les festes d'hivern més importants i peculiars. I Roger de Gràcia visita la comarca dels Ports, al nord del País Valencià, per viure les festes del poble de Forcall. ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-10T01:17:52+02:00",
-        "stop": "2026-10-10T01:59:37+02:00",
-        "title": "Teories de la relativitat",
-        "subtitle": "Sexualitat a les xarxes",
-        "description": "Sinopsis dels capítols Teories de la Relativitat",
+        "start": "2026-10-10T04:45:12+02:00",
+        "stop": "2026-10-10T04:58:49+02:00",
+        "title": "Talent creatiu",
+        "subtitle": "Ramon Mirabet, músic",
+        "description": "Ramon Mirabet va començar fent de músic de carrer. Ens explica com va superar la por de cantar davant del públic fins a convertir-se en un dels músics més inspiradors del país. Estima el que fa amb bogeria.",
         "genre": "ALTRES",
         "image": ""
       }
