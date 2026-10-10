@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-10T02:31:24.341939+00:00",
+  "updated": "2026-10-10T09:00:37.915168+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-10T04:00:00+02:00",
-        "stop": "2026-10-10T04:59:58+02:00",
-        "title": "Blues a l'estudi",
-        "subtitle": "Lluís Coloma",
-        "description": "El pianista barceloní és un del màxims exponents del blues i el bugui-bugui, no tan sols a casa nostra, sinó a tot Europa. Amb cadascuna de les seves formacions, Coloma ens ofereix un repertori personal que uneix tradició i originalitat. L'acompanyen: Manolo Germán, al contrabaix; Marc Ruiz, a la bateria; Pep Pasqual, al saxo alt; Dani Pérez, al saxo tenor; Jaume Badrenas, també al tenor, i Joan Chamorro, al saxo baríton.",
-        "genre": "ALTRES",
+        "start": "2026-10-10T11:00:03+02:00",
+        "stop": "2026-10-10T12:14:36+02:00",
+        "title": "Soc i Seré",
+        "subtitle": "Que no et balli la llengua",
+        "description": "En el tercer capítols d'aquesta temporada, els concursants s'organitzaran en dos equips de 20 persones amb noms molt festius. Els Gresca i els Xerinola hauran de fer front a dos nous reptes on la coordinació i el domini de la llengua catalana seran molt importants.Per aconseguir l'avantatge, els aspirants hauran de donar un Bon cop de pals i sorprendre Mari Pau Huguet i els bastoners d'Oló amb un ball de bastons molt complicat. Quin equip demostrarà que porta les danses populars al cos i quin serà incapaç de seguir el ritme?En canvi, el repte eliminatori serà menys físic, però el seu cervell haurà de treballar de valent. Els barbarismes tornen a 'Soc i seré' i , en aquest ocasió, ho fan acompanyats dels refranys catalans, que els aspirants hauran de completar sense cometre cap error. Tot sota l'atenta mirada d'unes expertes en el tema: la Maria Bouabdellah i la Shalana, dues convidades que vetllaran perquè tot quedi Clar i català.Al final del programa només quedaran 20 aspirants, i dos eliminats rebran la tan desitjada segona oportunitat.",
+        "genre": "CONCURS",
         "image": ""
       },
       {
-        "start": "2026-10-10T04:59:58+02:00",
-        "stop": "2026-10-10T06:00:00+02:00",
-        "title": "Jazz a l'estudi",
-        "subtitle": "Benavent/Bonell",
-        "description": "Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. ",
-        "genre": "JAZZ",
+        "start": "2026-10-10T12:14:36+02:00",
+        "stop": "2026-10-10T13:06:12+02:00",
+        "title": "País d'altura",
+        "subtitle": "Terres de Lleida",
+        "description": "Ponent és una plana ordenada com un Excel, amb una aigua que ho va capgirar tot, castells, oli, xocolata i un cel amb més estrelles que un hotel de luxe. ",
+        "genre": "",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-10T01:00:00+02:00",
-        "stop": "2026-10-10T06:00:00+02:00",
+        "start": "2026-10-10T10:00:00+02:00",
+        "stop": "2026-10-10T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-10T06:00:00+02:00",
-        "stop": "2026-10-10T07:00:00+02:00",
+        "start": "2026-10-10T12:00:00+02:00",
+        "stop": "2026-10-10T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-10T04:32:13+02:00",
-        "stop": "2026-10-10T05:03:09+02:00",
+        "start": "2026-10-10T10:25:54+02:00",
+        "stop": "2026-10-10T11:13:56+02:00",
         "title": "E3",
-        "subtitle": "Prèvia WEC Barcelona",
-        "description": "Per primera vegada a la seva història, el Campionat Mundial de Resistència de la FIA (World Endurance Championship) arriba al Circuit de Barcelona-Catalunya. Després d'Imola, Spa, Le Mans, São Paulo, Austin i Fuji, la penúltima ronda de la temporada serà decisiva en la lluita pels títols mundials.",
+        "subtitle": "L'home més fort del món Giants Live 1: Britain's Strongest Man",
+        "description": "Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.",
         "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/1/1791283263910.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/2/2/1780671126722.jpg"
       },
       {
-        "start": "2026-10-10T05:03:09+02:00",
-        "stop": "2026-10-10T05:27:09+02:00",
+        "start": "2026-10-10T11:13:56+02:00",
+        "stop": "2026-10-10T12:01:12+02:00",
         "title": "E3",
-        "subtitle": "Monster Jam / San Antonio / 6",
-        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. ",
+        "subtitle": "L'home més fort del món Giants Live 2: Europe's Strongest Man",
+        "description": "Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.",
         "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/2/2/1780671126722.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-10T04:27:24+02:00",
-        "stop": "2026-10-10T04:39:18+02:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "Cadascú per la seva banda",
-        "description": "Avui venen els avis Guineu al cau de la família Teixó-Guineu. En Pinxo i en Timbal els han preparat un berenar a fora, però l'avi i l'àvia es fan morros perquè s'han discutit i no tenen cap intenció de passar el dia junts. Però a mesura que passen les hores es van ensopint, perquè en el fons es troben a faltar.",
+        "start": "2026-10-10T10:55:08+02:00",
+        "stop": "2026-10-10T11:17:08+02:00",
+        "title": "El carreró del misteri",
+        "subtitle": "El lladre invisible",
+        "description": "Durant un viatge diplomàtic a Londres, el rei de les mascotes de la ciutat del Caire és víctima d'un robatori inexplicable just en el moment que visita el palau de Buckingham.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-10T04:39:18+02:00",
-        "stop": "2026-10-10T04:50:48+02:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "El ball del bosc",
-        "description": "Els Teixó-Guineu han d'organitzar d'imprevist el ball anual del bosc. I la tradició exigeix que la parella organitzadora sigui la que obri el ball. Però com que l'Edmond no sap ballar es busca tota mena d'excuses per amagar el seu problema i no decebre la Marguerite.",
+        "start": "2026-10-10T11:17:08+02:00",
+        "stop": "2026-10-10T11:38:38+02:00",
+        "title": "El carreró del misteri",
+        "subtitle": "L'aviari encantat",
+        "description": "Segons l'Alfred, el colom, l'antic aviari del palau de Buckingham està embruixat: una gàrgola pren vida i espanta els ocells que s'hi acosten. I segons l'Espavilada, l'Alfred podria ser un somiador, però les pistes que aporta ell no enganyen.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-10T04:24:31+02:00",
-        "stop": "2026-10-10T04:45:12+02:00",
-        "title": "Caçadors de paraules",
-        "subtitle": "Foc",
-        "description": "Escalfar, il·luminar, coure aliments, fondre metalls, fabricar vidre... la civilització no hauria existit sense el domini del foc. I evidentment, les espurnes han omplert el nostre llenguatge de cada dia. Roger de Gràcia investiga la fascinació que ens provoquen les flames i rastreja totes les paraules que envolten els qui lluiten contra el foc i els qui el viuen amb ànim festiu. Per començar conviurà amb els bombers, descobrirà el seu argot i els ajudarà a apagar focs als boscos i a la ciutat. El nostre caçador haurà de vigilar de no cremar-se les celles, perquè acabarà fent de 'punta de llança' en una perillós exercici dels bombers.Però el foc també és sinònim de festa, i recollint l'herència pagana dels solsticis i equinoccis, les nostres festes populars estan farcides de falles, fogueres, foguerons i pirotècnia. Aquesta vegada, els caçadors de paraules celebren les Santantonades, una de les festes d'hivern més importants i peculiars. I Roger de Gràcia visita la comarca dels Ports, al nord del País Valencià, per viure les festes del poble de Forcall. ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-10-10T10:51:56+02:00",
+        "stop": "2026-10-10T11:24:29+02:00",
+        "title": "Animals arquitectes",
+        "subtitle": "Bosch Capdeferro",
+        "description": "Bosch Capdeferro són uns arquitectes 100% gironins i que s'estimen amb bogeria la seva ciutat. La Bet Capdeferro és del Barri Vell de tota la vida, intramuralles, barri on van fer el seu primer projecte com a estudi: la reforma d'una finca familiar, la casa Collage. La conversa amb ella és un aprenentatge continu i en cada paraula transmet com entén l'arquitectura; un acte d'humilitat i amor cap al món. Un amor que li ve de família: descobrim la construcció hexagonal brutalista i misteriosa que va dissenyar el seu tiet.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"
       },
       {
-        "start": "2026-10-10T04:45:12+02:00",
-        "stop": "2026-10-10T04:58:49+02:00",
-        "title": "Talent creatiu",
-        "subtitle": "Ramon Mirabet, músic",
-        "description": "Ramon Mirabet va començar fent de músic de carrer. Ens explica com va superar la por de cantar davant del públic fins a convertir-se en un dels músics més inspiradors del país. Estima el que fa amb bogeria.",
+        "start": "2026-10-10T11:24:29+02:00",
+        "stop": "2026-10-10T11:57:23+02:00",
+        "title": "Animals arquitectes",
+        "subtitle": "Aulets",
+        "description": "Aulets són un estudi d'arquitectura que des de Mallorca i amb una gran sensibilitat posen l'ecologia i els teixits autòctons al centre dels seus projectes. Entre ells, destaquen la rehabilitació de La Llotja de Palma i la casa Can Lis, de Jørn Utzon, escoles de fusta o un taller d'artista. La seva passió pels boscos els ha acostat també a l'ebenisteria: creen mobles amb fusta de pi mallorquí, una manera més de reivindicar els recursos de l'illa.",
         "genre": "ALTRES",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"
       }
     ],
     "oca1": [],
