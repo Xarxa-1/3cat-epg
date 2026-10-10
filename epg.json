@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-10T19:24:51.981498+00:00",
+  "updated": "2026-10-10T22:46:58.737141+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-10T20:34:50+02:00",
-        "stop": "2026-10-10T23:00:20+02:00",
-        "title": "Oques Grasses. L'últim concert",
-        "subtitle": "Oques Grasses. L'últim concert",
-        "description": "Oques Grasses: L'últim concertPer amor va començar, per amor s'acaba. Després de 14 anys de trajectòria, Oques Grasses s'acomiaden definitivament dels escenaris amb una sèrie de concerts històrics a l'Estadi Olímpic Lluís Companys de Barcelona.La banda liderada per Josep Montero posa punt final a una de les històries d'èxit més extraordinàries de la música catalana, amb un espectacle multitudinari que repassa les cançons que han marcat tota una generació.Una última nit irrepetible, plena de música, emoció i celebració. El comiat d'un grup que ha canviat per sempre el panorama musical del país. La darrera gran festa d'Oques Grasses, en directe a TV3 i 3Cat.",
-        "genre": "POP-ROCK",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1791548484143.jpg"
-      },
-      {
-        "start": "2026-10-10T23:04:16+02:00",
-        "stop": "2026-10-11T00:21:39+02:00",
-        "title": "La Puntual",
-        "subtitle": "La Puntual: Vermell o verd",
-        "description": "Tanquem la fase de 'Laboratori teatral' i ja sabrem qui seran els 11 integrants de la companyia que representarà 'L'auca del senyor Esteve'. Viurem la decisió final de l'equip de 'La Puntual', però abans caldrà que els candidats donin el millor de si mateixos per convèncer-los.",
-        "genre": "VARIETATS",
-        "image": "https://img.ccma.cat/multimedia//jpg/7/8/1721226172787.jpg"
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-10-10T21:00:00+02:00",
-        "stop": "2026-10-10T23:00:00+02:00",
+        "start": "2026-10-11T00:32:44+02:00",
+        "stop": "2026-10-11T04:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-10T23:00:00+02:00",
-        "stop": "2026-10-11T00:30:00+02:00",
+        "start": "2026-10-11T04:00:00+02:00",
+        "stop": "2026-10-11T05:00:00+02:00",
+        "title": "Blues a l'estudi",
+        "subtitle": "Tòfol Martínez",
+        "description": "Guitarrista, compositor i productor musical sabadellenc que després del seu debut discogràfic en solitari, ens presenta el seu nou repertori. Del blues més clàssic al funk més contemporani, Martínez combina l'essència d'aire blues, sempre present en els seus projectes, amb lletres que ens mostren un univers molt personal. En aquesta ocasió, entra a l'estudi acompanyat de Josep Buch al baix, Marc Buch a la bateria i Lluís Coloma al piano i l'orgue Hammond.",
+        "genre": "ALTRES",
+        "image": ""
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-10-11T00:30:00+02:00",
+        "stop": "2026-10-11T01:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-11T01:00:00+02:00",
+        "stop": "2026-10-11T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,76 +83,66 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-10T20:32:20+02:00",
-        "stop": "2026-10-10T21:34:28+02:00",
+        "start": "2026-10-11T00:47:03+02:00",
+        "stop": "2026-10-11T02:18:40+02:00",
         "title": "Gol a gol",
-        "subtitle": "Post Barça-Getafe / J8",
+        "subtitle": "Anàlisi de la jornada / J8 / Dissabte",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-10-10T21:34:28+02:00",
-        "stop": "2026-10-10T21:54:59+02:00",
-        "title": "Futbol sala",
-        "subtitle": "Barça-Osasuna / Primera divisió / J5",
-        "description": "Els blaugranes necessiten la quarta victòria en cinc jornades per seguir a la part alta de la taula. Els navarresos encara no han puntuat i tanquen la classificació.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
+        "start": "2026-10-11T02:18:40+02:00",
+        "stop": "2026-10-11T02:39:46+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-10T21:20:59+02:00",
-        "stop": "2026-10-10T21:41:09+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El rei de les cobres",
-        "description": "El Martin perd l'animalpod i el Chris l'ajuda a buscar-lo. Quan el troben, hi ha una cobra índia cargolada al voltant. Per aprendre més coses d'aquest animal es miniaturitzen i s'enfilen dalt d'una mangosta, un animal immune al verí de les cobres. Però quan volen recuperar la mida normal s'adonen que han perdut el miniaturitzador! Mentrestant, la Koki i l'Aviva descobreixen un niu de cobra reial.",
+        "start": "2026-10-11T00:43:30+02:00",
+        "stop": "2026-10-11T01:04:37+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "La Princesa Fragància",
+        "description": "La Rose, una companya de classe de la Marinette, és una fervent admiradora del príncep Ali, del regne de Kowar, que està de visita a París, i intenta posar-se en contacte amb ell. Però, com és habitual, la Chloé s'interposa i acapara tot el protagonisme. L'Esfinx aprofitarà el desengany i la ràbia de la Rose per aconseguir els prodigis de Ladybug i Gat Noir.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-10T21:41:09+02:00",
-        "stop": "2026-10-10T22:03:25+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "La salamandra del foc",
-        "description": "Explorant la Selva Negra, a Alemanya, els germans Kratt troben unes salamandres que surten d'entre les flames d'una foguera i no s'han cremat ni fet mal. Amb tot l'equip, decideixen investigar aquest misteri, perquè les salamandres precisament necessiten la humitat per viure. Al mateix temps, hauran d'impedir que la Donita Donata faci mal a les salamandres, perquè, convençuda que les salamandres tenen propietats ignífugues, es vol fer un vestit especial amb la pell d'aquest amfibi per lluir-lo en una desfilada de moda.",
+        "start": "2026-10-11T01:04:37+02:00",
+        "stop": "2026-10-11T01:25:15+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "El Cavaller Negre",
+        "description": "L'Armand d'Argencourt perd les eleccions municipals davant del senyor Bourgeois. Aprofitant el disgust del perdedor, l'Esfinx l'akumatitza en el Cavaller Negre, un avantpassat seu que havia governat París amb mà de ferro i que vol reclutar un exèrcit de cavallers. Mentrestant a l'institut han d'elegir el delegat de classe, que des de fa molts cursos és la Chloé, que s'aferra al càrrec.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-10T21:09:44+02:00",
-        "stop": "2026-10-10T21:36:00+02:00",
-        "title": "Caçadors de bolets",
-        "subtitle": "Castellers",
-        "description": "Cada any, l'inici de la tardor porta implícita una febre malaltissa que afecta gent de totes les edats i condicions: és la febre del bolet. Buscar bolets, coneixe'ls , collir-los, cuinar-los, menjar-se'ls... un costum que es renova de generació en generació i que apassiona per igual gent de camp i gent de ciutat. TV3 s'afegeix a aquesta febre amb l'estrena de la sèrie 'Caçadors de bolets'.L'ou de reig, el cep, el rovelló, els rossinyols, els fredolics, els camagrocs, les llenegues, els carlets, les tòfones... Cada any, milers de catalans surten a la muntanya a buscar aquest aliment natural, són els caçadors de bolets. Homes i dones, gastrònoms, biòlegs, pagesos, professionals urbanites, jubilats, funcionaris, mestresses de casa... tots van a la recerca del bolet per motius ben diferents.TV3 ofereix 'Caçadors de bolets', una sèrie divulgativa del Departament de Documentals i Nous Formats de TVC que busca complir el deute amb els nombrosíssims 'tocats del bolet' que omplen les rutes boletaires cada tardor i mouen el món de la compra i cuina dels bolets als mercats, comerços i restaurants del país. En cada capítol de 'Caçadors de bolets', un d'aquests boletaires (o grup de boletaires) és el protagonista, i el programa l'acompanya en les seves expedicions per diferents zones de Catalunya a 'caçar' el seu bolet preferit. Cada setmana el programa els seguirà pels boscos de tot el país, terres d'alta muntanya i de secà: el Berguedà, la Cerdanya, el Vallès, Osona, la Terra Alta... però sabrem maiel lloc exacte on som perquè cada boletaire guarda aquest secret curosament.Cada boletaire ens explicarà com conèixer, trobar i posteriorment cuinar, a casa o en un restaurant, els bolets. El programa també s'interesarà pels costums i plats a què han donat origen els bolets en altres llocs del món i tractarà de resoldre dubtes sobre aspectes científics, mèdics, dietètics, culturals i antropològics relacionats amb el món del bolet.La sèrie comptarà també",
-        "genre": "DOCUMENTAL DOCUDRAMA",
+        "start": "2026-10-10T23:35:06+02:00",
+        "stop": "2026-10-11T01:19:55+02:00",
+        "title": "60 minuts",
+        "subtitle": "Les filles d'Olfa",
+        "description": "Radiografia íntima sobre les dones d'una família tunisiana amb una història duríssima, de violència, separació i mecanismes de supervivència. És una història sobre l'opressió del patriarcat, de violència, d'abusos, del pes de la religió, de política, d'esperances truncades i d'esperança de canvi. Interessant format que integra realitat i ficció a través de les actrius que interpreten les filles absents.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-10T21:36:00+02:00",
-        "stop": "2026-10-10T22:01:39+02:00",
-        "title": "Caçadors de bolets",
-        "subtitle": "Amics del Facebook",
-        "description": "Cada any, l'inici de la tardor porta implícita una febre malaltissa que afecta gent de totes les edats i condicions: és la febre del bolet. Buscar bolets, coneixe'ls , collir-los, cuinar-los, menjar-se'ls... un costum que es renova de generació en generació i que apassiona per igual gent de camp i gent de ciutat. TV3 s'afegeix a aquesta febre amb l'estrena de la sèrie 'Caçadors de bolets'.L'ou de reig, el cep, el rovelló, els rossinyols, els fredolics, els camagrocs, les llenegues, els carlets, les tòfones... Cada any, milers de catalans surten a la muntanya a buscar aquest aliment natural, són els caçadors de bolets. Homes i dones, gastrònoms, biòlegs, pagesos, professionals urbanites, jubilats, funcionaris, mestresses de casa... tots van a la recerca del bolet per motius ben diferents.TV3 ofereix 'Caçadors de bolets', una sèrie divulgativa del Departament de Documentals i Nous Formats de TVC que busca complir el deute amb els nombrosíssims 'tocats del bolet' que omplen les rutes boletaires cada tardor i mouen el món de la compra i cuina dels bolets als mercats, comerços i restaurants del país. En cada capítol de 'Caçadors de bolets', un d'aquests boletaires (o grup de boletaires) és el protagonista, i el programa l'acompanya en les seves expedicions per diferents zones de Catalunya a 'caçar' el seu bolet preferit. Cada setmana el programa els seguirà pels boscos de tot el país, terres d'alta muntanya i de secà: el Berguedà, la Cerdanya, el Vallès, Osona, la Terra Alta... però sabrem maiel lloc exacte on som perquè cada boletaire guarda aquest secret curosament.Cada boletaire ens explicarà com conèixer, trobar i posteriorment cuinar, a casa o en un restaurant, els bolets. El programa també s'interesarà pels costums i plats a què han donat origen els bolets en altres llocs del món i tractarà de resoldre dubtes sobre aspectes científics, mèdics, dietètics, culturals i antropològics relacionats amb el món del bolet.La sèrie comptarà també",
-        "genre": "DOCUMENTAL DOCUDRAMA",
-        "image": ""
+        "start": "2026-10-11T01:19:55+02:00",
+        "stop": "2026-10-11T02:57:11+02:00",
+        "title": "Concert Oques Grasses al Palau Sant Jordi.¨La gent que estimo¨",
+        "subtitle": "Documental del concert d'Oques Grasses",
+        "description": "",
+        "genre": "POP-ROCK",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1763144837243.jpg"
       }
     ],
     "oca1": [],
-    "oca2": [
-      {
-        "start": "2026-10-10T20:58:04+02:00",
-        "stop": "2026-10-10T22:32:59+02:00",
-        "title": "Futbol Sala",
-        "subtitle": "- Barça-Osasuna / Primera divisió / J5",
-        "description": "Els blaugranes necessiten la quarta victòria en cinc jornades per seguir a la part alta de la taula. Els navarresos encara no han puntuat i tanquen la classificació.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
-      }
-    ],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
