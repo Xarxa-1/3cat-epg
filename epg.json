@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-10T09:00:37.915168+00:00",
+  "updated": "2026-10-10T15:21:15.423975+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-10T11:00:03+02:00",
-        "stop": "2026-10-10T12:14:36+02:00",
-        "title": "Soc i Seré",
-        "subtitle": "Que no et balli la llengua",
-        "description": "En el tercer capítols d'aquesta temporada, els concursants s'organitzaran en dos equips de 20 persones amb noms molt festius. Els Gresca i els Xerinola hauran de fer front a dos nous reptes on la coordinació i el domini de la llengua catalana seran molt importants.Per aconseguir l'avantatge, els aspirants hauran de donar un Bon cop de pals i sorprendre Mari Pau Huguet i els bastoners d'Oló amb un ball de bastons molt complicat. Quin equip demostrarà que porta les danses populars al cos i quin serà incapaç de seguir el ritme?En canvi, el repte eliminatori serà menys físic, però el seu cervell haurà de treballar de valent. Els barbarismes tornen a 'Soc i seré' i , en aquest ocasió, ho fan acompanyats dels refranys catalans, que els aspirants hauran de completar sense cometre cap error. Tot sota l'atenta mirada d'unes expertes en el tema: la Maria Bouabdellah i la Shalana, dues convidades que vetllaran perquè tot quedi Clar i català.Al final del programa només quedaran 20 aspirants, i dos eliminats rebran la tan desitjada segona oportunitat.",
-        "genre": "CONCURS",
+        "start": "2026-10-10T16:59:38+02:00",
+        "stop": "2026-10-10T17:56:59+02:00",
+        "title": "Infidels",
+        "subtitle": "Infidels",
+        "description": "La Maria li retreu a la Paula que sigui una egoista. En Marc pateix en veure que l'Adrià no vol quedar-se al pis amb la Paula. En Toni li diu a la Lídia que ell ja s'ha enfrontat amb el seu passat, i que ara li toca a ella. L'Eduard es mostra il·lusionat amb la idea de tenir un fill, però, quan es queda sol, truca a en Jesús i el cita per acomiadar-lo. Els pares de l'Arlet es presenten al pis sense avisar i pregunten per en Víctor. Ella els posa al corrent de la ruptura, però no es veu en cor de parlar-los de la seva relació amb en Dani. La Joana s'ha comprat una faixa reductora per compensar que menja massa.",
+        "genre": "TELESÈRIE",
         "image": ""
       },
       {
-        "start": "2026-10-10T12:14:36+02:00",
-        "stop": "2026-10-10T13:06:12+02:00",
-        "title": "País d'altura",
-        "subtitle": "Terres de Lleida",
-        "description": "Ponent és una plana ordenada com un Excel, amb una aigua que ho va capgirar tot, castells, oli, xocolata i un cel amb més estrelles que un hotel de luxe. ",
-        "genre": "",
+        "start": "2026-10-10T17:56:59+02:00",
+        "stop": "2026-10-10T18:22:35+02:00",
+        "title": "Jet lag",
+        "subtitle": "MENTIDES",
+        "description": "La Mariona rep la visita del seu ex nòvio que està molt content i a punt de casar-se amb una noia catalana. La Mariona li diu que ella també està molt contenta amb el seu nòvio actual... el Mario. Però el Mario no serà la única persona a qui la Mariona involucri amb les seves mentides. La Sílvia, per la seva part, serà víctima d'un enquestador sense escrúpols.",
+        "genre": "TELESÈRIE",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-10T10:00:00+02:00",
-        "stop": "2026-10-10T12:00:00+02:00",
+        "start": "2026-10-10T16:30:00+02:00",
+        "stop": "2026-10-10T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-10T12:00:00+02:00",
-        "stop": "2026-10-10T14:30:00+02:00",
+        "start": "2026-10-10T18:30:00+02:00",
+        "stop": "2026-10-10T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-10T10:25:54+02:00",
-        "stop": "2026-10-10T11:13:56+02:00",
-        "title": "E3",
-        "subtitle": "L'home més fort del món Giants Live 1: Britain's Strongest Man",
-        "description": "Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/2/1780671126722.jpg"
+        "start": "2026-10-10T17:00:46+02:00",
+        "stop": "2026-10-10T17:56:45+02:00",
+        "title": "Futbol",
+        "subtitle": "Barça Atlètic-SD Logronyès / Segona Federació / J6",
+        "description": "El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-10-10T11:13:56+02:00",
-        "stop": "2026-10-10T12:01:12+02:00",
-        "title": "E3",
-        "subtitle": "L'home més fort del món Giants Live 2: Europe's Strongest Man",
-        "description": "Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/2/1780671126722.jpg"
+        "start": "2026-10-10T17:56:45+02:00",
+        "stop": "2026-10-10T18:27:17+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Prèvia Barça-Getafe / J8",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-10T10:55:08+02:00",
-        "stop": "2026-10-10T11:17:08+02:00",
-        "title": "El carreró del misteri",
-        "subtitle": "El lladre invisible",
-        "description": "Durant un viatge diplomàtic a Londres, el rei de les mascotes de la ciutat del Caire és víctima d'un robatori inexplicable just en el moment que visita el palau de Buckingham.",
+        "start": "2026-10-10T17:19:14+02:00",
+        "stop": "2026-10-10T17:29:48+02:00",
+        "title": "Ideafix i els irreductibles",
+        "subtitle": "La Patatafarcida de la discòrdia",
+        "description": "Per fer la competència a la furgoteca de cuina gal·la de la Patatafarcida, el prefecte Astutus, el general Labiè i l'arquitecte Semblangròpius munten una furgoteca de cuina romana. Jugada mestra contra els gals! Sort n'hi ha, que els Irreductibles sempre estan a l'aguait.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-10T11:17:08+02:00",
-        "stop": "2026-10-10T11:38:38+02:00",
-        "title": "El carreró del misteri",
-        "subtitle": "L'aviari encantat",
-        "description": "Segons l'Alfred, el colom, l'antic aviari del palau de Buckingham està embruixat: una gàrgola pren vida i espanta els ocells que s'hi acosten. I segons l'Espavilada, l'Alfred podria ser un somiador, però les pistes que aporta ell no enganyen.",
+        "start": "2026-10-10T17:29:48+02:00",
+        "stop": "2026-10-10T17:41:08+02:00",
+        "title": "Ideafix i els irreductibles",
+        "subtitle": "Turbina l'astuta",
+        "description": "Una nova poció del Voldenix fa que el prefecte Astutus perdi l'al·lèrgia al pèl dels animals, fins al punt que s'enamora de la Irreductible Turbina i la fa reina del palau de la Lloba. Embogida de ràbia, la Monalisa concep un pla per desfer-se de la intrusa.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-10T10:51:56+02:00",
-        "stop": "2026-10-10T11:24:29+02:00",
-        "title": "Animals arquitectes",
-        "subtitle": "Bosch Capdeferro",
-        "description": "Bosch Capdeferro són uns arquitectes 100% gironins i que s'estimen amb bogeria la seva ciutat. La Bet Capdeferro és del Barri Vell de tota la vida, intramuralles, barri on van fer el seu primer projecte com a estudi: la reforma d'una finca familiar, la casa Collage. La conversa amb ella és un aprenentatge continu i en cada paraula transmet com entén l'arquitectura; un acte d'humilitat i amor cap al món. Un amor que li ve de família: descobrim la construcció hexagonal brutalista i misteriosa que va dissenyar el seu tiet.",
+        "start": "2026-10-10T16:28:00+02:00",
+        "stop": "2026-10-10T17:20:51+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Germans Green",
+        "description": "La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"
+        "image": ""
       },
       {
-        "start": "2026-10-10T11:24:29+02:00",
-        "stop": "2026-10-10T11:57:23+02:00",
-        "title": "Animals arquitectes",
-        "subtitle": "Aulets",
-        "description": "Aulets són un estudi d'arquitectura que des de Mallorca i amb una gran sensibilitat posen l'ecologia i els teixits autòctons al centre dels seus projectes. Entre ells, destaquen la rehabilitació de La Llotja de Palma i la casa Can Lis, de Jørn Utzon, escoles de fusta o un taller d'artista. La seva passió pels boscos els ha acostat també a l'ebenisteria: creen mobles amb fusta de pi mallorquí, una manera més de reivindicar els recursos de l'illa.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"
+        "start": "2026-10-10T17:20:51+02:00",
+        "stop": "2026-10-10T18:58:02+02:00",
+        "title": "Concert Oques Grasses al Palau Sant Jordi.¨La gent que estimo¨",
+        "subtitle": "Documental del concert d'Oques Grasses",
+        "description": "",
+        "genre": "POP-ROCK",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1763144837243.jpg"
       }
     ],
     "oca1": [],
