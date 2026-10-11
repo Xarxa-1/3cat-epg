@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-10T22:46:58.737141+00:00",
+  "updated": "2026-10-11T01:30:34.459153+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-10-11T00:30:00+02:00",
-        "stop": "2026-10-11T01:00:00+02:00",
+        "start": "2026-10-11T01:00:00+02:00",
+        "stop": "2026-10-11T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-11T01:00:00+02:00",
-        "stop": "2026-10-11T06:00:00+02:00",
+        "start": "2026-10-11T06:00:00+02:00",
+        "stop": "2026-10-11T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-11T00:47:03+02:00",
-        "stop": "2026-10-11T02:18:40+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J8 / Dissabte",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-10-11T02:39:49+02:00",
+        "stop": "2026-10-11T03:56:09+02:00",
+        "title": "Futbol sala",
+        "subtitle": "Barça-Osasuna / Primera divisió / J5",
+        "description": "Els blaugranes necessiten la quarta victòria en cinc jornades per seguir a la part alta de la taula. Els navarresos encara no han puntuat i tanquen la classificació.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
       },
       {
-        "start": "2026-10-11T02:18:40+02:00",
-        "stop": "2026-10-11T02:39:46+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-10-11T03:56:09+02:00",
+        "stop": "2026-10-11T06:08:21+02:00",
+        "title": "Futbol",
+        "subtitle": "Barça Atlètic-SD Logronyès / Segona Federació / J6",
+        "description": "El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-11T00:43:30+02:00",
-        "stop": "2026-10-11T01:04:37+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "La Princesa Fragància",
-        "description": "La Rose, una companya de classe de la Marinette, és una fervent admiradora del príncep Ali, del regne de Kowar, que està de visita a París, i intenta posar-se en contacte amb ell. Però, com és habitual, la Chloé s'interposa i acapara tot el protagonisme. L'Esfinx aprofitarà el desengany i la ràbia de la Rose per aconseguir els prodigis de Ladybug i Gat Noir.",
+        "start": "2026-10-11T03:29:25+02:00",
+        "stop": "2026-10-11T03:39:25+02:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "Les fugitives de la granja",
+        "description": "En l'aventura poptàstica d'avui, el Plom ha de cuidar unes noves amigues peludes: un ramat d'alpaques! El Plom decideix treure les pop-paques a passejar, però se li escapen. Podrà fer tornar les seves amigues a la granja a temps per a la inauguració del mercat de la popgranja de paper?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-11T01:04:37+02:00",
-        "stop": "2026-10-11T01:25:15+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "El Cavaller Negre",
-        "description": "L'Armand d'Argencourt perd les eleccions municipals davant del senyor Bourgeois. Aprofitant el disgust del perdedor, l'Esfinx l'akumatitza en el Cavaller Negre, un avantpassat seu que havia governat París amb mà de ferro i que vol reclutar un exèrcit de cavallers. Mentrestant a l'institut han d'elegir el delegat de classe, que des de fa molts cursos és la Chloé, que s'aferra al càrrec.",
+        "start": "2026-10-11T03:39:25+02:00",
+        "stop": "2026-10-11T03:49:25+02:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "El carter Plom",
+        "description": "En l'aventura poptàstica d'avui, els amics celebren el dia de Sant Valentí! El Plom reparteix les targetes que s'han enviat els uns als altres, però s'haurà d'afanyar per poder jugar al joc que ha preparat la Mae-Mae.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-10T23:35:06+02:00",
-        "stop": "2026-10-11T01:19:55+02:00",
-        "title": "60 minuts",
-        "subtitle": "Les filles d'Olfa",
-        "description": "Radiografia íntima sobre les dones d'una família tunisiana amb una història duríssima, de violència, separació i mecanismes de supervivència. És una història sobre l'opressió del patriarcat, de violència, d'abusos, del pes de la religió, de política, d'esperances truncades i d'esperança de canvi. Interessant format que integra realitat i ficció a través de les actrius que interpreten les filles absents.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-11T02:57:13+02:00",
+        "stop": "2026-10-11T03:40:25+02:00",
+        "title": "El Crac",
+        "subtitle": "El gran calamar",
+        "description": "La gran producció cinematogràfica catalana de l'any, 'Moragues, el gran general', es queda sense actor protagonista en l'últim moment. En Joel Joan, en hores baixes, somia a fer-se amb aquest paper, però en Nico Carrillo, director de la pel·lícula, detesta profundament en Joel. En Nico només li donarà el paper a canvi d'una condició. Quin preu serà capaç de pagar en Joel per aconseguir el paper de la seva vida?",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-10-11T01:19:55+02:00",
-        "stop": "2026-10-11T02:57:11+02:00",
-        "title": "Concert Oques Grasses al Palau Sant Jordi.¨La gent que estimo¨",
-        "subtitle": "Documental del concert d'Oques Grasses",
-        "description": "",
-        "genre": "POP-ROCK",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1763144837243.jpg"
+        "start": "2026-10-11T03:40:25+02:00",
+        "stop": "2026-10-11T04:20:35+02:00",
+        "title": "El Crac",
+        "subtitle": "El gran combat",
+        "description": "En Joel intenta per tots els mitjans que el Roger Coma, a qui han donat el paper de Moragues, es dediqui a escriure i abandoni la pel·lícula. I mentre els actors s'entrenen per al rodatge que els espera, el Joel, rabiós i ferit en l'orgull per haver perdut el paper protagonista, converteix l'entrenament en una competició personal amb en Roger. Paral·lelament, el Crac intenta recuperar la seva relació sentimental amb la Sandra.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       }
     ],
     "oca1": [],
