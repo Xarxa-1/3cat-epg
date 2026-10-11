@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-11T07:48:39.312483+00:00",
+  "updated": "2026-10-11T14:34:36.800735+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-11T07:00:00+02:00",
-        "stop": "2026-10-11T10:30:23+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-10-11T15:34:57+02:00",
+        "stop": "2026-10-11T16:52:02+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Cançó per a tu",
+        "description": "Productores :TV3 i Galápagos Media amb el suport del Departament de Cultura de la Generalitat de Catalunya.Director : Oriol Ferrer.Productor : Pau Calpe RufatProductors executius TV3 : Cruz Rodríguez i Oriol Sala-PatauArgument : Pau Calpe RufatGuió : Marta GrauFotografia : David OmedesMúsica : David Cervera'Cançó per a tu' és un tema de Ivette Nadal.Intèrprets : Laia ( Candela Serrat), David ( Nao Albet), Ignasi (Fèlix Herzog), Núria (Paula Mèlia)Sinopsi : Barcelona, 1965. La Laia estudia dret a la Universitat de Barcelona. Treballa els matins a la biblioteca de la Universitat per pagar-se els estudis, i compon cançons en el seu temps lliure. La Laia acaba de començar a sortir amb l'Ignasi, un estudiant de matins compromès amb la lluita clandestina contra el franquisme. El problema de la Laia és que no suporta el millor amic de l'Ignasi, el David, un nen superficial de casa bona. Però el David no és el que sembla. Nova cançó. Caputxinada. Assemblea de Catalunya. Manifestacions del febrer del 76.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       },
       {
-        "start": "2026-10-11T10:30:23+02:00",
-        "stop": "2026-10-11T10:56:35+02:00",
-        "title": "Signes dels temps",
-        "subtitle": "Art d'estil bizantí a l'església d'Hostalric",
-        "description": "L'artista Joan Carles Osuna, especialitzat en art medieval, ha transformat l'interior de l'església de Santa Maria dels Socors d'Hostalric (la Selva). Ha pintat els murals d'estil bizantí com l'Anunciació a Maria i la Presentació de Jesús al Temple seguint la tècnica del tremp a l'ou i el pa d'or, que aporten lluminositat i profunditat. Joan Carles Osuna s'ha fet creient a través de l'art. Fa uns anys, mentre esmorzava, va veure a 'Signes dels temps' de TV3 que el gran mestre xilè, Juan Echenique, feia un curs d'iconografia bizantina al monestir de Poblet, i això li va canviar la vida. Els murals de l'església d'Hostalric han tingut molt bona acollida al poble, i entre els visitants d'altres llocs. Per finançar el projecte, que té el suport del bisbat de Girona, s'han fet diverses activitats culturals. I també hi ha col·laborat l'Associació pel Patrimoni Històric d'Hostalric.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-10-11T16:52:02+02:00",
+        "stop": "2026-10-11T18:18:40+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Ara",
+        "description": "ARAProducció : DDM Visual SL amb el suport de l'ICEC i la col·laboració de TV3 LA Clínica Bofill i Càtedra de Ciències i Humanitats Dr. Bofill. 2018Guió i direcció: Pere Solés Direcció de fotografia: Diego DussuelPacients: Núria Brunsó, Ariadna de Bolòs, Anna Petit, Irene Quintana, Mariona Esteve, Mònica Argila, Martina Busquet, Nerea Ortega, Núria Caritg, Yaiza Bujalance i Helena VerdaguerTerapeutes: Pau Chapur, Montse Serra, Natàlia Gallart i Carme MariscotPsiquiatra : Carme Mariscot'ARA' és una ficció rodada amb pacients reals que mostra com un equip de psicòlegs clínics especialistes en patologia alimentària lluiten amb l'única arma que tenen, el sentit comú, contra el sense sentit a què es veuen abocades moltes noies com la Núria, una nova pacient anorèxica que arriba al centre, que posa a prova la professionalitat dels terapeutes. ",
+        "genre": "PEL·LÍCULA / TELEFILM",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-11T07:00:00+02:00",
-        "stop": "2026-10-11T10:00:00+02:00",
+        "start": "2026-10-11T16:30:00+02:00",
+        "stop": "2026-10-11T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-11T10:00:00+02:00",
-        "stop": "2026-10-11T12:00:00+02:00",
+        "start": "2026-10-11T18:30:00+02:00",
+        "stop": "2026-10-11T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-11T09:07:07+02:00",
-        "stop": "2026-10-11T10:52:11+02:00",
+        "start": "2026-10-11T15:55:00+02:00",
+        "stop": "2026-10-11T16:50:55+02:00",
         "title": "Futbol",
-        "subtitle": "Barça Atlètic-SD Logronyès / Segona Federació / J6",
-        "description": "El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.",
+        "subtitle": "Girona FC B-RCD Espanyol B / Segona Federació / J6",
+        "description": "Els filials blanc-i-vermell i blanc-i-blau volen els tres punts per ser a la zona alta de la classificació. Amb la narració d'Oriol Vidal i l'anàlisi d'Àlex Delmàs.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-10-11T10:52:11+02:00",
-        "stop": "2026-10-11T12:25:00+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J8 / Dissabte",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-10-11T16:50:55+02:00",
+        "stop": "2026-10-11T16:59:05+02:00",
+        "title": "Esport Club Cap de Setmana",
+        "subtitle": "Esport Club",
+        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-11T09:45:16+02:00",
-        "stop": "2026-10-11T09:55:49+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla salva un rellotge de cucut",
-        "description": "La Chickaletta es queda tancada a dins del rellotge de cucut d'en Jake i el rellotge comença a caure muntanya avall. En Ryder i la Patrulla Peluda hauran d'anar a rescatar la gallina i el rellotge.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-11T16:30:58+02:00",
+        "stop": "2026-10-11T16:56:44+02:00",
+        "title": "Fuet",
+        "subtitle": "Els vikings tenen sentiments.",
+        "description": "En Fuet continua fent de les seves al passat. Ara ha fet aparèixer un vaixell viking amb cap de gat. Això portarà la Kiry i en Jau Coloma a l'època dels vikings, el poble de guerrers escandinaus. Els vikings els explicaran que hi ha molt prejudici i que no tots són alts, barbuts ni rossos. També hauran de llegir bé les instruccions per muntar un vaixell anomenat drakar i coneixeran la història del gran explorador viking Èric el Roig.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-10-11T09:55:49+02:00",
-        "stop": "2026-10-11T10:06:22+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla salva la casa de la Sra. Marjorie",
-        "description": "A la senyora Marjorie, se li està a punt d'ensorrar la casa per culpa d'uns sots misteriosos que li surten al pati i la Patrulla Peluda l'haurà d'ajudar.",
+        "start": "2026-10-11T16:56:44+02:00",
+        "stop": "2026-10-11T17:07:43+02:00",
+        "title": "Ideafix i els irreductibles",
+        "subtitle": "En Gustdúrix fa paret",
+        "description": "El grafiter Gustdúrix ridiculitza el general Labiè escampant-ne caricatures per tot Lutècia. Un cop arrestat, el general li ofereix la llibertat a canvi de pintar un fresc en honor seu i de la gata Monalisa. Però això fa que els lutecians el prenguin per un traïdor. Per sort, l'Ideafix tindrà una idea brillant perquè en Gustdúrix torni a guanyar-se l'estima dels lutecians.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-11T09:26:04+02:00",
-        "stop": "2026-10-11T09:51:49+02:00",
-        "title": "Fotografies",
-        "subtitle": "Mar",
-        "description": "En aquest episodi: viatjarem a Tenerife amb Jordi Chias, un dels millors fotògrafs del fons del mar en una sessió fotogràfica plena de sorpreses; i també veurem com entrena el seu ull fotogràfic a l'estany de Banyoles el reconegut fotògraf de viatges Tino Soriano . Coneixerem l'expedició a l'Antàrtica del vaixell 'Endurance', i com el fotògraf Frank Hurley va fotografiar els moments més difícils de l'expedició; i descobrirem a Eduard Admetlla, pioner català de la foto submarina, i l'anglès Frank Benken, creador d'un curiós disparador. Aquesta setmana, a Fotografies, ens submergim per fotografiar 'el mar'. L'aigua, els llacs i el mar han estat un gran desafiament per a la fotografia des del començament. I, sobretot, el mar ha estat l'última frontera que la fotografia ha hagut de conquerir. Avui us convidem a resseguir aquest gran repte que ha estat el mar per als fotògrafs. En aquest capítol seguirem a Jordi Chias en una excursió a les aigues de Los Gigantes de Tenerife per aprendre com fotografia la fauna marina, i ens explicarà els seus trucs per aconseguir les fotografies més espectaculars. Coneixerem també a Tino Soriano, un reconegut fotògraf de viatges i reportatges fotoperiodístics; veurem les millors fotos del seu viatge a l'Antàrtida, on va fotografiar un dels grans fenòmens de la naturalesa a la Patagònia. Quan és a casa Tino Soriano no oblida la càmera i l'acompanyarem a una excursió a l'estany de Banyoles, on constantment troba noves imatges. Si mirem enrere, en la història hi ha hagut molts pioners que han fet possible la fotografia marinera i submarina. A Catalunya comptem amb un pioner de la fotografia submarina, Eduard Admetlla. A més a més, els exemples de Frank Hurley, fotògraf explorador de l'Antàrtica, i Frank Beken, fotògraf de finals del segle XIX i principis del segle XX, i autor d'impressionants fotografies de vaixells. ",
+        "start": "2026-10-11T16:09:31+02:00",
+        "stop": "2026-10-11T17:08:31+02:00",
+        "title": "Rick Stein: De Venècia a Istanbul",
+        "subtitle": "Croàcia",
+        "description": "El viatge culinari d'en Rick Stein continua per Croàcia, on tastarà les ostres de Ston i recorrerà les vinyes que fan el raïm del vi negre 'dingac'. Tot seguit, s'endinsa a la desconeguda Albània, que, després del règim comunista, malda per recuperar la gastronomia autòctona, com ara un estofat de mongetes i porc fumat, arròs amb anguiles o menuts de xai a l'ast. I ens farà un 'risotto' negre amb sípia, un estofat de conill albanès i un 'tavë kosi', que és xai al forn amb crema de iogurt, també albanès.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-11T09:51:49+02:00",
-        "stop": "2026-10-11T10:17:07+02:00",
-        "title": "Fotografies",
-        "subtitle": "Paisatge",
-        "description": "Oriol Alamany ensenya a fotografiar els colors de la tardor a la Vall d'Aran; es recupera un dels grans clàssics del pictorialisme català, Josep M. Casals i Ariet; i el programa passa una nit al Turó de l'Home intentant fotografiar el cel.Aquesta setmana, a 'Fotografies' retratem 'El paisatge'.Oriol Alamany és el fotògraf de paisatge més reconegut actualment. Aquesta setmana, el presentador de la sèrie, Antoni Tortajada, acompanya el fotògraf d'excursió a la Vall d'Aran per fotografiar els colors de la tardor; però es trobaran amb la primera gran nevada de la temporada.El paisatge sempre ha fascinat els fotògrafs, i molt especialment als fotògrafs que volien semblar pintors. Aquest corrent, el pictorialisme, ha tingut molt bons representants a Catalunya. Aquest episodi recupera l'obra de Josep M. Casals i Ariet, l'últim gran clàssic del paisatge. Aquest fotògraf, que va adquirir renom a mitjans del segle passat, feia servir una tècnica molt exclusiva i avui pràcticament desapareguda: el bromoli transportat. En aquest episodi, l'especialista en fotografia antiga Massimo Cova intentarà tornar-lo a fer servir.I, finalment, el programa es fixa en el paisatge del cel. Primer, volarem amb els avions de l'empresa de Moià CAT-UAV per fotografiar el paisatge; i, després, el presentador passarà una nit al Turó de l'Home fotografiant estrelles amb un grup d'aficionats a l'astrofotografia de l'Agrupació Astronòmica de Sabadell.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-10-11T17:08:31+02:00",
+        "stop": "2026-10-11T18:09:10+02:00",
+        "title": "Gàdor i els taurons",
+        "subtitle": "Gàdor i els taurons",
+        "description": "En la seva croada personal en defensa dels taurons, la científica marina Gàdor Muntaner s'embarca en un viatge a la recerca de l'animal que troba tan fascinant. El viatge de la Gàdor ens porta a un mar i dos oceans. Acompanyada per l'instructor de busseig i càmera submarí Jordi Atienza, el periple de la Gàdor comença a la Mediterrània, a Mallorca, on fa immersió a la reserva marina de l'Illa del Toro. Aquí, el tauró blau, o tintorera, està en perill d'extinció. Després visita la Baixa Califòrnia, a Mèxic, on va escriure la seva tesi sobre els contaminants que afecten el gran tauró blanc i va fundar una ONG. Aquí, a l'oceà Pacífic, encara es pesquen taurons. La Gàdor treballa amb els pescadors locals perquè canviïn el model de negoci, per convèncer-los que val més un tauró viu que un tauró mort. La Gàdor acaba el seu viatge a les Maldives, a l'oceà Índic, on va veure el seu primer tauró, un moment que li va canviar la vida. I a la seva mare, que l'acompanyava, també. Allà es retroba amb el seu amic Mohamed i té l'objectiu final de comprovar com ha augmentat la població de taurons tigre a causa de la protecció que n'han fet. Seria el lloc on les coses es fan millor, si no fos que en altres zones dels atols hi ha illes flotants de plàstics. ",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/6/1732658813162.jpg"
       }
     ],
     "oca1": [],
