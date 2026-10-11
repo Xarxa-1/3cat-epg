@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-11T14:34:36.800735+00:00",
+  "updated": "2026-10-11T19:10:12.461701+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-11T15:34:57+02:00",
-        "stop": "2026-10-11T16:52:02+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Cançó per a tu",
-        "description": "Productores :TV3 i Galápagos Media amb el suport del Departament de Cultura de la Generalitat de Catalunya.Director : Oriol Ferrer.Productor : Pau Calpe RufatProductors executius TV3 : Cruz Rodríguez i Oriol Sala-PatauArgument : Pau Calpe RufatGuió : Marta GrauFotografia : David OmedesMúsica : David Cervera'Cançó per a tu' és un tema de Ivette Nadal.Intèrprets : Laia ( Candela Serrat), David ( Nao Albet), Ignasi (Fèlix Herzog), Núria (Paula Mèlia)Sinopsi : Barcelona, 1965. La Laia estudia dret a la Universitat de Barcelona. Treballa els matins a la biblioteca de la Universitat per pagar-se els estudis, i compon cançons en el seu temps lliure. La Laia acaba de començar a sortir amb l'Ignasi, un estudiant de matins compromès amb la lluita clandestina contra el franquisme. El problema de la Laia és que no suporta el millor amic de l'Ignasi, el David, un nen superficial de casa bona. Però el David no és el que sembla. Nova cançó. Caputxinada. Assemblea de Catalunya. Manifestacions del febrer del 76.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
+        "start": "2026-10-11T21:00:00+02:00",
+        "stop": "2026-10-11T22:06:59+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-11T16:52:02+02:00",
-        "stop": "2026-10-11T18:18:40+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Ara",
-        "description": "ARAProducció : DDM Visual SL amb el suport de l'ICEC i la col·laboració de TV3 LA Clínica Bofill i Càtedra de Ciències i Humanitats Dr. Bofill. 2018Guió i direcció: Pere Solés Direcció de fotografia: Diego DussuelPacients: Núria Brunsó, Ariadna de Bolòs, Anna Petit, Irene Quintana, Mariona Esteve, Mònica Argila, Martina Busquet, Nerea Ortega, Núria Caritg, Yaiza Bujalance i Helena VerdaguerTerapeutes: Pau Chapur, Montse Serra, Natàlia Gallart i Carme MariscotPsiquiatra : Carme Mariscot'ARA' és una ficció rodada amb pacients reals que mostra com un equip de psicòlegs clínics especialistes en patologia alimentària lluiten amb l'única arma que tenen, el sentit comú, contra el sense sentit a què es veuen abocades moltes noies com la Núria, una nova pacient anorèxica que arriba al centre, que posa a prova la professionalitat dels terapeutes. ",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
+        "start": "2026-10-11T22:06:59+02:00",
+        "stop": "2026-10-11T22:46:08+02:00",
+        "title": "30 minuts",
+        "subtitle": "Morts de calor",
+        "description": "Els últims cinc mesos, de maig a setembre, hem viscut morts de calor. Mai abans no havíem patit tantes calorades, ni tan llargues. En els registres del servei meteorològic de Catalunya s'han superat els 40 graus en 24 dies. L'augment de temperatures pel canvi climàtic s'està accelerant. Com ens afecta aquesta calor? Estem preparats per afrontar-la? Es poden mitigar els efectes? Al reportatge 'Morts de calor' un equip del 30 minuts retrata l'impacte de la calor en la vida quotidiana, des de les escoles a les llars particulars o els treballs a l'aire lliure com els temporers o alguns serveis públics. El 80% dels edificis són del segle passat, mal aïllats o més pensats per resistir el fred que la calor. De dia és difícil estar-s'hi, però de nit és pitjor. Aquest any s'han viscut 177 nits tropicals, 70 tòrrides i 1 de roent, per sobre de 30 graus. 'La sensació de no poder descansar és terrible -diu Àlex Martín, que viu sota terrat-. Al final, si no descanses no rendeixes i al dia següent estàs de més mal humor.' La calor està disparant la venda de ventiladors i aires condicionats. 'La gent que no li agrada l'aire, que no ha volgut tindre aire i han aguantat sense aire, aquests últims 3 anys se l'estan posant', assegura Marc Zoroa, instal·lador. La temperatura extrema i persistent té importants efectes sobre la salut que no sempre són evidents. 'Normalment tenim l'ordre d'entre 3 i 5 cops de calor mortals a Catalunya, puntualitza Jacobo Mendioroz, subdirector d'alertes i emergències de Salut Pública-però probablement el gruix dels efectes sigui les descompensacions de patologies cròniques en persones ja vulnerables o en persones grans'. El reportatge 'Morts de calor' mostra també les solucions que proposen les últimes investigacions científiques per paliar la calor, com prioritzar la vegetació per sobre del ciment a les ciutats, amb més ombres, per rebaixar fins a 8 graus la temperatura.",
+        "genre": "REPORTATGES",
+        "image": "https://statics.ccma.cat/multimedia/jpg/7/3/1571603193237.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-11T16:30:00+02:00",
-        "stop": "2026-10-11T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-11T21:00:00+02:00",
+        "stop": "2026-10-11T22:02:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-11T18:30:00+02:00",
-        "stop": "2026-10-11T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-11T22:02:00+02:00",
+        "stop": "2026-10-11T23:00:00+02:00",
+        "title": "Telenotícies vespre (reemissió)",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-11T15:55:00+02:00",
-        "stop": "2026-10-11T16:50:55+02:00",
-        "title": "Futbol",
-        "subtitle": "Girona FC B-RCD Espanyol B / Segona Federació / J6",
-        "description": "Els filials blanc-i-vermell i blanc-i-blau volen els tres punts per ser a la zona alta de la classificació. Amb la narració d'Oriol Vidal i l'anàlisi d'Àlex Delmàs.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+        "start": "2026-10-11T20:37:19+02:00",
+        "stop": "2026-10-11T21:23:42+02:00",
+        "title": "Motor a fons",
+        "subtitle": "GP d'Indonèsia",
+        "description": "Dissetena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"
       },
       {
-        "start": "2026-10-11T16:50:55+02:00",
-        "stop": "2026-10-11T16:59:05+02:00",
-        "title": "Esport Club Cap de Setmana",
-        "subtitle": "Esport Club",
-        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-10-11T21:23:42+02:00",
+        "stop": "2026-10-11T23:00:00+02:00",
+        "title": "Handbol",
+        "subtitle": "Villa de Aranda-Barça / Lliga Asobal / J5",
+        "description": "Els blaugranes juguen a la pista burgalesa amb l'objectiu d'ampliar la gran ratxa de victòries consecutives a la Lliga.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-11T16:30:58+02:00",
-        "stop": "2026-10-11T16:56:44+02:00",
-        "title": "Fuet",
-        "subtitle": "Els vikings tenen sentiments.",
-        "description": "En Fuet continua fent de les seves al passat. Ara ha fet aparèixer un vaixell viking amb cap de gat. Això portarà la Kiry i en Jau Coloma a l'època dels vikings, el poble de guerrers escandinaus. Els vikings els explicaran que hi ha molt prejudici i que no tots són alts, barbuts ni rossos. També hauran de llegir bé les instruccions per muntar un vaixell anomenat drakar i coneixeran la història del gran explorador viking Èric el Roig.",
-        "genre": "ALTRES",
+        "start": "2026-10-11T20:59:21+02:00",
+        "stop": "2026-10-11T21:20:14+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "L'hàmster galtones",
+        "description": "Mentre l'Aviva fa els últims retocs als seus xips d'energia Micro XT, el Jimmy decideix provar els potenciadors del motor turbo que la Koki acaba de revisar. Això fa que, sense voler, els xips s'acabin perdent en uns camps d'Alemanya. Allà descobreixen l'hàmster comú, un gran recol·lector, i decideixen seguir-ne uns quants exemplars per veure si els ajuden a trobar els xips. Mentrestant el Jimmy, des de la nau Tortuga, demana ajuda als amics dels germans Kratt.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-11T16:56:44+02:00",
-        "stop": "2026-10-11T17:07:43+02:00",
-        "title": "Ideafix i els irreductibles",
-        "subtitle": "En Gustdúrix fa paret",
-        "description": "El grafiter Gustdúrix ridiculitza el general Labiè escampant-ne caricatures per tot Lutècia. Un cop arrestat, el general li ofereix la llibertat a canvi de pintar un fresc en honor seu i de la gata Monalisa. Però això fa que els lutecians el prenguin per un traïdor. Per sort, l'Ideafix tindrà una idea brillant perquè en Gustdúrix torni a guanyar-se l'estima dels lutecians.",
+        "start": "2026-10-11T21:20:14+02:00",
+        "stop": "2026-10-11T21:40:23+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Ponis salvatges",
+        "description": "Els germans Kratt descobreixen un ramat de ponis salvatges a la platja. L'Aviva i la Koki tenen moltes ganes de veure'ls, però s'acosta una tempesta i el Jimmy els recomana que tornin a la nau. Una gran onada arriba a la platja i deixa un petit poni separat del ramat. El Chris i el Martin decideixen anar-lo a buscar i portar-lo amb la seva mare. Però el petit poni és molt espantadís i el seu rescat no serà gens fàcil. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-11T16:09:31+02:00",
-        "stop": "2026-10-11T17:08:31+02:00",
-        "title": "Rick Stein: De Venècia a Istanbul",
-        "subtitle": "Croàcia",
-        "description": "El viatge culinari d'en Rick Stein continua per Croàcia, on tastarà les ostres de Ston i recorrerà les vinyes que fan el raïm del vi negre 'dingac'. Tot seguit, s'endinsa a la desconeguda Albània, que, després del règim comunista, malda per recuperar la gastronomia autòctona, com ara un estofat de mongetes i porc fumat, arròs amb anguiles o menuts de xai a l'ast. I ens farà un 'risotto' negre amb sípia, un estofat de conill albanès i un 'tavë kosi', que és xai al forn amb crema de iogurt, també albanès.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-11T21:08:19+02:00",
+        "stop": "2026-10-11T21:35:27+02:00",
+        "title": "Caçadors de bolets",
+        "subtitle": "Instagramers",
+        "description": "És el programa número 103 i pujarem al Pallars Jussà a buscar bolets amb una colla de boletaires instagramers.Un grup d'amics procedents de llocs diversos de Catalunya que, de tant en tant, surten a caçar bolets junts, amb cistell i telèfon mòbil.",
+        "genre": "DOCUMENTAL DOCUDRAMA",
         "image": ""
       },
       {
-        "start": "2026-10-11T17:08:31+02:00",
-        "stop": "2026-10-11T18:09:10+02:00",
-        "title": "Gàdor i els taurons",
-        "subtitle": "Gàdor i els taurons",
-        "description": "En la seva croada personal en defensa dels taurons, la científica marina Gàdor Muntaner s'embarca en un viatge a la recerca de l'animal que troba tan fascinant. El viatge de la Gàdor ens porta a un mar i dos oceans. Acompanyada per l'instructor de busseig i càmera submarí Jordi Atienza, el periple de la Gàdor comença a la Mediterrània, a Mallorca, on fa immersió a la reserva marina de l'Illa del Toro. Aquí, el tauró blau, o tintorera, està en perill d'extinció. Després visita la Baixa Califòrnia, a Mèxic, on va escriure la seva tesi sobre els contaminants que afecten el gran tauró blanc i va fundar una ONG. Aquí, a l'oceà Pacífic, encara es pesquen taurons. La Gàdor treballa amb els pescadors locals perquè canviïn el model de negoci, per convèncer-los que val més un tauró viu que un tauró mort. La Gàdor acaba el seu viatge a les Maldives, a l'oceà Índic, on va veure el seu primer tauró, un moment que li va canviar la vida. I a la seva mare, que l'acompanyava, també. Allà es retroba amb el seu amic Mohamed i té l'objectiu final de comprovar com ha augmentat la població de taurons tigre a causa de la protecció que n'han fet. Seria el lloc on les coses es fan millor, si no fos que en altres zones dels atols hi ha illes flotants de plàstics. ",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/6/1732658813162.jpg"
+        "start": "2026-10-11T21:35:27+02:00",
+        "stop": "2026-10-11T22:00:22+02:00",
+        "title": "Caçadors de bolets",
+        "subtitle": "Caravanistes",
+        "description": "En aquest capítol anirem fins al Berguedà i acompanyarem un grup de caravanistes, veterans boletaires la majoria, a buscar rovellons, llenegues i camagrocs.",
+        "genre": "DOCUMENTAL DOCUDRAMA",
+        "image": ""
       }
     ],
     "oca1": [],
