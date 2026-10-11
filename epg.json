@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-11T01:30:34.459153+00:00",
+  "updated": "2026-10-11T07:48:39.312483+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-11T00:32:44+02:00",
-        "stop": "2026-10-11T04:00:00+02:00",
+        "start": "2026-10-11T07:00:00+02:00",
+        "stop": "2026-10-11T10:30:23+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-11T04:00:00+02:00",
-        "stop": "2026-10-11T05:00:00+02:00",
-        "title": "Blues a l'estudi",
-        "subtitle": "Tòfol Martínez",
-        "description": "Guitarrista, compositor i productor musical sabadellenc que després del seu debut discogràfic en solitari, ens presenta el seu nou repertori. Del blues més clàssic al funk més contemporani, Martínez combina l'essència d'aire blues, sempre present en els seus projectes, amb lletres que ens mostren un univers molt personal. En aquesta ocasió, entra a l'estudi acompanyat de Josep Buch al baix, Marc Buch a la bateria i Lluís Coloma al piano i l'orgue Hammond.",
-        "genre": "ALTRES",
+        "start": "2026-10-11T10:30:23+02:00",
+        "stop": "2026-10-11T10:56:35+02:00",
+        "title": "Signes dels temps",
+        "subtitle": "Art d'estil bizantí a l'església d'Hostalric",
+        "description": "L'artista Joan Carles Osuna, especialitzat en art medieval, ha transformat l'interior de l'església de Santa Maria dels Socors d'Hostalric (la Selva). Ha pintat els murals d'estil bizantí com l'Anunciació a Maria i la Presentació de Jesús al Temple seguint la tècnica del tremp a l'ou i el pa d'or, que aporten lluminositat i profunditat. Joan Carles Osuna s'ha fet creient a través de l'art. Fa uns anys, mentre esmorzava, va veure a 'Signes dels temps' de TV3 que el gran mestre xilè, Juan Echenique, feia un curs d'iconografia bizantina al monestir de Poblet, i això li va canviar la vida. Els murals de l'església d'Hostalric han tingut molt bona acollida al poble, i entre els visitants d'altres llocs. Per finançar el projecte, que té el suport del bisbat de Girona, s'han fet diverses activitats culturals. I també hi ha col·laborat l'Associació pel Patrimoni Històric d'Hostalric.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-11T01:00:00+02:00",
-        "stop": "2026-10-11T06:00:00+02:00",
+        "start": "2026-10-11T07:00:00+02:00",
+        "stop": "2026-10-11T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-11T06:00:00+02:00",
-        "stop": "2026-10-11T07:00:00+02:00",
+        "start": "2026-10-11T10:00:00+02:00",
+        "stop": "2026-10-11T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-11T02:39:49+02:00",
-        "stop": "2026-10-11T03:56:09+02:00",
-        "title": "Futbol sala",
-        "subtitle": "Barça-Osasuna / Primera divisió / J5",
-        "description": "Els blaugranes necessiten la quarta victòria en cinc jornades per seguir a la part alta de la taula. Els navarresos encara no han puntuat i tanquen la classificació.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
-      },
-      {
-        "start": "2026-10-11T03:56:09+02:00",
-        "stop": "2026-10-11T06:08:21+02:00",
+        "start": "2026-10-11T09:07:07+02:00",
+        "stop": "2026-10-11T10:52:11+02:00",
         "title": "Futbol",
         "subtitle": "Barça Atlètic-SD Logronyès / Segona Federació / J6",
         "description": "El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+      },
+      {
+        "start": "2026-10-11T10:52:11+02:00",
+        "stop": "2026-10-11T12:25:00+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Anàlisi de la jornada / J8 / Dissabte",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-11T03:29:25+02:00",
-        "stop": "2026-10-11T03:39:25+02:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "Les fugitives de la granja",
-        "description": "En l'aventura poptàstica d'avui, el Plom ha de cuidar unes noves amigues peludes: un ramat d'alpaques! El Plom decideix treure les pop-paques a passejar, però se li escapen. Podrà fer tornar les seves amigues a la granja a temps per a la inauguració del mercat de la popgranja de paper?",
+        "start": "2026-10-11T09:45:16+02:00",
+        "stop": "2026-10-11T09:55:49+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva un rellotge de cucut",
+        "description": "La Chickaletta es queda tancada a dins del rellotge de cucut d'en Jake i el rellotge comença a caure muntanya avall. En Ryder i la Patrulla Peluda hauran d'anar a rescatar la gallina i el rellotge.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-11T03:39:25+02:00",
-        "stop": "2026-10-11T03:49:25+02:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "El carter Plom",
-        "description": "En l'aventura poptàstica d'avui, els amics celebren el dia de Sant Valentí! El Plom reparteix les targetes que s'han enviat els uns als altres, però s'haurà d'afanyar per poder jugar al joc que ha preparat la Mae-Mae.",
+        "start": "2026-10-11T09:55:49+02:00",
+        "stop": "2026-10-11T10:06:22+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva la casa de la Sra. Marjorie",
+        "description": "A la senyora Marjorie, se li està a punt d'ensorrar la casa per culpa d'uns sots misteriosos que li surten al pati i la Patrulla Peluda l'haurà d'ajudar.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-11T02:57:13+02:00",
-        "stop": "2026-10-11T03:40:25+02:00",
-        "title": "El Crac",
-        "subtitle": "El gran calamar",
-        "description": "La gran producció cinematogràfica catalana de l'any, 'Moragues, el gran general', es queda sense actor protagonista en l'últim moment. En Joel Joan, en hores baixes, somia a fer-se amb aquest paper, però en Nico Carrillo, director de la pel·lícula, detesta profundament en Joel. En Nico només li donarà el paper a canvi d'una condició. Quin preu serà capaç de pagar en Joel per aconseguir el paper de la seva vida?",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-10-11T09:26:04+02:00",
+        "stop": "2026-10-11T09:51:49+02:00",
+        "title": "Fotografies",
+        "subtitle": "Mar",
+        "description": "En aquest episodi: viatjarem a Tenerife amb Jordi Chias, un dels millors fotògrafs del fons del mar en una sessió fotogràfica plena de sorpreses; i també veurem com entrena el seu ull fotogràfic a l'estany de Banyoles el reconegut fotògraf de viatges Tino Soriano . Coneixerem l'expedició a l'Antàrtica del vaixell 'Endurance', i com el fotògraf Frank Hurley va fotografiar els moments més difícils de l'expedició; i descobrirem a Eduard Admetlla, pioner català de la foto submarina, i l'anglès Frank Benken, creador d'un curiós disparador. Aquesta setmana, a Fotografies, ens submergim per fotografiar 'el mar'. L'aigua, els llacs i el mar han estat un gran desafiament per a la fotografia des del començament. I, sobretot, el mar ha estat l'última frontera que la fotografia ha hagut de conquerir. Avui us convidem a resseguir aquest gran repte que ha estat el mar per als fotògrafs. En aquest capítol seguirem a Jordi Chias en una excursió a les aigues de Los Gigantes de Tenerife per aprendre com fotografia la fauna marina, i ens explicarà els seus trucs per aconseguir les fotografies més espectaculars. Coneixerem també a Tino Soriano, un reconegut fotògraf de viatges i reportatges fotoperiodístics; veurem les millors fotos del seu viatge a l'Antàrtida, on va fotografiar un dels grans fenòmens de la naturalesa a la Patagònia. Quan és a casa Tino Soriano no oblida la càmera i l'acompanyarem a una excursió a l'estany de Banyoles, on constantment troba noves imatges. Si mirem enrere, en la història hi ha hagut molts pioners que han fet possible la fotografia marinera i submarina. A Catalunya comptem amb un pioner de la fotografia submarina, Eduard Admetlla. A més a més, els exemples de Frank Hurley, fotògraf explorador de l'Antàrtica, i Frank Beken, fotògraf de finals del segle XIX i principis del segle XX, i autor d'impressionants fotografies de vaixells. ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-11T03:40:25+02:00",
-        "stop": "2026-10-11T04:20:35+02:00",
-        "title": "El Crac",
-        "subtitle": "El gran combat",
-        "description": "En Joel intenta per tots els mitjans que el Roger Coma, a qui han donat el paper de Moragues, es dediqui a escriure i abandoni la pel·lícula. I mentre els actors s'entrenen per al rodatge que els espera, el Joel, rabiós i ferit en l'orgull per haver perdut el paper protagonista, converteix l'entrenament en una competició personal amb en Roger. Paral·lelament, el Crac intenta recuperar la seva relació sentimental amb la Sandra.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-10-11T09:51:49+02:00",
+        "stop": "2026-10-11T10:17:07+02:00",
+        "title": "Fotografies",
+        "subtitle": "Paisatge",
+        "description": "Oriol Alamany ensenya a fotografiar els colors de la tardor a la Vall d'Aran; es recupera un dels grans clàssics del pictorialisme català, Josep M. Casals i Ariet; i el programa passa una nit al Turó de l'Home intentant fotografiar el cel.Aquesta setmana, a 'Fotografies' retratem 'El paisatge'.Oriol Alamany és el fotògraf de paisatge més reconegut actualment. Aquesta setmana, el presentador de la sèrie, Antoni Tortajada, acompanya el fotògraf d'excursió a la Vall d'Aran per fotografiar els colors de la tardor; però es trobaran amb la primera gran nevada de la temporada.El paisatge sempre ha fascinat els fotògrafs, i molt especialment als fotògrafs que volien semblar pintors. Aquest corrent, el pictorialisme, ha tingut molt bons representants a Catalunya. Aquest episodi recupera l'obra de Josep M. Casals i Ariet, l'últim gran clàssic del paisatge. Aquest fotògraf, que va adquirir renom a mitjans del segle passat, feia servir una tècnica molt exclusiva i avui pràcticament desapareguda: el bromoli transportat. En aquest episodi, l'especialista en fotografia antiga Massimo Cova intentarà tornar-lo a fer servir.I, finalment, el programa es fixa en el paisatge del cel. Primer, volarem amb els avions de l'empresa de Moià CAT-UAV per fotografiar el paisatge; i, després, el presentador passarà una nit al Turó de l'Home fotografiant estrelles amb un grup d'aficionats a l'astrofotografia de l'Agrupació Astronòmica de Sabadell.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
