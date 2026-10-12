@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-12T09:09:07.896025+00:00",
+  "updated": "2026-10-12T19:00:43.301328+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-12T10:00:00+02:00",
-        "stop": "2026-10-12T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-12T21:00:00+02:00",
+        "stop": "2026-10-12T22:05:37+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-12T12:00:00+02:00",
-        "stop": "2026-10-12T13:53:20+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-10-12T22:01:15+02:00",
+        "stop": "2026-10-12T22:27:51+02:00",
+        "title": "L'un per l'altre",
+        "subtitle": "Objecte de desig",
+        "description": "La mare d'un alumne del Toni s'enamora follament d'ell. El que en un principi és una cosa que fa pujar l'ego del Toni s'acaba convertint en un malson que amenaça la seva vida professional i privada.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-12T10:00:00+02:00",
-        "stop": "2026-10-12T12:00:00+02:00",
+        "start": "2026-10-12T20:00:00+02:00",
+        "stop": "2026-10-12T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-12T12:00:00+02:00",
-        "stop": "2026-10-12T14:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-12T21:00:00+02:00",
+        "stop": "2026-10-12T23:00:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-12T11:00:27+02:00",
-        "stop": "2026-10-12T11:29:49+02:00",
-        "title": "GR Barcelona",
-        "subtitle": "Llum de nit",
-        "description": "'Quan el sol es pon, es desperta una nova Barcelona. El mateix escenari, sí, però podríem dir que amb l'ànima disfressada. Qualsevol ciutat quan cau la nit es posa les millors gales. I Barcelona, més. En aquest gran recorregut el Marc seguirà la llum d'una nit que el portarà per l'avinguda Reina Cristina a veure la font màgica de Montjuïc, a continuació als carrers de Ciutat Vella per viure la nit de la llum durant les Festes de Santa Eulàlia, després seguirà la multitudinària patinada nocturna, aprendrà a cuinar una de les millors hamburgueses de la ciutat i també a fer un gin tònic, farà una ruta per algunes de les zones de marxa del centre, parlarà amb taxistes i acabarà a Catalunya Ràdio, despertant Catalunya amb Mònica Terribas.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-10-12T20:50:00+02:00",
+        "stop": "2026-10-12T23:00:00+02:00",
+        "title": "Futbol",
+        "subtitle": "CD Tenerife-Girona FC / Lliga Hypermotion / J9",
+        "description": "Els gironins volen sumar la 5a victòria en 9 jornades per seguir a la zona alta de la classificació en la lluita per tornar a Primera. Des de l'Heliodoro Rodríguez López amb la narració de Jordi Sunyer i l'anàlisi d'Eoli Amagat.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/8/3/1791458637038.jpg"
       },
       {
-        "start": "2026-10-12T11:29:49+02:00",
-        "stop": "2026-10-12T11:55:00+02:00",
-        "title": "Espòiler",
-        "subtitle": "El Ferrari Amalfi, el Volkswagen I.D. Polo, el Geely E2 i el programa Ford Adapta",
-        "description": "En aquest capítol gaudim al volant de l'impressionant Ferrari Amalfi, la proposta gran turisme de la marca italiana que arriba amb un motor V8 de 640 CV. També conduïm el Volkswagen I.D. Polo a les carreteres de l'Albufera de València, assistim a la presentació del nou Geely E2 i descobrim com és el Ford Puma ST adaptat que el pilot Marc Roma ha estrenat gràcies al programa Ford Adapta. ",
-        "genre": "REPORTATGES",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"
+        "start": "2026-10-12T23:00:00+02:00",
+        "stop": "2026-10-13T00:31:42+02:00",
+        "title": "Onze",
+        "subtitle": "",
+        "description": "Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-12T10:06:44+02:00",
-        "stop": "2026-10-12T11:28:28+02:00",
-        "title": "Viu el Super3",
-        "subtitle": "Espectacle Super3 a 3Cat en viu",
-        "description": "Tot l'univers del Super3 en un espectacle únic! El Mic, en Titó, la Tat, en John C, els Beta i els personatges de 'Fuet' posen ritme a l'escenari del '3Cat en viu'. Una gran ocasió per estrenar 'Tots som súpers' amb les veus d'en Titó, la Tat i els Beta.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-12T21:00:00+02:00",
+        "stop": "2026-10-12T22:24:52+02:00",
+        "title": "El detectiu Conan: Black Iron Mystery Train",
+        "subtitle": "El detectiu Conan: Black Iron Mystery Train",
+        "description": "EL DETECTIU CONAN: BLACK IRON MYSTERY TRAIN 'Detective Conan Haibara Aimonogatari Black Iron Mystery Train'Direcció: Shunsuke IshiharaGuió: Junichi Miyashita Producció: Silverline MultimediaAny: 2023Durada: 90País: JapóMúsica: Katsuo OnoCentrada en el passat d'Ai Haibara, una dona amb diferents identitats, és un spin-off amb contingut de diferents episodis de la sèrie d'anime, com 'The Jet-Black Mistery Train', i escenes noves.",
+        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/1/1744215039716.jpg"
       },
       {
-        "start": "2026-10-12T11:28:28+02:00",
-        "stop": "2026-10-12T11:51:14+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "La mare cocodril",
-        "description": "En Chris i en Martin estan decidits a demostrar a l'Aviva que el gran cocodril del Nil africà, un dels més grossos del món, a més d'espantar una mica, també sap fer altres coses. Ho faran miniaturitzant-se, disfressant-se d'ous de cocodril i ficant-se al niu de la mare cocodril! Ben aviat sabrem que no és veritat que sempre es volen cruspir tot el que troben! Oi?!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "start": "2026-10-12T22:24:52+02:00",
+        "stop": "2026-10-13T00:10:11+02:00",
+        "title": "El detectiu Conan: Black Iron Submarine",
+        "subtitle": "El detectiu Conan: Black Iron Submarine",
+        "description": "EL DETECTIU CONAN: BLACK IRON SUBMARINE 'Detective Conan: Kurogane no Submarine'Direcció: Yuzuru TachikawaGuió: Takeharu Sakurai Producció: TMS Entertainment, Nippon TV, ShoPro, TOHO animationAny: 2023Durada: 110País: JapóMúsica: Yûgo KannoUn grup d'enginyers de diversos països es reuneix a l'illa de Hachijo-jima, al Japó, per seguir en directe la posada en marxa d'un nou sistema de seguretat que connecta els dispositius de càmeres policials d'arreu del món i fa possible el reconeixement facial. Mentrestant, en Conan i la seva colla visiten la mateixa illa per observar balenes.",
+        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/3/1744214865634.jpg"
       }
     ],
     "c33": [
       {
-        "start": "2026-10-12T10:30:15+02:00",
-        "stop": "2026-10-12T11:10:14+02:00",
-        "title": "Tot el temps del món",
-        "subtitle": "Mercè Ibarz",
-        "description": "MERCÈ IBARZAquesta setmana entrevistem l'escriptora Mercè Ibarz, que publica 'Tríptic de la terra' (Anagrama). L'origen d'aquesta obra es troba a 'La terra retirada', que va publicar el 1993. L'autora hi evocava els canvis socials, econòmics i paisatgístics que la gestió de les terres actives de cultiu pot suposar en un territori: en aquest cas, el seu poble natal, Saidí, a la Franja. Dos anys més tard, en feia una versió novel·lada, 'La palmera de blat', i ara conclou el tríptic amb 'Labor inacabada'. Mercè Ibarz s'hi defineix com a 'llauradora de les lletres' i continua les seves anades i vingudes entre les fronteres dels gèneres literaris per constatar fins a quin punt les històries, la història, comencen a contar-se soles i amb els anys es descobreix que no s'acaben mai. Parlem amb ella de la importància del paisatge, de la terra on creixem, dels seus canvis, del que vol dir ser una 'pagesa de l'escriptura' o de la utilitat de determinats llibres. ",
-        "genre": "ENTREVISTES",
-        "image": ""
+        "start": "2026-10-12T21:01:28+02:00",
+        "stop": "2026-10-12T21:08:46+02:00",
+        "title": "Gran!",
+        "subtitle": "Quimi Portet: 'Hoquei sobre pedres'",
+        "description": "Quimi Portet va formar part de la darrera etapa de Los Rápidos i, després, al costat de Manolo García, va constituir una associació artística de gran valor i èxit dins del pop-rock cantat en castellà, amb bandes com Los Burros i, sobretot, El Último de la Fila, el seu projecte musical definitiu. Però la creativitat inesgotable de Quimi Portet també ha brillat en solitari. El seu segon disc, 'Hoquei sobre pedres', va reflectir de manera molt transparent la personalitat d'aquest creador. La gravació és una crònica de la ciutat i de la fauna que l'habita, amb un seguit de cançons que reflecteixen una mirada surrealista, irònica i tendra ('La Rambla', 'Flors i violes'). I amb un embolcall sonor que barreja amb llibertat i un aire entremaliat rock, pop i experimentació. ",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
       },
       {
-        "start": "2026-10-12T11:10:14+02:00",
-        "stop": "2026-10-12T11:50:07+02:00",
-        "title": "Tot el temps del món",
-        "subtitle": "Martí Sales",
-        "description": "MARTÍ SALESAquesta setmana entrevistem el traductor i escriptor Martí Sales, que acaba de publicar 'Aliment'. Hi combina dues passions: explicar històries i el menjar, i ho fa amb format de diccionari, o d'abecedari. 27 textos, un per cada lletra de l'alfabet, il·lustrats per diferents il·lustradors i artistes. Ens hi explica curiositats relacionades amb el que mengem, rondalles antigues i noves, ho farceix de poesia i, sobretot, es fa moltes preguntes. Parlem amb ell d'aquestes preguntes, de la curiositat, de la importància de la poesia, de la manera com mengem i el que això suposa per a la societat i de la manera com vivim, entre moltes altres coses. ",
-        "genre": "ENTREVISTES",
+        "start": "2026-10-12T21:08:46+02:00",
+        "stop": "2026-10-12T21:36:10+02:00",
+        "title": "L'un per l'altre",
+        "subtitle": "Brokers",
+        "description": "Ja fa anys que el Calafell inverteix petites quantitats a la borsa,i guanyen per donar-se petits capricis. Quan els altres se n'assabenten i també decideixen jugar. La Rosa i la Joana comencen a guanyar diners a cabassos, i el Toni i la Maria, també a cabassos, els perden. Però la borsa dóna moltes voltes.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       }
     ],
