@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-12T02:00:25.897438+00:00",
+  "updated": "2026-10-12T09:09:07.896025+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-12T00:36:54+02:00",
-        "stop": "2026-10-12T04:00:00+02:00",
+        "start": "2026-10-12T10:00:00+02:00",
+        "stop": "2026-10-12T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-12T04:00:00+02:00",
-        "stop": "2026-10-12T05:00:00+02:00",
-        "title": "Blues a l'estudi",
-        "subtitle": "August Tharrats",
-        "description": "August Tharrats ha estat el pianista pioner del blues i el boogie-woogie al nostre país i ha format part de les formacions més representatives d'aquests estils en el context català. Des de fa anys, lidera el seu propi trio, amb què ha gravat tres àlbums i ha creat un blues amb accent de swing, que ens orienta al jazz clàssic. L'acompanyen Jaume Badrenes als saxos, Jordi Mestres al contrabaix i Anton Jarl a la bateria.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-12T12:00:00+02:00",
+        "stop": "2026-10-12T13:53:20+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-12T01:00:00+02:00",
-        "stop": "2026-10-12T06:00:00+02:00",
+        "start": "2026-10-12T10:00:00+02:00",
+        "stop": "2026-10-12T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-12T06:00:00+02:00",
-        "stop": "2026-10-12T07:00:00+02:00",
+        "start": "2026-10-12T12:00:00+02:00",
+        "stop": "2026-10-12T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-12T02:27:31+02:00",
-        "stop": "2026-10-12T04:08:21+02:00",
-        "title": "Bàsquet Lliga Endesa ACB Masculina",
-        "subtitle": "Reial Madrid-Kids&Us Manresa / Lliga / J3",
-        "description": "El conjunt del Bages vol la primera victòria en el campionat. Una missió complicada, a la pista dels blancs, sempre candidats a guanyar el títol.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"
+        "start": "2026-10-12T11:00:27+02:00",
+        "stop": "2026-10-12T11:29:49+02:00",
+        "title": "GR Barcelona",
+        "subtitle": "Llum de nit",
+        "description": "'Quan el sol es pon, es desperta una nova Barcelona. El mateix escenari, sí, però podríem dir que amb l'ànima disfressada. Qualsevol ciutat quan cau la nit es posa les millors gales. I Barcelona, més. En aquest gran recorregut el Marc seguirà la llum d'una nit que el portarà per l'avinguda Reina Cristina a veure la font màgica de Montjuïc, a continuació als carrers de Ciutat Vella per viure la nit de la llum durant les Festes de Santa Eulàlia, després seguirà la multitudinària patinada nocturna, aprendrà a cuinar una de les millors hamburgueses de la ciutat i també a fer un gin tònic, farà una ruta per algunes de les zones de marxa del centre, parlarà amb taxistes i acabarà a Catalunya Ràdio, despertant Catalunya amb Mònica Terribas.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-10-12T04:08:21+02:00",
-        "stop": "2026-10-12T04:30:14+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-10-12T11:29:49+02:00",
+        "stop": "2026-10-12T11:55:00+02:00",
+        "title": "Espòiler",
+        "subtitle": "El Ferrari Amalfi, el Volkswagen I.D. Polo, el Geely E2 i el programa Ford Adapta",
+        "description": "En aquest capítol gaudim al volant de l'impressionant Ferrari Amalfi, la proposta gran turisme de la marca italiana que arriba amb un motor V8 de 640 CV. També conduïm el Volkswagen I.D. Polo a les carreteres de l'Albufera de València, assistim a la presentació del nou Geely E2 i descobrim com és el Ford Puma ST adaptat que el pilot Marc Roma ha estrenat gràcies al programa Ford Adapta. ",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-12T03:58:13+02:00",
-        "stop": "2026-10-12T04:08:43+02:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "El Zip fa un àlbum de records molt maco",
-        "description": "A l'aventura d'avui, el Zip i els seus amics se'n van a la cascada per veure un arc de Sant Martí! Llavors, a en Zip se li acudirà una manera perquè els seus amics se'n recordin sempre d'aquest dia.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-12T10:06:44+02:00",
+        "stop": "2026-10-12T11:28:28+02:00",
+        "title": "Viu el Super3",
+        "subtitle": "Espectacle Super3 a 3Cat en viu",
+        "description": "Tot l'univers del Super3 en un espectacle únic! El Mic, en Titó, la Tat, en John C, els Beta i els personatges de 'Fuet' posen ritme a l'escenari del '3Cat en viu'. Una gran ocasió per estrenar 'Tots som súpers' amb les veus d'en Titó, la Tat i els Beta.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-10-12T04:08:43+02:00",
-        "stop": "2026-10-12T04:20:37+02:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "L'amiga de la Trufa",
-        "description": "Mentre la Guineta, en Pinxo i en Timbal juguen amb els seus amics, la Trufa s'adona que no en té cap. Per això quan es troba una branca que té forma d'animal, li posa el nom de Cirera i la converteix en una amiga imaginària. Però poc després la seva nova amiga comença a fer nosa als altres membres de la família.",
+        "start": "2026-10-12T11:28:28+02:00",
+        "stop": "2026-10-12T11:51:14+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "La mare cocodril",
+        "description": "En Chris i en Martin estan decidits a demostrar a l'Aviva que el gran cocodril del Nil africà, un dels més grossos del món, a més d'espantar una mica, també sap fer altres coses. Ho faran miniaturitzant-se, disfressant-se d'ous de cocodril i ficant-se al niu de la mare cocodril! Ben aviat sabrem que no és veritat que sempre es volen cruspir tot el que troben! Oi?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-12T03:22:55+02:00",
-        "stop": "2026-10-12T04:17:35+02:00",
-        "title": "Benvinguts a la família",
-        "subtitle": "L'Eduardo",
-        "description": "L'Àngela una dona lluitadora, separada i mare de tres fills, perd el seu pis en ser desnonada. Quan és veu al carrer, sap que ha arribat el moment d'enfrontar-se a la seva por més gran: el seu pare. A l'Àngela no li queda més remei trencar la promesa que es va fer fa vint anys i menjar-se l'orgull pel bé de la seva família.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-10-12T10:30:15+02:00",
+        "stop": "2026-10-12T11:10:14+02:00",
+        "title": "Tot el temps del món",
+        "subtitle": "Mercè Ibarz",
+        "description": "MERCÈ IBARZAquesta setmana entrevistem l'escriptora Mercè Ibarz, que publica 'Tríptic de la terra' (Anagrama). L'origen d'aquesta obra es troba a 'La terra retirada', que va publicar el 1993. L'autora hi evocava els canvis socials, econòmics i paisatgístics que la gestió de les terres actives de cultiu pot suposar en un territori: en aquest cas, el seu poble natal, Saidí, a la Franja. Dos anys més tard, en feia una versió novel·lada, 'La palmera de blat', i ara conclou el tríptic amb 'Labor inacabada'. Mercè Ibarz s'hi defineix com a 'llauradora de les lletres' i continua les seves anades i vingudes entre les fronteres dels gèneres literaris per constatar fins a quin punt les històries, la història, comencen a contar-se soles i amb els anys es descobreix que no s'acaben mai. Parlem amb ella de la importància del paisatge, de la terra on creixem, dels seus canvis, del que vol dir ser una 'pagesa de l'escriptura' o de la utilitat de determinats llibres. ",
+        "genre": "ENTREVISTES",
         "image": ""
       },
       {
-        "start": "2026-10-12T04:17:35+02:00",
-        "stop": "2026-10-12T05:07:43+02:00",
-        "title": "Benvinguts a la família",
-        "subtitle": "El congelador",
-        "description": "Mentre les dues famílies busquen la manera de canviar el testament, es veuen obligades a buscar un congelador prou gran per ficar-hi l'Eduardo. Però aconseguir-lo sense diners i sense deixar rastre, no serà gens fàcil",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-10-12T11:10:14+02:00",
+        "stop": "2026-10-12T11:50:07+02:00",
+        "title": "Tot el temps del món",
+        "subtitle": "Martí Sales",
+        "description": "MARTÍ SALESAquesta setmana entrevistem el traductor i escriptor Martí Sales, que acaba de publicar 'Aliment'. Hi combina dues passions: explicar històries i el menjar, i ho fa amb format de diccionari, o d'abecedari. 27 textos, un per cada lletra de l'alfabet, il·lustrats per diferents il·lustradors i artistes. Ens hi explica curiositats relacionades amb el que mengem, rondalles antigues i noves, ho farceix de poesia i, sobretot, es fa moltes preguntes. Parlem amb ell d'aquestes preguntes, de la curiositat, de la importància de la poesia, de la manera com mengem i el que això suposa per a la societat i de la manera com vivim, entre moltes altres coses. ",
+        "genre": "ENTREVISTES",
         "image": ""
       }
     ],
