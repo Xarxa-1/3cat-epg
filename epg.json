@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-13T15:55:55.524275+00:00",
+  "updated": "2026-10-13T20:58:21.403644+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-13T17:23:41+02:00",
-        "stop": "2026-10-13T19:13:58+02:00",
-        "title": "La Selva",
-        "subtitle": "",
-        "description": "Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
+        "start": "2026-10-13T22:01:05+02:00",
+        "stop": "2026-10-13T23:04:59+02:00",
+        "title": "Nits Sense ficció",
+        "subtitle": "I diem prou!",
+        "description": "La majoria d'agressions sexuals no es produeixen al carrer, de nit, i per part d'un desconegut. En el 80% dels casos, l'agressor és una persona coneguda per la víctima –un familiar, un amic, la parella, algú del seu entorn de confiança- i l'agressió es produeix en un espai que la dona percebia com a segur. Aquest documental recull el testimoni de 5 dones que han patit aquest tipus de violència masclista i ho fan sense amagar-se, a cara descoberta i assenyalant els seus agressors. Ens expliquen perquè van denunciar o perquè van decidir no fer-ho, com va reaccionar el seu entorn i com, moltes vegades, es creu més a l'agressor que a la víctima. Aquesta és una xacra que no s'atura i les xifres son contundents: una de cada cinc dones a tot el món seran víctimes d'una agressió sexual, o intent, al llarg de la seva vida. 'I diem prou!' és una producció de TV3 elaborada per un equip del 'Sense Ficció'.",
+        "genre": "DOCUMENTAL",
+        "image": ""
       },
       {
-        "start": "2026-10-13T19:13:58+02:00",
-        "stop": "2026-10-13T20:15:00+02:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "start": "2026-10-13T23:04:59+02:00",
+        "stop": "2026-10-13T23:50:36+02:00",
+        "title": "Les dones i els dies",
+        "subtitle": "La mare de totes les preguntes",
+        "description": "Només pel fet de ser dones, se'ns demana si volem ser mares, i aquesta pregunta ens marca des de petites. Sempre hem de tenir-hi una resposta? Ser mare o no ser-ho: l'etern dilema amb el qual conviuen les dones. ",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-13T17:00:00+02:00",
-        "stop": "2026-10-13T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-13T22:05:00+02:00",
+        "stop": "2026-10-14T00:00:00+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       },
       {
-        "start": "2026-10-13T18:30:00+02:00",
-        "stop": "2026-10-13T20:00:00+02:00",
+        "start": "2026-10-14T00:00:00+02:00",
+        "stop": "2026-10-14T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-13T17:55:00+02:00",
-        "stop": "2026-10-13T18:55:00+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Bahçesehir-Kids&Us Manresa / Eurocup / J3",
-        "description": "Després d'una derrota i una victòria, els del Bages visiten la pista del líder del grup. Els turcs han guanyat el dos partits disputats.",
+        "start": "2026-10-13T20:56:34+02:00",
+        "stop": "2026-10-13T23:01:46+02:00",
+        "title": "Un dia de partit",
+        "subtitle": "Galatasaray-Barça",
+        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/7/1761644896070.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
       },
       {
-        "start": "2026-10-13T18:55:00+02:00",
-        "stop": "2026-10-13T19:08:00+02:00",
-        "title": "Zona UFEC",
-        "subtitle": "",
-        "description": "'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.",
-        "genre": "REPORTATGES",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"
+        "start": "2026-10-13T23:01:46+02:00",
+        "stop": "2026-10-14T03:01:47+02:00",
+        "title": "Handbol",
+        "subtitle": "Aguas Santas-BM Granollers / EHF European League / J3",
+        "description": "El Fraikin juga al districte de Porto amb l'objectiu de sumar la primera victòria com a visitant de la temporada europea.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1729614341772.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-13T17:48:28+02:00",
-        "stop": "2026-10-13T17:59:01+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla salva una mascota",
-        "description": "En Danny l'Audaç X s'ha disfressat d'Ocell X, la mascota de l'equip de bàsquet de Badia Aventures, però dues àguiles se l'emporten volant",
+        "start": "2026-10-13T22:44:04+02:00",
+        "stop": "2026-10-13T23:02:05+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "Un show de detectius a l'antic estil toquiota! (2a part)",
+        "description": "Continua el joc del cambrer per descobrir qui és el lladre que li ha robat la cartera amb el bitllet guanyador a la senyora Hijirisawa. Curiosament, el més sospitós és el senyor Mouri, perquè tot sembla indicar que el seu bitllet guanyador... és el bitllet robat! Acabarà acusat de robatori?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-13T17:59:01+02:00",
-        "stop": "2026-10-13T18:21:39+02:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "Rescats extrems: La Patrulla salva un observatori que s’escapa",
-        "description": "La Patrulla Peluda construeix un observatori per veure un cometa que ha de passar, però un cop fet, l'observatori s'escapa.",
+        "start": "2026-10-13T23:02:05+02:00",
+        "stop": "2026-10-13T23:22:58+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "El Bernat Americà",
+        "description": "Explorant uns pantans, els germans Kratt troben un bernat americà i, com que és de color blau, el Martin està molt content. Tots plegats queden bocabadats amb les característiques i les habilitats d'aquest ocell; tots menys el Chris, que voldria un ocell verd per ell. L'equip Kratt es posa a estudiar a fons el bernat americà per fer-ne un disc de poder animal, però alhora també s'haurà d'enfrontar amb el Zach, que miniaturitza la nau Tortuga per quedar-se tots els invents de l'equip.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-13T17:40:23+02:00",
-        "stop": "2026-10-13T18:29:33+02:00",
-        "title": "No pot ser!",
-        "subtitle": "Amor programat",
-        "description": "Jordi Basté s'endinsa en el món de l'amor programat per descobrir una generació nova de robots i intel·ligències artificials dissenyades per ser la parella perfecta… si és que això és possible.A Califòrnia, Basté s'acosta a Realbotix, on fabriquen milers de nines hiperrealistes amb intel·ligència artificial i atributs sexuals personalitzables per l'usuari. Aquí afronta el dilema de si els robots sexuals haurien de tenir drets. La directora de cinema per a adults Erika Lust ens ensenyarà com aprofita la tecnologia i ens avisarà del perill de repetir estereotips i patrons desfasats i masclistes.Al Japó, Jordi Basté parla amb una persona que s'ha enamorat -i fins i tot casat legalment- amb un holograma que representa una nina cantant molt famosa allí.Aquests enginys poden ser una solució per a persones que estan massa soles? Ho reflexionem amb els nostres consultors de capçalera, Dolors Reig i Josep Maria Ganyet. Al final del programa Jordi Basté se cita amb el robot humanoide més sofisticat del món, l'Èrica. Una conversa íntima i sorprenent entre home i màquina que ens obrirà perspectives molt interessants sobre el que ha de venir.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-10-13T22:16:18+02:00",
+        "stop": "2026-10-13T23:08:34+02:00",
+        "title": "La Renaixença",
+        "subtitle": "El despertador",
+        "description": "Parlem del despertador, de llarg, l'estri domèstic que més ràbia fa. S'ha de ser molt desgraciat perquè t'agradi que un trasto d'aquests et desperten amb aquella maleïda fressa. Tenim a un espeleòleg amb nosaltres, en Víctor Ferrer. Li preguntem què l'empeny a fotre's a totes les coves que troba, perquè de sortida ens sembla una mica estrany. I passegem el gos per la invenció del cronòmetre marí. Sí, de primeres sembla una merda d'història, però us prometem que és més interessant del que aparenta.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-10-13T18:29:33+02:00",
-        "stop": "2026-10-13T18:38:10+02:00",
-        "title": "Gran!",
-        "subtitle": "'Mar i cel'",
-        "description": "'Mar i cel' és el musical de la companyia Dagoll Dagom que va revolucionar el teatre català amb la seva estrena el 1988. La història d'amor entre Saïd i Blanca, les cançons i l'espectacular escenografia amb un gran vaixell ha captivat a diverses generacions d'espectadors.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
+        "start": "2026-10-13T23:08:34+02:00",
+        "stop": "2026-10-13T23:37:54+02:00",
+        "title": "Xefs: noves generacions",
+        "subtitle": "Martina Puigvert (Restaurant Les Cols)",
+        "description": "Martina Puigvert lidera la cuina de Les Cols, on assumeix el relleu generacional amb les seves dues germanes, donant continuïtat i evolució a un dels projectes gastronòmics més singulars del país. Filla de Fina Puigdevall, ha sabut refinar una cuina radicalment garrotxina, basada en el producte de proximitat i de temporada, sense trencar l'ADN de la casa. Formada al Basque Culinary Center i amb experiències en cuines d'alta exigència com el Koy Shunka, aporta rigor, mètode i una visió contemporània al restaurant, cosa que l'ha portat a rebre el Premi Michelin al Millor Xef Jove.",
+        "genre": "SÈRIE DOCUMENTAL",
+        "image": ""
       }
     ],
     "oca1": [],
