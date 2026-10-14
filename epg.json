@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-13T20:58:21.403644+00:00",
+  "updated": "2026-10-14T00:11:58.063467+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-13T22:01:05+02:00",
-        "stop": "2026-10-13T23:04:59+02:00",
-        "title": "Nits Sense ficció",
-        "subtitle": "I diem prou!",
-        "description": "La majoria d'agressions sexuals no es produeixen al carrer, de nit, i per part d'un desconegut. En el 80% dels casos, l'agressor és una persona coneguda per la víctima –un familiar, un amic, la parella, algú del seu entorn de confiança- i l'agressió es produeix en un espai que la dona percebia com a segur. Aquest documental recull el testimoni de 5 dones que han patit aquest tipus de violència masclista i ho fan sense amagar-se, a cara descoberta i assenyalant els seus agressors. Ens expliquen perquè van denunciar o perquè van decidir no fer-ho, com va reaccionar el seu entorn i com, moltes vegades, es creu més a l'agressor que a la víctima. Aquesta és una xacra que no s'atura i les xifres son contundents: una de cada cinc dones a tot el món seran víctimes d'una agressió sexual, o intent, al llarg de la seva vida. 'I diem prou!' és una producció de TV3 elaborada per un equip del 'Sense Ficció'.",
-        "genre": "DOCUMENTAL",
-        "image": ""
-      },
-      {
-        "start": "2026-10-13T23:04:59+02:00",
-        "stop": "2026-10-13T23:50:36+02:00",
-        "title": "Les dones i els dies",
-        "subtitle": "La mare de totes les preguntes",
-        "description": "Només pel fet de ser dones, se'ns demana si volem ser mares, i aquesta pregunta ens marca des de petites. Sempre hem de tenir-hi una resposta? Ser mare o no ser-ho: l'etern dilema amb el qual conviuen les dones. ",
-        "genre": "ALTRES",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-10-13T22:05:00+02:00",
-        "stop": "2026-10-14T00:00:00+02:00",
+        "start": "2026-10-14T00:30:03+02:00",
+        "stop": "2026-10-14T02:21:57+02:00",
         "title": "Mésnit",
         "subtitle": "",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
@@ -72,8 +52,28 @@
         "image": ""
       },
       {
-        "start": "2026-10-14T00:00:00+02:00",
-        "stop": "2026-10-14T00:30:00+02:00",
+        "start": "2026-10-14T02:21:57+02:00",
+        "stop": "2026-10-14T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-10-14T01:00:00+02:00",
+        "stop": "2026-10-14T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-14T06:00:00+02:00",
+        "stop": "2026-10-14T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-13T20:56:34+02:00",
-        "stop": "2026-10-13T23:01:46+02:00",
-        "title": "Un dia de partit",
-        "subtitle": "Galatasaray-Barça",
-        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
+        "start": "2026-10-14T01:13:55+02:00",
+        "stop": "2026-10-14T02:36:08+02:00",
+        "title": "Zona Champions",
+        "subtitle": "Post Galatasaray-Barça / J2",
+        "description": "El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!",
+        "genre": "MAGAZINE",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"
       },
       {
-        "start": "2026-10-13T23:01:46+02:00",
-        "stop": "2026-10-14T03:01:47+02:00",
-        "title": "Handbol",
-        "subtitle": "Aguas Santas-BM Granollers / EHF European League / J3",
-        "description": "El Fraikin juga al districte de Porto amb l'objectiu de sumar la primera victòria com a visitant de la temporada europea.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1729614341772.jpg"
+        "start": "2026-10-14T02:36:08+02:00",
+        "stop": "2026-10-14T02:59:38+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-13T22:44:04+02:00",
-        "stop": "2026-10-13T23:02:05+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "Un show de detectius a l'antic estil toquiota! (2a part)",
-        "description": "Continua el joc del cambrer per descobrir qui és el lladre que li ha robat la cartera amb el bitllet guanyador a la senyora Hijirisawa. Curiosament, el més sospitós és el senyor Mouri, perquè tot sembla indicar que el seu bitllet guanyador... és el bitllet robat! Acabarà acusat de robatori?",
+        "start": "2026-10-14T01:57:55+02:00",
+        "stop": "2026-10-14T02:17:40+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Combat en una incursió glacial!",
+        "description": "L'aventura del Goh per entrar al Projecte Mew continua a tota màquina! La seva pròxima missió? Un combat d'incursió, que és un treball en equip. Qui més hi participa? L'amic del Goh, el Horace, i l'amic de l'Ash i antic rival, el Gary Oak! El Goh captura uns quants Pokémon mentre es dirigeixen a un laberint de coves, on descobreixen l'Articuno! Allà comença un combat ferotge: els Pokémon de tots quatre lluiten amb valentia, però l'Articuno guanya. El Gary no para de fer befa del Goh, que no s'ho pren gens bé. El que vol el Gary, però, és que el Goh s'adoni de la importància de la disciplina. De mica en mica el gel entre tots dos es va fonent, i ara el Goh i el Gary tenen ganes de tornar-se a trobar!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-13T23:02:05+02:00",
-        "stop": "2026-10-13T23:22:58+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El Bernat Americà",
-        "description": "Explorant uns pantans, els germans Kratt troben un bernat americà i, com que és de color blau, el Martin està molt content. Tots plegats queden bocabadats amb les característiques i les habilitats d'aquest ocell; tots menys el Chris, que voldria un ocell verd per ell. L'equip Kratt es posa a estudiar a fons el bernat americà per fer-ne un disc de poder animal, però alhora també s'haurà d'enfrontar amb el Zach, que miniaturitza la nau Tortuga per quedar-se tots els invents de l'equip.",
+        "start": "2026-10-14T02:17:40+02:00",
+        "stop": "2026-10-14T02:38:47+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "La resposta",
+        "description": "Durant la jornada de portes obertes de l'escola d'esgrima de l'Armand d'Argencourt, es fan les proves d'ingrés als aspirants, entre els que hi ha la Marinette. Però aquest any només hi ha una sola plaça, que serà molt disputada. Fins que apareix una misteriosa tiradora, experta en aquest esport, que està decidida a quedar-se l'única plaça lliure.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-13T22:16:18+02:00",
-        "stop": "2026-10-13T23:08:34+02:00",
-        "title": "La Renaixença",
-        "subtitle": "El despertador",
-        "description": "Parlem del despertador, de llarg, l'estri domèstic que més ràbia fa. S'ha de ser molt desgraciat perquè t'agradi que un trasto d'aquests et desperten amb aquella maleïda fressa. Tenim a un espeleòleg amb nosaltres, en Víctor Ferrer. Li preguntem què l'empeny a fotre's a totes les coves que troba, perquè de sortida ens sembla una mica estrany. I passegem el gos per la invenció del cronòmetre marí. Sí, de primeres sembla una merda d'història, però us prometem que és més interessant del que aparenta.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-10-14T01:37:19+02:00",
+        "stop": "2026-10-14T02:35:47+02:00",
+        "title": "Rick Stein: De Venècia a Istanbul",
+        "subtitle": "Grècia",
+        "description": "En Rick Stein continua el viatge culinari, ara pel Peloponès, fins a la península de Mani. Recorrerà diversos capítols, també gastronòmics, de la història grega: Esparta, la ciutat bizantina de Mitràs, els segles de domini otomà, la guerra d'independència... Assaborirà la riquíssima cuina grega, amb el pollastre amb pasta 'hilopites' i formatge 'mizithra', sardines a la brasa, l'omnipresent amanida i molts altres plats. I cuinarà un 'galaktoboureko', que és un púding de crema; un 'saganaki', formatge arrebossat i fregit, i no hi podia faltar la deliciosa mussaca.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-10-13T23:08:34+02:00",
-        "stop": "2026-10-13T23:37:54+02:00",
+        "start": "2026-10-14T02:35:47+02:00",
+        "stop": "2026-10-14T03:35:59+02:00",
         "title": "Xefs: noves generacions",
-        "subtitle": "Martina Puigvert (Restaurant Les Cols)",
-        "description": "Martina Puigvert lidera la cuina de Les Cols, on assumeix el relleu generacional amb les seves dues germanes, donant continuïtat i evolució a un dels projectes gastronòmics més singulars del país. Filla de Fina Puigdevall, ha sabut refinar una cuina radicalment garrotxina, basada en el producte de proximitat i de temporada, sense trencar l'ADN de la casa. Formada al Basque Culinary Center i amb experiències en cuines d'alta exigència com el Koy Shunka, aporta rigor, mètode i una visió contemporània al restaurant, cosa que l'ha portat a rebre el Premi Michelin al Millor Xef Jove.",
+        "subtitle": "Xefs, noves generacions 'La trobada'",
+        "description": "Els 10 millors xefs joves que han protagonitzat la sèrie documental 'Xefs ·Noves generacions' es reuneixen a 'La trobada'. Un dinar de germanor és l'excusa perquè el talent emergent de la cuina catalana es conegui i es posi cara. Mentre preparen plats senzills de la cuina catalana i sempre al voltant d'uns fogons i d'una taula, els millors cuiners i cuineres joves del país mostraran la riquesa cultural i del territori, el producte de proximitat i, sobretot, la feina d'una generació que ha d'agafar el relleu de figures clau com Carme Ruscalleda, Albert Adrià, Eduard Xatruch o els Germans Roca.",
         "genre": "SÈRIE DOCUMENTAL",
         "image": ""
       }
