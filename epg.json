@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-14T19:07:56.217670+00:00",
+  "updated": "2026-10-14T22:17:26.649495+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,17 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-14T21:00:00+02:00",
-        "stop": "2026-10-14T21:59:45+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
-        "start": "2026-10-14T21:59:45+02:00",
-        "stop": "2026-10-14T22:08:03+02:00",
-        "title": "De primera!",
-        "subtitle": "- Vaques lleteres 4.0",
-        "description": "Sense Descripció",
+        "start": "2026-10-14T23:27:05+02:00",
+        "stop": "2026-10-15T00:20:55+02:00",
+        "title": "País d'altura",
+        "subtitle": "Terres de l'Ebre",
+        "description": "Les Terres de l'Ebre són d'un altre planeta: un lloc on la terra s'acaba, el cel sembla més gran i el paisatge juga amb regles pròpies. I el riu, evidentment, fa de mestre de cerimònies.",
         "genre": "",
         "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-10-14T21:00:00+02:00",
-        "stop": "2026-10-14T22:05:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-14T22:05:00+02:00",
-        "stop": "2026-10-15T00:00:00+02:00",
+        "start": "2026-10-15T00:20:55+02:00",
+        "stop": "2026-10-15T03:24:08+02:00",
         "title": "Mésnit",
         "subtitle": "",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
@@ -81,64 +61,84 @@
         "image": ""
       }
     ],
-    "esport3": [
+    "324": [
       {
-        "start": "2026-10-14T21:07:19+02:00",
-        "stop": "2026-10-14T21:56:58+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Spar Girona-Ostrava / Eurocup / J1",
-        "description": "L'estrena de les gironines a l'Eurocup. El rival que visita Fontajau és un conjunt de la República Txeca.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"
+        "start": "2026-10-15T00:00:00+02:00",
+        "stop": "2026-10-15T00:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-14T21:56:58+02:00",
-        "stop": "2026-10-14T22:30:53+02:00",
-        "title": "Espòiler",
-        "subtitle": "El Ferrari Amalfi, el Volkswagen I.D. Polo, el Geely E2 i el programa Ford Adapta",
-        "description": "En aquest capítol gaudim al volant de l'impressionant Ferrari Amalfi, la proposta gran turisme de la marca italiana que arriba amb un motor V8 de 640 CV. També conduïm el Volkswagen I.D. Polo a les carreteres de l'Albufera de València, assistim a la presentació del nou Geely E2 i descobrim com és el Ford Puma ST adaptat que el pilot Marc Roma ha estrenat gràcies al programa Ford Adapta. ",
-        "genre": "REPORTATGES",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"
+        "start": "2026-10-15T00:30:00+02:00",
+        "stop": "2026-10-15T01:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "esport3": [
+      {
+        "start": "2026-10-14T23:00:00+02:00",
+        "stop": "2026-10-15T00:31:27+02:00",
+        "title": "Onze",
+        "subtitle": "'Laminadura'; Post Roma-Madrid i 'El Colegiado'",
+        "description": "Lluís Carrasco, Sique Rodríguez, Gemma Mallorca i Joan Poquí analitzen el partit del Barça a Istanbul i la jornada de Champions amb atenció al partit del Reial Madrid. En Joan Fàbregas repassa les jugades polèmiques.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+      },
+      {
+        "start": "2026-10-15T00:31:27+02:00",
+        "stop": "2026-10-15T00:52:22+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-14T21:00:05+02:00",
-        "stop": "2026-10-14T21:22:21+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "El combat de tots contra tots!",
-        "description": "Veient que el públic del Campionat Mundial d'Arts Marcials s'està cansant d'esperar, en Satan proposa un combat de tots contra tots: ell mateix, l'A-18, el Guerrer Emmascarat, és a dir, en Trunks i en Son Goten, i dos lluitadors més. Mentrestant, en Dabra es comença a preparar per enfrontar-se a en Son Gohan.",
+        "start": "2026-10-15T00:06:23+02:00",
+        "stop": "2026-10-15T00:26:32+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "L'exterminiador",
+        "description": "Arriba l'hivern i la majoria d'ocells volen cap al sud, però alguns, com la mallerenga, no migren. L'Aviva promet als germans Kratt que si són capaços de trobar uns quants poders d'aquest ocell, els en farà un vestit de poder. Mentre estudien les mallerengues, el Martin es distreu amb un animal que passa corrents, se separa del Chris i li cau l'animal-pod. Quan veu de prop l'animal que l'ha despistat, s'adona és un ermini.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-14T21:22:21+02:00",
-        "stop": "2026-10-14T21:41:02+02:00",
-        "title": "Bola de drac Z",
-        "subtitle": "El desenllaç del combat entre l'emmascarat i l'A-18!",
-        "description": "El combat entre el Guerrer Emmascarat i l'A-18 continua amb més potència que mai. En Trunks i en Son Goten, que estan molt ben coordinats, decideixen convertir-se en superguerrers i l'A-18 cada cop ho té més complicat. Però el que ho té difícil de veritat és en Satan, que veu gairebé impossible acabar guanyant el campionat.",
+        "start": "2026-10-15T00:26:32+02:00",
+        "stop": "2026-10-15T00:47:11+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Hèrcules, l'escarabat gegant",
+        "description": "L'equip dels germans Kratt és a la selva pluvial de l'Amèrica Central per estudiar les característiques de l'escarabat hèrcules, l'escarabat més gros i més fort que hi ha. A causa d'un accident amb el miniaturitzador, un escarabat d'aquests es fa més gros i es transforma en un escarabat gegant que amenaça de destruir la selva i una ciutat que hi ha a prop. L'equip dels germans Kratt haurà de trobar la manera d'evitar-ho i de fer-lo tornar a la mida normal. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-14T21:02:20+02:00",
-        "stop": "2026-10-14T21:38:29+02:00",
-        "title": "L'un per l'altre",
-        "subtitle": "Sense pèls a la llengua",
-        "description": "El Toni i la Maria estan enganxats a un programa de televisió que es diu 'Sense pèls a la llengua' on les parelles on s'ha de demostrar que es coneixen molt bé. La Rosa i el Poppins decideixen apuntar la Maria i el Toni sense que ells ho sàpiguen. El Toni i la Maria decideixen fer trampes i pacten les respostes. La primera vegada els surt bé i passen a la següent fase, però quan tornen a provar-ho l'estratègia els surt fatal i queden en evidència davant tota l'audiència del programa.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
-        "image": ""
+        "start": "2026-10-14T22:57:29+02:00",
+        "stop": "2026-10-15T00:18:36+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Les 2 vides d'Andrés Rabadán",
+        "description": "LES DUES VIDES D'ANDRÉS RABADÁNProducció: Nanouk Films i Briznormally en producció associada Televisió Catalunya, 2009Guió i direcció: Bonaventura DurallDirector de fotografia: Mauro HerceMúsica: Toni Miguel MirIntèrprets: Alex Brendemühl (Andrés), Mar Ulldemolins (Carmen), Andrés Herrera (Jordi), Clara Segura (Sara), Cristina Garcia (Eva), Emilio Mencheta ( Matahari), Alfonso Ruiz (pare Andrés) i Tania Roman (germana Andrés Rabadán)Mereix tothom una segona oportunitat, independentment dels crims que hagi comès?. Aquesta és la pregunta que planteja Les dues vides d'Andrés Rabadán, la història d'un pres turmentat pels seus crims aberrants. El film, de caire intimista, se submergeix en una recerca personal on el protagonista descobrirà que ell mateix ha estat el seu pitjor enemic, i que la seva única oportunitat de redempció es troba en l'amor. ",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/8/1517569370482.jpg"
       },
       {
-        "start": "2026-10-14T21:38:29+02:00",
-        "stop": "2026-10-14T22:05:08+02:00",
-        "title": "L'un per l'altre",
-        "subtitle": "Les anàlisis",
-        "description": "La Rosa i la Maria posen a règim els seus marits perquè han descobert que el colesterol els surt per les orelles. El Toni i el Poppins fan tol el que poden per saltar-se'l",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
-        "image": ""
+        "start": "2026-10-15T00:18:36+02:00",
+        "stop": "2026-10-15T01:49:41+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Visitant",
+        "description": "VISITANTProducció: Desconectada la Película AIE, Beniwood Producciones, Chester Media Producciones, Life & Pictures, The Other Side FilmsDirector i guionista: Alberto EvangelioDirector fotografia: Guillem OliverIntèrprets: Irina del Río (Marga), Miquel Fernández ( Daniel), Jan Cornet (Carlos), Sandra Cervera (Diana)Sinopsi:Marga, en plena crisi amb el seu marit i carregada de dubtes sobre el seu futur, viatja a una antiga casa de la seva família. Al cap de poc d'estar-s'hi, descobreix un portal dimensional que la comunica amb una altra realitat. En aquella dimensió paral·lela, el seu altre jo l'avisa que està a punt de passar una cosa terrible a la seva vida si no pren una determinada decisió.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/9/1705669963891.jpg"
       }
     ],
     "oca1": [],
