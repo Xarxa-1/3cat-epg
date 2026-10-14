@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-14T14:50:24.881286+00:00",
+  "updated": "2026-10-14T19:07:56.217670+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,101 +43,101 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-14T16:45:37+02:00",
-        "stop": "2026-10-14T17:24:54+02:00",
-        "title": "La Riera",
+        "start": "2026-10-14T21:00:00+02:00",
+        "stop": "2026-10-14T21:59:45+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Malgrat la humiliació que suposa per a ella, l'Estel continua endavant amb la pressió sobre en Claudi. El problema és que la Lídia no és tan passiva, aquest cop. A can Riera, en Casellas està especialment nerviós, avui. Ell també té problemes. El que s'ho passa fatal és en Joan. La Txell el té a 'règim' i no ho porta gaire bé. I mentre l'Ernest segueix decidit a no tornar al restaurant, la Mercè pateix la soledat de la viudetat.",
-        "genre": "TELENOVEL·LA",
-        "image": ""
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-14T17:24:54+02:00",
-        "stop": "2026-10-14T17:30:39+02:00",
-        "title": "Ets música",
-        "subtitle": "Gioacchino  Rossini - La garsa lladre",
-        "description": "",
-        "genre": "CLÀSSICA",
+        "start": "2026-10-14T21:59:45+02:00",
+        "stop": "2026-10-14T22:08:03+02:00",
+        "title": "De primera!",
+        "subtitle": "- Vaques lleteres 4.0",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-14T16:00:00+02:00",
-        "stop": "2026-10-14T17:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-14T21:00:00+02:00",
+        "stop": "2026-10-14T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-14T17:00:00+02:00",
-        "stop": "2026-10-14T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-14T22:05:00+02:00",
+        "stop": "2026-10-15T00:00:00+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-14T16:32:32+02:00",
-        "stop": "2026-10-14T17:26:02+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Robert Englund",
-        "description": "L'actor de Hollywood Robert Englund, el mític Freddy Krueger, visita Catalunya de la mà d''Experiència catalana' i la Ivana Miño. Junts visiten el cementiri de Montjuïc, els banys jueus de Besalú i el Restaurant Hispània d'Arenys. Tot plegat, just abans d'enfrontar-se a una nit d'espant a Mataró.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-14T21:07:19+02:00",
+        "stop": "2026-10-14T21:56:58+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Spar Girona-Ostrava / Eurocup / J1",
+        "description": "L'estrena de les gironines a l'Eurocup. El rival que visita Fontajau és un conjunt de la República Txeca.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"
       },
       {
-        "start": "2026-10-14T17:26:02+02:00",
-        "stop": "2026-10-14T17:57:45+02:00",
-        "title": "La frontal",
-        "subtitle": "L'Esport Base i la UE Papiol",
-        "description": "Visitem la població del Baix Llobregat en la qual dos clubs s'han aliat per ser més forts. L'Esport Base del Papiol forma els nens i nenes en diferents esports, entre els quals destaca el futbol. Quan arriben a la categoria juvenil, estan preparats per nodrir el primer equip de la UE Papiol, el conjunt amateur del poble que competeix a Quarta Catalana. A l'espai, Carles Fité entrevistar el vicepresident de la UE Papiol, Arnau Carrió; el president de l'Esport Base del Papiol, Alfred Garcia; i el jugador i capità del primer equip, Albert Coll. I a més a més, els resums dels partits més destacats del cap de setmana.",
-        "genre": "ESPECIALS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"
+        "start": "2026-10-14T21:56:58+02:00",
+        "stop": "2026-10-14T22:30:53+02:00",
+        "title": "Espòiler",
+        "subtitle": "El Ferrari Amalfi, el Volkswagen I.D. Polo, el Geely E2 i el programa Ford Adapta",
+        "description": "En aquest capítol gaudim al volant de l'impressionant Ferrari Amalfi, la proposta gran turisme de la marca italiana que arriba amb un motor V8 de 640 CV. També conduïm el Volkswagen I.D. Polo a les carreteres de l'Albufera de València, assistim a la presentació del nou Geely E2 i descobrim com és el Ford Puma ST adaptat que el pilot Marc Roma ha estrenat gràcies al programa Ford Adapta. ",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-14T16:39:30+02:00",
-        "stop": "2026-10-14T16:50:36+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "Tirem coets inventats!",
-        "description": "Hi ha uns focs artificials que no fan por. Surten d'una capsa inventada i cadascú pot triar-ne el color i quants pets fan. Al Mi i en Cincsegons els encanta jugar a aquest joc! ",
+        "start": "2026-10-14T21:00:05+02:00",
+        "stop": "2026-10-14T21:22:21+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "El combat de tots contra tots!",
+        "description": "Veient que el públic del Campionat Mundial d'Arts Marcials s'està cansant d'esperar, en Satan proposa un combat de tots contra tots: ell mateix, l'A-18, el Guerrer Emmascarat, és a dir, en Trunks i en Son Goten, i dos lluitadors més. Mentrestant, en Dabra es comença a preparar per enfrontar-se a en Son Gohan.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-14T16:50:36+02:00",
-        "stop": "2026-10-14T17:00:47+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "Endevinalla de les ulleres",
-        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
+        "start": "2026-10-14T21:22:21+02:00",
+        "stop": "2026-10-14T21:41:02+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "El desenllaç del combat entre l'emmascarat i l'A-18!",
+        "description": "El combat entre el Guerrer Emmascarat i l'A-18 continua amb més potència que mai. En Trunks i en Son Goten, que estan molt ben coordinats, decideixen convertir-se en superguerrers i l'A-18 cada cop ho té més complicat. Però el que ho té difícil de veritat és en Satan, que veu gairebé impossible acabar guanyant el campionat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-14T16:15:26+02:00",
-        "stop": "2026-10-14T17:27:52+02:00",
-        "title": "Còmics",
-        "subtitle": "Capri",
-        "description": "Sens dubte, el primer gran monologuista de Catalunya, a partir del seva encarnació del prototip de 'català emprenyat'. Una personalitat complexa, turmentada i amb un humor àcid, lúcid, irresistiblement divertit i d'actualitat permanent. Revivim els seus millors moments i recreem a l'escenari una seqüència del 'Doctor Caparrós', la sèrie televisiva que protagonitzava, amb uns 'actors' molt especials",
-        "genre": "GAGS. HUMOR",
+        "start": "2026-10-14T21:02:20+02:00",
+        "stop": "2026-10-14T21:38:29+02:00",
+        "title": "L'un per l'altre",
+        "subtitle": "Sense pèls a la llengua",
+        "description": "El Toni i la Maria estan enganxats a un programa de televisió que es diu 'Sense pèls a la llengua' on les parelles on s'ha de demostrar que es coneixen molt bé. La Rosa i el Poppins decideixen apuntar la Maria i el Toni sense que ells ho sàpiguen. El Toni i la Maria decideixen fer trampes i pacten les respostes. La primera vegada els surt bé i passen a la següent fase, però quan tornen a provar-ho l'estratègia els surt fatal i queden en evidència davant tota l'audiència del programa.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       },
       {
-        "start": "2026-10-14T17:27:52+02:00",
-        "stop": "2026-10-14T18:17:44+02:00",
-        "title": "No pot ser!",
-        "subtitle": "Doctor robot",
-        "description": "Jordi Basté explora les tecnologies mèdiques més avançades i que són a Catalunya. El binomi tecnologia i medicina promet més avanços en els pròxims 10 anys que en tot el segle XX. Al quiròfan de l'Hospital Clínic de Barcelona, Basté veurà en acció el robot quirúrgic Da Vinci, que opera amb una precisió inigualable sota el control d'un cirurgià humà i que està transformant la cirurgia. Amb el Dr. Antonio De Lacy, cap del Servei de Cirurgia del Clínic i una eminència mundial, descobrirà el quiròfan més avançat del món, l'Optimus, dissenyat pels millors enginyers i metges del planeta i que compta amb llums robotitzades sense ombres, esterilització per ozó, aparells sense cables i pantalles 3D de 4K, entre altres innovacions. En el Mobile World Congress 2019, l'Optimus va acollir la primera operació a distància del món, en coordinació amb l'equip del Dr. De Lacy i mitjançant tecnologia 5G. Jordi Basté també anirà a Sant Joan de Déu, on el cirurgià pediàtric Lucas Krauel explicarà com imprimeixen tumors idèntics als que han d'operar i així optimitzar la cirurgia. A l'Hospital Vall d'Hebron comprovem la bioimpressió 3D d'òrgans per trasplantar, una fita que aviat veurem, com ens explica Pere Barret, cap del Servei de Cirurgia Plàstica i Cremats d'aquest centre. El viatge de descoberta de la medicina 4.0 acabarà a l'Institut Guttman de Badalona. La directora assistencial del centre, la doctora Montserrat Bernabeu, ens explicarà com la realitat virtual pot ajudar a tornar a fer caminar a qui havia perdut tota esperança.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-10-14T21:38:29+02:00",
+        "stop": "2026-10-14T22:05:08+02:00",
+        "title": "L'un per l'altre",
+        "subtitle": "Les anàlisis",
+        "description": "La Rosa i la Maria posen a règim els seus marits perquè han descobert que el colesterol els surt per les orelles. El Toni i el Poppins fan tol el que poden per saltar-se'l",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       }
     ],
