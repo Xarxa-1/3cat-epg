@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-14T00:11:58.063467+00:00",
+  "updated": "2026-10-14T04:53:53.340701+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,34 +43,25 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-14T00:30:03+02:00",
-        "stop": "2026-10-14T02:21:57+02:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
-      },
-      {
-        "start": "2026-10-14T02:21:57+02:00",
-        "stop": "2026-10-14T04:00:00+02:00",
+        "start": "2026-10-14T06:00:00+02:00",
+        "stop": "2026-10-14T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-14T08:00:00+02:00",
+        "stop": "2026-10-14T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
-      {
-        "start": "2026-10-14T01:00:00+02:00",
-        "stop": "2026-10-14T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-10-14T06:00:00+02:00",
         "stop": "2026-10-14T08:00:00+02:00",
@@ -79,12 +70,21 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-14T08:00:00+02:00",
+        "stop": "2026-10-14T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-14T01:13:55+02:00",
-        "stop": "2026-10-14T02:36:08+02:00",
+        "start": "2026-10-14T06:48:36+02:00",
+        "stop": "2026-10-14T08:10:44+02:00",
         "title": "Zona Champions",
         "subtitle": "Post Galatasaray-Barça / J2",
         "description": "El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!",
@@ -92,52 +92,52 @@
         "image": "https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"
       },
       {
-        "start": "2026-10-14T02:36:08+02:00",
-        "stop": "2026-10-14T02:59:38+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-10-14T08:10:44+02:00",
+        "stop": "2026-10-14T10:15:05+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Bahçesehir-Kids&Us Manresa / Eurocup / J3",
+        "description": "Després d'una derrota i una victòria, els del Bages visiten la pista del líder del grup. Els turcs han guanyat el dos partits disputats.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/7/1761644896070.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-14T01:57:55+02:00",
-        "stop": "2026-10-14T02:17:40+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Combat en una incursió glacial!",
-        "description": "L'aventura del Goh per entrar al Projecte Mew continua a tota màquina! La seva pròxima missió? Un combat d'incursió, que és un treball en equip. Qui més hi participa? L'amic del Goh, el Horace, i l'amic de l'Ash i antic rival, el Gary Oak! El Goh captura uns quants Pokémon mentre es dirigeixen a un laberint de coves, on descobreixen l'Articuno! Allà comença un combat ferotge: els Pokémon de tots quatre lluiten amb valentia, però l'Articuno guanya. El Gary no para de fer befa del Goh, que no s'ho pren gens bé. El que vol el Gary, però, és que el Goh s'adoni de la importància de la disciplina. De mica en mica el gel entre tots dos es va fonent, i ara el Goh i el Gary tenen ganes de tornar-se a trobar!",
+        "start": "2026-10-14T06:45:35+02:00",
+        "stop": "2026-10-14T06:57:46+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "La mallerenga blava",
+        "description": "Mentre les formigues fan una jornada de portes obertes al formiguer, una mallerenga blava que té una ploma torta se'ls posa just a l'entrada. Totes les formigues i els insectes del prat queden atrapats a dins. En Paul i la Maia proven de redreçar-li la ploma a la mallerenga, però només són dos i no se'n surten. Llavors, demanen ajuda al rusc, però en Beeswax no els vol ajudar. La reina, però, no pensa igual que el primer ministre.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-14T02:17:40+02:00",
-        "stop": "2026-10-14T02:38:47+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "La resposta",
-        "description": "Durant la jornada de portes obertes de l'escola d'esgrima de l'Armand d'Argencourt, es fan les proves d'ingrés als aspirants, entre els que hi ha la Marinette. Però aquest any només hi ha una sola plaça, que serà molt disputada. Fins que apareix una misteriosa tiradora, experta en aquest esport, que està decidida a quedar-se l'única plaça lliure.",
+        "start": "2026-10-14T06:57:46+02:00",
+        "stop": "2026-10-14T07:08:58+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva un dirigible",
+        "description": "El capità Turbot ha fabricat un dirigible capaç de preveure el temps que farà, però ha desaparegut!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-14T01:37:19+02:00",
-        "stop": "2026-10-14T02:35:47+02:00",
-        "title": "Rick Stein: De Venècia a Istanbul",
-        "subtitle": "Grècia",
-        "description": "En Rick Stein continua el viatge culinari, ara pel Peloponès, fins a la península de Mani. Recorrerà diversos capítols, també gastronòmics, de la història grega: Esparta, la ciutat bizantina de Mitràs, els segles de domini otomà, la guerra d'independència... Assaborirà la riquíssima cuina grega, amb el pollastre amb pasta 'hilopites' i formatge 'mizithra', sardines a la brasa, l'omnipresent amanida i molts altres plats. I cuinarà un 'galaktoboureko', que és un púding de crema; un 'saganaki', formatge arrebossat i fregit, i no hi podia faltar la deliciosa mussaca.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-14T06:36:35+02:00",
+        "stop": "2026-10-14T07:26:40+02:00",
+        "title": "El Foraster",
+        "subtitle": "Confinats",
+        "description": "Des de la seva casa d'Arbúcies, i davant la impossibilitat de sortir a voltar pels pobles de Catalunya durant el confinament dels mesos de març, abril i maig, en Quim va decidir posar-se en contacte amb algunes de les persones que va conèixer a les darreres temporades del Foraster, per saber com estaven vivint el confinament i com estava afectant la situació als seus pobles. Així, es va retrobar virtualment amb vells coneguts com l'Ijalba, que durant aquells mesos va continuar exercint com la memòria històrica de Cadaqués; la Loli, que va viure escenes de germanor i solidaritat al barri de La Mina de Sant Adrià de Besòs; o les monges de clausura del Monestir de Sant Daniel de Girona, que van viure aquells dies més confinades que mai. Des de la seva botiga a la Vall d'en Bas, la Núria va mirar d'ajudar tothom que ho necessitava. Des de Sabadell, el Jordi i la Joana van trobar molt a faltar el seu petit paradís de Gisclareny. I a Castellfollit del Boix, la Roser va reflexionar sobre el que va suposar per ella encunyar la cèlebre expressió de 'gas al matalàs'. En Toni de Siurana va recordar els primers avisos que li van fer arribar els seus amics xinesos, mesos abans de l'esclat de la pandèmia, i en Josep d'Àger va rememorar els dies més durs en què el seu poble va assolir l'índex de contagi més elevat de Catalunya. En Quim també va conversar amb l'Albert i el seu avi Miquel, de Riudecanyes, el Marcial i el Rafel de Sant Martí de Tous, el David i la Maite de Vimbodí i Poblet, el Jordi d'Òrrius, el Marcel de Llívia, l'Antonio de Serinyà o el Josep de Santa Pau, entre d'altres. ",
+        "genre": "VARIETATS",
         "image": ""
       },
       {
-        "start": "2026-10-14T02:35:47+02:00",
-        "stop": "2026-10-14T03:35:59+02:00",
-        "title": "Xefs: noves generacions",
-        "subtitle": "Xefs, noves generacions 'La trobada'",
-        "description": "Els 10 millors xefs joves que han protagonitzat la sèrie documental 'Xefs ·Noves generacions' es reuneixen a 'La trobada'. Un dinar de germanor és l'excusa perquè el talent emergent de la cuina catalana es conegui i es posi cara. Mentre preparen plats senzills de la cuina catalana i sempre al voltant d'uns fogons i d'una taula, els millors cuiners i cuineres joves del país mostraran la riquesa cultural i del territori, el producte de proximitat i, sobretot, la feina d'una generació que ha d'agafar el relleu de figures clau com Carme Ruscalleda, Albert Adrià, Eduard Xatruch o els Germans Roca.",
-        "genre": "SÈRIE DOCUMENTAL",
+        "start": "2026-10-14T07:26:40+02:00",
+        "stop": "2026-10-14T07:54:20+02:00",
+        "title": "La sobretaula",
+        "subtitle": "Palau-solità i Plegamans amb Miki Núñez",
+        "description": "La Sobretaula fa parada a Palau-solità i Plegamans, un municipi ple d'identitat, tradició i talent. Ho fem acompanyats d'un convidat molt especial, el músic i presentador Miki Núñez. Entre hoquei, gelats i productes de la terra descobrim històries, sabors i passions que defineixen el caràcter d'aquest racó del Vallès.",
+        "genre": "CUINA",
         "image": ""
       }
     ],
