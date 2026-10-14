@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-14T09:53:27.223736+00:00",
+  "updated": "2026-10-14T14:50:24.881286+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-14T10:30:11+02:00",
-        "stop": "2026-10-14T13:55:00+02:00",
-        "title": "Tot es mou",
+        "start": "2026-10-14T16:45:37+02:00",
+        "stop": "2026-10-14T17:24:54+02:00",
+        "title": "La Riera",
         "subtitle": "",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
-        "genre": "MAGAZINE",
+        "description": "Malgrat la humiliació que suposa per a ella, l'Estel continua endavant amb la pressió sobre en Claudi. El problema és que la Lídia no és tan passiva, aquest cop. A can Riera, en Casellas està especialment nerviós, avui. Ell també té problemes. El que s'ho passa fatal és en Joan. La Txell el té a 'règim' i no ho porta gaire bé. I mentre l'Ernest segueix decidit a no tornar al restaurant, la Mercè pateix la soledat de la viudetat.",
+        "genre": "TELENOVEL·LA",
         "image": ""
       },
       {
-        "start": "2026-10-14T13:55:00+02:00",
-        "stop": "2026-10-14T14:30:00+02:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "",
+        "start": "2026-10-14T17:24:54+02:00",
+        "stop": "2026-10-14T17:30:39+02:00",
+        "title": "Ets música",
+        "subtitle": "Gioacchino  Rossini - La garsa lladre",
         "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "genre": "CLÀSSICA",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-14T10:30:00+02:00",
-        "stop": "2026-10-14T12:00:00+02:00",
+        "start": "2026-10-14T16:00:00+02:00",
+        "stop": "2026-10-14T17:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-14T12:00:00+02:00",
-        "stop": "2026-10-14T13:55:00+02:00",
+        "start": "2026-10-14T17:00:00+02:00",
+        "stop": "2026-10-14T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-14T11:38:37+02:00",
-        "stop": "2026-10-14T13:00:00+02:00",
-        "title": "Zona Champions",
-        "subtitle": "Post Galatasaray-Barça / J2",
-        "description": "El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"
+        "start": "2026-10-14T16:32:32+02:00",
+        "stop": "2026-10-14T17:26:02+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Robert Englund",
+        "description": "L'actor de Hollywood Robert Englund, el mític Freddy Krueger, visita Catalunya de la mà d''Experiència catalana' i la Ivana Miño. Junts visiten el cementiri de Montjuïc, els banys jueus de Besalú i el Restaurant Hispània d'Arenys. Tot plegat, just abans d'enfrontar-se a una nit d'espant a Mataró.",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-10-14T13:00:00+02:00",
-        "stop": "2026-10-14T14:02:06+02:00",
-        "title": "Esport Club",
-        "subtitle": "",
-        "description": "En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-10-14T17:26:02+02:00",
+        "stop": "2026-10-14T17:57:45+02:00",
+        "title": "La frontal",
+        "subtitle": "L'Esport Base i la UE Papiol",
+        "description": "Visitem la població del Baix Llobregat en la qual dos clubs s'han aliat per ser més forts. L'Esport Base del Papiol forma els nens i nenes en diferents esports, entre els quals destaca el futbol. Quan arriben a la categoria juvenil, estan preparats per nodrir el primer equip de la UE Papiol, el conjunt amateur del poble que competeix a Quarta Catalana. A l'espai, Carles Fité entrevistar el vicepresident de la UE Papiol, Arnau Carrió; el president de l'Esport Base del Papiol, Alfred Garcia; i el jugador i capità del primer equip, Albert Coll. I a més a més, els resums dels partits més destacats del cap de setmana.",
+        "genre": "ESPECIALS",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-14T11:49:56+02:00",
-        "stop": "2026-10-14T12:02:14+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Mal d'humor",
-        "description": "La Marine s'ha decidit: ha de trobar un nòvio de mentida per poder tallar amb ell. Així la seva mama la portarà al saló de mascotes per consolar-la, com vol fer amb la Wendy, que acaba de tallar amb el Maxence. Però la mare no s'acaba de creure que la seva filla petita s'hagi enamorat del Titouan... Com s'ho farà la Marine per convèncer-la que està enamorada?",
+        "start": "2026-10-14T16:39:30+02:00",
+        "stop": "2026-10-14T16:50:36+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Tirem coets inventats!",
+        "description": "Hi ha uns focs artificials que no fan por. Surten d'una capsa inventada i cadascú pot triar-ne el color i quants pets fan. Al Mi i en Cincsegons els encanta jugar a aquest joc! ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-14T12:02:14+02:00",
-        "stop": "2026-10-14T12:23:59+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Delícies d'ornitorinc",
-        "description": "Tot fent caiac per Austràlia, en Chris i en Martin s'han trobat un dels animals més estrambòtics del món: un mamífer amb potes d'ànec, cua de castor... i que pon ous?! Només pot ser l'ornitorinc! El pitjor de tot és que en Gormand, un xef molt malvat, vol afegir els ous d'aquest animal en extinció al seu menú! Avui tenen feina, els germans Kratt!",
+        "start": "2026-10-14T16:50:36+02:00",
+        "stop": "2026-10-14T17:00:47+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Endevinalla de les ulleres",
+        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-14T11:29:27+02:00",
-        "stop": "2026-10-14T12:10:07+02:00",
-        "title": "Tot el temps del món",
-        "subtitle": "Joan-Lluís Lluís",
-        "description": "Marxem a la Catalunya Nord per trobar-nos amb en Joan-Lluís Lluís, que ens rep al jardí de casa seva. Ens parla de 'Junil a les terres dels bàrbars' (Club Editor), la seva darrera novel·la, una aventura apassionant situada a l'època romana. En aquesta mena de faula, seguim el periple cap a la llibertat de la Junil i dels seus companys, esclaus. Cap a la llibertat i cap a Ovidi, el poeta, i és que en aquest llibre hi ressonen la passió per la poesia, les paraules i la literatura de Joan-Lluís Lluís. En parlem amb ell, i també de com escriu, de la seva relació amb els personatges o de la situació actual de la llengua. JUNIL A LES TERRES DELS BÀRBARS Joan-Lluís Lluís Ed. Club Editor ",
-        "genre": "ENTREVISTES",
+        "start": "2026-10-14T16:15:26+02:00",
+        "stop": "2026-10-14T17:27:52+02:00",
+        "title": "Còmics",
+        "subtitle": "Capri",
+        "description": "Sens dubte, el primer gran monologuista de Catalunya, a partir del seva encarnació del prototip de 'català emprenyat'. Una personalitat complexa, turmentada i amb un humor àcid, lúcid, irresistiblement divertit i d'actualitat permanent. Revivim els seus millors moments i recreem a l'escenari una seqüència del 'Doctor Caparrós', la sèrie televisiva que protagonitzava, amb uns 'actors' molt especials",
+        "genre": "GAGS. HUMOR",
         "image": ""
       },
       {
-        "start": "2026-10-14T12:10:07+02:00",
-        "stop": "2026-10-14T12:16:09+02:00",
-        "title": "Cuines",
-        "subtitle": "Punta de tapa plana amb calçots en 3 textures",
-        "description": "Dificultat: baixaTemps d'elaboració: Producte principal: carn/calçotsTemporada: hivernRAMON FLORENSA",
+        "start": "2026-10-14T17:27:52+02:00",
+        "stop": "2026-10-14T18:17:44+02:00",
+        "title": "No pot ser!",
+        "subtitle": "Doctor robot",
+        "description": "Jordi Basté explora les tecnologies mèdiques més avançades i que són a Catalunya. El binomi tecnologia i medicina promet més avanços en els pròxims 10 anys que en tot el segle XX. Al quiròfan de l'Hospital Clínic de Barcelona, Basté veurà en acció el robot quirúrgic Da Vinci, que opera amb una precisió inigualable sota el control d'un cirurgià humà i que està transformant la cirurgia. Amb el Dr. Antonio De Lacy, cap del Servei de Cirurgia del Clínic i una eminència mundial, descobrirà el quiròfan més avançat del món, l'Optimus, dissenyat pels millors enginyers i metges del planeta i que compta amb llums robotitzades sense ombres, esterilització per ozó, aparells sense cables i pantalles 3D de 4K, entre altres innovacions. En el Mobile World Congress 2019, l'Optimus va acollir la primera operació a distància del món, en coordinació amb l'equip del Dr. De Lacy i mitjançant tecnologia 5G. Jordi Basté també anirà a Sant Joan de Déu, on el cirurgià pediàtric Lucas Krauel explicarà com imprimeixen tumors idèntics als que han d'operar i així optimitzar la cirurgia. A l'Hospital Vall d'Hebron comprovem la bioimpressió 3D d'òrgans per trasplantar, una fita que aviat veurem, com ens explica Pere Barret, cap del Servei de Cirurgia Plàstica i Cremats d'aquest centre. El viatge de descoberta de la medicina 4.0 acabarà a l'Institut Guttman de Badalona. La directora assistencial del centre, la doctora Montserrat Bernabeu, ens explicarà com la realitat virtual pot ajudar a tornar a fer caminar a qui havia perdut tota esperança.",
         "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
