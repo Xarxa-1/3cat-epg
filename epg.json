@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-14T22:17:26.649495+00:00",
+  "updated": "2026-10-15T00:41:42.998806+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-14T23:27:05+02:00",
-        "stop": "2026-10-15T00:20:55+02:00",
-        "title": "País d'altura",
-        "subtitle": "Terres de l'Ebre",
-        "description": "Les Terres de l'Ebre són d'un altre planeta: un lloc on la terra s'acaba, el cel sembla més gran i el paisatge juga amb regles pròpies. I el riu, evidentment, fa de mestre de cerimònies.",
-        "genre": "",
-        "image": ""
-      },
-      {
-        "start": "2026-10-15T00:20:55+02:00",
-        "stop": "2026-10-15T03:24:08+02:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-10-15T00:00:00+02:00",
-        "stop": "2026-10-15T00:30:00+02:00",
+        "start": "2026-10-15T02:11:56+02:00",
+        "stop": "2026-10-15T04:00:03+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-15T00:30:00+02:00",
-        "stop": "2026-10-15T01:00:00+02:00",
+        "start": "2026-10-15T04:00:03+02:00",
+        "stop": "2026-10-15T05:00:02+02:00",
+        "title": "Blues a l'estudi",
+        "subtitle": "Quico Pi de la Serra",
+        "description": "Quico Pi de la Serra, Amadeu Casas i Joan Pau Cumellas, es perden en un món de cordes i harmonies per presentar un repertori inspirat en els antics blues de Chicago i en els colors del blues del Delta i del blues de Louisiana. Els tres músics es reuneixen per presentar metafòricament la concepció que Pi de la Serra té del blues. Amadeu Casas a la guitarra, mandolina i el 'lap steel'; Joan Pau Cumelles, a l'harmònica, i el mateix Pi de la Serra, a la veu i la guitarra.",
+        "genre": "ALTRES",
+        "image": ""
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-10-15T01:00:00+02:00",
+        "stop": "2026-10-15T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-15T06:00:00+02:00",
+        "stop": "2026-10-15T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-14T23:00:00+02:00",
-        "stop": "2026-10-15T00:31:27+02:00",
-        "title": "Onze",
-        "subtitle": "'Laminadura'; Post Roma-Madrid i 'El Colegiado'",
-        "description": "Lluís Carrasco, Sique Rodríguez, Gemma Mallorca i Joan Poquí analitzen el partit del Barça a Istanbul i la jornada de Champions amb atenció al partit del Reial Madrid. En Joan Fàbregas repassa les jugades polèmiques.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
-      },
-      {
-        "start": "2026-10-15T00:31:27+02:00",
-        "stop": "2026-10-15T00:52:22+02:00",
+        "start": "2026-10-15T02:33:57+02:00",
+        "stop": "2026-10-15T02:58:19+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+      },
+      {
+        "start": "2026-10-15T02:58:19+02:00",
+        "stop": "2026-10-15T04:31:51+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Spar Girona-Ostrava / Eurocup / J1",
+        "description": "L'estrena de les gironines a l'Eurocup. El rival que visita Fontajau és un conjunt de la República Txeca.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-15T00:06:23+02:00",
-        "stop": "2026-10-15T00:26:32+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "L'exterminiador",
-        "description": "Arriba l'hivern i la majoria d'ocells volen cap al sud, però alguns, com la mallerenga, no migren. L'Aviva promet als germans Kratt que si són capaços de trobar uns quants poders d'aquest ocell, els en farà un vestit de poder. Mentre estudien les mallerengues, el Martin es distreu amb un animal que passa corrents, se separa del Chris i li cau l'animal-pod. Quan veu de prop l'animal que l'ha despistat, s'adona és un ermini.",
+        "start": "2026-10-15T02:21:04+02:00",
+        "stop": "2026-10-15T02:42:11+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "El Mussol Negre",
+        "description": "El senyor Damocles, el director de l'institut, té moltes ganes de ser un superheroi per poder ajudar els altres, però el pobre home no se'n surt, sinó que més aviat provoca problemes que després han de resoldre Ladybug i el Gat Noir, però l'Esfinx aprofita el desengany del senyor Damocles per crear un altre supermalvat a la ciutat de París.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-15T00:26:32+02:00",
-        "stop": "2026-10-15T00:47:11+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Hèrcules, l'escarabat gegant",
-        "description": "L'equip dels germans Kratt és a la selva pluvial de l'Amèrica Central per estudiar les característiques de l'escarabat hèrcules, l'escarabat més gros i més fort que hi ha. A causa d'un accident amb el miniaturitzador, un escarabat d'aquests es fa més gros i es transforma en un escarabat gegant que amenaça de destruir la selva i una ciutat que hi ha a prop. L'equip dels germans Kratt haurà de trobar la manera d'evitar-ho i de fer-lo tornar a la mida normal. ",
+        "start": "2026-10-15T02:42:11+02:00",
+        "stop": "2026-10-15T03:02:49+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Sirena",
+        "description": "L'Ondine està molt enamorada del Kim i intenta fer-li saber a través d'un joc que juguen a la piscina. Però el Kim no se n'adona, i l'Esfinx aprofita el despit de l'Ondine per convertir-la en una supermalvada que deixarà París inundada sota les aigües.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-14T22:57:29+02:00",
-        "stop": "2026-10-15T00:18:36+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Les 2 vides d'Andrés Rabadán",
-        "description": "LES DUES VIDES D'ANDRÉS RABADÁNProducció: Nanouk Films i Briznormally en producció associada Televisió Catalunya, 2009Guió i direcció: Bonaventura DurallDirector de fotografia: Mauro HerceMúsica: Toni Miguel MirIntèrprets: Alex Brendemühl (Andrés), Mar Ulldemolins (Carmen), Andrés Herrera (Jordi), Clara Segura (Sara), Cristina Garcia (Eva), Emilio Mencheta ( Matahari), Alfonso Ruiz (pare Andrés) i Tania Roman (germana Andrés Rabadán)Mereix tothom una segona oportunitat, independentment dels crims que hagi comès?. Aquesta és la pregunta que planteja Les dues vides d'Andrés Rabadán, la història d'un pres turmentat pels seus crims aberrants. El film, de caire intimista, se submergeix en una recerca personal on el protagonista descobrirà que ell mateix ha estat el seu pitjor enemic, i que la seva única oportunitat de redempció es troba en l'amor. ",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/8/1517569370482.jpg"
+        "start": "2026-10-15T02:41:19+02:00",
+        "stop": "2026-10-15T03:31:17+02:00",
+        "title": "El triunfante",
+        "subtitle": "El triunfante",
+        "description": "El Triunfante era un navili de guerra de 70 canons, enfonsat al golf de Roses durant la defensa de Ciutadella de Roses contra el setge francès el 1795. Es tracta d'un dels derelictes més grans, mai excavat, de tot el patrimoni subaquàtic català. Seguint els testimonis d'historiadors, arqueòlegs i alguns dels protagonistes del seu descobriment, coneixerem les innovacions tecnològiques que l'enginyer i matemàtic Jorge Juan i Santacilia va introduir en la construcció naval espanyola del segle XVIII. Des de la seva troballa als anys 70 del segle XX, ha representat el paradigma de l'espoli que ha patit el patrimoni subaquàtic català durant dècades. Tanmateix, la informació de les seves restes servirà perquè l'equip d'arqueòlegs del Centre d'Arqueologia Subaquàtica de Catalunya (CASC), després de tres campanyes d'excavació subaquàtica, desvelin els seus secrets.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/0/1749140405006.jpg"
       },
       {
-        "start": "2026-10-15T00:18:36+02:00",
-        "stop": "2026-10-15T01:49:41+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Visitant",
-        "description": "VISITANTProducció: Desconectada la Película AIE, Beniwood Producciones, Chester Media Producciones, Life & Pictures, The Other Side FilmsDirector i guionista: Alberto EvangelioDirector fotografia: Guillem OliverIntèrprets: Irina del Río (Marga), Miquel Fernández ( Daniel), Jan Cornet (Carlos), Sandra Cervera (Diana)Sinopsi:Marga, en plena crisi amb el seu marit i carregada de dubtes sobre el seu futur, viatja a una antiga casa de la seva família. Al cap de poc d'estar-s'hi, descobreix un portal dimensional que la comunica amb una altra realitat. En aquella dimensió paral·lela, el seu altre jo l'avisa que està a punt de passar una cosa terrible a la seva vida si no pren una determinada decisió.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/9/1705669963891.jpg"
+        "start": "2026-10-15T03:31:17+02:00",
+        "stop": "2026-10-15T04:18:12+02:00",
+        "title": "Aeroport",
+        "subtitle": "Plataforma",
+        "description": "Viatjar ja no és un luxe i els aeroports s'han convertit en les noves catedrals del món. Un formiguer ple d'històries, de passatgers i dels que hi treballen, com el Pau, capatàs de rampa, que ha d'esbrinar si el seu equip ha ratllat a un avió de 75 milions d'euros amb una escala.",
+        "genre": "Docu-Entreteniment",
+        "image": ""
       }
     ],
     "oca1": [],
