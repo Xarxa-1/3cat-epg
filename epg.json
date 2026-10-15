@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-15T14:46:06.301706+00:00",
+  "updated": "2026-10-15T18:50:37.751045+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-15T16:34:28+02:00",
-        "stop": "2026-10-15T17:14:31+02:00",
-        "title": "La Riera",
+        "start": "2026-10-15T20:15:11+02:00",
+        "stop": "2026-10-15T21:00:00+02:00",
+        "title": "Està passant",
         "subtitle": "",
-        "description": "Un nou enfrontament amb els seus pares, fa que la Txell s'adoni de com els tracta en Joan. La Mercè té problemes per reconciliar-se amb els seus fills i es recolza en mossèn Esteve. El capellà pateix una mica... En Claudi dóna diners de l'herència als seus fills i l'Ona té una idea per invertir, però necessita socis. A la cuina, en Carlos vol aclarir què passa amb en Sergi i la Maribel.",
-        "genre": "TELENOVEL·LA",
-        "image": ""
+        "description": "La Natza i el Jair repassen les últimes novetats del Premi Planeta. L'Òscar Dalmau ens parla de ciència i la Oye Sherman ens descobreix vídeos d'internet.",
+        "genre": "GAGS. HUMOR",
+        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
       },
       {
-        "start": "2026-10-15T17:14:31+02:00",
-        "stop": "2026-10-15T17:19:52+02:00",
-        "title": "Xarxa Natura",
-        "subtitle": "Banyoles",
-        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
+        "start": "2026-10-15T21:00:00+02:00",
+        "stop": "2026-10-15T22:05:53+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-15T16:00:00+02:00",
-        "stop": "2026-10-15T17:00:00+02:00",
+        "start": "2026-10-15T20:00:00+02:00",
+        "stop": "2026-10-15T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-15T17:00:00+02:00",
-        "stop": "2026-10-15T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-15T21:00:00+02:00",
+        "stop": "2026-10-15T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-15T16:30:02+02:00",
-        "stop": "2026-10-15T17:22:30+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Rick Hansen",
-        "description": "El Rick Hansen és un exatleta paralímpic canadenc i la Ivana Miño ha decidit acompanyar-lo en la seva aventura per Catalunya. Viatjar en cadira de rodes no li impedeix fer un viatge espectacular i ple d'acció, com navegar o anar en bicicleta.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-15T20:11:44+02:00",
+        "stop": "2026-10-15T21:08:55+02:00",
+        "title": "Tot Costa",
+        "subtitle": "El Barça pot regnar a Europa?",
+        "description": "El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa. ",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       },
       {
-        "start": "2026-10-15T17:22:30+02:00",
-        "stop": "2026-10-15T17:29:02+02:00",
-        "title": "Xarxa Natura",
-        "subtitle": "Garrotxa",
-        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
+        "start": "2026-10-15T21:08:55+02:00",
+        "stop": "2026-10-15T21:16:37+02:00",
+        "title": "E3",
+        "subtitle": "Marnaton Eivissa",
+        "description": "Sisena i última prova de la Copa Marnaton 2026, el campionat de natació en aigües obertes que se celebra a Catalunya i les Illes Balears.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/6/1760439476560.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-15T16:38:08+02:00",
-        "stop": "2026-10-15T16:48:52+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "El Mic fa de ratolí",
-        "description": "Ben amagat, darrere una capsa de cartró, el Mic fa de ratolí. Cada vegada que treu la poteta per un forat, en Cincsegons li dona una crispeta",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-15T20:39:38+02:00",
+        "stop": "2026-10-15T21:00:00+02:00",
+        "title": "Henry Danger",
+        "subtitle": "Llicència per volar",
+        "description": "En Henry està decidit a demostrar que ja està preparat per pilotar el Mancòpter, però haurà de convèncer el Capità Man que és prou responsable.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-10-15T16:48:52+02:00",
-        "stop": "2026-10-15T16:59:55+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "Verdura i hortalisses",
-        "description": "Pastanaga, enciam, patata... les verdures i les hortalisses tenen noms molt divertits.",
+        "start": "2026-10-15T21:00:00+02:00",
+        "stop": "2026-10-15T21:23:53+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "El combat a mort entre el rei dels dimonis i en Son Gohan",
+        "description": "Per fi comença el combat a mort entre en Dabra i en Son Gohan, que fa set anys que no s'entrena i no està gaire en forma. A més, en Dabra s'adona que en Vegeta està molt enfadat per les ganes que té de lluitar contra en Son Goku i li explica a en Babidí que té un cor fàcil de posseir. En Dabra abandonarà el combat contra en Son Gohan, perquè ara ja té qui li faci la feina.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-15T16:02:58+02:00",
-        "stop": "2026-10-15T17:12:13+02:00",
-        "title": "Còmics",
-        "subtitle": "Mary Santpere",
-        "description": "Una gran artista (en tots els sentits) que va triomfar als escenaris i al cinema traient partit del seu físic, tan enorme com el seu talent per connectar amb el públic d'una manera natural, propera i entranyable. Al programa tornarà un personatge que fa 22 anys que no apareixia a TV3, i una personalitat molt coneguda relacionada amb l'actualitat i la informació recrearà un número musical de la Mary",
-        "genre": "GAGS. HUMOR",
+        "start": "2026-10-15T20:00:43+02:00",
+        "stop": "2026-10-15T20:59:43+02:00",
+        "title": "Rick Stein: De Venècia a Istanbul",
+        "subtitle": "Grècia",
+        "description": "En Rick Stein continua el viatge culinari, ara pel Peloponès, fins a la península de Mani. Recorrerà diversos capítols, també gastronòmics, de la història grega: Esparta, la ciutat bizantina de Mitràs, els segles de domini otomà, la guerra d'independència... Assaborirà la riquíssima cuina grega, amb el pollastre amb pasta 'hilopites' i formatge 'mizithra', sardines a la brasa, l'omnipresent amanida i molts altres plats. I cuinarà un 'galaktoboureko', que és un púding de crema; un 'saganaki', formatge arrebossat i fregit, i no hi podia faltar la deliciosa mussaca.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-15T17:12:13+02:00",
-        "stop": "2026-10-15T18:03:08+02:00",
-        "title": "No pot ser!",
-        "subtitle": "La jugada perfecta",
-        "description": "En aquest capítol Jordi Basté entra a la cuina del Barça i del Manchester City. Perquè el futbol d'elit no és aliè a la innovació tecnològica. A la seu del Manchester City Basté descobreix la tecnologia que es fa servir per optimitzar el rendiment dels futbolistes. I en aquesta visita a terres angleses, es retrobarà amb un vell conegut de l'afició catalana: Pep Guardiola. Allí també es vestirà de curt per provar la tecnologia esportiva. I descobrirem la sala de crioteràpia, on els futbolistes estan uns quants minuts a més de 130 graus sota zero per recuperar-se ràpidament de les microlesions musculars. A Barcelona veurem com el primer equip de futbol femení del Barça també es troba a l'avantguarda de la tecnologia. Ens ho explicaran tres de les seves estrelles i ho comentarem amb Ernesto Valverde. Basté es troba amb Álvaro Carmona, CEO de Driblab, una empresa que se submergeix en l'estadística avançada i analitza el 'big data' d'una enorme base de jugadors per trobar el nou Leo Messi. Per acabar, descobrirem el projecte Soccer Dream, amb el seu creador, Andreu Bartolí, una plataforma perquè els més petits entrenin a futbol en un entorn de realitat virtual. ",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-10-15T20:59:43+02:00",
+        "stop": "2026-10-15T21:02:31+02:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
