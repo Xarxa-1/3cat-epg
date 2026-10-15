@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-15T09:58:41.828711+00:00",
+  "updated": "2026-10-15T14:46:06.301706+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-15T10:29:56+02:00",
-        "stop": "2026-10-15T13:55:00+02:00",
-        "title": "Tot es mou",
+        "start": "2026-10-15T16:34:28+02:00",
+        "stop": "2026-10-15T17:14:31+02:00",
+        "title": "La Riera",
         "subtitle": "",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
-        "genre": "MAGAZINE",
+        "description": "Un nou enfrontament amb els seus pares, fa que la Txell s'adoni de com els tracta en Joan. La Mercè té problemes per reconciliar-se amb els seus fills i es recolza en mossèn Esteve. El capellà pateix una mica... En Claudi dóna diners de l'herència als seus fills i l'Ona té una idea per invertir, però necessita socis. A la cuina, en Carlos vol aclarir què passa amb en Sergi i la Maribel.",
+        "genre": "TELENOVEL·LA",
         "image": ""
       },
       {
-        "start": "2026-10-15T13:55:00+02:00",
-        "stop": "2026-10-15T14:30:00+02:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "start": "2026-10-15T17:14:31+02:00",
+        "stop": "2026-10-15T17:19:52+02:00",
+        "title": "Xarxa Natura",
+        "subtitle": "Banyoles",
+        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-15T10:30:00+02:00",
-        "stop": "2026-10-15T12:00:00+02:00",
+        "start": "2026-10-15T16:00:00+02:00",
+        "stop": "2026-10-15T17:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-15T12:00:00+02:00",
-        "stop": "2026-10-15T13:55:00+02:00",
+        "start": "2026-10-15T17:00:00+02:00",
+        "stop": "2026-10-15T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-15T11:25:55+02:00",
-        "stop": "2026-10-15T13:00:00+02:00",
-        "title": "Onze",
-        "subtitle": "'Laminadura'; Post Roma-Madrid i 'El Colegiado'",
-        "description": "Lluís Carrasco, Sique Rodríguez, Gemma Mallorca i Joan Poquí analitzen el partit del Barça a Istanbul i la jornada de Champions amb atenció al partit del Reial Madrid. En Joan Fàbregas repassa les jugades polèmiques.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-10-15T16:30:02+02:00",
+        "stop": "2026-10-15T17:22:30+02:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Rick Hansen",
+        "description": "El Rick Hansen és un exatleta paralímpic canadenc i la Ivana Miño ha decidit acompanyar-lo en la seva aventura per Catalunya. Viatjar en cadira de rodes no li impedeix fer un viatge espectacular i ple d'acció, com navegar o anar en bicicleta.",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-10-15T13:00:00+02:00",
-        "stop": "2026-10-15T14:01:25+02:00",
-        "title": "Esport Club",
-        "subtitle": "",
-        "description": "En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-10-15T17:22:30+02:00",
+        "stop": "2026-10-15T17:29:02+02:00",
+        "title": "Xarxa Natura",
+        "subtitle": "Garrotxa",
+        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-15T11:49:41+02:00",
-        "stop": "2026-10-15T12:11:26+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El viatge del Papalloner XT",
-        "description": "L'Aviva acaba de construir el Papalloner XT, el vehicle que acompanyarà en Chris, en Martin i la Capitana Maxil·la a l'aventura més increïble que hagi viscut mai ningú, el viatge més llarg i més impressionant de tots els insectes de l'Amèrica del Nord: 4.800 quilòmetres fins a Mèxic! Però compte, que a mig camí es trobaran amb la malvada Donita Donata!",
+        "start": "2026-10-15T16:38:08+02:00",
+        "stop": "2026-10-15T16:48:52+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "El Mic fa de ratolí",
+        "description": "Ben amagat, darrere una capsa de cartró, el Mic fa de ratolí. Cada vegada que treu la poteta per un forat, en Cincsegons li dona una crispeta",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-15T12:11:26+02:00",
-        "stop": "2026-10-15T12:32:26+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els buscadors de mel",
-        "description": "Avui toca sortir d'aventura a descobrir quin és l'animal més dur i més ferotge de l'Àfrica. Però a punt d'emprendre el viatge, el detector de dolents d'en Koki ha interceptat un missatge del Gormand, el xef il·legal d'espècies amenaçades. Canvi de plans! Comença l'operació 'Salvem l'animal misteriós dels fogons'! Els hi acompanyes?!",
+        "start": "2026-10-15T16:48:52+02:00",
+        "stop": "2026-10-15T16:59:55+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Verdura i hortalisses",
+        "description": "Pastanaga, enciam, patata... les verdures i les hortalisses tenen noms molt divertits.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-15T11:17:52+02:00",
-        "stop": "2026-10-15T11:57:35+02:00",
-        "title": "Tot el temps del món",
-        "subtitle": "Pilarín Bayés",
-        "description": "La Pilarín Bayés arriba als 80 anys amb un altre motiu de gran celebració: el seu llibre número 1.000. La Galera, l'editorial amb qui va publicar el primer, li va proposar que fes un llibre especial per commemorar-ho, que és '1.000 motius per viure'. La visitem a casa seva per parlar-ne. A la conversa hi apareixen els seus inicis, l'estil, la importància del dibuix per a ella, la família... fins i tot unes Creus de Sant Jordi que, de tant en tant, es perden!1.000 MOTIUS PER VIUREPilarín BayésEd. La GaleraLA TRIA DEL PROGRAMA 3EFENDIElisabet RieraEd. Males HerbesFULGORLluís CalvoEd. Llibres del SegleLA VIDA AUTÈNTICAMontse BarderiEd. Column",
-        "genre": "ENTREVISTES",
+        "start": "2026-10-15T16:02:58+02:00",
+        "stop": "2026-10-15T17:12:13+02:00",
+        "title": "Còmics",
+        "subtitle": "Mary Santpere",
+        "description": "Una gran artista (en tots els sentits) que va triomfar als escenaris i al cinema traient partit del seu físic, tan enorme com el seu talent per connectar amb el públic d'una manera natural, propera i entranyable. Al programa tornarà un personatge que fa 22 anys que no apareixia a TV3, i una personalitat molt coneguda relacionada amb l'actualitat i la informació recrearà un número musical de la Mary",
+        "genre": "GAGS. HUMOR",
         "image": ""
       },
       {
-        "start": "2026-10-15T11:57:35+02:00",
-        "stop": "2026-10-15T12:04:18+02:00",
-        "title": "Cuines",
-        "subtitle": "Milfulls de xocolata blanca amb lima i iogurt",
-        "description": "Cuina d'aficionat .-Cuiner Adam RocaDificultat: altaTemps d'elaboració: Producte principal: xocolata blancaTemporada: tot l'any",
+        "start": "2026-10-15T17:12:13+02:00",
+        "stop": "2026-10-15T18:03:08+02:00",
+        "title": "No pot ser!",
+        "subtitle": "La jugada perfecta",
+        "description": "En aquest capítol Jordi Basté entra a la cuina del Barça i del Manchester City. Perquè el futbol d'elit no és aliè a la innovació tecnològica. A la seu del Manchester City Basté descobreix la tecnologia que es fa servir per optimitzar el rendiment dels futbolistes. I en aquesta visita a terres angleses, es retrobarà amb un vell conegut de l'afició catalana: Pep Guardiola. Allí també es vestirà de curt per provar la tecnologia esportiva. I descobrirem la sala de crioteràpia, on els futbolistes estan uns quants minuts a més de 130 graus sota zero per recuperar-se ràpidament de les microlesions musculars. A Barcelona veurem com el primer equip de futbol femení del Barça també es troba a l'avantguarda de la tecnologia. Ens ho explicaran tres de les seves estrelles i ho comentarem amb Ernesto Valverde. Basté es troba amb Álvaro Carmona, CEO de Driblab, una empresa que se submergeix en l'estadística avançada i analitza el 'big data' d'una enorme base de jugadors per trobar el nou Leo Messi. Per acabar, descobrirem el projecte Soccer Dream, amb el seu creador, Andreu Bartolí, una plataforma perquè els més petits entrenin a futbol en un entorn de realitat virtual. ",
         "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
