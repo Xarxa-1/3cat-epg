@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-16T13:57:56.936722+00:00",
+  "updated": "2026-10-16T17:51:03.449406+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-16T15:56:53+02:00",
-        "stop": "2026-10-16T16:04:47+02:00",
-        "title": "Cuines",
-        "subtitle": "Curri de llagostins",
-        "description": "Els llagostins són apreciats arreu del món. Per això, de la mateixa manera que quan nosaltres fem un plat de llagostins per celebrar un diumenge, m'imagino que a l'Àsia també tenen la seva recepta. Fem festa exòtica perquè fem un curri de llagostins.  ",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-10-16T19:13:18+02:00",
+        "stop": "2026-10-16T20:13:14+02:00",
+        "title": "Atrapa'm si pots",
+        "subtitle": "",
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
+        "image": ""
       },
       {
-        "start": "2026-10-16T16:04:47+02:00",
-        "stop": "2026-10-16T16:41:03+02:00",
-        "title": "Com si fos ahir",
+        "start": "2026-10-16T20:13:14+02:00",
+        "stop": "2026-10-16T21:00:00+02:00",
+        "title": "Està passant",
         "subtitle": "",
-        "description": "Ni tan sols el resultat de la prova d'ADN aconsegueix acostar la Marta i en Litus. Quan en Marcel ja té un peu a Nàpols, l'Agustí es queda sense temps per continuar callant. La Gemma amaga a la Cristina que en Fede viu amb ella, però a casa hi ha un altre secret que no para de sonar.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "description": "'Està passant' és un programa d'humor que analitza les claus de l'actualitat cada dia, durant 45 minuts, en la franja anterior al 'Telenotícies vespre'.El programa, presentat per Òscar Andreu, Jair Domínguez, Natza Farré, Queco Novell i Núria Marín, ens apropa als principals temes del dia, amb especial atenció a l'actualitat política i al seguiment dels mitjans de comunicació i les xarxes socials. Tot plegat, sense renunciar a la sàtira que caracteritza la trajectòria de l'equip de Minoria Absoluta.",
+        "genre": "GAGS. HUMOR",
+        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
       }
     ],
     "324": [
       {
-        "start": "2026-10-16T15:30:00+02:00",
-        "stop": "2026-10-16T16:00:00+02:00",
-        "title": "3CatInfo en aranès",
+        "start": "2026-10-16T18:30:00+02:00",
+        "stop": "2026-10-16T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-16T16:00:00+02:00",
-        "stop": "2026-10-16T17:00:00+02:00",
+        "start": "2026-10-16T20:00:00+02:00",
+        "stop": "2026-10-16T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,67 +83,77 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-16T15:36:20+02:00",
-        "stop": "2026-10-16T16:08:33+02:00",
-        "title": "GR Pirineus",
-        "subtitle": "Pura energia",
-        "description": "Avui el nostre viatge transcorrerà pel Pallars Jussà, des de la Vall Fosca fins a Tremp!Començarem a la capçalera de la Vall, a l'estany de Sallente, on primer pujarem amb el telefèric per visitar l'estany Gento i després baixarem a l'interior de la Terra per descobrir la central hidroelèctrica més gran de Catalunya. A partir d'aquí creuarem la Vall per anar fins al seu límit, Senterada, on tastarem la girella, l'embotit típic del Pallars i hi farem nit.L'endemà matinarem per visitar la Pobla de Segur i Salàs, el poble de les botigues. Passarem per Talarn, on ens endinsarem de ple en el món del vi, i acabarem la ruta a la capital, Tremp.En total, uns 50 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb telefèric... ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "start": "2026-10-16T18:59:56+02:00",
+        "stop": "2026-10-16T20:25:01+02:00",
+        "title": "Tot Costa",
+        "subtitle": "El Betis, rival de nivell a la Lliga",
+        "description": "El Barça juga aquest dissabte contra el Betis. Amb Raphinha i De Jong? Ens ho explicarà Ramon Salmurri i ho analitzarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. També entrevistarem Ángel Cuéllar, exjugador de tots dos equips, i amb Laia Tudel sabrem què ha dit l'agent de Nico Williams sobre el seu no fitxatge pel Barça. La 'caçatalents' Andrea Orts ens parlarà dels davanters de moda i també parlarem del Madrid. Escalfant l'ambient per al clàssic?",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       },
       {
-        "start": "2026-10-16T16:08:33+02:00",
-        "stop": "2026-10-16T17:13:22+02:00",
-        "title": "Viatjar a Mart. Salvar la Terra",
-        "subtitle": "Viatjar a Mart. Salvar la Terra",
-        "description": "Tres missions internacionals no tripulades són a Mart. Aquesta dècada hi podria arribar el primer ésser humà. Científics d'arreu del món treballen per fer realitat el somni d'arribar al planeta vermell i establir-hi una petita colònia humana. Qui podrà viatjar a Mart? Serà molt car? Seran autosuficients els marcians? L'objectiu no és que Mart sigui un pla B per substituir una Terra desolada pel canvi climàtic, sinó fer compatibles els esforços tecnològics i econòmics necessaris per explorar aquest planeta i salvar la Terra.",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.3cat.cat/multimedia//jpg/2/5/1623752144652.jpg"
+        "start": "2026-10-16T20:25:01+02:00",
+        "stop": "2026-10-16T21:16:22+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Bàsquet Girona-Barça Atlètic / Lliga U / J4",
+        "description": "Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-16T15:54:01+02:00",
-        "stop": "2026-10-16T16:00:31+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Lèmmings rugents",
-        "description": "En Grizzy persegueix els Lèmmings, que s'han endut un pot de crema de xocolata amb el seu cotxe teledirigit. Quan arriben a una benzinera, l'os aconsegueix destruir-los el vehicle i recuperar la xocolata. Els Lèmmings troben uns cotxes de joguina i empaiten en Grizzy fins a la cabana. El tiren a terra i li treuen el pot que tant desitgen. Desesperat, l'os els segueix, fins que veuen un camió cisterna ple de crema de xocolata...",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-16T19:48:56+02:00",
+        "stop": "2026-10-16T20:18:16+02:00",
+        "title": "Fang",
+        "subtitle": "Poble o ciutat?",
+        "description": "Escoles de ciutat i de poble es veuen les cares en un capítol emocionant fins al final.Els concursants lluitaran en un combat d'esgrima molt especial. En Jan dels Beta i en Miki Núñez ens explicaran el significat de paraules que potser no has sentit mai, com «eixavuirar» o «taifa». I, com sempre, tindrem relliscades, empastifades i molt, molt català. ",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-10-16T16:00:31+02:00",
-        "stop": "2026-10-16T16:07:01+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Músculs exprés",
-        "description": "L'ossa de qui en Grizzy està enamorat ha perdut la seva flor preferida, que ha anat a parar sota una roca gegant. En Grizzy prova d'aixecar-la, però pesa massa. De seguida decideix començar una rutina de culturisme intensiva amb l'aparell de gimnàstica passiva del guardabosc. El problema és que els lèmmings ja l'estan fen servir amb un caribú per muntar-se el seu 'rodeo' particular. Fins que, accidentalment, un curtcircuit incrementa l'eficàcia de l'electroestimulació. ",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-16T20:18:16+02:00",
+        "stop": "2026-10-16T20:38:59+02:00",
+        "title": "Henry Danger",
+        "subtitle": "Bonavista Té Talent",
+        "description": "Quan diversos participants d'un popular concurs de talents comencen a desmaiar-se misteriosament, en Henry i el Capità Man investiguen què s'amaga darrere l'espectacle.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-16T15:41:42+02:00",
-        "stop": "2026-10-16T16:49:07+02:00",
-        "title": "Còmics",
-        "subtitle": "Gila",
-        "description": "'¿Está el enemigo? Que se ponga...' és potser la seva frase més coneguda. Nascut a Madrid però fet artísticament a Barcelona, va viure l'exili i va triomfar amb els seus monòlegs absurds que contenien càrregues de profunditat molt àcides que contrastaven amb el seu posat aparentment càndid. Un dels millors actors de Catalunya versiona per al programa, i en català, fragments dels seus monòlegs",
-        "genre": "GAGS. HUMOR",
-        "image": ""
+        "start": "2026-10-16T19:06:12+02:00",
+        "stop": "2026-10-16T19:58:22+02:00",
+        "title": "És a l'aire",
+        "subtitle": "És a l'aire",
+        "description": "'ÉS A L'AIRE' (2019), una producció de Un Capricho de Producciones, S.L. en coproducció amb Televisió de Catalunya, amb el suport de Col·lectiu Ronda, l'Ajuntament del Morell i l'Ajuntament de Vilallonga del Camp.Segons l'Agència Europea del Medi Ambient, el principal focus contaminant de l'aire que respirem no és el trànsit, sinó la indústria. Al centre del Camp de Tarragona, s'hi aixeca el Complex Petroquímic de Tarragona. L'any 2012, un equip de la Universitat Politècnica de Catalunya, dirigit per Francesc Xavier Roca, va fer un estudi independent sobre la qualitat de l'aire del territori. Els resultats indicaven la presència de nivells molt alts de diferents tipus de gasos tòxics que poden arribar a provocar càncer. L'any 2015, un altre estudi d'aquest equip confirmava la presència a l'aire de substàncies malignes per a la salut. A finals de 2018, aquests científics emprenen un nou estudi sobre la contaminació atmosfèrica en aquest territori.Equip tècnicDirecció i realització: Christophe Sion / Santi SuárezGuió: Santi SuárezProductor: Belén Sánchez i Santi SuárezProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Daniel BareaDirector fotografia: Christophe DesplanquesMuntatge: Carlos Prieto i Anaïs UrracaDirector de producció: Agnès BatlloriMúsica: David Pastor i Mario RoldánLingüista: Judit TerratsGrafisme: Adriana Perón i Kote BerberechoVeu en off: Núria Deulofeu",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/5/1732015987253.jpg"
       },
       {
-        "start": "2026-10-16T16:49:07+02:00",
-        "stop": "2026-10-16T17:37:15+02:00",
-        "title": "No pot ser!",
-        "subtitle": "Robot busca feina",
-        "description": "Els robots ens trauran llocs de treball? Jordi Basté viatjarà al Japó, per entendre la seva relació amb les màquines i aprendre com afectarà la nostra quotidianitat. Passarà una nit en un Hen na Hotel, un hotel japonès on no hi ha treballadors humans, només robots, i conversarà sobre les motivacions i l'experiència amb el seu director. El músic Alfred Garcia s'enfrontarà al futur del seu àmbit professional a través de la trobada cara a cara a la Universitat de Màlaga amb I'AMUS, un ordinador capaç de compondre, arranjar i interpretar peces musicals. A Catalunya, Basté va a la Seat, on descobreix com han incorporat la robòtica incrementant la seva producció i precisió sense disminuir l'ocupació. A més, es col·locarà un exoesquelet per comprovar com és treballar amb l'ajuda d'una màquina.Al Poblenou visita una de les empreses més importants de robòtica del món, PAL Robotics, on li explicaran quin és el paper català en el desenvolupament de la robòtica i, també, interactuarà amb algunes creacions.Per acabar, Jordi Basté posarà a prova la seva força mental amb un exercici poc comú: intentarà moure un dron amb només la força del seu pensament: el futur telepàtic del control de les màquines.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-10-16T19:58:22+02:00",
+        "stop": "2026-10-16T20:09:23+02:00",
+        "title": "Gran!",
+        "subtitle": "Sau: 'Quina nit'",
+        "description": "El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band). ",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
       }
     ],
     "oca1": [],
     "oca2": [],
-    "oca3": [],
+    "oca3": [
+      {
+        "start": "2026-10-16T19:00:00+02:00",
+        "stop": "2026-10-16T20:24:55+02:00",
+        "title": "Tot Costa",
+        "subtitle": "",
+        "description": "El Barça juga aquest dissabte contra el Betis. Amb Raphinha i De Jong? Ens ho explicarà Ramon Salmurri i ho analitzarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. També entrevistarem Ángel Cuéllar, exjugador de tots dos equips, i amb Laia Tudel sabrem què ha dit l'agent de Nico Williams sobre el seu no fitxatge pel Barça. La 'caçatalents' Andrea Orts ens parlarà dels davanters de moda i també parlarem del Madrid. Escalfant l'ambient per al clàssic?",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+      }
+    ],
     "oca4": []
   }
 }
