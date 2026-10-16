@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-16T09:12:38.877461+00:00",
+  "updated": "2026-10-16T13:57:56.936722+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-16T10:30:08+02:00",
-        "stop": "2026-10-16T13:55:00+02:00",
-        "title": "Tot es mou",
-        "subtitle": "",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
-        "genre": "MAGAZINE",
-        "image": ""
+        "start": "2026-10-16T15:56:53+02:00",
+        "stop": "2026-10-16T16:04:47+02:00",
+        "title": "Cuines",
+        "subtitle": "Curri de llagostins",
+        "description": "Els llagostins són apreciats arreu del món. Per això, de la mateixa manera que quan nosaltres fem un plat de llagostins per celebrar un diumenge, m'imagino que a l'Àsia també tenen la seva recepta. Fem festa exòtica perquè fem un curri de llagostins.  ",
+        "genre": "CUINA",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
       },
       {
-        "start": "2026-10-16T13:55:00+02:00",
-        "stop": "2026-10-16T14:30:00+02:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-10-16T16:04:47+02:00",
+        "stop": "2026-10-16T16:41:03+02:00",
+        "title": "Com si fos ahir",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "description": "Ni tan sols el resultat de la prova d'ADN aconsegueix acostar la Marta i en Litus. Quan en Marcel ja té un peu a Nàpols, l'Agustí es queda sense temps per continuar callant. La Gemma amaga a la Cristina que en Fede viu amb ella, però a casa hi ha un altre secret que no para de sonar.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-16T10:30:00+02:00",
-        "stop": "2026-10-16T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-16T15:30:00+02:00",
+        "stop": "2026-10-16T16:00:00+02:00",
+        "title": "3CatInfo en aranès",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"
       },
       {
-        "start": "2026-10-16T12:00:00+02:00",
-        "stop": "2026-10-16T13:55:00+02:00",
+        "start": "2026-10-16T16:00:00+02:00",
+        "stop": "2026-10-16T17:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-16T10:56:32+02:00",
-        "stop": "2026-10-16T11:23:39+02:00",
-        "title": "GR Barcelona",
-        "subtitle": "Una finestra al mar",
-        "description": "'La façana litoral ha contribuït a fer que Barcelona sigui tal com la coneixem ara: una metròpoli enèrgica, vitalista i molt convençuda de les seves possibilitats.'Mar i Barcelona, són paraules absolutament complementàries. En aquest capítol es recorreran els gairebé 14 km de costa que té la ciutat des del Fòrum fins a la muntanya de Montjuïc descobrint el paddle surf, cuinant la típica bomba de la Barceloneta, passejant pel Port Vell, per dins d'un creuer i per les Drassanes; aprenent com es comanda un vaixell de 7 veles com és el pailebot 'Santa Eulàlia', un veler mercant de principis de segle XX, i fent una ruta per algunes de lesespectaculars obres modernistes que trobem al cementiri de Montjuïc.",
+        "start": "2026-10-16T15:36:20+02:00",
+        "stop": "2026-10-16T16:08:33+02:00",
+        "title": "GR Pirineus",
+        "subtitle": "Pura energia",
+        "description": "Avui el nostre viatge transcorrerà pel Pallars Jussà, des de la Vall Fosca fins a Tremp!Començarem a la capçalera de la Vall, a l'estany de Sallente, on primer pujarem amb el telefèric per visitar l'estany Gento i després baixarem a l'interior de la Terra per descobrir la central hidroelèctrica més gran de Catalunya. A partir d'aquí creuarem la Vall per anar fins al seu límit, Senterada, on tastarem la girella, l'embotit típic del Pallars i hi farem nit.L'endemà matinarem per visitar la Pobla de Segur i Salàs, el poble de les botigues. Passarem per Talarn, on ens endinsarem de ple en el món del vi, i acabarem la ruta a la capital, Tremp.En total, uns 50 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb telefèric... ",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
       },
       {
-        "start": "2026-10-16T11:23:39+02:00",
-        "stop": "2026-10-16T11:29:25+02:00",
-        "title": "Xarxa Natura",
-        "subtitle": "Catllaràs",
-        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
+        "start": "2026-10-16T16:08:33+02:00",
+        "stop": "2026-10-16T17:13:22+02:00",
+        "title": "Viatjar a Mart. Salvar la Terra",
+        "subtitle": "Viatjar a Mart. Salvar la Terra",
+        "description": "Tres missions internacionals no tripulades són a Mart. Aquesta dècada hi podria arribar el primer ésser humà. Científics d'arreu del món treballen per fer realitat el somni d'arribar al planeta vermell i establir-hi una petita colònia humana. Qui podrà viatjar a Mart? Serà molt car? Seran autosuficients els marcians? L'objectiu no és que Mart sigui un pla B per substituir una Terra desolada pel canvi climàtic, sinó fer compatibles els esforços tecnològics i econòmics necessaris per explorar aquest planeta i salvar la Terra.",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.3cat.cat/multimedia//jpg/2/5/1623752144652.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-16T11:03:39+02:00",
-        "stop": "2026-10-16T11:15:10+02:00",
-        "title": "Les Sisters",
-        "subtitle": "He sigut jo!",
-        "description": "La Wendy, la castiguen per una cosa que ha fet la Marine. I quan la petita vol dir la veritat per tornar a ser amiga de la seva germana, els pares no se la creuen. Llavors intenta que la castiguin per coses que no ha fet, però al final n'acaba fent una de grossa.",
+        "start": "2026-10-16T15:54:01+02:00",
+        "stop": "2026-10-16T16:00:31+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Lèmmings rugents",
+        "description": "En Grizzy persegueix els Lèmmings, que s'han endut un pot de crema de xocolata amb el seu cotxe teledirigit. Quan arriben a una benzinera, l'os aconsegueix destruir-los el vehicle i recuperar la xocolata. Els Lèmmings troben uns cotxes de joguina i empaiten en Grizzy fins a la cabana. El tiren a terra i li treuen el pot que tant desitgen. Desesperat, l'os els segueix, fins que veuen un camió cisterna ple de crema de xocolata...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-16T11:15:10+02:00",
-        "stop": "2026-10-16T11:26:40+02:00",
-        "title": "Les Sisters",
-        "subtitle": "El concurs Piu Piu",
-        "description": "Avui a Pommes les Bains fan un concurs del Piu Piu. Per participar-hi la Marine s'ha d'inventar una coreografia per l'últim tema del Piu Piu. La Wendy li proposa una pila d'idees, però la Marine les troba ridícules i la Wendy, ofesa, decideix participar també al concurs. Queda declarada la guerra de coreografies. Que guanyi la millor ballarina!",
+        "start": "2026-10-16T16:00:31+02:00",
+        "stop": "2026-10-16T16:07:01+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Músculs exprés",
+        "description": "L'ossa de qui en Grizzy està enamorat ha perdut la seva flor preferida, que ha anat a parar sota una roca gegant. En Grizzy prova d'aixecar-la, però pesa massa. De seguida decideix començar una rutina de culturisme intensiva amb l'aparell de gimnàstica passiva del guardabosc. El problema és que els lèmmings ja l'estan fen servir amb un caribú per muntar-se el seu 'rodeo' particular. Fins que, accidentalment, un curtcircuit incrementa l'eficàcia de l'electroestimulació. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-16T10:35:41+02:00",
-        "stop": "2026-10-16T11:16:29+02:00",
-        "title": "Tot el temps del món",
-        "subtitle": "Miquel Desclot",
-        "description": "Al Miquel Desclot no li agradaria que diguéssim d'ell que és poeta, escriptor i traductor, perquè considera que un traductor sempre és un escriptor. Aquest és un dels temes que abordem en aquesta conversa sobre traduir teatre i poesia. Som al Teatre Lliure, i comencem per Molière. N'acaba de traduir vuit peces, i ens explica que el vam conèixer abans que Shakespeare, però que ara sembla que el tenim una mica oblidat. Seguim amb poesia, amb les versions que ha fet de poetes anglesos i de Wilhelm Müller, que el porten a parlar de la seva manera d'escriure. En definitiva, parlem de literatura i del que, ens diu Desclot, busca: l'emoció. LA BELLA DAMA SENSE PIETATINTERPRETACIONS POÈTIQUES DE L'ANGLÈSMiquel DesclotEd. Vitel·laEL VIATGE D'HIVERNWilhelm MüllerVersió de Miquel DesclotEd. FictaSET COMÈDIES I UN BALLETMolièreTrad. Miquel DesclotEd. ProaLA TRIA DEL PROGRAMA 4FAULESJean de La FontaineTrad. Jordi VintróEd. AnimallibresPÚDING DE NADALNancy MitfordTrad. Núria ParésEd. UniversEL GRAN GATSBYF. Scott FitzgeraldTrad. Ferran Ràfols GesaEd. Labreu",
-        "genre": "ENTREVISTES",
+        "start": "2026-10-16T15:41:42+02:00",
+        "stop": "2026-10-16T16:49:07+02:00",
+        "title": "Còmics",
+        "subtitle": "Gila",
+        "description": "'¿Está el enemigo? Que se ponga...' és potser la seva frase més coneguda. Nascut a Madrid però fet artísticament a Barcelona, va viure l'exili i va triomfar amb els seus monòlegs absurds que contenien càrregues de profunditat molt àcides que contrastaven amb el seu posat aparentment càndid. Un dels millors actors de Catalunya versiona per al programa, i en català, fragments dels seus monòlegs",
+        "genre": "GAGS. HUMOR",
         "image": ""
       },
       {
-        "start": "2026-10-16T11:16:29+02:00",
-        "stop": "2026-10-16T11:56:05+02:00",
-        "title": "Tot el temps del món",
-        "subtitle": "Eva Baltasar",
-        "description": "Vam descobrir Eva Baltasar amb 'Permagel', la seva primera novel·la, que es va convertir en un tríptic: després, va arribar 'Boulder', i per fi tenim a les mans el volum que el tanca, 'Mamut'. Hi tornem a trobar una protagonista forta, que no acaba d'encaixar on és, i que té la pulsió de donar vida. Marxarà de la ciutat al camp, s'instal·larà en una casa que només cobreix les necessitats més bàsiques, i pràcticament només es relacionarà amb un pastor veí. Eva Baltasar ens parla d'aquesta protagonista misantropa i de moltes altres coses: de com escriu, de què significa tancar el tríptic, de la importància de la poesia en la seva escriptura... De fet, també comentem 'Nus Schiele', una edició molt limitada que ha publicat de poemes inspirats en els cossos de dones del pintor Egon Schiele. Podrien ser, ben bé, els de les protagonistes de les seves novel·les: com si es fessin carn. NUS SCHIELEEva BaltasarEd. Club EditorMAMUT Eva BaltasarTrad. Nicole d'Amonville AlegríaEd. Club Editor/Literatura Random HouseLA TRIA DEL PROGRAMA 4SOLITUDVíctor CatalàEdicions 62L'ACCIDENT DE CAÇADavid L. Carlson i Landis BlairTrad. Carlos Mayor/Víctor Manuel García de IsusiEd. Finestres/PlanetaEL NÚVOLJoao Fazenda i Rita CanasEd. La Topera",
-        "genre": "ENTREVISTES",
+        "start": "2026-10-16T16:49:07+02:00",
+        "stop": "2026-10-16T17:37:15+02:00",
+        "title": "No pot ser!",
+        "subtitle": "Robot busca feina",
+        "description": "Els robots ens trauran llocs de treball? Jordi Basté viatjarà al Japó, per entendre la seva relació amb les màquines i aprendre com afectarà la nostra quotidianitat. Passarà una nit en un Hen na Hotel, un hotel japonès on no hi ha treballadors humans, només robots, i conversarà sobre les motivacions i l'experiència amb el seu director. El músic Alfred Garcia s'enfrontarà al futur del seu àmbit professional a través de la trobada cara a cara a la Universitat de Màlaga amb I'AMUS, un ordinador capaç de compondre, arranjar i interpretar peces musicals. A Catalunya, Basté va a la Seat, on descobreix com han incorporat la robòtica incrementant la seva producció i precisió sense disminuir l'ocupació. A més, es col·locarà un exoesquelet per comprovar com és treballar amb l'ajuda d'una màquina.Al Poblenou visita una de les empreses més importants de robòtica del món, PAL Robotics, on li explicaran quin és el paper català en el desenvolupament de la robòtica i, també, interactuarà amb algunes creacions.Per acabar, Jordi Basté posarà a prova la seva força mental amb un exercici poc comú: intentarà moure un dron amb només la força del seu pensament: el futur telepàtic del control de les màquines.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
