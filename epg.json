@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-15T21:54:11.982610+00:00",
+  "updated": "2026-10-16T00:01:14.560143+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-15T23:37:13+02:00",
-        "stop": "2026-10-16T00:24:32+02:00",
-        "title": "Nervi",
-        "subtitle": "Encara que sigui mentida",
-        "description": "No us cregueu res d'aquest 'Nervi'. Sembla que mentim més que mai, però com sobrevivim sense fingir, sense inventar? En parlem amb la filòsofa Sira Abenoza, directora del Festival Clàssics; amb el dramaturg i director Jordi Oriol, i amb un expert caçador de farsants, el periodista Carles Tamayo. Que la mentida i les màscares a internet no sempre són de covards, ens explica el realitzador Albert Lloreta en un assaig visual, i descobrim amb Jana Jubert que encara no s'ha dit tot sobre 'La bola negra'. Fem safareig cultural amb Oriol Puig Taulé i Emma Zafón, i acabem amb el directe d'un mestre de la disfressa i l'autoparòdia, el cantautor Irieix.",
-        "genre": "ALTRES",
-        "image": ""
-      },
-      {
-        "start": "2026-10-16T00:24:32+02:00",
-        "stop": "2026-10-16T04:26:23+02:00",
+        "start": "2026-10-16T00:24:33+02:00",
+        "stop": "2026-10-16T02:08:08+02:00",
         "title": "Mésnit",
         "subtitle": "",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
         "genre": "DEBAT",
         "image": ""
+      },
+      {
+        "start": "2026-10-16T02:08:08+02:00",
+        "stop": "2026-10-16T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-15T22:05:00+02:00",
-        "stop": "2026-10-16T00:00:00+02:00",
-        "title": "Mésnit",
+        "start": "2026-10-16T01:00:00+02:00",
+        "stop": "2026-10-16T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-16T00:00:00+02:00",
-        "stop": "2026-10-16T00:30:00+02:00",
+        "start": "2026-10-16T06:00:00+02:00",
+        "stop": "2026-10-16T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-15T23:00:00+02:00",
-        "stop": "2026-10-16T00:30:58+02:00",
+        "start": "2026-10-16T00:48:38+02:00",
+        "stop": "2026-10-16T02:19:15+02:00",
         "title": "Onze",
         "subtitle": "El gat amagat de Mou; 'El predicador' i 'El consultori'",
         "description": "David Bernabeu, Víctor Lozano, Aina Cerdà i Jordi Costa comenten la metàfora felina de Mourinho a la sala de premsa de la Roma. L'Òscar Pérez-Dolz predica els manaments del bon culer. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-10-16T00:30:58+02:00",
-        "stop": "2026-10-16T00:51:41+02:00",
+        "start": "2026-10-16T02:19:15+02:00",
+        "stop": "2026-10-16T02:37:19+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,41 +103,41 @@
     ],
     "sx3": [
       {
-        "start": "2026-10-15T23:46:34+02:00",
-        "stop": "2026-10-16T00:06:44+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Taques al desert",
-        "description": "El Chris està enfeinat organitzant els discos de poder animal, quan reben una trucada del Manuel, un dels membres de l'equip dels germans Kratt que viu al desert de Sonora. Diu que ha vist un ocelot vora casa seva. Un ocelot al desert? És molt estrany, ja que aquests felins salvatges acostumen a viure a la selva. L'equip dels germans Kratt es proposa una nova missió animal: trobar un ocelot al desert.",
+        "start": "2026-10-16T01:42:11+02:00",
+        "stop": "2026-10-16T02:01:20+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "El germà gran al rescat!",
+        "description": "L'Ash i el Goh són al Parc Cirerer cuidant els Pokémon que hi viuen. També hi ha la Chloe fent fotos als Pokémon, i el Yamper amunt i avall ajudant a tothom. Llavors troben dos grups de Pokémon que es barallen perquè, com que l'aigua és bruta, hi ha un grup que se n'ha anat del seu lloc. Amb l'ajuda del Yamper, els nostres amics descobreixen la causa de la contaminació: un Grimer i el seu niu sota una cascada. ¿Com solucionaran el problema?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-16T00:06:44+02:00",
-        "stop": "2026-10-16T00:26:53+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El cérvol tossudet",
-        "description": "L'equip dels germans Kratt busca el Tossudet, un cervató que van ajudar fa uns anys, per veure com li van les coses. En la seva missió aprenen un munt de coses sobre la societat dels cérvols i la utilitat essencial de les banyes. I l'Aviva acaba fent dos discos de poder de cérvol de Virgínia.",
+        "start": "2026-10-16T02:01:20+02:00",
+        "stop": "2026-10-16T02:21:17+02:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Atrapant l'aura del destí!",
+        "description": "L'Ash s'entrena amb totes les seves forces pel combat d'entrada als vuit mestres que aviat haurà de fer contra el Roy. Quan veu que el Froakie evoluciona a Frogadier se li acut una idea. S'adona que la seva amistat amb el Lucario s'assembla al lligam que té amb el Greninja i se'n va a Kalos amb el Goh. Allà, troben el Greninja, que en el combat li dona cent voltes al Lucario. Però al final, el Lucario aprèn a concentrar els seus poders aurals i a connectar-se amb l'Ash a un nivell més pròxim. Quan unes arrels gegants ataquen els nostres amics, els Pokémon han de demostrar els seus punts forts.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-15T23:33:20+02:00",
-        "stop": "2026-10-16T00:21:40+02:00",
-        "title": "Savis i sàvies",
-        "subtitle": "Carme Elias",
-        "description": "Va néixer a Barcelona, al barri del Camp de l'Arpa. Podria haver estat fornera o dependenta d'una merceria, però va decidir ser actriu. Amb més de quatre dècades de carrera, ha treballat amb els millors directors de l'Estat. Té un Goya i un Gaudí, el reconeixement del públic i la professió, i una de les mirades més lluminoses del nostre cinema. L'any 2022 li diagnostiquen Alzheimer i l'afronta com ha afrontat tots els reptes de la seva vida: amb valentia i humor. ",
-        "genre": "ENTREVISTES",
+        "start": "2026-10-16T01:48:52+02:00",
+        "stop": "2026-10-16T02:25:00+02:00",
+        "title": "Diaris fotogràfics",
+        "subtitle": "Rita Puig-Serra",
+        "description": "Sinopsis capítol 4: Rita Puig-Serra",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-10-16T00:21:40+02:00",
-        "stop": "2026-10-16T01:14:17+02:00",
-        "title": "Dibuixar pel canvi",
-        "subtitle": "Mèxic. Som foc",
-        "description": "A Mèxic, una desena de dones moren assassinades cada dia, i en els darrers sis anys s'ha triplicat el nombre de dones i nenes desaparegudes. Artistes com Mar Maremoto intenten trencar el silenci que ha minimitzat durant massa temps l'abast de la violència de gènere en aquest país. Compartint les seves obres d'art al seu compte d'Instagram, ofereix un espai segur per al seu públic i fins i tot es relaciona amb víctimes reals per conèixer a fons les seves experiències i proporcionar-los eines per afrontar-les i mecanismes d'autodefensa. A més a més, la pel·lícula intenta indagar els motius que s'amaguen rere aquest índex de feminicidis tan elevat i explorar vies per aconseguir un canvi real i acabar amb la impunitat dels agressors.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-16T02:25:00+02:00",
+        "stop": "2026-10-16T03:16:25+02:00",
+        "title": "Ale-Hop!",
+        "subtitle": "La ciència del circ",
+        "description": "Quan parlem de circ, quines lleis de la física tracten conceptes com ara la gravetat, el centre de masses, la fricció o l'equilibri? Què té a veure la neurociència amb els espectacles de màgia? I la meteorologia?Totes aquestes preguntes tenen resposta en aquest capítol. Coneixerem la Mariona Moya, la Córcoles, una artista que va més enllà del funambulisme amb les seves improvisacions dalt d'un cable a més de cinc metres de terra.La Martina Covone ens sorprendrà amb el seu desafiament a la gravetat penjant-se de la corda llisa. I els Flying Pikmis ens mostraran un dels seus números, espectaculars, d'una disciplina en perill d'extinció: el trapezi doble. La nostra presentadora, la Laia Fontan, intentarà el seu primer salt al trapezi doble i també es deixarà portar per la màgia del reconegut i premiat Jordi Caps.I com no podia faltar en un programa de circ dedicat a la ciència, la Mariona Esquerda (@LaDimonideMaxwell) ens ajudarà a entendre algunes claus de la física sobre les especialitats circenses.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
