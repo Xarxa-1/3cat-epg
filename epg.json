@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-16T17:51:03.449406+00:00",
+  "updated": "2026-10-16T20:25:17.224823+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-16T19:13:18+02:00",
-        "stop": "2026-10-16T20:13:14+02:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "start": "2026-10-16T22:03:49+02:00",
+        "stop": "2026-10-16T22:28:22+02:00",
+        "title": "Després de tu",
+        "subtitle": "La motxilla",
+        "description": "L'Alba practica sèxting amb un noi més gran i en Pau ho descobreix. La seva gestió d'aquest assumpte fa que l'Helena s'adoni d'una cosa que potser ja intuïa: la motxilla del passat que en Pau arrossega. ",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-10-16T20:13:14+02:00",
-        "stop": "2026-10-16T21:00:00+02:00",
-        "title": "Està passant",
-        "subtitle": "",
-        "description": "'Està passant' és un programa d'humor que analitza les claus de l'actualitat cada dia, durant 45 minuts, en la franja anterior al 'Telenotícies vespre'.El programa, presentat per Òscar Andreu, Jair Domínguez, Natza Farré, Queco Novell i Núria Marín, ens apropa als principals temes del dia, amb especial atenció a l'actualitat política i al seguiment dels mitjans de comunicació i les xarxes socials. Tot plegat, sense renunciar a la sàtira que caracteritza la trajectòria de l'equip de Minoria Absoluta.",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
+        "start": "2026-10-16T22:28:22+02:00",
+        "stop": "2026-10-16T23:45:32+02:00",
+        "title": "La Puntual",
+        "subtitle": "La Puntual: Tot comença",
+        "description": "Comencen els assajos de 'L'auca del senyor Esteve' amb la companyia dirigida per Àngel Llàcer. Viurem l'arribada dels 11 actors a la sala d'assaig on prepararan l'obra, la primera lectura de guió, ens sorprendrem amb la proposta d'escenografia que ha dissenyat l'equip artístic i descobrirem els esbossos del vestuari. També ens visitaran Ivan Labanda i Mireia Portas.",
+        "genre": "VARIETATS",
+        "image": "https://img.ccma.cat/multimedia//jpg/7/8/1721226172787.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-16T18:30:00+02:00",
-        "stop": "2026-10-16T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-16T22:05:00+02:00",
+        "stop": "2026-10-16T23:30:00+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       },
       {
-        "start": "2026-10-16T20:00:00+02:00",
-        "stop": "2026-10-16T21:00:00+02:00",
+        "start": "2026-10-16T23:30:00+02:00",
+        "stop": "2026-10-17T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,77 +83,77 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-16T18:59:56+02:00",
-        "stop": "2026-10-16T20:25:01+02:00",
-        "title": "Tot Costa",
-        "subtitle": "El Betis, rival de nivell a la Lliga",
-        "description": "El Barça juga aquest dissabte contra el Betis. Amb Raphinha i De Jong? Ens ho explicarà Ramon Salmurri i ho analitzarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. També entrevistarem Ángel Cuéllar, exjugador de tots dos equips, i amb Laia Tudel sabrem què ha dit l'agent de Nico Williams sobre el seu no fitxatge pel Barça. La 'caçatalents' Andrea Orts ens parlarà dels davanters de moda i també parlarem del Madrid. Escalfant l'ambient per al clàssic?",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
-      },
-      {
-        "start": "2026-10-16T20:25:01+02:00",
-        "stop": "2026-10-16T21:16:22+02:00",
+        "start": "2026-10-16T21:37:33+02:00",
+        "stop": "2026-10-16T22:28:20+02:00",
         "title": "Bàsquet",
         "subtitle": "Bàsquet Girona-Barça Atlètic / Lliga U / J4",
         "description": "Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
+      },
+      {
+        "start": "2026-10-16T22:28:20+02:00",
+        "stop": "2026-10-16T22:54:57+02:00",
+        "title": "Top gols La Lliga",
+        "subtitle": "Jornada 8",
+        "description": "'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.",
+        "genre": "ESPECIALS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-16T19:48:56+02:00",
-        "stop": "2026-10-16T20:18:16+02:00",
-        "title": "Fang",
-        "subtitle": "Poble o ciutat?",
-        "description": "Escoles de ciutat i de poble es veuen les cares en un capítol emocionant fins al final.Els concursants lluitaran en un combat d'esgrima molt especial. En Jan dels Beta i en Miki Núñez ens explicaran el significat de paraules que potser no has sentit mai, com «eixavuirar» o «taifa». I, com sempre, tindrem relliscades, empastifades i molt, molt català. ",
-        "genre": "ALTRES",
+        "start": "2026-10-16T22:03:49+02:00",
+        "stop": "2026-10-16T22:25:15+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El missatge de socors de l'Eri Kisaki (2a part)",
+        "description": "Tres homes han segrestat l'Eri Kisaki, la mare de la Ran. Ella aconsegueix escapar-se'n i amagar-se a l'edifici on la tenen segrestada, però no en pot sortir. La Ran, en Kogoro i en Conan reben missatges seus pel mòbil i, amb les pistes que els anirà enviant i les habilitats d'en Conan, intentaran localitzar-la abans que sigui massa tard.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-16T20:18:16+02:00",
-        "stop": "2026-10-16T20:38:59+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Bonavista Té Talent",
-        "description": "Quan diversos participants d'un popular concurs de talents comencen a desmaiar-se misteriosament, en Henry i el Capità Man investiguen què s'amaga darrere l'espectacle.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-10-16T22:25:15+02:00",
+        "stop": "2026-10-16T22:44:50+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "Semblances que maten",
+        "description": "En Conan, la Ran i en Kogoro senten per casualitat una discussió entre dos periodistes d'una revista en un restaurant. En Conan observa que un d'ells s'emporta el got de l'altre en marxar. Al cap de poques hores, un dels dos homes apareix mort a la vora del riu després d'haver-se pres un cafè enverinat. La policia aviat descobrirà que tots dos havien elaborat un pla gairebé idèntic per matar l'altre.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-16T19:06:12+02:00",
-        "stop": "2026-10-16T19:58:22+02:00",
-        "title": "És a l'aire",
-        "subtitle": "És a l'aire",
-        "description": "'ÉS A L'AIRE' (2019), una producció de Un Capricho de Producciones, S.L. en coproducció amb Televisió de Catalunya, amb el suport de Col·lectiu Ronda, l'Ajuntament del Morell i l'Ajuntament de Vilallonga del Camp.Segons l'Agència Europea del Medi Ambient, el principal focus contaminant de l'aire que respirem no és el trànsit, sinó la indústria. Al centre del Camp de Tarragona, s'hi aixeca el Complex Petroquímic de Tarragona. L'any 2012, un equip de la Universitat Politècnica de Catalunya, dirigit per Francesc Xavier Roca, va fer un estudi independent sobre la qualitat de l'aire del territori. Els resultats indicaven la presència de nivells molt alts de diferents tipus de gasos tòxics que poden arribar a provocar càncer. L'any 2015, un altre estudi d'aquest equip confirmava la presència a l'aire de substàncies malignes per a la salut. A finals de 2018, aquests científics emprenen un nou estudi sobre la contaminació atmosfèrica en aquest territori.Equip tècnicDirecció i realització: Christophe Sion / Santi SuárezGuió: Santi SuárezProductor: Belén Sánchez i Santi SuárezProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Daniel BareaDirector fotografia: Christophe DesplanquesMuntatge: Carlos Prieto i Anaïs UrracaDirector de producció: Agnès BatlloriMúsica: David Pastor i Mario RoldánLingüista: Judit TerratsGrafisme: Adriana Perón i Kote BerberechoVeu en off: Núria Deulofeu",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/5/1732015987253.jpg"
+        "start": "2026-10-16T21:59:28+02:00",
+        "stop": "2026-10-16T22:51:20+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 7",
+        "description": "Els objectes de la setmana són el despertador, el telescopi i el càntir, claríssimament l'últim és l'únic que té una utilitat real, els altres són invents del Primer Món, innecessaris pel dia a dia de l'home treballador. També ens visita en Victor Ferrer, espeleòleg (només pensar-ho ja ens ve claustrofòbia), en Roger Mas una de les veus de Catalunya, i la Laura de Castellet, divulgadora històrica i experta en instruments medievals!",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-10-16T19:58:22+02:00",
-        "stop": "2026-10-16T20:09:23+02:00",
-        "title": "Gran!",
-        "subtitle": "Sau: 'Quina nit'",
-        "description": "El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band). ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
+        "start": "2026-10-16T22:51:20+02:00",
+        "stop": "2026-10-16T23:38:15+02:00",
+        "title": "País d'altura",
+        "subtitle": "Terres de Lleida",
+        "description": "Ponent és una plana ordenada com un Excel, amb una aigua que ho va capgirar tot, castells, oli, xocolata i un cel amb més estrelles que un hotel de luxe. ",
+        "genre": "",
+        "image": ""
       }
     ],
-    "oca1": [],
-    "oca2": [],
-    "oca3": [
+    "oca1": [
       {
-        "start": "2026-10-16T19:00:00+02:00",
-        "stop": "2026-10-16T20:24:55+02:00",
-        "title": "Tot Costa",
+        "start": "2026-10-16T20:24:55+02:00",
+        "stop": "2026-10-17T05:59:59+02:00",
+        "title": "#SORTIDA#",
         "subtitle": "",
-        "description": "El Barça juga aquest dissabte contra el Betis. Amb Raphinha i De Jong? Ens ho explicarà Ramon Salmurri i ho analitzarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. També entrevistarem Ángel Cuéllar, exjugador de tots dos equips, i amb Laia Tudel sabrem què ha dit l'agent de Nico Williams sobre el seu no fitxatge pel Barça. La 'caçatalents' Andrea Orts ens parlarà dels davanters de moda i també parlarem del Madrid. Escalfant l'ambient per al clàssic?",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       }
     ],
+    "oca2": [],
+    "oca3": [],
     "oca4": []
   }
 }
