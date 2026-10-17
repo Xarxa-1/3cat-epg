@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-17T05:35:06.361683+00:00",
+  "updated": "2026-10-17T09:40:33.396909+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-17T06:01:19+02:00",
-        "stop": "2026-10-17T10:00:01+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-10-17T11:00:01+02:00",
+        "stop": "2026-10-17T12:13:23+02:00",
+        "title": "Soc i Seré",
+        "subtitle": "Un calçot d'autor",
+        "description": "Els 20 aspirants enceten un nou dia amb 10.000 euros més a la butxaca i amb una gran sorpresa: l'arribada de 5 cares familiars que sacsejaran el concurs. Després de la seva reincorporació, es formaran 5 equips de 5 persones, i cada equip portarà el nom d'un bolet present als boscos catalans.Aquest quart capítol demostrarà que Llibre tancat no fa lletrat, perquè els aspirants hauran de guanyar un repte molt complex sobre literatura contemporània si volen aconseguir l'avantatge més important de la història de 'Soc i seré': la immunitat. I, per posar veu a les obres literàries, rebrem la visita d'Àlex Casanovas.Un equip tindrà la continuïtat garantida, mentre que els altres quatre hauran de competir per la salvació en un repte eliminatori anomenat Qui no té un all, té una ceba. El jardí de la Colònia Rusiñol es convertirà en l'escenari d'una calçotada, les salses i les postres que prepararan els aspirants.L'equip amb el millor calçot d'autor s'embutxacarà 10.000 euros més i, habitualment, el pitjor equip quedarà eliminat.",
+        "genre": "CONCURS",
+        "image": ""
       },
       {
-        "start": "2026-10-17T10:00:01+02:00",
-        "stop": "2026-10-17T11:01:05+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-10-17T12:13:23+02:00",
+        "stop": "2026-10-17T13:01:53+02:00",
+        "title": "País d'altura",
+        "subtitle": "Terres de l'Ebre",
+        "description": "Les Terres de l'Ebre són d'un altre planeta: un lloc on la terra s'acaba, el cel sembla més gran i el paisatge juga amb regles pròpies. I el riu, evidentment, fa de mestre de cerimònies.",
+        "genre": "",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-17T07:00:00+02:00",
-        "stop": "2026-10-17T10:00:00+02:00",
+        "start": "2026-10-17T10:00:00+02:00",
+        "stop": "2026-10-17T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-17T10:00:00+02:00",
-        "stop": "2026-10-17T12:00:00+02:00",
+        "start": "2026-10-17T12:00:00+02:00",
+        "stop": "2026-10-17T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-17T06:42:36+02:00",
-        "stop": "2026-10-17T08:17:07+02:00",
+        "start": "2026-10-17T10:19:47+02:00",
+        "stop": "2026-10-17T11:55:00+02:00",
         "title": "Onze",
         "subtitle": "El Tourmalet del Barça; guerra Tebas-Florentino; Delmàs, Fàbregas i Cazorla",
         "description": "Míriam Riau condueix la tertúlia amb Lluís Carrasco, Anaïs Martí, Juli Garcia i Edgar Fornós. Àlex Delmàs ens explica quina pot ser la clau del Betis-Barça. Amb Siro López analitzem l'estat de forma del Madrid i la guerra de Tebas amb Florentino. Joan Fàbregas ens explica si els àrbitres realment perjudiquen el Madrid i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla.",
@@ -92,53 +92,53 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-10-17T08:17:07+02:00",
-        "stop": "2026-10-17T10:07:29+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Bàsquet Girona-Barça Atlètic / Lliga U / J4",
-        "description": "Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.",
+        "start": "2026-10-17T11:55:00+02:00",
+        "stop": "2026-10-17T13:50:01+02:00",
+        "title": "Futbol",
+        "subtitle": "FC Badalona Women-CD Tenerife / Lliga F / J7",
+        "description": "Tots dos equips empaten a la zona mitja de la classificació després de dues victòries, dos empats i dues derrotes.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-17T07:30:40+02:00",
-        "stop": "2026-10-17T07:42:48+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "Visca la llibertat!",
-        "description": "Amb motiu de la visita que els ha de fer la reina del rusc de la Malva Reial, les abelles faran una desfilada i un espectacle acrobàtic. La Maia s'hi presenta voluntària i també hi presenta en Willi, però en Willi ja està tip que la Maia sempre ho decideixi tot per ell i li faci fer coses que ell no vol. Llavors, en Barry li aconsella que faci veure que està lesionat. Però la cosa no és tan fàcil i no acabarà de sortir bé.",
+        "start": "2026-10-17T11:38:03+02:00",
+        "stop": "2026-10-17T12:00:56+02:00",
+        "title": "El carreró del misteri",
+        "subtitle": "L'amenaça oblidada",
+        "description": "El Travis, el fidel tinent de l'inspector McFlaire, va a veure l'Espavilada per explicar-li que està molt preocupat per l'estrany comportament que té el seu cap des que va tornar d'una visita a la presó de Greenside.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-17T07:42:48+02:00",
-        "stop": "2026-10-17T07:53:46+02:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "Fem canelons amb papers de colors",
-        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
+        "start": "2026-10-17T12:00:56+02:00",
+        "stop": "2026-10-17T12:07:50+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Bojos pels crancs",
+        "description": "Els Lèmmings li agafen afecte a un cranc que està en perill a la platja i decideixen protegir-lo d'una gavina que el vol fer servir per obrir cocos. Quan el duen a casa, en Grizzy no està content, perquè ell vol tranquil·litat mentre mira la televisió i menja patates. Els Lèmmings es converteixen en autèntics rescatadors de crancs i la cabana s'omple de crustacis de seguida. En Grizzy decideix utilitzar una gavina per desfer-se dels crancs, però els Lèmmings, disposats a qualsevol cosa per protegir els seus nous amics, mouen la casa a l'aigua, com si fos una barca...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-17T07:28:46+02:00",
-        "stop": "2026-10-17T08:16:16+02:00",
+        "start": "2026-10-17T11:08:06+02:00",
+        "stop": "2026-10-17T11:54:46+02:00",
         "title": "La Renaixença",
-        "subtitle": "El diccionari",
-        "description": "Imagineu-vos una conversa entre Antoni Maria Alcover i Pompeu Fabra mirant-nos des del més enllà. Deuen estar enfadats o contents de com mantenim el seu llegat amb la llengua? Bé, millor no saber-ho. Dediquem aquest capítol de 'La Renaixença' al diccionari, que van començar els sumeris fa més de 4.000 anys. La cantant aranesa Alidé Sans passa pel nostre escó, posa a prova en Peyu i puja al nostre escenari per cantar-nos 'A la ruaa de Rore'. A 'Històries per passejar el gos', anem amb la Pili fins al 1816: l'any sense estiu.",
+        "subtitle": "El globus aerostàtic",
+        "description": "Vic i Igualada podrien ser dues capitals del globus aerostàtic a Catalunya. Estem segurs que els viatges en globus és de les coses que has de fer un cop a la vida, però si això comporta llevar-se de matinada per no sé què dels vents, potser més d'un és baixa. Avui dediquem el capítol al globus aerostàtic. Ens visita en Toni Arbonés, un escalador català que ha obert més de 1.000 vies d'escalada arreu del món. Sortim a passejar en Patxi, un teckel de Barcelona, per la rebel·lió de Sobibor, el 1943.",
         "genre": "ALTRES",
         "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-10-17T08:16:16+02:00",
-        "stop": "2026-10-17T08:47:55+02:00",
-        "title": "GR Pirineus",
-        "subtitle": "Anem de colònies",
-        "description": "Avui el viatge ens portarà del Berguedà fins al Bages, pels orígens industrials de la nostra terra. Marcarem el punt de sortida a Berga i anirem fins a Graugés, on visitarem una granja de gallines de pagès. A partir d'aquí començarem la 'Ruta de les Colònies', a Cal Rosal, passant per l'Ametlla de Casserres, Gironella, Viladomiu Nou, on visitarem la Torre de l'Amo; i arribarem fins al Guixaró, on, després de tant caminar, pararem en una antiga fàbrica per fer un plat típic del Berguedà, el blat de moro escairat. L'endemà visitarem Puig-reig, Cal Pons i la Colònia Vidal, un espai únic on viurem com era l'escola en temps de les colònies. I, finalment, passarem per l'Ametlla de Merola i arribarem a Navàs, on aprendrem, amb el seu esbart dansaire, un dels balls més tradicionals de Catalunya: el ball de bastons!!En total, uns 26 quilòmetres dividits en dues jornades i fets exclusivament a peu! ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "start": "2026-10-17T11:54:46+02:00",
+        "stop": "2026-10-17T12:46:10+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 1",
+        "description": "Aquesta setmana parlem de la xineta, de la radiografia, del tallagespa i del pinzell. És impossible dir-vos quin és el millor, de manera que haureu de veure tots els episodis i decidir segons el vostre criteri. També parlem amb un músic i poeta com és en Guillem Ramisa, una sardanista com és la Nàdia Cordó, un actor com és l'Ernest Villegas, i un esquilador d'ovelles com és l'Andreu Castellà. Com? Que un esquilador d'ovelles entre tant d'artista no us esperàveu? I qui us ha dit que esquilar una ovella no és un art, eh! ",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
