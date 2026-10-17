@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-17T16:25:12.298604+00:00",
+  "updated": "2026-10-17T18:41:46.132553+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-17T18:24:03+02:00",
-        "stop": "2026-10-17T18:52:36+02:00",
-        "title": "Jet lag",
-        "subtitle": "EM FAS MAL",
-        "description": "La Mariona veu que el sofà, el lloc on ella dorm, ha desaparegut perquè l'Esther ha decidit fer-lo entapissar i ha d'anar a viure amb la Diana. L'Esther veu que la Mariona cada cop s'apropa més a la Diana i s'allunya d'ella i això li fa mal. A la Carla li fa mal una altra cosa, el peu que s'ha trencat per culpa de la Sílvia. La Sílvia, per compensar, decideix tenir cura de la Carla mentre estigui de baixa. Però a vegades és pitjor el remei que la malaltia.",
-        "genre": "TELESÈRIE",
+        "start": "2026-10-17T20:44:07+02:00",
+        "stop": "2026-10-17T21:00:00+02:00",
+        "title": "Atrapa'm si pots. Els millors moments.",
+        "subtitle": "",
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
         "image": ""
       },
       {
-        "start": "2026-10-17T18:52:36+02:00",
-        "stop": "2026-10-17T19:45:36+02:00",
-        "title": "Sota terra",
-        "subtitle": "Carrer Ripoll 25, Barcelona: vint segles d'ocupació, del segle I al XXI",
-        "description": "Vam localitzar un edifici en obres situat al carrer Ripoll, número 25 de Ciutat Vella, a Barcelona. No és un edifici qualsevol. És un edifici, o millor dit un espai, amb 2.000 anys d'història. Perquè molt abans que s'hi alcés una sola paret, per aquí hi passava l'aqüeducte romà que va abastar d'aigua la ciutat de Barcino. I entre aquesta construcció romana i els equipaments municipals que ocuparan la finca durant el segle XXI, 20 segles en què Ripoll, 25 ha estat un hostal, un forn, seu d'estudis universitaris, una casa amb jardí, un bloc de pisos,… El repte és excavar i trobar el màxim nombre de restes de tots aquests segles per poder reconstruir cronològicament la història que ha tingut aquest espai del barri vell de Barcelona.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-10-17T21:00:00+02:00",
+        "stop": "2026-10-17T22:05:24+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-17T16:30:00+02:00",
-        "stop": "2026-10-17T18:30:00+02:00",
+        "start": "2026-10-17T20:00:00+02:00",
+        "stop": "2026-10-17T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,87 +72,87 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-17T18:30:00+02:00",
-        "stop": "2026-10-17T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-17T21:00:00+02:00",
+        "stop": "2026-10-17T23:00:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-17T18:25:13+02:00",
-        "stop": "2026-10-17T20:25:56+02:00",
-        "title": "Un dia de partit",
-        "subtitle": "Betis-Barça",
-        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
-      },
-      {
-        "start": "2026-10-17T20:25:56+02:00",
-        "stop": "2026-10-17T21:33:22+02:00",
+        "start": "2026-10-17T20:32:05+02:00",
+        "stop": "2026-10-17T21:39:31+02:00",
         "title": "Gol a gol",
         "subtitle": "Post Betis-Barça / J9",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+      },
+      {
+        "start": "2026-10-17T21:39:31+02:00",
+        "stop": "2026-10-17T22:31:48+02:00",
+        "title": "Futbol",
+        "subtitle": "Reial Madrid-RCD Espanyol / Lliga F / J7",
+        "description": "Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-17T18:22:24+02:00",
-        "stop": "2026-10-17T18:30:52+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Programa a demanda",
-        "description": "En Grizzy i els Lèmmings no es posen d'acord sobre quin programa de televisió veure. L'os s'apropia del comandament a distància i creu que ha guanyat la batalla, però els Lèmmings en troben un altre a l'estació d'investigació propera. Inicien una aferrissada baralla fins que descobreixen que el comandament a distància de l'estació d'investigació té un botó especial amb què poden controlar tota mena d'objectes.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-17T20:38:26+02:00",
+        "stop": "2026-10-17T21:00:03+02:00",
+        "title": "Henry Danger",
+        "subtitle": "L'indestructible Henry (Part 2)",
+        "description": "Henry es torna indestructible però desenvolupa un efecte secundari perillós mentre intenta portar una vida normal i trobar una solució amb els seus amics.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-10-17T18:30:52+02:00",
-        "stop": "2026-10-17T18:37:32+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "N'has perdut un tros",
-        "description": "Avui el granger li ha encomanat a en Bitzer que deixi totes les finestres de la granja netes com una patena. En Bitzer, com de costum, ha encomanat la feina al ramat, però potser no recordava que quan els xais s'esveren un mica, són capaços de qualsevol cosa. A més, després del rebombori, s'ha de fer neteja abans que arribi el granger! Hi seran a temps?!",
+        "start": "2026-10-17T21:00:03+02:00",
+        "stop": "2026-10-17T21:20:55+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "La succió de l'ós peresós",
+        "description": "Mentre l'equip Kratt és a l'Índia, la Mala, dels Amics dels Germans Kratt, els avisa que hi ha un animal en perill. És un animal molt curiós i, com que l'equip no sap ben bé si es tracta d'un os o d'un peresós, decideixen estudiar-lo a fons per aclarir-ho. Al mateix temps, tenen la missió de rescatar un exemplar que la Donita Donata ha capturat per provar uns pentinats nous amb el pèl tan particular que té aquest animal.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-17T17:52:58+02:00",
-        "stop": "2026-10-17T18:37:39+02:00",
-        "title": "Els habitants de la fi del món",
-        "subtitle": "Colòmbia",
-        "description": "Acompanyem l'experimentat Ben Fogle en la seva visita a la música Vanessa Forero (39), on esbrinarà què va portar la seva amfitriona a abandonar el seu Yorkshire natal per viure en una remota muntanya a Sud-amèrica. Coneixerà els esdeveniments que vinculen la Vanessa al passat violent de Colòmbia, i descobrirà com la preciosa llar que s'ha construït l'ajuda a guarir-se les ferides. En Ben es troba amb la Vanessa a les profunditats de la Sierra Nevada de Santa Marta, una serralada aïllada al nord del país. Allà descobreix la seva llar màgica, una antiga pastura descuidada convertida en un idíl·lic santuari de muntanya.Junts, s'encarreguen de fer millores a la llar i al vessant escarpat de la muntanya, des d'un telefèric nou fins a la construcció de parets; i també reben la visita d'un líder indígena. En Ben ajuda la Vanessa a compondre música i escolta una de les històries de supervivència més extraordinàries que ha sentit mai.",
+        "start": "2026-10-17T20:06:54+02:00",
+        "stop": "2026-10-17T20:59:46+02:00",
+        "title": "Dibuixar pel canvi",
+        "subtitle": "Mèxic. Som foc",
+        "description": "A Mèxic, una desena de dones moren assassinades cada dia, i en els darrers sis anys s'ha triplicat el nombre de dones i nenes desaparegudes. Artistes com Mar Maremoto intenten trencar el silenci que ha minimitzat durant massa temps l'abast de la violència de gènere en aquest país. Compartint les seves obres d'art al seu compte d'Instagram, ofereix un espai segur per al seu públic i fins i tot es relaciona amb víctimes reals per conèixer a fons les seves experiències i proporcionar-los eines per afrontar-les i mecanismes d'autodefensa. A més a més, la pel·lícula intenta indagar els motius que s'amaguen rere aquest índex de feminicidis tan elevat i explorar vies per aconseguir un canvi real i acabar amb la impunitat dels agressors.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-17T18:37:39+02:00",
-        "stop": "2026-10-17T19:22:13+02:00",
-        "title": "Els habitants de la fi del món",
-        "subtitle": "Irlanda",
-        "description": "En Ben viatja a l'illa Great Blasket, a la costa irlandesa. Allà passa uns dies amb en Dan i l'Emily, una parella londinenca que tenen una feina extraordinària: són els cuidadors de les illes de l'irregular frontera occidental d'Europa. Per aconseguir-la, han hagut de superar 40.000 candidats més. En Ben és testimoni de l'adaptació de la parella a la vida aïllada, tot el que han aconseguit sense cap mena d'experiència i, també, on els pot conduir aquest salt de fe. En Ben arregla una bomba d'aigua, agafa ovelles, recull algues i neda amb foques a les aigües clares de l'Atlàntic. També coneix el passat extraordinari de l'illa i l'home que va triar en Dan i l'Emily per dirigir l'illa, amb qui recorren el camí precari que cal fer per aconseguir subministraments per a l'illa. Envoltat de penya-segats i batut per les tempestes, en Ben s'adona que l'illa Great Blasket és un lloc que nodreix l'esperit i ens recorda el poder de la natura.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-17T20:59:46+02:00",
+        "stop": "2026-10-17T21:03:06+02:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
-    "oca1": [],
-    "oca2": [
+    "oca1": [
       {
-        "start": "2026-10-17T18:07:00+02:00",
-        "stop": "2026-10-17T19:42:00+02:00",
-        "title": "Hoquei patins",
-        "subtitle": "- Barça-CP Voltregà / Lliga Catalana / 2a Semifinal",
-        "description": "El FC Barcelona i el CP Voltregà Movento Stern s'enfronten a la segona semifinal de la Lliga Catalana d'hoquei patins.",
+        "start": "2026-10-17T20:27:53+02:00",
+        "stop": "2026-10-17T22:37:53+02:00",
+        "title": "Futbol",
+        "subtitle": "- Reial Madrid-RCD Espanyol / Lliga F / J7",
+        "description": "Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
