@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-17T13:12:27.924741+00:00",
+  "updated": "2026-10-17T16:25:12.298604+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-17T14:30:00+02:00",
-        "stop": "2026-10-17T15:34:50+02:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "start": "2026-10-17T18:24:03+02:00",
+        "stop": "2026-10-17T18:52:36+02:00",
+        "title": "Jet lag",
+        "subtitle": "EM FAS MAL",
+        "description": "La Mariona veu que el sofà, el lloc on ella dorm, ha desaparegut perquè l'Esther ha decidit fer-lo entapissar i ha d'anar a viure amb la Diana. L'Esther veu que la Mariona cada cop s'apropa més a la Diana i s'allunya d'ella i això li fa mal. A la Carla li fa mal una altra cosa, el peu que s'ha trencat per culpa de la Sílvia. La Sílvia, per compensar, decideix tenir cura de la Carla mentre estigui de baixa. Però a vegades és pitjor el remei que la malaltia.",
+        "genre": "TELESÈRIE",
+        "image": ""
       },
       {
-        "start": "2026-10-17T15:31:20+02:00",
-        "stop": "2026-10-17T16:54:06+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Formentera lady",
-        "description": "FORMENTERA LADYProducció : Good Machine, AIE, Sunrise Pictures,SL, Fosca Films,SL, La Perifèrica Produccions, amb la producció associada de TV3 amb la participació de IB3 i RTVE i col·laboració de l'Ivac-Culturarts i del Departament de Cultura de la Generalitat de Catalunya. 2018Director : Pau DuràGuió : Pau DuràProductors : David Ciurana , Ramiro AceroDirector de fotografia : Miguel LlorensMúsica : JOan AlavedraIntèrprets : José Sacristán (Samuel), Sandro Ballesteros ( Marc), Pepa Juan ( Greta), Nora Navas ( Anna), Jordi Sánchez ( Toni), Juli Mira ( Paco), Ferran Rañé ( Joan)SinopsiSamuel va arribar a la Formentera hippie dels 70 i allà segueix. Viu a una casa a la platja sense llum i toca el banjo a un bar. Un dia rep la visita de la seva filla Anna i del seu nét Marc. Aturada des de fa temps, l'Anna ha acceptat una feina a França i es veu obligada a deixar el seu fill a l'illa.",
-        "genre": "PEL·LÍCULA / TELEFILM",
+        "start": "2026-10-17T18:52:36+02:00",
+        "stop": "2026-10-17T19:45:36+02:00",
+        "title": "Sota terra",
+        "subtitle": "Carrer Ripoll 25, Barcelona: vint segles d'ocupació, del segle I al XXI",
+        "description": "Vam localitzar un edifici en obres situat al carrer Ripoll, número 25 de Ciutat Vella, a Barcelona. No és un edifici qualsevol. És un edifici, o millor dit un espai, amb 2.000 anys d'història. Perquè molt abans que s'hi alcés una sola paret, per aquí hi passava l'aqüeducte romà que va abastar d'aigua la ciutat de Barcino. I entre aquesta construcció romana i els equipaments municipals que ocuparan la finca durant el segle XXI, 20 segles en què Ripoll, 25 ha estat un hostal, un forn, seu d'estudis universitaris, una casa amb jardí, un bloc de pisos,… El repte és excavar i trobar el màxim nombre de restes de tots aquests segles per poder reconstruir cronològicament la història que ha tingut aquest espai del barri vell de Barcelona.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-17T14:30:00+02:00",
-        "stop": "2026-10-17T16:30:00+02:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
-      },
-      {
         "start": "2026-10-17T16:30:00+02:00",
         "stop": "2026-10-17T18:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-17T18:30:00+02:00",
+        "stop": "2026-10-17T20:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,66 +83,76 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-17T14:01:30+02:00",
-        "stop": "2026-10-17T15:25:00+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Bàsquet Girona-Barça Atlètic / Lliga U / J4",
-        "description": "Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.",
+        "start": "2026-10-17T18:25:13+02:00",
+        "stop": "2026-10-17T20:25:56+02:00",
+        "title": "Un dia de partit",
+        "subtitle": "Betis-Barça",
+        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
       },
       {
-        "start": "2026-10-17T15:25:00+02:00",
-        "stop": "2026-10-17T16:15:32+02:00",
-        "title": "Hoquei patins",
-        "subtitle": "Igualada HC-CP Calafell / Lliga Catalana / 1a Semifinal",
-        "description": "L'Igualada Rigat HC i el CP Calafell La Menorquina disputen la primera semifinal a la Lliga Catalana d'hoquei patins.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
+        "start": "2026-10-17T20:25:56+02:00",
+        "stop": "2026-10-17T21:33:22+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Post Betis-Barça / J9",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-17T15:09:32+02:00",
-        "stop": "2026-10-17T15:20:36+02:00",
-        "title": "Les Sisters",
-        "subtitle": "L'admirador secret",
-        "description": "La Marine troba una nota a la seva motxilla que creu que li ha escrit un admirador secret. Però la Marine no vol tenir nòvio i la Wendy l'ajudarà a descobrir qui és l'autor de la nota. Podria ser el Titouain, el noi que sempre ronda la Marine amb el seu monopatí?",
+        "start": "2026-10-17T18:22:24+02:00",
+        "stop": "2026-10-17T18:30:52+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Programa a demanda",
+        "description": "En Grizzy i els Lèmmings no es posen d'acord sobre quin programa de televisió veure. L'os s'apropia del comandament a distància i creu que ha guanyat la batalla, però els Lèmmings en troben un altre a l'estació d'investigació propera. Inicien una aferrissada baralla fins que descobreixen que el comandament a distància de l'estació d'investigació té un botó especial amb què poden controlar tota mena d'objectes.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-17T15:20:36+02:00",
-        "stop": "2026-10-17T15:31:40+02:00",
-        "title": "Les Sisters",
-        "subtitle": "El dron fada",
-        "description": "Demà és el seu aniversari, i la Marine no para d'empipar la Wendy perquè li digui què li regalaran. La Wendy no l'hi vol dir, però la Marine ho acaba descobrint: és el dron fada Waterplof. La Marine obre el regal. Sembla mentida les destrosses que un petit dron a les mans de la Marine i la Wendy pot causar en una casa i a tot un barri!",
+        "start": "2026-10-17T18:30:52+02:00",
+        "stop": "2026-10-17T18:37:32+02:00",
+        "title": "El xai Shaun",
+        "subtitle": "N'has perdut un tros",
+        "description": "Avui el granger li ha encomanat a en Bitzer que deixi totes les finestres de la granja netes com una patena. En Bitzer, com de costum, ha encomanat la feina al ramat, però potser no recordava que quan els xais s'esveren un mica, són capaços de qualsevol cosa. A més, després del rebombori, s'ha de fer neteja abans que arribi el granger! Hi seran a temps?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-17T14:54:14+02:00",
-        "stop": "2026-10-17T15:54:58+02:00",
-        "title": "Plou i fa sol",
-        "subtitle": "Plou i fa sol",
-        "description": "'PLOU I FA SOL' (2012), una producció de Curt Ficcions Curt Produccions, en coproducció amb TELEVISIÓ CATALUNYA i amb la col·laboració del Departament d'Agricultura, ICEC, Ajuntament de Sant Boi i Ajuntament de Santa Coloma de Cervelló.Aquesta és una història local, que des d'una situació particular vol explicar el que succeeix a qualsevol gran ciutat europea. Barcelona, como totes les grans metròpolis, necessita cada dia milions de tones d'aliments per abastir la seva població. Però en l'era de la comunicació on les mercaderies i les persones poden moure's per tot el territori amb relativa facilitat i on amb un clic es pot accedir a un munt d'informació, poca gent sap el que menja. Plou i fa sol vol analitzar aquesta immensa fractura entre la producció i el consum d'aliments. La pel·lícula reivindica la necessitat de mantenir l'agricultura periurbana i de proximitat, a través d'un nucli d'agricultors que mantenen els seus camps de producció al Parc Agrari, pròxim a la ciutat. Un espai on conviu la tradició camperola de fa segles amb les noves fórmules de producció i distribució dels joves pagesos que aposten pels productes ecològics i la venda directa. El documental també vol fer esment del paper que juga el Parc Agrari com a protector del medi i de l'ecosistema característics de la zona, imprescindible per a la protecció de la fauna i flora i del paisatge de l'àrea metropolitana de Barcelona, marcada també per comunicacions com els trens i avions.Guió i direcció: Pere Joan VenturaProducció executiva: Carmen IsasaProducció executiva TVC: Jordi AmbròsProducció delegada TVC: Ruth LlòriaDirecció de producció: Sara de LeceaDirecció de fotografia: Alberto MolinaCap de producció: Enric EscofetMuntatge: Anastasi RinosMúsica: Lluís de ArquerDocumentació: Eva de Lecea i Laura GallegoSo directe: Pau Xandri, Sergi MadridanoAjudant de muntatge: Gemma AlfòsImatges d'arxiu cedides per l'Arxiu Històric de la Ciutat de Barcelona",
+        "start": "2026-10-17T17:52:58+02:00",
+        "stop": "2026-10-17T18:37:39+02:00",
+        "title": "Els habitants de la fi del món",
+        "subtitle": "Colòmbia",
+        "description": "Acompanyem l'experimentat Ben Fogle en la seva visita a la música Vanessa Forero (39), on esbrinarà què va portar la seva amfitriona a abandonar el seu Yorkshire natal per viure en una remota muntanya a Sud-amèrica. Coneixerà els esdeveniments que vinculen la Vanessa al passat violent de Colòmbia, i descobrirà com la preciosa llar que s'ha construït l'ajuda a guarir-se les ferides. En Ben es troba amb la Vanessa a les profunditats de la Sierra Nevada de Santa Marta, una serralada aïllada al nord del país. Allà descobreix la seva llar màgica, una antiga pastura descuidada convertida en un idíl·lic santuari de muntanya.Junts, s'encarreguen de fer millores a la llar i al vessant escarpat de la muntanya, des d'un telefèric nou fins a la construcció de parets; i també reben la visita d'un líder indígena. En Ben ajuda la Vanessa a compondre música i escolta una de les històries de supervivència més extraordinàries que ha sentit mai.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/8/1792065584981.jpg"
+        "image": ""
       },
       {
-        "start": "2026-10-17T15:54:58+02:00",
-        "stop": "2026-10-17T16:53:58+02:00",
-        "title": "Rick Stein: De Venècia a Istanbul",
-        "subtitle": "Grècia",
-        "description": "En Rick deixa Albània i entra al nord de Grècia, on tasta 'kotopita' i 'hortopita', unes panades delicioses fetes amb pasta de full. A Ioànnina tasta uns quants plats de peix del llac i un estofat amb un toc bizantí que li prepara una estudiant de cuina. A Préveza visita una botiga on venen 'ouzo', i a Mesolongi un lloc on fan botàriga (ous de peix assecat, usats com a condiment). A la seva cuina de l'illa de Simi ens farà 'souvlaki', 'avgolemono' (sopa de pollastre amb ou escaldat), i pebrots i tomàquets farcits.",
+        "start": "2026-10-17T18:37:39+02:00",
+        "stop": "2026-10-17T19:22:13+02:00",
+        "title": "Els habitants de la fi del món",
+        "subtitle": "Irlanda",
+        "description": "En Ben viatja a l'illa Great Blasket, a la costa irlandesa. Allà passa uns dies amb en Dan i l'Emily, una parella londinenca que tenen una feina extraordinària: són els cuidadors de les illes de l'irregular frontera occidental d'Europa. Per aconseguir-la, han hagut de superar 40.000 candidats més. En Ben és testimoni de l'adaptació de la parella a la vida aïllada, tot el que han aconseguit sense cap mena d'experiència i, també, on els pot conduir aquest salt de fe. En Ben arregla una bomba d'aigua, agafa ovelles, recull algues i neda amb foques a les aigües clares de l'Atlàntic. També coneix el passat extraordinari de l'illa i l'home que va triar en Dan i l'Emily per dirigir l'illa, amb qui recorren el camí precari que cal fer per aconseguir subministraments per a l'illa. Envoltat de penya-segats i batut per les tempestes, en Ben s'adona que l'illa Great Blasket és un lloc que nodreix l'esperit i ens recorda el poder de la natura.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "oca1": [],
-    "oca2": [],
+    "oca2": [
+      {
+        "start": "2026-10-17T18:07:00+02:00",
+        "stop": "2026-10-17T19:42:00+02:00",
+        "title": "Hoquei patins",
+        "subtitle": "- Barça-CP Voltregà / Lliga Catalana / 2a Semifinal",
+        "description": "El FC Barcelona i el CP Voltregà Movento Stern s'enfronten a la segona semifinal de la Lliga Catalana d'hoquei patins.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
