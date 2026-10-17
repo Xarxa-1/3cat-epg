@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-17T20:59:08.771506+00:00",
+  "updated": "2026-10-17T22:58:30.680840+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-17T22:24:13+02:00",
-        "stop": "2026-10-18T00:33:25+02:00",
-        "title": "Col·lapse",
-        "subtitle": "17/10/2026",
-        "description": "El periodista i escriptor Roberto Saviano, amenaçat de mort per la màfia, ens rep a Roma per parlar del seu nou llibre i la màfia a Catalunya.L'actualitat política i social no descansa, per això analitzem alguns dels temes que han marcat la setmana amb els periodistes Marta Monforte, Iva Anguera i Maiol Roger.Ens visita el Roger Ferrer, un home que va anar a l'hospital per sotmetre's a una operació d'apendicitis i va patir un xoc traumàtic en veure que l'anestèsia no li havia fet l'efecte esperat.",
-        "genre": "TALK-SHOW",
-        "image": ""
-      },
-      {
-        "start": "2026-10-18T00:33:25+02:00",
-        "stop": "2026-10-18T00:53:44+02:00",
+        "start": "2026-10-18T00:43:05+02:00",
+        "stop": "2026-10-18T01:03:24+02:00",
         "title": "Marcians",
         "subtitle": "Qui carda la llana",
         "description": "Qui carda avui la llana? Qui dona valor a aquest recurs que en els darrers temps s'ha tractat més aviat com un rebuig? La llana, i tot el que l'envolta, els ramats, les pastures, la cura dels boscos, formen part de la nostra identitat i cada cop més hi ha qui ho reivindica, també des d'un vessant artístic i artesanal. És el cas de la Laia Aguilà, que des del Pla de la Calma, i voltant per tot Catalunya a la recerca de llana, defensa com a artesana aquesta matèria i també els seus ramaders i pastors. També ho fa el col·lectiu artístic Tornen les esquelles. Els seus tapissos fets amb feltre de llana estan concebuts des d'un treball comunitari, amb voluntat pedagògica, i tenen una profunda capa de memòria. És el cas de la peça que exposen al Centre Grau-Garriga d'art tèxtil contemporani, a Sant Cugat, que celebra el centenari de Casa Aymat, que va ser centre neuràlgic de la pionera escola catalana de tapís durant els anys 60 i 70. Convertida en espai de formació i creació, s'hi imparteixen classes de tapís. I hi estan fent ara les seves residències artístiques la dissenyadora de roba Andrea Ayala, la poeta M. Antònia Massanet o l'artista visual Ignasi Prat Altimira, que porta més de quatre anys immers en la reproducció de la famosa foto del rei emèrit en una cacera d'elefants a Botswana. El pastor Joan Cuadern sap bé què vol dir haver-se de fer càrrec d'un ramat, i tant temps de convivència amb les bèsties ha fet que els hi dediqui bona part de les seves cançons. ",
+        "genre": "ALTRES",
+        "image": ""
+      },
+      {
+        "start": "2026-10-18T01:03:24+02:00",
+        "stop": "2026-10-18T01:22:14+02:00",
+        "title": "Marcians",
+        "subtitle": "Una bona història",
+        "description": "Quins són els elements que fan que una història funcioni, atrapi l'espectador i no el deixi anar? Hi ha fórmules infal·libles o cadascú troba els seus viaranys? Per al director de cinema Kike Maíllo i el guionista Markos Goikolea, que han estrenat el documental 'La supervivent' a 3Cat, una bona història ha de tenir un bon personatge, ha d'apel·lar a una pulsió humana universal i ha d'aconseguir una estructura dramàtica que capti i mantingui l'atenció de l'espectador. Per a la periodista Teresa Turiera-Puigbò, investigadora del col·lectiu 'Cultura i conflicte', que han estrenat al teatre La Biblioteca de Barcelona l'obra 'No miris', una bona història no cal que sigui èpica. Les bones històries es troben quan vas estirant del fil de les vides de la gent 'normal', perquè sempre trobes sorpreses amagades darrere dels fets que semblen més quotidians. I per a la guionista Valentina Viso, una bona història sempre ha de tenir emoció i veu pròpia, no ha de seguir el camí habitual, sinó tot el contrari, boicotejar les respostes més òbvies. Ella té una veu autoritzada per parlar d'històries, ja que és responsable de molts dels guions de les pel·lícules d'èxit firmades per la nova onada de directores catalanes, com 'Tres dies amb la família' (2009), 'Tots volem el millor per a ella' (2013), 'María (y los demás)' (2016), 'Salve Maria'(2024), 'Viva' (2026) o la sèrie 'Això no és Suècia' (2023).",
         "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-17T21:00:00+02:00",
-        "stop": "2026-10-17T23:00:00+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-10-18T00:30:00+02:00",
+        "stop": "2026-10-18T01:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-17T23:00:00+02:00",
-        "stop": "2026-10-18T00:30:00+02:00",
+        "start": "2026-10-18T01:00:00+02:00",
+        "stop": "2026-10-18T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-17T23:00:00+02:00",
-        "stop": "2026-10-18T00:30:52+02:00",
+        "start": "2026-10-18T00:34:23+02:00",
+        "stop": "2026-10-18T02:35:55+02:00",
         "title": "Gol a gol",
         "subtitle": "Anàlisi de la jornada / J9 / Dissabte",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
@@ -92,53 +92,53 @@
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-10-18T00:30:52+02:00",
-        "stop": "2026-10-18T02:02:24+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J9 / Dissabte",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-10-18T02:35:55+02:00",
+        "stop": "2026-10-18T04:21:51+02:00",
+        "title": "Futbol",
+        "subtitle": "Reial Madrid-RCD Espanyol / Lliga F / J7",
+        "description": "Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-17T22:57:18+02:00",
-        "stop": "2026-10-17T23:07:55+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "Ens ha desaparegut un mossegador",
-        "description": "En Sam truca molt esverat. Un dels seus cadells ha perdut el mossegador i està desconsolat. La Maggie i la Flo l'acompanyen a buscar la joguina mentre en Clive, en Billy i en Jo distreuen els petits amb un espectacle de màgia.",
+        "start": "2026-10-18T00:43:24+02:00",
+        "stop": "2026-10-18T01:04:31+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Ninaflekta",
+        "description": "La Juleka vol ser model, però li costa molt fer el pas. La Marinette li proposa que faci una sessió fotogràfica amb les seves creacions, però la timidesa de la Juleka fa que les coses no surtin com estava previst, i el malvat Esfinx ho aprofitarà per tornar a sembrar el caos a París.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-17T23:07:55+02:00",
-        "stop": "2026-10-17T23:18:36+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "Olor de perill",
-        "description": "La Bertha truca espantada. No vol dir què li passa, així que la Tropa la va a buscar de seguida i veuen que té el cul ple de punxes esmolades... i no sap de qui són! L'únic que ha sentit ha sigut un esternut. La Tropa es divideix: la meitat intenta descobrir qui és l'atacant misteriós, mentre la resta mira de treure-li les punxes sense rebre cap mossegada.",
+        "start": "2026-10-18T01:04:31+02:00",
+        "stop": "2026-10-18T01:25:09+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Papa Ferotge",
+        "description": "Per evitar revelar la seva personalitat real, la Marinette li diu al Gat Noir que està enamorada d'ella. La confusió que es crea a continuació fa que el Tom, el pare de la Marinette, s'enfadi amb el Gat Noir, moment que aprofitarà l'Esfinx per convertir-lo en el Papa Ferotge, un malvat decidit a tenir captiva la seva filla per protegir-la de tots els mals.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-17T22:18:25+02:00",
-        "stop": "2026-10-17T23:53:41+02:00",
-        "title": "El documental",
-        "subtitle": "Un simple soldat",
-        "description": "",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
-        "start": "2026-10-17T23:53:41+02:00",
+        "start": "2026-10-17T23:53:42+02:00",
         "stop": "2026-10-18T01:08:56+02:00",
         "title": "60 minuts",
         "subtitle": "Els fills de la secta",
         "description": "Una supervivent de les comunes Rajneesh investiga els abusos, la manipulació i l'explotació sexual que van patir centenars d'infants dins del moviment, destapant una història silenciada durant dècades.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
+      },
+      {
+        "start": "2026-10-18T01:08:56+02:00",
+        "stop": "2026-10-18T02:08:35+02:00",
+        "title": "Plat en blanc",
+        "subtitle": "Plat en blanc",
+        "description": "'Plat en blanc' (2025) una producció d'Abacus, en coproducció amb 3Cat i el suport de la Generalitat de Catalunya. 'Plat en blanc' és un inside al procés del restaurant Disfrutar fins aconseguir ser distingit com el millor restaurant del món en una espectacular gala a Las Vegas. A més d'aquest seguiment, el documental ens mostra la història dels tres xefs, Eduard Xatruch, Mateu Casañas i Oriol Castro, des del seu pas sacrificat per El Bulli fins aconseguir crear el seu propi restaurant. 'Plat en Blanc' és una immersió en la cuina com a art, ciència, territori i emoció, on cada plat és un llenç en blanc a punt per ser pintat amb sabors i innovació. Direcció: Alan Fàbregas i Ramon Pardina Guió: Ramon Pardina Realització: Alan Fàbregas Producció executiva: Oriol Cortacans i Marc Roma Producció: Carla Alpeñés Andrada Producció executiva 3Cat: David Bassa Cabanas Silvia Pairó Vila Producció delegada 3Cat: Daniel Barea Delgado Direcció de fotografia: Alan Fàbregas Muntatge: Roger Llorens Direcció de producció: Tatiana Iriarte Grafisme: Roger Llorens ",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/2/1747732419324.jpg"
       }
     ],
     "oca1": [],
