@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-16T22:56:07.879708+00:00",
+  "updated": "2026-10-17T01:02:35.680505+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-17T00:25:28+02:00",
-        "stop": "2026-10-17T02:16:16+02:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
-      },
-      {
-        "start": "2026-10-17T02:16:16+02:00",
+        "start": "2026-10-17T02:16:18+02:00",
         "stop": "2026-10-17T04:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-17T04:00:00+02:00",
+        "stop": "2026-10-17T05:00:00+02:00",
+        "title": "Blues a l'estudi",
+        "subtitle": "Amadeu Casas",
+        "description": "Guitarrista de blues genuí i un dels pioners de l'estil de casa nostra. En aquesta ocasió, Casas ve en formació de trio i ens presenta una sessió en què repassa temes clàssics del seu repertori i estrena nou material que formarà part del seu pròxim disc. Matías Míguez al baix i Toni Pagès a la bateria acompanyen el guitarrista barceloní.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-17T00:30:00+02:00",
-        "stop": "2026-10-17T01:00:00+02:00",
+        "start": "2026-10-17T01:00:00+02:00",
+        "stop": "2026-10-17T06:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-17T01:00:00+02:00",
-        "stop": "2026-10-17T06:00:00+02:00",
+        "start": "2026-10-17T06:00:00+02:00",
+        "stop": "2026-10-17T07:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-17T00:52:00+02:00",
-        "stop": "2026-10-17T02:27:00+02:00",
-        "title": "Onze",
-        "subtitle": "El Tourmalet del Barça; guerra Tebas-Florentino; Delmàs, Fàbregas i Cazorla",
-        "description": "Míriam Riau condueix la tertúlia amb Lluís Carrasco, Anaïs Martí, Juli Garcia i Edgar Fornós. Àlex Delmàs ens explica quina pot ser la clau del Betis-Barça. Amb Siro López analitzem l'estat de forma del Madrid i la guerra de Tebas amb Florentino. Joan Fàbregas ens explica si els àrbitres realment perjudiquen el Madrid i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-10-17T02:45:05+02:00",
+        "stop": "2026-10-17T04:35:30+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Bàsquet Girona-Barça Atlètic / Lliga U / J4",
+        "description": "Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
       },
       {
-        "start": "2026-10-17T02:27:00+02:00",
-        "stop": "2026-10-17T02:58:00+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "start": "2026-10-17T04:35:30+02:00",
+        "stop": "2026-10-17T06:10:46+02:00",
+        "title": "Tot Costa",
+        "subtitle": "El Betis, rival de nivell a la Lliga",
+        "description": "El Barça juga aquest dissabte contra el Betis. Amb Raphinha i De Jong? Ens ho explicarà Ramon Salmurri i ho analitzarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. També entrevistarem Ángel Cuéllar, exjugador de tots dos equips, i amb Laia Tudel sabrem què ha dit l'agent de Nico Williams sobre el seu no fitxatge pel Barça. La 'caçatalents' Andrea Orts ens parlarà dels davanters de moda i també parlarem del Madrid. Escalfant l'ambient per al clàssic?",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-17T00:47:41+02:00",
-        "stop": "2026-10-17T00:59:27+02:00",
-        "title": "Les Sisters",
-        "subtitle": "El mètode Zendy",
-        "description": "Des que la Wendy es dedica a la meditació, la Marine se sent abandonada. S'han acabat les guerres de coixins. Ara els dies comencen amb els vídeos de ioga que la Wendy grava pel seu blog. Per recuperar la seva germana, perquè torni a ser com abans, la Marine intenta que perdi els nervis. Però se'n sortirà, ara que la Wendy s'ha convertit en la germana més tranquil·la del món?",
+        "start": "2026-10-17T02:43:13+02:00",
+        "stop": "2026-10-17T03:03:51+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Papu Noel",
+        "description": "La Marinette i tots els seus amics es preparen per celebrar la nit de Nadal, en família. Però per l'Adrien és un Nadal trist perquè és el primer que passa sense la seva mare. Enfadat perquè creu que el seu pare no el vol celebrar amb ell, s'escapa de casa disposat a eliminar tots els símbols de Nadal.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-17T00:59:27+02:00",
-        "stop": "2026-10-17T01:10:49+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Adopta una germana.com",
-        "description": "Després de la seva enèsima baralla, la Marine li diu a la Wendy que li agradaria canviar de germana. La Wendy li proposa que en busqui una al web 'Adopta una germana.com'. La Marine es connecta a internet i veu que el web sí que existeix. La Marine hi troba una germana gran adoptiva amb el perfil ideal. Genial! Però la Marine no trigarà a canviar d'idea...",
+        "start": "2026-10-17T03:03:51+02:00",
+        "stop": "2026-10-17T03:24:29+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Camaleó",
+        "description": "Amb la tornada de la Lila a l'institut, es revolucionen els llocs que ocupen els alumnes a l'aula, i al final la Marinette acaba seient sola al fons de tot. Al mateix temps, la Marinette vol deixar en evidència les mentides de la Lila, però l'Esfinx aprofita aquests sentiments de ràbia i rivalitat per intentar sembrar el caos.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-17T00:35:14+02:00",
-        "stop": "2026-10-17T01:27:58+02:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Jota i Daniela",
-        "description": "La Daniela i el Jota, uns joves viatgers argentins, descobreixen el Lluçanès, la Cerdanya i l'Alt Urgell. Abans d'acabar el viatge, però, la Ivana Miño també els acompanya a conèixer els llocs més típics de Barcelona.",
+        "start": "2026-10-17T02:52:25+02:00",
+        "stop": "2026-10-17T03:35:08+02:00",
+        "title": "Sala 30",
+        "subtitle": "El concepte",
+        "description": "La vida d'Antoni Muntadas, un dels màxims exponents del videoart, ha estat marcada per dues ciutats: Barcelona i Nova York. Per això, la proposta d'acompanyar Albert Pla mentre s'encarrega de les gallines de la masia li sembla una mica llunyana. Tot l'art contemporani és conceptual? Un concepte és igual que una idea? Enric Farrès, Lucia C. Pino, Fito Conesa i Laia Estruch se sumen a la conversa entre Muntadas i Pla per reflexionar sobre aquestes qüestions i jugar una mica amb la intel·ligència artificial.",
         "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-10-17T01:27:58+02:00",
-        "stop": "2026-10-17T02:10:03+02:00",
-        "title": "Teories de la relativitat",
-        "subtitle": "De l'eterna juventut a la immortalitat",
-        "description": "El negoci de l'eterna joventut comença amb l'skincare infantil, les injeccionsmiraculoses que redueixen l'edat biològica i el somni de la immortalitat.",
+        "start": "2026-10-17T03:35:08+02:00",
+        "stop": "2026-10-17T04:16:32+02:00",
+        "title": "Sala 30",
+        "subtitle": "L'enigma",
+        "description": "Què ve primer, en l'art: l'obra o l'enigma que l'envolta? És tan important allò que es vol expressar com l'univers que es crea al voltant d'aquesta idea? Albert Pla parla amb quatre artistes que destil·len aura: en l'atmosfera de Rosa Tharrats hi ha teles i el mar; en la de Gabriel Ventura, poesia; en la de Marina Herlop, música; i en la de Marria Pratts, fantasmes i vaques. Però Pla ha reservat un lloc d'honor a la taula ni més ni menys que per a Frederic Amat, un dels artistes catalans més reconeguts.",
         "genre": "ALTRES",
         "image": ""
       }
