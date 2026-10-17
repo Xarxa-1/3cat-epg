@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-17T01:02:35.680505+00:00",
+  "updated": "2026-10-17T05:35:06.361683+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-17T02:16:18+02:00",
-        "stop": "2026-10-17T04:00:00+02:00",
+        "start": "2026-10-17T06:01:19+02:00",
+        "stop": "2026-10-17T10:00:01+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-17T04:00:00+02:00",
-        "stop": "2026-10-17T05:00:00+02:00",
-        "title": "Blues a l'estudi",
-        "subtitle": "Amadeu Casas",
-        "description": "Guitarrista de blues genuí i un dels pioners de l'estil de casa nostra. En aquesta ocasió, Casas ve en formació de trio i ens presenta una sessió en què repassa temes clàssics del seu repertori i estrena nou material que formarà part del seu pròxim disc. Matías Míguez al baix i Toni Pagès a la bateria acompanyen el guitarrista barceloní.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-17T10:00:01+02:00",
+        "stop": "2026-10-17T11:01:05+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-17T01:00:00+02:00",
-        "stop": "2026-10-17T06:00:00+02:00",
+        "start": "2026-10-17T07:00:00+02:00",
+        "stop": "2026-10-17T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-17T06:00:00+02:00",
-        "stop": "2026-10-17T07:00:00+02:00",
+        "start": "2026-10-17T10:00:00+02:00",
+        "stop": "2026-10-17T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-17T02:45:05+02:00",
-        "stop": "2026-10-17T04:35:30+02:00",
+        "start": "2026-10-17T06:42:36+02:00",
+        "stop": "2026-10-17T08:17:07+02:00",
+        "title": "Onze",
+        "subtitle": "El Tourmalet del Barça; guerra Tebas-Florentino; Delmàs, Fàbregas i Cazorla",
+        "description": "Míriam Riau condueix la tertúlia amb Lluís Carrasco, Anaïs Martí, Juli Garcia i Edgar Fornós. Àlex Delmàs ens explica quina pot ser la clau del Betis-Barça. Amb Siro López analitzem l'estat de forma del Madrid i la guerra de Tebas amb Florentino. Joan Fàbregas ens explica si els àrbitres realment perjudiquen el Madrid i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+      },
+      {
+        "start": "2026-10-17T08:17:07+02:00",
+        "stop": "2026-10-17T10:07:29+02:00",
         "title": "Bàsquet",
         "subtitle": "Bàsquet Girona-Barça Atlètic / Lliga U / J4",
         "description": "Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
-      },
-      {
-        "start": "2026-10-17T04:35:30+02:00",
-        "stop": "2026-10-17T06:10:46+02:00",
-        "title": "Tot Costa",
-        "subtitle": "El Betis, rival de nivell a la Lliga",
-        "description": "El Barça juga aquest dissabte contra el Betis. Amb Raphinha i De Jong? Ens ho explicarà Ramon Salmurri i ho analitzarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. També entrevistarem Ángel Cuéllar, exjugador de tots dos equips, i amb Laia Tudel sabrem què ha dit l'agent de Nico Williams sobre el seu no fitxatge pel Barça. La 'caçatalents' Andrea Orts ens parlarà dels davanters de moda i també parlarem del Madrid. Escalfant l'ambient per al clàssic?",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-17T02:43:13+02:00",
-        "stop": "2026-10-17T03:03:51+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Papu Noel",
-        "description": "La Marinette i tots els seus amics es preparen per celebrar la nit de Nadal, en família. Però per l'Adrien és un Nadal trist perquè és el primer que passa sense la seva mare. Enfadat perquè creu que el seu pare no el vol celebrar amb ell, s'escapa de casa disposat a eliminar tots els símbols de Nadal.",
+        "start": "2026-10-17T07:30:40+02:00",
+        "stop": "2026-10-17T07:42:48+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "Visca la llibertat!",
+        "description": "Amb motiu de la visita que els ha de fer la reina del rusc de la Malva Reial, les abelles faran una desfilada i un espectacle acrobàtic. La Maia s'hi presenta voluntària i també hi presenta en Willi, però en Willi ja està tip que la Maia sempre ho decideixi tot per ell i li faci fer coses que ell no vol. Llavors, en Barry li aconsella que faci veure que està lesionat. Però la cosa no és tan fàcil i no acabarà de sortir bé.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-17T03:03:51+02:00",
-        "stop": "2026-10-17T03:24:29+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Camaleó",
-        "description": "Amb la tornada de la Lila a l'institut, es revolucionen els llocs que ocupen els alumnes a l'aula, i al final la Marinette acaba seient sola al fons de tot. Al mateix temps, la Marinette vol deixar en evidència les mentides de la Lila, però l'Esfinx aprofita aquests sentiments de ràbia i rivalitat per intentar sembrar el caos.",
+        "start": "2026-10-17T07:42:48+02:00",
+        "stop": "2026-10-17T07:53:46+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Fem canelons amb papers de colors",
+        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-17T02:52:25+02:00",
-        "stop": "2026-10-17T03:35:08+02:00",
-        "title": "Sala 30",
-        "subtitle": "El concepte",
-        "description": "La vida d'Antoni Muntadas, un dels màxims exponents del videoart, ha estat marcada per dues ciutats: Barcelona i Nova York. Per això, la proposta d'acompanyar Albert Pla mentre s'encarrega de les gallines de la masia li sembla una mica llunyana. Tot l'art contemporani és conceptual? Un concepte és igual que una idea? Enric Farrès, Lucia C. Pino, Fito Conesa i Laia Estruch se sumen a la conversa entre Muntadas i Pla per reflexionar sobre aquestes qüestions i jugar una mica amb la intel·ligència artificial.",
+        "start": "2026-10-17T07:28:46+02:00",
+        "stop": "2026-10-17T08:16:16+02:00",
+        "title": "La Renaixença",
+        "subtitle": "El diccionari",
+        "description": "Imagineu-vos una conversa entre Antoni Maria Alcover i Pompeu Fabra mirant-nos des del més enllà. Deuen estar enfadats o contents de com mantenim el seu llegat amb la llengua? Bé, millor no saber-ho. Dediquem aquest capítol de 'La Renaixença' al diccionari, que van començar els sumeris fa més de 4.000 anys. La cantant aranesa Alidé Sans passa pel nostre escó, posa a prova en Peyu i puja al nostre escenari per cantar-nos 'A la ruaa de Rore'. A 'Històries per passejar el gos', anem amb la Pili fins al 1816: l'any sense estiu.",
         "genre": "ALTRES",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-10-17T03:35:08+02:00",
-        "stop": "2026-10-17T04:16:32+02:00",
-        "title": "Sala 30",
-        "subtitle": "L'enigma",
-        "description": "Què ve primer, en l'art: l'obra o l'enigma que l'envolta? És tan important allò que es vol expressar com l'univers que es crea al voltant d'aquesta idea? Albert Pla parla amb quatre artistes que destil·len aura: en l'atmosfera de Rosa Tharrats hi ha teles i el mar; en la de Gabriel Ventura, poesia; en la de Marina Herlop, música; i en la de Marria Pratts, fantasmes i vaques. Però Pla ha reservat un lloc d'honor a la taula ni més ni menys que per a Frederic Amat, un dels artistes catalans més reconeguts.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-17T08:16:16+02:00",
+        "stop": "2026-10-17T08:47:55+02:00",
+        "title": "GR Pirineus",
+        "subtitle": "Anem de colònies",
+        "description": "Avui el viatge ens portarà del Berguedà fins al Bages, pels orígens industrials de la nostra terra. Marcarem el punt de sortida a Berga i anirem fins a Graugés, on visitarem una granja de gallines de pagès. A partir d'aquí començarem la 'Ruta de les Colònies', a Cal Rosal, passant per l'Ametlla de Casserres, Gironella, Viladomiu Nou, on visitarem la Torre de l'Amo; i arribarem fins al Guixaró, on, després de tant caminar, pararem en una antiga fàbrica per fer un plat típic del Berguedà, el blat de moro escairat. L'endemà visitarem Puig-reig, Cal Pons i la Colònia Vidal, un espai únic on viurem com era l'escola en temps de les colònies. I, finalment, passarem per l'Ametlla de Merola i arribarem a Navàs, on aprendrem, amb el seu esbart dansaire, un dels balls més tradicionals de Catalunya: el ball de bastons!!En total, uns 26 quilòmetres dividits en dues jornades i fets exclusivament a peu! ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
       }
     ],
     "oca1": [],
