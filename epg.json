@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T00:44:27.698482+00:00",
+  "updated": "2026-10-18T05:10:57.874438+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,19 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-18T02:41:12+02:00",
-        "stop": "2026-10-18T03:01:21+02:00",
-        "title": "Thalassa curts",
-        "subtitle": "Balears, els reptes de l'oceanografia",
-        "description": "",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-10-18T01:00:00+02:00",
-        "stop": "2026-10-18T06:00:00+02:00",
+        "start": "2026-10-18T07:00:01+02:00",
+        "stop": "2026-10-18T09:29:46+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
+        "start": "2026-10-18T09:29:46+02:00",
+        "stop": "2026-10-18T10:01:53+02:00",
+        "title": "Signes dels temps",
+        "subtitle": "El tresor amagat a les muntanyes de l'Atles, al Marroc",
+        "description": "L'escriptora Laia Martorell ens explica els seus viatges al desert i a les muntanyes de l'Atles, al Marroc. Durant un temps deixa la feina d'educadora mediambiental en parcs naturals de Catalunya i es trasllada a viure al Marroc. Una experiència que l'ha transformada i que recull en el llibre 'Com un bosc de cedres' (La Banya, 2026). A la regió de l'Atles descobreix un tresor amagat, una espiritualitat despullada de prejudicis i basada en els valors del respecte, la convivència i el diàleg interreligiós i intercultural. Allà coneix unes monges cristianes franciscanes que convivien amb amazics seminòmades musulmans i els ajudaven en diversos projectes. Fins i tot a reconstruir la mesquita del poble, que s'havia ensorrat. I al monestir de Notre-Dame de l'Atles, coneix el monjo trapenc Jean-Pierre Schumacher. És l'únic supervivent viu de l'assassinat de set monjos de la seva comunitat a Tibhirine, Algèria, el 1996. Laia Martorell ens parla d'una espiritualitat teixida de converses, certeses i aprenentatges profunds que recorda amb una gran sensibilitat.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
+      }
+    ],
+    "324": [
+      {
         "start": "2026-10-18T06:00:00+02:00",
         "stop": "2026-10-18T09:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-18T09:00:00+02:00",
+        "stop": "2026-10-18T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -74,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-18T02:09:10+02:00",
-        "stop": "2026-10-18T03:58:20+02:00",
-        "title": "Futbol",
-        "subtitle": "Reial Madrid-RCD Espanyol / Lliga F / J7",
-        "description": "Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
-      },
-      {
-        "start": "2026-10-18T03:58:20+02:00",
-        "stop": "2026-10-18T05:46:05+02:00",
+        "start": "2026-10-18T06:47:03+02:00",
+        "stop": "2026-10-18T08:35:43+02:00",
         "title": "Futbol",
         "subtitle": "FC Badalona Women-CD Tenerife / Lliga F / J7",
         "description": "Tots dos equips empaten a la zona mitja de la classificació després de dues victòries, dos empats i dues derrotes.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+      },
+      {
+        "start": "2026-10-18T08:35:43+02:00",
+        "stop": "2026-10-18T10:10:00+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Anàlisi de la jornada / J9 / Dissabte",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-18T02:27:00+02:00",
-        "stop": "2026-10-18T02:48:07+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Oblivio",
-        "description": "Ladybug i el Gat Noir es destransformen junts per primera vegada i es converteixen en la Marinette i l'Adrien. L'únic és que han perdut la memòria i no recorden res de res, ni com es diuen ni que són superherois. A poc a poc, aniran trobant pistes que els ajudaran a tornar a la realitat.",
+        "start": "2026-10-18T07:09:05+02:00",
+        "stop": "2026-10-18T07:21:01+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "Un membre de la tropa",
+        "description": "La Maia i els seus amics juguen al prat i, sense voler, fan malbé la collita de pol·len. En Beeswax aprofita per culpar-ne la Maia i dir-li a la reina que li retiri el privilegi de viure al prat. La reina li fa cas, i la Maia, per recuperar-lo, haurà de demostrar que ella i els seus amics són útils per al rusc. Però quan prova de demostrar-ho, encara embolica més la troca.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-18T02:48:07+02:00",
-        "stop": "2026-10-18T02:58:31+02:00",
-        "title": "Com dibuixar còmics amb el Will Sliney",
-        "subtitle": "Ogret",
-        "description": "En aquest nou episodi continua la presentació dels superdolents creats pel malvat Crònica perquè siguin l'antítesi dels superherois que prèviament havien creat el Will i l'Ogam per salvar la Terra. Avui arriba el torn de l'Ogret, que tot i el seu aspecte bufó, perquè està dibuixat amb l'estil japonès chibi, és l'arxienemic de la Guspireta i el seu objectiu des de fa centenars d'anys és acabar amb ella.",
-        "genre": "ALTRES",
+        "start": "2026-10-18T07:21:01+02:00",
+        "stop": "2026-10-18T07:32:05+02:00",
+        "title": "L'abella Maia",
+        "subtitle": "La gelosia",
+        "description": "De vegades, en Willi i la Maia discuteixen. Un dia, després d'una discussió d'aquestes, la Lara aprofita la situació per afalagar en Willi i fer-se passar per la seva millor amiga. En realitat, el que vol és que en Willi li porti una mica de gelea reial pel seu cutis; però agafar gelea reial és un delicte contra la Corona. La Maia, quan ho sap, mira de fer-li entendre a en Willi que la Lara es vol aprofitar d'ell per tenir el que vol.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-18T02:08:37+02:00",
-        "stop": "2026-10-18T02:52:17+02:00",
-        "title": "El Crac",
-        "subtitle": "La gran colla pessigolla",
-        "description": "El dia del seu aniversari, en Joel espera que tot l'equip de la pel·lícula li faci una festa sorpresa, però la festa no és el que ell s'imaginava. Decebut, en Joel decideix formar part de l'equip dels actors que juguen en una lligueta de bàsquet entre la gent del rodatge. Però els actors no l'accepten. Picat, en Joel s'allista al grup dels figurants i bateja l'equip amb el nom de 'Els Cools'. Aquests sí que li donaran la gran sorpresa.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-10-18T06:56:34+02:00",
+        "stop": "2026-10-18T07:22:10+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Un naturalista al Montnegre",
+        "description": "El programa de ciència del 33 visita el Montnegre per ensenyar a buscar cabirols, genetes, guineus, porcs senglars, salamandres, i aus rapinyaires com el duc. En aquest entorn molt proper a Barcelona també és fàcil trobar monuments megalítics. El parc natural situat entre el Vallès i el Maresme preserva una gran bellesa paisatgística i una notable biodiversitat malgrat els més de 5.000 anys de presència humana. Paraules clau: dolmen, alzina, egagròpila, tritó. El Montnegre arriba als 800 metres d'alçada i és a tocar del litoral. Al tenir molta humitat és un bosc molt frondós i espès. D'aquí el seu nom. Però aquesta foscor no només s'observa des de la distància sinó també, i sobretot, des de dins dels bosc mateix. L'educador ambiental Joan Manel Riera explica que l'alzina, un dels arbres dominants al massís, es pot considerar una àvia assassina pel fet que és una espècie longeva que desenvolupa una capçada molt densa amb la qual absorbeix tota la llum i condemna a la penombra el sotabosc on naixerien filles i nétes. El pi pinyer, també abundant, es pot considerar, per contra, un arbre masoquista ja que asseca les branques inferiors a mesura que les pròpies branques del damunt li fan ombra. També explica que dins el parc l'home conviu estretament amb la fauna salvatge. Les òlibes són rapinyaires nocturns que crien a les golfes de masos i ermites. Tot i que són molt discretes, se les pot localitzar a partir de les egagròpiles: unes pilotes formades per ossos, pèls i plomes indigerides que l'òliba regurgita després de cada àpat. Aquestes restes són un tresor per als naturalistes perquè permeten conèixer quines i quantes preses cacen cada nit. Així se sap que les òlibes són més eficients que els gats per mantenir els ratolins a ratlla! Marc Boada, el presentador del programa, explica com identificar diferents petjades, plomes i pells que habitualment es troben pel bosc. També mostra una mena de tumors vegetals induïts pels insectes anomenats ",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-10-18T02:52:17+02:00",
-        "stop": "2026-10-18T03:35:25+02:00",
-        "title": "El Crac",
-        "subtitle": "El gran sacrifici",
-        "description": "Per impressionar la Carla, en Joel farda de la seva gran amistat amb el cantant que l'actiu admira més que a cap altre. Aquest farà un concert a Barcelona a benefici d'una associació de donants d'òrgans i en Joel no dubta en afiliar-s'hi per aconseguir un passi pel backstage i poder-li presentar el seu 'amic' cantant a la Carla. El Crac aconsegueix el seu propòsit, però es veu obligat a apuntar-se a la llista de donants d'òrgans vius. ",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-10-18T07:22:10+02:00",
+        "stop": "2026-10-18T07:48:35+02:00",
+        "title": "Quèquicom",
+        "subtitle": "El lluminós món dels minerals",
+        "description": "Miquel Piris mira de fer-se ric convertint detritus de depuradora en vitroceràmica. Visita la mina Eureka, a la Vall Fosca, on hi ha minerals radioactius i fluorescents. A més a més, en el seu recorregut a la recerca de minerals especials, visita Expominer amb Joan Carles Melgarejo, professor de Geologia de la UB, on s'interessa per les pedres 'energètiques' a qui s'atribueixen propietats com millorar la salut o atreure amor i diners.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
