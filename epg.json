@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T13:34:19.359427+00:00",
+  "updated": "2026-10-18T16:55:35.281341+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-18T14:29:33+02:00",
-        "stop": "2026-10-18T15:34:22+02:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "start": "2026-10-18T18:28:48+02:00",
+        "stop": "2026-10-18T19:20:00+02:00",
+        "title": "Temps de silenci",
+        "subtitle": "Viatges",
+        "description": "La Isabel i en Ramon viuen la plenitud del seu amor. Però encara en secret. Hi ha qui pateix aquest amor retrobat. I hi ha les 'formes'. Formes que la Rossy voldria trencar, però el 'dol' és el dol... Els joves es van fent grans...",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       },
       {
-        "start": "2026-10-18T15:31:29+02:00",
-        "stop": "2026-10-18T16:51:16+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "L'home orquestra",
-        "description": "'L'home orquestra' (2017), una producció d'Àlex Gómez-Font (Swing Produccions) en coproducció amb Televisió de Catalunya i TVE, amb la col·laboració de l'ICEC i el suport d'AIE, VOTV, ADAG i Nova Jazz Cava.Aquest treball evoca tota una generació de músics, la major part catalans, que durant la dècada dels anys 40 i 50 van deixar enrere la dictadura franquista i van decidir embarcar-se i anar a fer les Amèriques.El relat pren com a protagonista i fil conductor la figura d'un dels darrers supervivents d'aquella aventura: el multiinstrumentista Jesús Peyrón (Barcelona, 1930), que va adoptar el nom artístic de Jesús Moreno. Peyrón va ser un dels protagonistes destacats de l?edat daurada de les grans orquestres de ball. És l'únic que va saber construir-se una carrera excepcional, actuant als millors escenaris del món i acompanyant artistes d'alçada com Frank Sinatra, Nat 'King' Cole, Édith Piaf, Judy Garland, Benny Goodman, Benny Moré, Xavier Cugat i molts altres.Direcció i guió: Àlex Gómez-Font i Carles RiobóRealització: Carles RiobóProductor: Àlex Gómez-FontProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavónDirector fotografia: Toni TarifaMuntatge: Carles RiobóDirector de producció: Pau GuixàGrafisme: Mateu Marcet",
+        "start": "2026-10-18T19:20:00+02:00",
+        "stop": "2026-10-18T19:35:05+02:00",
+        "title": "Pastors i ramats: un món que se'n va",
+        "subtitle": "Gemma Clarena",
+        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-18T14:30:00+02:00",
-        "stop": "2026-10-18T16:30:00+02:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-10-18T18:30:00+02:00",
+        "stop": "2026-10-18T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-18T16:30:00+02:00",
-        "stop": "2026-10-18T18:30:00+02:00",
+        "start": "2026-10-18T20:00:00+02:00",
+        "stop": "2026-10-18T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-18T15:22:17+02:00",
-        "stop": "2026-10-18T15:50:00+02:00",
-        "title": "Zona zàping",
-        "subtitle": "Lamine enlluerna Europa",
-        "description": "Lamine Yamal va tornar a exhibir-se en un partit de Champions. Contra el Galatasaray turc va fer una segona part espectacular on, tot i no marcar, va donar dues grans assistències. Una d'elles, després d'un regat de rabona que ha donat la volta al món.Continua al programa Laia Bonjorn, que en parlarà d'un vessant desconegut del davanter noruec Erling Haaland.L'actriu, ballarina i cantant Aina Reig acomiada el programa amb el seu nou tema 'No és massa tard'.",
-        "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"
+        "start": "2026-10-18T18:54:23+02:00",
+        "stop": "2026-10-18T19:04:59+02:00",
+        "title": "Esport Club Cap de Setmana",
+        "subtitle": "Esport Club",
+        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       },
       {
-        "start": "2026-10-18T15:50:00+02:00",
-        "stop": "2026-10-18T16:45:46+02:00",
-        "title": "Futbol",
-        "subtitle": "Gimnàstic de Tarragona-At. Madrileny / Primera Federació / J8",
-        "description": "Amb una victòria, el conjunt tarragoní superaria el madrileny a la classificació, i es podria allunyar de la zona baixa.",
+        "start": "2026-10-18T19:04:59+02:00",
+        "stop": "2026-10-18T19:50:00+02:00",
+        "title": "Handbol",
+        "subtitle": "Cangas-Barça / Lliga Asobal / J6",
+        "description": "Els blaugranes visiten la pista del conjunt gallec de Cangas do Morrazo per disputar el partit que tanca la 6a jornada de Lliga.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-18T15:33:11+02:00",
-        "stop": "2026-10-18T15:44:15+02:00",
-        "title": "Les Sisters",
-        "subtitle": "De tal germana, tal germana",
-        "description": "La Marine imita la Wendy com si fossin germanes bessones. Al principi a la gran li fa gràcia, però de seguida es converteix en una murga, sobretot quan la Marine entra amb ella a la piscina. Sempre els passa el mateix: per culpa de les rucades que fa la Marine, el socorrista acaba fent fora de la piscina la Wendy i els seus amics.",
+        "start": "2026-10-18T18:54:45+02:00",
+        "stop": "2026-10-18T19:00:45+02:00",
+        "title": "El xai Shaun",
+        "subtitle": "Missió incapsible",
+        "description": "Aprofitant que el granger està enfeinat intentant posar en marxa l'ordinador que s'acaba de comprar, les ovelles decideixen organitzar un partit de futbol, però a la primera de canvi la pilota va a parar a dins de la casa i el granger els la confisca. Ara toca recuperar-la, i en Shaun té la disfressa perfecta per fer-ho! Ara només falta que el granger s'ho empassi!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-18T15:44:15+02:00",
-        "stop": "2026-10-18T15:57:37+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Un germanet per les germanes",
-        "description": "La Marine sent una conversa entre els seus pares i creu que la seva mare espera un fill. La Wendy salta d'alegria: la Marine serà la germana gran del menut i la deixarà tranquil·la! La Marine li demana a un amic el seu germà petit per poder practicar-hi i se l'endú a casa. Però cuidar un nen petit no és tan fàcil...",
+        "start": "2026-10-18T19:00:45+02:00",
+        "stop": "2026-10-18T19:06:44+02:00",
+        "title": "El xai Shaun",
+        "subtitle": "Nit de cine",
+        "description": "En Bitzer descobreix en Shaun a l'estable veient pel·lícules antigues de la vida a la granja, records d'altres temps que els fan reviure moments de ridículs espantosos. La cosa es comença a escalfar tant l'un com l'altre es comencen a treure els drapets al sol. Pot ser que sigui el final d'una gran amistat? O més aviat el principi d'una nova enemistat?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-18T15:20:06+02:00",
-        "stop": "2026-10-18T16:12:38+02:00",
-        "title": "El Bulli, l'últim vals",
-        "subtitle": "El Bulli, l'últim vals",
-        "description": "El 30 de juliol de 2011, el Bulli -guanyador durant cinc edicions del guardó a millor restaurant del món- va tancar les seves portes per convertir-se, el 2014, en Fundació. El seu xef, Ferran Adrià, va servir un últim i espectacular sopar, acompanyat dels qui avui són els millors xefs del món i que en els darrers anys han passat a elBulli; René Redzepi (Noma), Joan Roca (El Celler de Can Roca), Andoni Luis Aduriz (Mugaritz), Grand Achat (Alinea), Massimo Bottura (Osteria Francescana) i José Andrés (Think Food Group).",
+        "start": "2026-10-18T18:21:16+02:00",
+        "stop": "2026-10-18T19:01:53+02:00",
+        "title": "Un món de Jocs",
+        "subtitle": "L'espai de joc dels déus",
+        "description": "Els Jocs Olímpics van començar com una cerimònia religiosa. Milers d'anys després, la línia entre l'esport i la religió encara és poc clara. Als millors jugadors del món se'ls venera com si fossin divinitats i, com qualsevol divinitat, les seves accions inspiren les masses. Els jocs d'aquest episodi són profundes experiències religioses. Son molt més que espais de joc, són els espais de joc dels Déus.Alpinisme, FrançaPasola, IndonèsiaIoga, els Estats UnitsRarajipari, Mèxic",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1734447007847.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
       },
       {
-        "start": "2026-10-18T16:12:38+02:00",
-        "stop": "2026-10-18T17:12:29+02:00",
-        "title": "Plat en blanc",
-        "subtitle": "Plat en blanc",
-        "description": "'Plat en blanc' (2025) una producció d'Abacus, en coproducció amb 3Cat i el suport de la Generalitat de Catalunya. 'Plat en blanc' és un inside al procés del restaurant Disfrutar fins aconseguir ser distingit com el millor restaurant del món en una espectacular gala a Las Vegas. A més d'aquest seguiment, el documental ens mostra la història dels tres xefs, Eduard Xatruch, Mateu Casañas i Oriol Castro, des del seu pas sacrificat per El Bulli fins aconseguir crear el seu propi restaurant. 'Plat en Blanc' és una immersió en la cuina com a art, ciència, territori i emoció, on cada plat és un llenç en blanc a punt per ser pintat amb sabors i innovació. Direcció: Alan Fàbregas i Ramon Pardina Guió: Ramon Pardina Realització: Alan Fàbregas Producció executiva: Oriol Cortacans i Marc Roma Producció: Carla Alpeñés Andrada Producció executiva 3Cat: David Bassa Cabanas Silvia Pairó Vila Producció delegada 3Cat: Daniel Barea Delgado Direcció de fotografia: Alan Fàbregas Muntatge: Roger Llorens Direcció de producció: Tatiana Iriarte Grafisme: Roger Llorens ",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/2/1747732419324.jpg"
+        "start": "2026-10-18T19:01:53+02:00",
+        "stop": "2026-10-18T20:00:53+02:00",
+        "title": "Rick Stein: De Venècia a Istanbul",
+        "subtitle": "Grècia",
+        "description": "En Rick deixa Albània i entra al nord de Grècia, on tasta 'kotopita' i 'hortopita', unes panades delicioses fetes amb pasta de full. A Ioànnina tasta uns quants plats de peix del llac i un estofat amb un toc bizantí que li prepara una estudiant de cuina. A Préveza visita una botiga on venen 'ouzo', i a Mesolongi un lloc on fan botàriga (ous de peix assecat, usats com a condiment). A la seva cuina de l'illa de Simi ens farà 'souvlaki', 'avgolemono' (sopa de pollastre amb ou escaldat), i pebrots i tomàquets farcits.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
