@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T09:36:41.326216+00:00",
+  "updated": "2026-10-18T13:34:19.359427+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-18T10:01:54+02:00",
-        "stop": "2026-10-18T11:42:02+02:00",
-        "title": "Diumenge Concert",
-        "subtitle": "Judit Neddermann & GIO Symphonia: 10 anys de trajectòria",
-        "description": "La reconeguda cantant i compositora Judit Neddermann arriba a la Sala Montsalvatge de l'Auditori de Girona acompanyada per la seva banda i la GIO Symphonia, sota la direcció de Joan Albert Amargós, per celebrar una trajectòria en constant evolució, que arriba als 10 anys, marcada per la poètica de la vida i l'amor per la música. Judit Neddermann compta amb els seus músics, col·laboradors habituals: Pau Figueras, guitarres; Isaac Coll, baix; Adrià Gonzàlez, piano; Dídac Fernández, bateria i percussió, a més de la GIO Symphonia i el mestre Joan Albert Amargós, a càrrec dels arranjaments i la direcció.Cançó i orquestra en un diàleg emocionant per celebrar els 10 anys de trajectòria de l'artista catalana des de l'Auditori de Girona, en un enregistrament fet el 28 febrer 2026 ",
-        "genre": "CLÀSSICA",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/1/1730826356312.jpg"
+        "start": "2026-10-18T14:29:33+02:00",
+        "stop": "2026-10-18T15:34:22+02:00",
+        "title": "Telenotícies migdia",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-10-18T11:42:02+02:00",
-        "stop": "2026-10-18T14:12:02+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-10-18T15:31:29+02:00",
+        "stop": "2026-10-18T16:51:16+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "L'home orquestra",
+        "description": "'L'home orquestra' (2017), una producció d'Àlex Gómez-Font (Swing Produccions) en coproducció amb Televisió de Catalunya i TVE, amb la col·laboració de l'ICEC i el suport d'AIE, VOTV, ADAG i Nova Jazz Cava.Aquest treball evoca tota una generació de músics, la major part catalans, que durant la dècada dels anys 40 i 50 van deixar enrere la dictadura franquista i van decidir embarcar-se i anar a fer les Amèriques.El relat pren com a protagonista i fil conductor la figura d'un dels darrers supervivents d'aquella aventura: el multiinstrumentista Jesús Peyrón (Barcelona, 1930), que va adoptar el nom artístic de Jesús Moreno. Peyrón va ser un dels protagonistes destacats de l?edat daurada de les grans orquestres de ball. És l'únic que va saber construir-se una carrera excepcional, actuant als millors escenaris del món i acompanyant artistes d'alçada com Frank Sinatra, Nat 'King' Cole, Édith Piaf, Judy Garland, Benny Goodman, Benny Moré, Xavier Cugat i molts altres.Direcció i guió: Àlex Gómez-Font i Carles RiobóRealització: Carles RiobóProductor: Àlex Gómez-FontProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavónDirector fotografia: Toni TarifaMuntatge: Carles RiobóDirector de producció: Pau GuixàGrafisme: Mateu Marcet",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-18T09:00:00+02:00",
-        "stop": "2026-10-18T12:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-18T14:30:00+02:00",
+        "stop": "2026-10-18T16:30:00+02:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-10-18T12:00:00+02:00",
-        "stop": "2026-10-18T14:30:00+02:00",
+        "start": "2026-10-18T16:30:00+02:00",
+        "stop": "2026-10-18T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,75 +83,65 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-18T10:11:05+02:00",
-        "stop": "2026-10-18T11:55:00+02:00",
-        "title": "Futbol",
-        "subtitle": "Reial Madrid-RCD Espanyol / Lliga F / J7",
-        "description": "Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "start": "2026-10-18T15:22:17+02:00",
+        "stop": "2026-10-18T15:50:00+02:00",
+        "title": "Zona zàping",
+        "subtitle": "Lamine enlluerna Europa",
+        "description": "Lamine Yamal va tornar a exhibir-se en un partit de Champions. Contra el Galatasaray turc va fer una segona part espectacular on, tot i no marcar, va donar dues grans assistències. Una d'elles, després d'un regat de rabona que ha donat la volta al món.Continua al programa Laia Bonjorn, que en parlarà d'un vessant desconegut del davanter noruec Erling Haaland.L'actriu, ballarina i cantant Aina Reig acomiada el programa amb el seu nou tema 'No és massa tard'.",
+        "genre": "ALTRES",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"
       },
       {
-        "start": "2026-10-18T11:55:00+02:00",
-        "stop": "2026-10-18T15:50:00+02:00",
+        "start": "2026-10-18T15:50:00+02:00",
+        "stop": "2026-10-18T16:45:46+02:00",
         "title": "Futbol",
-        "subtitle": "Reus FC Reddis-RCD Espanyol B / Segona Federació / J7",
-        "description": "Duel entre dos conjunts que són a la part alta i lluiten per la zona de play-off d'ascens a Primera Federació.",
+        "subtitle": "Gimnàstic de Tarragona-At. Madrileny / Primera Federació / J8",
+        "description": "Amb una victòria, el conjunt tarragoní superaria el madrileny a la classificació, i es podria allunyar de la zona baixa.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-18T11:34:33+02:00",
-        "stop": "2026-10-18T11:56:46+02:00",
-        "title": "El carreró del misteri",
-        "subtitle": "El vampir de Lexington",
-        "description": "Mentre el Vermell, un gat de carrer, i el seu amic Tommy sopen al parc una nit, surt del no-res un ratpenat estrany i mossega el Tommy. El Vermell no s'ho pot acabar de creure: el seu amic s'ha convertit en... un vampir!",
+        "start": "2026-10-18T15:33:11+02:00",
+        "stop": "2026-10-18T15:44:15+02:00",
+        "title": "Les Sisters",
+        "subtitle": "De tal germana, tal germana",
+        "description": "La Marine imita la Wendy com si fossin germanes bessones. Al principi a la gran li fa gràcia, però de seguida es converteix en una murga, sobretot quan la Marine entra amb ella a la piscina. Sempre els passa el mateix: per culpa de les rucades que fa la Marine, el socorrista acaba fent fora de la piscina la Wendy i els seus amics.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-18T11:56:46+02:00",
-        "stop": "2026-10-18T12:03:41+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Llaminadures especials",
-        "description": "Els lèmmings han trobat un paquet de pastilles de menta glacial que refresquen tant l'alè que, un cop se n'ha menjat, una sola bafarada congela tot el que troba al davant. Però, en Grizzy, que no li agrada gaire aquest ambient glacial, fa mans i mànigues per prendre'ls els caramels. La situació es complica encara més quan els lèmmings descobreixen els poders d'un superxiclet.",
+        "start": "2026-10-18T15:44:15+02:00",
+        "stop": "2026-10-18T15:57:37+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Un germanet per les germanes",
+        "description": "La Marine sent una conversa entre els seus pares i creu que la seva mare espera un fill. La Wendy salta d'alegria: la Marine serà la germana gran del menut i la deixarà tranquil·la! La Marine li demana a un amic el seu germà petit per poder practicar-hi i se l'endú a casa. Però cuidar un nen petit no és tan fàcil...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-18T11:32:51+02:00",
-        "stop": "2026-10-18T12:18:56+02:00",
-        "title": "La Renaixença",
-        "subtitle": "Millors moments - setmana 15",
-        "description": "Aquí us deixem un resum dels últims quatre capítols. Hem parlat de la medalla, del ratolí d'ordinador, del diccionari i del globus aerostàtic. I ens han visitat l'Anna Barrachina, actriu; la Violant Bonet, restauradora i conservadora d'art; l'Alidé Sans, cantautora aranesa; i en Toni Arbonés, escalador. Si us agrada el resum, aprofiteu per mirar els capítols sencers, que sempre hi ha més moments que mereixen ser vistos.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-10-18T15:20:06+02:00",
+        "stop": "2026-10-18T16:12:38+02:00",
+        "title": "El Bulli, l'últim vals",
+        "subtitle": "El Bulli, l'últim vals",
+        "description": "El 30 de juliol de 2011, el Bulli -guanyador durant cinc edicions del guardó a millor restaurant del món- va tancar les seves portes per convertir-se, el 2014, en Fundació. El seu xef, Ferran Adrià, va servir un últim i espectacular sopar, acompanyat dels qui avui són els millors xefs del món i que en els darrers anys han passat a elBulli; René Redzepi (Noma), Joan Roca (El Celler de Can Roca), Andoni Luis Aduriz (Mugaritz), Grand Achat (Alinea), Massimo Bottura (Osteria Francescana) i José Andrés (Think Food Group).",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1734447007847.jpg"
       },
       {
-        "start": "2026-10-18T12:18:56+02:00",
-        "stop": "2026-10-18T13:09:05+02:00",
-        "title": "La Renaixença",
-        "subtitle": "Millors moments - setmana 3",
-        "description": "Els objectes destacats de la setmana han sigut: la calculadora, la barbacoa, el con i la làpida, dos objectes útils per començar la setmana i, per acabar-la, dos de més justets. També ens ha visitat el cuiner i veí nostre Nandu Jubany, en Daniel Martin, investigador encarregat de bategar noves espècies de cucs, l'Arturo Gaya, membre del mític conjunt Quico el Célio, el Noi i el Mut de Ferreries, i la Bruna Girvent, investigadora en IA, com podeu veure, són programes de nivell!",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-10-18T16:12:38+02:00",
+        "stop": "2026-10-18T17:12:29+02:00",
+        "title": "Plat en blanc",
+        "subtitle": "Plat en blanc",
+        "description": "'Plat en blanc' (2025) una producció d'Abacus, en coproducció amb 3Cat i el suport de la Generalitat de Catalunya. 'Plat en blanc' és un inside al procés del restaurant Disfrutar fins aconseguir ser distingit com el millor restaurant del món en una espectacular gala a Las Vegas. A més d'aquest seguiment, el documental ens mostra la història dels tres xefs, Eduard Xatruch, Mateu Casañas i Oriol Castro, des del seu pas sacrificat per El Bulli fins aconseguir crear el seu propi restaurant. 'Plat en Blanc' és una immersió en la cuina com a art, ciència, territori i emoció, on cada plat és un llenç en blanc a punt per ser pintat amb sabors i innovació. Direcció: Alan Fàbregas i Ramon Pardina Guió: Ramon Pardina Realització: Alan Fàbregas Producció executiva: Oriol Cortacans i Marc Roma Producció: Carla Alpeñés Andrada Producció executiva 3Cat: David Bassa Cabanas Silvia Pairó Vila Producció delegada 3Cat: Daniel Barea Delgado Direcció de fotografia: Alan Fàbregas Muntatge: Roger Llorens Direcció de producció: Tatiana Iriarte Grafisme: Roger Llorens ",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/2/1747732419324.jpg"
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-10-18T11:30:00+02:00",
-        "stop": "2026-10-18T13:59:55+02:00",
-        "title": "Bàsquet",
-        "subtitle": "- FIATC Girona-Leyma Corunya / Lliga / J4",
-        "description": "Catalans i gallecs estan empatats a la taula classificatòria amb 1 victòria i 2 derrotes.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"
-      }
-    ],
+    "oca1": [],
     "oca2": [],
     "oca3": [],
     "oca4": []
