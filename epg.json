@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T19:12:09.341679+00:00",
+  "updated": "2026-10-18T21:31:08.744195+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-18T21:00:00+02:00",
-        "stop": "2026-10-18T22:09:01+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-10-18T22:55:25+02:00",
+        "stop": "2026-10-19T02:25:44+02:00",
+        "title": "Vèrtex",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "description": "Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.",
+        "genre": "ENTREVISTES",
+        "image": ""
       },
       {
-        "start": "2026-10-18T22:09:01+02:00",
-        "stop": "2026-10-18T22:50:47+02:00",
-        "title": "30 minuts",
-        "subtitle": "Les escoles dels 'altres'",
-        "description": "A Catalunya hi ha uns 225.000 infants i joves escolaritzats en unes 350 escoles i instituts classificats oficialment 'de màxima complexitat'. Es tracta d'escoles anormalment homogènies pel que fa a la seva composició. Aquesta falta de barreja sociocultural dificulta que els alumnes progressin com ho podran fer els nois i noies que assisteixen a escoles que s'assemblen més a la societat catalana en conjunt. Són centres amb uns índexs d'absentisme, d'abandonament i de fracàs escolar més alts que la mitjana. Són les anomenades 'escoles segregades'. Per què és tan rellevant l'existència d'aquest fenomen, que es repeteix any rere any a l'època de les preinscripcions de cara al curs següent? D'una banda, perquè l'alumne no només aprèn del que rep del professor, sinó també dels companys. Per exemple, quan arribi l'etapa de l'ESO, si els companys tenen com a opció principals seguir estudiant, l'alumne té menys incentius per abandonar els estudis. De l'altra, aquesta realitat suposa un risc per a la cohesió social futura. 'Si no creixem junts, simplement no sabrem com viure junts', alerta l'exministra d'Educació de França Najat Vallaud-Belkacem. A l'estat francès fa anys que preocupa el risc d'estar construint una societat paral·lela, amb comunitats que gairebé no es coneixen. Si els infants de famílies més o menys benestants i els infants de famílies més o menys precaritzades no s'han interrelacionat mai, i si laboralment uns estan predestinats a un tipus de feines i els altres a d'altres... quin vincle tindran en un futur? Quan eren petits eren veïns, però no els connectarà res més enllà d'això. Quins ciutadans de futur estan generant les escoles segregades, les escoles on van 'els altres'?",
-        "genre": "REPORTATGES",
-        "image": "https://statics.ccma.cat/multimedia/jpg/7/3/1571603193237.jpg"
+        "start": "2026-10-19T02:25:44+02:00",
+        "stop": "2026-10-19T03:00:43+02:00",
+        "title": "Gent amb DO",
+        "subtitle": "DO Empordà. 'Els 3 colors de la garnatxa i la carinyena'",
+        "description": "A l'Empordà, la tramuntana toca el paisatge, la gent i també els vins. Empar Moliner recorre en aquest capítol un territori de mar i també muntanya, entre carinyenes i lledoners de tres colors. Un viatge per descobrir com un vent indòmit pot modelar la terra i concentrar l'essència d'una DO. Quin és el do de la DO Empordà?",
+        "genre": "SÈRIE DOCUMENTAL",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-18T21:00:00+02:00",
-        "stop": "2026-10-18T23:00:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
         "start": "2026-10-18T23:00:00+02:00",
         "stop": "2026-10-19T00:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-19T00:30:00+02:00",
+        "stop": "2026-10-19T01:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-18T21:02:00+02:00",
-        "stop": "2026-10-18T21:53:13+02:00",
-        "title": "Hoquei patins",
-        "subtitle": "CP Calafell-Barça / Lliga Catalana / Final",
-        "description": "Des de Santa Perpètua de Mogoda, la final de la 22a edició de la Lliga Catalana d'hoquei patins en categoria masculina absoluta.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
+        "start": "2026-10-18T22:55:00+02:00",
+        "stop": "2026-10-19T00:31:35+02:00",
+        "title": "Gol a gol",
+        "subtitle": "Anàlisi de la jornada / J9 / Diumenge",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-10-18T21:53:13+02:00",
-        "stop": "2026-10-18T22:17:08+02:00",
-        "title": "Espòiler",
+        "start": "2026-10-19T00:31:35+02:00",
+        "stop": "2026-10-19T00:50:07+02:00",
+        "title": "3CatInfo Esports",
         "subtitle": "",
-        "description": "'Espòiler' és un programa dedicat al món dels cotxes i del caravàning, un espai on hi té cabuda tot el que té a veure amb aquests vehicles a motor. Descobrim les novetats del sector, amb models que s'acaben d'estrenar, test drives, una secció d'electromobilitat i també les millors autocaravanes del moment.Mercè Rivas, Sergio Domínguez, Oriol Llardén i Telva Somoza són els encarregats de posar a prova els automòbils i transmetre les seves sensacions. Dani Blasco capitaneja la secció 'Contravolant', on us sorprèn amb històries extraordinàries i divertides. El programa també té un espai anomenat 'Al volant amb...', en què cada setmana un famós ajuda Carles Llinars, instructor del Circuit Escola del RACC, a explicar un consell de conducció.'Espòiler' és una producció de Televisió de Catalunya amb la col·laboració de Drive Media i la realització de HolyCars Studio.",
-        "genre": "REPORTATGES",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-18T21:00:03+02:00",
-        "stop": "2026-10-18T21:20:56+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Tria un peix espasa",
-        "description": "L'Aviva és una mestra de l'esgrima i proposa als germans Kratt un repte: que triïn quin vestit de peix amb espasa prefereixen per fer un duel amb ella. L'equip aprofita l'ocasió per estudiar les semblances i les diferències entre tres tipus de peixos que tenen espasa al morro: el marlí, el peix vela i el peix espasa. Mentrestant, s'hauran d'enfrontar amb el Zach, que vol dur a terme un altre projecte malvat dels seus: capturar tots els peixos del món per vendre'ls i fer-se més ric.",
+        "start": "2026-10-18T23:30:01+02:00",
+        "stop": "2026-10-18T23:41:08+02:00",
+        "title": "La tropa del corral",
+        "subtitle": "Falta de comunicació",
+        "description": "Sona el telèfon vermell de la Maggie, però es talla la línia a causa d'una ràfega de vent. Mentre part de la Tropa intenta esbrinar qui ha trucat, l'altra intenta restablir la línia, i no serà gens fàcil.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-18T21:20:56+02:00",
-        "stop": "2026-10-18T21:41:05+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El dragó de Komodo",
-        "description": "Els germans Kratt i els seus amics van a l'illa de Komodo perquè han vist que el Gormand s'ha posat a robar tots els ous de dragó de Komodo per una recepta malvada. És una missió urgent, perquè d'aquests dragons només n'hi ha en aquesta illa i són una espècie en perill d'extinció. Per dur a terme el rescat, necessiten el vestit de poder de dragó de Komodo, que els farà experimentar totes les capacitats d'aquest animal.",
+        "start": "2026-10-18T23:41:08+02:00",
+        "stop": "2026-10-18T23:51:56+02:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "Posem-hi fideuets",
+        "description": "La Moona està disgustada perquè no pot anar a una trobada d'exalumnes perquè ha de treballar a la gelateria. La Felicity i el Miguel s'ofereixen a substituir-la i, per poder fer uns gelats espectaculars, demanen ajuda a una fada molt especial.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-18T21:02:55+02:00",
-        "stop": "2026-10-18T21:31:56+02:00",
-        "title": "Caçadors de bolets",
-        "subtitle": "Perruqueres",
-        "description": "Aquesta setmana anem al Baix Empordà i ens enfilem pocs metres per sobre el mar, a les Gavarres. I les 'caçadores de bolets' són un grup de perruqueres de Palamós que estan disposades a entrar al bosc, oblidar-se de la imatge i omplir els cistells amb ceps, rossinyols i ous de reig.",
-        "genre": "DOCUMENTAL DOCUDRAMA",
+        "start": "2026-10-18T23:24:58+02:00",
+        "stop": "2026-10-19T00:08:47+02:00",
+        "title": "Ben Fogle: Retorn a la fi del món",
+        "subtitle": "Bulgària",
+        "description": "Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-18T21:31:56+02:00",
-        "stop": "2026-10-18T21:57:49+02:00",
-        "title": "Caçadors de bolets",
-        "subtitle": "Paradistes",
-        "description": "En aquest capítol acompanyarem un grup de paradistes que deixaran per unes hores el mercat per anar als boscos del Maresme i del Corredor a buscar sobretot rovellons i trompetes. La missió no serà fàcil perquè el bosc està molt sec.",
-        "genre": "DOCUMENTAL DOCUDRAMA",
-        "image": ""
+        "start": "2026-10-19T00:08:47+02:00",
+        "stop": "2026-10-19T00:49:30+02:00",
+        "title": "Un món de Jocs",
+        "subtitle": "Grans negocis",
+        "description": "Als humans ens encanta jugar. Juguem des de temps immemorials, a qualsevol lloc: a la sorra, a la neu, a terra, a l'aigua, a l'asfalt. Però per què juguem?En aquesta sèrie de sis episodis, Idris Elba, un actor de renom internacional i fanàtic dels esports, fa un recorregut per tot el món per visitar els espais de joc més espectaculars i retratar les persones més extraordinàries mentre juga a una gran varietat de jocs. En aquests espais és on mostrem qui som en realitat, mostrem l'alegria, la vergonya, la glòria i el dolor. Aquests espais són miralls que ens ajuden a explorar-nos a nosaltres mateixos i el món que ens envolta.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
       }
     ],
     "oca1": [],
