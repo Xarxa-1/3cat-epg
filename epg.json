@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T05:10:57.874438+00:00",
+  "updated": "2026-10-18T09:36:41.326216+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-18T07:00:01+02:00",
-        "stop": "2026-10-18T09:29:46+02:00",
+        "start": "2026-10-18T10:01:54+02:00",
+        "stop": "2026-10-18T11:42:02+02:00",
+        "title": "Diumenge Concert",
+        "subtitle": "Judit Neddermann & GIO Symphonia: 10 anys de trajectòria",
+        "description": "La reconeguda cantant i compositora Judit Neddermann arriba a la Sala Montsalvatge de l'Auditori de Girona acompanyada per la seva banda i la GIO Symphonia, sota la direcció de Joan Albert Amargós, per celebrar una trajectòria en constant evolució, que arriba als 10 anys, marcada per la poètica de la vida i l'amor per la música. Judit Neddermann compta amb els seus músics, col·laboradors habituals: Pau Figueras, guitarres; Isaac Coll, baix; Adrià Gonzàlez, piano; Dídac Fernández, bateria i percussió, a més de la GIO Symphonia i el mestre Joan Albert Amargós, a càrrec dels arranjaments i la direcció.Cançó i orquestra en un diàleg emocionant per celebrar els 10 anys de trajectòria de l'artista catalana des de l'Auditori de Girona, en un enregistrament fet el 28 febrer 2026 ",
+        "genre": "CLÀSSICA",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/1/1730826356312.jpg"
+      },
+      {
+        "start": "2026-10-18T11:42:02+02:00",
+        "stop": "2026-10-18T14:12:02+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-10-18T09:29:46+02:00",
-        "stop": "2026-10-18T10:01:53+02:00",
-        "title": "Signes dels temps",
-        "subtitle": "El tresor amagat a les muntanyes de l'Atles, al Marroc",
-        "description": "L'escriptora Laia Martorell ens explica els seus viatges al desert i a les muntanyes de l'Atles, al Marroc. Durant un temps deixa la feina d'educadora mediambiental en parcs naturals de Catalunya i es trasllada a viure al Marroc. Una experiència que l'ha transformada i que recull en el llibre 'Com un bosc de cedres' (La Banya, 2026). A la regió de l'Atles descobreix un tresor amagat, una espiritualitat despullada de prejudicis i basada en els valors del respecte, la convivència i el diàleg interreligiós i intercultural. Allà coneix unes monges cristianes franciscanes que convivien amb amazics seminòmades musulmans i els ajudaven en diversos projectes. Fins i tot a reconstruir la mesquita del poble, que s'havia ensorrat. I al monestir de Notre-Dame de l'Atles, coneix el monjo trapenc Jean-Pierre Schumacher. És l'únic supervivent viu de l'assassinat de set monjos de la seva comunitat a Tibhirine, Algèria, el 1996. Laia Martorell ens parla d'una espiritualitat teixida de converses, certeses i aprenentatges profunds que recorda amb una gran sensibilitat.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-18T06:00:00+02:00",
-        "stop": "2026-10-18T09:00:00+02:00",
+        "start": "2026-10-18T09:00:00+02:00",
+        "stop": "2026-10-18T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-18T09:00:00+02:00",
-        "stop": "2026-10-18T12:00:00+02:00",
+        "start": "2026-10-18T12:00:00+02:00",
+        "stop": "2026-10-18T14:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,65 +83,75 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-18T06:47:03+02:00",
-        "stop": "2026-10-18T08:35:43+02:00",
+        "start": "2026-10-18T10:11:05+02:00",
+        "stop": "2026-10-18T11:55:00+02:00",
         "title": "Futbol",
-        "subtitle": "FC Badalona Women-CD Tenerife / Lliga F / J7",
-        "description": "Tots dos equips empaten a la zona mitja de la classificació després de dues victòries, dos empats i dues derrotes.",
+        "subtitle": "Reial Madrid-RCD Espanyol / Lliga F / J7",
+        "description": "Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       },
       {
-        "start": "2026-10-18T08:35:43+02:00",
-        "stop": "2026-10-18T10:10:00+02:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J9 / Dissabte",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-10-18T11:55:00+02:00",
+        "stop": "2026-10-18T15:50:00+02:00",
+        "title": "Futbol",
+        "subtitle": "Reus FC Reddis-RCD Espanyol B / Segona Federació / J7",
+        "description": "Duel entre dos conjunts que són a la part alta i lluiten per la zona de play-off d'ascens a Primera Federació.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-18T07:09:05+02:00",
-        "stop": "2026-10-18T07:21:01+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "Un membre de la tropa",
-        "description": "La Maia i els seus amics juguen al prat i, sense voler, fan malbé la collita de pol·len. En Beeswax aprofita per culpar-ne la Maia i dir-li a la reina que li retiri el privilegi de viure al prat. La reina li fa cas, i la Maia, per recuperar-lo, haurà de demostrar que ella i els seus amics són útils per al rusc. Però quan prova de demostrar-ho, encara embolica més la troca.",
+        "start": "2026-10-18T11:34:33+02:00",
+        "stop": "2026-10-18T11:56:46+02:00",
+        "title": "El carreró del misteri",
+        "subtitle": "El vampir de Lexington",
+        "description": "Mentre el Vermell, un gat de carrer, i el seu amic Tommy sopen al parc una nit, surt del no-res un ratpenat estrany i mossega el Tommy. El Vermell no s'ho pot acabar de creure: el seu amic s'ha convertit en... un vampir!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-18T07:21:01+02:00",
-        "stop": "2026-10-18T07:32:05+02:00",
-        "title": "L'abella Maia",
-        "subtitle": "La gelosia",
-        "description": "De vegades, en Willi i la Maia discuteixen. Un dia, després d'una discussió d'aquestes, la Lara aprofita la situació per afalagar en Willi i fer-se passar per la seva millor amiga. En realitat, el que vol és que en Willi li porti una mica de gelea reial pel seu cutis; però agafar gelea reial és un delicte contra la Corona. La Maia, quan ho sap, mira de fer-li entendre a en Willi que la Lara es vol aprofitar d'ell per tenir el que vol.",
+        "start": "2026-10-18T11:56:46+02:00",
+        "stop": "2026-10-18T12:03:41+02:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Llaminadures especials",
+        "description": "Els lèmmings han trobat un paquet de pastilles de menta glacial que refresquen tant l'alè que, un cop se n'ha menjat, una sola bafarada congela tot el que troba al davant. Però, en Grizzy, que no li agrada gaire aquest ambient glacial, fa mans i mànigues per prendre'ls els caramels. La situació es complica encara més quan els lèmmings descobreixen els poders d'un superxiclet.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-18T06:56:34+02:00",
-        "stop": "2026-10-18T07:22:10+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Un naturalista al Montnegre",
-        "description": "El programa de ciència del 33 visita el Montnegre per ensenyar a buscar cabirols, genetes, guineus, porcs senglars, salamandres, i aus rapinyaires com el duc. En aquest entorn molt proper a Barcelona també és fàcil trobar monuments megalítics. El parc natural situat entre el Vallès i el Maresme preserva una gran bellesa paisatgística i una notable biodiversitat malgrat els més de 5.000 anys de presència humana. Paraules clau: dolmen, alzina, egagròpila, tritó. El Montnegre arriba als 800 metres d'alçada i és a tocar del litoral. Al tenir molta humitat és un bosc molt frondós i espès. D'aquí el seu nom. Però aquesta foscor no només s'observa des de la distància sinó també, i sobretot, des de dins dels bosc mateix. L'educador ambiental Joan Manel Riera explica que l'alzina, un dels arbres dominants al massís, es pot considerar una àvia assassina pel fet que és una espècie longeva que desenvolupa una capçada molt densa amb la qual absorbeix tota la llum i condemna a la penombra el sotabosc on naixerien filles i nétes. El pi pinyer, també abundant, es pot considerar, per contra, un arbre masoquista ja que asseca les branques inferiors a mesura que les pròpies branques del damunt li fan ombra. També explica que dins el parc l'home conviu estretament amb la fauna salvatge. Les òlibes són rapinyaires nocturns que crien a les golfes de masos i ermites. Tot i que són molt discretes, se les pot localitzar a partir de les egagròpiles: unes pilotes formades per ossos, pèls i plomes indigerides que l'òliba regurgita després de cada àpat. Aquestes restes són un tresor per als naturalistes perquè permeten conèixer quines i quantes preses cacen cada nit. Així se sap que les òlibes són més eficients que els gats per mantenir els ratolins a ratlla! Marc Boada, el presentador del programa, explica com identificar diferents petjades, plomes i pells que habitualment es troben pel bosc. També mostra una mena de tumors vegetals induïts pels insectes anomenats ",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-10-18T11:32:51+02:00",
+        "stop": "2026-10-18T12:18:56+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 15",
+        "description": "Aquí us deixem un resum dels últims quatre capítols. Hem parlat de la medalla, del ratolí d'ordinador, del diccionari i del globus aerostàtic. I ens han visitat l'Anna Barrachina, actriu; la Violant Bonet, restauradora i conservadora d'art; l'Alidé Sans, cantautora aranesa; i en Toni Arbonés, escalador. Si us agrada el resum, aprofiteu per mirar els capítols sencers, que sempre hi ha més moments que mereixen ser vistos.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-10-18T07:22:10+02:00",
-        "stop": "2026-10-18T07:48:35+02:00",
-        "title": "Quèquicom",
-        "subtitle": "El lluminós món dels minerals",
-        "description": "Miquel Piris mira de fer-se ric convertint detritus de depuradora en vitroceràmica. Visita la mina Eureka, a la Vall Fosca, on hi ha minerals radioactius i fluorescents. A més a més, en el seu recorregut a la recerca de minerals especials, visita Expominer amb Joan Carles Melgarejo, professor de Geologia de la UB, on s'interessa per les pedres 'energètiques' a qui s'atribueixen propietats com millorar la salut o atreure amor i diners.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-10-18T12:18:56+02:00",
+        "stop": "2026-10-18T13:09:05+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 3",
+        "description": "Els objectes destacats de la setmana han sigut: la calculadora, la barbacoa, el con i la làpida, dos objectes útils per començar la setmana i, per acabar-la, dos de més justets. També ens ha visitat el cuiner i veí nostre Nandu Jubany, en Daniel Martin, investigador encarregat de bategar noves espècies de cucs, l'Arturo Gaya, membre del mític conjunt Quico el Célio, el Noi i el Mut de Ferreries, i la Bruna Girvent, investigadora en IA, com podeu veure, són programes de nivell!",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
-    "oca1": [],
+    "oca1": [
+      {
+        "start": "2026-10-18T11:30:00+02:00",
+        "stop": "2026-10-18T13:59:55+02:00",
+        "title": "Bàsquet",
+        "subtitle": "- FIATC Girona-Leyma Corunya / Lliga / J4",
+        "description": "Catalans i gallecs estan empatats a la taula classificatòria amb 1 victòria i 2 derrotes.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"
+      }
+    ],
     "oca2": [],
     "oca3": [],
     "oca4": []
