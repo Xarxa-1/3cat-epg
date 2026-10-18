@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T21:31:08.744195+00:00",
+  "updated": "2026-10-18T23:39:28.746813+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-18T22:55:25+02:00",
-        "stop": "2026-10-19T02:25:44+02:00",
-        "title": "Vèrtex",
-        "subtitle": "",
-        "description": "Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.",
-        "genre": "ENTREVISTES",
-        "image": ""
-      },
-      {
-        "start": "2026-10-19T02:25:44+02:00",
-        "stop": "2026-10-19T03:00:43+02:00",
-        "title": "Gent amb DO",
-        "subtitle": "DO Empordà. 'Els 3 colors de la garnatxa i la carinyena'",
-        "description": "A l'Empordà, la tramuntana toca el paisatge, la gent i també els vins. Empar Moliner recorre en aquest capítol un territori de mar i també muntanya, entre carinyenes i lledoners de tres colors. Un viatge per descobrir com un vent indòmit pot modelar la terra i concentrar l'essència d'una DO. Quin és el do de la DO Empordà?",
-        "genre": "SÈRIE DOCUMENTAL",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-10-18T23:00:00+02:00",
-        "stop": "2026-10-19T00:30:00+02:00",
+        "start": "2026-10-19T00:38:30+02:00",
+        "stop": "2026-10-19T04:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-19T00:30:00+02:00",
-        "stop": "2026-10-19T01:00:00+02:00",
+        "start": "2026-10-19T04:00:00+02:00",
+        "stop": "2026-10-19T04:59:44+02:00",
+        "title": "Blues a l'estudi",
+        "subtitle": "Big Yuyu",
+        "description": "Avui entren a 'Blues a l'estudi' els Big Yuyu. I ho fan acompanyats de la secció de vent The Hot Nite Band. La banda mallorquina ja ha tret al mercat tres àlbums, i cadascun és un pas més per crear un llenguatge sòlid i personal dins del blues.El repertori que ens presenta avui surt de 'Burnin' Up', l'últim treball que han gravat en col·laboració amb el cantant de Chicago Lorenzo Thompson. El seu estil és ple de ritmes ballables, melodies contagioses, i descarnades històries d'amor.Jordi Álvarez, a la veu i guitarra; Juan Amaro, al baix; Pep Lluís Garcia, a la bateria; Miquel Gayà, al trombó; Pep Grau, a la trompeta; Pol Prats, al saxo, i Llorenç Barceló, al hammond. ",
+        "genre": "ALTRES",
+        "image": ""
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-10-19T01:00:00+02:00",
+        "stop": "2026-10-19T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-19T06:00:00+02:00",
+        "stop": "2026-10-19T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-18T22:55:00+02:00",
-        "stop": "2026-10-19T00:31:35+02:00",
+        "start": "2026-10-19T00:59:56+02:00",
+        "stop": "2026-10-19T02:34:52+02:00",
         "title": "Gol a gol",
         "subtitle": "Anàlisi de la jornada / J9 / Diumenge",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
@@ -92,8 +92,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-10-19T00:31:35+02:00",
-        "stop": "2026-10-19T00:50:07+02:00",
+        "start": "2026-10-19T02:34:52+02:00",
+        "stop": "2026-10-19T03:17:26+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-10-18T23:30:01+02:00",
-        "stop": "2026-10-18T23:41:08+02:00",
-        "title": "La tropa del corral",
-        "subtitle": "Falta de comunicació",
-        "description": "Sona el telèfon vermell de la Maggie, però es talla la línia a causa d'una ràfega de vent. Mentre part de la Tropa intenta esbrinar qui ha trucat, l'altra intenta restablir la línia, i no serà gens fàcil.",
+        "start": "2026-10-19T01:25:45+02:00",
+        "stop": "2026-10-19T01:46:23+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Startrain",
+        "description": "Els alumnes de l'institut agafen l'Startrain per anar a fer una visita escolar al Big Ben, a Londres. La conductora, la mare del Max, està esperant els resultats d'un examen molt important per poder ser astronauta, i un akuma perdut de l'Esfinx ho aprofita per dominar-la i fer sortir el tren volant cap a l'espai.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-18T23:41:08+02:00",
-        "stop": "2026-10-18T23:51:56+02:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "Posem-hi fideuets",
-        "description": "La Moona està disgustada perquè no pot anar a una trobada d'exalumnes perquè ha de treballar a la gelateria. La Felicity i el Miguel s'ofereixen a substituir-la i, per poder fer uns gelats espectaculars, demanen ajuda a una fada molt especial.",
+        "start": "2026-10-19T01:46:23+02:00",
+        "stop": "2026-10-19T02:07:01+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Caçadora de Kwamis",
+        "description": "La senyora Mendeleiev, la professora de ciències de l'institut on van els nostres protagonistes, para una trampa al Plagg i la Tikki per intentar demostrar l'existència d'aquestes criatures. Això fa que la Marinette i l'Adrien estiguin a punt de descobrir les identitats de Ladybug i el Gat Noir, cosa que els obligaria a renunciar als seus poders. Per sort, amb l'ajuda de tots els altres kwamis, la Marinette salva la situació.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-18T23:24:58+02:00",
-        "stop": "2026-10-19T00:08:47+02:00",
-        "title": "Ben Fogle: Retorn a la fi del món",
-        "subtitle": "Bulgària",
-        "description": "Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.",
+        "start": "2026-10-19T00:49:32+02:00",
+        "stop": "2026-10-19T01:42:08+02:00",
+        "title": "El Bulli, l'últim vals",
+        "subtitle": "El Bulli, l'últim vals",
+        "description": "El 30 de juliol de 2011, el Bulli -guanyador durant cinc edicions del guardó a millor restaurant del món- va tancar les seves portes per convertir-se, el 2014, en Fundació. El seu xef, Ferran Adrià, va servir un últim i espectacular sopar, acompanyat dels qui avui són els millors xefs del món i que en els darrers anys han passat a elBulli; René Redzepi (Noma), Joan Roca (El Celler de Can Roca), Andoni Luis Aduriz (Mugaritz), Grand Achat (Alinea), Massimo Bottura (Osteria Francescana) i José Andrés (Think Food Group).",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1734447007847.jpg"
       },
       {
-        "start": "2026-10-19T00:08:47+02:00",
-        "stop": "2026-10-19T00:49:30+02:00",
-        "title": "Un món de Jocs",
-        "subtitle": "Grans negocis",
-        "description": "Als humans ens encanta jugar. Juguem des de temps immemorials, a qualsevol lloc: a la sorra, a la neu, a terra, a l'aigua, a l'asfalt. Però per què juguem?En aquesta sèrie de sis episodis, Idris Elba, un actor de renom internacional i fanàtic dels esports, fa un recorregut per tot el món per visitar els espais de joc més espectaculars i retratar les persones més extraordinàries mentre juga a una gran varietat de jocs. En aquests espais és on mostrem qui som en realitat, mostrem l'alegria, la vergonya, la glòria i el dolor. Aquests espais són miralls que ens ajuden a explorar-nos a nosaltres mateixos i el món que ens envolta.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
+        "start": "2026-10-19T01:42:08+02:00",
+        "stop": "2026-10-19T02:25:08+02:00",
+        "title": "El Crac",
+        "subtitle": "La gran depre",
+        "description": "En una nit de depressió, en Joel coneix Gordon Gold, famós productor de Hollywood i veí d'habitació de l'hotel on s'allotja, i es corren una bona farra junts. Per això, quan la Kitti anuncia la suspensió del rodatge per manca de diners, en Joel veu en el seu amic Gold la solució als seus problemes. Gold, agraït amb en Joel per haver-lo salvat d'un afer sexual molt lleig, inverteix en la producció. Però en Nico, deprimit pel nou gir que ha pres la pel·lícula, sorprèn en Joel per on menys s'ho espera.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       }
     ],
     "oca1": [],
