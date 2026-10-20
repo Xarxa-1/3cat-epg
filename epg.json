@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-19T23:38:13.898100+00:00",
+  "updated": "2026-10-20T02:05:00.258680+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,22 +43,22 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-20T00:17:56+02:00",
-        "stop": "2026-10-20T02:07:39+02:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
+        "start": "2026-10-20T04:00:00+02:00",
+        "stop": "2026-10-20T04:59:54+02:00",
+        "title": "Blues a l'estudi",
+        "subtitle": "Augie Burr",
+        "description": "Aquest jove cantant barceloní, amb esforç i tenacitat, s'ha fet un lloc dins l'escena del blues i el rock'n'roll a casa nostra. Agustí Burriel es mou amb solvència dins del doo-wop i el rhythm'n'blues vocal. Ho ha fet amb formacions com els Big Jamboree o els Velvet Candles. L'acompanyen Blas Picón a la bateria, Juanma Rodríguez al contrabaix, Enma Fernández al piano, Mario Cobo a la guitarra i Big Dani Pérez al saxo tenor.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-10-20T02:07:39+02:00",
-        "stop": "2026-10-20T04:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-10-20T04:59:54+02:00",
+        "stop": "2026-10-20T06:00:00+02:00",
+        "title": "Jazz a l'estudi",
+        "subtitle": "Ignasi Terraza Trío",
+        "description": "Poques presentacions calen per Ignasi Terraza, sens dubte un dels pianistes de jazz més destacats de casa nostra i amb una enorme projecció internacional . Ens visita com a trio, acompanyat de Jules 'Bicoco' al contrabaix i Esteve Pi a la batería, format que li permet desenvolupar discursos magníficament improvisats i màgics, amb el seu inconfosible estil elegant , consistent i de bon swing.",
+        "genre": "JAZZ",
+        "image": ""
       }
     ],
     "324": [
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-20T00:43:45+02:00",
-        "stop": "2026-10-20T02:16:30+02:00",
-        "title": "Onze",
-        "subtitle": "París, la gran batalla; Mayola Academy i 'El Colegiado'",
-        "description": "Carles Fité, Xavi Torres, Aina Cerdà, Jordi Martí i Joaquín Maroto pentinen la prèvia del partit a París entre el PSG i el Barça. En Marc Mayola analitza alguns aspectes tàctics del Betis-Barça i en Joan Fàbregas repassa les jugades polèmiques de la jornada.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
-      },
-      {
-        "start": "2026-10-20T02:16:30+02:00",
-        "stop": "2026-10-20T02:26:57+02:00",
+        "start": "2026-10-20T03:56:58+02:00",
+        "stop": "2026-10-20T04:08:00+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+      },
+      {
+        "start": "2026-10-20T04:08:00+02:00",
+        "stop": "2026-10-20T04:34:57+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Hansi Flick / Prèvia PSG-Barça",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-20T01:24:32+02:00",
-        "stop": "2026-10-20T01:43:24+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Rastrejant fins al final!",
-        "description": "El Goh ha treballat de valent per convertir-se en rastrejador del Projecte Mew, i ara li arriba l'última missió: capturar el Regieleki i el Regidrago. Evidentment, no és l'únic entrenador que competeix pel premi. També hi ha el Gary. Potser se les van tenir una mica el primer cop que es van trobar, però ara posen la col·laboració per sobre de la competició i decideixen treballar junts. Gràcies als bons consells de la Layla i l'Sterling, el Goh i el Gary es converteixen en un gran equip, i capturar el Regieleki i el Regidrago deixa de ser un somni. Finalment, el professor Amarant anuncia el resultat oficial, i el Gary, l'Horace i el Goh ingressen al Projecte Mew com a rastrejadors.",
+        "start": "2026-10-20T03:47:16+02:00",
+        "stop": "2026-10-20T04:08:23+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "El gat blanc",
+        "description": "Aprofitant avui és el sant del cinquè nom de naixement de l'Adrien, la Marinette decideix portar-li un regal. Però per entrar a casa seva, s'ha de convertir en Ladybug, i això fa que l'Adrien lligui caps i descobreixi la seva identitat secreta. Encara que sembli que a partir d'aquí tot va bé, en el futur es prepara un trasbals que pot tenir conseqüències nefastes.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-20T01:43:24+02:00",
-        "stop": "2026-10-20T02:03:20+02:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Amics, rivals, deixeu-me el vostre esperit!",
-        "description": "El Torneig dels Vuit Mestres s'acosta. Mentre l'Ash s'entrena de valent rep una trucada del professor Oak, que l'anima a visitar tots els seus Pokémon al laboratori. Així doncs, l'Ash i el Goh marxen cap a Poble Paleta. Allà, l'equip actual de l'Ash es comença a entrenar amb la resta de Pokémon. Quan els nostres herois van a buscar el Gengar al bosc es troben inesperadament el Pau, el rival de l'Ash de Sinnoh! Tot i que el Pau no participa a la Sèrie Mundial de Coronació, accedeix a combatre contra l'Ash fent servir tres Pokémon seus: el Gyarados, el Garchomp i el Metagross, tots ells Pokémon utilitzats per algun dels Vuit Mestres. Malgrat que les habilitats del Pau són formidables, l'Ash guanya quan el Gengar desplega un fogós moviment nou!",
+        "start": "2026-10-20T04:08:23+02:00",
+        "stop": "2026-10-20T04:20:18+02:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "Mai sense el meu germà",
+        "description": "El Timbal se'n va d'acampada amb en Lludó i el seu pare. I en Pinxo se sent sol i, contra tot pronòstic, se sent estrany sense tenir el seu germà al costat. Convençut que el fet de ser bessons crea un vincle especial entre ells, en Pinxo pressent que en Timbal està en perill i el vol anar a veure per estar segur que no li passa res.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-20T01:23:17+02:00",
-        "stop": "2026-10-20T01:53:29+02:00",
-        "title": "No tenim vergonya",
-        "subtitle": "",
-        "description": "'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.",
-        "genre": "REPORTATGES",
+        "start": "2026-10-20T03:34:48+02:00",
+        "stop": "2026-10-20T04:08:13+02:00",
+        "title": "Gran Reserva. Còmics",
+        "subtitle": "Nina",
+        "description": "",
+        "genre": "GAGS. HUMOR",
         "image": ""
       },
       {
-        "start": "2026-10-20T01:53:29+02:00",
-        "stop": "2026-10-20T02:27:26+02:00",
-        "title": "Gran Reserva. Còmics",
-        "subtitle": "Alfred Rodríguez Picó",
-        "description": "",
-        "genre": "GAGS. HUMOR",
+        "start": "2026-10-20T04:08:13+02:00",
+        "stop": "2026-10-20T04:55:20+02:00",
+        "title": "Aeroport",
+        "subtitle": "Manteniment",
+        "description": "A l'aeroport hi ha un equip de persones que treballen sense parar perquè tot funcioni i estigui net i polit. Fan el manteniment. Això, de vegades, vol dir canviar el motor d'un A320 que pesa més de 2.000 quilos o asfaltar una pista d'aterratge. Tot, per satisfer al viatger, com una monja que ha corregut món amb moltes aventures per explicar.",
+        "genre": "Docu-Entreteniment",
         "image": ""
       }
     ],
