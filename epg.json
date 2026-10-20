@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-20T17:50:46.163696+00:00",
+  "updated": "2026-10-20T21:09:34.557051+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-20T19:12:16+02:00",
-        "stop": "2026-10-20T20:15:00+02:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "start": "2026-10-20T23:00:25+02:00",
+        "stop": "2026-10-21T00:00:50+02:00",
+        "title": "Documental",
+        "subtitle": "Veus contra l'estigma",
+        "description": "'VEUS CONTRA L'ESTIGMA' (2017), una producció de Media 3.14 en coproducció amb Televisió de Catalunya, amb la col·laboració de la Diputació de Barcelona, la Generalitat de Catalunya, l'Agència Catalana de la Joventut, l'Ajuntament de Barcelona, el Departament de Salut (gen.cat) i amb el suport del Departament de Cultura (gen.cat).Un grup cada dia més nombrós de persones diagnosticades amb algun trastorn mental surt de l'armari i revoluciona les estructures sanitàries i les associacions de pacients i familiars. Seguint l'estela del que ja va començar fa més d'una dècada en altres països europeus, es fan visibles amb anuncis al metro, cursos a professionals o xerrades als periodistes dels mitjans. Reclamen tenir el mateix dret que té un malalt de càncer per escollir entre possibles tractaments, i volen construir en la societat una nova mirada, lliure de prejudicis, sobre la malaltia mental. Perquè tenir un problema de salut mental no vol dir estar sempre fora de joc ni tampoc significa posseir un caràcter dèbil o més agressiu o violent que qualsevol altre. El canvi d'enfocament que proposen no tan sols té beneficis a escala individual, sinó que s'ha demostrat que redueix notablement els costos sanitaris. Aquest documental acosta a l'espectador aquesta nova visió de la malaltia mental a través del retrat en proximitat d'alguns pioners que hi han pres la paraula – que han alçat la veu en contra de l'estigma.Direcció: Marta Espar i Marc ParramonGuió: Marta EsparRealització, fotografia i muntatge: Marc ParramonProductor: Eva PerisProductor executiu Media 3.14: Joan ÚbedaProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavonDirector de producció: Pilar RazquínGrafisme: Aleix Abellanet",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-20T20:15:00+02:00",
-        "stop": "2026-10-20T21:00:00+02:00",
-        "title": "Està passant",
-        "subtitle": "",
-        "description": "'Està passant' és un programa d'humor que analitza les claus de l'actualitat cada dia, durant 45 minuts, en la franja anterior al 'Telenotícies vespre'.El programa, presentat per Òscar Andreu, Jair Domínguez, Natza Farré, Queco Novell i Núria Marín, ens apropa als principals temes del dia, amb especial atenció a l'actualitat política i al seguiment dels mitjans de comunicació i les xarxes socials. Tot plegat, sense renunciar a la sàtira que caracteritza la trajectòria de l'equip de Minoria Absoluta.",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
+        "start": "2026-10-21T00:00:50+02:00",
+        "stop": "2026-10-21T00:16:10+02:00",
+        "title": "Nervi",
+        "subtitle": "Maria Arimany. Educadora social i escriptora",
+        "description": "Educadora social i escriptora, Maria Arimany va endur-se l'any 2020 el primer premi al concurs de narrativa curt d'El 9Nou amb el conte 'Mar de formigues'. El gust per la narració curta ha donat més fruits i el seu debut literari, el recull de contes 'Al bosc s'hi ha d'anar quan encara és fosc', va guanyar el 43è Premi Documenta de narrativa. Una trajectòria prometedora per a aquesta jove narradora que aborda en les seves històries temes com la gelosia, la maternitat o les venjances sentimentals.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-20T18:30:00+02:00",
-        "stop": "2026-10-20T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-20T22:05:00+02:00",
+        "stop": "2026-10-21T00:00:00+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       },
       {
-        "start": "2026-10-20T20:00:00+02:00",
-        "stop": "2026-10-20T21:00:00+02:00",
+        "start": "2026-10-21T00:00:00+02:00",
+        "stop": "2026-10-21T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,87 +83,67 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-20T18:59:47+02:00",
-        "stop": "2026-10-20T20:00:48+02:00",
-        "title": "Tot Costa",
-        "subtitle": "Prova de foc a París",
-        "description": "El Barça visita el PSG en partit de la fase lliga de la Champions. Quin partit us imagineu? En parlarem amb Ricard Torquemada i Bernat Soler des de París. Amb Ramon Salmurri repassarem els precedents d'aquest partit i amb José Barroso, periodista de L'Équipe, sabrem com li van les coses a Ferran Torres.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+        "start": "2026-10-20T23:03:45+02:00",
+        "stop": "2026-10-21T00:54:34+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Kids&Us Manresa-Roma / Eurocup / J4",
+        "description": "Els del Bages, que han guanyat 1 partit i n'han perdut 2, volen igualar el balanç per millorar la seva posició.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"
       },
       {
-        "start": "2026-10-20T20:00:48+02:00",
-        "stop": "2026-10-20T20:56:37+02:00",
-        "title": "Zona Champions",
-        "subtitle": "Prèvia PSG-Barça / J3",
-        "description": "El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"
+        "start": "2026-10-21T00:54:34+02:00",
+        "stop": "2026-10-21T01:14:51+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-20T19:49:57+02:00",
-        "stop": "2026-10-20T20:00:00+02:00",
-        "title": "Betapodcast",
-        "subtitle": "Juguem a recrear portades d'àlbums!",
-        "description": "El Grau està pensant quina podria ser la nostra portada i, per inspirar-nos, el Jan ens ensenya algunes de les portades d'àlbums musicals més icòniques de la història. Ens disfressem d'artistes i juguem a recrear portades.",
-        "genre": "ALTRES",
+        "start": "2026-10-20T23:02:25+02:00",
+        "stop": "2026-10-20T23:20:14+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El misteri de la tenda cremada (2a part)",
+        "description": "Per les proves que han quedat a l'escenari del crim, sembla evident que la mort d'en Fumiaki Urushibara no ha estat accidental. En Conan acabarà descobrint que el culpable ha fet servir un enginyós mecanisme construït amb espelmes per provocar l'incendi que li ha cremat la tenda i li ha provocat la mort. Un cop desemmascarat l'assassí, la senyoreta Wakasa tornarà a demostrar que no és una simple mestra d'escola.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-20T20:00:00+02:00",
-        "stop": "2026-10-20T20:16:41+02:00",
-        "title": "InfoK",
-        "subtitle": "",
-        "description": "En aquest InfoK veurem com l'endemà dels aiguats al País Valencià toca netejar i arreglar els danys. També a moltes escoles i instituts que han quedat afectats, on aquest matí tothom -també professors, alumnes i famílies- s'esforçava per donar un cop de mà.És una de les espectaculars jugades d'en Wemby, un dels cracs de l'NBA. Aquesta nit comença una nova temporada de la millor lliga de bàsquet del món. Us explicarem totes les novetats que ens esperen.I també començarem un viatge a l'espai.S'acaba d'enlairar una missió japonesa que vol arribar a Fobos, el satèl·lit més gran de Mart. Allà agafarà material per estudiar-lo i el tornarà a la Terra d'aquí a cinc anys.",
-        "genre": "INFORMATIU DIÀRI",
+        "start": "2026-10-20T23:20:14+02:00",
+        "stop": "2026-10-20T23:41:07+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "La gran 'cuaconfusió'",
+        "description": "La nau Tortuga té un polissó: un esquirol vermell que ara, accidentalment, campa lliure per la sabana africana. Els germans Kratt activen el poder de guepard per atrapar-la, però de sobte s'adonen que els falta la cua adequada per mantenir l'equilibri. El modulador automàtic de cua que incorporen els vestits no funciona correctament. En l'aventura per tornar la Cueta, l'esquirol, a l'Amèrica del Nord, la colla descobrirà la increïble varietat i funcions diferents que poden tenir les cues animals.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-20T19:34:48+02:00",
-        "stop": "2026-10-20T20:18:41+02:00",
-        "title": "Ben Fogle: Retorn a la fi del món",
-        "subtitle": "Bulgària",
-        "description": "Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-20T22:50:04+02:00",
+        "stop": "2026-10-20T23:19:27+02:00",
+        "title": "Xefs: noves generacions",
+        "subtitle": "Mar Ibáñez (Restaurant Aürt)",
+        "description": "Mar Ibáñez forma part d'una nova generació de pastisseres amb una proposta contemporània i sòlida. Formada a l'ESHOB, amb pràctiques a Hisop i una etapa decisiva al Celler de Can Roca, avui desenvolupa la seva cuina dolça a l'univers d'Artur Martínez. La seva pastisseria és minimalista, precisa i de temporada, amb un ús sorprenent de fruites i verdures. Les postres lleugeres, poc ensucrades i plenes de sentit, estan pensades per dialogar amb el menú i tancar l'experiència amb equilibri. Guardonada amb el Best Dessert amb només 19 anys, construeix una veu pròpia amb projecció i ambició de futur.",
+        "genre": "SÈRIE DOCUMENTAL",
         "image": ""
       },
       {
-        "start": "2026-10-20T20:18:41+02:00",
-        "stop": "2026-10-20T20:59:42+02:00",
-        "title": "Un món de Jocs",
-        "subtitle": "Grans negocis",
-        "description": "Als humans ens encanta jugar. Juguem des de temps immemorials, a qualsevol lloc: a la sorra, a la neu, a terra, a l'aigua, a l'asfalt. Però per què juguem?En aquesta sèrie de sis episodis, Idris Elba, un actor de renom internacional i fanàtic dels esports, fa un recorregut per tot el món per visitar els espais de joc més espectaculars i retratar les persones més extraordinàries mentre juga a una gran varietat de jocs. En aquests espais és on mostrem qui som en realitat, mostrem l'alegria, la vergonya, la glòria i el dolor. Aquests espais són miralls que ens ajuden a explorar-nos a nosaltres mateixos i el món que ens envolta.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"
+        "start": "2026-10-20T23:19:27+02:00",
+        "stop": "2026-10-20T23:51:52+02:00",
+        "title": "Xefs: noves generacions",
+        "subtitle": "Moha Quach (Restaurant El Terrat by Quach)",
+        "description": "Moha Quach construeix a El Terrat una cuina profundament personal, nascuda dels records d'infància al Rif marroquí i arrelada a Tarragona i al Mediterrani. El capítol recorre el seu viatge vital i creatiu, des de la cuina de l'àvia i l'hort familiar fins a una proposta contemporània que dialoga amb la cuina catalana, el Marroc i l'herència de l'antiga Roma. Format en cuines d'alta exigència, com Disfrutar, integra tècnica, rigor històric i producte de proximitat. El capítol mostra amb una mirada íntima un xef inquiet i reconegut, que ha creat un univers propi.",
+        "genre": "SÈRIE DOCUMENTAL",
+        "image": ""
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-10-20T19:40:00+02:00",
-        "stop": "2026-10-20T22:00:00+02:00",
-        "title": "Bàsquet",
-        "subtitle": "- FIATC Girona-Zastal Zielona / Fiba Europe Cup / J3",
-        "description": "Els gironins, que són líders del grup B amb dues victòries en dues jornades, reben a Fontajau el conjunt polonès de la ciutat de Góra. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"
-      }
-    ],
+    "oca1": [],
     "oca2": [],
-    "oca3": [
-      {
-        "start": "2026-10-20T18:59:00+02:00",
-        "stop": "2026-10-20T20:00:00+02:00",
-        "title": "Tot Costa",
-        "subtitle": "",
-        "description": "El Barça visita el PSG en partit de la fase lliga de la Champions. Quin partit us imagineu? En parlarem amb Ricard Torquemada i Bernat Soler des de París. Amb Ramon Salmurri repassarem els precedents d'aquest partit i amb José Barroso, periodista de L'Équipe, sabrem com li van les coses a Ferran Torres.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
-      }
-    ],
+    "oca3": [],
     "oca4": []
   }
 }
