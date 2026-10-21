@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-21T14:07:15.708943+00:00",
+  "updated": "2026-10-21T18:36:22.728431+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-21T16:02:04+02:00",
-        "stop": "2026-10-21T16:42:57+02:00",
-        "title": "Com si fos ahir",
+        "start": "2026-10-21T20:15:02+02:00",
+        "stop": "2026-10-21T21:00:00+02:00",
+        "title": "Està passant",
         "subtitle": "",
-        "description": "La Lídia, en Carles i en Valeri es neguen a cedir al xantatge de la Marga i preparen una venjança difícil d'amagar. La Itziar decideix anar a buscar l'Iker a casa seva, encara que per fer-ho hagi de mentir a la Foix. I la Cèlia aconsegueix escriure el secret que arrossega des de l'adolescència, però la Sabina no triga a adonar-se'n.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "description": "La Natza i el Jair ens expliquen que ja ha tornat a Catalunya Lluís Puig. L'Elisenda Carod ens parla sobre la RENFE i en Magí ens explica totes les novetats del món de l'esport.",
+        "genre": "GAGS. HUMOR",
+        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
       },
       {
-        "start": "2026-10-21T16:39:47+02:00",
-        "stop": "2026-10-21T17:17:12+02:00",
-        "title": "La Riera",
+        "start": "2026-10-21T21:00:00+02:00",
+        "stop": "2026-10-21T21:59:35+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "La Sònia vol convèncer l'Estel perquè continuï fent de talp amb en Claudi. El gran dels Guitart fa alguns moviments estranys i la Lídia torna a sospitar d'ell. A can Pereira esperen en Quique i la Maribel no vol que el seu pare se'ls acosti. Mentre l'Ernest no acaba d'estar bé sense fer res, en Casellas reorganitza la cuina de can Riera.",
-        "genre": "TELENOVEL·LA",
-        "image": ""
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-21T15:30:00+02:00",
-        "stop": "2026-10-21T17:00:00+02:00",
+        "start": "2026-10-21T20:00:00+02:00",
+        "stop": "2026-10-21T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,86 +72,76 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-21T17:00:00+02:00",
-        "stop": "2026-10-21T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-21T21:00:00+02:00",
+        "stop": "2026-10-21T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-21T15:36:38+02:00",
-        "stop": "2026-10-21T16:14:50+02:00",
-        "title": "La Mar de Bé",
-        "subtitle": "Cala Galladera II",
-        "description": "La nansa és una tècnica de pesca artesanal, selectiva i molt sostenible, que s'utilitza per capturar pops i altres espècies similars. En aquest capítol, en Quim Casellas aprendrà aquesta tècnica a bord de la Cala Galladera II, amb en Guillermo Cornejo, el patró major del Port de la Selva. També parlarà amb la biòloga Marina Biel per conèixer de primera mà les gorgònies. I acabarà cuinant una recepta que tindrà el pop com ingredient principal: pop a la brasa amb cremós de patata, xips d'all i pebre dolç. ",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-21T19:55:00+02:00",
+        "stop": "2026-10-21T21:01:57+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Asisa Joventut-Telekom / Champions League / J2",
+        "description": "El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"
       },
       {
-        "start": "2026-10-21T16:14:50+02:00",
-        "stop": "2026-10-21T16:55:03+02:00",
-        "title": "La Mar de Bé",
-        "subtitle": "Afra Uno",
-        "description": "Diuen que la millor manera de conèixer l'ofici de pescador és sortir a pescar amb ells. En Quim Casellas ho té clar i, en aquest capítol, s'unirà a la tripulació de l'Afra Uno per pescar peix blau mitjançant la tècnica de l'encerclament, que es fa de nit i ofereix un autèntic espectacle visual. Visitarà el taller d'en Salvador Feliu, sisena generació de mestres d'aixa, on aprendrà a reparar una barca. Al Maram, el centre d'interpretació del peix de l'Escala, cuinarà uns filets de sardina marinades amb all blanc i cireres.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-21T21:01:57+02:00",
+        "stop": "2026-10-21T21:54:09+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Asisa Joventut-Telekom / Champions League / J2",
+        "description": "El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-21T16:06:11+02:00",
-        "stop": "2026-10-21T16:13:06+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Bojos pel joc",
-        "description": "Els lèmmings juguen amb uns ninotets articulats que representen la fauna del Canadà: ossos, lèmmings, caribús, perdius, ossos rentadors... Quan en Grizzy s'adona que el ninotet de l'os està tancat en una gàbia mentre que els que representen els lèmmings estan reunits al voltant d'un minipot de crema de xocolata amb avellanes, decideix entrar en el joc controlant ell el seu ninotet.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-21T20:16:06+02:00",
+        "stop": "2026-10-21T20:38:41+02:00",
+        "title": "Henry Danger",
+        "subtitle": "Les magdalenes de l'amor",
+        "description": "En Ray anuncia que es vol casar amb una dona que acaba de conèixer, i els seus amics sospiten que alguna cosa molt estranya hi ha al darrere.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-10-21T16:13:06+02:00",
-        "stop": "2026-10-21T16:19:35+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Batgrizzy",
-        "description": "Els lèmmings proven de caçar un ratpenat per jugar a 'rodeo' i molesten en Grizzy, que està jugant al seu joc preferit amb el telèfon mòbil del guardabosc. Fins que el mòbil rep un cop, salta una alarma i comença a emetre el so d'un sonar de submarí i, quan el ratpenat el sent, es torna dòcil completament. En Grizzy els llança barranc avall, però a mig camí troben una cova plena de ratpenats. ",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-21T20:38:41+02:00",
+        "stop": "2026-10-21T21:00:14+02:00",
+        "title": "Henry Danger",
+        "subtitle": "La màquina de crits",
+        "description": "La Charlotte presenta una màquina revolucionària al Concurs d'Aparells, però un accident inesperat obliga en Henry, en Ray i en Schwoz a improvisar per evitar que tot se'n vagi en orris.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-21T15:33:41+02:00",
-        "stop": "2026-10-21T16:12:41+02:00",
-        "title": "Això no és una cançó",
-        "subtitle": "Bohemian Rhapsody",
-        "description": "Quin es el misteri que amaga Bohemian Rhapsody? A la classe d'avui farem una investigació per resoldre aquest enigma. Ramon Gener i els seus alumnes aniran seguint les pistes que Freddie Mercury va deixar a la música per acabar adonant-se que rere la rapsòdia més coneguda de la música actual s'amaga un conte sobre la redempció. També coneixerem la història de l'Ari, una alumna que va trobar una segona oportunitat gràcies a l'ajuda de la seva família. Amb ella i la resta de la classe descobrirem que el tema més immortal de Queen és un viatge pels errors i per com superar-los. Perquè Bohemian Rhapsody no és una cançó. No és només una cançó. ",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-21T20:08:06+02:00",
+        "stop": "2026-10-21T20:59:57+02:00",
+        "title": "El triunfante",
+        "subtitle": "El triunfante",
+        "description": "El Triunfante era un navili de guerra de 70 canons, enfonsat al golf de Roses durant la defensa de Ciutadella de Roses contra el setge francès el 1795. Es tracta d'un dels derelictes més grans, mai excavat, de tot el patrimoni subaquàtic català. Seguint els testimonis d'historiadors, arqueòlegs i alguns dels protagonistes del seu descobriment, coneixerem les innovacions tecnològiques que l'enginyer i matemàtic Jorge Juan i Santacilia va introduir en la construcció naval espanyola del segle XVIII. Des de la seva troballa als anys 70 del segle XX, ha representat el paradigma de l'espoli que ha patit el patrimoni subaquàtic català durant dècades. Tanmateix, la informació de les seves restes servirà perquè l'equip d'arqueòlegs del Centre d'Arqueologia Subaquàtica de Catalunya (CASC), després de tres campanyes d'excavació subaquàtica, desvelin els seus secrets.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/0/1749140405006.jpg"
       },
       {
-        "start": "2026-10-21T16:12:41+02:00",
-        "stop": "2026-10-21T17:10:00+02:00",
-        "title": "No pot ser!",
-        "subtitle": "Assignatures pendents",
-        "description": "L'últim capítol de la temporada asseu a la Biblioteca Nacional de Catalunya quatre veus autoritzades per abordar els grans interrogants del nostre temps: Alfons Cornella, expert en innovació tecnològica i transformació empresarial. Un dels gurus de casa nostra, que ens parla des de l'horitzó; Gemma Galdón, especialista en impacte social, legal i ètic de les noves tecnologies; Jordi Musons, director de l'Escola Sadako i membre d'Escola Nova 21, que exposa com cal transformar l'educació, i Susana Lluna, periodista, professora de la UOC i consultora en transformació digital.'Assignatures pendents' s'allunya del format habitual del 'No pot ser!' per recuperar aquells moments clau de la temporada, com ara la cultura del 'like' i les relacions íntimes en l'era digital, l'amenaça de la robotització del mercat laboral, l'impacte de la tecnologia a casa nostra o com de vulnerable és la nostra privacitat a la xarxa.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-10-21T20:59:57+02:00",
+        "stop": "2026-10-21T21:02:29+02:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-10-21T15:00:04+02:00",
-        "stop": "2026-10-21T18:19:59+02:00",
-        "title": "Ple del Parlament",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/2/1723033059522.jpg"
-      }
-    ],
+    "oca1": [],
     "oca2": [],
     "oca3": [],
     "oca4": []
