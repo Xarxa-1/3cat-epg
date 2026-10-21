@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-21T03:01:14.126434+00:00",
+  "updated": "2026-10-21T08:31:31.167514+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-21T04:56:48+02:00",
-        "stop": "2026-10-21T05:56:48+02:00",
-        "title": "Jazz a l'estudi",
-        "subtitle": "Nu-Roots",
-        "description": "Aquest és el projecte del solista David Pastor creat amb el desig de buscar noves textures sonores i noves rítmiques per als seus vells temes, interpretades tant amb la trompeta com amb teclats, junt a dos músics de solvent i àmplia trajectòria a l'escena catalana de fusió com són Toni Pagès a la batería i José Luis Guart al piano i als teclats.",
-        "genre": "JAZZ",
+        "start": "2026-10-21T10:30:03+02:00",
+        "stop": "2026-10-21T13:55:00+02:00",
+        "title": "Tot es mou",
+        "subtitle": "",
+        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "genre": "MAGAZINE",
         "image": ""
       },
       {
-        "start": "2026-10-21T05:56:48+02:00",
-        "stop": "2026-10-21T06:00:00+02:00",
-        "title": "Videoclips catalans",
-        "subtitle": "Setembre - Sota la cendra",
+        "start": "2026-10-21T13:55:00+02:00",
+        "stop": "2026-10-21T14:30:00+02:00",
+        "title": "Telenotícies comarques",
+        "subtitle": "",
         "description": "",
-        "genre": "ALTRES",
-        "image": ""
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-21T01:00:00+02:00",
-        "stop": "2026-10-21T06:00:00+02:00",
+        "start": "2026-10-21T09:00:00+02:00",
+        "stop": "2026-10-21T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-21T06:00:00+02:00",
-        "stop": "2026-10-21T08:00:00+02:00",
+        "start": "2026-10-21T12:00:00+02:00",
+        "stop": "2026-10-21T13:55:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,65 +83,75 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-21T04:40:54+02:00",
-        "stop": "2026-10-21T05:05:40+02:00",
-        "title": "E3",
-        "subtitle": "Monster Jam / Salt Lake 1 / 12",
-        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. ",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
+        "start": "2026-10-21T10:15:09+02:00",
+        "stop": "2026-10-21T11:03:41+02:00",
+        "title": "Arrelats",
+        "subtitle": "Javier Cercas",
+        "description": "Què hauria passat si l'escriptor extremeny no hagués marxat amb la seva família d'un poblet tan petit com Ibahernando? L'autor, un dels que ven més llibres en castellà a tot el món, prova de carregar sacs de pinso amb el seu oncle, però també mostra tot allò que ha après a la seva altra pàtria: la Girona que l'ha fet gran i els mestres que van apostar per ell.",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-10-21T05:05:40+02:00",
-        "stop": "2026-10-21T05:30:28+02:00",
-        "title": "E3",
-        "subtitle": "Monster Jam / Salt Lake 2 / 13",
-        "description": "La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"
+        "start": "2026-10-21T11:03:41+02:00",
+        "stop": "2026-10-21T11:31:06+02:00",
+        "title": "GR Barcelona",
+        "subtitle": "L'ànima d'un poble",
+        "description": "Alt Berguedà (PR C128, PR C73). Ruta de 2 dies i d'uns 22 km.La jornada 1 recorrerem el PR C128 pels cingles de Vallcebre, on farem la via ferrada de l'Empalomar, després collirem patates de dins d'una antiga trumfera, i farem nit a Cal Monjo on cuinarem les tradicionals patates emmascarades del Berguedà. L'endemà, farem via direcció al PEIN Serra d'Ensija-Rasos de Peguera a través del PR C73 i acabarem a Peguera, un racó aturat en el temps on coneixerem l'ànima encara latent de l'antic poble.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-21T04:52:17+02:00",
-        "stop": "2026-10-21T05:03:47+02:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "Millors enemics",
-        "description": "En Pinxo i la Guineta agafen sense permís un joc de bitlles que ha fet en Timbal i se'n van a jugar, però aviat el joc cau en mans dels seus eterns enemics, en Gatmoix i en Gatmoll. Tot i la rivalitat entre la Guineta i en Pinxo per ser sempre el més astut i el més fort, hauran d'unir forces per recuperar el joc de bitlles.",
+        "start": "2026-10-21T10:31:27+02:00",
+        "stop": "2026-10-21T10:42:58+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Benvinguts al planeta Gòtica",
+        "description": "La Wendy prepara un concert en directe per les xarxes socials del seu nou grup gòtic amb el Maxence. Per desempallegar-se de la Marine, li fa creure que torna al seu planeta d'origen, Gòtica, i que val més que surti de casa, que és la seva nau espacial, si no vol que el cap li exploti com una crispeta! Quan s'adona que la seva germana li pren el pèl, la Marine decideix sabotejar el suposat viatge intergalàctic.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-21T05:03:47+02:00",
-        "stop": "2026-10-21T05:15:16+02:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "Els amics secrets",
-        "description": "En Pinxo s'empipa amb en Martís, perquè el troba jugant a cartes amb en Lludó, i no suporta els jocs de cartes. A més considera que en Martís, com que és el seu millor amic, ha de jugar amb ell i no amb en Lludó. Però no tothom està d'acord amb ell.",
+        "start": "2026-10-21T10:42:58+02:00",
+        "stop": "2026-10-21T10:54:28+02:00",
+        "title": "Les Sisters",
+        "subtitle": "El Pitjor Halloween",
+        "description": "La Wendy es queda tancada al garatge mentre prepara la seva festa de Halloween. Mentre espera que la seva germana pugui sortir-ne, la Marine avança els preparatius... a la seva manera: una festa plena de color per aixecar la moral a la Wendy. Quan aconsegueix sortir del garatge, a la Wendy no li agrada gens el que troba i organitza una contrafesta al jardí.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-21T04:40:25+02:00",
-        "stop": "2026-10-21T05:28:03+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La forquilla",
-        "description": "Dediquem el capítol d'avui a la forquilla. Va ser l'últim cobert a arribar, dels tres que fem servir normalment. I ho va fer per ordre de la princesa bizantina Teodora Ana Ducaina, del segle XII, que no es volia embrutar les mans. Ens visita Dan Peralbo, amb qui parlem de per què ha decidit formar un grup de rock i no pas de música urbana, i puja al nostre escenari per actuar en directe amb l'Arnau Tordera i la Laia Glück. Anem a passejar el gos fins al 1865, a Washington, al primer magnicidi dels Estats Units.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-10-21T10:13:49+02:00",
+        "stop": "2026-10-21T10:52:43+02:00",
+        "title": "Tot el temps del món",
+        "subtitle": "Adrià Pujol",
+        "description": "LA CONVERSA: ADRIÀ PUJOL CRUELLSEl 2021, Adrià Pujol publicava la novel·la 'Els llocs on ha dormit Jonàs' (Empúries), que tenia com a protagonista un programador de videojocs amb la vida bastant feta i la sensació que aquesta no ha estat prou generosa amb ell. Només començar, a més, un dubte: ha matat una dona? Mesos després, poc entrat el 2022, Pujol ens proposa 'I si. Especulacions sobre llenguatge i literatura' (Arcàdia), que serà el fil de conversa de l'entrevista. Pujol hi especula, i planteja moltes preguntes i respostes. Una de central: com passem del llenguatge ordinari, el que utilitzem per treballar, parlar amb la família o anar al mercat, a la literatura? Com es fa, aquesta transformació? I què és literatura? Com ens afecta, com ens condiciona, i fins a quin punt? Aquestes són algunes de les preguntes, o especulacions, que abordarem amb ell al llarg de la conversa.  ELS LLOCS ON HA DORMIT JONÀSAdrià Pujol CruellsEd. EmpúriesI SIEspeculacions sobre llenguatge i literaturaAdrià Pujol CruellsEd. ArcàdiaLA TRIA DEL PROGRAMA 10ORGULL I PREJUDICIJane AustenTrad. Yannick GarciaEd. Bernat Metge UniversalVIVIANChristina HesselholdtTrad. Maria Rossich AndreuEd. Nits BlanquesAPRENDRE DELS XIMPANZÈSJane GoodallTrad. Jordi PigemEd. Akiara",
+        "genre": "ENTREVISTES",
+        "image": ""
       },
       {
-        "start": "2026-10-21T05:28:03+02:00",
-        "stop": "2026-10-21T05:34:12+02:00",
-        "title": "Gran!",
-        "subtitle": "Albert Pla: 'Ho sento molt'",
-        "description": "Quan Albert Pla va debutar, ningú tenia clar si estàvem davant d'algú amb una sensibilitat extrema, àcid i enginyós, o davant d'un il·luminat. El temps ho va deixar clar i la seva trajectòria posterior, repartida entre discos, espectacles i, fins i tot, alguns papers cinematogràfics, ha perfilat la figura d'un intèrpret i escriptor de cançons de personalitat magnètica. 'Ho sento molt', el seu sorprenent debut del 1989, continua sent una obra lúcida i irrepetible.  ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
+        "start": "2026-10-21T10:52:43+02:00",
+        "stop": "2026-10-21T11:33:23+02:00",
+        "title": "Tot el temps del món",
+        "subtitle": "Irene Vallejo",
+        "description": "LA CONVERSA: IRENE VALLEJOL'escriptora de Saragossa Irene Vallejo es va convertir en tot un fenomen literari amb la publicació d''El infinito en un junco', editat per Siruela, que poc després Columna va traduir al català. Ens hi explica de manera cronològica la invenció dels llibres al món antic, amb totes les persones que hi van estar implicades, tots els procediments i suports, i ho fa amb rigor i gairebé com si ens estigués explicant una història abans d'anar a dormir. El seu pare li va explicar així l''Odissea', de petita, i d'allà ve la seva fascinació per les històries. És una de les coses que ens explica a la conversa, on també fa una cosa que la caracteritza: connecta el món antic, que ella coneix tan bé, amb l'actualitat, una cosa recurrent també als seus articles, recollits a 'Algú va parlar de nosaltres' i a la seva novel·la 'El xiulet de l'arquer', totes dues obres a Columna. L'INFINIT DINS D'UN JONCIrene VallejoTrad. Núria Parés SellarésEd. Columna/SiruelaEL XIULET DE L'ARQUERIrene VallejoTrad. Núria Parés SellarésEd. Columna/ContraseñaALGÚ VA PARLAR DE NOSALTRESIrene VallejoTrad. Núria Parés SellarésEd. Columna/Contraseña",
+        "genre": "ENTREVISTES",
+        "image": ""
       }
     ],
-    "oca1": [],
+    "oca1": [
+      {
+        "start": "2026-10-21T09:43:00+02:00",
+        "stop": "2026-10-21T13:57:55+02:00",
+        "title": "Ple del Parlament",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/2/1723033059522.jpg"
+      }
+    ],
     "oca2": [],
     "oca3": [],
     "oca4": []
