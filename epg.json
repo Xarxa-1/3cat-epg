@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-21T18:36:22.728431+00:00",
+  "updated": "2026-10-21T21:58:59.349689+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-21T20:15:02+02:00",
-        "stop": "2026-10-21T21:00:00+02:00",
-        "title": "Està passant",
-        "subtitle": "",
-        "description": "La Natza i el Jair ens expliquen que ja ha tornat a Catalunya Lluís Puig. L'Elisenda Carod ens parla sobre la RENFE i en Magí ens explica totes les novetats del món de l'esport.",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
+        "start": "2026-10-21T23:27:43+02:00",
+        "stop": "2026-10-22T00:21:44+02:00",
+        "title": "País d'altura",
+        "subtitle": "Vall d'Aran",
+        "description": "Muntanyes de postal, pobles amb noms que semblen inventats i una natura desbocada. A la Vall d'Aran hi caben el romànic, la neu, les olles araneses i fins i tot algun ieti despistat.",
+        "genre": "",
+        "image": ""
       },
       {
-        "start": "2026-10-21T21:00:00+02:00",
-        "stop": "2026-10-21T21:59:35+02:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-10-22T00:21:44+02:00",
+        "stop": "2026-10-22T04:54:16+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-21T20:00:00+02:00",
-        "stop": "2026-10-21T21:00:00+02:00",
+        "start": "2026-10-21T22:05:00+02:00",
+        "stop": "2026-10-22T00:00:00+02:00",
+        "title": "Mésnit",
+        "subtitle": "",
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
+      },
+      {
+        "start": "2026-10-22T00:00:00+02:00",
+        "stop": "2026-10-22T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-10-21T21:00:00+02:00",
-        "stop": "2026-10-21T22:05:00+02:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-21T19:55:00+02:00",
-        "stop": "2026-10-21T21:01:57+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Asisa Joventut-Telekom / Champions League / J2",
-        "description": "El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"
+        "start": "2026-10-21T23:00:04+02:00",
+        "stop": "2026-10-22T00:30:55+02:00",
+        "title": "Onze",
+        "subtitle": "L'última perla de la masia; Post Madrid-Leipzig i 'El predicador'",
+        "description": "Lluís Carrasco, Joan Poquí, Gemma Mallorca i Juvenal Edjogo comenten el partit de Xavi Espart a París i els gols de la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-10-21T21:01:57+02:00",
-        "stop": "2026-10-21T21:54:09+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Asisa Joventut-Telekom / Champions League / J2",
-        "description": "El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"
+        "start": "2026-10-22T00:30:55+02:00",
+        "stop": "2026-10-22T00:50:35+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-21T20:16:06+02:00",
-        "stop": "2026-10-21T20:38:41+02:00",
-        "title": "Henry Danger",
-        "subtitle": "Les magdalenes de l'amor",
-        "description": "En Ray anuncia que es vol casar amb una dona que acaba de conèixer, i els seus amics sospiten que alguna cosa molt estranya hi ha al darrere.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-10-21T23:46:08+02:00",
+        "stop": "2026-10-22T00:07:09+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "El corb Pillet",
+        "description": "La Koki sent sorolls estranys a la nau Tortuga i es posa a fer una revisió general. Com que són a prop del territori de la manada de llops del Petit Udolador, els germans Kratt el volen anar a veure, i troben un corb que els vol ajudar. Tot l'equip ho aprofitarà per estudiar els corbs, se'n faran un vestit de poder animal per acompanyar-lo i descobriran la intel·ligència i les capacitats que té aquest ocell.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-21T20:38:41+02:00",
-        "stop": "2026-10-21T21:00:14+02:00",
-        "title": "Henry Danger",
-        "subtitle": "La màquina de crits",
-        "description": "La Charlotte presenta una màquina revolucionària al Concurs d'Aparells, però un accident inesperat obliga en Henry, en Ray i en Schwoz a improvisar per evitar que tot se'n vagi en orris.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-10-22T00:07:09+02:00",
+        "stop": "2026-10-22T00:28:11+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "L'odissea dels mussols",
+        "description": "Els germans Kratt, l'Aviva i la Koki tenen un accident amb la càpsula i van a parar a un lloc remot, des d'allà hauran de viure tota una odissea per tornar a casa. Pel camí descobreixen un munt d'espècies de la família dels mussols, amb unes quantes característiques comunes però cada espècie amb les seves singularitats. Això inspira l'Aviva per fer un vestit de poder animal per tornar a casa.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-21T20:08:06+02:00",
-        "stop": "2026-10-21T20:59:57+02:00",
-        "title": "El triunfante",
-        "subtitle": "El triunfante",
-        "description": "El Triunfante era un navili de guerra de 70 canons, enfonsat al golf de Roses durant la defensa de Ciutadella de Roses contra el setge francès el 1795. Es tracta d'un dels derelictes més grans, mai excavat, de tot el patrimoni subaquàtic català. Seguint els testimonis d'historiadors, arqueòlegs i alguns dels protagonistes del seu descobriment, coneixerem les innovacions tecnològiques que l'enginyer i matemàtic Jorge Juan i Santacilia va introduir en la construcció naval espanyola del segle XVIII. Des de la seva troballa als anys 70 del segle XX, ha representat el paradigma de l'espoli que ha patit el patrimoni subaquàtic català durant dècades. Tanmateix, la informació de les seves restes servirà perquè l'equip d'arqueòlegs del Centre d'Arqueologia Subaquàtica de Catalunya (CASC), després de tres campanyes d'excavació subaquàtica, desvelin els seus secrets.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/0/1749140405006.jpg"
+        "start": "2026-10-21T23:45:55+02:00",
+        "stop": "2026-10-22T01:12:02+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "Sergio & Serguéi",
+        "description": "SERGIO & SERGUÉIProductora: Mediapro en coproducció amb RTV Comercial i Instituto Cubano del Arte e Industria Cinematográficas. Compta amb la participació de Televisió de Catalunya, Paramaount Channel, Orange, Telecable, Movistar + i Vedado Films i el suport del Ministerio de Educación, Cultura y Deporte. Producció hispano-cubana. 2017Director: Ernesto Daranas.Guionista: Ernesto Daranas i Marta Isabel Daranas Serrano.Director de fotografia: Alejandro Menéndez Vega.Música: Michael Gutiérrez SánchezIntèrprets: Mario Guerra, Héctor Eduardo Suárez Noas (Héctor Noas), Tomàs Alejandro Cao Uriza.Sinopsi: Any 1991: l'antiga URSS es desintegra i Cuba entra en una gran crisi econòmica. Sergio, radioaficionat i professor de marxisme, no sap què fer per reorientar la seva vida i tirar endavant la seva família. Per la seva banda, en Serguéi, l'últim cosmonauta soviètic, es troba casi oblidat a l'avariada estació orbital Mir. Gràcies als seus equips de ràdio, Sergio i Serguéi es comuniquen i entre ells neix una amistat que els ajudarà a enfrontar-se als dramàtics canvis que transformaran els seus respectius països.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1765533985377.jpg"
       },
       {
-        "start": "2026-10-21T20:59:57+02:00",
-        "stop": "2026-10-21T21:02:29+02:00",
-        "title": "SENSE FI CANAL 33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
+        "start": "2026-10-22T01:12:02+02:00",
+        "stop": "2026-10-22T02:16:57+02:00",
+        "title": "Viatjar a Mart. Salvar la Terra",
+        "subtitle": "Viatjar a Mart. Salvar la Terra",
+        "description": "Tres missions internacionals no tripulades són a Mart. Aquesta dècada hi podria arribar el primer ésser humà. Científics d'arreu del món treballen per fer realitat el somni d'arribar al planeta vermell i establir-hi una petita colònia humana. Qui podrà viatjar a Mart? Serà molt car? Seran autosuficients els marcians? L'objectiu no és que Mart sigui un pla B per substituir una Terra desolada pel canvi climàtic, sinó fer compatibles els esforços tecnològics i econòmics necessaris per explorar aquest planeta i salvar la Terra.",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.3cat.cat/multimedia//jpg/2/5/1623752144652.jpg"
       }
     ],
     "oca1": [],
