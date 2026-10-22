@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-22T15:26:58.639139+00:00",
+  "updated": "2026-10-22T19:21:13.843617+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,115 +43,105 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-22T16:39:54+02:00",
-        "stop": "2026-10-22T17:27:43+02:00",
-        "title": "El paradís de les senyores",
+        "start": "2026-10-22T21:00:00+02:00",
+        "stop": "2026-10-22T22:06:09+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "En aquest episodi, entre altres coses, la Concetta s'ha quedat a dormir al pis de les noies després de la confessió de la Maria de la nit anterior, i ara li toca dissimular davant d'en Ciro perquè ell no ha de saber de cap manera què està passant. En Marcello està molt trasbalsat per l'oferta de treball que l'Umberto li va fer a en Matteo perquè pensa que és un muntatge en contra seu, i l'Armando l'ajuda a posar una mica de llum a la situació. La Marta va trobar una noia mare soltera en una situació molt difícil, i li comenta a en Tancredi que busca la millor manera d'ajudar-la.",
-        "genre": "TELESÈRIE",
-        "image": ""
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-22T17:27:43+02:00",
-        "stop": "2026-10-22T19:11:54+02:00",
-        "title": "La Selva",
-        "subtitle": "",
-        "description": "Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
+        "start": "2026-10-22T22:06:09+02:00",
+        "stop": "2026-10-22T22:46:51+02:00",
+        "title": "Polònia",
+        "subtitle": "La lluita d'egos de Rufián i Colau, a 'Polònia'",
+        "description": "Després del trencament entre els partits d'Esquerra, Ada Colau (Agnès Busquets) i Gabriel Rufián (Xavi Espinosa) s'enfronten en una batalla d'egos, com si fossin King Kong contra Godzilla. Mentrestant, el petó entre Pedro Sánchez (Pep Plaza) i la seva dona, Begoña, s'ha fet tan viral que el president intenta tapar totes les polèmiques del seu partit amb petons. I la cosa no s'acaba aquí, perquè el líder del PSOE presenta 'Acuerdo Attack', un programa de manualitats on troba usos alternatius als acords que va signar amb Oriol Junqueras (Cesc Casanovas), Carles Puigdemont (Queco Novell) i Miriam Nogueras (Alba Florejachs).Xavier García Albiol (Fermí Fernández) és el candidat pel PP al Congrés per Barcelona i es dirigeix a la ciutadania per deixar clar que, si surt escollit, no abandonarà l'alcaldia de Badalona. I Alberto Núñez Feijóo (David Marcé) rep els consells d'Eduardo Inda (Xavi Espinosa) per deixar de parlar de pensions i centrar-se en un tema que al PP sempre li funciona: la immersió lingüística.A Catalunya, el to d'alarma dels ES-Alert incomoda la ciutadania… i també Salvador Illa (Queco Novell). Per això, el president demana alternatives a Núria Parlon (Agnès Busquets), Ramon Espadaler (Pep Plaza) i el músic Arnau Tordera (Ivan Labanda), com a compositor per als nous tons.Mentrestant, a la seu del PSOE, Óscar Puente (Cesc Casanovas) i Margarita Robles (Agnès Busquets) interroguen Rebeca Torró (Lara Díez), la nova portaveu del partit, per saber si amaga alguna cosa de la qual la puguin acusar. Al Telenotícies, Toni Cruanyes (David Marcé) ens parlarà d'un fenomen més difícil de veure que l'eclipsi solar: l'anunci d'un pis de lloguer per menys de mil euros.I, a tres dies del clàssic, Sergio Ramos (Jordi Rios), José Mourinho (Xavi Espinosa) i Hansi Flick (Ivan Labanda) visitaran el plató per parlar de l'estrena de 'Crackòvia'.",
+        "genre": "GAGS. HUMOR",
+        "image": "https://img.ccma.cat/multimedia/jpg/4/4/1665652336244.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-22T17:00:00+02:00",
-        "stop": "2026-10-22T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-22T21:00:00+02:00",
+        "stop": "2026-10-22T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-22T18:30:00+02:00",
-        "stop": "2026-10-22T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-22T22:05:00+02:00",
+        "stop": "2026-10-23T00:00:00+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-22T17:24:09+02:00",
-        "stop": "2026-10-22T18:25:00+02:00",
+        "start": "2026-10-22T20:30:54+02:00",
+        "stop": "2026-10-22T22:32:53+02:00",
+        "title": "Handbol",
+        "subtitle": "Barça-Montpeller / EHF Champions / J5",
+        "description": "Penúltima jornada de la fase de grups. En el precedent que van jugar a la ciutat occitana, els blaugranes van guanyar per 27 a 28.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"
+      },
+      {
+        "start": "2026-10-22T22:32:53+02:00",
+        "stop": "2026-10-22T23:00:00+02:00",
         "title": "Esport Club",
         "subtitle": "Les crítiques d'Enric Masip, Sergi Barjuan, Dika Mem, NBA i tertúlia",
         "description": "Enric Masip carrega contra el Reial Madrid tres dies abans del clàssic. Els blancs arribaran al Camp Nou després de golejar el Leipzig. Entrevistem l'exjugador del Barça Sergi Barjuan. Mireia Vicente amb Dika Mem abans del Barça-Montpeller. L'NBA amb Jordi de Mas, 'Històries del futbol' amb Marc Mayola i tertúlia. Ens acompanyen Arancha Rodríguez, Edgar Fornós i Joanjo Pallàs.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
-      },
-      {
-        "start": "2026-10-22T18:25:00+02:00",
-        "stop": "2026-10-22T20:30:00+02:00",
-        "title": "Bàsquet",
-        "subtitle": "BC Montana-Spar Girona / Eurocup / J2",
-        "description": "Després de guanyar amb contundència en l'estrena a casa, 77-49 contra l'Ostrava, les gironines juguen el primer partit com a visitants a la pista del conjunt búlgar.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-22T17:21:08+02:00",
-        "stop": "2026-10-22T17:32:09+02:00",
-        "title": "A jugar! Amb en Titó i els Fa la la",
-        "subtitle": "A jugar amb el gegant del bosc",
-        "description": "En Titó i els Fa La La dormen acampats al bosc quan, de sobte, un terrabastall els desperta en plena nit. El campament està tot de cap per avall... i hi ha una petjada enorme! Serà d'un gegant del bosc? ",
-        "genre": "ALTRES",
+        "start": "2026-10-22T21:00:22+02:00",
+        "stop": "2026-10-22T21:22:40+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "La sorprenent transformació d'en Son Goku. El tercer nivell de força dels superguerrers",
+        "description": "Mentre intenta guanyar temps perquè en Trunks recuperi el radar de les Boles de Drac, en Son Goku sorprèn el mag Babidí i el monstre Bu fent-los una demostració del tercer nivell de força dels superguerrers. És la primera vegada que veiem aquesta transformació d'en Son Goku, que comença a lluitar contra el temible monstre Bu.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-22T17:32:09+02:00",
-        "stop": "2026-10-22T17:37:00+02:00",
-        "title": "Wonderblocks",
-        "subtitle": "Els ossos musicals",
-        "description": "Els components del grup musical La Banda del Nenúfar no es troben bé i els tres ossos els hauran de substituir, però no saben ben bé com han de tocar cada instrument.",
+        "start": "2026-10-22T21:22:40+02:00",
+        "stop": "2026-10-22T21:40:47+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "La rebel·lió del monstre Bu",
+        "description": "En Son Goku continua el combat contra el monstre Bu, però només lluitarà amb ell fins que en Trunks recuperi el radar de les Boles de Drac, conscient que ha de continuar entrenant en Son Goten i el mateix Trunks perquè aprenguin la tècnica de la fusió. El monstre Bu, cansat de rebre ordres del mag Babidí, decideix rebel·lar-se i desfer-se'n.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-22T17:25:11+02:00",
-        "stop": "2026-10-22T17:47:21+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Cèl.lules mare què en podem esperar?",
-        "description": "Gràcies a les cèl·lules mare s'arribarà a fer l'autoreparació d'òrgans. El reporter Miquel Piris se sotmet a un experiment en el Centre de Medicina Regenerativa de Barcelona. Una cèl·lula extreta de l'arrel d'un dels seus cabells es convertirà en una cèl·lula mare i posteriorment se la manipularà perquè esdevingui una cèl·lula cardíaca capaç de bategar. Aquest experiment el dirigeix la doctora María José Barrero.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-10-22T21:02:42+02:00",
+        "stop": "2026-10-22T21:42:54+02:00",
+        "title": "L'un per l'altre",
+        "subtitle": "L'estafa perfecta",
+        "description": "El Cabanes es presenta a l'hostal amb tot d'ecultures que li ha deixat en herència una parenta llunyana. Un alemany que s'allotja a l'hostal descobrirà una figura d'un important escultor. El Calafell, la Maria, El Toni i la Rosa s'empescaran la manera d'estafar el Cabanes i quedar-se amb la figureta, encara que, finalment, els estafats seran ells mateixos.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       },
       {
-        "start": "2026-10-22T17:47:21+02:00",
-        "stop": "2026-10-22T18:09:19+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Làser: Adéu a la miopia",
-        "description": "Operar la còrnia amb làser és una possibilitat per corregir la miopia.Quèquicom analitza els riscos d'aquestes intervencions si no es fan totes les proves necessàries. També explica què és el làser des de l'Institut de Ciències Fotòniques, ICFO.Quèquicom acompanya a una persona miop en el seu camí per deixar de ser-ho. La reportera Anna Lasaga indaga com és possible reduir tres diòptries en vint minuts i que el pacient se'n pugui anar a casa immediatament després de l'operació. És el que va fer Laura Domingo, que ja hi veu sense necessitat d'ulleres. Però no tothom es pot operar. Quèquicom explica quines condicions han de reunir els candidats a operar-se.El làser és un tipus de llum que és capaç de tallar, esculpir o fondre els teixits de cos humà, en aquest cas de la còrnia. Anna Lasaga visita l'ICFO, l'Institut de Ciències Fotòniques, per veure com es fa un làser i quines utilitats té.Al plató, Marc Boada ens explica perquè hi ha persones miops i persones hipermetrops i, a més explica quina diferencia hi ha entre la llum normal i el làser.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-10-22T21:42:54+02:00",
+        "stop": "2026-10-22T22:12:38+02:00",
+        "title": "L'un per l'altre",
+        "subtitle": "La becària",
+        "description": "La Maria està desbordada de feina. Obliga el Calafell a acceptar una becària. Però aquesta acaba resultant massa eficient i la Maria té por que li prengui la feina.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-10-22T15:29:50+02:00",
-        "stop": "2026-10-22T17:59:45+02:00",
-        "title": "Ple del Parlament",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/2/1723033059522.jpg"
-      }
-    ],
+    "oca1": [],
     "oca2": [],
     "oca3": [],
     "oca4": []
