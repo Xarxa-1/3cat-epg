@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-21T21:58:59.349689+00:00",
+  "updated": "2026-10-22T00:31:46.834889+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-21T23:27:43+02:00",
-        "stop": "2026-10-22T00:21:44+02:00",
-        "title": "País d'altura",
-        "subtitle": "Vall d'Aran",
-        "description": "Muntanyes de postal, pobles amb noms que semblen inventats i una natura desbocada. A la Vall d'Aran hi caben el romànic, la neu, les olles araneses i fins i tot algun ieti despistat.",
-        "genre": "",
-        "image": ""
+        "start": "2026-10-22T02:11:33+02:00",
+        "stop": "2026-10-22T04:00:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-22T00:21:44+02:00",
-        "stop": "2026-10-22T04:54:16+02:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
+        "start": "2026-10-22T04:00:00+02:00",
+        "stop": "2026-10-22T04:59:58+02:00",
+        "title": "Blues a l'estudi",
+        "subtitle": "Chino & The Big Bet",
+        "description": "Fa més d'una dècada que en Chino Que va arribar a Barcelona. En aquest temps s'ha fet un nom i s'ha convertit en una referència en l'escena del Blues i el Swing. Amb un directe fresc i energètic 'Chino i els Big Bet' proposen un Blues cru i contundent, inspirat en els primers passos del Blues elèctric. El trio està format per: Chino al Dobro i la veu, Rod Deville al contrabaix i Giggs Nother a la bateria.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-21T22:05:00+02:00",
-        "stop": "2026-10-22T00:00:00+02:00",
-        "title": "Mésnit",
+        "start": "2026-10-22T01:00:00+02:00",
+        "stop": "2026-10-22T06:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-22T00:00:00+02:00",
-        "stop": "2026-10-22T00:30:00+02:00",
+        "start": "2026-10-22T06:00:00+02:00",
+        "stop": "2026-10-22T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-21T23:00:04+02:00",
-        "stop": "2026-10-22T00:30:55+02:00",
-        "title": "Onze",
-        "subtitle": "L'última perla de la masia; Post Madrid-Leipzig i 'El predicador'",
-        "description": "Lluís Carrasco, Joan Poquí, Gemma Mallorca i Juvenal Edjogo comenten el partit de Xavi Espart a París i els gols de la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
-      },
-      {
-        "start": "2026-10-22T00:30:55+02:00",
-        "stop": "2026-10-22T00:50:35+02:00",
+        "start": "2026-10-22T02:22:44+02:00",
+        "stop": "2026-10-22T02:44:16+02:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+      },
+      {
+        "start": "2026-10-22T02:44:16+02:00",
+        "stop": "2026-10-22T04:26:52+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Asisa Joventut-Telekom / Champions League / J2",
+        "description": "El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-21T23:46:08+02:00",
-        "stop": "2026-10-22T00:07:09+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El corb Pillet",
-        "description": "La Koki sent sorolls estranys a la nau Tortuga i es posa a fer una revisió general. Com que són a prop del territori de la manada de llops del Petit Udolador, els germans Kratt el volen anar a veure, i troben un corb que els vol ajudar. Tot l'equip ho aprofitarà per estudiar els corbs, se'n faran un vestit de poder animal per acompanyar-lo i descobriran la intel·ligència i les capacitats que té aquest ocell.",
+        "start": "2026-10-22T02:30:25+02:00",
+        "stop": "2026-10-22T02:51:21+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "El Sr. Colom 72",
+        "description": "Des que és la guardiana dels prodigis, la Marinette renuncia a l'amor i se centra a buscar la manera que Ladybug impedeixi les reakumatitzacions de l'Esfinx Fosc. Fins i tot quan l'Alya intenta fer-la canviar d'idea dient-li que l'Adrien i la Kagami han trencat, a la Marinette se li fica al cap que els ha de reconciliar en comptes d'aprofitar l'oportunitat per ella. Però el seu pla desastrós provoca la 72a reakumatizació del senyor Colom. Els seus ocells transformen les persones en coloms malèfics, fins i tot la Kagami i l'Adrien. La lluita de Ladybug ajudarà la Marinette a retrobar l'amor?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-22T00:07:09+02:00",
-        "stop": "2026-10-22T00:28:11+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "L'odissea dels mussols",
-        "description": "Els germans Kratt, l'Aviva i la Koki tenen un accident amb la càpsula i van a parar a un lloc remot, des d'allà hauran de viure tota una odissea per tornar a casa. Pel camí descobreixen un munt d'espècies de la família dels mussols, amb unes quantes característiques comunes però cada espècie amb les seves singularitats. Això inspira l'Aviva per fer un vestit de poder animal per tornar a casa.",
+        "start": "2026-10-22T02:51:21+02:00",
+        "stop": "2026-10-22T03:12:31+02:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Psicoactor",
+        "description": "Per un malentès, la Marinette es pensa que a l'Adrien li agrada el famós còmic Harry Clown i es posa d'acord amb l'actor per intentar seduir l'Adrien fent-lo riure. Però la Marinette no és humorista i torna a fracassar. Quan busca consol en el Harry, no sap que ell també acaba de patir una decepció, però en el seu cas professional. Akumatitzat en Psicoactor, imposa als altres les emocions que li venen de gust a ell. I té intenció de fer passar les ganes de riure a tothom, començant per Ladybug i el Gat Noir!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-21T23:45:55+02:00",
-        "stop": "2026-10-22T01:12:02+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "Sergio & Serguéi",
-        "description": "SERGIO & SERGUÉIProductora: Mediapro en coproducció amb RTV Comercial i Instituto Cubano del Arte e Industria Cinematográficas. Compta amb la participació de Televisió de Catalunya, Paramaount Channel, Orange, Telecable, Movistar + i Vedado Films i el suport del Ministerio de Educación, Cultura y Deporte. Producció hispano-cubana. 2017Director: Ernesto Daranas.Guionista: Ernesto Daranas i Marta Isabel Daranas Serrano.Director de fotografia: Alejandro Menéndez Vega.Música: Michael Gutiérrez SánchezIntèrprets: Mario Guerra, Héctor Eduardo Suárez Noas (Héctor Noas), Tomàs Alejandro Cao Uriza.Sinopsi: Any 1991: l'antiga URSS es desintegra i Cuba entra en una gran crisi econòmica. Sergio, radioaficionat i professor de marxisme, no sap què fer per reorientar la seva vida i tirar endavant la seva família. Per la seva banda, en Serguéi, l'últim cosmonauta soviètic, es troba casi oblidat a l'avariada estació orbital Mir. Gràcies als seus equips de ràdio, Sergio i Serguéi es comuniquen i entre ells neix una amistat que els ajudarà a enfrontar-se als dramàtics canvis que transformaran els seus respectius països.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1765533985377.jpg"
+        "start": "2026-10-22T02:16:59+02:00",
+        "stop": "2026-10-22T03:13:14+02:00",
+        "title": "Montserrat Roig: l'hora violeta",
+        "subtitle": "Montserrat Roig: l'hora violeta",
+        "description": "'MONTSERRAT ROIG: L'HORA VIOLETA' (2017), una producció de Wonkafilms en coproducció amb Televisió de Catalunya i RTVE, amb el suport de l'Institut Català de les Empreses Culturals, Audioprojects i l'Institut Català de la Dona.Montserrat Roig: l'hora violeta explica qui va ser aquesta escriptora desapareguda prematurament fa 25 anys. Molt compromesa políticament durant la Transició democràtica, Roig va destacar per la seva obra literària i periodística, i també per reivindicar un feminisme combatiu i sense complexos. El documental és el retrat d'un personatge carismàtic i irrepetible que va sacsejar la vida cultural i política catalana de la segona meitat del segle XX.Direcció i guió: Neus Ràfols GarciaRealització: Pere HermsProductor: Albert SaguerProductor executiu TVC: Jordi AmbrósProductor delegat TVC: Joan PavonDirector fotografia: Ferran CasteràMuntatge: Tomàs MuñozDirector de producció: Carolina Trujillo/Jordi PortalsMúsica: 'Le temps de cerises', de Jean-Baptiste Clément i música d'Antoine Renard, interpretat per Maria Camats i Marc Robine. Cançons d'Ovidi Montllor, Maria del Mar Bonet i Lluís Serrahima, Lluís Llach i Marina RossellGrafisme: Tomàs MuñozVeu en off: Lali Feliu i Meritxell Sabaté",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/png/0/6/1728657613060.png"
       },
       {
-        "start": "2026-10-22T01:12:02+02:00",
-        "stop": "2026-10-22T02:16:57+02:00",
-        "title": "Viatjar a Mart. Salvar la Terra",
-        "subtitle": "Viatjar a Mart. Salvar la Terra",
-        "description": "Tres missions internacionals no tripulades són a Mart. Aquesta dècada hi podria arribar el primer ésser humà. Científics d'arreu del món treballen per fer realitat el somni d'arribar al planeta vermell i establir-hi una petita colònia humana. Qui podrà viatjar a Mart? Serà molt car? Seran autosuficients els marcians? L'objectiu no és que Mart sigui un pla B per substituir una Terra desolada pel canvi climàtic, sinó fer compatibles els esforços tecnològics i econòmics necessaris per explorar aquest planeta i salvar la Terra.",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.3cat.cat/multimedia//jpg/2/5/1623752144652.jpg"
+        "start": "2026-10-22T03:13:14+02:00",
+        "stop": "2026-10-22T03:27:31+02:00",
+        "title": "Les Feres",
+        "subtitle": "Alfred Garcia",
+        "description": "L'evolució natural d'Alfred García l'ha portat a vestir les seves cançons amb arranjaments pop-rock i trames electròniques. Però la influència familiar del seu tiet Pepe, que el va introduir en la guitarra flamenca, la rumba i el ventilador, ha inspirat un nou cançoner orientat cap a altres sonoritats càlides i properes. Així, les noves composicions del músic català abracen la rumba catalana i el connecten amb una tradició musical que ha explicat també en un documental escrit i dirigit per ell, 'Rumba catalana', i en el tercer disc de la seva trajectòria, 'T'estimo es te quiero' Alfred García: veu i guitarra Alexandra Moreno: veu Sara Sambola: veu Exequiel Coria: guitarra Víctor Rosell, Ruselito: guitarra 'Rumba catalana' 'Llamas en el cielo' 'Els teus ulls' 'T'estiu' Localització: Espais Naturals del Delta del Llobregat Data: 9 d'abril del 2025  ",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
       }
     ],
     "oca1": [],
