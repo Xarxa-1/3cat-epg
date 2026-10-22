@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-22T00:31:46.834889+00:00",
+  "updated": "2026-10-22T05:21:46.010961+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-22T02:11:33+02:00",
-        "stop": "2026-10-22T04:00:00+02:00",
+        "start": "2026-10-22T06:00:00+02:00",
+        "stop": "2026-10-22T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,25 +52,16 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-22T04:00:00+02:00",
-        "stop": "2026-10-22T04:59:58+02:00",
-        "title": "Blues a l'estudi",
-        "subtitle": "Chino & The Big Bet",
-        "description": "Fa més d'una dècada que en Chino Que va arribar a Barcelona. En aquest temps s'ha fet un nom i s'ha convertit en una referència en l'escena del Blues i el Swing. Amb un directe fresc i energètic 'Chino i els Big Bet' proposen un Blues cru i contundent, inspirat en els primers passos del Blues elèctric. El trio està format per: Chino al Dobro i la veu, Rod Deville al contrabaix i Giggs Nother a la bateria.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-22T08:00:00+02:00",
+        "stop": "2026-10-22T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
-      {
-        "start": "2026-10-22T01:00:00+02:00",
-        "stop": "2026-10-22T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-10-22T06:00:00+02:00",
         "stop": "2026-10-22T08:00:00+02:00",
@@ -79,21 +70,30 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-22T08:00:00+02:00",
+        "stop": "2026-10-22T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-22T02:22:44+02:00",
-        "stop": "2026-10-22T02:44:16+02:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-10-22T06:53:36+02:00",
+        "stop": "2026-10-22T08:25:46+02:00",
+        "title": "Onze",
+        "subtitle": "L'última perla de la masia; Post Madrid-Leipzig i 'El predicador'",
+        "description": "Lluís Carrasco, Joan Poquí, Gemma Mallorca i Juvenal Edjogo comenten el partit de Xavi Espart a París i els gols de la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-10-22T02:44:16+02:00",
-        "stop": "2026-10-22T04:26:52+02:00",
+        "start": "2026-10-22T08:25:46+02:00",
+        "stop": "2026-10-22T10:10:32+02:00",
         "title": "Bàsquet",
         "subtitle": "Asisa Joventut-Telekom / Champions League / J2",
         "description": "El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.",
@@ -103,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-10-22T02:30:25+02:00",
-        "stop": "2026-10-22T02:51:21+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "El Sr. Colom 72",
-        "description": "Des que és la guardiana dels prodigis, la Marinette renuncia a l'amor i se centra a buscar la manera que Ladybug impedeixi les reakumatitzacions de l'Esfinx Fosc. Fins i tot quan l'Alya intenta fer-la canviar d'idea dient-li que l'Adrien i la Kagami han trencat, a la Marinette se li fica al cap que els ha de reconciliar en comptes d'aprofitar l'oportunitat per ella. Però el seu pla desastrós provoca la 72a reakumatizació del senyor Colom. Els seus ocells transformen les persones en coloms malèfics, fins i tot la Kagami i l'Adrien. La lluita de Ladybug ajudarà la Marinette a retrobar l'amor?",
+        "start": "2026-10-22T07:20:26+02:00",
+        "stop": "2026-10-22T07:30:59+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva uns gatets que s’escapen",
+        "description": "En Rubble veu que si s'embruta prou, podrà anar a fer un bany de bombolles al saló de la Katie, però la cosa s'embolica quan l'alcalde Humdinger també hi porta els seus gatets.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-22T02:51:21+02:00",
-        "stop": "2026-10-22T03:12:31+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Psicoactor",
-        "description": "Per un malentès, la Marinette es pensa que a l'Adrien li agrada el famós còmic Harry Clown i es posa d'acord amb l'actor per intentar seduir l'Adrien fent-lo riure. Però la Marinette no és humorista i torna a fracassar. Quan busca consol en el Harry, no sap que ell també acaba de patir una decepció, però en el seu cas professional. Akumatitzat en Psicoactor, imposa als altres les emocions que li venen de gust a ell. I té intenció de fer passar les ganes de riure a tothom, començant per Ladybug i el Gat Noir!",
+        "start": "2026-10-22T07:30:59+02:00",
+        "stop": "2026-10-22T07:42:09+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva en mini-Marshal",
+        "description": "En Marshall no pot arribar a la pilota quan cau dins d'un forat i per això somia que es fa petit amb un raig empetitidor.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-22T02:16:59+02:00",
-        "stop": "2026-10-22T03:13:14+02:00",
-        "title": "Montserrat Roig: l'hora violeta",
-        "subtitle": "Montserrat Roig: l'hora violeta",
-        "description": "'MONTSERRAT ROIG: L'HORA VIOLETA' (2017), una producció de Wonkafilms en coproducció amb Televisió de Catalunya i RTVE, amb el suport de l'Institut Català de les Empreses Culturals, Audioprojects i l'Institut Català de la Dona.Montserrat Roig: l'hora violeta explica qui va ser aquesta escriptora desapareguda prematurament fa 25 anys. Molt compromesa políticament durant la Transició democràtica, Roig va destacar per la seva obra literària i periodística, i també per reivindicar un feminisme combatiu i sense complexos. El documental és el retrat d'un personatge carismàtic i irrepetible que va sacsejar la vida cultural i política catalana de la segona meitat del segle XX.Direcció i guió: Neus Ràfols GarciaRealització: Pere HermsProductor: Albert SaguerProductor executiu TVC: Jordi AmbrósProductor delegat TVC: Joan PavonDirector fotografia: Ferran CasteràMuntatge: Tomàs MuñozDirector de producció: Carolina Trujillo/Jordi PortalsMúsica: 'Le temps de cerises', de Jean-Baptiste Clément i música d'Antoine Renard, interpretat per Maria Camats i Marc Robine. Cançons d'Ovidi Montllor, Maria del Mar Bonet i Lluís Serrahima, Lluís Llach i Marina RossellGrafisme: Tomàs MuñozVeu en off: Lali Feliu i Meritxell Sabaté",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/png/0/6/1728657613060.png"
+        "start": "2026-10-22T07:19:02+02:00",
+        "stop": "2026-10-22T07:47:05+02:00",
+        "title": "La sobretaula",
+        "subtitle": "Vilafranca del Penedès amb Jordi LP",
+        "description": "Castellers, vins i molts referents gastronòmics marquen aquest capítol de La Sobretaula, que visita Vilafranca del Penedès. Acompanyats de l'humorista Jordi LP, descobrim un municipi amb tradició, cultura i sabor, on les històries i el talent local es comparteixen al voltant de la taula.",
+        "genre": "CUINA",
+        "image": ""
       },
       {
-        "start": "2026-10-22T03:13:14+02:00",
-        "stop": "2026-10-22T03:27:31+02:00",
-        "title": "Les Feres",
-        "subtitle": "Alfred Garcia",
-        "description": "L'evolució natural d'Alfred García l'ha portat a vestir les seves cançons amb arranjaments pop-rock i trames electròniques. Però la influència familiar del seu tiet Pepe, que el va introduir en la guitarra flamenca, la rumba i el ventilador, ha inspirat un nou cançoner orientat cap a altres sonoritats càlides i properes. Així, les noves composicions del músic català abracen la rumba catalana i el connecten amb una tradició musical que ha explicat també en un documental escrit i dirigit per ell, 'Rumba catalana', i en el tercer disc de la seva trajectòria, 'T'estimo es te quiero' Alfred García: veu i guitarra Alexandra Moreno: veu Sara Sambola: veu Exequiel Coria: guitarra Víctor Rosell, Ruselito: guitarra 'Rumba catalana' 'Llamas en el cielo' 'Els teus ulls' 'T'estiu' Localització: Espais Naturals del Delta del Llobregat Data: 9 d'abril del 2025  ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
+        "start": "2026-10-22T07:47:05+02:00",
+        "stop": "2026-10-22T08:14:48+02:00",
+        "title": "La sobretaula",
+        "subtitle": "Banyoles amb Jordi LP",
+        "description": "En aquest capítol excepcional de La Sobretaula, Mari Pau Huguet condueix el programa acompanyada de Jordi LP per descobrir Banyoles a través de la seva gastronomia i la seva identitat cultural. Amb la participació especial de Matthew Tree, el programa ens ofereix una mirada singular sobre el territori, els productes de proximitat i les històries que connecten cuina, paisatge i cultura.",
+        "genre": "CUINA",
+        "image": ""
       }
     ],
     "oca1": [],
