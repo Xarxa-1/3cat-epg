@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-23T15:36:54.465837+00:00",
+  "updated": "2026-10-23T19:32:07.320891+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,106 +43,116 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-23T17:28:30+02:00",
-        "stop": "2026-10-23T19:10:53+02:00",
-        "title": "La Selva",
+        "start": "2026-10-23T21:00:00+02:00",
+        "stop": "2026-10-23T22:00:37+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-23T19:10:53+02:00",
-        "stop": "2026-10-23T20:14:03+02:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "start": "2026-10-23T22:00:37+02:00",
+        "stop": "2026-10-23T22:25:21+02:00",
+        "title": "Després de tu",
+        "subtitle": "La mimosa",
+        "description": "Els horaris de rider de l'Òscar fan que no pugui veure's amb l'Àlex i això provoca que vulgui tornar a estudiar. La relació entre el Pau i l'Helena va bé, tot i que ell té dubtes sobre la conveniència de refer la seva vida tan aviat.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-23T17:00:00+02:00",
-        "stop": "2026-10-23T18:30:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-23T21:00:00+02:00",
+        "stop": "2026-10-23T22:05:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-23T18:30:00+02:00",
-        "stop": "2026-10-23T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-23T22:05:00+02:00",
+        "stop": "2026-10-23T23:30:00+02:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-23T16:55:00+02:00",
-        "stop": "2026-10-23T17:45:00+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Reial Madrid-Barça Atlètic / Lliga U / J5",
-        "description": "Els filials blanc i blaugrana s'enfronten al campionat que disputen les joves promeses júniors dels equips de la Lliga Endesa.",
+        "start": "2026-10-23T21:07:29+02:00",
+        "stop": "2026-10-23T23:22:41+02:00",
+        "title": "Futbol",
+        "subtitle": "CE Europa-R. Saragossa / Primera Federació / J9",
+        "description": "Tot un repte per al conjunt de Gràcia que rep, a Can Dragó, un històric del futbol estatal. Els aragonesos, colíders a la classificació, són els grans favorits per l'ascens a la Segona Divisió.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-10-23T17:45:00+02:00",
-        "stop": "2026-10-23T17:58:30+02:00",
-        "title": "Zona UFEC",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
+        "start": "2026-10-23T23:22:41+02:00",
+        "stop": "2026-10-24T00:53:36+02:00",
+        "title": "Onze",
+        "subtitle": "El còctel del Barça-Madrid; la clau del Clàssic; Fàbregas i Nin",
+        "description": "Míriam Riau condueix la tertúlia amb Lluís Carrasco, Irati Vidal, Laura Aparicio, Francesc Garriga i, des de Madrid, Siro López. Àlex Delmàs ens explica la seva clau del Clàssic, amb Joan Fàbregas analitzem qui pot arbitrar el Barça-Madrid i acabem amb les Golfes de l'Onze que ens porta Òscar Nin.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-23T17:32:46+02:00",
-        "stop": "2026-10-23T17:37:15+02:00",
-        "title": "Wonderblocks",
-        "subtitle": "Ja hi tornem",
-        "description": "El gripau necessita ajuda per fer arribar el seu vagó fins a l'estació on l'esperen les granotes. La Prou i la Som-hi hauran de recórrer al seu nou amic Tornem-hi.",
+        "start": "2026-10-23T21:22:19+02:00",
+        "stop": "2026-10-23T21:41:43+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Impossible! L'espasa Z s'ha trencat!",
+        "description": "En Son Goku decideix posar a prova l'espasa Z amb el metall més dur de l'univers, però l'arma s'acaba trencant. Quan sembla que s'han esvaït totes les esperances, de l'interior de l'espasa trencada en surt un vell que explica que hi estava atrapat i que convertirà en Son Gohan en el guerrer més poderós de tots els temps.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-23T17:37:15+02:00",
-        "stop": "2026-10-23T17:41:45+02:00",
-        "title": "Wonderblocks",
-        "subtitle": "La mongetera gegant",
-        "description": "En Tornem-hi vol collir les pomes que hi ha a la part més alta de la pomera, però com hi arribarà? La resposta és fàcil: amb una mongetera gegant!",
+        "start": "2026-10-23T21:41:43+02:00",
+        "stop": "2026-10-23T22:01:05+02:00",
+        "title": "Bola de drac Z",
+        "subtitle": "El naixement del superhome fusionat! En Gotrunks!",
+        "description": "Després de dos intents, amb resultats més aviat còmics, en Son Goten i en Trunks aconsegueixen fer una fusió amb èxit i en neix el superhome fusionat, anomenat Gotrunks. En Gotrunks, sense fer cas dels consells d'en Cor Petit, decideix anar a atacar el monstre Bu sense ni tan sols convertir-se en superguerrer. El resultat pot ser desastrós...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-23T17:25:21+02:00",
-        "stop": "2026-10-23T17:47:42+02:00",
-        "title": "Quèquicom",
-        "subtitle": "L9. Un metro únic al món.",
-        "description": "L9. Un metro únic al mónTrens sense conductor i túnels de dos pisos, en l'obra d'enginyeria més complexa de la història de Catalunya.El sistema de construcció de la línia 9 del metro de Barcelona és únic al món: consisteix en un únic túnel dividit en dos pisos per on circulen els trens en un i altre sentit. Aquesta és l'obra d'enginyeria més complexa de la història de Catalunya. Una altra singularitat és l''automatisme dels combois, que funcionaran sense conductor, teledirigits des d'un centre de control.'Quèquicom' viatja al subsòl de Barcelona a bord d'una de les màquines més sofisticades que hi ha al planeta: una tuneladora. Les seves dimensions i potència són tan enormes que fins i tot té menjador i lavabo. El director d'infraestructures subterrànies de la Generalitat, Jordi Jubany, explica al reporter Miquel Piris com s'està realitzant aquesta obra i les característiques que la fan única al món. La novetat rau, a més, en la construcció de pous que s'endinsen a la terra arribant a profunditats de fins a 60 metres. Allà, el túnel es divideix en dos pisos per col·locar-hi les dues vies del tren, una damunt de l'altra. Aquesta nova construcció està integrada en el mateix túnel i permet construir de manera més ràpida i segura. Miquel Piris també fa un curset accelerat de maquinista de metro. Una feina que, per altra banda, desapareix a la línia 9. Els trens seran teledirigits i se'ls enviarà informació automàtica des d'un centre de control. Es tracta d'una experiència aplicada ja en altres països, però que ara també s'implanta a la línia 9, el tram de metro més llarg d'Europa.Conceptes didàctics / paraules clau: - Tuneladora- Cargol d'Arquimedes- Enginyeria - Sistemes hidràulics- La pressió en obres subterrànies - Conduir a través de ràdio control",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-10-23T21:30:31+02:00",
+        "stop": "2026-10-23T22:01:12+02:00",
+        "title": "L'un per l'altre",
+        "subtitle": "Estrelles Miguelón",
+        "description": "Un crític gastronòmic de la prestigiosa Guia Miguelón atorga a un plat cuinat per error entre el Toni i el Calafell, la màxima puntuació, les preuades tres estrelles Miguelón. A partir d'aquest moment l'Hotel Lisboa es transforma en un lloc de culte per tots els sibarites de la ciutat. El Toni i el Calafell, creguts del seu geni culinari, decideixen revolucionar la cuina d'autor.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       },
       {
-        "start": "2026-10-23T17:47:42+02:00",
-        "stop": "2026-10-23T18:09:26+02:00",
-        "title": "Quèquicom",
-        "subtitle": "Cosmètica contra el temps",
-        "description": "'Quèquicom' provarà els efectes dels productes cosmètics en la lluita contra el temps, amb diversos exemples sota el títol genèric 'Cosmètica contra el temps'.La reportera Anna Lasaga prova una crema antiarrugues d'última generació que s'ha formulat al Parc Científic de Barcelona i que Infinitec, una empresa d'investigació cosmètica del Parc, ha desenvolupat, a través d'un principi actiu que estimula la producció de col·lagen. Durant un mes, Anna Lasaga s'ha aplicat aquesta crema, que encara té un cost molt elevat perquè fa servir l'or com a vehicle per penetrar a la pell, per provar científicament si efectivament li disminueixen les arrugues, les potes de gall. La reportera pregunta a especialistes si realment hi ha diferència entre les cremes segons el preu. El programa de ciència del 33 explica també com es combaten les taques de l'edat. Perquè, a més d'arrugues, amb els anys surten també taques a la pell, que es poden fer desaparèixer amb un làser específic. La doctora especialista Montse Serra l'aplica a la pell de la reportera per mostrar com amb aquesta tecnologia es poden cremar les capes més internes de l'epidermis, sense afectar la part més extensa. Així es recupera la pigmentació original de la zona. En qualsevol cas, tothom aconsella protecció solar i una bona hidratació. I això és el que explica, des del plató, Marc Boada: com actuen les cremes hidratants i què es pot fer per tenir una pell ben hidratada. Marc Boada explica també com funcionen les tovalloletes autobrozejadores, que tenen una substància que reacciona químicament amb el mantell àcid gras de la pell i l'enfosqueix, però que no ofereixen cap protecció contra el sol.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-10-23T22:01:12+02:00",
+        "stop": "2026-10-23T22:52:09+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 8",
+        "description": "Aquesta setmana hem parlat de la ronyonera, de la campana extractora, del sofà i dels esclops. Estem segurs que, com a mínim, dues d'aquestes coses les tens a casa teva. També ens visiten en Francesc Garriga, l'Imma Roquet, en Josep Espigulé, i un grup del qual segur que coneixes alguna cançó: La Pegatina. La veritat és que han quedat uns programes tan ben parits, que ens fa preguntar com és possible que escoltar el nostre programa no sigui de pagament.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
-    "oca2": [],
+    "oca2": [
+      {
+        "start": "2026-10-23T20:54:59+02:00",
+        "stop": "2026-10-23T22:44:54+02:00",
+        "title": "Hoquei patins",
+        "subtitle": "- CP Fraga-Telecable HC / Supercopa d'Espanya / 2a semifinal",
+        "description": "L'Esneca Fraga i el Telecable Gijón juguen la segona semifinal de la Supercopa d'Espanya d'hoquei patins.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/5/1701373461655.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
