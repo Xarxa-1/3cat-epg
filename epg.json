@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-23T00:57:02.611803+00:00",
+  "updated": "2026-10-23T05:46:26.814215+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-23T02:04:11+02:00",
-        "stop": "2026-10-23T04:00:00+02:00",
+        "start": "2026-10-23T06:00:00+02:00",
+        "stop": "2026-10-23T08:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,25 +52,16 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-23T04:00:00+02:00",
-        "stop": "2026-10-23T04:44:24+02:00",
-        "title": "Cava de Blues",
-        "subtitle": "A Contrablues",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+        "start": "2026-10-23T08:00:00+02:00",
+        "stop": "2026-10-23T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
-      {
-        "start": "2026-10-23T01:00:00+02:00",
-        "stop": "2026-10-23T06:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-10-23T06:00:00+02:00",
         "stop": "2026-10-23T08:00:00+02:00",
@@ -79,65 +70,74 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-23T08:00:00+02:00",
+        "stop": "2026-10-23T10:30:00+02:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-23T02:52:37+02:00",
-        "stop": "2026-10-23T04:09:59+02:00",
+        "start": "2026-10-23T07:10:46+02:00",
+        "stop": "2026-10-23T08:42:51+02:00",
+        "title": "Onze",
+        "subtitle": "Soroll de clàssic; 'Onzeclopèdia' i 'El consultori'",
+        "description": "David Bernabeu, Víctor Lozano, Laia Tudel, Fernando Polo i Siro López pentinen la prèvia del clàssic. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+      },
+      {
+        "start": "2026-10-23T08:42:51+02:00",
+        "stop": "2026-10-23T10:00:45+02:00",
         "title": "Handbol",
         "subtitle": "Barça-Montpeller / EHF Champions / J5",
         "description": "Penúltima jornada de la fase de grups. En el precedent que van jugar a la ciutat occitana, els blaugranes van guanyar per 27 a 28.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"
+      }
+    ],
+    "sx3": [
+      {
+        "start": "2026-10-23T07:42:22+02:00",
+        "stop": "2026-10-23T07:54:11+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "- La Patrulla i el misteri de vehicle eruga sense conductor",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       },
       {
-        "start": "2026-10-23T04:09:59+02:00",
-        "stop": "2026-10-23T04:57:40+02:00",
-        "title": "E3",
-        "subtitle": "- L'HOME MÉS FORT DEL MÓN GIANTS LIVE 1: BRITAIN'S STRONGEST MAN",
+        "start": "2026-10-23T07:54:11+02:00",
+        "stop": "2026-10-23T08:06:34+02:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "- La Patrulla salva els nens de Halloween",
         "description": "Sense Descripció",
         "genre": "",
         "image": ""
       }
     ],
-    "sx3": [
-      {
-        "start": "2026-10-23T02:47:48+02:00",
-        "stop": "2026-10-23T03:08:26+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Culpabisme",
-        "description": "La Marinette descobreix que la Juleka amaga un secret de la Rose des de fa molt de temps. Pensant que ajudarà la Juleka, la Marinette la convenç perquè l'hi expliqui i li promet que no li dirà mai a la Rose que ho sap. Però malgrat la seva promesa, la Marinette i els companys ja no es poden comportar de manera normal amb la Rose, que de seguida s'adona que la Juleka ha xerrat més del compte. Això fa que la Juleka s'enfonsi en un abisme de culpabilitat tan profund que l'Esfinx Fosc intentarà aprofitar-ho per mirar de capturar Ladybug i el Gat Noir.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
-        "start": "2026-10-23T03:08:26+02:00",
-        "stop": "2026-10-23T03:29:19+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Cocoduo",
-        "description": "La Marinette està convençuda que al Luka l'han akumatitzat diverses vegades per culpa seva, perquè el Luka està enamorat d'ella però ella n'està de l'Adrien. Des que el Luka li va dir que l'estimava, la Marinette l'evita per protegir-lo, però evidentment aquesta situació els fa mal a tots dos. Per això els seus amics decideixen organitzar una trobada entre ells dos aprofitant la festa d'aniversari de la Juleka, la germana bessona del Luka. Però quan la Marinette s'adona que és un parany, se li acut un pla condemnat a causar més d'un desastre i una akumatització inesperada.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      }
-    ],
     "c33": [
       {
-        "start": "2026-10-23T02:32:57+02:00",
-        "stop": "2026-10-23T03:27:40+02:00",
-        "title": "Ale-Hop!",
-        "subtitle": "Tecnocirc",
-        "description": "Aquest capítol vol tenir una mirada oberta sobre la tecnologia aplicada a l'art circense. En aquest capítol coneixerem propostes on la tecnologia té un paper important. Per exemple, el joc de llums i aigua de la Maria Palma, que mostra les seves habilitats acrobàtiques dins una gran peixera gràcies als seus coneixements sobre la pràctica de l'apnea. O les improvisacions malabars de Troposfera XYZ, basades en una música autogenerada per algoritmes que els serveixen per improvisar moviments impossibles amb els seus diàbolos. També coneixerem en Manolo Alcántara, que amb l'espectacle 'Maña' ha fet un homenatge a la tecnologia analògica construint a temps real, i en cada actuació, una escenografia de grans dimensions. I un artesà de les arts escèniques: el marionetista Jordi Bertran ens sorprendrà i ens farà riure amb els seus entranyables titelles.I, finalment, la Laia Fontan volarà. Visitarà una empresa especialitzada a fer volar persones a l'escenari, i aprofitarà per viure en primera persona aquesta experiència. ",
-        "genre": "ALTRES",
+        "start": "2026-10-23T07:26:39+02:00",
+        "stop": "2026-10-23T07:53:50+02:00",
+        "title": "Viure als Pirineus",
+        "subtitle": "Un hoteler dels Pirineus (Primavera - Estiu)",
+        "description": "En Cinto Gabriel és fill d'una nissaga d'hotelers que regenta l'hotel Cardós ajudat per la família. La seva feina és l'atenció als clients, però, en realitat, fa una mica de tot.En Cinto és un col·leccionista nat del qual se'n podria destacar la passió pels bolets, per les papallones o per la fotografia, entre moltes altres. Aficions totes inculcades per antics clients. Però on se sent realment lliure és a dalt de les muntanyes on gaudeix dels seus paisatges preferits, tant per tradició familiar com per la seva bellesa natural, com el pla de Nèqua, a 2.000 metres. Un lloc on els seus clients acostumen a anar-hi un any sí i l'altre també. Amb tot, la seva afició més gran és l'òpera. N'escolta cada dia i l'ha incorporat a tots els actes importants de la seva vida, i això l'ha portat a abocar-se també en la conservació activa del patrimoni històric de la vall de Cardós, participant en el teatre o fent de campaner.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-23T03:27:40+02:00",
-        "stop": "2026-10-23T04:19:17+02:00",
-        "title": "Ale-Hop!",
-        "subtitle": "Senyores i senyors",
-        "description": "Senyores i senyors, nenes i nens, agafeu seient a la carpa del programa 'Ale-hop', que comença l'espectacle.Així comença aquest capítol, on la Laia Fontan tindrà un record per als artistes i les artistes que han passat pel programa. Tindrem l'oportunitat de veure catorze números nous d'artistes com les germanes Giribaldi, en Kerol, l'Yldor Llach, la Mariona Moya (la Córcoles), en Jordi Caps, la companyia Entre Nous o Planeta Trampolí, entre molts d'altres.Serà un homenatge final a la gent del circ que en els cinc capítols anteriors ens han donat l'oportunitat de conèixer per dins aquest món d'il·lusió, fantasia, risc i, sobretot, vocació.Durant aquest capítol, la Laia estarà acompanyada del nostre col·laborador expert en xarxes socials, en Joan Grivé, 'perquè tot surti segons el previst'.",
-        "genre": "ALTRES",
+        "start": "2026-10-23T07:53:50+02:00",
+        "stop": "2026-10-23T08:21:48+02:00",
+        "title": "Viure als Pirineus",
+        "subtitle": "Un guarda de refugi dels Pirineus (Primavera - estiu)",
+        "description": "«Un guarda de refugi dels Pirineus» ens presenta una història d'amor entre un home i una muntanya, la Pierre Saint Martin. És una història que va començar fa més de quaranta anys en una vall veïna. Als seus 62 anys, Jean Hourticq, és tot un representant de la història d'aquesta regió, la del Lapiaz més gran d'Europa, un territori calcari de relleu accidentat i gorgues profundes. Aquest home de muntanya dirigeix, des de fa 22 anys, el refugi Jeandel, situat en un pic rocós, a 1.600 metres d'alçada, un refugi que provoca la curiositat d'excursionistes, escaladors i aventurers de tota mena. Cada dia, en Jean i la seva dona hi garanteixen els àpats, l'allotjament i la millor acollida possible a tots els visitants que passen pel refugi. A tots dos, units també per l'amor a la muntanya, els agrada conèixer gent i compartir-hi bons moments.La temporada d'estiu s'acaba i nosaltres seguirem la parella en el moment en què aturen la seva activitat, a les portes de la jubilació. L'Anthony, fill d'en Jean, garantirà la pervivència del refugi, sota la tutela benvolent del seu pare. Es tracta d'una transmissió que va molt més enllà del que podria ser un petit negoci familiar, perquè perllonga en el temps una història íntima i antiga entre les muntanyes dels Pirineus i tots aquells que hi conviuen.S'acosta l'hivern, i l'Anthony i la Camille, que a partir d'ara s'ocuparan de les instal·lacions, es troben davant d'un nou repte que truca a la porta del refugi Jeandel...",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
