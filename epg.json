@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-23T10:54:40.800406+00:00",
+  "updated": "2026-10-23T15:36:54.465837+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-23T10:31:28+02:00",
-        "stop": "2026-10-23T13:55:00+02:00",
-        "title": "Tot es mou",
+        "start": "2026-10-23T17:28:30+02:00",
+        "stop": "2026-10-23T19:10:53+02:00",
+        "title": "La Selva",
         "subtitle": "",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "description": "Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.",
         "genre": "MAGAZINE",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
       },
       {
-        "start": "2026-10-23T13:55:00+02:00",
-        "stop": "2026-10-23T14:30:00+02:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-10-23T19:10:53+02:00",
+        "stop": "2026-10-23T20:14:03+02:00",
+        "title": "Atrapa'm si pots",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-23T12:00:00+02:00",
-        "stop": "2026-10-23T13:55:00+02:00",
+        "start": "2026-10-23T17:00:00+02:00",
+        "stop": "2026-10-23T18:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,73 +72,73 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-23T13:55:00+02:00",
-        "stop": "2026-10-23T14:30:00+02:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-10-23T18:30:00+02:00",
+        "stop": "2026-10-23T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-23T11:28:05+02:00",
-        "stop": "2026-10-23T13:00:00+02:00",
-        "title": "Onze",
-        "subtitle": "Soroll de clàssic; 'Onzeclopèdia' i 'El consultori'",
-        "description": "David Bernabeu, Víctor Lozano, Laia Tudel, Fernando Polo i Siro López pentinen la prèvia del clàssic. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-10-23T16:55:00+02:00",
+        "stop": "2026-10-23T17:45:00+02:00",
+        "title": "Bàsquet",
+        "subtitle": "Reial Madrid-Barça Atlètic / Lliga U / J5",
+        "description": "Els filials blanc i blaugrana s'enfronten al campionat que disputen les joves promeses júniors dels equips de la Lliga Endesa.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
       },
       {
-        "start": "2026-10-23T13:00:00+02:00",
-        "stop": "2026-10-23T14:01:24+02:00",
-        "title": "Esport Club",
-        "subtitle": "Lamine contra Mbappé, Manolo González, Harriet Kjaer i tertúlia",
-        "description": "Lamine Yamal i Kylian Mbappé arriben endollats al clàssic. En parlem amb l'Àlex Delmàs. Manolo González abans del Racing-Espanyol de demà dissabte. Entrevistem Harriet Kjaer, guanyadora de la Trail Cat The Race. A la tertúlia ens acompanyen Nacho Peña, Iris Miquel i David Sánchez.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-10-23T17:45:00+02:00",
+        "stop": "2026-10-23T17:58:30+02:00",
+        "title": "Zona UFEC",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-23T12:33:56+02:00",
-        "stop": "2026-10-23T12:55:59+02:00",
-        "title": "Els germans Kratt",
-        "subtitle": "A la recerca de la perca",
-        "description": "Tot provant els nous poders de perca del Vestit de Poder Animal, en Chris i en Martin han conegut en Gavin, un nen que es passa tot l'estiu pescant i que s'ha deixat enredar per en Zach de participar en un concurs de pesca que pot acabar molt malament. Els germans Kratt sempre juguen net, però d'en Zach no se'n pot pas dir el mateix! Que comenci el concurs!",
+        "start": "2026-10-23T17:32:46+02:00",
+        "stop": "2026-10-23T17:37:15+02:00",
+        "title": "Wonderblocks",
+        "subtitle": "Ja hi tornem",
+        "description": "El gripau necessita ajuda per fer arribar el seu vagó fins a l'estació on l'esperen les granotes. La Prou i la Som-hi hauran de recórrer al seu nou amic Tornem-hi.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-23T12:55:59+02:00",
-        "stop": "2026-10-23T13:17:25+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El torneig de kendo de l'amor i el misteri (2a part)",
-        "description": "La Ran i en Conan han trobat un dels àrbitres del campionat de kendo assassinat a prop dels lavabos del pavelló. Hi ha un testimoni cec que assegura que només tres persones han passat per allà al davant després de l'assassinat i que totes tres han entrat als lavabos i encara no n'han sortit. Els presumptes culpables, per tant, són tots allà. Només cal saber qui és l'assassí, i en Heiji i en Soshi Okita rivalitzaran per descobrir-ho.",
+        "start": "2026-10-23T17:37:15+02:00",
+        "stop": "2026-10-23T17:41:45+02:00",
+        "title": "Wonderblocks",
+        "subtitle": "La mongetera gegant",
+        "description": "En Tornem-hi vol collir les pomes que hi ha a la part més alta de la pomera, però com hi arribarà? La resposta és fàcil: amb una mongetera gegant!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-23T12:25:41+02:00",
-        "stop": "2026-10-23T14:00:41+02:00",
-        "title": "El Gran Dictat, VIP",
-        "subtitle": "El Gran Gran Dictat",
-        "description": "Aquest dissabte, seuran a la taula d''El gran gran dictat' tres grans grans concursants disposats a guanyar i a passar una bona estona amb l'Òscar Dalmau. L'Ona Carbonell, la concursant més sincronitzada que ha vingut fins ara. El David Balaguer, periodista i periquito. I l'Amparo Moreno, actriu polifacètica que tant te la pots trobar en una telenovel·la com fent de vedet a El Molino.Aquests tres concursants, grans coneguts dels nostres espectadors, no només vindran a demostrar els seus coneixements de català. L'Ona Carbonell ballarà molt sincronitzadament la melodia d''El gran dictat'. El David Balaguer ens ensenyarà a preparar un dels còctels més estrambòtics que ens podríem trobar: 'l'escopinya colada'. I, per últim, descobrirem quina és l'addicció més inconfessable de l'Amparo Moreno.I tot això amenitzat per un dels mags més irreverents del panorama català: el Mag Lari, que aquesta temporada farà més d'una aparició estel·lar i, de pas, tocarà una mica el voraviu a l'Òscar Dalmau.",
-        "genre": "EDUCATIU",
+        "start": "2026-10-23T17:25:21+02:00",
+        "stop": "2026-10-23T17:47:42+02:00",
+        "title": "Quèquicom",
+        "subtitle": "L9. Un metro únic al món.",
+        "description": "L9. Un metro únic al mónTrens sense conductor i túnels de dos pisos, en l'obra d'enginyeria més complexa de la història de Catalunya.El sistema de construcció de la línia 9 del metro de Barcelona és únic al món: consisteix en un únic túnel dividit en dos pisos per on circulen els trens en un i altre sentit. Aquesta és l'obra d'enginyeria més complexa de la història de Catalunya. Una altra singularitat és l''automatisme dels combois, que funcionaran sense conductor, teledirigits des d'un centre de control.'Quèquicom' viatja al subsòl de Barcelona a bord d'una de les màquines més sofisticades que hi ha al planeta: una tuneladora. Les seves dimensions i potència són tan enormes que fins i tot té menjador i lavabo. El director d'infraestructures subterrànies de la Generalitat, Jordi Jubany, explica al reporter Miquel Piris com s'està realitzant aquesta obra i les característiques que la fan única al món. La novetat rau, a més, en la construcció de pous que s'endinsen a la terra arribant a profunditats de fins a 60 metres. Allà, el túnel es divideix en dos pisos per col·locar-hi les dues vies del tren, una damunt de l'altra. Aquesta nova construcció està integrada en el mateix túnel i permet construir de manera més ràpida i segura. Miquel Piris també fa un curset accelerat de maquinista de metro. Una feina que, per altra banda, desapareix a la línia 9. Els trens seran teledirigits i se'ls enviarà informació automàtica des d'un centre de control. Es tracta d'una experiència aplicada ja en altres països, però que ara també s'implanta a la línia 9, el tram de metro més llarg d'Europa.Conceptes didàctics / paraules clau: - Tuneladora- Cargol d'Arquimedes- Enginyeria - Sistemes hidràulics- La pressió en obres subterrànies - Conduir a través de ràdio control",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-10-23T14:00:41+02:00",
-        "stop": "2026-10-23T14:47:15+02:00",
-        "title": "La Renaixença",
-        "subtitle": "El vàter",
-        "description": "Quantes hores podem passar asseguts a la tassa del vàter al llarg de la vida? I no volem dir que siguin hores desaprofitades, tot el contrari, sovint hi passem més temps del qual ens fa falta perquè... confessem-ho: tots ens hi emportem el mòbil. Rebem la visita de Sandra Ànima, una facialista que, com el nom indica, no ens llegirà el palmell de la mà, sinó la cara! Sabem posar cara de pòquer? A 'Històries per passejar el gos' anem amb la Guida, d'Olesa de Montserrat, fins a la guerra freda i el cas Roswell, el 1947.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-10-23T17:47:42+02:00",
+        "stop": "2026-10-23T18:09:26+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Cosmètica contra el temps",
+        "description": "'Quèquicom' provarà els efectes dels productes cosmètics en la lluita contra el temps, amb diversos exemples sota el títol genèric 'Cosmètica contra el temps'.La reportera Anna Lasaga prova una crema antiarrugues d'última generació que s'ha formulat al Parc Científic de Barcelona i que Infinitec, una empresa d'investigació cosmètica del Parc, ha desenvolupat, a través d'un principi actiu que estimula la producció de col·lagen. Durant un mes, Anna Lasaga s'ha aplicat aquesta crema, que encara té un cost molt elevat perquè fa servir l'or com a vehicle per penetrar a la pell, per provar científicament si efectivament li disminueixen les arrugues, les potes de gall. La reportera pregunta a especialistes si realment hi ha diferència entre les cremes segons el preu. El programa de ciència del 33 explica també com es combaten les taques de l'edat. Perquè, a més d'arrugues, amb els anys surten també taques a la pell, que es poden fer desaparèixer amb un làser específic. La doctora especialista Montse Serra l'aplica a la pell de la reportera per mostrar com amb aquesta tecnologia es poden cremar les capes més internes de l'epidermis, sense afectar la part més extensa. Així es recupera la pigmentació original de la zona. En qualsevol cas, tothom aconsella protecció solar i una bona hidratació. I això és el que explica, des del plató, Marc Boada: com actuen les cremes hidratants i què es pot fer per tenir una pell ben hidratada. Marc Boada explica també com funcionen les tovalloletes autobrozejadores, que tenen una substància que reacciona químicament amb el mantell àcid gras de la pell i l'enfosqueix, però que no ofereixen cap protecció contra el sol.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       }
     ],
     "oca1": [],
