@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-24T10:09:30.618421+00:00",
+  "updated": "2026-10-24T14:00:09.010890+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,34 +43,25 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-24T12:00:00+02:00",
-        "stop": "2026-10-24T14:00:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-10-24T15:34:13+02:00",
+        "stop": "2026-10-24T17:34:36+02:00",
+        "title": "Pel·lícula",
+        "subtitle": "L'Escollit",
+        "description": "L'ESCOLLITProducció: Oberon Cinematogràfica, Alebrije Producciones i The Chosen 2015, AIE, 2016Guió i direcció: Antonio ChavarríasDirector de fotografia: Guillermo Granillo AMC-AECCompositor de música: Arnau BatallerIntèrprets: Alfonso Herrera (Ramón Mercader), Hannah Murray (Sylvia Ageloff), Henry Goodman (Trosky), Julian Sands (Kotov), Elvira Mínguez (Caridad Mercader), Emilio Echevarría (Salazar), Frances Barber (Natalia Sedova), Alejandro Calva (Siqueiros), Roger Casamajor (Capitán Vidal), Javier Godino (Costa) i narrador en versió catalana Ramón MadaulaEl 1940 va arribar a Mèxic un home anomenat Jacques Mornard, deia que era un belga que fugia de la guerra europea per reunir-se amb la seva xicota, una de les secretàries del refugiat Leon Trotsky. Tots ignoraven que en realitat aquell jove convencional i alegre era un agent del servei secret soviètic amb l'encàrrec d'assassinar Trotsky.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       },
       {
-        "start": "2026-10-24T14:00:00+02:00",
-        "stop": "2026-10-24T14:26:42+02:00",
-        "title": "Viure als Pirineus",
-        "subtitle": "Una cuinera dels Pirineus (Primavera - Estiu)",
-        "description": "Eva Martínez-Picó s'afanya entre la cuina, la botiga i el restaurant Can Jordi i, alhora, és la responsable del refugi per a excursionistes creat aprofitant les antigues escoles d'Espinavell, un petit poble de la comarca del Ripollès. Periodista de formació que va treballar en molts gabinets de comunicació públics i privats de mig món, un dia decideix marxar de Barcelona, o com ella mateixa diu: 'Tu fas que les coses passin.' I va descobrir Espinavell on ja viu des de fa onze anys i on el seu primer marit va morir poc temps després d'arribar-hi.L' Eva va decidir quedar-s'hi i reobrir el petit restaurant on fa de cuinera, cambrera i el que faci falta i especialitzar-se en la carn de poltre que es cria a les muntanyes que veu des de casa seva. Incansable, amb els altres hostalers de la comarca ha creat una plataforma que ofereix serveis turístics de qualitat que inclouen excursions de descoberta de la natura i del patrimoni de la vall de Camprodon fins a la difusió de la cuina tradicional. Ara veu realitzada la proposta que la vall de Camprodon sigui Parc Natural mentre prepara un llibre sobre les famílies de la població i participa en l'organització de la cursa Molló Trail.'El món està dintre, no fora' ens diu, en referència al seu gran món interior i al fet d'estar sola molts dies, ja que l'Àngel, la seva parella actual, és un ramader molt enfeinat amb les seves eugues i vaques.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-24T17:34:36+02:00",
+        "stop": "2026-10-24T18:26:22+02:00",
+        "title": "Infidels",
+        "subtitle": "",
+        "description": "La Joana no pot evitar mostrar-se seca amb el Peter i li demana temps per pair la situació. El Francesc s'adona que la relació entre tots dos no ha prosperat. El Marc demana a la Paula que s'operi, però ella no sap què fer. La Maria porta l'Adrià al Marc perquè passi un últim dia amb el seu pare abans d'anar-se'n. La Paula coneix un llibreter amb qui queda per parlar de literatura. L'Albert està esquiu amb la Lídia. La psiquiatra tracta un pacient que té por de volar. A la Cruz li costa encarar la vida sense l'Eduard. L'Arlet i la Dani planegen un viatge a Londres. La Dani s'adona que no té prou diners per anar-hi i accepta una feina com a model. A l'Arlet no li fa cap gràcia que la seva parella s'hagi de despullar públicament.",
+        "genre": "TELESÈRIE",
         "image": ""
       }
     ],
     "324": [
-      {
-        "start": "2026-10-24T12:00:00+02:00",
-        "stop": "2026-10-24T14:30:00+02:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-10-24T14:30:00+02:00",
         "stop": "2026-10-24T16:30:00+02:00",
@@ -79,66 +70,75 @@
         "description": "",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+      },
+      {
+        "start": "2026-10-24T16:30:00+02:00",
+        "stop": "2026-10-24T18:30:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-24T11:55:08+02:00",
-        "stop": "2026-10-24T13:47:00+02:00",
-        "title": "Futbol sala",
-        "subtitle": "El Ejido FS-Barça / Primera divisió / J6",
-        "description": "La victòria en el primer partit de la jornada permetria als blaugranes situar-se com a líders provisionals de la classificació.",
+        "start": "2026-10-24T15:49:41+02:00",
+        "stop": "2026-10-24T17:35:32+02:00",
+        "title": "Hoquei patins",
+        "subtitle": "HC Liceo-Barça / Supercopa Espanya / 1a semifinal",
+        "description": "Primera semifinal de la Supercopa d'Espanya entre l'Hoquei Club Liceo i el Futbol Club Barcelona. ",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
       },
       {
-        "start": "2026-10-24T13:47:00+02:00",
-        "stop": "2026-10-24T14:03:48+02:00",
-        "title": "Sala de Premsa",
-        "subtitle": "Hansi Flick / Prèvia Barça-R. Madrid / J10",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "start": "2026-10-24T17:35:32+02:00",
+        "stop": "2026-10-24T18:10:00+02:00",
+        "title": "Esport Club Cap de Setmana",
+        "subtitle": "Esport Club",
+        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-24T12:06:23+02:00",
-        "stop": "2026-10-24T12:12:53+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Esperit competitiu",
-        "description": "Els Lèmmings decideixen organitzar una cursa utilitzant dos velers de rodes que han trobat a la platja, però necessiten un adversari digne. Així que munten a en Grizzy, que està dormint la migdiada, a un dels velers sense despertar-lo. I comença la cursa! És llavors quan en Grizzy es desperta sobresaltat muntat sobre un veler de rodes.",
+        "start": "2026-10-24T15:58:51+02:00",
+        "stop": "2026-10-24T16:12:53+02:00",
+        "title": "Les Sisters",
+        "subtitle": "Una qüestió de dents",
+        "description": "A la Marine li cau una dent de llet per culpa de la Wendy. Per venjar-se'n, li pinta una dent de negre mentre dorm. Al pare li han sortit unes taques a les dents i va urgentment al dentista. I la mare menja un caramel de broma que la Marine havia deixat a la cuina per la Wendy. Al final acaben tots amb una boca espantosa el mateix dia que un fotògraf d'un diari local ha d'anar a casa seva a fer-los una foto de família!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-24T12:12:53+02:00",
-        "stop": "2026-10-24T12:19:22+02:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "La crida de l'os",
-        "description": "En Grizzy descobreix per casualitat la col·lecció de reclams de caça del guardabosc. En fa sonar un i atreu un estol de perdius que fan tot el que els demana. Per a en Grizzy, és una manera superpràctica de tenir una colla de criats a la seva disposició, mentre que els lèmmings ho veuen com una oportunitat d'or de comptar amb un esquadró que obeeixi les seves ordres cegament.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-24T16:12:53+02:00",
+        "stop": "2026-10-24T16:37:24+02:00",
+        "title": "Fuet",
+        "subtitle": "Les dones russes diuen 'prou'.",
+        "description": "L'Eda ha trobat un cartell feminista molt estrany. Més que res, perquè hi surt un gat astronauta. Això vol dir que en Fuet n'ha fet de les seves al primer 8-M de la història. La Kiry i en Jau Coloma es dirigeixen al 8 de març de 1917 per ser testimonis de les protestes liderades per les dones i la caiguda de l'imperi del tsar Nicolau II, qui també farà el trend 'Escoltem, però jutgem'. També veuran un debat pujat de to entre pensadors soviètics al 'Xiringuito de Revolucions'.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-24T11:56:52+02:00",
-        "stop": "2026-10-24T12:35:32+02:00",
-        "title": "Rauxa",
-        "subtitle": "Caçadors de cançons",
-        "description": "Una mirada transversal a la cançó de tradició oral a través del festival Cantut. Una experiència que uneix a avis i nets, i que ens apropa des de cantadors anònims fins a bandes musicals.",
-        "genre": "ALTRES",
+        "start": "2026-10-24T15:42:52+02:00",
+        "stop": "2026-10-24T16:27:27+02:00",
+        "title": "Els habitants de la fi del món",
+        "subtitle": "Sri Lanka",
+        "description": "En Ben Fogle es dirigeix a la joia de l'oceà Índic, Sri Lanka, per conviure amb en Naveen i l'Anke, que han instal·lat la seva llar a les terres altes del país. Allà, descobrirà per què van canviar una de les ciutats del món per una existència autosuficient a quilòmetres de la civilització. Aprendrà els problemes que van tenir per establir-se a la seva nova vida, i veurà si volen trencar del tot els seus vincles amb el món exterior per apropar-se més a la natura.Els amfitrions d'en Ben s'han establert a les silencioses ruïnes d'una plantació de te. Les cabines de vidre, que són del tot autosuficients, ofereixen als viatgers que 's'allunyen del circuit turístic' un lloc únic per dormir. En Ben hi arregla una canonada trencada, construeix parets amb fems de vaca, baixa a la ciutat a carregar provisions i s'uneix a una petita empresa que sustenta la comunitat local. També descobreix que, tot i els anys complicats, els seus amfitrions ara aprofiten aquest nou equilibri entre la vida laboral i la vida personal que els aporta calma i satisfacció.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-24T12:35:32+02:00",
-        "stop": "2026-10-24T13:22:54+02:00",
-        "title": "La Renaixença",
-        "subtitle": "La butlleta",
-        "description": "Hi ha objectes que només veure'ls o dir el seu nom et porten a un record. Això passa amb la butlleta i Nadal, la butlleta i la sort, la butlleta i els diners... o la butlleta i la desgràcia. Aquest capítol el dediquem a la butlleta, però no us prometem que porti sort. Rebem la Raquel Sans, la periodista que més telenotícies ha presentat a casa nostra. Ara fa caps de setmana quan la resta treballem. O no. Sortim amb l'Heura pel 2014, quan hi va haver el robatori d'un Stradivarius de sis milions de dòlars.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-10-24T16:27:27+02:00",
+        "stop": "2026-10-24T17:11:20+02:00",
+        "title": "Ben Fogle: Retorn a la fi del món",
+        "subtitle": "Bulgària",
+        "description": "Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
