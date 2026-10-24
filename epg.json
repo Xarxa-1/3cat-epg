@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-24T14:00:09.010890+00:00",
+  "updated": "2026-10-24T17:25:28.583059+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-24T15:34:13+02:00",
-        "stop": "2026-10-24T17:34:36+02:00",
-        "title": "Pel·lícula",
-        "subtitle": "L'Escollit",
-        "description": "L'ESCOLLITProducció: Oberon Cinematogràfica, Alebrije Producciones i The Chosen 2015, AIE, 2016Guió i direcció: Antonio ChavarríasDirector de fotografia: Guillermo Granillo AMC-AECCompositor de música: Arnau BatallerIntèrprets: Alfonso Herrera (Ramón Mercader), Hannah Murray (Sylvia Ageloff), Henry Goodman (Trosky), Julian Sands (Kotov), Elvira Mínguez (Caridad Mercader), Emilio Echevarría (Salazar), Frances Barber (Natalia Sedova), Alejandro Calva (Siqueiros), Roger Casamajor (Capitán Vidal), Javier Godino (Costa) i narrador en versió catalana Ramón MadaulaEl 1940 va arribar a Mèxic un home anomenat Jacques Mornard, deia que era un belga que fugia de la guerra europea per reunir-se amb la seva xicota, una de les secretàries del refugiat Leon Trotsky. Tots ignoraven que en realitat aquell jove convencional i alegre era un agent del servei secret soviètic amb l'encàrrec d'assassinar Trotsky.",
-        "genre": "PEL·LÍCULA / TELEFILM",
+        "start": "2026-10-24T19:20:10+02:00",
+        "stop": "2026-10-24T19:27:01+02:00",
+        "title": "Ets i uts",
+        "subtitle": "Quan vaig tancar un teatre",
+        "description": "El Roger ha aconseguit vendre un programa a 3cat i necessita que la Mònica l'ajudi a fer-lo. Davant la negativa de la seva tieta, el Roger troba una manera de canviar el transcurs dels fets.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-10-24T17:34:36+02:00",
-        "stop": "2026-10-24T18:26:22+02:00",
-        "title": "Infidels",
-        "subtitle": "",
-        "description": "La Joana no pot evitar mostrar-se seca amb el Peter i li demana temps per pair la situació. El Francesc s'adona que la relació entre tots dos no ha prosperat. El Marc demana a la Paula que s'operi, però ella no sap què fer. La Maria porta l'Adrià al Marc perquè passi un últim dia amb el seu pare abans d'anar-se'n. La Paula coneix un llibreter amb qui queda per parlar de literatura. L'Albert està esquiu amb la Lídia. La psiquiatra tracta un pacient que té por de volar. A la Cruz li costa encarar la vida sense l'Eduard. L'Arlet i la Dani planegen un viatge a Londres. La Dani s'adona que no té prou diners per anar-hi i accepta una feina com a model. A l'Arlet no li fa cap gràcia que la seva parella s'hagi de despullar públicament.",
-        "genre": "TELESÈRIE",
+        "start": "2026-10-24T19:27:01+02:00",
+        "stop": "2026-10-24T19:42:28+02:00",
+        "title": "Pastors i ramats: un món que se'n va",
+        "subtitle": "Familia Domènech",
+        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-24T14:30:00+02:00",
-        "stop": "2026-10-24T16:30:00+02:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-10-24T18:30:00+02:00",
+        "stop": "2026-10-24T20:00:00+02:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-24T16:30:00+02:00",
-        "stop": "2026-10-24T18:30:00+02:00",
+        "start": "2026-10-24T20:00:00+02:00",
+        "stop": "2026-10-24T21:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-24T15:49:41+02:00",
-        "stop": "2026-10-24T17:35:32+02:00",
-        "title": "Hoquei patins",
-        "subtitle": "HC Liceo-Barça / Supercopa Espanya / 1a semifinal",
-        "description": "Primera semifinal de la Supercopa d'Espanya entre l'Hoquei Club Liceo i el Futbol Club Barcelona. ",
+        "start": "2026-10-24T19:18:45+02:00",
+        "stop": "2026-10-24T20:10:53+02:00",
+        "title": "Futbol",
+        "subtitle": "Logronyo-FC Badalona Women / Lliga F / J8",
+        "description": "Les badalonines volen aprofitar la visita al camp de les penúltimes classificades per trencar la mala ratxa de 4 partits seguits sense guanyar. ",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       },
       {
-        "start": "2026-10-24T17:35:32+02:00",
-        "stop": "2026-10-24T18:10:00+02:00",
+        "start": "2026-10-24T20:10:53+02:00",
+        "stop": "2026-10-24T20:25:00+02:00",
         "title": "Esport Club Cap de Setmana",
         "subtitle": "Esport Club",
         "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
@@ -103,45 +103,55 @@
     ],
     "sx3": [
       {
-        "start": "2026-10-24T15:58:51+02:00",
-        "stop": "2026-10-24T16:12:53+02:00",
-        "title": "Les Sisters",
-        "subtitle": "Una qüestió de dents",
-        "description": "A la Marine li cau una dent de llet per culpa de la Wendy. Per venjar-se'n, li pinta una dent de negre mentre dorm. Al pare li han sortit unes taques a les dents i va urgentment al dentista. I la mare menja un caramel de broma que la Marine havia deixat a la cuina per la Wendy. Al final acaben tots amb una boca espantosa el mateix dia que un fotògraf d'un diari local ha d'anar a casa seva a fer-los una foto de família!",
+        "start": "2026-10-24T19:24:38+02:00",
+        "stop": "2026-10-24T19:31:43+02:00",
+        "title": "El xai Shaun",
+        "subtitle": "El conill",
+        "description": "El nebot del granger ha vingut de visita a la granja i ho ha fet amb la seva mascota, un conillet molt bufó. Mentre dinen, el Bitzer és l'encarregat de vigilar que no li passi res al conill. Poca feina, ben mirat. Fins que el conill desapareix, és clar! El Shaun i el ramat l'ajudaran a recuperar-lo, però fa tot l'efecte que no entenen ni què han de buscar!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-24T16:12:53+02:00",
-        "stop": "2026-10-24T16:37:24+02:00",
-        "title": "Fuet",
-        "subtitle": "Les dones russes diuen 'prou'.",
-        "description": "L'Eda ha trobat un cartell feminista molt estrany. Més que res, perquè hi surt un gat astronauta. Això vol dir que en Fuet n'ha fet de les seves al primer 8-M de la història. La Kiry i en Jau Coloma es dirigeixen al 8 de març de 1917 per ser testimonis de les protestes liderades per les dones i la caiguda de l'imperi del tsar Nicolau II, qui també farà el trend 'Escoltem, però jutgem'. També veuran un debat pujat de to entre pensadors soviètics al 'Xiringuito de Revolucions'.",
-        "genre": "ALTRES",
+        "start": "2026-10-24T19:31:43+02:00",
+        "stop": "2026-10-24T19:54:08+02:00",
+        "title": "El detectiu Conan",
+        "subtitle": "Chihaya Hagiwara, deessa del vent (2a part)",
+        "description": "Gràcies al dispositiu d'escolta de les ulleres del doctor Agasa, la Chihaya Hagiwara i en Conan poden seguir el cotxe dels segrestadors. Sembla que aviat els atraparan, perquè al cap de poc hi ha un control policial. Però quan hi arriben, l'agent encarregat del control afirma que cap vehicle com el que busquen ha passat per allà. Mentrestant, es comencen a escampar per les xarxes imatges del senyor Nanjo escortat per la policia.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-24T15:42:52+02:00",
-        "stop": "2026-10-24T16:27:27+02:00",
-        "title": "Els habitants de la fi del món",
-        "subtitle": "Sri Lanka",
-        "description": "En Ben Fogle es dirigeix a la joia de l'oceà Índic, Sri Lanka, per conviure amb en Naveen i l'Anke, que han instal·lat la seva llar a les terres altes del país. Allà, descobrirà per què van canviar una de les ciutats del món per una existència autosuficient a quilòmetres de la civilització. Aprendrà els problemes que van tenir per establir-se a la seva nova vida, i veurà si volen trencar del tot els seus vincles amb el món exterior per apropar-se més a la natura.Els amfitrions d'en Ben s'han establert a les silencioses ruïnes d'una plantació de te. Les cabines de vidre, que són del tot autosuficients, ofereixen als viatgers que 's'allunyen del circuit turístic' un lloc únic per dormir. En Ben hi arregla una canonada trencada, construeix parets amb fems de vaca, baixa a la ciutat a carregar provisions i s'uneix a una petita empresa que sustenta la comunitat local. També descobreix que, tot i els anys complicats, els seus amfitrions ara aprofiten aquest nou equilibri entre la vida laboral i la vida personal que els aporta calma i satisfacció.",
+        "start": "2026-10-24T19:01:48+02:00",
+        "stop": "2026-10-24T20:00:48+02:00",
+        "title": "Rick Stein: De Venècia a Istanbul",
+        "subtitle": "Grècia",
+        "description": "El penúltim capítol del viatge es divideix entre Grècia i Turquia. A Grècia, en Rick pescarà molls a Gerakas i visitarà l'antic poble de Monemvasia, i un celler on una parella treballa per recuperar un vi deliciós de fa 500 anys, fet amb raïm malvasia. A Turquia, en Rick menja un esmorzar tradicional turc, visita una granja de cabres, i un jardiner reconvertit en viticultor. A Simi prepara pop a la graella, un pa pla amb fetge especiat i molls fregits amb un toc de taronja.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-24T16:27:27+02:00",
-        "stop": "2026-10-24T17:11:20+02:00",
-        "title": "Ben Fogle: Retorn a la fi del món",
-        "subtitle": "Bulgària",
-        "description": "Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.",
+        "start": "2026-10-24T20:00:48+02:00",
+        "stop": "2026-10-24T20:59:48+02:00",
+        "title": "Rick Stein: De Venècia a Istanbul",
+        "subtitle": "Turquía",
+        "description": "Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
-    "oca1": [],
+    "oca1": [
+      {
+        "start": "2026-10-24T18:20:00+02:00",
+        "stop": "2026-10-24T20:09:55+02:00",
+        "title": "Hoquei patins",
+        "subtitle": "- Igualada HC-CP Calafell / Supercopa Espanya / 2a semifinal",
+        "description": "L'Igualada Rigat HC i el Club Patí Calafell La Menorquina juguen la segona semifinal de la Supercopa d'Espanya d'hoquei patins.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
+      }
+    ],
     "oca2": [],
     "oca3": [],
     "oca4": []
