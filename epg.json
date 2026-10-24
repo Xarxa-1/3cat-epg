@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-24T17:25:28.583059+00:00",
+  "updated": "2026-10-24T19:38:25.025424+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-24T19:20:10+02:00",
-        "stop": "2026-10-24T19:27:01+02:00",
-        "title": "Ets i uts",
-        "subtitle": "Quan vaig tancar un teatre",
-        "description": "El Roger ha aconseguit vendre un programa a 3cat i necessita que la Mònica l'ajudi a fer-lo. Davant la negativa de la seva tieta, el Roger troba una manera de canviar el transcurs dels fets.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-24T21:00:00+02:00",
+        "stop": "2026-10-24T22:03:30+02:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-24T19:27:01+02:00",
-        "stop": "2026-10-24T19:42:28+02:00",
-        "title": "Pastors i ramats: un món que se'n va",
-        "subtitle": "Familia Domènech",
-        "description": "'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-24T22:03:30+02:00",
+        "stop": "2026-10-25T00:58:15+02:00",
+        "title": "Col·lapse",
+        "subtitle": "",
+        "description": "Comptem amb un testimoni excepcional. Diane Foley, mare del periodista americà James Foley, decapitat per Estat Islàmic, seu al plató del 'Col·lapse' per explicar com va viure aquell episodi tan traumàtic de la seva vida i, sobretot, com va ser la trobada de quatre hores que va mantenir amb el segrestador i un dels assassins del seu fill. Unes declaracions molt dures que parlen de perdó i misericòrdia.Convidem el Dr. Antoni Trilla per parlar de la campanya de vacunació de la tardor, ara que hi ha un repunt de casos de grip i covid. També visitem l'epidemiòleg Fernando Simón a Madrid per saber el seu punt de vista sobre la qüestió. Celebrem els 80 anys del productor de televisió Josep Maria Mainat i fem un repàs de la seva intensa vida i trajectòria.Àngel Llàcer i Carlos Latre analitzen les notícies que ens poden haver passat per alt.Connectarem amb París per saber l'última hora de les mobilitzacions massives convocades a França aquest dissabte. Farem anàlisi i reflexió amb Lluís Uría (sotsdirector de La Vanguardia i excorresponsal a París) i José Mansilla (antropòleg de la UAB) sobre les raons i les causes que han portat milers d'estudiants a sortir al carrer per demanar millores en el sistema educatiu. Unes mobilitzacions a què s'han sumat molts ciutadans de professions diverses per queixar-se del cost de la vida, l'augment del preu dels carburants i la manca de recursos als serveis públics. A més, un equip del programa s'ha desplaçat fins a la ciutat de París per parlar amb joves estudiants sobre el perquè de la seva frustració i el politòleg francès Laurent Bonelli. El nostre col·laborador Darío Porras estrena secció fent un homenatge a un dels programes més recordats de TV3 'Amor a primera vista'.La comunicadora Miriam Victòria ens descobreix el costat més inexplicable de Catalunya. I veurem el resultat del nou repte a què s'ha enfrontat aquesta setmana la influencer catalana Anna Callís.'Col·lapse', amb Jordi González, dissabte a l",
+        "genre": "TALK-SHOW",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-24T18:30:00+02:00",
-        "stop": "2026-10-24T20:00:00+02:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-24T21:00:00+02:00",
+        "stop": "2026-10-24T23:00:00+02:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-24T20:00:00+02:00",
-        "stop": "2026-10-24T21:00:00+02:00",
+        "start": "2026-10-24T23:00:00+02:00",
+        "stop": "2026-10-25T00:30:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,75 +83,65 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-24T19:18:45+02:00",
-        "stop": "2026-10-24T20:10:53+02:00",
+        "start": "2026-10-24T21:30:26+02:00",
+        "stop": "2026-10-24T22:25:31+02:00",
         "title": "Futbol",
-        "subtitle": "Logronyo-FC Badalona Women / Lliga F / J8",
-        "description": "Les badalonines volen aprofitar la visita al camp de les penúltimes classificades per trencar la mala ratxa de 4 partits seguits sense guanyar. ",
+        "subtitle": "FC Barcelona-Granada CF / Lliga F / J8",
+        "description": "Les blaugranes tornen al Johan amb l'objectiu de retrobar la victòria després de la derrota en l'anterior jornada al camp de la Reial Societat (2-1).",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       },
       {
-        "start": "2026-10-24T20:10:53+02:00",
-        "stop": "2026-10-24T20:25:00+02:00",
-        "title": "Esport Club Cap de Setmana",
-        "subtitle": "Esport Club",
-        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
+        "start": "2026-10-24T22:25:31+02:00",
+        "stop": "2026-10-24T22:39:33+02:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Hansi Flick / Prèvia Barça-R. Madrid / J10",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-24T19:24:38+02:00",
-        "stop": "2026-10-24T19:31:43+02:00",
-        "title": "El xai Shaun",
-        "subtitle": "El conill",
-        "description": "El nebot del granger ha vingut de visita a la granja i ho ha fet amb la seva mascota, un conillet molt bufó. Mentre dinen, el Bitzer és l'encarregat de vigilar que no li passi res al conill. Poca feina, ben mirat. Fins que el conill desapareix, és clar! El Shaun i el ramat l'ajudaran a recuperar-lo, però fa tot l'efecte que no entenen ni què han de buscar!",
+        "start": "2026-10-24T21:21:20+02:00",
+        "stop": "2026-10-24T21:41:29+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Animals esgarrifossos! (1a part)",
+        "description": "Arriba la festa de Halloween i l'equip dels germans Kratt es prepara per celebrar-la. Els dos germans decideixen disfressar-se d'algun animal esgarrifós: el Chris tria el vampir comú i el Martin la taràntula Goliat. L'Aviva els promet que si els troben, els en farà un vestit de poder animal. Mentrestant, el Zach s'empesca un pla per fer-se ric amb la festa de Halloween: muntar una casa encantada i omplir-la d'animals esfereïdors. Per trobar-los demana ajuda als seus companys malvats.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-24T19:31:43+02:00",
-        "stop": "2026-10-24T19:54:08+02:00",
-        "title": "El detectiu Conan",
-        "subtitle": "Chihaya Hagiwara, deessa del vent (2a part)",
-        "description": "Gràcies al dispositiu d'escolta de les ulleres del doctor Agasa, la Chihaya Hagiwara i en Conan poden seguir el cotxe dels segrestadors. Sembla que aviat els atraparan, perquè al cap de poc hi ha un control policial. Però quan hi arriben, l'agent encarregat del control afirma que cap vehicle com el que busquen ha passat per allà. Mentrestant, es comencen a escampar per les xarxes imatges del senyor Nanjo escortat per la policia.",
+        "start": "2026-10-24T21:41:29+02:00",
+        "stop": "2026-10-24T22:02:51+02:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Animals esgarrifossos! (2a part)",
+        "description": "L'equip dels germans Kratt segueix el Zach fins a Vilacarbassa per recuperar el miniaturitzador que els ha robat. Al final, troben l'aparell en una casa que té un aire misteriós, una casa que quan hi entren, s'adonen que la Donita, el xef Gormand, la Paisley i el Zach l'han muntada com una mena de parc d'atraccions terrorífic, amb animals esgarrifosos que han segrestat per tot el món.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-24T19:01:48+02:00",
-        "stop": "2026-10-24T20:00:48+02:00",
-        "title": "Rick Stein: De Venècia a Istanbul",
-        "subtitle": "Grècia",
-        "description": "El penúltim capítol del viatge es divideix entre Grècia i Turquia. A Grècia, en Rick pescarà molls a Gerakas i visitarà l'antic poble de Monemvasia, i un celler on una parella treballa per recuperar un vi deliciós de fa 500 anys, fet amb raïm malvasia. A Turquia, en Rick menja un esmorzar tradicional turc, visita una granja de cabres, i un jardiner reconvertit en viticultor. A Simi prepara pop a la graella, un pa pla amb fetge especiat i molls fregits amb un toc de taronja.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-24T21:31:02+02:00",
+        "stop": "2026-10-24T21:55:34+02:00",
+        "title": "Caçadors de bolets",
+        "subtitle": "Joves escoltes",
+        "description": "En aquest capítol anirem fins al Berguedà amb dos grups de joves escoltes que competiran per veure qui troba més bolets. De bolets en trobaran bastants, però d'escombraries pel bosc, també.",
+        "genre": "DOCUMENTAL DOCUDRAMA",
         "image": ""
       },
       {
-        "start": "2026-10-24T20:00:48+02:00",
-        "stop": "2026-10-24T20:59:48+02:00",
-        "title": "Rick Stein: De Venècia a Istanbul",
-        "subtitle": "Turquía",
-        "description": "Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-24T21:55:34+02:00",
+        "stop": "2026-10-24T22:19:44+02:00",
+        "title": "Marcians",
+        "subtitle": "La importància de dir-se Zoe",
+        "description": "Zoe és un nom propi que, fins fa poc, era inèdit al nostre cinema, però cada vegada és més habitual gràcies als treballs davant de les càmeres de Zoé Arnao, Zoe Bonafonte i Zoe Stein. Són tres de les joves actrius catalanes amb més projecció del moment. Tot i que estan a la vintena, ja acumulen crèdits en algunes de les pel·lícules més destacades del cinema català recent. Descobrim facetes seves poc conegudes, amb la complicitat de primeres figures del cinema català que han sigut importants en les seves respectives trajectòries: la productora Valérie Delpierre, la cineasta i professora d'interpretació Laura Jou, i les actrius Sílvia Sabaté i Clara Segura. Zoé Arnao va debutar al cinema el 2020 en el paper de la Brisa, a 'Las niñas', la pel·lícula de Pilar Palomero premiada amb el Gaudí a la millor pel·lícula en llengua no catalana i el Goya a la millor pel·lícula. Després de formar part del repartiment de la primera temporada de la sèrie 'Jo mai mai', de 3Cat, i d'intervenir en títols com 'La casa entre els cactus' o 'Faro', aquest estiu Zoé Arnao ha estrenat als cinemes 'Día de caza. A Zoe Bonafonte la vam conèixer a bord d'un dels grans fenòmens del cinema català, 'El 47', de Marcel Barrena, per la qual va ser nominada als premis Gaudí i Goya a la millor interpretació revelació. Inoblidable la seva interpretació del tema 'Gallo negro, gallo rojo', en un dels moments clau del film. La veurem com a protagonista absoluta de 'Ruega por nosotras', la pel·lícula de Daniel Monzón.Amb només deu anys, Zoe Stein va fer els primers passos davant de la càmera en un curtmetratge de terror d'impacte: 'Leyenda', de Pau Teixidor. Encara van haver de passar uns quants anys perquè fes el gran salt al llargmetratge, al capdavant de 'Mantícora', de Carlos Vermut, per la qual va optar als premis Gaudí i Goya a la millor interpretació revelació. Ara, acaba d'arribar als cinemes com a protagonista de 'Forastera'. ",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-10-24T18:20:00+02:00",
-        "stop": "2026-10-24T20:09:55+02:00",
-        "title": "Hoquei patins",
-        "subtitle": "- Igualada HC-CP Calafell / Supercopa Espanya / 2a semifinal",
-        "description": "L'Igualada Rigat HC i el Club Patí Calafell La Menorquina juguen la segona semifinal de la Supercopa d'Espanya d'hoquei patins.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
-      }
-    ],
+    "oca1": [],
     "oca2": [],
     "oca3": [],
     "oca4": []
