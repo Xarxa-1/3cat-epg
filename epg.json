@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-24T01:05:17.795275+00:00",
+  "updated": "2026-10-24T05:50:07.801420+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-24T03:00:00+02:00",
-        "stop": "2026-10-24T04:00:00+02:00",
+        "start": "2026-10-24T07:00:00+02:00",
+        "stop": "2026-10-24T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-24T04:00:00+02:00",
-        "stop": "2026-10-24T04:45:31+02:00",
-        "title": "Cava de Blues",
-        "subtitle": "Blas Picon & The Junk Express",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+        "start": "2026-10-24T10:00:00+02:00",
+        "stop": "2026-10-24T11:55:00+02:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-24T01:00:00+02:00",
-        "stop": "2026-10-24T06:00:00+02:00",
+        "start": "2026-10-24T07:00:00+02:00",
+        "stop": "2026-10-24T10:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-24T06:00:00+02:00",
-        "stop": "2026-10-24T07:00:00+02:00",
+        "start": "2026-10-24T10:00:00+02:00",
+        "stop": "2026-10-24T12:00:00+02:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-24T02:28:16+02:00",
-        "stop": "2026-10-24T04:11:41+02:00",
-        "title": "Bàsquet",
-        "subtitle": "Reial Madrid-Barça Atlètic / Lliga U / J5",
-        "description": "Els filials blanc i blaugrana s'enfronten al campionat que disputen les joves promeses júniors dels equips de la Lliga Endesa.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"
+        "start": "2026-10-24T06:51:06+02:00",
+        "stop": "2026-10-24T08:16:54+02:00",
+        "title": "Onze",
+        "subtitle": "El còctel del Barça-Madrid; la clau del Clàssic; Fàbregas i Nin",
+        "description": "Míriam Riau condueix la tertúlia amb Lluís Carrasco, Irati Vidal, Laura Aparicio, Francesc Garriga i, des de Madrid, Siro López. Àlex Delmàs ens explica la seva clau del Clàssic, amb Joan Fàbregas analitzem qui pot arbitrar el Barça-Madrid i acabem amb les Golfes de l'Onze que ens porta Òscar Nin.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-10-24T04:11:41+02:00",
-        "stop": "2026-10-24T06:10:10+02:00",
-        "title": "Futbol",
-        "subtitle": "CE Europa-R. Saragossa / Primera Federació / J9",
-        "description": "Tot un repte per al conjunt de Gràcia que rep, a Can Dragó, un històric del futbol estatal. Els aragonesos, colíders a la classificació, són els grans favorits per l'ascens a la Segona Divisió.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+        "start": "2026-10-24T08:16:54+02:00",
+        "stop": "2026-10-24T08:34:32+02:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-24T02:49:11+02:00",
-        "stop": "2026-10-24T03:10:10+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Llàgrima letal",
-        "description": "La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.",
+        "start": "2026-10-24T07:40:57+02:00",
+        "stop": "2026-10-24T07:51:12+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Muntanya de fulles de la tardor",
+        "description": "Al Mic i li agraden les fulles seques. Fan crec-crec i van bé per amagar-s'hi.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-24T03:10:10+02:00",
-        "stop": "2026-10-24T03:31:04+02:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Complidor",
-        "description": "La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.",
+        "start": "2026-10-24T07:51:12+02:00",
+        "stop": "2026-10-24T08:01:19+02:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Soc una pastanaga",
+        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-24T02:52:40+02:00",
-        "stop": "2026-10-24T03:29:58+02:00",
-        "title": "Sala 30",
-        "subtitle": "La mirada",
-        "description": "Albert Pla s'ha proposat esbrinar de quina manera veu el món un artista. La mirada d'artista s'aprèn? S'estudia? O s'hi neix? Hac Vinent, Erick Beltrán, Mabel Palacín i Aldo Urbano són els quatre artistes que ha portat a la taula per intentar resoldre (o no) la incògnita. Tots quatre treballen disciplines variades que, tot i així, s'entrecreuen. Són quatre punts de vista que sumen a la conversa la seva pròpia mirada: la queer i no capacitista, la metafísica o, fins i tot, la dels somnis.",
-        "genre": "ALTRES",
+        "start": "2026-10-24T07:29:28+02:00",
+        "stop": "2026-10-24T07:54:55+02:00",
+        "title": "Quèquicom",
+        "subtitle": "Correbous, toros i toreros",
+        "description": "Toros i correbous, espectacle per a uns, patiment per a altres.Coincidint amb la discussió a la Mesa del Parlament de Catalunya de la Iniciativa Legislativa Popular (ILP) per prohibir les curses de braus, Quèquicom s'apropa al món dels toros des d'una perspectiva científica. ¿Es pot afirmar, per exemple, que els braus no pateixen perquè segreguen endorfines? ¿Quins òrgans queden afectats per les banderilles i altres eines de matar? ¿Cal distingir entre les corrides i festes populars com els correbous?¿És veritat que el color vermell els provoca? El correbou més antic del qual es té constància històrica data de principis del segle XV a Tortosa. Ara, a Catalunya hi ha 26 poblacions on se celebren festes com el bou capllaçat o embolat. A les Terres de l'Ebre molts pobles tenen correbous fins a tres cops cada dia durant les festes d'estiu. Un grup de veterinaris que hi està a favor fa una revisió de la salut dels animals abans i després de cada acte, en el qual no es pot ferir l'animal. El veterinari Jordi Vendrell assegura que físicament l'animal no pateix i que l'estrès que passa és tolerable. Miquel Piris visita la ramaderia de Pedro Fumadó, una de les tres dedicades a la cria de toros que hi ha a Catalunya. És al bell mig del Parc Natural del Delta de l'Ebre. Allà li expliquen que els toros que es dediquen a correbous viuen en llibertat de sis a vuit anys. Si hi algun exemplar indultat pel seu coratge se li permet morir de vell. Si té aquest privilegi, pot arribar a viure 30 anys. La resta d'animals són sacrificats per menjar. Piris entra a un corral vestit de color vermell per veure si l'ataquen els toros. Es demostra que és un mite, es van apartant cap a un racó. Un toro envesteix quan es troba sense escapatòria o quan alguna cosa o persona que es mou, sigui del color que sigui, envaeix el seu espai.Marc Boada, des del plató, explica que en les corrides el picador i el banderiller tenen la funció de ferir i cansar el toro sense deixar-",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-10-24T03:29:58+02:00",
-        "stop": "2026-10-24T04:08:27+02:00",
-        "title": "Sala 30",
-        "subtitle": "L'espai",
-        "description": "Que un escultor i un performer no competeixen amb les mateixes eines (O: armes) és un debat que ompliria més d'un esmorzar. Al d'avui, Albert Pla ha convidat Anna Dot, Joana Cera i Alberto Peral, tres artistes que es mouen per l'escultura i la instal·lació amb experiència i llibertat. Quina importància té per a un artista l'espai on exposa? De què parlem quan parlem de desmaterialitzar? Qui pot respondre millor a aquestes preguntes és Antoni Abad, un dels primers d'incorporar internet a una obra d'art. El pare del Net.art, però, es mostrarà com un principiant en un altra disciplina: tallar llenya.",
+        "start": "2026-10-24T07:54:55+02:00",
+        "stop": "2026-10-24T08:41:00+02:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 15",
+        "description": "Aquí us deixem un resum dels últims quatre capítols. Hem parlat de la medalla, del ratolí d'ordinador, del diccionari i del globus aerostàtic. I ens han visitat l'Anna Barrachina, actriu; la Violant Bonet, restauradora i conservadora d'art; l'Alidé Sans, cantautora aranesa; i en Toni Arbonés, escalador. Si us agrada el resum, aprofiteu per mirar els capítols sencers, que sempre hi ha més moments que mereixen ser vistos.",
         "genre": "ALTRES",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
