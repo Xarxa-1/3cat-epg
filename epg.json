@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-25T08:39:44.420717+00:00",
+  "updated": "2026-10-25T13:21:30.694023+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-25T09:26:24+01:00",
-        "stop": "2026-10-25T09:50:45+01:00",
-        "title": "Néixer de nou",
-        "subtitle": "Protestants sota el franquisme, la lluita dels impressors",
-        "description": "Una de les claus de la ràpida expansió del protestantisme de Martí Luter del segle XVI fou la impremta. Però, sota el franquisme, han estat els impressors valents una de les claus de la resistència protestant. És el cas de la impremta Salvador. Diumenge, 25 d'octubre, en parlarem al 'Néixer de nou'.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-10-25T12:00:01+01:00",
+        "stop": "2026-10-25T14:29:26+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-25T09:50:45+01:00",
-        "stop": "2026-10-25T10:21:13+01:00",
-        "title": "Signes dels temps",
-        "subtitle": "Sempre a prop dels més necessitats",
-        "description": "Entrevistem Daniel Palau, bisbe de Lleida. És també el responsable de Mitjans de Comunicació Social de la Conferència Episcopal Tarraconense. El bisbe Daniel parla de la tasca pastoral i social que es fa a la diòcesi, de la manca de vocacions, dels joves i la fe, i de la visita del papa Lleó XIV a Catalunya. Al bisbe Daniel li preocupa la pobresa, la manca d'habitatge, la situació dels temporers que viuen en barracons, l'acollida als migrants, etc. Aposta per l'escolta, la proximitat i l'ajuda als més desvalguts. Diu que 'cal estar sempre a prop dels més necessitats, de les persones que més pateixen'. Fent referència a l'extrema dreta, li preguntem com s'entén que hi hagi qui es diu 'cristià' i justifica la violència contra els migrants. 'No s'entén, no ho entenem. Utilitzar la proposta cristiana per ferir les persones no concorda amb el camí de l'Evangeli. A nosaltres també ens toca denunciar per transformar aquest llenguatge violent, i aquesta polarització que no porta enlloc', afirma el bisbe Daniel. A més, fa referència a l'acord signat entre el Govern i la Conferència Episcopal Tarraconense per construir habitatge social en immobles de l'Església catòlica. I explica l'ajuda que es fa des de la diòcesi de Lleida. ",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-10-25T14:29:26+01:00",
+        "stop": "2026-10-25T14:29:57+01:00",
+        "title": "Telenotícies migdia",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-25T07:00:00+01:00",
-        "stop": "2026-10-25T10:00:00+01:00",
+        "start": "2026-10-25T12:00:00+01:00",
+        "stop": "2026-10-25T14:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-25T10:00:00+01:00",
-        "stop": "2026-10-25T12:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-25T14:30:00+01:00",
+        "stop": "2026-10-25T16:30:00+01:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-25T08:17:54+01:00",
-        "stop": "2026-10-25T10:05:53+01:00",
+        "start": "2026-10-25T13:48:52+01:00",
+        "stop": "2026-10-25T16:08:28+01:00",
         "title": "Futbol",
-        "subtitle": "FC Barcelona-Granada CF / Lliga F / J8",
-        "description": "Les blaugranes tornen al Johan amb l'objectiu de retrobar la victòria després de la derrota en l'anterior jornada al camp de la Reial Societat (2-1).",
+        "subtitle": "CE Sabadell-CD Tenerife / Lliga Hypermotion / J11",
+        "description": "Els partits més destacats a la Segona Divisió del futbol estatal.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/8/3/1791458637038.jpg"
       },
       {
-        "start": "2026-10-25T10:05:53+01:00",
-        "stop": "2026-10-25T11:40:00+01:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J10 / Dissabte",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-10-25T16:08:28+01:00",
+        "stop": "2026-10-25T17:25:00+01:00",
+        "title": "Hoquei patins",
+        "subtitle": "Supercopa Espanya / Final",
+        "description": "Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-25T09:31:05+01:00",
-        "stop": "2026-10-25T09:41:39+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla Marina: La Patrulla salva una balena inquieta",
-        "description": "Una balena bellugadissa ha donat un cop a la campana de busseig i l'ha deixat de cap per avall i encallada a la sorra del fons del mar, amb el capità Turbot i en François a dins.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-25T14:11:31+01:00",
+        "stop": "2026-10-25T14:30:44+01:00",
+        "title": "Manduka",
+        "subtitle": "Pancakes de les arts - Els Amics de les Arts",
+        "description": "Els convidats d'avui són en Dani, en Joan i en Ferran, Els amics de les Arts. Amb aquest grup de música d'èxit, la Paula farà uns pancakes i aprendrem a fer-nos la nostra pròpia confitura. Dels integrants d'aquest grup de música català ja en coneixem les arts per la música, però sembla que tenen cops d'humor amagats que sorprendran a tothom... especialment a la Paula que no deixarà de riure en cap moment.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-10-25T09:41:39+01:00",
-        "stop": "2026-10-25T09:52:12+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla salva la Skye al cel",
-        "description": "Una tempesta ha deixa Badia Aventures sense llum.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-25T14:30:44+01:00",
+        "stop": "2026-10-25T14:48:52+01:00",
+        "title": "Manduka",
+        "subtitle": "Blinis estilosos - Marc Giró",
+        "description": "El convidat d'avui és en Marc Giró. Aquest gran comunicador ja ens té acostumats a la importància que dona a l'estil i les bones maneres. Per això la Paula ha pensat fer uns canapès amb ell. De fet, uns canapès ben estilosos amb origen als països de l'est... uns blinis! I mentre fan la recepta, la Paula intentarà saber més coses del Marc. Ho intentarà, perquè segurament el Marc serà qui més parlarà i qui més preguntes farà en aquest programa. O, en teniu algun dubte?",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-25T09:26:19+01:00",
-        "stop": "2026-10-25T10:11:50+01:00",
-        "title": "Globus Sonda",
-        "subtitle": "Araceli Segarra - Bages",
-        "description": "Aquesta passatgera del 'Globus sonda', l'Araceli Segarra, està molt avesada a les alçades. El 1996 es va convertir en la primera dona d'Espanya a coronar el cim de l'Everest. L'expedició de l'alpinista lleidatana va coincidir amb una de les tragèdies més grans que ha patit la mítica muntanya i que es va endur vuit vides. L'Araceli ens parlarà de la cara i la creu d'aquella expedició sobrevolant des de la Colònia Vidal de Puig-reig comarques de la Catalunya central com el Bages o el Berguedà.",
-        "genre": "ALTRES",
+        "start": "2026-10-25T14:17:44+01:00",
+        "stop": "2026-10-25T14:45:29+01:00",
+        "title": "Quèquicom",
+        "subtitle": "Veure escoltant",
+        "description": "'Quèquicom' constata que el so no només es relaciona amb el sentit de l'oïda: també ho fa amb el sentit de la visió. Els ratpenats, els cetacis o els peixos han desenvolupat diferents estratègies per 'veure-hi' escoltant. I els humans hem sabut aprofitar aquest principi per fabricar tecnologies com el sonar o l'ecografia, però també per ajudar les persones cegues en l'orientació natural. També aclarirem la diferència entre sons, infrasons i ultrasons i explicarem per què els ultrasons són els més adients per a l'ecolocalització. D'altra banda, el reporter Pere Renom renunciarà durant una estona a la visió per poder experimentar en persona com 'sona' la realitat, instruït per Loreto Martínez, una tècnica en rehabilitació de l'ONCE. Descobrirà així la importància de l'eco, la direccionalitat del so i l'efecte de pantalla acústica. Desconcertat per tants estímuls, també experimentarà una mena de borratxera auditiva, en què no discriminarà els sons importants dels sons irrellevants.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-10-25T10:11:50+01:00",
-        "stop": "2026-10-25T10:40:50+01:00",
-        "title": "La sobretaula",
-        "subtitle": "Santa Susanna amb Ricard Torquemada",
-        "description": "La Sobretaula fa parada a Santa Susanna per descobrir un territori on l'esport, l'agricultura i el relleu familiar són part essencial del seu dia a dia. Ho fem acompanyats del periodista Ricard Torquemada, amb qui parlem d'arrels, continuïtat i compromís amb el territori.",
-        "genre": "CUINA",
+        "start": "2026-10-25T14:45:29+01:00",
+        "stop": "2026-10-25T15:09:49+01:00",
+        "title": "Quèquicom",
+        "subtitle": "La vacuna del virus del papiloma.",
+        "description": "La vacuna del virus del papil·loma humà serà analitzada a 'Quèquicom', que n'ha parlat amb els creadors i els detractors, que demanen una moratòria, per saber els pros i contres d'administrar-la. En el programa hi intervenen Xavier Bosch, investigador de l'Institut Català d'Oncologia i desenvolupador d'aquesta vacuna; Carmen Cabezas, de la Conselleria de Salut; Miquel Porta, epidemiòleg de l'Institut Municipal d'Investigació Mèdica; Andreu Segura, director de la Societat Espanyola de Salut Pública; i Jaume Puig, Centre de Recerca d'Economia i Salut, UPF.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
