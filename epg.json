@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-24T23:56:56.675626+00:00",
+  "updated": "2026-10-25T03:28:28.233172+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,21 +43,21 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-25T01:25:54+01:00",
-        "stop": "2026-10-25T03:17:33+01:00",
-        "title": "Pel·lícula",
-        "subtitle": "Al fossat",
-        "description": "'AL FOSSAT' (2011), una producció de BAUSAN FILMS en coproducció amb TELEVISIÓ DE CATALUNYA, amb la participació de TVE, l'ajuda de l'ICAA i amb la iniciativa del Màster en Documental de Creació-Universitat Pompeu Fabra (IDEC).Amagats a la fossa, homogeneïtzats pels seus vestits negres, dotzenes de músics vinguts d'altres indrets del món, amb diferents experiències, posen els seus esforços al servei d'una gran finalitat comuna: crear una unitat i desaparèixer, ja que el que és important és EL TOT. ¿Però qui són ells? Com funciona un Teatre d'Òpera?'AL FOSSAT' és una pel·lícula sobre els músics que toquen a l'orquestra de l'òpera del Gran Teatre del Liceu, sobre les seves vides, el seu treball, les seves pors i les seves passions.Director: Ricardo ÍscarGuió: Ricardo Íscar, en col·laboració amb Sophie KöhlerProductor: Loris OmedesProductor executiu TVC: Jordi AmbròsProductora delegada TVC: Ruth LlòriaDirector producció: Quique JorbaDocumentalista: David Fernández de CastroDirector de fotografia: Julián Elizalde Música: Orquestra de l'Òpera del Gran Teatre del Liceu",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-10-25T04:00:02+01:00",
+        "stop": "2026-10-25T04:44:54+01:00",
+        "title": "Cava de Blues",
+        "subtitle": "Bullfrog Electric Blues Experience",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
       },
       {
-        "start": "2026-10-25T03:17:33+01:00",
-        "stop": "2026-10-25T03:19:51+01:00",
-        "title": "Els llibres de Tot el Temps del Món",
-        "subtitle": "Amor de monstruo. Katherine Dunn",
-        "description": "",
-        "genre": "ALTRES",
+        "start": "2026-10-25T04:44:54+01:00",
+        "stop": "2026-10-25T05:44:52+01:00",
+        "title": "Jazz a l'estudi",
+        "subtitle": "Andreu Martínez Band",
+        "description": "L'Andreu Martínez beu d'influències provinents del blues, el pop, el rock progressiu dels 70 i que, fins i tot, en els seus temes, mostra un cert regust del so de Seattle. En aquesta nova formació l'acompanyen a la base rítmica dos músics d'àmplia i reconeguda trajectòria: Miki Santamaría al baix i Dídac Fernández a la bateria.",
+        "genre": "JAZZ",
         "image": ""
       }
     ],
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-25T01:00:08+01:00",
-        "stop": "2026-10-25T02:34:02+01:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J10 / Dissabte",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-10-25T04:13:33+01:00",
+        "stop": "2026-10-25T05:35:16+01:00",
+        "title": "Futbol sala",
+        "subtitle": "El Ejido FS-Barça / Primera divisió / J6",
+        "description": "La victòria en el primer partit de la jornada permetria als blaugranes situar-se com a líders provisionals de la classificació.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
       },
       {
-        "start": "2026-10-25T02:34:02+01:00",
-        "stop": "2026-10-25T03:06:10+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-10-25T05:35:16+01:00",
+        "stop": "2026-10-25T05:49:52+01:00",
+        "title": "E3",
+        "subtitle": "Ultra Trail Serra del Montsant",
+        "description": "Els moments més destacats de la 17a edició a l'Otso Ultra Trail Serra del Montsant-Costa Daurada, la cursa de muntanya que recorre el Parc Natural de la Serra de Montsant.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1787745006771.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-25T01:45:33+01:00",
-        "stop": "2026-10-25T02:06:28+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Penal",
-        "description": "La senyoreta Bustier organitza un partit de futbol perquè els seus alumnes descobreixin els valors de l'esport i de jugar junts. A la Marinette li encanta el futbol i lluitarà per salvar el partit, encara que la Chloé estigui disposada a fer el que calgui per esguerrar-lo. La Chloé no suporta el futbol, però en topar amb una Marinette molt decidida que la inclou en el joc encara que ella no ho vulgui, la còlera de la Chloé arriba a extrems exagerats. I només espera una cosa: que l'akumatitzin per poder-se venjar.",
+        "start": "2026-10-25T04:23:49+01:00",
+        "stop": "2026-10-25T04:35:19+01:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "El cangueli",
+        "description": "La Guineta li explica a en Timbal que si molesta les abelles mentre treballen, s'enfaden i et poden atacar. Però en Timbal, com que té gana, no li fa cas i els pren una mica de mel. Com era d'esperar, les abelles s'enfaden i el persegueixen. L'ensurt és tan gros que en Timbal diu que no sortirà del cau mai més. Aleshores, els seus germans pensen un pla perquè venci les seves pors. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-25T02:06:28+01:00",
-        "stop": "2026-10-25T02:27:55+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Risc (L'últim atac de l'Esfinx Fosc - 1a part)",
-        "description": "Conscient que Ladybug sempre guanya gràcies a la seva prudència, l'Esfinx Fosc concep un pla diabòlic que inclou un supermalvat que té el poder d'empènyer totes les seves víctimes a córrer riscos. Quan la Marinette s'assabenta que l'Adrien ha de marxar de París durant unes quantes setmanes amb la Lila, la nova musa de la marca Agreste, està disposada a fer el que calgui per impedir-ho. Fins on serà capaç d'arribar? S'arriscarà a trair la seva identitat secreta per amor? I l'Adrien, s'arriscarà per fi a plantar cara al seu pare?",
+        "start": "2026-10-25T04:35:19+01:00",
+        "stop": "2026-10-25T04:46:54+01:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "La campaneta de la guineta",
+        "description": "De camí cap al cau, en Pinxo veu un bastó molt maco, però la Guineta l'agafa primer. En Pinxo s'enfada molt, perquè diu que la Guineta sempre vol les coses que volen els altres. Poc després, els bessons troben una campaneta molt bonica al llit del riu, i la porten al cau per donar-li una sorpresa a la Trufa. Però la Guineta diu que la campaneta és seva! Ja hi tornem a ser. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-25T01:29:46+01:00",
-        "stop": "2026-10-25T02:13:34+01:00",
-        "title": "El día mes llarg",
-        "subtitle": "Una aposta pel clima",
-        "description": "El tercer capítol de la sèrie se centra en dues històries personals a l'Índia i a Indonèsia. D'una banda, a Delhi una parella de gent gran es veu obligada a malviure en condicions climàtiques extremes després d'haver perdut la casa, mentre ronden de refugi en refugi o viuen al carrer i fent feines precàries. D'una altra banda, a l'illa de Bali un pescador veu perillar el seu mitjà de subsistència per la disminució de la pesca, però el seu nebot ha tirat endavant un projecte per implicar tota la gent de la zona en la recuperació dels esculls de corall, que podria portar, al seu torn, a la recuperació dels peixos.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/8/1781246651584.jpg"
+        "start": "2026-10-25T04:13:49+01:00",
+        "stop": "2026-10-25T05:14:17+01:00",
+        "title": "Gàdor i els taurons",
+        "subtitle": "Gàdor i els taurons",
+        "description": "En la seva croada personal en defensa dels taurons, la científica marina Gàdor Muntaner s'embarca en un viatge a la recerca de l'animal que troba tan fascinant. El viatge de la Gàdor ens porta a un mar i dos oceans. Acompanyada per l'instructor de busseig i càmera submarí Jordi Atienza, el periple de la Gàdor comença a la Mediterrània, a Mallorca, on fa immersió a la reserva marina de l'Illa del Toro. Aquí, el tauró blau, o tintorera, està en perill d'extinció. Després visita la Baixa Califòrnia, a Mèxic, on va escriure la seva tesi sobre els contaminants que afecten el gran tauró blanc i va fundar una ONG. Aquí, a l'oceà Pacífic, encara es pesquen taurons. La Gàdor treballa amb els pescadors locals perquè canviïn el model de negoci, per convèncer-los que val més un tauró viu que un tauró mort. La Gàdor acaba el seu viatge a les Maldives, a l'oceà Índic, on va veure el seu primer tauró, un moment que li va canviar la vida. I a la seva mare, que l'acompanyava, també. Allà es retroba amb el seu amic Mohamed i té l'objectiu final de comprovar com ha augmentat la població de taurons tigre a causa de la protecció que n'han fet. Seria el lloc on les coses es fan millor, si no fos que en altres zones dels atols hi ha illes flotants de plàstics. ",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/6/1732658813162.jpg"
       },
       {
-        "start": "2026-10-25T02:13:34+01:00",
-        "stop": "2026-10-25T02:58:31+01:00",
-        "title": "El día mes llarg",
-        "subtitle": "El món està de cap per avall",
-        "description": "El tercer capítol de la sèrie se centra en dues històries personals a l'Índia i a Indonèsia. D'una banda, a Delhi una parella de gent gran es veu obligada a malviure en condicions climàtiques extremes després d'haver perdut la casa, mentre ronden de refugi en refugi o viuen al carrer i fent feines precàries. D'una altra banda, a l'illa de Bali un pescador veu perillar el seu mitjà de subsistència per la disminució de la pesca, però el seu nebot ha tirat endavant un projecte per implicar tota la gent de la zona en la recuperació dels esculls de corall, que podria portar, al seu torn, a la recuperació dels peixos.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/8/1781246651584.jpg"
+        "start": "2026-10-25T05:14:17+01:00",
+        "stop": "2026-10-25T05:39:16+01:00",
+        "title": "Les Feres",
+        "subtitle": "Manacor Connection",
+        "description": "Aquest capítol especial de 'Les feres' vol posar el radar en l'escena musical de Manacor i visibilitzar la valuosa personalitat d'alguns artistes locals. La sala de concerts de Can Lliro es converteix en el centre neuràlgic on cinc solistes i bandes mostren el seu singular cançoner. Parlem de l'associació entre Puput Lab (Joana Gomila i Laia Vallès) amb Carles Medina; SAÏM; Roger Pistola; Caspary i Mar Grimalt. Seguint un caràcter unitari i a mode de pròleg, la peça acaba amb la interpretació d'una cançó del cantant, guitarrista i compositor Miquel Serra, protagonista del capítol següent de 'Les feres'. PUPUT LAB + CARLES MEDINAJoana Gomila - veu Laia Vallès - electrònica Carles Medina - saxo 'Cueta' SAÏM Joan Roig - veu i guitarra Natàlia Gómez - baix Dani Gómez -bateria 'Angle mort' ROGER PISTOLA Roger Antoni Pasqual - veu i guitarra Esteve Huguet - guitarra 'Oxímorons' CASPARY Pau Dalmau - veu Andreu Beltran - guitarra Miquel Crespí - guitarra Pere Plomer - baix Bernat Cantallops - bateria 'Mirall negre' MAR GRIMALT Mar Grimal - guitarra 'Mai te n' ' MIQUEL SERRA Miquel Serra - veu i guitarra Jorra Santiago - guitarra Michael Mesquida - baix Miquel Perelló - bateria 'Saps les meves eines' Localització: Can Lliro, a Manacor, Mallorca Data: 28 de febrer del 2025   ",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
       }
     ],
     "oca1": [],
