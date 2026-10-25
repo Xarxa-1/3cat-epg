@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-25T19:35:39.226219+00:00",
+  "updated": "2026-10-25T22:02:45.527663+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-25T20:13:26+01:00",
-        "stop": "2026-10-25T21:00:00+01:00",
-        "title": "Diades castelleres especials",
-        "subtitle": "Diada Castellera Santa Úrsula a Valls",
-        "description": "Torna tota l'emoció castellera a la gran cita de Santa Úrsula a Valls. A la plaça del Blat, considerada el bressol dels castells, la Colla Vella i la Colla Joves de Valls tornen a mostrar la seva rivalitat en una diada en què totes dues colles arriben amb objectius de màxima dificultat.La Colla Vella vol culminar els reptes que va deixar pendents al Concurs, amb el 4d10 amb folre i manilles i el 3d9 sense folre com a grans aspiracions, mentre que la Colla Joves confia en el seu 4d9 sense folre i estudia portar a plaça el 2d8 sense folre o el 2d9 sense manilles. Ho aconseguiran?",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-10-25T22:42:12+01:00",
+        "stop": "2026-10-26T00:22:58+01:00",
+        "title": "Pel·lícula",
+        "subtitle": "Segrest",
+        "description": "SEGRESTProductora: Rodar y Rodar, 2016Direcció: Mar TargaronaGuió: Oriol PauloDirector de fotografia: Sergi BartrolíMúsica: Marc VaílloIntèrprets: Blanca Portillo (Patricia), Antonio Dechent (Requena), Vicente Romero (Carreño), Marc Domenech (Victor), Nausicaa Bonnin (Vicky), Andrés Herrera (Charlie), Jose Coronado (Raúl) i Macarena Gómez (Raquel)Patricia de Lucas, una prestigiosa advocada, veu com la seva vida es converteix en un malson quan el seu fill Víctor desapareix del col·legi sense deixar cap rastre. Hores més tard, el nen reapareix magolat i moll de suor, i confessa que un home l'ha intentat segrestar, però que ha aconseguit escapar-se. La policia es mobilitza i, després d'una roda d'identificació, aconsegueixen trobar el responsable aparent. No obstant això, les proves no són suficients, i el presumpte segrestador queda en llibertat. És llavors quan la Patricia, espantada i tement pel seu fill, decideix fer el que no ha fet mai: prendre's la justícia pel seu compte. Però la situació se li escaparà de les mans i les conseqüències dels seus actes seran imprevisibles…",
+        "genre": "PEL·LÍCULA / TELEFILM",
         "image": ""
       },
       {
-        "start": "2026-10-25T21:00:00+01:00",
-        "stop": "2026-10-25T22:15:53+01:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "start": "2026-10-26T00:22:58+01:00",
+        "stop": "2026-10-26T00:30:00+01:00",
+        "title": "Ets i uts",
+        "subtitle": "Quan ens van detenir",
+        "description": "Durant el rodatge del primer reportatge de la sèrie a la Colònia Güell, el Roger i la Mònica es troben amb un vigilant de seguretat amb complex d'autoritat que intenta sabotejar-los la feina.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-25T20:00:00+01:00",
-        "stop": "2026-10-25T21:00:00+01:00",
+        "start": "2026-10-25T23:00:00+01:00",
+        "stop": "2026-10-26T00:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,86 +72,76 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-25T21:00:00+01:00",
-        "stop": "2026-10-25T23:00:00+01:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-10-26T00:30:00+01:00",
+        "stop": "2026-10-26T01:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-25T19:25:00+01:00",
-        "stop": "2026-10-25T20:56:56+01:00",
-        "title": "Gol a gol",
-        "subtitle": "Prèvia Barça-R. Madrid / J10",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "start": "2026-10-25T23:05:11+01:00",
+        "stop": "2026-10-25T23:42:19+01:00",
+        "title": "Motor a fons",
+        "subtitle": "GP d'Austràlia",
+        "description": "Divuitena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.",
         "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"
       },
       {
-        "start": "2026-10-25T20:56:56+01:00",
-        "stop": "2026-10-25T22:53:28+01:00",
-        "title": "Un dia de partit",
-        "subtitle": "Barça-R. Madrid",
-        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
+        "start": "2026-10-25T23:42:19+01:00",
+        "stop": "2026-10-26T00:40:30+01:00",
+        "title": "Futbol",
+        "subtitle": "FC Barcelona-Granada CF / Lliga F / J8",
+        "description": "Les blaugranes tornen al Johan amb l'objectiu de retrobar la victòria després de la derrota en l'anterior jornada al camp de la Reial Societat (2-1).",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-25T20:15:44+01:00",
-        "stop": "2026-10-25T20:38:25+01:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El verdader culpable s’ha fugat!",
-        "description": "Mentre juguen a pilota, els membres de la Lliga de Detectius Júnior troben un cadàver. Sembla que el rastre deixat per l'assassí no porta enlloc, però en Conan s'adonarà d'un detall que els permetrà atrapar el criminal.",
+        "start": "2026-10-25T22:56:17+01:00",
+        "stop": "2026-10-25T23:07:03+01:00",
+        "title": "La tropa del corral",
+        "subtitle": "Amb l'Esther en són sis",
+        "description": "L'Albert truca la Tropa per demanar ajuda, però qui agafa el telèfon és l'Esther, que es vol unir a l'equip perquè està impressionada amb les gestes heroiques del grup. La Tropa hi accedeix i li fan seguir unes normes molt estrictes, però l'ambient es tensa quan l'actuació de l'Esther supera la de la resta.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-25T20:38:25+01:00",
-        "stop": "2026-10-25T21:00:04+01:00",
-        "title": "Henry Danger",
-        "subtitle": "Danger i Thunder (Part 1)",
-        "description": "En Henry i en Ray (Capità Man i Kid Danger) investiguen l'escapada del Dr. Minyak mentre la Phoebe i en Max s'hi involucren, descobrint una reunió secreta de delinqüents a Bonavista.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-10-25T23:07:03+01:00",
+        "stop": "2026-10-25T23:18:02+01:00",
+        "title": "La tropa del corral",
+        "subtitle": "Somnis de conte de fades",
+        "description": "L'Elvis truca la Tropa. Està amoïnat per l'Esther, que es pensa que és la Bella Dorment i s'ha estirat a dormir al mig del camí que fa servir el granger cada dia per anar al mercat). Ella diu que només es despertarà amb el petó del seu príncep blau, però el problema és que la Tropa no sap a qui es refereix. S'hauran d'afanyar a trobar-lo!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-25T20:15:17+01:00",
-        "stop": "2026-10-25T20:59:52+01:00",
-        "title": "Els habitants de la fi del món",
-        "subtitle": "Sri Lanka",
-        "description": "En Ben Fogle es dirigeix a la joia de l'oceà Índic, Sri Lanka, per conviure amb en Naveen i l'Anke, que han instal·lat la seva llar a les terres altes del país. Allà, descobrirà per què van canviar una de les ciutats del món per una existència autosuficient a quilòmetres de la civilització. Aprendrà els problemes que van tenir per establir-se a la seva nova vida, i veurà si volen trencar del tot els seus vincles amb el món exterior per apropar-se més a la natura.Els amfitrions d'en Ben s'han establert a les silencioses ruïnes d'una plantació de te. Les cabines de vidre, que són del tot autosuficients, ofereixen als viatgers que 's'allunyen del circuit turístic' un lloc únic per dormir. En Ben hi arregla una canonada trencada, construeix parets amb fems de vaca, baixa a la ciutat a carregar provisions i s'uneix a una petita empresa que sustenta la comunitat local. També descobreix que, tot i els anys complicats, els seus amfitrions ara aprofiten aquest nou equilibri entre la vida laboral i la vida personal que els aporta calma i satisfacció.",
+        "start": "2026-10-25T22:39:58+01:00",
+        "stop": "2026-10-25T23:22:55+01:00",
+        "title": "Ben Fogle: Retorn a la fi del món",
+        "subtitle": "Àrtic de Noruega",
+        "description": "En Ben viatja a Noruega, al cercle polar àrtic per posar-se al dia amb en Randi cinc anys més tard.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-25T20:59:52+01:00",
-        "stop": "2026-10-25T21:02:33+01:00",
-        "title": "SENSE FI CANAL 33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-10-25T23:22:55+01:00",
+        "stop": "2026-10-26T00:05:56+01:00",
+        "title": "Ben Fogle: Retorn a la fi del món",
+        "subtitle": "Sri Lanka",
+        "description": "En Bet es troba amb la Janey, una veterinària que es va encarregar de rescatar centenars de gossos a Sri Lanka.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-10-25T20:32:35+01:00",
-        "stop": "2026-10-25T21:02:30+01:00",
-        "title": "Actualització de l'accident d'autobús a Fogars de Monclús amb 80 ferits",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/5/1792953565057_1920.jpg"
-      }
-    ],
+    "oca1": [],
     "oca2": [],
     "oca3": [],
     "oca4": []
