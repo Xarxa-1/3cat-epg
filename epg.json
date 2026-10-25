@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-25T03:28:28.233172+00:00",
+  "updated": "2026-10-25T08:39:44.420717+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-25T04:00:02+01:00",
-        "stop": "2026-10-25T04:44:54+01:00",
-        "title": "Cava de Blues",
-        "subtitle": "Bullfrog Electric Blues Experience",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+        "start": "2026-10-25T09:26:24+01:00",
+        "stop": "2026-10-25T09:50:45+01:00",
+        "title": "Néixer de nou",
+        "subtitle": "Protestants sota el franquisme, la lluita dels impressors",
+        "description": "Una de les claus de la ràpida expansió del protestantisme de Martí Luter del segle XVI fou la impremta. Però, sota el franquisme, han estat els impressors valents una de les claus de la resistència protestant. És el cas de la impremta Salvador. Diumenge, 25 d'octubre, en parlarem al 'Néixer de nou'.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       },
       {
-        "start": "2026-10-25T04:44:54+01:00",
-        "stop": "2026-10-25T05:44:52+01:00",
-        "title": "Jazz a l'estudi",
-        "subtitle": "Andreu Martínez Band",
-        "description": "L'Andreu Martínez beu d'influències provinents del blues, el pop, el rock progressiu dels 70 i que, fins i tot, en els seus temes, mostra un cert regust del so de Seattle. En aquesta nova formació l'acompanyen a la base rítmica dos músics d'àmplia i reconeguda trajectòria: Miki Santamaría al baix i Dídac Fernández a la bateria.",
-        "genre": "JAZZ",
+        "start": "2026-10-25T09:50:45+01:00",
+        "stop": "2026-10-25T10:21:13+01:00",
+        "title": "Signes dels temps",
+        "subtitle": "Sempre a prop dels més necessitats",
+        "description": "Entrevistem Daniel Palau, bisbe de Lleida. És també el responsable de Mitjans de Comunicació Social de la Conferència Episcopal Tarraconense. El bisbe Daniel parla de la tasca pastoral i social que es fa a la diòcesi, de la manca de vocacions, dels joves i la fe, i de la visita del papa Lleó XIV a Catalunya. Al bisbe Daniel li preocupa la pobresa, la manca d'habitatge, la situació dels temporers que viuen en barracons, l'acollida als migrants, etc. Aposta per l'escolta, la proximitat i l'ajuda als més desvalguts. Diu que 'cal estar sempre a prop dels més necessitats, de les persones que més pateixen'. Fent referència a l'extrema dreta, li preguntem com s'entén que hi hagi qui es diu 'cristià' i justifica la violència contra els migrants. 'No s'entén, no ho entenem. Utilitzar la proposta cristiana per ferir les persones no concorda amb el camí de l'Evangeli. A nosaltres també ens toca denunciar per transformar aquest llenguatge violent, i aquesta polarització que no porta enlloc', afirma el bisbe Daniel. A més, fa referència a l'acord signat entre el Govern i la Conferència Episcopal Tarraconense per construir habitatge social en immobles de l'Església catòlica. I explica l'ajuda que es fa des de la diòcesi de Lleida. ",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-25T01:00:00+01:00",
-        "stop": "2026-10-25T06:00:00+01:00",
+        "start": "2026-10-25T07:00:00+01:00",
+        "stop": "2026-10-25T10:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-25T06:00:00+01:00",
-        "stop": "2026-10-25T07:00:00+01:00",
+        "start": "2026-10-25T10:00:00+01:00",
+        "stop": "2026-10-25T12:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-25T04:13:33+01:00",
-        "stop": "2026-10-25T05:35:16+01:00",
-        "title": "Futbol sala",
-        "subtitle": "El Ejido FS-Barça / Primera divisió / J6",
-        "description": "La victòria en el primer partit de la jornada permetria als blaugranes situar-se com a líders provisionals de la classificació.",
+        "start": "2026-10-25T08:17:54+01:00",
+        "stop": "2026-10-25T10:05:53+01:00",
+        "title": "Futbol",
+        "subtitle": "FC Barcelona-Granada CF / Lliga F / J8",
+        "description": "Les blaugranes tornen al Johan amb l'objectiu de retrobar la victòria després de la derrota en l'anterior jornada al camp de la Reial Societat (2-1).",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       },
       {
-        "start": "2026-10-25T05:35:16+01:00",
-        "stop": "2026-10-25T05:49:52+01:00",
-        "title": "E3",
-        "subtitle": "Ultra Trail Serra del Montsant",
-        "description": "Els moments més destacats de la 17a edició a l'Otso Ultra Trail Serra del Montsant-Costa Daurada, la cursa de muntanya que recorre el Parc Natural de la Serra de Montsant.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1787745006771.jpg"
+        "start": "2026-10-25T10:05:53+01:00",
+        "stop": "2026-10-25T11:40:00+01:00",
+        "title": "Gol a gol",
+        "subtitle": "Anàlisi de la jornada / J10 / Dissabte",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-25T04:23:49+01:00",
-        "stop": "2026-10-25T04:35:19+01:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "El cangueli",
-        "description": "La Guineta li explica a en Timbal que si molesta les abelles mentre treballen, s'enfaden i et poden atacar. Però en Timbal, com que té gana, no li fa cas i els pren una mica de mel. Com era d'esperar, les abelles s'enfaden i el persegueixen. L'ensurt és tan gros que en Timbal diu que no sortirà del cau mai més. Aleshores, els seus germans pensen un pla perquè venci les seves pors. ",
+        "start": "2026-10-25T09:31:05+01:00",
+        "stop": "2026-10-25T09:41:39+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Marina: La Patrulla salva una balena inquieta",
+        "description": "Una balena bellugadissa ha donat un cop a la campana de busseig i l'ha deixat de cap per avall i encallada a la sorra del fons del mar, amb el capità Turbot i en François a dins.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-25T04:35:19+01:00",
-        "stop": "2026-10-25T04:46:54+01:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "La campaneta de la guineta",
-        "description": "De camí cap al cau, en Pinxo veu un bastó molt maco, però la Guineta l'agafa primer. En Pinxo s'enfada molt, perquè diu que la Guineta sempre vol les coses que volen els altres. Poc després, els bessons troben una campaneta molt bonica al llit del riu, i la porten al cau per donar-li una sorpresa a la Trufa. Però la Guineta diu que la campaneta és seva! Ja hi tornem a ser. ",
+        "start": "2026-10-25T09:41:39+01:00",
+        "stop": "2026-10-25T09:52:12+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva la Skye al cel",
+        "description": "Una tempesta ha deixa Badia Aventures sense llum.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-25T04:13:49+01:00",
-        "stop": "2026-10-25T05:14:17+01:00",
-        "title": "Gàdor i els taurons",
-        "subtitle": "Gàdor i els taurons",
-        "description": "En la seva croada personal en defensa dels taurons, la científica marina Gàdor Muntaner s'embarca en un viatge a la recerca de l'animal que troba tan fascinant. El viatge de la Gàdor ens porta a un mar i dos oceans. Acompanyada per l'instructor de busseig i càmera submarí Jordi Atienza, el periple de la Gàdor comença a la Mediterrània, a Mallorca, on fa immersió a la reserva marina de l'Illa del Toro. Aquí, el tauró blau, o tintorera, està en perill d'extinció. Després visita la Baixa Califòrnia, a Mèxic, on va escriure la seva tesi sobre els contaminants que afecten el gran tauró blanc i va fundar una ONG. Aquí, a l'oceà Pacífic, encara es pesquen taurons. La Gàdor treballa amb els pescadors locals perquè canviïn el model de negoci, per convèncer-los que val més un tauró viu que un tauró mort. La Gàdor acaba el seu viatge a les Maldives, a l'oceà Índic, on va veure el seu primer tauró, un moment que li va canviar la vida. I a la seva mare, que l'acompanyava, també. Allà es retroba amb el seu amic Mohamed i té l'objectiu final de comprovar com ha augmentat la població de taurons tigre a causa de la protecció que n'han fet. Seria el lloc on les coses es fan millor, si no fos que en altres zones dels atols hi ha illes flotants de plàstics. ",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/6/1732658813162.jpg"
+        "start": "2026-10-25T09:26:19+01:00",
+        "stop": "2026-10-25T10:11:50+01:00",
+        "title": "Globus Sonda",
+        "subtitle": "Araceli Segarra - Bages",
+        "description": "Aquesta passatgera del 'Globus sonda', l'Araceli Segarra, està molt avesada a les alçades. El 1996 es va convertir en la primera dona d'Espanya a coronar el cim de l'Everest. L'expedició de l'alpinista lleidatana va coincidir amb una de les tragèdies més grans que ha patit la mítica muntanya i que es va endur vuit vides. L'Araceli ens parlarà de la cara i la creu d'aquella expedició sobrevolant des de la Colònia Vidal de Puig-reig comarques de la Catalunya central com el Bages o el Berguedà.",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-10-25T05:14:17+01:00",
-        "stop": "2026-10-25T05:39:16+01:00",
-        "title": "Les Feres",
-        "subtitle": "Manacor Connection",
-        "description": "Aquest capítol especial de 'Les feres' vol posar el radar en l'escena musical de Manacor i visibilitzar la valuosa personalitat d'alguns artistes locals. La sala de concerts de Can Lliro es converteix en el centre neuràlgic on cinc solistes i bandes mostren el seu singular cançoner. Parlem de l'associació entre Puput Lab (Joana Gomila i Laia Vallès) amb Carles Medina; SAÏM; Roger Pistola; Caspary i Mar Grimalt. Seguint un caràcter unitari i a mode de pròleg, la peça acaba amb la interpretació d'una cançó del cantant, guitarrista i compositor Miquel Serra, protagonista del capítol següent de 'Les feres'. PUPUT LAB + CARLES MEDINAJoana Gomila - veu Laia Vallès - electrònica Carles Medina - saxo 'Cueta' SAÏM Joan Roig - veu i guitarra Natàlia Gómez - baix Dani Gómez -bateria 'Angle mort' ROGER PISTOLA Roger Antoni Pasqual - veu i guitarra Esteve Huguet - guitarra 'Oxímorons' CASPARY Pau Dalmau - veu Andreu Beltran - guitarra Miquel Crespí - guitarra Pere Plomer - baix Bernat Cantallops - bateria 'Mirall negre' MAR GRIMALT Mar Grimal - guitarra 'Mai te n' ' MIQUEL SERRA Miquel Serra - veu i guitarra Jorra Santiago - guitarra Michael Mesquida - baix Miquel Perelló - bateria 'Saps les meves eines' Localització: Can Lliro, a Manacor, Mallorca Data: 28 de febrer del 2025   ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
+        "start": "2026-10-25T10:11:50+01:00",
+        "stop": "2026-10-25T10:40:50+01:00",
+        "title": "La sobretaula",
+        "subtitle": "Santa Susanna amb Ricard Torquemada",
+        "description": "La Sobretaula fa parada a Santa Susanna per descobrir un territori on l'esport, l'agricultura i el relleu familiar són part essencial del seu dia a dia. Ho fem acompanyats del periodista Ricard Torquemada, amb qui parlem d'arrels, continuïtat i compromís amb el territori.",
+        "genre": "CUINA",
+        "image": ""
       }
     ],
     "oca1": [],
