@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-25T17:08:20.541394+00:00",
+  "updated": "2026-10-25T19:35:39.226219+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-25T17:55:15+01:00",
-        "stop": "2026-10-25T18:46:50+01:00",
-        "title": "Temps de silenci",
-        "subtitle": "TESTAMENT",
-        "description": "1965 : L'arribada dels Beatles i de la minifaldilla. Els canvis generacionals. Amors impossibles: la història es repeteix. Enfrontament entre la Victòria i en Joaquim. El secret de la Victòria s'escampa....",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-10-25T20:13:26+01:00",
+        "stop": "2026-10-25T21:00:00+01:00",
+        "title": "Diades castelleres especials",
+        "subtitle": "Diada Castellera Santa Úrsula a Valls",
+        "description": "Torna tota l'emoció castellera a la gran cita de Santa Úrsula a Valls. A la plaça del Blat, considerada el bressol dels castells, la Colla Vella i la Colla Joves de Valls tornen a mostrar la seva rivalitat en una diada en què totes dues colles arriben amb objectius de màxima dificultat.La Colla Vella vol culminar els reptes que va deixar pendents al Concurs, amb el 4d10 amb folre i manilles i el 3d9 sense folre com a grans aspiracions, mentre que la Colla Joves confia en el seu 4d9 sense folre i estudia portar a plaça el 2d8 sense folre o el 2d9 sense manilles. Ho aconseguiran?",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-10-25T18:46:50+01:00",
-        "stop": "2026-10-25T19:16:07+01:00",
-        "title": "Tot torna",
-        "subtitle": "1985",
-        "description": "Sinopsi global Tot torna",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-25T21:00:00+01:00",
+        "stop": "2026-10-25T22:15:53+01:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-25T16:30:00+01:00",
-        "stop": "2026-10-25T18:30:00+01:00",
+        "start": "2026-10-25T20:00:00+01:00",
+        "stop": "2026-10-25T21:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,97 +72,87 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-25T18:30:00+01:00",
-        "stop": "2026-10-25T20:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-25T21:00:00+01:00",
+        "stop": "2026-10-25T23:00:00+01:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-25T15:59:19+01:00",
-        "stop": "2026-10-25T17:25:00+01:00",
-        "title": "Hoquei patins",
-        "subtitle": "Barça-Igualada HC / Supercopa Espanya / Final",
-        "description": "Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
+        "start": "2026-10-25T19:25:00+01:00",
+        "stop": "2026-10-25T20:56:56+01:00",
+        "title": "Gol a gol",
+        "subtitle": "Prèvia Barça-R. Madrid / J10",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-10-25T17:25:00+01:00",
-        "stop": "2026-10-25T19:25:00+01:00",
-        "title": "Futbol",
-        "subtitle": "UE Olot-Barça Atlètic / Segona Federació / J8",
-        "description": "El conjunt garrotxí vol seguir a la zona alta de la taula; i el filial blaugrana, que hi arriba invicte, és el líder a la classificació.",
+        "start": "2026-10-25T20:56:56+01:00",
+        "stop": "2026-10-25T22:53:28+01:00",
+        "title": "Un dia de partit",
+        "subtitle": "Barça-R. Madrid",
+        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-25T18:02:04+01:00",
-        "stop": "2026-10-25T18:08:33+01:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Acadèmia Grizzy",
-        "description": "Tot i que en Grizzy, incessantment, intenta fer fora de la cabana els Lèmmings per tal d'estar tranquil, els rosegadors sempre tornen amb una activitat nova cada cop més molesta. Però, llavors, quan en Grizzy veu uns pingüins caminar en fila índia, molt disciplinats, se li acut fer classe als Lèmmings per ensenyar-los com comportar-se davant seu. Es tanca amb ells al garatge, que ha transformat en una aula d'escola, i està decidit a ensenyar-los a ser disciplinats, però no ha tingut en compte la tendència natural dels Lèmmings a l'enrenou.",
+        "start": "2026-10-25T20:15:44+01:00",
+        "stop": "2026-10-25T20:38:25+01:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El verdader culpable s’ha fugat!",
+        "description": "Mentre juguen a pilota, els membres de la Lliga de Detectius Júnior troben un cadàver. Sembla que el rastre deixat per l'assassí no porta enlloc, però en Conan s'adonarà d'un detall que els permetrà atrapar el criminal.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-25T18:08:33+01:00",
-        "stop": "2026-10-25T18:15:03+01:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "L'os, la granota i el mosquit",
-        "description": "Els Lèmmings es diverteixen muntats sobre les inofensives granotes verdes, mentre en Grizzy intenta debades fer fora els mosquits que brunzeixen al seu voltant. Quan s'adona que els amfibis que tenen els Lèmmings s'alimenten d'aquests insectes, els els treu per utilitzar-los ell. Molestos, els rosegadors substitueixen les granotes verdes d'en Grizzy per unes verinoses de color taronja que paralitzen qualsevol que les toqui.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-25T20:38:25+01:00",
+        "stop": "2026-10-25T21:00:04+01:00",
+        "title": "Henry Danger",
+        "subtitle": "Danger i Thunder (Part 1)",
+        "description": "En Henry i en Ray (Capità Man i Kid Danger) investiguen l'escapada del Dr. Minyak mentre la Phoebe i en Max s'hi involucren, descobrint una reunió secreta de delinqüents a Bonavista.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-25T17:07:56+01:00",
-        "stop": "2026-10-25T18:46:57+01:00",
-        "title": "Petitet",
-        "subtitle": "Petitet",
-        "description": "'PETITET' (2018), una producció de Lastor Media en coproducció amb Televisió de Catalunya, Turkana Films i Vilaut Films, amb la col·laboració de Fundació Grifols, amb el suport de l'ICEC i l'ICAA i amb la participació de Movistar+.Petitet, un exmúsic gitano barceloní, fill d'un dels 'palmeros' del mític Peret, va prometre a la seva mare moribunda que un dia portaria la rumba catalana a l'escenari d'un gran teatre de Barcelona i, ara, per poder complir la promesa, haurà de reunir una vintena de músics gitanos —genials però indisciplinats— i aconseguir el miracle que s'entenguin amb... una orquestra simfònica!Direcció: Carles BoschGuió: Carles Bosch, David VidalProductor: Tono Folguera, Sergi Moreno, Carles BoschProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Elisa PlazaDirector fotografia: Sofia AmadoriMuntatge: Ernest Blasi, Carlos PrietoDirector de producció: Joan Antoni BarjauMúsica: Josep SanouGrafisme: Mariona Omedes",
+        "start": "2026-10-25T20:15:17+01:00",
+        "stop": "2026-10-25T20:59:52+01:00",
+        "title": "Els habitants de la fi del món",
+        "subtitle": "Sri Lanka",
+        "description": "En Ben Fogle es dirigeix a la joia de l'oceà Índic, Sri Lanka, per conviure amb en Naveen i l'Anke, que han instal·lat la seva llar a les terres altes del país. Allà, descobrirà per què van canviar una de les ciutats del món per una existència autosuficient a quilòmetres de la civilització. Aprendrà els problemes que van tenir per establir-se a la seva nova vida, i veurà si volen trencar del tot els seus vincles amb el món exterior per apropar-se més a la natura.Els amfitrions d'en Ben s'han establert a les silencioses ruïnes d'una plantació de te. Les cabines de vidre, que són del tot autosuficients, ofereixen als viatgers que 's'allunyen del circuit turístic' un lloc únic per dormir. En Ben hi arregla una canonada trencada, construeix parets amb fems de vaca, baixa a la ciutat a carregar provisions i s'uneix a una petita empresa que sustenta la comunitat local. També descobreix que, tot i els anys complicats, els seus amfitrions ara aprofiten aquest nou equilibri entre la vida laboral i la vida personal que els aporta calma i satisfacció.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia//png/4/8/1728720017584.png"
+        "image": ""
       },
       {
-        "start": "2026-10-25T18:46:57+01:00",
-        "stop": "2026-10-25T19:30:50+01:00",
-        "title": "Ben Fogle: Retorn a la fi del món",
-        "subtitle": "Bulgària",
-        "description": "Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-25T20:59:52+01:00",
+        "stop": "2026-10-25T21:02:33+01:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
     "oca1": [
       {
-        "start": "2026-10-25T15:20:00+01:00",
-        "stop": "2026-10-25T17:14:55+01:00",
-        "title": "Hoquei patins",
-        "subtitle": "- Supercopa Espanya / Final",
-        "description": "Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
+        "start": "2026-10-25T20:32:35+01:00",
+        "stop": "2026-10-25T21:02:30+01:00",
+        "title": "Actualització de l'accident d'autobús a Fogars de Monclús amb 80 ferits",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/5/1792953565057_1920.jpg"
       }
     ],
-    "oca2": [
-      {
-        "start": "2026-10-25T17:25:00+01:00",
-        "stop": "2026-10-25T19:29:55+01:00",
-        "title": "Futbol",
-        "subtitle": "- UE Olot-Barça Atlètic / Segona Federació / J8",
-        "description": "El conjunt garrotxí vol seguir a la zona alta de la taula; i el filial blaugrana, que hi arriba invicte, és el líder a la classificació.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
-      }
-    ],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
