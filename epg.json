@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-25T13:21:30.694023+00:00",
+  "updated": "2026-10-25T17:08:20.541394+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-25T12:00:01+01:00",
-        "stop": "2026-10-25T14:29:26+01:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-10-25T17:55:15+01:00",
+        "stop": "2026-10-25T18:46:50+01:00",
+        "title": "Temps de silenci",
+        "subtitle": "TESTAMENT",
+        "description": "1965 : L'arribada dels Beatles i de la minifaldilla. Els canvis generacionals. Amors impossibles: la història es repeteix. Enfrontament entre la Victòria i en Joaquim. El secret de la Victòria s'escampa....",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       },
       {
-        "start": "2026-10-25T14:29:26+01:00",
-        "stop": "2026-10-25T14:29:57+01:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "start": "2026-10-25T18:46:50+01:00",
+        "stop": "2026-10-25T19:16:07+01:00",
+        "title": "Tot torna",
+        "subtitle": "1985",
+        "description": "Sinopsi global Tot torna",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-25T12:00:00+01:00",
-        "stop": "2026-10-25T14:30:00+01:00",
+        "start": "2026-10-25T16:30:00+01:00",
+        "stop": "2026-10-25T18:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,77 +72,97 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-25T14:30:00+01:00",
-        "stop": "2026-10-25T16:30:00+01:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-10-25T18:30:00+01:00",
+        "stop": "2026-10-25T20:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-25T13:48:52+01:00",
-        "stop": "2026-10-25T16:08:28+01:00",
-        "title": "Futbol",
-        "subtitle": "CE Sabadell-CD Tenerife / Lliga Hypermotion / J11",
-        "description": "Els partits més destacats a la Segona Divisió del futbol estatal.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/8/3/1791458637038.jpg"
-      },
-      {
-        "start": "2026-10-25T16:08:28+01:00",
+        "start": "2026-10-25T15:59:19+01:00",
         "stop": "2026-10-25T17:25:00+01:00",
         "title": "Hoquei patins",
-        "subtitle": "Supercopa Espanya / Final",
+        "subtitle": "Barça-Igualada HC / Supercopa Espanya / Final",
         "description": "Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
+      },
+      {
+        "start": "2026-10-25T17:25:00+01:00",
+        "stop": "2026-10-25T19:25:00+01:00",
+        "title": "Futbol",
+        "subtitle": "UE Olot-Barça Atlètic / Segona Federació / J8",
+        "description": "El conjunt garrotxí vol seguir a la zona alta de la taula; i el filial blaugrana, que hi arriba invicte, és el líder a la classificació.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-25T14:11:31+01:00",
-        "stop": "2026-10-25T14:30:44+01:00",
-        "title": "Manduka",
-        "subtitle": "Pancakes de les arts - Els Amics de les Arts",
-        "description": "Els convidats d'avui són en Dani, en Joan i en Ferran, Els amics de les Arts. Amb aquest grup de música d'èxit, la Paula farà uns pancakes i aprendrem a fer-nos la nostra pròpia confitura. Dels integrants d'aquest grup de música català ja en coneixem les arts per la música, però sembla que tenen cops d'humor amagats que sorprendran a tothom... especialment a la Paula que no deixarà de riure en cap moment.",
-        "genre": "ALTRES",
+        "start": "2026-10-25T18:02:04+01:00",
+        "stop": "2026-10-25T18:08:33+01:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Acadèmia Grizzy",
+        "description": "Tot i que en Grizzy, incessantment, intenta fer fora de la cabana els Lèmmings per tal d'estar tranquil, els rosegadors sempre tornen amb una activitat nova cada cop més molesta. Però, llavors, quan en Grizzy veu uns pingüins caminar en fila índia, molt disciplinats, se li acut fer classe als Lèmmings per ensenyar-los com comportar-se davant seu. Es tanca amb ells al garatge, que ha transformat en una aula d'escola, i està decidit a ensenyar-los a ser disciplinats, però no ha tingut en compte la tendència natural dels Lèmmings a l'enrenou.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-25T14:30:44+01:00",
-        "stop": "2026-10-25T14:48:52+01:00",
-        "title": "Manduka",
-        "subtitle": "Blinis estilosos - Marc Giró",
-        "description": "El convidat d'avui és en Marc Giró. Aquest gran comunicador ja ens té acostumats a la importància que dona a l'estil i les bones maneres. Per això la Paula ha pensat fer uns canapès amb ell. De fet, uns canapès ben estilosos amb origen als països de l'est... uns blinis! I mentre fan la recepta, la Paula intentarà saber més coses del Marc. Ho intentarà, perquè segurament el Marc serà qui més parlarà i qui més preguntes farà en aquest programa. O, en teniu algun dubte?",
-        "genre": "ALTRES",
+        "start": "2026-10-25T18:08:33+01:00",
+        "stop": "2026-10-25T18:15:03+01:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "L'os, la granota i el mosquit",
+        "description": "Els Lèmmings es diverteixen muntats sobre les inofensives granotes verdes, mentre en Grizzy intenta debades fer fora els mosquits que brunzeixen al seu voltant. Quan s'adona que els amfibis que tenen els Lèmmings s'alimenten d'aquests insectes, els els treu per utilitzar-los ell. Molestos, els rosegadors substitueixen les granotes verdes d'en Grizzy per unes verinoses de color taronja que paralitzen qualsevol que les toqui.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-25T14:17:44+01:00",
-        "stop": "2026-10-25T14:45:29+01:00",
-        "title": "Quèquicom",
-        "subtitle": "Veure escoltant",
-        "description": "'Quèquicom' constata que el so no només es relaciona amb el sentit de l'oïda: també ho fa amb el sentit de la visió. Els ratpenats, els cetacis o els peixos han desenvolupat diferents estratègies per 'veure-hi' escoltant. I els humans hem sabut aprofitar aquest principi per fabricar tecnologies com el sonar o l'ecografia, però també per ajudar les persones cegues en l'orientació natural. També aclarirem la diferència entre sons, infrasons i ultrasons i explicarem per què els ultrasons són els més adients per a l'ecolocalització. D'altra banda, el reporter Pere Renom renunciarà durant una estona a la visió per poder experimentar en persona com 'sona' la realitat, instruït per Loreto Martínez, una tècnica en rehabilitació de l'ONCE. Descobrirà així la importància de l'eco, la direccionalitat del so i l'efecte de pantalla acústica. Desconcertat per tants estímuls, també experimentarà una mena de borratxera auditiva, en què no discriminarà els sons importants dels sons irrellevants.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-10-25T17:07:56+01:00",
+        "stop": "2026-10-25T18:46:57+01:00",
+        "title": "Petitet",
+        "subtitle": "Petitet",
+        "description": "'PETITET' (2018), una producció de Lastor Media en coproducció amb Televisió de Catalunya, Turkana Films i Vilaut Films, amb la col·laboració de Fundació Grifols, amb el suport de l'ICEC i l'ICAA i amb la participació de Movistar+.Petitet, un exmúsic gitano barceloní, fill d'un dels 'palmeros' del mític Peret, va prometre a la seva mare moribunda que un dia portaria la rumba catalana a l'escenari d'un gran teatre de Barcelona i, ara, per poder complir la promesa, haurà de reunir una vintena de músics gitanos —genials però indisciplinats— i aconseguir el miracle que s'entenguin amb... una orquestra simfònica!Direcció: Carles BoschGuió: Carles Bosch, David VidalProductor: Tono Folguera, Sergi Moreno, Carles BoschProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Elisa PlazaDirector fotografia: Sofia AmadoriMuntatge: Ernest Blasi, Carlos PrietoDirector de producció: Joan Antoni BarjauMúsica: Josep SanouGrafisme: Mariona Omedes",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia//png/4/8/1728720017584.png"
       },
       {
-        "start": "2026-10-25T14:45:29+01:00",
-        "stop": "2026-10-25T15:09:49+01:00",
-        "title": "Quèquicom",
-        "subtitle": "La vacuna del virus del papiloma.",
-        "description": "La vacuna del virus del papil·loma humà serà analitzada a 'Quèquicom', que n'ha parlat amb els creadors i els detractors, que demanen una moratòria, per saber els pros i contres d'administrar-la. En el programa hi intervenen Xavier Bosch, investigador de l'Institut Català d'Oncologia i desenvolupador d'aquesta vacuna; Carmen Cabezas, de la Conselleria de Salut; Miquel Porta, epidemiòleg de l'Institut Municipal d'Investigació Mèdica; Andreu Segura, director de la Societat Espanyola de Salut Pública; i Jaume Puig, Centre de Recerca d'Economia i Salut, UPF.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-10-25T18:46:57+01:00",
+        "stop": "2026-10-25T19:30:50+01:00",
+        "title": "Ben Fogle: Retorn a la fi del món",
+        "subtitle": "Bulgària",
+        "description": "Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
-    "oca1": [],
-    "oca2": [],
+    "oca1": [
+      {
+        "start": "2026-10-25T15:20:00+01:00",
+        "stop": "2026-10-25T17:14:55+01:00",
+        "title": "Hoquei patins",
+        "subtitle": "- Supercopa Espanya / Final",
+        "description": "Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
+      }
+    ],
+    "oca2": [
+      {
+        "start": "2026-10-25T17:25:00+01:00",
+        "stop": "2026-10-25T19:29:55+01:00",
+        "title": "Futbol",
+        "subtitle": "- UE Olot-Barça Atlètic / Segona Federació / J8",
+        "description": "El conjunt garrotxí vol seguir a la zona alta de la taula; i el filial blaugrana, que hi arriba invicte, és el líder a la classificació.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
