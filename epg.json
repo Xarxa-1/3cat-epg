@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-26T11:04:20.580996+00:00",
+  "updated": "2026-10-26T17:21:28.101025+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-26T10:30:06+01:00",
-        "stop": "2026-10-26T13:55:00+01:00",
-        "title": "Tot es mou",
+        "start": "2026-10-26T17:32:27+01:00",
+        "stop": "2026-10-26T19:14:12+01:00",
+        "title": "La Selva",
         "subtitle": "",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "description": "Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.",
         "genre": "MAGAZINE",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
       },
       {
-        "start": "2026-10-26T13:55:00+01:00",
-        "stop": "2026-10-26T14:30:00+01:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-10-26T19:14:12+01:00",
+        "stop": "2026-10-26T20:15:00+01:00",
+        "title": "Atrapa'm si pots",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-26T12:00:00+01:00",
-        "stop": "2026-10-26T13:55:00+01:00",
+        "start": "2026-10-26T17:00:00+01:00",
+        "stop": "2026-10-26T18:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-26T13:55:00+01:00",
-        "stop": "2026-10-26T14:30:00+01:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-10-26T18:30:00+01:00",
+        "stop": "2026-10-26T20:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-26T11:29:26+01:00",
-        "stop": "2026-10-26T13:00:00+01:00",
-        "title": "Gol a gol",
-        "subtitle": "Post Barça-R. Madrid / J10",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
-      },
-      {
-        "start": "2026-10-26T13:00:00+01:00",
-        "stop": "2026-10-26T14:01:02+01:00",
+        "start": "2026-10-26T17:27:44+01:00",
+        "stop": "2026-10-26T18:29:24+01:00",
         "title": "Esport Club",
-        "subtitle": "",
-        "description": "En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.",
+        "subtitle": "La derrota del Barça, la Pilota d'Or, Manolo i Arnau Martínez",
+        "description": "El Barça tanca una setmana per oblidar. En parlem amb Albert Blaya. Avui s'entrega la Pilota d'Or. Lamine i Alèxia, entre els grans favorits. Des de Londres, última hora amb Francesc Latorre. Manolo González abans del Sestao River-Espanyol de Copa. I entrevistem Arnau Martínez, porter del Barça d'hoquei patins. A la tertúlia ens acompanyen Maria Josep Hostalrich i Orfeo Suárez.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+      },
+      {
+        "start": "2026-10-26T18:29:24+01:00",
+        "stop": "2026-10-26T19:00:00+01:00",
+        "title": "La frontal",
+        "subtitle": "El CE Llinars compleix 110 anys",
+        "description": "El club vallesà, fundat el 1916, gaudeix d'un gran estat de salut amb 13 equips i 260 llicències. La temporada fins a 5 equips van pujar de categoria, i 3 d'ells com a campions de lliga. Carles Fité entrevista el president del CE Llinars, Jordi Vidal; el coordinador general, Manel Viale; i l'expresident, exjugador i exentrenador, Jaume Girabent. I a més a més, us oferim els resums dels partits més destacats del cap de setmana.",
+        "genre": "ESPECIALS",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-26T11:58:39+01:00",
-        "stop": "2026-10-26T12:20:24+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Cuques de llum",
-        "description": "Ja està tot a punt per al Pícnic de les Llumenetes de l'Equip Kratt! Ara només falta anar al bosc a buscar les llumenetes, unes mosques que fan petites pampallugues de llum. Avui en Chris i en Martin aprendran moltes coses de la bioluminescència, la llum que emet un ésser, cosa que els anirà molt bé per aturar la Donita Donata, que té uns altres plans per a les llumenetes!",
+        "start": "2026-10-26T18:14:41+01:00",
+        "stop": "2026-10-26T18:25:14+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "Missió Peluda: La Patrulla salva els amics de la princesa",
+        "description": "Hi ha tot d'animals que corren lliures pel castell de Bordaburg mentre la princesa no hi és. En Ryder i la Patrulla Peluda els hauran de controlar.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-26T12:20:24+01:00",
-        "stop": "2026-10-26T12:41:24+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El misteri de la morsa estranya",
-        "description": "En Chris i en Martin estan decidits a descobrir com és que les morses són tan estrambòtiques. Ah! I si de passada en troben alguna altra característica interessant, l'Aviva la podrà integrar als Vestits de Poders Animals! Però resulta que en Zach també va darrere de les morses, i aquest cop treballa per la Donita! Quina una en deuen portar de cap, aquest parell?!",
+        "start": "2026-10-26T18:25:14+01:00",
+        "stop": "2026-10-26T18:35:47+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla i el llop gosset",
+        "description": "Els cadells i en Ryder estan de campaments i l'oncle Otis els explica la llegenda del llop gosset, un gosset que es transforma en llop quan hi ha lluna plena.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-26T11:58:18+01:00",
-        "stop": "2026-10-26T12:05:35+01:00",
-        "title": "Cuines",
-        "subtitle": "Lluç de palangre amb espàrrecs de marge i vinagreta",
-        "description": "RESTAURANT TUGUES - LLEIDACUINERA SANDRA GONZALEZDificultat: baixaTemps d'elaboració: 1hProducte principal: lluçTemporada: primavera",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-10-26T18:14:25+01:00",
+        "stop": "2026-10-26T19:00:49+01:00",
+        "title": "Arxipèlag blau",
+        "subtitle": "Praderies i arenals",
+        "description": "Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-10-26T12:05:35+01:00",
-        "stop": "2026-10-26T12:12:37+01:00",
-        "title": "Cuines",
-        "subtitle": "Maduixots amb crema de iogurt i xocolata",
-        "description": "RESTAURANT TUGUES - LLEIDACUINERA.- SANDRA GONZALEZDificultat: mitjanaProducte principal: maduixotsTemporada: primavera",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-10-26T19:00:49+01:00",
+        "stop": "2026-10-26T19:43:15+01:00",
+        "title": "Arxipèlag blau",
+        "subtitle": "Albuferes i aigües somes",
+        "description": "En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
