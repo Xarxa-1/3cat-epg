@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-25T22:02:45.527663+00:00",
+  "updated": "2026-10-26T00:20:51.321776+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-25T22:42:12+01:00",
-        "stop": "2026-10-26T00:22:58+01:00",
-        "title": "Pel·lícula",
-        "subtitle": "Segrest",
-        "description": "SEGRESTProductora: Rodar y Rodar, 2016Direcció: Mar TargaronaGuió: Oriol PauloDirector de fotografia: Sergi BartrolíMúsica: Marc VaílloIntèrprets: Blanca Portillo (Patricia), Antonio Dechent (Requena), Vicente Romero (Carreño), Marc Domenech (Victor), Nausicaa Bonnin (Vicky), Andrés Herrera (Charlie), Jose Coronado (Raúl) i Macarena Gómez (Raquel)Patricia de Lucas, una prestigiosa advocada, veu com la seva vida es converteix en un malson quan el seu fill Víctor desapareix del col·legi sense deixar cap rastre. Hores més tard, el nen reapareix magolat i moll de suor, i confessa que un home l'ha intentat segrestar, però que ha aconseguit escapar-se. La policia es mobilitza i, després d'una roda d'identificació, aconsegueixen trobar el responsable aparent. No obstant això, les proves no són suficients, i el presumpte segrestador queda en llibertat. És llavors quan la Patricia, espantada i tement pel seu fill, decideix fer el que no ha fet mai: prendre's la justícia pel seu compte. Però la situació se li escaparà de les mans i les conseqüències dels seus actes seran imprevisibles…",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
-      },
-      {
-        "start": "2026-10-26T00:22:58+01:00",
-        "stop": "2026-10-26T00:30:00+01:00",
-        "title": "Ets i uts",
-        "subtitle": "Quan ens van detenir",
-        "description": "Durant el rodatge del primer reportatge de la sèrie a la Colònia Güell, el Roger i la Mònica es troben amb un vigilant de seguretat amb complex d'autoritat que intenta sabotejar-los la feina.",
-        "genre": "ALTRES",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-10-25T23:00:00+01:00",
-        "stop": "2026-10-26T00:30:00+01:00",
+        "start": "2026-10-26T00:33:53+01:00",
+        "stop": "2026-10-26T04:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-26T00:30:00+01:00",
-        "stop": "2026-10-26T01:00:00+01:00",
+        "start": "2026-10-26T04:00:00+01:00",
+        "stop": "2026-10-26T04:46:17+01:00",
+        "title": "Cava de Blues",
+        "subtitle": "Dusan's Flying Blues Band",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-10-26T01:00:00+01:00",
+        "stop": "2026-10-26T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-26T06:00:00+01:00",
+        "stop": "2026-10-26T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-25T23:05:11+01:00",
-        "stop": "2026-10-25T23:42:19+01:00",
-        "title": "Motor a fons",
-        "subtitle": "GP d'Austràlia",
-        "description": "Divuitena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.",
+        "start": "2026-10-26T01:02:49+01:00",
+        "stop": "2026-10-26T02:34:22+01:00",
+        "title": "Gol a gol",
+        "subtitle": "Post Barça-R. Madrid / J10",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
         "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-10-25T23:42:19+01:00",
-        "stop": "2026-10-26T00:40:30+01:00",
-        "title": "Futbol",
-        "subtitle": "FC Barcelona-Granada CF / Lliga F / J8",
-        "description": "Les blaugranes tornen al Johan amb l'objectiu de retrobar la victòria després de la derrota en l'anterior jornada al camp de la Reial Societat (2-1).",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "start": "2026-10-26T02:34:22+01:00",
+        "stop": "2026-10-26T02:57:36+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-25T22:56:17+01:00",
-        "stop": "2026-10-25T23:07:03+01:00",
-        "title": "La tropa del corral",
-        "subtitle": "Amb l'Esther en són sis",
-        "description": "L'Albert truca la Tropa per demanar ajuda, però qui agafa el telèfon és l'Esther, que es vol unir a l'equip perquè està impressionada amb les gestes heroiques del grup. La Tropa hi accedeix i li fan seguir unes normes molt estrictes, però l'ambient es tensa quan l'actuació de l'Esther supera la de la resta.",
+        "start": "2026-10-26T01:04:23+01:00",
+        "stop": "2026-10-26T01:25:06+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Multiplicació",
+        "description": "La Marinette està convençuda que els seus sentiments envers l'Adrien van ser la causa de la derrota quan es va enfrontar al Monarca com a Ladybug. Per això decideix renunciar al seu amor pel seu company d'institut. A més, com a Ladybug, es prepara per lluitar, amb l'ajuda del Gat Noir, contra un Monarca més poderós que mai. Però van passant els dies i no apareix cap akumatitzat que atemoreixi París. Podria ser que el Monarca s'hagués rendit?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-25T23:07:03+01:00",
-        "stop": "2026-10-25T23:18:02+01:00",
-        "title": "La tropa del corral",
-        "subtitle": "Somnis de conte de fades",
-        "description": "L'Elvis truca la Tropa. Està amoïnat per l'Esther, que es pensa que és la Bella Dorment i s'ha estirat a dormir al mig del camí que fa servir el granger cada dia per anar al mercat). Ella diu que només es despertarà amb el petó del seu príncep blau, però el problema és que la Tropa no sap a qui es refereix. S'hauran d'afanyar a trobar-lo!",
+        "start": "2026-10-26T01:25:06+01:00",
+        "stop": "2026-10-26T01:45:46+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Destrucció",
+        "description": "I si el pitjor malson de Ladybug es fes realitat? I si el Monarca obligués els kwamis a ensenyar-li on viu Ladybug? Els pobres l'haurien d'obeir per força. I si el Monarca es presentés a casa dels Dupain-Cheng, es podria escapar la Marinette?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-25T22:39:58+01:00",
-        "stop": "2026-10-25T23:22:55+01:00",
-        "title": "Ben Fogle: Retorn a la fi del món",
-        "subtitle": "Àrtic de Noruega",
-        "description": "En Ben viatja a Noruega, al cercle polar àrtic per posar-se al dia amb en Randi cinc anys més tard.",
+        "start": "2026-10-26T00:31:59+01:00",
+        "stop": "2026-10-26T01:26:02+01:00",
+        "title": "Philippe Echaroux, il.luminar el món",
+        "subtitle": "Namíbia",
+        "description": "Philippe Echaroux és un fotògraf francès que es dedica a visitar poblacions remotes i amenaçades d'arreu del món per fer retrats i projectar-los en gran format sobre arbres o roques, a fi de donar a conèixer la lluita d'aquests pobles per sobreviure i per protegir el seu entorn. En aquesta ocasió viatja al nord de Namíbia per visitar els himbes, que viuen en unes condicions terribles, sobretot a causa d'una sequera que fa anys que dura.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/4/1/1784276124514.jpg"
       },
       {
-        "start": "2026-10-25T23:22:55+01:00",
-        "stop": "2026-10-26T00:05:56+01:00",
-        "title": "Ben Fogle: Retorn a la fi del món",
-        "subtitle": "Sri Lanka",
-        "description": "En Bet es troba amb la Janey, una veterinària que es va encarregar de rescatar centenars de gossos a Sri Lanka.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-26T01:26:02+01:00",
+        "stop": "2026-10-26T02:07:08+01:00",
+        "title": "El Crac",
+        "subtitle": "La gran doble vida",
+        "description": "Impressionada per l'actuació heroica del Joel durant l'atemptat i convençuda que li ha salvat la vida, la Carla cau rendida als seus peus. I la Sandra, commoguda pel missatge que el Joel li va enviar, li dóna una nova oportunitat de refer la relació. El Joel juga a dues bandes sense acabar de decidir-se, mentre un ciutadà anònim és el sofert receptor de tots els seus dubtes. ",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
