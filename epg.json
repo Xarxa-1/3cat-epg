@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-26T00:20:51.321776+00:00",
+  "updated": "2026-10-26T05:06:19.330607+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-26T00:33:53+01:00",
-        "stop": "2026-10-26T04:00:00+01:00",
+        "start": "2026-10-26T06:00:00+01:00",
+        "stop": "2026-10-26T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,25 +52,16 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-26T04:00:00+01:00",
-        "stop": "2026-10-26T04:46:17+01:00",
-        "title": "Cava de Blues",
-        "subtitle": "Dusan's Flying Blues Band",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+        "start": "2026-10-26T08:00:00+01:00",
+        "stop": "2026-10-26T10:30:00+01:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
-      {
-        "start": "2026-10-26T01:00:00+01:00",
-        "stop": "2026-10-26T06:00:00+01:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-10-26T06:00:00+01:00",
         "stop": "2026-10-26T08:00:00+01:00",
@@ -79,65 +70,74 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-26T08:00:00+01:00",
+        "stop": "2026-10-26T10:30:00+01:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-26T01:02:49+01:00",
-        "stop": "2026-10-26T02:34:22+01:00",
-        "title": "Gol a gol",
-        "subtitle": "Post Barça-R. Madrid / J10",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-10-26T05:54:15+01:00",
+        "stop": "2026-10-26T06:08:01+01:00",
+        "title": "E3",
+        "subtitle": "CrossFit Wodcelona",
+        "description": "La competició de Crossfit inclusiva de Barcelona, amb més de 20 categories segons l'edat, nivell i modalitat, on tothom hi té cabuda.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/0/1792408274600.jpg"
       },
       {
-        "start": "2026-10-26T02:34:22+01:00",
-        "stop": "2026-10-26T02:57:36+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-10-26T06:08:01+01:00",
+        "stop": "2026-10-26T06:17:14+01:00",
+        "title": "E3",
+        "subtitle": "Ultra Trail Serra del Montsant",
+        "description": "Els moments més destacats de la 17a edició a l'Otso Ultra Trail Serra del Montsant-Costa Daurada, la cursa de muntanya que recorre el Parc Natural de la Serra de Montsant.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/7/1787745006771.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-26T01:04:23+01:00",
-        "stop": "2026-10-26T01:25:06+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Multiplicació",
-        "description": "La Marinette està convençuda que els seus sentiments envers l'Adrien van ser la causa de la derrota quan es va enfrontar al Monarca com a Ladybug. Per això decideix renunciar al seu amor pel seu company d'institut. A més, com a Ladybug, es prepara per lluitar, amb l'ajuda del Gat Noir, contra un Monarca més poderós que mai. Però van passant els dies i no apareix cap akumatitzat que atemoreixi París. Podria ser que el Monarca s'hagués rendit?",
+        "start": "2026-10-26T06:00:00+01:00",
+        "stop": "2026-10-26T06:11:59+01:00",
+        "title": "L'abella Maia",
+        "subtitle": "El foraster",
+        "description": "En Shelby s'ha despertat i s'ha trobat que algú s'havia menjat tots els bolets del seu racó preferit. L'únic que hi ha trobat és un rastre de bava, que no era seva! Segons en Barry, ha hagut de ser 'la terrible bèstia de més enllà del prat que devora tot el que troba al seu pas'! La Maia té clar que els monstres no existeixen i està ben decidida a sortir a investigar. L'hi acompanyes?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-26T01:25:06+01:00",
-        "stop": "2026-10-26T01:45:46+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Destrucció",
-        "description": "I si el pitjor malson de Ladybug es fes realitat? I si el Monarca obligués els kwamis a ensenyar-li on viu Ladybug? Els pobres l'haurien d'obeir per força. I si el Monarca es presentés a casa dels Dupain-Cheng, es podria escapar la Marinette?",
+        "start": "2026-10-26T06:11:59+01:00",
+        "stop": "2026-10-26T06:23:10+01:00",
+        "title": "L'abella Maia",
+        "subtitle": "Les abelles dorments",
+        "description": "Ahir a la nit la Maia i en Willi, sense saber-ho, van afegir pol·len de valeriana al sopar i avui tot el rusc dorm com un soc. El problema és que avui és el dia de la Gran Collita de les Corrioles, una flor que només s'obre un dia a l'any i que fa un pol·len deliciós! La Maia i en Willi hauran de fer la feina que només fan les abelles amb més experiència. Amb l'ajuda dels seus amics, és clar!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-26T00:31:59+01:00",
-        "stop": "2026-10-26T01:26:02+01:00",
-        "title": "Philippe Echaroux, il.luminar el món",
-        "subtitle": "Namíbia",
-        "description": "Philippe Echaroux és un fotògraf francès que es dedica a visitar poblacions remotes i amenaçades d'arreu del món per fer retrats i projectar-los en gran format sobre arbres o roques, a fi de donar a conèixer la lluita d'aquests pobles per sobreviure i per protegir el seu entorn. En aquesta ocasió viatja al nord de Namíbia per visitar els himbes, que viuen en unes condicions terribles, sobretot a causa d'una sequera que fa anys que dura.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/1/1784276124514.jpg"
+        "start": "2026-10-26T06:00:00+01:00",
+        "stop": "2026-10-26T06:03:24+01:00",
+        "title": "Videoclips",
+        "subtitle": "Land Of Coconuts - Surt del meu cap",
+        "description": "",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-10-26T01:26:02+01:00",
-        "stop": "2026-10-26T02:07:08+01:00",
-        "title": "El Crac",
-        "subtitle": "La gran doble vida",
-        "description": "Impressionada per l'actuació heroica del Joel durant l'atemptat i convençuda que li ha salvat la vida, la Carla cau rendida als seus peus. I la Sandra, commoguda pel missatge que el Joel li va enviar, li dóna una nova oportunitat de refer la relació. El Joel juga a dues bandes sense acabar de decidir-se, mentre un ciutadà anònim és el sofert receptor de tots els seus dubtes. ",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-10-26T06:03:24+01:00",
+        "stop": "2026-10-26T06:05:25+01:00",
+        "title": "Videoclips",
+        "subtitle": "Joan Masdéu - No en tens prou",
+        "description": "",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
