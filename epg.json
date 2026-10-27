@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-27T16:48:27.474542+00:00",
+  "updated": "2026-10-27T21:05:35.780864+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-27T17:29:22+01:00",
-        "stop": "2026-10-27T19:14:52+01:00",
-        "title": "La Selva",
-        "subtitle": "",
-        "description": "Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
+        "start": "2026-10-27T22:03:29+01:00",
+        "stop": "2026-10-27T22:11:16+01:00",
+        "title": "De primera!",
+        "subtitle": "- De problema a solució",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       },
       {
-        "start": "2026-10-27T19:14:52+01:00",
-        "stop": "2026-10-27T20:18:44+01:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "start": "2026-10-27T22:11:16+01:00",
+        "stop": "2026-10-27T23:48:07+01:00",
+        "title": "Nits Sense ficció",
+        "subtitle": "Justo Molinero: el poder d'una veu",
+        "description": "Durant més de quaranta anys, Justo Molinero ha construït un imperi mediàtic des dels marges. Fill d'una família humil d'Andalusia, mecànic, taxista i emprenedor incansable, va entendre abans que ningú el potencial d'una comunitat immigrant que no trobava la seva veu als mitjans tradicionals. El resultat va ser Radio TeleTaxi: un fenomen de masses capaç de mobilitzar milions de persones, omplir recintes i convertir el seu fundador en un dels comunicadors més influents del país.Ara, després d'haver cedit el control de l'emissora a la seva filla Andrea, Molinero mira enrere i revisita els moments que han marcat la seva trajectòria: l'ascens meteòric, la seva controvertida relació amb el poder polític, els grans èxits empresarials, les crisis que van posar-ho tot en risc i el preu personal d'una vida dedicada a mantenir-se al capdamunt.Amb accés íntim al protagonista i als qui han format part del seu univers, aquest documental retrata l'home darrere del mite i el llegat d'un personatge que va transformar per sempre la comunicació popular a Catalunya. Amb la participació, entre d'altres, d'Estopa, Los Chunguitos, Diana Navarro, María del Monte, Anna Simon, Lorena Castell, Gabriel Rufián, Jordi Pujol, José Montilla i Artur Mas, el documental recull els testimonis privilegiats de persones que van viure de prop un fenomen que va anar molt més enllà de la ràdio.",
+        "genre": "SÈRIE DOCUMENTAL",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-27T17:00:00+01:00",
-        "stop": "2026-10-27T18:30:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-27T22:05:00+01:00",
+        "stop": "2026-10-28T00:00:00+01:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       },
       {
-        "start": "2026-10-27T18:30:00+01:00",
-        "stop": "2026-10-27T20:00:00+01:00",
+        "start": "2026-10-28T00:00:00+01:00",
+        "stop": "2026-10-28T00:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-27T17:27:12+01:00",
-        "stop": "2026-10-27T17:55:00+01:00",
-        "title": "Top gols La Lliga",
-        "subtitle": "Jornada 10",
-        "description": "'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.",
+        "start": "2026-10-27T20:20:15+01:00",
+        "stop": "2026-10-27T22:25:57+01:00",
+        "title": "Futbol",
+        "subtitle": "CE Manresa-UE Sant Andreu / Copa / 1a eliminatoria",
+        "description": "Primera eliminatòria, a un sol partit, de la fase final de la competició futbolística. Els del Bages juguen a la Segona Federació i els barcelonins, a la Primera Federació.",
         "genre": "ESPECIALS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/9/0/1761575689109.jpg"
       },
       {
-        "start": "2026-10-27T17:55:00+01:00",
-        "stop": "2026-10-27T19:01:20+01:00",
-        "title": "Bàsquet",
-        "subtitle": "Balkan Botevgrad-Kids&Us Manresa / Eurocup / J5",
-        "description": "Els manresans sumen 2 victòries i 2 derrotes, i visiten la pista del Balkan, el cuer del grup, a l'Arena de Botevgrad de Bulgària.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"
+        "start": "2026-10-27T22:25:57+01:00",
+        "stop": "2026-10-27T23:00:12+01:00",
+        "title": "Esport Club",
+        "subtitle": "La gala de la Pilota d'or, jornada de Copa i tertúlia",
+        "description": "Alèxia i Harry Kane s'emporten la Pilota d'Or. El Barça, el club més premiat a la gala. Avui, jornada de Copa. Juguen Espanyol, Manresa, Sant Andreu, Girona i Europa. A la tertúlia ens acompanyen Arancha Rodríguez, Joan Poquí i Màrius Carol",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-27T17:44:54+01:00",
-        "stop": "2026-10-27T17:49:24+01:00",
-        "title": "Wonderblocks",
-        "subtitle": "L'esmorzar dels ossos",
-        "description": "Els tres ossos tenen problemes per preparar-se un bol de llet amb cereals per esmorzar perquè no saben en quin ordre han de fer les coses.",
+        "start": "2026-10-27T21:59:55+01:00",
+        "stop": "2026-10-27T22:20:53+01:00",
+        "title": "Bola de drac Z",
+        "subtitle": "En Gotrunks arriba al tercer nivell de força dels superguerrers",
+        "description": "El monstre Bu crea un portal que li permet sortir de la Sala de l'Esperit del Temps, converteix tothom en xocolata i se'ls cruspeix. En Gotrunks, incapaç d'ajudar els seus familiars i amics, arriba al tercer nivell de força dels superguerrers, aconsegueix sortir de la sala i jura que es venjarà del monstre per tot el que ha fet.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-27T17:49:24+01:00",
-        "stop": "2026-10-27T17:53:54+01:00",
-        "title": "Wonderblocks",
-        "subtitle": "Muuu! Cloc-cloc! Bee!",
-        "description": "La Vaca, l'Ovella i l'agent secret Gallina participen en un fantàstic concurs musical amb l'ajuda de la Som-hi i la Prou com a presentadores.",
+        "start": "2026-10-27T22:20:53+01:00",
+        "stop": "2026-10-27T22:43:18+01:00",
+        "title": "El detectiu Conan",
+        "subtitle": "El testimoni que no vol parlar",
+        "description": "Una velleta afirma que l'han fet caure daltabaix de l'escala. La policia busca testimonis al lloc dels fets, però l'única persona que sembla haver vist alguna cosa és un noi que, per algun motiu incomprensible, no vol parlar. Els Detectius Júnior, en Conan i la Haibara sospiten que té una raó de pes per no declarar i decideixen seguir-lo per descobrir què amaga.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-27T17:40:34+01:00",
-        "stop": "2026-10-27T18:02:49+01:00",
-        "title": "Quèquicom",
-        "subtitle": "Botox:el triomf de l'agulla",
-        "description": "La toxina botulínica és el verí més potent que hi ha a la natura. Tot i això, milers de dones se'n posen a la cara per treure's les arrugues. L'Anna Lasaga investiga com actua el botox i com s'aconsegueix convertir un verí en un medicament amb efectes terapèutics. El botox es va començar a utilitzar per tractar malalties com ara distonies o espasmes facials, perquè el seu mecanisme d'acció és la paralització del múscul on s'injecta. La neuròloga Fina Martí fa 20 anys que l'utilitza per tractar els seus pacients. L'ús en estètica a Espanya és més recent, del 2004. La doctora Sílvia Lleal ens explica què cal tenir en compte per aconseguir atenuar les arrugues sense perdre l'expressió. 'Quèquicom' parla també amb dues dones que han decidit posar-se botox per millorar el seu aspecte físic. Però en el món de l'estètica no tot és botox. El doctor Jaume Tufet ens ensenya com es pot remodelar una cara (o unes mans!) fent servir només agulles.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-10-27T22:02:45+01:00",
+        "stop": "2026-10-27T22:53:35+01:00",
+        "title": "La Renaixença",
+        "subtitle": "La pala de pàdel",
+        "description": "Verge Santa quina dèria que us ha agafat amb el pàdel! És més difícil trobar-se a algú que no jugui a aquest esport, que un bitllet de cinquanta euros a terra. Bé, parlem de la pala de pàdel, estri indispensable per poder-hi jugar. Ens visita en Damià Bonsfills, un pilot de simracing, el que la gent que ja tenim una edat coneixem com 'un crac jugant a la maquineta'. I passegem el gos pel projecte Biosfera 2, un intent de crear vida artificial que va sortir… regular.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-10-27T18:02:49+01:00",
-        "stop": "2026-10-27T18:27:41+01:00",
-        "title": "Quèquicom",
-        "subtitle": "Suor, salut i llàgrimes.",
-        "description": "La suor és una reacció del cos necessària per viure. Sense, moriríem ofegats. Hi ha persones, però, que la pateixen en excés: és el que s'anomena hiperhidrosi. L'Alba Casals és una persona que pateix hiperhidrosi. Li suen les mans en excés i això ha influït tant en la seva vida personal com professional. Quèquicom l'acompanya al dermatòleg perquè l'aconselli què pot fer, i descobreix que una de les solucions és l'operació.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-10-27T22:53:35+01:00",
+        "stop": "2026-10-28T00:17:51+01:00",
+        "title": "Pel·lícula",
+        "subtitle": "Bruc",
+        "description": "BRUC (bruc, 2011) Producció: Ikiru Films, Mesfilms inversions, Bruc-Laurion amb producció associada de Televisió de Catalunya, 2011Director: Daniel BenmayorGuió: Jordi Gasull i Patzi Amercua segons una història original de Jordi GasullDirector de fotografia: Juanmi AzpirozMúsica: Xavier CapellasIntèrprets: Juan José Ballesta (Bruc) Vicent Perez (Maraval), Santi Millán (De la Mata), Astrid Bergès-Frisbey (Glòria), Nicolas Giraud (Nouaille), Moussa Maaskri (Attab), Jérôme Le Banner (Baraton) i Francesc Albiol (Dr. Ballart)Quan la màquina de guerra més perfecta de tota la història descobreix que la seva primera derrota es deu a un jove rebel, Napoleó envia a sis mercenaris que han lluita en mil i unes batalles amb una sola missió: tallar-li el cap. Després d'assassinar als seus éssers estimats, el grup de mercenaris es disposa a buscar al jove en els indrets més màgics de la sagrada muntanya de Montserrat. El noi, al que anomenen Bruc pel lloc de la batalla, haurà de lluitar sol per sobreviure i venjar la seva família. Es converteix així en un símbol de llibertat i esperança per al seu país, el qual descobreix en ell a l'heroi que va aconseguir derrotar a l'exèrcit invencible de Napoleó Bonaparte.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/0/1757527576606.jpg"
       }
     ],
     "oca1": [],
