@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-28T00:30:10.214889+00:00",
+  "updated": "2026-10-28T06:17:21.572290+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,34 +43,25 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-28T01:08:13+01:00",
-        "stop": "2026-10-28T03:00:00+01:00",
-        "title": "Mésnit",
+        "start": "2026-10-28T06:00:00+01:00",
+        "stop": "2026-10-28T08:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       },
       {
-        "start": "2026-10-28T03:00:00+01:00",
-        "stop": "2026-10-28T04:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-28T08:00:00+01:00",
+        "stop": "2026-10-28T10:29:57+01:00",
+        "title": "Matins",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       }
     ],
     "324": [
-      {
-        "start": "2026-10-28T01:00:00+01:00",
-        "stop": "2026-10-28T06:00:00+01:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-10-28T06:00:00+01:00",
         "stop": "2026-10-28T08:00:00+01:00",
@@ -79,12 +70,21 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-28T08:00:00+01:00",
+        "stop": "2026-10-28T10:30:00+01:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-28T00:51:43+01:00",
-        "stop": "2026-10-28T02:09:36+01:00",
+        "start": "2026-10-28T06:26:59+01:00",
+        "stop": "2026-10-28T07:45:30+01:00",
         "title": "Onze",
         "subtitle": "Or culer; Mbappé, conflicte diplomàtic i 'Onzeclopèdia'",
         "description": "Sique Rodríguez, Fernando Polo, Irati Vidal i Ivan San Antonio comenten la gala de la pilota d'or i el conflicte que ha generat un comentari a les xarxes de Kylian Mbappé. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva.",
@@ -92,52 +92,52 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-10-28T02:09:36+01:00",
-        "stop": "2026-10-28T02:26:08+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-10-28T07:45:30+01:00",
+        "stop": "2026-10-28T10:21:10+01:00",
+        "title": "Futbol",
+        "subtitle": "CE Manresa-UE Sant Andreu / Copa / 1a eliminatoria",
+        "description": "Primera eliminatòria, a un sol partit, de la fase final de la competició futbolística. Els del Bages juguen a la Segona Federació i els barcelonins, a la Primera Federació.",
+        "genre": "ESPECIALS",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/0/1761575689109.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-28T01:12:02+01:00",
-        "stop": "2026-10-28T01:31:46+01:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Al palmell de la mà!",
-        "description": "El Projecte Mew ha començat la missió més important que té: trobar-se amb el Mew! Quan el Goh i els altres rastrejadors descobreixen que el Groudon i el Kyogre, en realitat, són el Mew, aquest Pokémon els mostra una visió de l'origen de l'univers. Tot seguit, comença a combatre contra ells amb uns atacs molt potents, però el Goh pensa que només vol jugar.",
+        "start": "2026-10-28T07:09:00+01:00",
+        "stop": "2026-10-28T07:19:33+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Marina: La Patrulla salva un Flounder ben fred",
+        "description": "El capità Turbot i en François han anat a explorar per l'oceà Àrtic, però se'ls ha congelat l'aigua del voltant del vaixell i s'han quedat encallats!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-28T01:31:46+01:00",
-        "stop": "2026-10-28T01:51:13+01:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Els herois tornen a estar junts!",
-        "description": "Ara que l'Ash ha guanyat el combat contra el Lionel i que el Goh ha tornat a trobar el Mew, els nostres amics s'han tornat a trobar. Però el Goh vol millorar com a entrenador i es planteja anar-se'n sol de viatge sense saber com reaccionarà l'Ash. Un dia, se'n van tots dos d'acampada amb la Chloe i es posen el dia de les seves experiències que han tingut amb els Pokémon, i llavors, surt el tema del viatge.",
+        "start": "2026-10-28T07:19:33+01:00",
+        "stop": "2026-10-28T07:30:07+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Marina: La Patrulla salva un narval",
+        "description": "L'Alex i l'alcaldessa veuen un animal molt estrany al mar que té una banya com si fos un unicorn. Què deu ser?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-28T00:17:53+01:00",
-        "stop": "2026-10-28T01:32:52+01:00",
-        "title": "El cas dels catalans",
-        "subtitle": "El cas dels catalans",
-        "description": "",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/4/1788500402242.jpg"
+        "start": "2026-10-28T06:28:14+01:00",
+        "stop": "2026-10-28T07:20:46+01:00",
+        "title": "El Foraster",
+        "subtitle": "Tivissa",
+        "description": "Tivissa, a la Ribera d'Ebre, és un poble d'orígens ibers i un dels municipis més extensos de Catalunya. En un indret amb una història i una geografia tan grans, en Quim no tindrà ni una estona de descans. O potser sí?Els que no paren quiets són la Fina i en Miquel, un matrimoni que amb les seves cadires de rodes elèctriques fan curses trepidants pels carrers del poble; o els esforçats arqueòlegs que, al poblat de Castellet de Banyoles, piquen i caven la terra a la recerca de restes del passat; o 'les bessonetes', dues joves expertes en Tik-Tok, que li descobriran al Quim el difícil món de les coreografies. Però a Tivissa també hi ha qui ha posat pausa al ritme frenètic de la vida. Com en Gerard, un cuiner d'alt nivell que ha trobat la felicitat fent bivac a dalt dels cims, un moment de pau i felicitat que compartirà amb en Quim. O en Severino, un pastor de cabres que fa dècades que viu entregat al seu ramat sense cap dia de descans, però que acceptarà la invitació d'El Foraster per fer una cosa que no ha pogut fer des que era un nen: veure el mar.",
+        "genre": "VARIETATS",
+        "image": ""
       },
       {
-        "start": "2026-10-28T01:32:52+01:00",
-        "stop": "2026-10-28T02:32:15+01:00",
-        "title": "300",
-        "subtitle": "La identitat",
-        "description": "Al segle XXI, les identitats són múltiples i canviants. Per això, vist des d'avui, sorprèn molt la intensitat i la persistència amb què s'ha mantingut la identitat catalana durant aquests últims tres segles. En aquest capítol de la sèrie '300' repassem com la memòria col·lectiva, una economia diferenciada, el manteniment d'una llengua pròpia i una societat civil imbatible han conduït fins al segle XXI aquesta identitat pròpia.Acabada la Guerra de Successió, els vencedors van construir una gran fortalesa a Barcelona, la Ciutadella. Aquesta fortalesa servia per vigilar la ciutat i per reprimir-ne les protestes, però també es va convertir en un recordatori permanent de la derrota a la guerra i de les constitucions perdudes. La Ciutadella, sense voler-ho, va mantenir la memòria històrica durant unes quantes generacions. I els barcelonins no van parar fins a derruir-la. La segona història explica les peripècies d'un jove revolucionari, en 'Josepet de la guitarra', obsessionat per dignificar la vida dels obrers. Aquell noi es va convertir en el creador dels cors de Clavé, un exemple de la xarxa impressionant d'associacions professionals, obreres i culturals que, durant el segle XIX, es van convertir en la massa social del catalanisme.Un cas molt especial eren els clubs esportius i, per damunt de tot, el Futbol Club Barcelona. Aquest club es va convertir en un símbol del catalanisme, especialment després que el govern de la dictadura de Primo de Rivera fes tancar el camp de les Corts, l'any 1925, a resultes de la primera xiulada que va rebre l'himne espanyol abans d'un partit.Per alguns historiadors, aquesta persistència de la identitat catalana és una mostra que el projecte espanyol no va aconseguir arrelar al Principat. Tot al revés de França, on el projecte unificador que va endegar l'estat a partir del segle XVII sí que va arraconar les velles identitats i les va substituir per la francesa. Viatgem a Occitània per comprovar què va passar.La",
-        "genre": "DOCUMENTAL DOCUDRAMA",
+        "start": "2026-10-28T07:20:46+01:00",
+        "stop": "2026-10-28T07:46:49+01:00",
+        "title": "Viure als Pirineus",
+        "subtitle": "Una cuinera dels Pirineus (Tardor - Hivern)",
+        "description": "Eva Martínez-Picó s'afanya a la cuina, ja que avui tindrà Can Jordi, el restaurant, ple de gom a gom. Mentrestant, els cavalls baixen cap a la Fira dels Mulats. És el dia que els ramaders d'Espinavell han de vendre els animals que han criat durant l'any, per poder subsistir econòmicament.L'Eva ens presenta el seu company, l'Àngel, que ens parla de la seva l'esperança que en el futur el seu fill, l'Èric, agafi el relleu com a ramader. De moment, sembla que sí, però l'economia actual no ho afavoreix gens, i de jovent que s'hi vulgui dedicar n'hi ha ben poc. A la fira treuen un bon preu dels mulats i guanyen un premi com a ramaders. De moment, l'Èric està satisfet amb el premi mentre que l'Eva pensa que ja porta la ramaderia a la sang.L'Eva veu culminada una altra de les seves propostes amb la marxa dels refugis de la capçalera del Ter destinada a fer conèixer els paisatges de la vall de Camprodon. Muntanyes que ella considera que són com el jardí de casa seva. Quan el fred s'instal·la, l'Eva i el seu pare ho aprofiten per fer turisme cultural intensiu. També fa recerques sobre la història de la Tria dels Mulats als arxius o bé se'n va d'excursió amb la seva germana pel gust de trepitjar la neu de les muntanyes. ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
