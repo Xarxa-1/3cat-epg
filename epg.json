@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-28T06:17:21.572290+00:00",
+  "updated": "2026-10-28T13:19:23.641778+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,18 +43,18 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-28T06:00:00+01:00",
-        "stop": "2026-10-28T08:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-28T10:31:33+01:00",
+        "stop": "2026-10-28T14:30:00+01:00",
+        "title": "Tot es mou",
         "subtitle": "",
         "description": "Sense Descripció",
         "genre": "",
         "image": ""
       },
       {
-        "start": "2026-10-28T08:00:00+01:00",
-        "stop": "2026-10-28T10:29:57+01:00",
-        "title": "Matins",
+        "start": "2026-10-28T14:30:00+01:00",
+        "stop": "2026-10-28T15:30:17+01:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
         "description": "Sense Descripció",
         "genre": "",
@@ -63,85 +63,95 @@
     ],
     "324": [
       {
-        "start": "2026-10-28T06:00:00+01:00",
-        "stop": "2026-10-28T08:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-28T13:55:00+01:00",
+        "stop": "2026-10-28T14:30:00+01:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       },
       {
-        "start": "2026-10-28T08:00:00+01:00",
-        "stop": "2026-10-28T10:30:00+01:00",
-        "title": "Matins",
+        "start": "2026-10-28T14:30:00+01:00",
+        "stop": "2026-10-28T15:30:00+01:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-28T06:26:59+01:00",
-        "stop": "2026-10-28T07:45:30+01:00",
-        "title": "Onze",
-        "subtitle": "Or culer; Mbappé, conflicte diplomàtic i 'Onzeclopèdia'",
-        "description": "Sique Rodríguez, Fernando Polo, Irati Vidal i Ivan San Antonio comenten la gala de la pilota d'or i el conflicte que ha generat un comentari a les xarxes de Kylian Mbappé. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-10-28T14:01:12+01:00",
+        "stop": "2026-10-28T16:03:10+01:00",
+        "title": "Esport Club",
+        "subtitle": "L'adeu de Manolo, 'Barçapèdia', l'NBA i tertúlia",
+        "description": "L'Espanyol destitueix Manolo González. Sergio García, entrenador interí. Ens ho explica Oriol Vidal. Parlem de 'Barçapèdia' amb un dels seus autors, Pedro Martín. L'NBA amb Jordi de Mas i tertúlia. Ens acompanyen Irati Vidal, Raúl Fuentes i Dani Senabre.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       },
       {
-        "start": "2026-10-28T07:45:30+01:00",
-        "stop": "2026-10-28T10:21:10+01:00",
-        "title": "Futbol",
-        "subtitle": "CE Manresa-UE Sant Andreu / Copa / 1a eliminatoria",
-        "description": "Primera eliminatòria, a un sol partit, de la fase final de la competició futbolística. Els del Bages juguen a la Segona Federació i els barcelonins, a la Primera Federació.",
-        "genre": "ESPECIALS",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/0/1761575689109.jpg"
+        "start": "2026-10-28T16:03:10+01:00",
+        "stop": "2026-10-28T16:29:04+01:00",
+        "title": "E3",
+        "subtitle": "T2xC3 - El Delta de l'Ebre Nord",
+        "description": "Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis de l'Ametlla de Mar, el Perelló, l'Ampolla i Deltebre, explorant un tram de costa de cales i coves amagades, les rústiques muscleres del Delta, i també, la singular punta del Fangar. Tot plegat, vivint diverses experiències i conversat amb tota mena de persones vinculades al mar i al territori. ",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1719825714219.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-28T07:09:00+01:00",
-        "stop": "2026-10-28T07:19:33+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla Marina: La Patrulla salva un Flounder ben fred",
-        "description": "El capità Turbot i en François han anat a explorar per l'oceà Àrtic, però se'ls ha congelat l'aigua del voltant del vaixell i s'han quedat encallats!",
+        "start": "2026-10-28T14:07:54+01:00",
+        "stop": "2026-10-28T14:30:12+01:00",
+        "title": "Bola de drac Z",
+        "subtitle": "En Gotrunks canta victòria abans d'hora! Jugant a voleibol amb el monstre Bu",
+        "description": "En Gotrunks, ara al tercer nivell de força dels superguerrers, inicia l'atac contra el monstre Bu en què, d'entrada, sembla un combat força igualat. El més important és que en Son Goten i en Trunks puguin eliminar en Bu abans que se'ls acabi el temps que dura la fusió. En Son Gohan, mentrestant, està a punt d'acabar el seu entrenament al món dels déus.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-28T07:19:33+01:00",
-        "stop": "2026-10-28T07:30:07+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla Marina: La Patrulla salva un narval",
-        "description": "L'Alex i l'alcaldessa veuen un animal molt estrany al mar que té una banya com si fos un unicorn. Què deu ser?",
+        "start": "2026-10-28T14:30:12+01:00",
+        "stop": "2026-10-28T14:49:05+01:00",
+        "title": "Bola de drac Z",
+        "subtitle": "S'ha completat la preparació! El naixement d'un nou Son Gohan",
+        "description": "Just quan en Gotrunks està a punt de deixar anar el cop que destruirà per sempre el monstre Bu, s'acaben els efectes de la fusió i en Son Goten i en Trunks se separen. Mentrestant, al món dels déus, en Son Gohan ha acabat l'entrenament i queda clar que el que va anunciar el vell que va sortir de l'espasa Z era veritat. Acaba de néixer el nou Son Gohan!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-28T06:28:14+01:00",
-        "stop": "2026-10-28T07:20:46+01:00",
-        "title": "El Foraster",
-        "subtitle": "Tivissa",
-        "description": "Tivissa, a la Ribera d'Ebre, és un poble d'orígens ibers i un dels municipis més extensos de Catalunya. En un indret amb una història i una geografia tan grans, en Quim no tindrà ni una estona de descans. O potser sí?Els que no paren quiets són la Fina i en Miquel, un matrimoni que amb les seves cadires de rodes elèctriques fan curses trepidants pels carrers del poble; o els esforçats arqueòlegs que, al poblat de Castellet de Banyoles, piquen i caven la terra a la recerca de restes del passat; o 'les bessonetes', dues joves expertes en Tik-Tok, que li descobriran al Quim el difícil món de les coreografies. Però a Tivissa també hi ha qui ha posat pausa al ritme frenètic de la vida. Com en Gerard, un cuiner d'alt nivell que ha trobat la felicitat fent bivac a dalt dels cims, un moment de pau i felicitat que compartirà amb en Quim. O en Severino, un pastor de cabres que fa dècades que viu entregat al seu ramat sense cap dia de descans, però que acceptarà la invitació d'El Foraster per fer una cosa que no ha pogut fer des que era un nen: veure el mar.",
-        "genre": "VARIETATS",
-        "image": ""
+        "start": "2026-10-28T14:01:41+01:00",
+        "stop": "2026-10-28T14:47:47+01:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 13",
+        "description": "Aquí hi trobaràs un resum dels quatre últims capítols: parlem del mirall, el pintallavis, la perxa d'atletisme i la caravana. També han vingut la Regina Rodríguez Sirvent, autora de 'Les calces al sol'; Impro Side Story, companyia de teatre musical improvisat; en Max Codinach, del grup Gavina.mp3, i en Lluís Bassaganya, responsable de l'exposició 'La retirada', de Camprodon. Després podeu veure els capítols sencers, on trobareu molts més moments igual d'interessants.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-10-28T07:20:46+01:00",
-        "stop": "2026-10-28T07:46:49+01:00",
-        "title": "Viure als Pirineus",
-        "subtitle": "Una cuinera dels Pirineus (Tardor - Hivern)",
-        "description": "Eva Martínez-Picó s'afanya a la cuina, ja que avui tindrà Can Jordi, el restaurant, ple de gom a gom. Mentrestant, els cavalls baixen cap a la Fira dels Mulats. És el dia que els ramaders d'Espinavell han de vendre els animals que han criat durant l'any, per poder subsistir econòmicament.L'Eva ens presenta el seu company, l'Àngel, que ens parla de la seva l'esperança que en el futur el seu fill, l'Èric, agafi el relleu com a ramader. De moment, sembla que sí, però l'economia actual no ho afavoreix gens, i de jovent que s'hi vulgui dedicar n'hi ha ben poc. A la fira treuen un bon preu dels mulats i guanyen un premi com a ramaders. De moment, l'Èric està satisfet amb el premi mentre que l'Eva pensa que ja porta la ramaderia a la sang.L'Eva veu culminada una altra de les seves propostes amb la marxa dels refugis de la capçalera del Ter destinada a fer conèixer els paisatges de la vall de Camprodon. Muntanyes que ella considera que són com el jardí de casa seva. Quan el fred s'instal·la, l'Eva i el seu pare ho aprofiten per fer turisme cultural intensiu. També fa recerques sobre la història de la Tria dels Mulats als arxius o bé se'n va d'excursió amb la seva germana pel gust de trepitjar la neu de les muntanyes. ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-10-28T14:47:47+01:00",
+        "stop": "2026-10-28T15:34:13+01:00",
+        "title": "La Renaixença",
+        "subtitle": "La capa",
+        "description": "Sabeu que la capa que porta Superman a l'última pel·lícula l'ha fet una empresa catalana? Només per això ja creiem just i necessari dedicar aquest capítol a la capa. De Catalunya a Hollywood només hi ha 50 metres de tela vermella. Abans la gent també portava capa, però no per volar, sinó per abrigar-se. Parlem amb la Judit Mascó, la primera supermodel catalana, que ens explica el que més por li feia durant les desfilades. I sortim a passejar l'Indi fins al 2010, quan es van comprar dues pizzes per 10.000 bitcoins.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
-    "oca1": [],
+    "oca1": [
+      {
+        "start": "2026-10-28T13:55:00+01:00",
+        "stop": "2026-10-28T14:29:55+01:00",
+        "title": "El ministre Puente compareix per informar de l'accident de trens a Toledo",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/6/1793190462961.jpg"
+      }
+    ],
     "oca2": [],
     "oca3": [],
     "oca4": []
