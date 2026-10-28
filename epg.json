@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-28T18:58:06.235238+00:00",
+  "updated": "2026-10-28T22:58:52.595869+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,18 +43,18 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-28T16:27:50+01:00",
-        "stop": "2026-10-28T20:30:00+01:00",
-        "title": "La Selva",
+        "start": "2026-10-28T22:06:40+01:00",
+        "stop": "2026-10-28T23:59:59+01:00",
+        "title": "ESPECIAL INFORMATIU",
         "subtitle": "",
         "description": "Sense Descripció",
         "genre": "",
         "image": ""
       },
       {
-        "start": "2026-10-28T20:30:00+01:00",
-        "stop": "2026-10-28T21:00:00+01:00",
-        "title": "Avanç Informatiu",
+        "start": "2026-10-28T23:59:59+01:00",
+        "stop": "2026-10-29T01:29:59+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Sense Descripció",
         "genre": "",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-10-28T18:30:00+01:00",
-        "stop": "2026-10-28T20:00:00+01:00",
+        "start": "2026-10-28T23:30:00+01:00",
+        "stop": "2026-10-29T00:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-28T20:00:00+01:00",
-        "stop": "2026-10-28T21:00:00+01:00",
+        "start": "2026-10-29T00:30:00+01:00",
+        "stop": "2026-10-29T01:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-28T19:46:32+01:00",
-        "stop": "2026-10-28T20:40:52+01:00",
-        "title": "Futbol",
-        "subtitle": "- Bayern de Múnic-Reial Madrid CF / Champions League / J3",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
+        "start": "2026-10-28T23:00:08+01:00",
+        "stop": "2026-10-29T00:30:58+01:00",
+        "title": "Onze",
+        "subtitle": "Toca aixecar-se; 'El Colegiado' i 'El Predicador'",
+        "description": "Lluís Carrasco, Joan Poquí, Laia Tudel i Jordi Martí parlen sobre l'estat d'ànim blaugrana després de les dues derrotes en una setmana. En Joan Fàbregas repassa algunes accions polèmiques dels partits de copa i l'Òscar Pérez-Dolz predica els manaments del bon culer.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-10-28T20:40:52+01:00",
-        "stop": "2026-10-28T22:42:22+01:00",
-        "title": "Bàsquet",
-        "subtitle": "NHSZ Szolnoki-FIATC Girona / Fiba Europe Cup / J4",
-        "description": "Els gironins, líders de grup, visiten Hongria amb l'objectiu de sumar la quarta victòria en quatre jornades.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"
+        "start": "2026-10-29T00:30:58+01:00",
+        "stop": "2026-10-29T00:51:13+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-28T20:00:00+01:00",
-        "stop": "2026-10-28T20:17:46+01:00",
-        "title": "InfoK",
-        "subtitle": "",
-        "description": "Us explicarem que hi ha hagut un greu accident de tren a Toledo. Dos trens d'Alta velocitat han xocat aquest matí i han mort moltes persones.S'investiguen les causes de l'accident per evitar que es pugui repetir mai més.I avui també us parlarem d'una feina molt especial.Cuiden d'una mare orangutan i de la seva petita cria, d'un lleó vellet o d'un còndor lesionat. Son veterinaris i treballen en un zoo dels Estats Units. Ens han explicat com és un dia normal de la seva feina.I repassarem la gran festa de les pilotes d'or. Lamine va tornar a ser escollit millor jugador jove. I Alèxia Putellas va guanyar la seva tercera pilota com a millor jugadora del món. Al recollir-la va tenir unes paraules d'agraïment per a l'afició blaugrana.",
-        "genre": "INFORMATIU DIÀRI",
+        "start": "2026-10-28T23:47:27+01:00",
+        "stop": "2026-10-29T00:08:57+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els óssos polars no ballen",
+        "description": "En plena missió per la regió àrtica, en Chris i en Martin han vist com el malvat Zach capturava una cria de morsa i una d'ós polar per al seu nou espectacle. Per salvar-les, els nostres amics hauran d'aprendre els secrets de les morses... i moltes coses més! L'Aviva ja els té preparats, els Vestits de Poder Animal, però per activar-los primer han de tocar els animals! Que no els passi res!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-28T20:17:46+01:00",
-        "stop": "2026-10-28T20:39:04+01:00",
-        "title": "Henry Danger",
-        "subtitle": "Els invasors de l'espai, primera part",
-        "description": "Quan un intrús pren el control d'una estació espacial i segresta uns astronautes, el Capità Man i en Henry es preparen per a una missió fora d'aquest món.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-10-29T00:08:57+01:00",
+        "stop": "2026-10-29T00:29:57+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els castors constructors",
+        "description": "Tot fent piragüisme pels rius nord-americans, els germans Kratt han fet malbé la presa d'una família de castors. Ara els hauran d'ajudar a refer-la i s'adonaran del que són capaços. Hi ha un munt d'animals que viuen a l'estany que es forma gràcies a la presa dels castors, com ara els talps de musell estrellat, les granotes bramadores, els ànecs carolins... Els vols conèixer?!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-28T19:48:19+01:00",
-        "stop": "2026-10-28T20:33:47+01:00",
-        "title": "Arxipèlag blau",
-        "subtitle": "Costa rocosa",
-        "description": "En aquest capítol d''Arxipèlag blau' recorrerem les costes rocoses, des de la part emergida on crien corbs marins i virots, fins als fons coral·lígens. Miquel Salamanca ens presentarà aquest món acolorit i divers. Als primers metres hi trobem les criatures adaptades al moviment continu de l'aigua a la vorera, com els peixos de la família dels blènnids, pegellides, crancs, anemones i gambetes. Als fons de roca les espècies i comunitats van canviant a mesura que ens endisem i varia la llum i la temperatura. Coneixerem com es reprodueixen peixos com els tords, els fadrins, les tutes o els anfosos. Unes imatges úniques ens mostraran les diverses estratègies que tenen els depredadors, com els déntols, anfosos, sirvioles, palomides, espets, tonyines, virots..., per capturar els bancs de peixos petits com els gerrets, les bogues o les sardines. Per finalitzar, ens endinsarem a les aigües de la reserva marina i parc natural de Llevant amb Gàdor Muntaner, guiada pel fotògraf i documentalista Agustí Torres, gran coneixedor d'aquest espai i membre de l'equip d''Arxipèlag blau'.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-10-28T23:49:05+01:00",
+        "stop": "2026-10-29T01:39:18+01:00",
+        "title": "Pel·lícula",
+        "subtitle": "Hotel Bombai",
+        "description": "HOTEL BOMBAI 'Hotel Mumbai'Direcció: Anthony MarasGuió: John Collee, Anthony MarasProducció: A Hamilton and Electric Pictures Production, American Entertainment Investors, Double Guess, Screen Australia, ScreenWest, South Australian Film Corporation, Thunder Road Pictures, Xeitgeist Entertainment GroupAny: 2018Durada: 125País: AustràliaMúsica: Volker BertelmannFotografia: Nick MatthewsIntèrprets: Armie Hammer, Dev Patel, Jason Isaacs, Nazanin Boniadi, Angus McLaren, Anupam Kher, Natasha Liu Bordizzo, Tilda Cobham-Hervey, Suhail Nayyar, Rodney Afif, Zenia Starr, Nagesh Bhonsle, Sachin Joab, Alex Pinder, Adithi Kalkunte, Gaurav Paswala, Ansuya Nathan, Yulian Shchukin, Abhiroy Singh, Devyani CmBombai, 2008. Els hostes de l'hotel Taj Mahal Palace viuen moments de terror. Un grup de terroristes pakistanesos envaeix el lloc i manté les persones com a ostatges durant 68 hores. Desesperats, un grup de funcionaris i hostes prenen coratge per provar de revertir la situació.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/6/1757512896962.jpg"
       },
       {
-        "start": "2026-10-28T20:33:47+01:00",
-        "stop": "2026-10-28T20:59:51+01:00",
-        "title": "Els hotels més remots del món",
-        "subtitle": "Tree hotel",
-        "description": "El Kent, el fundador, la seva dona Brita, i la seva filla Sofia, tots nascuts en un poble veí, són els fundadors i els amfitrions acollidors d'aquest extraordinari hotel. Actualment l'Hotel dels arbres compta amb 7 cabanes, de les més luxoses a les més exuberants, totes creades per grans noms de l'arquitectura sueca. El concepte clau d'aquest lloc és l'harmonia amb la natura: aïllats a les seves cabanes a les capçades dels arbres, els hostes perden gradualment la seva concepció urbana i es deixen endur pel paisatge.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-10-29T01:39:18+01:00",
+        "stop": "2026-10-29T02:06:40+01:00",
+        "title": "3 DIES D'AGOST",
+        "subtitle": "La fàbrica d'explosius",
+        "description": "1r episodi: '16A: la fàbrica d'explosius' El primer episodi posa al dia les informacions que hi ha sobre la casa d'Alcanar, on els terroristes fabricaven els explosius, i que va esclatar la nit del 16 d'agost del 2017. Diversos analistes, criminòlegs i policies expliquen com es va formar la cèl·lula terrorista i com funciona el sistema de reclutament d'Estat Islàmic. ",
+        "genre": "ESPECIALS INFORMATIUS",
         "image": ""
       }
     ],
