@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-28T13:19:23.641778+00:00",
+  "updated": "2026-10-28T18:58:06.235238+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,18 +43,18 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-28T10:31:33+01:00",
-        "stop": "2026-10-28T14:30:00+01:00",
-        "title": "Tot es mou",
+        "start": "2026-10-28T16:27:50+01:00",
+        "stop": "2026-10-28T20:30:00+01:00",
+        "title": "La Selva",
         "subtitle": "",
         "description": "Sense Descripció",
         "genre": "",
         "image": ""
       },
       {
-        "start": "2026-10-28T14:30:00+01:00",
-        "stop": "2026-10-28T15:30:17+01:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-10-28T20:30:00+01:00",
+        "stop": "2026-10-28T21:00:00+01:00",
+        "title": "Avanç Informatiu",
         "subtitle": "",
         "description": "Sense Descripció",
         "genre": "",
@@ -63,95 +63,85 @@
     ],
     "324": [
       {
-        "start": "2026-10-28T13:55:00+01:00",
-        "stop": "2026-10-28T14:30:00+01:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-10-28T18:30:00+01:00",
+        "stop": "2026-10-28T20:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-28T14:30:00+01:00",
-        "stop": "2026-10-28T15:30:00+01:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-10-28T20:00:00+01:00",
+        "stop": "2026-10-28T21:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-28T14:01:12+01:00",
-        "stop": "2026-10-28T16:03:10+01:00",
-        "title": "Esport Club",
-        "subtitle": "L'adeu de Manolo, 'Barçapèdia', l'NBA i tertúlia",
-        "description": "L'Espanyol destitueix Manolo González. Sergio García, entrenador interí. Ens ho explica Oriol Vidal. Parlem de 'Barçapèdia' amb un dels seus autors, Pedro Martín. L'NBA amb Jordi de Mas i tertúlia. Ens acompanyen Irati Vidal, Raúl Fuentes i Dani Senabre.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-10-28T19:46:32+01:00",
+        "stop": "2026-10-28T20:40:52+01:00",
+        "title": "Futbol",
+        "subtitle": "- Bayern de Múnic-Reial Madrid CF / Champions League / J3",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       },
       {
-        "start": "2026-10-28T16:03:10+01:00",
-        "stop": "2026-10-28T16:29:04+01:00",
-        "title": "E3",
-        "subtitle": "T2xC3 - El Delta de l'Ebre Nord",
-        "description": "Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis de l'Ametlla de Mar, el Perelló, l'Ampolla i Deltebre, explorant un tram de costa de cales i coves amagades, les rústiques muscleres del Delta, i també, la singular punta del Fangar. Tot plegat, vivint diverses experiències i conversat amb tota mena de persones vinculades al mar i al territori. ",
-        "genre": "REPORTATGES",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1719825714219.jpg"
+        "start": "2026-10-28T20:40:52+01:00",
+        "stop": "2026-10-28T22:42:22+01:00",
+        "title": "Bàsquet",
+        "subtitle": "NHSZ Szolnoki-FIATC Girona / Fiba Europe Cup / J4",
+        "description": "Els gironins, líders de grup, visiten Hongria amb l'objectiu de sumar la quarta victòria en quatre jornades.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-28T14:07:54+01:00",
-        "stop": "2026-10-28T14:30:12+01:00",
-        "title": "Bola de drac Z",
-        "subtitle": "En Gotrunks canta victòria abans d'hora! Jugant a voleibol amb el monstre Bu",
-        "description": "En Gotrunks, ara al tercer nivell de força dels superguerrers, inicia l'atac contra el monstre Bu en què, d'entrada, sembla un combat força igualat. El més important és que en Son Goten i en Trunks puguin eliminar en Bu abans que se'ls acabi el temps que dura la fusió. En Son Gohan, mentrestant, està a punt d'acabar el seu entrenament al món dels déus.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-28T20:00:00+01:00",
+        "stop": "2026-10-28T20:17:46+01:00",
+        "title": "InfoK",
+        "subtitle": "",
+        "description": "Us explicarem que hi ha hagut un greu accident de tren a Toledo. Dos trens d'Alta velocitat han xocat aquest matí i han mort moltes persones.S'investiguen les causes de l'accident per evitar que es pugui repetir mai més.I avui també us parlarem d'una feina molt especial.Cuiden d'una mare orangutan i de la seva petita cria, d'un lleó vellet o d'un còndor lesionat. Son veterinaris i treballen en un zoo dels Estats Units. Ens han explicat com és un dia normal de la seva feina.I repassarem la gran festa de les pilotes d'or. Lamine va tornar a ser escollit millor jugador jove. I Alèxia Putellas va guanyar la seva tercera pilota com a millor jugadora del món. Al recollir-la va tenir unes paraules d'agraïment per a l'afició blaugrana.",
+        "genre": "INFORMATIU DIÀRI",
         "image": ""
       },
       {
-        "start": "2026-10-28T14:30:12+01:00",
-        "stop": "2026-10-28T14:49:05+01:00",
-        "title": "Bola de drac Z",
-        "subtitle": "S'ha completat la preparació! El naixement d'un nou Son Gohan",
-        "description": "Just quan en Gotrunks està a punt de deixar anar el cop que destruirà per sempre el monstre Bu, s'acaben els efectes de la fusió i en Son Goten i en Trunks se separen. Mentrestant, al món dels déus, en Son Gohan ha acabat l'entrenament i queda clar que el que va anunciar el vell que va sortir de l'espasa Z era veritat. Acaba de néixer el nou Son Gohan!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-28T20:17:46+01:00",
+        "stop": "2026-10-28T20:39:04+01:00",
+        "title": "Henry Danger",
+        "subtitle": "Els invasors de l'espai, primera part",
+        "description": "Quan un intrús pren el control d'una estació espacial i segresta uns astronautes, el Capità Man i en Henry es preparen per a una missió fora d'aquest món.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-28T14:01:41+01:00",
-        "stop": "2026-10-28T14:47:47+01:00",
-        "title": "La Renaixença",
-        "subtitle": "Millors moments - setmana 13",
-        "description": "Aquí hi trobaràs un resum dels quatre últims capítols: parlem del mirall, el pintallavis, la perxa d'atletisme i la caravana. També han vingut la Regina Rodríguez Sirvent, autora de 'Les calces al sol'; Impro Side Story, companyia de teatre musical improvisat; en Max Codinach, del grup Gavina.mp3, i en Lluís Bassaganya, responsable de l'exposició 'La retirada', de Camprodon. Després podeu veure els capítols sencers, on trobareu molts més moments igual d'interessants.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-10-28T19:48:19+01:00",
+        "stop": "2026-10-28T20:33:47+01:00",
+        "title": "Arxipèlag blau",
+        "subtitle": "Costa rocosa",
+        "description": "En aquest capítol d''Arxipèlag blau' recorrerem les costes rocoses, des de la part emergida on crien corbs marins i virots, fins als fons coral·lígens. Miquel Salamanca ens presentarà aquest món acolorit i divers. Als primers metres hi trobem les criatures adaptades al moviment continu de l'aigua a la vorera, com els peixos de la família dels blènnids, pegellides, crancs, anemones i gambetes. Als fons de roca les espècies i comunitats van canviant a mesura que ens endisem i varia la llum i la temperatura. Coneixerem com es reprodueixen peixos com els tords, els fadrins, les tutes o els anfosos. Unes imatges úniques ens mostraran les diverses estratègies que tenen els depredadors, com els déntols, anfosos, sirvioles, palomides, espets, tonyines, virots..., per capturar els bancs de peixos petits com els gerrets, les bogues o les sardines. Per finalitzar, ens endinsarem a les aigües de la reserva marina i parc natural de Llevant amb Gàdor Muntaner, guiada pel fotògraf i documentalista Agustí Torres, gran coneixedor d'aquest espai i membre de l'equip d''Arxipèlag blau'.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-10-28T14:47:47+01:00",
-        "stop": "2026-10-28T15:34:13+01:00",
-        "title": "La Renaixença",
-        "subtitle": "La capa",
-        "description": "Sabeu que la capa que porta Superman a l'última pel·lícula l'ha fet una empresa catalana? Només per això ja creiem just i necessari dedicar aquest capítol a la capa. De Catalunya a Hollywood només hi ha 50 metres de tela vermella. Abans la gent també portava capa, però no per volar, sinó per abrigar-se. Parlem amb la Judit Mascó, la primera supermodel catalana, que ens explica el que més por li feia durant les desfilades. I sortim a passejar l'Indi fins al 2010, quan es van comprar dues pizzes per 10.000 bitcoins.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-10-28T20:33:47+01:00",
+        "stop": "2026-10-28T20:59:51+01:00",
+        "title": "Els hotels més remots del món",
+        "subtitle": "Tree hotel",
+        "description": "El Kent, el fundador, la seva dona Brita, i la seva filla Sofia, tots nascuts en un poble veí, són els fundadors i els amfitrions acollidors d'aquest extraordinari hotel. Actualment l'Hotel dels arbres compta amb 7 cabanes, de les més luxoses a les més exuberants, totes creades per grans noms de l'arquitectura sueca. El concepte clau d'aquest lloc és l'harmonia amb la natura: aïllats a les seves cabanes a les capçades dels arbres, els hostes perden gradualment la seva concepció urbana i es deixen endur pel paisatge.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-10-28T13:55:00+01:00",
-        "stop": "2026-10-28T14:29:55+01:00",
-        "title": "El ministre Puente compareix per informar de l'accident de trens a Toledo",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/6/1793190462961.jpg"
-      }
-    ],
+    "oca1": [],
     "oca2": [],
     "oca3": [],
     "oca4": []
