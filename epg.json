@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-29T15:33:00.511575+00:00",
+  "updated": "2026-10-29T20:35:58.382836+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,105 +43,115 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-29T16:06:27+01:00",
-        "stop": "2026-10-29T16:43:45+01:00",
-        "title": "Com si fos ahir",
+        "start": "2026-10-29T21:00:00+01:00",
+        "stop": "2026-10-29T22:00:12+01:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "En Sam busca refugi en la Sílvia per un dolor que ella interpreta completament malament. La doble vida de la Lena sorprèn en Valeri, però també pot salvar en Carles de la venjança de la Marga. I el secret de la Cèlia comença a esquerdar la relació amb en Quique i l'enfronta a una part d'ella mateixa que creia enterrada.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-29T16:34:32+01:00",
-        "stop": "2026-10-29T17:11:01+01:00",
-        "title": "La Riera",
-        "subtitle": "",
-        "description": "Una coneguda de la Nora es presenta a can Riera. És una noia que coneix tots els seus secrets. Al restaurant hi ha una emergència que posa a prova la vàlua d'en Lluís.I la Lídia està rabiosa amb en Claudi per culpa del negoci que li ha 'robat'.",
-        "genre": "TELENOVEL·LA",
+        "start": "2026-10-29T22:00:12+01:00",
+        "stop": "2026-10-29T22:08:47+01:00",
+        "title": "Descobrint l'èxit",
+        "subtitle": "- El primer supermercat",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-29T16:00:00+01:00",
-        "stop": "2026-10-29T17:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-29T21:00:00+01:00",
+        "stop": "2026-10-29T22:05:00+01:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-10-29T17:00:00+01:00",
-        "stop": "2026-10-29T18:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-29T22:05:00+01:00",
+        "stop": "2026-10-30T00:00:00+01:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-29T15:55:04+01:00",
-        "stop": "2026-10-29T16:58:09+01:00",
-        "title": "Futbol sala",
-        "subtitle": "Barça-Semey / Champions League / J2 Main Round",
-        "description": "Després de la victòria en el debut, 6-1 contra el Minerva, els blaugranes s'enfronten ara a l'equip del Kazakhstan que va fundar-se fa només 3 anys.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/8/3/1793099713438.jpg"
+        "start": "2026-10-29T20:40:32+01:00",
+        "stop": "2026-10-29T23:00:00+01:00",
+        "title": "Futbol",
+        "subtitle": "AE Prat-Ath. Club / Copa / 1a eliminatoria",
+        "description": "Jornada històrica per al conjunt pratenc que disputa aquesta eliminatòria, a un sol partit, contra un rival de la Primera Divisió. Els del Baix Llobregat juguen a la Lliga Elit, la sisena categoria del futbol estatal. El partit forma part de la primera ronda a la fase final de la Copa del Rei.",
+        "genre": "ESPECIALS",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/0/1761575689109.jpg"
       },
       {
-        "start": "2026-10-29T16:58:09+01:00",
-        "stop": "2026-10-29T17:49:08+01:00",
-        "title": "Futbol sala",
-        "subtitle": "Barça-Semey / Champions League / J2 Main Round",
-        "description": "Després de la victòria en el debut, 6-1 contra el Minerva, els blaugranes s'enfronten ara a l'equip del Kazakhstan que va fundar-se fa només 3 anys.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/8/3/1793099713438.jpg"
+        "start": "2026-10-29T23:00:00+01:00",
+        "stop": "2026-10-30T00:31:00+01:00",
+        "title": "Onze",
+        "subtitle": "",
+        "description": "Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-29T16:28:38+01:00",
-        "stop": "2026-10-29T16:35:08+01:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Un os als núvols",
-        "description": "A la cabana, els Lèmmings organitzen una cursa contra rellotge amb dron. En Grizzy, que intentava fer la migdiada, els interromp la competició i pateix les represàlies dels rosegadors. Els Lèmmings l'expulsen de la cabana i en Grizzy cau sobre un temple dedicat al rei Mico. S'apodera dels atributs de l'estàtua i fa aparèixer un núvol màgic que pot controlar amb la ment. En Grizzy puja sobre el núvol i guanya la cursa als Lèmmings. Però un núvol que vola tan de pressa serà l'enveja de tothom...",
+        "start": "2026-10-29T21:21:52+01:00",
+        "stop": "2026-10-29T21:40:15+01:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Torna a la vida, Goku, pel bé de tot l'univers!",
+        "description": "Per evitar que el monstre Bu acabi matant en Son Gohan, el vell que va sortir de l'espasa Z se sacrifica i dóna la vida a en Son Goku perquè pugui tornar a la Terra. A més, amb les arracades del déu Neptú, en Son Goku es podrà fusionar amb algú altre de manera instantània. D'altra banda, l'Emma també permet tornar en Vegeta a la Terra per posar fi a en Bu.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-29T16:35:08+01:00",
-        "stop": "2026-10-29T16:41:44+01:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Una forta medicina",
-        "description": "Als Lèmmings els encanta el torró, però en Grizzy, a qui també li agrada molt, els el roba. Els rosegadors, moixos, en busquen més debades. En la seva cerca, però, descobreixen l'art dels punts d'energia en un antic llibre de medicina xinesa. Decidits a recuperar el seu torró costi el que costi, els Lèmmings activen els punts vitals d'en Grizzy, i el deixen completament encarcarat. Gràcies al llibre, l'os aconsegueix alliberar-se'n i, alhora, dominar la força!",
+        "start": "2026-10-29T21:40:15+01:00",
+        "stop": "2026-10-29T21:59:08+01:00",
+        "title": "Bola de drac Z",
+        "subtitle": "Quin és aquest estrany poder que posseeixen les arracades del déu Neptú?",
+        "description": "En Son Goku arriba a la Terra just a temps per salvar el planeta de la destrucció total, però quan està a punt de fusionar-se amb el seu fill gràcies a les arracades del déu Neptú, el monstre Bu l'absorbeix. Ara, l'únic que queda a la Terra per fusionar-se amb en Son Goku és ni més ni menys que el senyor Satan!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-29T15:47:21+01:00",
-        "stop": "2026-10-29T16:28:42+01:00",
-        "title": "Això no és una cançó",
-        "subtitle": "Let it be",
-        "description": "Això no és una cançó T2Sinopsi capítol 3: Let it be",
-        "genre": "ALTRES",
+        "start": "2026-10-29T21:08:59+01:00",
+        "stop": "2026-10-29T21:39:51+01:00",
+        "title": "L'un per l'altre",
+        "subtitle": "Recuperació",
+        "description": "L'escola Xapí rep la visita d'un inspector que certifica que el nivell de l'escola és lamentable. Tots els professors es veuen obligats a presentar-se a un examen. El Toni fa massa temps que no estudia i no es recorda de res. El Poppins diu que l'ajudarà a aprovar, encara que sigui amb mètodes poc legals.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       },
       {
-        "start": "2026-10-29T16:28:42+01:00",
-        "stop": "2026-10-29T17:15:00+01:00",
-        "title": "No pot ser!",
-        "subtitle": "Hackeig a la democràcia",
-        "description": "Nit de debat electoral, televisió encesa i mòbil a la mà. Acompanyat de Josep Maria Ganyet, Jordi Basté fa un seguiment del fact-cheking en directe que l'equip de Maldita.es realitza incansablement. En època de Fake News, parlem de qui les genera i què pretenen amb l'especialista Marta Peirano. Amb el consultor polític Xavier Tomàs descobrirem algunes de les pràctiques més fosques dels partits polítics a Facebook i veurem com l'estratègia de Cambridge Analytics amb el Brexit i Trump ha creuat fronteres. A Los Angeles parlarem amb el Dr. Robert Epstein, un dels especialistes més crítics a Google i encaparrat en demostrar com el gegant tecnològic manipula la democràcia. Per acabar, visitarem l'Agència Imagina per fer una granja de bots a un tuitaire ben actiu, Jair Domínguez.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-10-29T21:39:51+01:00",
+        "stop": "2026-10-29T22:02:18+01:00",
+        "title": "L'un per l'altre",
+        "subtitle": "L'avi fatxa",
+        "description": "En una de les fotos antigues que hi ha penjades a l'Hostal, descobreixen que un dels homes té la cara esborrada. Aquest home era l'avi matern del Toni, algú de qui mai es parla a casa seva. Investigant i remenant les golfes el Toni descobreix que el seu avi va ser un home amb un passat fosc durant la guerra civil i odiat per gairebé tothom.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       }
     ],
-    "oca1": [],
+    "oca1": [
+      {
+        "start": "2026-10-29T20:30:00+01:00",
+        "stop": "2026-10-29T22:29:55+01:00",
+        "title": "Handbol",
+        "subtitle": "- Aarhus-Barça / EHF Champions / J6",
+        "description": "El Barça vol tancar la primera fase de grups amb ple de victòries. Els danesos, que van perdre al Palau Blaugrana (39-28) es juguen la continuïtat a la gran competició europea.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"
+      }
+    ],
     "oca2": [],
     "oca3": [],
     "oca4": []
