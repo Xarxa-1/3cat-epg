@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-28T22:58:52.595869+00:00",
+  "updated": "2026-10-29T02:14:32.098075+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,19 +43,19 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-28T22:06:40+01:00",
-        "stop": "2026-10-28T23:59:59+01:00",
-        "title": "ESPECIAL INFORMATIU",
+        "start": "2026-10-29T00:01:59+01:00",
+        "stop": "2026-10-29T04:01:59+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Sense Descripció",
         "genre": "",
         "image": ""
       },
       {
-        "start": "2026-10-28T23:59:59+01:00",
-        "stop": "2026-10-29T01:29:59+01:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
+        "start": "2026-10-29T04:01:59+01:00",
+        "stop": "2026-10-29T04:49:33+01:00",
+        "title": "Cava de Blues",
+        "subtitle": "- Dani Nel·lo & Mario Cobo",
         "description": "Sense Descripció",
         "genre": "",
         "image": ""
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-10-28T23:30:00+01:00",
-        "stop": "2026-10-29T00:30:00+01:00",
+        "start": "2026-10-29T01:00:00+01:00",
+        "stop": "2026-10-29T06:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-29T00:30:00+01:00",
-        "stop": "2026-10-29T01:00:00+01:00",
+        "start": "2026-10-29T06:00:00+01:00",
+        "stop": "2026-10-29T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-28T23:00:08+01:00",
-        "stop": "2026-10-29T00:30:58+01:00",
-        "title": "Onze",
-        "subtitle": "Toca aixecar-se; 'El Colegiado' i 'El Predicador'",
-        "description": "Lluís Carrasco, Joan Poquí, Laia Tudel i Jordi Martí parlen sobre l'estat d'ànim blaugrana després de les dues derrotes en una setmana. En Joan Fàbregas repassa algunes accions polèmiques dels partits de copa i l'Òscar Pérez-Dolz predica els manaments del bon culer.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-10-29T02:40:05+01:00",
+        "stop": "2026-10-29T04:04:37+01:00",
+        "title": "Futbol sala",
+        "subtitle": "Barça-Minerva / Champions League / J1 Main Round",
+        "description": "Els blaugranes s'estrenen a la ronda principal de la Champions que es disputa a Lucenec, Eslovàquia. El Barça s'enfronta a l'equip de Berna, el conjunt suís més destacat de futbol sala.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/8/3/1793099713438.jpg"
       },
       {
-        "start": "2026-10-29T00:30:58+01:00",
-        "stop": "2026-10-29T00:51:13+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-10-29T04:04:37+01:00",
+        "stop": "2026-10-29T06:05:03+01:00",
+        "title": "Futbol",
+        "subtitle": "Bayern de Múnic-Reial Madrid CF / Champions League / J3",
+        "description": "Les bavareses sumen 4 punts i són quartes a la classificació. Les madrilenyes encara no han guanyat cap partit i en tenen 2.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-28T23:47:27+01:00",
-        "stop": "2026-10-29T00:08:57+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els óssos polars no ballen",
-        "description": "En plena missió per la regió àrtica, en Chris i en Martin han vist com el malvat Zach capturava una cria de morsa i una d'ós polar per al seu nou espectacle. Per salvar-les, els nostres amics hauran d'aprendre els secrets de les morses... i moltes coses més! L'Aviva ja els té preparats, els Vestits de Poder Animal, però per activar-los primer han de tocar els animals! Que no els passi res!",
+        "start": "2026-10-29T02:56:32+01:00",
+        "stop": "2026-10-29T03:18:07+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Confrontació",
+        "description": "Falta molt poc perquè s'acabi el curs i els alumnes han de triar què volen fer a partir de l'any que ve abans del consell escolar, un pas decisiu que determinarà el seu futur. Les encarregades de defensar les aspiracions de tots els alumnes de la classe són les noves delegades, la Lila i la Chloé. La Marinette i l'Adrien estan preocupats: què faran aquestes dues manipuladores perilloses que tothom es pensa que són tan bones persones?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-29T00:08:57+01:00",
-        "stop": "2026-10-29T00:29:57+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els castors constructors",
-        "description": "Tot fent piragüisme pels rius nord-americans, els germans Kratt han fet malbé la presa d'una família de castors. Ara els hauran d'ajudar a refer-la i s'adonaran del que són capaços. Hi ha un munt d'animals que viuen a l'estany que es forma gràcies a la presa dels castors, com ara els talps de musell estrellat, les granotes bramadores, els ànecs carolins... Els vols conèixer?!",
+        "start": "2026-10-29T03:18:07+01:00",
+        "stop": "2026-10-29T03:40:19+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Conspiració",
+        "description": "S'acosta final de curs i es prepara una revolta. Al Monarca no li queda temps ni té gaires alternatives: decideix implementar un pla que és perillós per la seva identitat secreta i extremament perillós per Ladybug i el Gat Noir, també. Sense saber-ho, el malvat es beneficiarà de l'ajuda de la Lila, que controla d'amagat la Chloé, més dolenta que mai. Pel que fa a la Marinette, no sap que l'Adrien no s'atreveix a explicar-li un terrible secret que podria fer perillar la seva relació.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-28T23:49:05+01:00",
-        "stop": "2026-10-29T01:39:18+01:00",
-        "title": "Pel·lícula",
-        "subtitle": "Hotel Bombai",
-        "description": "HOTEL BOMBAI 'Hotel Mumbai'Direcció: Anthony MarasGuió: John Collee, Anthony MarasProducció: A Hamilton and Electric Pictures Production, American Entertainment Investors, Double Guess, Screen Australia, ScreenWest, South Australian Film Corporation, Thunder Road Pictures, Xeitgeist Entertainment GroupAny: 2018Durada: 125País: AustràliaMúsica: Volker BertelmannFotografia: Nick MatthewsIntèrprets: Armie Hammer, Dev Patel, Jason Isaacs, Nazanin Boniadi, Angus McLaren, Anupam Kher, Natasha Liu Bordizzo, Tilda Cobham-Hervey, Suhail Nayyar, Rodney Afif, Zenia Starr, Nagesh Bhonsle, Sachin Joab, Alex Pinder, Adithi Kalkunte, Gaurav Paswala, Ansuya Nathan, Yulian Shchukin, Abhiroy Singh, Devyani CmBombai, 2008. Els hostes de l'hotel Taj Mahal Palace viuen moments de terror. Un grup de terroristes pakistanesos envaeix el lloc i manté les persones com a ostatges durant 68 hores. Desesperats, un grup de funcionaris i hostes prenen coratge per provar de revertir la situació.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/6/1757512896962.jpg"
+        "start": "2026-10-29T03:04:40+01:00",
+        "stop": "2026-10-29T03:48:57+01:00",
+        "title": "El llenguado",
+        "subtitle": "El parlar de Barcelona i els noms de la natura",
+        "description": "En Guillem Albà intenta aclarir, amb l'ajut de Ramon Solsona, si hi ha o no hi ha un català propi de Barcelona ciutat: l'acompanyen poetes, rumberos, monologuistes i veïns emprenyats. La Yolanda Sey, mentrestant, es demana d'on surten els noms de la natura: núvols i boires, plantes, ocells i escarbats. I de regal, uns refranys.",
+        "genre": "Docu-Entreteniment",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1716530089437.jpg"
       },
       {
-        "start": "2026-10-29T01:39:18+01:00",
-        "stop": "2026-10-29T02:06:40+01:00",
-        "title": "3 DIES D'AGOST",
-        "subtitle": "La fàbrica d'explosius",
-        "description": "1r episodi: '16A: la fàbrica d'explosius' El primer episodi posa al dia les informacions que hi ha sobre la casa d'Alcanar, on els terroristes fabricaven els explosius, i que va esclatar la nit del 16 d'agost del 2017. Diversos analistes, criminòlegs i policies expliquen com es va formar la cèl·lula terrorista i com funciona el sistema de reclutament d'Estat Islàmic. ",
-        "genre": "ESPECIALS INFORMATIUS",
-        "image": ""
+        "start": "2026-10-29T03:48:57+01:00",
+        "stop": "2026-10-29T04:31:08+01:00",
+        "title": "El llenguado",
+        "subtitle": "Els insults i viatge al Solsonès",
+        "description": "Ajudat pel lingüista Pau Vidal, però també de la Natza Farré o l'Adrià Pujol, en Guillem Albà es pregunta si hi ha insults veritablement ofensius en català. Parlem d'insults sexistes, de correcció política i de com insultaven grecs i romans...i mentrestant, la Yolanda Sey viatja al Solsonès, a la ratlla que separa el català oriental del català occidental. ",
+        "genre": "Docu-Entreteniment",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1716530089437.jpg"
       }
     ],
     "oca1": [],
