@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-30T12:50:47.912156+00:00",
+  "updated": "2026-10-30T18:22:27.582255+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,88 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-30T10:30:10+01:00",
-        "stop": "2026-10-30T13:55:00+01:00",
-        "title": "Tot es mou",
-        "subtitle": "",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
-        "genre": "MAGAZINE",
-        "image": ""
-      },
-      {
-        "start": "2026-10-30T13:55:00+01:00",
-        "stop": "2026-10-30T14:30:00+01:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-10-30T12:00:00+01:00",
-        "stop": "2026-10-30T13:55:00+01:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-10-30T13:55:00+01:00",
-        "stop": "2026-10-30T14:30:00+01:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
-      }
-    ],
-    "esport3": [
-      {
-        "start": "2026-10-30T12:57:01+01:00",
-        "stop": "2026-10-30T14:01:21+01:00",
-        "title": "Esport Club",
-        "subtitle": "Flick, Vila-real - Espanyol, Koge-Barça i tertúlia",
-        "description": "La roda de premsa de Hansi Flick en la prèvia del Barça-Alabès de demà dissabte. Última hora del partit Vila-real - Espanyol amb Imma Casares. El Barça femení, l'AE Prat i tertúlia. Avui ens acompanyen Laia Cervelló, David Sánchez i Nacho Peña.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
-      },
-      {
-        "start": "2026-10-30T14:01:21+01:00",
-        "stop": "2026-10-30T15:03:25+01:00",
-        "title": "Esport Club",
-        "subtitle": "Flick, Vila-real - Espanyol, Koge-Barça i tertúlia",
-        "description": "La roda de premsa de Hansi Flick en la prèvia del Barça-Alabès de demà dissabte. Última hora del partit Vila-real - Espanyol amb Imma Casares. El Barça femení, l'AE Prat i tertúlia. Avui ens acompanyen Laia Cervelló, David Sánchez i Nacho Peña.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
-      }
-    ],
-    "sx3": [
-      {
-        "start": "2026-10-30T13:48:32+01:00",
-        "stop": "2026-10-30T14:10:56+01:00",
-        "title": "El detectiu Conan",
-        "subtitle": "La Lliga de Detectius Júnior posa a prova el seu coratge",
-        "description": "La Lliga de Detectius Júnior visita un antic hospital encantat per trobar-hi fantasmes. Allà ja hi ha dos famosos buscadors de fantasmes que intentaran espantar en Conan i els seus amics. Al final, resulta que els fantasmes els havia creat un fugitiu de la llei que s'amagava a l'hospital.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      },
-      {
-        "start": "2026-10-30T14:10:56+01:00",
-        "stop": "2026-10-30T14:33:13+01:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Un duel entre iguals! En Vegeku contra el monstre Bu!",
-        "description": "De la fusió entre en Son Goku i en Vegeta en surt en Vegeku, el guerrer definitiu. Després d'acostumar-se a la nova forma del seu cos, en Vegeku comença a guanyar el monstre Bu, que decideix crear una bola d'energia per destrossar la Terra. En Vegeku, abans de transformar-se en superguerrer, intentarà evitar que la bola d'energia entri en contacte amb el nostre planeta.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
-      }
-    ],
-    "c33": [
-      {
-        "start": "2026-10-30T13:08:52+01:00",
-        "stop": "2026-10-30T14:03:05+01:00",
+        "start": "2026-10-30T19:16:20+01:00",
+        "stop": "2026-10-30T20:15:58+01:00",
         "title": "Atrapa'm si pots",
         "subtitle": "",
         "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
@@ -132,27 +52,97 @@
         "image": ""
       },
       {
-        "start": "2026-10-30T14:03:05+01:00",
-        "stop": "2026-10-30T14:49:34+01:00",
-        "title": "La Renaixença",
-        "subtitle": "Els dards",
-        "description": "De punteria se'n té o no se'n té. Alguna vegada aniria bé tenir-ne, d'altres seria millor que no en tinguessin. Ara, si participes en un espectacle de circ, tots esperem que en tinguin de punteria. El 1990 neix la Federació Catalana de Dards, i es reconeix aquesta pràctica com a esport. Avui, doncs, parlem dels dards. Ens visita la Júlia Truyol, actriu i membre de la companyia de teatre La Calòrica. I sortim a passejar en Tam, un gos de la Vall d'en Bas, per l'intent d'assassinat del papa Joan Pau II.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-10-30T20:15:58+01:00",
+        "stop": "2026-10-30T21:00:00+01:00",
+        "title": "Està passant",
+        "subtitle": "",
+        "description": "La Núria i la Natza ens parlen de l'actualitat de la setmana. El Marc Buxaderas media entre els vostres problemes i l'Alba Riera ens explica els millors culebrots.",
+        "genre": "GAGS. HUMOR",
+        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-10-30T18:30:00+01:00",
+        "stop": "2026-10-30T20:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-30T20:00:00+01:00",
+        "stop": "2026-10-30T21:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "esport3": [
+      {
+        "start": "2026-10-30T18:25:11+01:00",
+        "stop": "2026-10-30T20:04:23+01:00",
+        "title": "Pàdel",
+        "subtitle": "Pàdel / Campionat Catalunya / Final",
+        "description": "Esport3 t'ofereix les millors retransmissions esportives en directe. Viu l'esport amb nosaltres!",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/8/1697728797885.jpg"
+      },
+      {
+        "start": "2026-10-30T20:04:23+01:00",
+        "stop": "2026-10-30T20:23:58+01:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Hansi Flick / Prèvia Barça-Alabès / J11",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+      }
+    ],
+    "sx3": [
+      {
+        "start": "2026-10-30T19:04:21+01:00",
+        "stop": "2026-10-30T19:26:06+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "El Mim",
+        "description": "El Fred Heprèle, el pare de la Mylène, és mim i està a punt d'estrenar un espectacle a París, però el Chris, el seu suplent a l'obra, s'ho manega per quedar-se el paper que havia d'interpretar el Fred. L'Esfinx aprofita el disgust i la frustració del Fred per akumatitzar-lo i així aconseguir els Miraculus de Ladybug i Gat Noir. ",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
+      },
+      {
+        "start": "2026-10-30T19:26:06+01:00",
+        "stop": "2026-10-30T19:43:58+01:00",
+        "title": "InfoK",
+        "subtitle": "",
+        "description": "El panellot destructor amenaça l'Infok.Aquesta castanyada l'InfoK us explicarà com es rebel·len les ànimes a Sant Feliu Sasserra, investigarà una pedregada de castanyes al Maresme i dues inforeporteres de La Teatral del Masnou descobriran com es fan els efectes especials amb l'estudi català Gadget SFX. L'emissió del programa s'interromprà perquè el plató s'ensorra. La culpa la té un panellet de pinyons gegant que està fora de control. L'equip de l'InfoK haurà de refugiar-se als racons més foscos de la tele perquè el panellot destructor no els esclafi.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": ""
+      }
+    ],
+    "c33": [
+      {
+        "start": "2026-10-30T18:47:23+01:00",
+        "stop": "2026-10-30T20:07:55+01:00",
+        "title": "Els cavalls moren a l'alba",
+        "subtitle": "Els cavalls moren a l'alba",
+        "description": "'Els cavalls moren a l'alba' ( 2021)Una producció de HIRUKI FILMAK i ZAZPI T'ERDI, amb la col·laboració de Televisió de Catalunya,SA, el Departament de Cultura de la Generalitat i l' ICEC, amb el suport del Gobierno de Navarra, Huarte, Ajuntament de Barcelona i la Universitat Ramon Llull.Quan Ione, la directora de la pel·lícula, entra a viure a la casa dels difunts germans García, descobreix que les seves vides continuen latents en els objectes que van deixar. Un piano, centenars de dibuixos, milers de fotos o un munt de cassetes serveixen per a dibuixar els personatges d'aquest film. Antonio era dibuixant de còmics en l'editorial Bruguera, Rosita era cantant d'òpera i pianista. Juntament amb el seu germà Juanito, van convertir la seva llar en un espai de creació i ficció des del qual escapar de la realitat grisa de la dictadura franquista. Entre les parets de la seva casa, els García es van convertir en estrelles de cinema clàssic, soldats de la Segona Guerra Mundial, gànsters, astronautes, heroïnes de ciència-ficció, vaquers solitaris en un etern viatge a l'oest... la seva memòria alberga la història del segle XX. Anys més tard, ja amb nous habitants, la casa continua sent un lloc on la vida pot ser d'una altra manera.Equip:Direcció: Ione AteneaGuio: Ione Atenea, Diana ToucedoDirecció de fotografía: Ione AteneaMuntatge: Diana ToucedoEtalonatge: Lara VilanovaDiseny de so i mescles: Jordi RibasProductores Hiruki: Garazi Erburu, Ione AteneaProductors Zazpi T'erdi: Pello Gutiérrez, David AguilarProductores executives Hiruki Filmak: Garazi Erburu, Ione AteneaProductor executiu Zazpi T'erdi: Iñaki Sagastume",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1699075493011.jpg"
+      },
+      {
+        "start": "2026-10-30T20:07:55+01:00",
+        "stop": "2026-10-30T20:59:48+01:00",
+        "title": "Dibuixar pel canvi",
+        "subtitle": "India. Dibuixant una línia",
+        "description": "Rachita Taneja és la creadora de Sanitary Panels, una popular tira còmica amb figures de pal coneguda per la seva crítica sociopolítica que ha captivat els joves indis liberals. El desembre del 2020, la Fiscalia de l'Índia la va denunciar per tres de les seves vinyetes, cosa que la va portar a extremar les precaucions no només en el seu art, sinó també en la seva participació en aquest documental. La pel·lícula explora el món interior de la Rachita i la seva creativitat, representant una narrativa distòpica en què la llibertat d'expressió s'erosiona ràpidament. Aquest documental mostra la resistència d'una jove índia que s'enfronta a la persecució i a la censura amb un humor i una honestedat indestructibles.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
-    "oca2": [
-      {
-        "start": "2026-10-30T11:59:20+01:00",
-        "stop": "2026-10-30T12:29:15+01:00",
-        "title": "Roda de premsa del ministre Puente per l'accident de tren de Toledo",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/5/1793344419256.jpg"
-      }
-    ],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
