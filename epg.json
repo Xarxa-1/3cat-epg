@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-29T20:35:58.382836+00:00",
+  "updated": "2026-10-30T00:22:48.847780+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,115 +43,105 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-29T21:00:00+01:00",
-        "stop": "2026-10-29T22:00:12+01:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
-        "start": "2026-10-29T22:00:12+01:00",
-        "stop": "2026-10-29T22:08:47+01:00",
-        "title": "Descobrint l'èxit",
-        "subtitle": "- El primer supermercat",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-10-29T21:00:00+01:00",
-        "stop": "2026-10-29T22:05:00+01:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
-        "start": "2026-10-29T22:05:00+01:00",
-        "stop": "2026-10-30T00:00:00+01:00",
+        "start": "2026-10-30T00:48:28+01:00",
+        "stop": "2026-10-30T02:35:17+01:00",
         "title": "Mésnit",
         "subtitle": "",
         "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
         "genre": "DEBAT",
         "image": ""
+      },
+      {
+        "start": "2026-10-30T02:35:17+01:00",
+        "stop": "2026-10-30T04:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-10-30T01:00:00+01:00",
+        "stop": "2026-10-30T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-30T06:00:00+01:00",
+        "stop": "2026-10-30T08:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-29T20:40:32+01:00",
-        "stop": "2026-10-29T23:00:00+01:00",
-        "title": "Futbol",
-        "subtitle": "AE Prat-Ath. Club / Copa / 1a eliminatoria",
-        "description": "Jornada històrica per al conjunt pratenc que disputa aquesta eliminatòria, a un sol partit, contra un rival de la Primera Divisió. Els del Baix Llobregat juguen a la Lliga Elit, la sisena categoria del futbol estatal. El partit forma part de la primera ronda a la fase final de la Copa del Rei.",
-        "genre": "ESPECIALS",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/0/1761575689109.jpg"
-      },
-      {
-        "start": "2026-10-29T23:00:00+01:00",
-        "stop": "2026-10-30T00:31:00+01:00",
+        "start": "2026-10-30T00:49:47+01:00",
+        "stop": "2026-10-30T02:21:46+01:00",
         "title": "Onze",
-        "subtitle": "",
-        "description": "Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.",
+        "subtitle": "Ancelotti, esprem Raphinha; grada d'animació vetada i 'El consultori'",
+        "description": "David Bernabeu, Víctor Lozano, Gemma Mallorca i Jordi Costa discuteixen sobre la inclusió de Raphinha en la propera convocatòria del Brasil. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+      },
+      {
+        "start": "2026-10-30T02:21:46+01:00",
+        "stop": "2026-10-30T02:40:08+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-29T21:21:52+01:00",
-        "stop": "2026-10-29T21:40:15+01:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Torna a la vida, Goku, pel bé de tot l'univers!",
-        "description": "Per evitar que el monstre Bu acabi matant en Son Gohan, el vell que va sortir de l'espasa Z se sacrifica i dóna la vida a en Son Goku perquè pugui tornar a la Terra. A més, amb les arracades del déu Neptú, en Son Goku es podrà fusionar amb algú altre de manera instantània. D'altra banda, l'Emma també permet tornar en Vegeta a la Terra per posar fi a en Bu.",
+        "start": "2026-10-30T01:10:45+01:00",
+        "stop": "2026-10-30T01:30:42+01:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Controlant el poder del gel!",
+        "description": "Mentre els nostres herois exploren un bosc descobreixen una muntanya coberta de gel. De sobte, l'Oshawott ensopega i fa caure el seu Scalchop, que acaba vora la pota d'un Beartic gegant! El Beartic és amable, i els seus ulls tristos mostren que no vol fer mal a ningú, però necessita entrenament, de manera que l'Ash s'ofereix de fer-li un entrenament especial de tipus gel! L'Oshawott proposa al Beartic que, per començar, faci un Scalchop de gel, però després de dos intents fallits, el Beartic se sent molt frustrat i provoca una fissura al gel. L'Ash hi cau i es torça un turmell, però el Beartic controla el seu poder i el treu d'allà. L'Ash rep els primers auxilis d'en Brock i el Beartic es converteix en un mestre del gel davant dels ulls de tothom!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-29T21:40:15+01:00",
-        "stop": "2026-10-29T21:59:08+01:00",
-        "title": "Bola de drac Z",
-        "subtitle": "Quin és aquest estrany poder que posseeixen les arracades del déu Neptú?",
-        "description": "En Son Goku arriba a la Terra just a temps per salvar el planeta de la destrucció total, però quan està a punt de fusionar-se amb el seu fill gràcies a les arracades del déu Neptú, el monstre Bu l'absorbeix. Ara, l'únic que queda a la Terra per fusionar-se amb en Son Goku és ni més ni menys que el senyor Satan!",
+        "start": "2026-10-30T01:30:42+01:00",
+        "stop": "2026-10-30T01:50:09+01:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Un escamot digne d'admiració!",
+        "description": "Mentre continuen el viatge, els nostres herois veuen l'anunci d'un espectacle de l'Escamot de Bombers Squirtle. L'Ash hi reconeix el seu Squirtle, el líder de l'escamot, i fa sortir el Bulbasaur i el Charizard perquè vegin el seu amic. Tothom està molt emocionat per l'espectacle, i l'Squirtle està molt content quan veu l'Ash entre el públic. Però les malifetes del Team Rocket provoquen un malentès, i l'Squirtle s'empipa quan es troba amb l'Ash i els amics. Just quan sembla que s'ha trencat l'amistat, es declara un incendi, i els nostres herois ajunten forces amb l'Squirtle per apagar-lo. Recuperada l'amistat, l'Ash i l'Squirtle s'abracen i llavors l'escamot se'n va cap a una altra ciutat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-29T21:08:59+01:00",
-        "stop": "2026-10-29T21:39:51+01:00",
-        "title": "L'un per l'altre",
-        "subtitle": "Recuperació",
-        "description": "L'escola Xapí rep la visita d'un inspector que certifica que el nivell de l'escola és lamentable. Tots els professors es veuen obligats a presentar-se a un examen. El Toni fa massa temps que no estudia i no es recorda de res. El Poppins diu que l'ajudarà a aprovar, encara que sigui amb mètodes poc legals.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
-        "image": ""
+        "start": "2026-10-30T00:35:46+01:00",
+        "stop": "2026-10-30T01:34:09+01:00",
+        "title": "Maria del Mar",
+        "subtitle": "",
+        "description": "Maria del Mar Bonet és una de les icones de la nostra cultura. Cap cantant com ella ha aconseguit fer una carrera tant diversa i amb tantes complicitats, aquí i arreu. El documental 'Maria del Mar' és un retrat de com ha fet aquest viatge i d'on surt la seva inquietud i la seva força vital que l'ha mantingut als escenaris durant més de 50 anys. 'Maria del Mar' parteix del viatge que Bonet va fer a Cuba l'estiu passat per presentar el seu darrer disc, 'Ultramar', i a partir de la seva immersió a la vida de l'illa del Carib anem desgranant aquests 50 anys de carrera.Sota la direcció de Joan Lopez Lloret i amb guió del mateix López i el periodista musical Jordi Bianciotto, ens endinsem en tots aquests anys, a través de testimonis diversos, des del seu germà o els amics de la infància, fins a creadors tan diferents d'origen i generació com Martirio, Nacho Duato, Borja Penalba, Joan Manuel Serrat, Lluís Llach o Manolo García. Paral·lelament seguim de prop la preparació del concert a Cuba i la relació que des de fa pocs anys Bonet ha establert amb diversos músics cubans, com Jorge Reyes i José Maria Vitier, i les seves famílies.",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.3cat.cat/multimedia/jpg/8/3/1724415010338.jpg"
       },
       {
-        "start": "2026-10-29T21:39:51+01:00",
-        "stop": "2026-10-29T22:02:18+01:00",
-        "title": "L'un per l'altre",
-        "subtitle": "L'avi fatxa",
-        "description": "En una de les fotos antigues que hi ha penjades a l'Hostal, descobreixen que un dels homes té la cara esborrada. Aquest home era l'avi matern del Toni, algú de qui mai es parla a casa seva. Investigant i remenant les golfes el Toni descobreix que el seu avi va ser un home amb un passat fosc durant la guerra civil i odiat per gairebé tothom.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
+        "start": "2026-10-30T01:34:09+01:00",
+        "stop": "2026-10-30T02:26:07+01:00",
+        "title": "Dibuixar pel canvi",
+        "subtitle": "India. Dibuixant una línia",
+        "description": "Rachita Taneja és la creadora de Sanitary Panels, una popular tira còmica amb figures de pal coneguda per la seva crítica sociopolítica que ha captivat els joves indis liberals. El desembre del 2020, la Fiscalia de l'Índia la va denunciar per tres de les seves vinyetes, cosa que la va portar a extremar les precaucions no només en el seu art, sinó també en la seva participació en aquest documental. La pel·lícula explora el món interior de la Rachita i la seva creativitat, representant una narrativa distòpica en què la llibertat d'expressió s'erosiona ràpidament. Aquest documental mostra la resistència d'una jove índia que s'enfronta a la persecució i a la censura amb un humor i una honestedat indestructibles.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-10-29T20:30:00+01:00",
-        "stop": "2026-10-29T22:29:55+01:00",
-        "title": "Handbol",
-        "subtitle": "- Aarhus-Barça / EHF Champions / J6",
-        "description": "El Barça vol tancar la primera fase de grups amb ple de victòries. Els danesos, que van perdre al Palau Blaugrana (39-28) es juguen la continuïtat a la gran competició europea.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"
-      }
-    ],
+    "oca1": [],
     "oca2": [],
     "oca3": [],
     "oca4": []
