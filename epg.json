@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-30T18:22:27.582255+00:00",
+  "updated": "2026-10-30T22:32:53.394677+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-30T19:16:20+01:00",
-        "stop": "2026-10-30T20:15:58+01:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
-        "image": ""
+        "start": "2026-10-30T22:24:49+01:00",
+        "stop": "2026-10-30T23:35:38+01:00",
+        "title": "La Puntual",
+        "subtitle": "La Puntual: Mamma mia",
+        "description": "Ha arribat el dia de l'estrena de 'L'auca del senyor Esteve'. Catifa vermella, convidats especials, familiars i el retrobament amb els 33 finalistes del 'Laboratori'. Avui per primera vegada s'apujarà el teló de la producció per a la qual la nostra companyia s'ha estat preparant durant dos mesos. Viurem l'emoció de les hores prèvies, dels nervis entre bambolines i les abraçades de celebració finals.",
+        "genre": "VARIETATS",
+        "image": "https://img.ccma.cat/multimedia//jpg/7/8/1721226172787.jpg"
       },
       {
-        "start": "2026-10-30T20:15:58+01:00",
-        "stop": "2026-10-30T21:00:00+01:00",
-        "title": "Està passant",
-        "subtitle": "",
-        "description": "La Núria i la Natza ens parlen de l'actualitat de la setmana. El Marc Buxaderas media entre els vostres problemes i l'Alba Riera ens explica els millors culebrots.",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
+        "start": "2026-10-30T23:35:38+01:00",
+        "stop": "2026-10-30T23:43:51+01:00",
+        "title": "Ets i uts",
+        "subtitle": "Quan vam sobreviure",
+        "description": "El Roger i la Mònica coneixen el Victor Rojas, un pastor que viu al Cap de Creus seguint les seves pròpies normes. Fascinats per aquest estil de vida, el Roger i la Mònica intenten sobreviure un dia sencer sense l'ajuda del mòbil.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-30T18:30:00+01:00",
-        "stop": "2026-10-30T20:00:00+01:00",
+        "start": "2026-10-30T23:30:00+01:00",
+        "stop": "2026-10-31T00:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-30T20:00:00+01:00",
-        "stop": "2026-10-30T21:00:00+01:00",
+        "start": "2026-10-31T00:30:00+01:00",
+        "stop": "2026-10-31T01:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-30T18:25:11+01:00",
-        "stop": "2026-10-30T20:04:23+01:00",
-        "title": "Pàdel",
-        "subtitle": "Pàdel / Campionat Catalunya / Final",
-        "description": "Esport3 t'ofereix les millors retransmissions esportives en directe. Viu l'esport amb nosaltres!",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/8/1697728797885.jpg"
+        "start": "2026-10-30T23:00:00+01:00",
+        "stop": "2026-10-31T00:31:44+01:00",
+        "title": "Onze",
+        "subtitle": "Flick, missatge de tranquil·litat; el Vila-real-Espanyol; Delmàs, Fàbregas i Cazorla",
+        "description": "Míriam Riau condueix la tertúlia amb Lluís Carrasco, Laia Bonals, Juli Garcia i Santi Ovalle. Analitzem les paraules de Hansi Flick abans del Barça-Alabès de dissabte. Repassem el Vila-real-Espanyol, amb Sergio Garcia a la banqueta blanc-i-blava. Àlex Delmàs ens porta la clau del Barça-Alabès, Joan Fàbregas repassa l'actualitat arbitral i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla. ",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-10-30T20:04:23+01:00",
-        "stop": "2026-10-30T20:23:58+01:00",
-        "title": "Sala de Premsa",
-        "subtitle": "Hansi Flick / Prèvia Barça-Alabès / J11",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "start": "2026-10-31T00:31:44+01:00",
+        "stop": "2026-10-31T00:52:28+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-30T19:04:21+01:00",
-        "stop": "2026-10-30T19:26:06+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "El Mim",
-        "description": "El Fred Heprèle, el pare de la Mylène, és mim i està a punt d'estrenar un espectacle a París, però el Chris, el seu suplent a l'obra, s'ho manega per quedar-se el paper que havia d'interpretar el Fred. L'Esfinx aprofita el disgust i la frustració del Fred per akumatitzar-lo i així aconseguir els Miraculus de Ladybug i Gat Noir. ",
+        "start": "2026-10-30T23:26:23+01:00",
+        "stop": "2026-10-30T23:48:08+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Caminem per sobre l'aigua",
+        "description": "En Chris i en Martin són a Costa Rica intentant trobar un basilisc, un llangardaix capaç de caminar per sobre l'aigua, per incorporar aquest superpoder als seus vestits. De fet, els anirà molt bé per aturar la Donita Donata, que té intenció de guanyar el premi al millor dissenyador de barrets de París amb un barret de basilisc! Avui, les curses són a l'aigua!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-30T19:26:06+01:00",
-        "stop": "2026-10-30T19:43:58+01:00",
-        "title": "InfoK",
-        "subtitle": "",
-        "description": "El panellot destructor amenaça l'Infok.Aquesta castanyada l'InfoK us explicarà com es rebel·len les ànimes a Sant Feliu Sasserra, investigarà una pedregada de castanyes al Maresme i dues inforeporteres de La Teatral del Masnou descobriran com es fan els efectes especials amb l'estudi català Gadget SFX. L'emissió del programa s'interromprà perquè el plató s'ensorra. La culpa la té un panellet de pinyons gegant que està fora de control. L'equip de l'InfoK haurà de refugiar-se als racons més foscos de la tele perquè el panellot destructor no els esclafi.",
-        "genre": "INFORMATIU DIÀRI",
+        "start": "2026-10-30T23:48:08+01:00",
+        "stop": "2026-10-31T00:09:08+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Un elefant a casa",
+        "description": "En Chris i en Martin s'han trobat una cria d'elefant i l'han dut a la nau Tortuga perquè estigui fora de perill fins que trobin la seva manada. Aviat descobriran que les cries d'elefant poden arribar a ser molt trapelles, i que, si no troben aviat la mare, es poden quedar sense nau Tortuga! Sort que també n'aprendran moltes coses, dels elefants! Sobretot de la trompa! No t'ho perdis!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-30T18:47:23+01:00",
-        "stop": "2026-10-30T20:07:55+01:00",
-        "title": "Els cavalls moren a l'alba",
-        "subtitle": "Els cavalls moren a l'alba",
-        "description": "'Els cavalls moren a l'alba' ( 2021)Una producció de HIRUKI FILMAK i ZAZPI T'ERDI, amb la col·laboració de Televisió de Catalunya,SA, el Departament de Cultura de la Generalitat i l' ICEC, amb el suport del Gobierno de Navarra, Huarte, Ajuntament de Barcelona i la Universitat Ramon Llull.Quan Ione, la directora de la pel·lícula, entra a viure a la casa dels difunts germans García, descobreix que les seves vides continuen latents en els objectes que van deixar. Un piano, centenars de dibuixos, milers de fotos o un munt de cassetes serveixen per a dibuixar els personatges d'aquest film. Antonio era dibuixant de còmics en l'editorial Bruguera, Rosita era cantant d'òpera i pianista. Juntament amb el seu germà Juanito, van convertir la seva llar en un espai de creació i ficció des del qual escapar de la realitat grisa de la dictadura franquista. Entre les parets de la seva casa, els García es van convertir en estrelles de cinema clàssic, soldats de la Segona Guerra Mundial, gànsters, astronautes, heroïnes de ciència-ficció, vaquers solitaris en un etern viatge a l'oest... la seva memòria alberga la història del segle XX. Anys més tard, ja amb nous habitants, la casa continua sent un lloc on la vida pot ser d'una altra manera.Equip:Direcció: Ione AteneaGuio: Ione Atenea, Diana ToucedoDirecció de fotografía: Ione AteneaMuntatge: Diana ToucedoEtalonatge: Lara VilanovaDiseny de so i mescles: Jordi RibasProductores Hiruki: Garazi Erburu, Ione AteneaProductors Zazpi T'erdi: Pello Gutiérrez, David AguilarProductores executives Hiruki Filmak: Garazi Erburu, Ione AteneaProductor executiu Zazpi T'erdi: Iñaki Sagastume",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1699075493011.jpg"
+        "start": "2026-10-30T22:49:49+01:00",
+        "stop": "2026-10-30T23:57:18+01:00",
+        "title": "Teatre",
+        "subtitle": "Terrrífic!",
+        "description": "Terrrífic!El TricicleUn espectacle d'El Tricicle que, tal com ja ens tenen acostumats, ens ofereix diversió i diversitat, alhora que ens avisa sobre el que ens pot succeir en aquest espectacle, pensat per fer-nos passar, sense malícia, una mica de por.Taquicàrdies, angoixes, atacs d'histèria, tot és possible, però sense perdre aquest to que esl caracteritza com a especials i únics.Autors i actors: Joan Gràcia, Paco Mir, Carles SansProducció: OvídeoRealització TV: X. Manich",
+        "genre": "TEATRE",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/2/1761734354723.jpg"
       },
       {
-        "start": "2026-10-30T20:07:55+01:00",
-        "stop": "2026-10-30T20:59:48+01:00",
-        "title": "Dibuixar pel canvi",
-        "subtitle": "India. Dibuixant una línia",
-        "description": "Rachita Taneja és la creadora de Sanitary Panels, una popular tira còmica amb figures de pal coneguda per la seva crítica sociopolítica que ha captivat els joves indis liberals. El desembre del 2020, la Fiscalia de l'Índia la va denunciar per tres de les seves vinyetes, cosa que la va portar a extremar les precaucions no només en el seu art, sinó també en la seva participació en aquest documental. La pel·lícula explora el món interior de la Rachita i la seva creativitat, representant una narrativa distòpica en què la llibertat d'expressió s'erosiona ràpidament. Aquest documental mostra la resistència d'una jove índia que s'enfronta a la persecució i a la censura amb un humor i una honestedat indestructibles.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-10-30T23:57:18+01:00",
+        "stop": "2026-10-31T00:56:00+01:00",
+        "title": "Tricicle 40",
+        "subtitle": "Tricicle 40",
+        "description": "Aquesta és la història de tres nois de Barcelona que a l'inici dels anys 80 es van llençar als escenaris i van acabar revolucionant la comèdia catalana. La seva és una història d'audàcia, d'èxit, de perfeccionisme, d'amistat... I de milers i milers de gags. TRICICLE40 és el retrat vibrant i ple d'humor de la darrera gran companyia de teatre gestual, a punt d'abaixar el teló per darrera vegada. ",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/4/1735053735040.jpg"
       }
     ],
     "oca1": [],
