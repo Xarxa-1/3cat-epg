@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-30T00:22:48.847780+00:00",
+  "updated": "2026-10-30T06:09:17.086624+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,34 +43,25 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-30T00:48:28+01:00",
-        "stop": "2026-10-30T02:35:17+01:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
-      },
-      {
-        "start": "2026-10-30T02:35:17+01:00",
-        "stop": "2026-10-30T04:00:00+01:00",
+        "start": "2026-10-30T06:00:00+01:00",
+        "stop": "2026-10-30T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-30T08:00:00+01:00",
+        "stop": "2026-10-30T10:30:00+01:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
-      {
-        "start": "2026-10-30T01:00:00+01:00",
-        "stop": "2026-10-30T06:00:00+01:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
       {
         "start": "2026-10-30T06:00:00+01:00",
         "stop": "2026-10-30T08:00:00+01:00",
@@ -79,12 +70,21 @@
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-10-30T08:00:00+01:00",
+        "stop": "2026-10-30T10:30:00+01:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-10-30T00:49:47+01:00",
-        "stop": "2026-10-30T02:21:46+01:00",
+        "start": "2026-10-30T07:08:32+01:00",
+        "stop": "2026-10-30T08:41:40+01:00",
         "title": "Onze",
         "subtitle": "Ancelotti, esprem Raphinha; grada d'animació vetada i 'El consultori'",
         "description": "David Bernabeu, Víctor Lozano, Gemma Mallorca i Jordi Costa discuteixen sobre la inclusió de Raphinha en la propera convocatòria del Brasil. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.",
@@ -92,51 +92,51 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-10-30T02:21:46+01:00",
-        "stop": "2026-10-30T02:40:08+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-10-30T08:41:40+01:00",
+        "stop": "2026-10-30T10:09:06+01:00",
+        "title": "Handbol",
+        "subtitle": "Aarhus-Barça / EHF Champions / J6",
+        "description": "El Barça vol tancar la primera fase de grups amb ple de victòries. Els danesos, que van perdre al Palau Blaugrana (39-28) es juguen la continuïtat a la gran competició europea.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-30T01:10:45+01:00",
-        "stop": "2026-10-30T01:30:42+01:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Controlant el poder del gel!",
-        "description": "Mentre els nostres herois exploren un bosc descobreixen una muntanya coberta de gel. De sobte, l'Oshawott ensopega i fa caure el seu Scalchop, que acaba vora la pota d'un Beartic gegant! El Beartic és amable, i els seus ulls tristos mostren que no vol fer mal a ningú, però necessita entrenament, de manera que l'Ash s'ofereix de fer-li un entrenament especial de tipus gel! L'Oshawott proposa al Beartic que, per començar, faci un Scalchop de gel, però després de dos intents fallits, el Beartic se sent molt frustrat i provoca una fissura al gel. L'Ash hi cau i es torça un turmell, però el Beartic controla el seu poder i el treu d'allà. L'Ash rep els primers auxilis d'en Brock i el Beartic es converteix en un mestre del gel davant dels ulls de tothom!",
+        "start": "2026-10-30T06:58:01+01:00",
+        "stop": "2026-10-30T07:09:13+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla fa un rescat passat per aigua",
+        "description": "El barco del capità Turbot s'embarranca i en Ryder, en Zuma, la Skye i en Rocky han de buscar una solució plegats per rescatar-lo abans que s'enfonsi!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-30T01:30:42+01:00",
-        "stop": "2026-10-30T01:50:09+01:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Un escamot digne d'admiració!",
-        "description": "Mentre continuen el viatge, els nostres herois veuen l'anunci d'un espectacle de l'Escamot de Bombers Squirtle. L'Ash hi reconeix el seu Squirtle, el líder de l'escamot, i fa sortir el Bulbasaur i el Charizard perquè vegin el seu amic. Tothom està molt emocionat per l'espectacle, i l'Squirtle està molt content quan veu l'Ash entre el públic. Però les malifetes del Team Rocket provoquen un malentès, i l'Squirtle s'empipa quan es troba amb l'Ash i els amics. Just quan sembla que s'ha trencat l'amistat, es declara un incendi, i els nostres herois ajunten forces amb l'Squirtle per apagar-lo. Recuperada l'amistat, l'Ash i l'Squirtle s'abracen i llavors l'escamot se'n va cap a una altra ciutat.",
+        "start": "2026-10-30T07:09:13+01:00",
+        "stop": "2026-10-30T07:19:47+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "El Festival de Tardor",
+        "description": "Els cadells han de collir tota la fruita de la Yumi abans que arribi una nevada. Tothom té una tasca assignada menys en Chase, que haurà de trobar la manera d'ajudar.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-30T00:35:46+01:00",
-        "stop": "2026-10-30T01:34:09+01:00",
-        "title": "Maria del Mar",
-        "subtitle": "",
-        "description": "Maria del Mar Bonet és una de les icones de la nostra cultura. Cap cantant com ella ha aconseguit fer una carrera tant diversa i amb tantes complicitats, aquí i arreu. El documental 'Maria del Mar' és un retrat de com ha fet aquest viatge i d'on surt la seva inquietud i la seva força vital que l'ha mantingut als escenaris durant més de 50 anys. 'Maria del Mar' parteix del viatge que Bonet va fer a Cuba l'estiu passat per presentar el seu darrer disc, 'Ultramar', i a partir de la seva immersió a la vida de l'illa del Carib anem desgranant aquests 50 anys de carrera.Sota la direcció de Joan Lopez Lloret i amb guió del mateix López i el periodista musical Jordi Bianciotto, ens endinsem en tots aquests anys, a través de testimonis diversos, des del seu germà o els amics de la infància, fins a creadors tan diferents d'origen i generació com Martirio, Nacho Duato, Borja Penalba, Joan Manuel Serrat, Lluís Llach o Manolo García. Paral·lelament seguim de prop la preparació del concert a Cuba i la relació que des de fa pocs anys Bonet ha establert amb diversos músics cubans, com Jorge Reyes i José Maria Vitier, i les seves famílies.",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.3cat.cat/multimedia/jpg/8/3/1724415010338.jpg"
+        "start": "2026-10-30T06:30:36+01:00",
+        "stop": "2026-10-30T07:20:33+01:00",
+        "title": "El Foraster",
+        "subtitle": "Miralcamp",
+        "description": "Des de Miralcamp es domina tota la comarca del Pla d'Urgell. El poble és un mirador privilegiat i, només arribar, en Quim coneixerà en Marquès, en Romà i en Soler, una colla a qui li agrada molt mirar, per després poder criticar. Entre els veïns de Miralcamp hi ha en Josep, que mentre cull olives se les va menjant a grapats; la Flor i l'Esther, dues germanes apassionades per les motos; i en Jaume, que no para de caminar ni per ser entrevistat. Amb la Marta, la cartera, en Quim sortirà a repartir bon rotllo pel poble, i amb en Matacotxos descobrirà l'art de no fotre res. Coneixerem també al Marcel·lí, que per recordar la seva estimada Carme, surt a tocar l'acordió al mig de la natura. I els Peres, pare i fill, que estan a punt de complir el seu gran somni: fer volar pels cels de Miralcamp l'avioneta que han construït amb les seves pròpies mans.",
+        "genre": "VARIETATS",
+        "image": ""
       },
       {
-        "start": "2026-10-30T01:34:09+01:00",
-        "stop": "2026-10-30T02:26:07+01:00",
-        "title": "Dibuixar pel canvi",
-        "subtitle": "India. Dibuixant una línia",
-        "description": "Rachita Taneja és la creadora de Sanitary Panels, una popular tira còmica amb figures de pal coneguda per la seva crítica sociopolítica que ha captivat els joves indis liberals. El desembre del 2020, la Fiscalia de l'Índia la va denunciar per tres de les seves vinyetes, cosa que la va portar a extremar les precaucions no només en el seu art, sinó també en la seva participació en aquest documental. La pel·lícula explora el món interior de la Rachita i la seva creativitat, representant una narrativa distòpica en què la llibertat d'expressió s'erosiona ràpidament. Aquest documental mostra la resistència d'una jove índia que s'enfronta a la persecució i a la censura amb un humor i una honestedat indestructibles.",
+        "start": "2026-10-30T07:20:33+01:00",
+        "stop": "2026-10-30T07:46:48+01:00",
+        "title": "Viure als Pirineus",
+        "subtitle": "Un guia dels Pirineus (Tardor - Hivern)",
+        "description": "Xavier Llongueras és un guia d'alta muntanya, però a qui no sempre li es fàcil guanyar-se la vida. Ara està content, ja que durant una setmana té unes noves clientes canadenques. Enguany hi ha poca neu i en Xavi es dedica a fer exemplars del calendari de la Cerdanya, ja que a les botigues l'estan exhaurint. El calendari l'elabora ell íntegrament i aconsegueix vendre'n dos mil, ja que s'ha convertit en un clàssic a les dues bandes de la frontera. Com que els clients continuen escassejant, en Xavi ho aprofita per practicar l'escalada. Sense la responsabilitat de guiar clients se sent lliure i viu l'emoció intensa dels que coronen cims. Però com que la neu es fa esperar i ha perdut dies de feina, decideix convocar la família i els amics per trencar la solitud amb bona companyia. I, alhora, munta el seu estand a la Fira de Bellver per aconseguir nous clients. Tot esperant la neu, en Xavi continua el seu dia a dia i esgarrapa temps per fer les fotos d'un nou reportatge per a la revista 'Cadí-Pedraforca'. N'és el fotògraf oficial. Finalment ha nevat i en Xavi té un client. Està content de poder continuar fent la feina que s'ha buscat i que l'apassiona.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
