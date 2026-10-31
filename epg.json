@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-31T01:48:23.106851+00:00",
+  "updated": "2026-10-31T07:54:49.786063+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,17 +43,17 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-31T01:29:41+01:00",
-        "stop": "2026-10-31T02:51:28+01:00",
-        "title": "Mésnit",
+        "start": "2026-10-31T07:00:01+01:00",
+        "stop": "2026-10-31T10:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-31T02:51:28+01:00",
-        "stop": "2026-10-31T04:00:00+01:00",
+        "start": "2026-10-31T10:00:00+01:00",
+        "stop": "2026-10-31T12:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-10-31T01:00:00+01:00",
-        "stop": "2026-10-31T06:00:00+01:00",
+        "start": "2026-10-31T07:00:00+01:00",
+        "stop": "2026-10-31T10:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-31T06:00:00+01:00",
-        "stop": "2026-10-31T07:00:00+01:00",
+        "start": "2026-10-31T10:00:00+01:00",
+        "stop": "2026-10-31T12:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-31T02:43:11+01:00",
-        "stop": "2026-10-31T04:27:41+01:00",
-        "title": "Futbol",
-        "subtitle": "UD Eivissa-CE Europa / Primera Federació / J10",
-        "description": "El conjunt gracienc és l'antepenúltim classificat i necessita els punts per sortir del descens. Els eivissencs els volen per seguir a la part alta.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+        "start": "2026-10-31T08:49:31+01:00",
+        "stop": "2026-10-31T09:17:20+01:00",
+        "title": "E3",
+        "subtitle": "Matchday Champions Women J3",
+        "description": "Les escenes més destacades de la tercera jornada a la Champions femenina de futbol, amb la victòria històrica del Barça a Dinamarca. ",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"
       },
       {
-        "start": "2026-10-31T04:27:41+01:00",
-        "stop": "2026-10-31T04:45:47+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "start": "2026-10-31T09:17:20+01:00",
+        "stop": "2026-10-31T09:38:01+01:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Hansi Flick / Prèvia Barça-Alabès / J11",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-31T02:33:30+01:00",
-        "stop": "2026-10-31T02:54:08+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Els avis llop",
-        "description": "L'Adrien està molt nerviós per conèixer els seus avis i la Marinette s'apunta al dinar per donar-li suport sense imaginar-se que es trobarà enmig d'una veritable guerra familiar pel futur de l'Adrien, una guerra que tots volen guanyar a qualsevol preu.",
+        "start": "2026-10-31T08:48:38+01:00",
+        "stop": "2026-10-31T08:59:11+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "Bub-bub bugui",
+        "description": "La Patrulla Peluda ha d'anar corrents a l'estació de Badia Aventures a treure de la via un vagó que ha descarrilat i a arreglar els raïls abans que arribi el pròxim tren.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-31T02:54:08+01:00",
-        "stop": "2026-10-31T03:15:46+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "La Princesa Sirena",
-        "description": "L'Ondine està preocupada perquè encara no s'ha fet cap petó amb el Kim i dubta dels sentiments del noi. La Marinette, autoproclamada especialista en primers petons i declaracions d'amor, decideix ajudar la seva amiga... a la seva manera! Una altra oportunitat perquè la Marinette s'adoni que no totes les parelles funcionen de la mateixa manera.",
+        "start": "2026-10-31T08:59:11+01:00",
+        "stop": "2026-10-31T09:09:44+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "Patrulla a la boira",
+        "description": "S'ha espatllat el llum del far de l'illa de les Foques i en Ryder i els cadells s'han d'afanyar a arreglar-lo per guiar un creuer enmig de la boira.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-31T02:21:50+01:00",
-        "stop": "2026-10-31T03:02:05+01:00",
-        "title": "Sala 30",
-        "subtitle": "El cos",
-        "description": "El cos ha servit l'art gairebé des dels seus inicis. La manera com aquesta relació ha evolucionat amb el pas del temps interessa, i molt. Avui es reuneixen un col·lectiu de DJs, un ballarí i dos artistes de la performance per parlar sobre el tema. Maguette Dieng i Baba, dels Jokko Collective, Aimar Pérez Galí, Clàudia Pagès i Joan Morey comparteixen taula amb Albert Pla i Joan Fontcuberta, un referent internacional, guanyador del premi Hasselblad (considerat el Nobel de la fotografia) i mestre del fake. Per a un artista, el cos és més que un canal d'expressió?",
+        "start": "2026-10-31T08:33:48+01:00",
+        "stop": "2026-10-31T09:19:36+01:00",
+        "title": "Globus Sonda",
+        "subtitle": "Òscar Fernàndez - Delta de l'Ebre",
+        "description": "El periodista Òscar Fernández és un home d'emocions controlades. Això no obstant, en un vol en globus sobre l'espectacular paisatge del delta de l'Ebre potser se li descontrolaran les emocions, jo ho veurem. El periodista lidera un dels programes insígnia de Catalunya Ràdio, el 'Catalunya Migdia'. Parlarem del secret de l'èxit del programa en un vol diferent i en un clima molt especial com és el de les Terres de l'Ebre -d'això ens parlarà el Francesc Mauri-, i amb una convidada sorpresa molt bellugadissa, que acompanya la Candela Figueras des del cotxe de seguiment.",
         "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-10-31T03:02:05+01:00",
-        "stop": "2026-10-31T03:43:28+01:00",
-        "title": "Sala 30",
-        "subtitle": "La investigació",
-        "description": "Qualsevol cosa és susceptible de convertir-se en art? Com ens hem de comportar quan entrem en un museu? Albert Pla torna a esmorzar envoltat d'artistes per resoldre aquestes incògnites que li ballen pel cap. Avui ha convidat Josep Maynou, Mireia Saladrigues, Laura Llaneli i Pedro Torres, quatre artistes amb una trajectòria tan consolidada com diferenciada. El lloc d'honor a la taula l'hi ha reservat, però, ni més ni menys que a Dora García, pionera en la performance i l'art audiovisual. Amb ells tocarà parlar sobre la investigació.",
-        "genre": "ALTRES",
+        "start": "2026-10-31T09:19:36+01:00",
+        "stop": "2026-10-31T09:44:49+01:00",
+        "title": "Fotografies",
+        "subtitle": "Esports extrems",
+        "description": "El risc i l'espectacularitat han atret sempre molts fotògrafs. Aquest divendres, reunim les dues coses en l'episodi de 'Fotografies' dedicat als Esports Extrems. Començarem ben amunt, fent fotos de paracaigudistes amb el fotògraf Rolf Kuratle. Després baixarem dins del mar per seguir un dels campionats d'hivern de caça fotogràfica de peixos a pulmó lliure amb un dels màxims especialistes, Òscar Sagué. I acabarem amb les fotografies històriques de Lluís Estasen, un dels primers alpinistes catalans, i de Josep M. Co de Triola, el primer fotògraf que va introduir una càmera en una expedició espeleològica a Catalunya.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
