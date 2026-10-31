@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-31T07:54:49.786063+00:00",
+  "updated": "2026-10-31T14:14:45.211895+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-31T07:00:01+01:00",
-        "stop": "2026-10-31T10:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-31T14:30:00+01:00",
+        "stop": "2026-10-31T15:36:30+01:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-10-31T10:00:00+01:00",
-        "stop": "2026-10-31T12:00:00+01:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-10-31T15:36:30+01:00",
+        "stop": "2026-10-31T17:28:51+01:00",
+        "title": "Tarda de cine",
+        "subtitle": "Els amors de l'Anaïs",
+        "description": "ELS AMORS DE L'ANAÏS 'Les amours d'Anaïs'Direcció: Charline Bourgeois-TacquetGuió: Charline Bourgeois-TacquetProducció: Année Zéro, Les Films Pelléas, arte France Cinéma, Canal+, Ciné+, CNCAny: 2021Durada: 97País: FrançaMúsica: Nicola PiovaniFotografia: Noé BachIntèrprets: Anaïs Demoustier, Valeria Bruni Tedeschi, Denis Podalydès, Jean-Charles Clichet, Xavier Guelfi, Christophe Montenez, Anne Canovas, Bruno Todeschini, Annie Mercier, Grégoire OestermannAquesta és la història d'una jove parisenca inquieta i una mica esbojarrada amb un desig profund d'estimar",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-31T07:00:00+01:00",
-        "stop": "2026-10-31T10:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-10-31T14:30:00+01:00",
+        "stop": "2026-10-31T16:30:00+01:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-10-31T10:00:00+01:00",
-        "stop": "2026-10-31T12:00:00+01:00",
+        "start": "2026-10-31T16:30:00+01:00",
+        "stop": "2026-10-31T18:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-31T08:49:31+01:00",
-        "stop": "2026-10-31T09:17:20+01:00",
-        "title": "E3",
-        "subtitle": "Matchday Champions Women J3",
-        "description": "Les escenes més destacades de la tercera jornada a la Champions femenina de futbol, amb la victòria històrica del Barça a Dinamarca. ",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"
+        "start": "2026-10-31T14:48:11+01:00",
+        "stop": "2026-10-31T15:55:00+01:00",
+        "title": "Hoquei patins",
+        "subtitle": "CP Fraga - CP Vila-sana / OK Lliga / J1",
+        "description": "El campionat arrenca amb aquest gran partit. El CP Vila-sana Cooperativa d'Ivars, campió vigent, es va imposar al CP Esneca Fraga a la final de la temporada passada.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/5/1701373461655.jpg"
       },
       {
-        "start": "2026-10-31T09:17:20+01:00",
-        "stop": "2026-10-31T09:38:01+01:00",
-        "title": "Sala de Premsa",
-        "subtitle": "Hansi Flick / Prèvia Barça-Alabès / J11",
-        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
+        "start": "2026-10-31T15:55:00+01:00",
+        "stop": "2026-10-31T16:49:32+01:00",
+        "title": "Futbol",
+        "subtitle": "RCD Espanyol-Logronyo / Lliga F / J9",
+        "description": "Tots dos equips empaten a la classificació després de 2 victòries, 3 empats i 3 derrotes. Guanyar permetria a les blanc-i-blaves mirar cap a la part alta.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-31T08:48:38+01:00",
-        "stop": "2026-10-31T08:59:11+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "Bub-bub bugui",
-        "description": "La Patrulla Peluda ha d'anar corrents a l'estació de Badia Aventures a treure de la via un vagó que ha descarrilat i a arreglar els raïls abans que arribi el pròxim tren.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "start": "2026-10-31T14:45:56+01:00",
+        "stop": "2026-10-31T16:06:59+01:00",
+        "title": "Monster house",
+        "subtitle": "Monster house",
+        "description": "MONSTER HOUSE (Monster house)D.J. Walters, un noi de 12 anys, té massa temps lliure i ara s'ha entestat a saber què passa a casa de Nebbercracker, un vell que viu a l'altra banda del carrer. Un dia abans de Halloween, en D.J. i el seu amic Chowder es troben amb el senyor Nebbercracker perquè jugant han enviat la pilota al jardí del vell.Direcció: Gil KenanIdioma versió original: anglèsProducció: Columbia Pictures, 2006 (Estats Units)Durada: 86 minutsGuió: Dan Harmon, Rob Schrab i Pamela PettlerMúsica: Douglas PipesPel·lícula de dibuixos animats",
+        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/4/1791536080740.jpg"
       },
       {
-        "start": "2026-10-31T08:59:11+01:00",
-        "stop": "2026-10-31T09:09:44+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "Patrulla a la boira",
-        "description": "S'ha espatllat el llum del far de l'illa de les Foques i en Ryder i els cadells s'han d'afanyar a arreglar-lo per guiar un creuer enmig de la boira.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-10-31T16:06:59+01:00",
+        "stop": "2026-10-31T16:31:37+01:00",
+        "title": "Fuet",
+        "subtitle": "Barcelona és arrasada, i no és culpa del turisme.",
+        "description": "La Kiry i l'Eda intenten tornar a buscar el Fuet però, de sobte, una emissió externa interromp les comunicacions. El comandant Jau Coloma, un caçador excèntric del planeta Bup, té l'objectiu de capturar el Fuet abans que elles. Mentre intenten posar rumb a la Terra, visitaran la Barcelona del segle X, on descobreixen la brutal destrucció de la ciutat a mans d'Al-Mansur i seran testimonis de com el Comte Borrell trenca lligams amb el regne dels francs marcant l'inici de la independència de Catalunya.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-31T08:33:48+01:00",
-        "stop": "2026-10-31T09:19:36+01:00",
-        "title": "Globus Sonda",
-        "subtitle": "Òscar Fernàndez - Delta de l'Ebre",
-        "description": "El periodista Òscar Fernández és un home d'emocions controlades. Això no obstant, en un vol en globus sobre l'espectacular paisatge del delta de l'Ebre potser se li descontrolaran les emocions, jo ho veurem. El periodista lidera un dels programes insígnia de Catalunya Ràdio, el 'Catalunya Migdia'. Parlarem del secret de l'èxit del programa en un vol diferent i en un clima molt especial com és el de les Terres de l'Ebre -d'això ens parlarà el Francesc Mauri-, i amb una convidada sorpresa molt bellugadissa, que acompanya la Candela Figueras des del cotxe de seguiment.",
-        "genre": "ALTRES",
+        "start": "2026-10-31T14:43:12+01:00",
+        "stop": "2026-10-31T15:11:13+01:00",
+        "title": "Quèquicom",
+        "subtitle": "Bacteris: de l'intestí a Mart",
+        "description": "'Quèquicom' mostrarà la importància que tenen els bacteris en l'alimentació dels humans. Amb el títol genèric 'Bacteris: de l'intestí, a Mart', el programa científic del 33 oferirà un repàs del paper que tenen aquests primers organismes vius que van aparèixer a la Terra.Els bacteris són organismes molt simples, però són capaços d'obtenir energia per moltes vies metabòliques diferents i sobreviure en ambients extrems. Tenen una gran capacitat de reciclatge. Per la qual cosa, són fonamentals per al manteniment de la vida a la Terra. El programa ha fet una recerca bacteriana, que es mostrarà a través d'un reportatge de Pere Renom, que ha començat la feina en un racó de la serra de Collserola, un racó secret i vermellós on emana l'àcid sulfúric. Ha seguit pel Delta de l'Ebre, on el microbiòleg Jordi Urmeneta ensenya els tapets microbians, anàlegs als primers ecosistemes que van aparèixer al planeta fa 3.700 milions d'anys. Però sembla que també hi hauria bacteris al planeta Mart, on arribar-hi serà una missió impossible si no s'aconsegueix domesticar els bacteris perquè fabriquin part de l'aliment que necessiten els astronautes i en reciclin els detritus. A més, cadascun dels astronautes s'endurà en el seu digestiu una dotació de 2 kg de bacteris, sense la qual no sobreviuria, com qualsevol humà que no tingui flora intestinal.La flora bacteriana i la malaltia de CrohnEl programa parlarà de la influència dels bacteris en les malalties. Al voltant del 98% del total de bacteris del cos viuen al tub digestiu, són la flora bacteriana. Conté uns mil tipus de bacteris diferents i pesa dos quilos, o sigui, més que el fetge o el cor. El Dr. Francisco Guarner fa notar que el sistema digestiu té una relació de simbiosi amb els bacteris intestinals. Ells hi troben aliment i a canvi ens faciliten l'absorció de nutrients. A més, són bàsics per a la maduració del sistema immune. Quan la flora no és estable es generen problemes digestius crònics com la mal",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-10-31T09:19:36+01:00",
-        "stop": "2026-10-31T09:44:49+01:00",
-        "title": "Fotografies",
-        "subtitle": "Esports extrems",
-        "description": "El risc i l'espectacularitat han atret sempre molts fotògrafs. Aquest divendres, reunim les dues coses en l'episodi de 'Fotografies' dedicat als Esports Extrems. Començarem ben amunt, fent fotos de paracaigudistes amb el fotògraf Rolf Kuratle. Després baixarem dins del mar per seguir un dels campionats d'hivern de caça fotogràfica de peixos a pulmó lliure amb un dels màxims especialistes, Òscar Sagué. I acabarem amb les fotografies històriques de Lluís Estasen, un dels primers alpinistes catalans, i de Josep M. Co de Triola, el primer fotògraf que va introduir una càmera en una expedició espeleològica a Catalunya.",
+        "start": "2026-10-31T15:11:13+01:00",
+        "stop": "2026-10-31T15:55:35+01:00",
+        "title": "Ben Fogle: Retorn a la fi del món",
+        "subtitle": "Tailàndia",
+        "description": "En Ben viatja a Tailàndia per retrobar-se amb en Paul i en Sao, a qui va conèixer a Cambodja.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
