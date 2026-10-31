@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-30T22:32:53.394677+00:00",
+  "updated": "2026-10-31T01:48:23.106851+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-30T22:24:49+01:00",
-        "stop": "2026-10-30T23:35:38+01:00",
-        "title": "La Puntual",
-        "subtitle": "La Puntual: Mamma mia",
-        "description": "Ha arribat el dia de l'estrena de 'L'auca del senyor Esteve'. Catifa vermella, convidats especials, familiars i el retrobament amb els 33 finalistes del 'Laboratori'. Avui per primera vegada s'apujarà el teló de la producció per a la qual la nostra companyia s'ha estat preparant durant dos mesos. Viurem l'emoció de les hores prèvies, dels nervis entre bambolines i les abraçades de celebració finals.",
-        "genre": "VARIETATS",
-        "image": "https://img.ccma.cat/multimedia//jpg/7/8/1721226172787.jpg"
+        "start": "2026-10-31T01:29:41+01:00",
+        "stop": "2026-10-31T02:51:28+01:00",
+        "title": "Mésnit",
+        "subtitle": "",
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       },
       {
-        "start": "2026-10-30T23:35:38+01:00",
-        "stop": "2026-10-30T23:43:51+01:00",
-        "title": "Ets i uts",
-        "subtitle": "Quan vam sobreviure",
-        "description": "El Roger i la Mònica coneixen el Victor Rojas, un pastor que viu al Cap de Creus seguint les seves pròpies normes. Fascinats per aquest estil de vida, el Roger i la Mònica intenten sobreviure un dia sencer sense l'ajuda del mòbil.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-10-31T02:51:28+01:00",
+        "stop": "2026-10-31T04:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-30T23:30:00+01:00",
-        "stop": "2026-10-31T00:30:00+01:00",
+        "start": "2026-10-31T01:00:00+01:00",
+        "stop": "2026-10-31T06:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-31T00:30:00+01:00",
-        "stop": "2026-10-31T01:00:00+01:00",
+        "start": "2026-10-31T06:00:00+01:00",
+        "stop": "2026-10-31T07:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-30T23:00:00+01:00",
-        "stop": "2026-10-31T00:31:44+01:00",
-        "title": "Onze",
-        "subtitle": "Flick, missatge de tranquil·litat; el Vila-real-Espanyol; Delmàs, Fàbregas i Cazorla",
-        "description": "Míriam Riau condueix la tertúlia amb Lluís Carrasco, Laia Bonals, Juli Garcia i Santi Ovalle. Analitzem les paraules de Hansi Flick abans del Barça-Alabès de dissabte. Repassem el Vila-real-Espanyol, amb Sergio Garcia a la banqueta blanc-i-blava. Àlex Delmàs ens porta la clau del Barça-Alabès, Joan Fàbregas repassa l'actualitat arbitral i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla. ",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-10-31T02:43:11+01:00",
+        "stop": "2026-10-31T04:27:41+01:00",
+        "title": "Futbol",
+        "subtitle": "UD Eivissa-CE Europa / Primera Federació / J10",
+        "description": "El conjunt gracienc és l'antepenúltim classificat i necessita els punts per sortir del descens. Els eivissencs els volen per seguir a la part alta.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-10-31T00:31:44+01:00",
-        "stop": "2026-10-31T00:52:28+01:00",
+        "start": "2026-10-31T04:27:41+01:00",
+        "stop": "2026-10-31T04:45:47+01:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-10-30T23:26:23+01:00",
-        "stop": "2026-10-30T23:48:08+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Caminem per sobre l'aigua",
-        "description": "En Chris i en Martin són a Costa Rica intentant trobar un basilisc, un llangardaix capaç de caminar per sobre l'aigua, per incorporar aquest superpoder als seus vestits. De fet, els anirà molt bé per aturar la Donita Donata, que té intenció de guanyar el premi al millor dissenyador de barrets de París amb un barret de basilisc! Avui, les curses són a l'aigua!",
+        "start": "2026-10-31T02:33:30+01:00",
+        "stop": "2026-10-31T02:54:08+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Els avis llop",
+        "description": "L'Adrien està molt nerviós per conèixer els seus avis i la Marinette s'apunta al dinar per donar-li suport sense imaginar-se que es trobarà enmig d'una veritable guerra familiar pel futur de l'Adrien, una guerra que tots volen guanyar a qualsevol preu.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-30T23:48:08+01:00",
-        "stop": "2026-10-31T00:09:08+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Un elefant a casa",
-        "description": "En Chris i en Martin s'han trobat una cria d'elefant i l'han dut a la nau Tortuga perquè estigui fora de perill fins que trobin la seva manada. Aviat descobriran que les cries d'elefant poden arribar a ser molt trapelles, i que, si no troben aviat la mare, es poden quedar sense nau Tortuga! Sort que també n'aprendran moltes coses, dels elefants! Sobretot de la trompa! No t'ho perdis!",
+        "start": "2026-10-31T02:54:08+01:00",
+        "stop": "2026-10-31T03:15:46+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "La Princesa Sirena",
+        "description": "L'Ondine està preocupada perquè encara no s'ha fet cap petó amb el Kim i dubta dels sentiments del noi. La Marinette, autoproclamada especialista en primers petons i declaracions d'amor, decideix ajudar la seva amiga... a la seva manera! Una altra oportunitat perquè la Marinette s'adoni que no totes les parelles funcionen de la mateixa manera.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-30T22:49:49+01:00",
-        "stop": "2026-10-30T23:57:18+01:00",
-        "title": "Teatre",
-        "subtitle": "Terrrífic!",
-        "description": "Terrrífic!El TricicleUn espectacle d'El Tricicle que, tal com ja ens tenen acostumats, ens ofereix diversió i diversitat, alhora que ens avisa sobre el que ens pot succeir en aquest espectacle, pensat per fer-nos passar, sense malícia, una mica de por.Taquicàrdies, angoixes, atacs d'histèria, tot és possible, però sense perdre aquest to que esl caracteritza com a especials i únics.Autors i actors: Joan Gràcia, Paco Mir, Carles SansProducció: OvídeoRealització TV: X. Manich",
-        "genre": "TEATRE",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/2/1761734354723.jpg"
+        "start": "2026-10-31T02:21:50+01:00",
+        "stop": "2026-10-31T03:02:05+01:00",
+        "title": "Sala 30",
+        "subtitle": "El cos",
+        "description": "El cos ha servit l'art gairebé des dels seus inicis. La manera com aquesta relació ha evolucionat amb el pas del temps interessa, i molt. Avui es reuneixen un col·lectiu de DJs, un ballarí i dos artistes de la performance per parlar sobre el tema. Maguette Dieng i Baba, dels Jokko Collective, Aimar Pérez Galí, Clàudia Pagès i Joan Morey comparteixen taula amb Albert Pla i Joan Fontcuberta, un referent internacional, guanyador del premi Hasselblad (considerat el Nobel de la fotografia) i mestre del fake. Per a un artista, el cos és més que un canal d'expressió?",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-10-30T23:57:18+01:00",
-        "stop": "2026-10-31T00:56:00+01:00",
-        "title": "Tricicle 40",
-        "subtitle": "Tricicle 40",
-        "description": "Aquesta és la història de tres nois de Barcelona que a l'inici dels anys 80 es van llençar als escenaris i van acabar revolucionant la comèdia catalana. La seva és una història d'audàcia, d'èxit, de perfeccionisme, d'amistat... I de milers i milers de gags. TRICICLE40 és el retrat vibrant i ple d'humor de la darrera gran companyia de teatre gestual, a punt d'abaixar el teló per darrera vegada. ",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/4/1735053735040.jpg"
+        "start": "2026-10-31T03:02:05+01:00",
+        "stop": "2026-10-31T03:43:28+01:00",
+        "title": "Sala 30",
+        "subtitle": "La investigació",
+        "description": "Qualsevol cosa és susceptible de convertir-se en art? Com ens hem de comportar quan entrem en un museu? Albert Pla torna a esmorzar envoltat d'artistes per resoldre aquestes incògnites que li ballen pel cap. Avui ha convidat Josep Maynou, Mireia Saladrigues, Laura Llaneli i Pedro Torres, quatre artistes amb una trajectòria tan consolidada com diferenciada. El lloc d'honor a la taula l'hi ha reservat, però, ni més ni menys que a Dora García, pionera en la performance i l'art audiovisual. Amb ells tocarà parlar sobre la investigació.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "oca1": [],
