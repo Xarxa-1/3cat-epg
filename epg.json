@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-31T14:14:45.211895+00:00",
+  "updated": "2026-10-31T18:35:52.015484+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-31T14:30:00+01:00",
-        "stop": "2026-10-31T15:36:30+01:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "start": "2026-10-31T18:54:00+01:00",
+        "stop": "2026-10-31T19:47:40+01:00",
+        "title": "Sota terra",
+        "subtitle": "Abocador de Vacarisses: el nostre llegat",
+        "description": "Aquest és, sens dubte, el capítol més atípic de tots. El repte és tan original com apassionant: excavar en un abocador de deixalles. Excavar tres punts diferents per aconseguir treure i analitzar brossa de la dècada de 1990, de la dècada del 2000 i de l'actualitat. La idea és analitzar i classificar els residus amb el màxim rigor i la tècnica arqueològica per poder extreure'n tota mena de conclusions: hem canviat els hàbits de consum? Ha canviat el material amb què es fabricaven els productes? Ha augmentat el reciclatge? Continuem sent absolutament dependents del petroli? Podem definir el moment socioeconòmic a partir de l'anàlisi de la brossa? Fem el que faran els arqueòlegs del futur: analitzar les nostres deixalles per definir-nos com a espècie. És exactament el que fan els arqueòlegs actuals quan excaven i estudien el passat.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-10-31T15:36:30+01:00",
-        "stop": "2026-10-31T17:28:51+01:00",
-        "title": "Tarda de cine",
-        "subtitle": "Els amors de l'Anaïs",
-        "description": "ELS AMORS DE L'ANAÏS 'Les amours d'Anaïs'Direcció: Charline Bourgeois-TacquetGuió: Charline Bourgeois-TacquetProducció: Année Zéro, Les Films Pelléas, arte France Cinéma, Canal+, Ciné+, CNCAny: 2021Durada: 97País: FrançaMúsica: Nicola PiovaniFotografia: Noé BachIntèrprets: Anaïs Demoustier, Valeria Bruni Tedeschi, Denis Podalydès, Jean-Charles Clichet, Xavier Guelfi, Christophe Montenez, Anne Canovas, Bruno Todeschini, Annie Mercier, Grégoire OestermannAquesta és la història d'una jove parisenca inquieta i una mica esbojarrada amb un desig profund d'estimar",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
+        "start": "2026-10-31T19:47:40+01:00",
+        "stop": "2026-10-31T20:08:22+01:00",
+        "title": "Les Feres",
+        "subtitle": "Dame Area",
+        "description": "Aquest duet barceloní de música electrònica industrial ha aconseguit cridar l'atenció a nivell internacional amb discos com, per exemple, 'Toda la verdad sobre Dame Area': l'estació de ràdio de Seattle KEXP els va convidar a tocar en els seus prestigiosos directes i mitjans amb el relleu de Pitchfork, The Guardian o la mateixa BBC han parlat de la seva música. Nascuts del ja desaparegut club barceloní de culte Màgia Roja, els Dame Area mantenen una activitat intensa dins d'un circuit que ha connectat amb la seva incendiària posada en escena. Per aquesta raó, Les Feres ha capturat el grup en una actuació a la sala Vol, de Barcelona.  'Rompi il cristallo' 'Striscia' 'Devoción' 'Scopri le tue passioni' 'Si no es hoy cuando es'  Silvia Kostance -veu, sintetitzador i percussió Viktor Lux Crux -sintetitzador i percussió  Localització: enregistrat a la sala VOL, a Barcelona  Dia: 19 de gener del 2025 ",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-10-31T14:30:00+01:00",
-        "stop": "2026-10-31T16:30:00+01:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-10-31T18:30:00+01:00",
+        "stop": "2026-10-31T20:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-31T16:30:00+01:00",
-        "stop": "2026-10-31T18:30:00+01:00",
+        "start": "2026-10-31T20:00:00+01:00",
+        "stop": "2026-10-31T21:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-31T14:48:11+01:00",
-        "stop": "2026-10-31T15:55:00+01:00",
-        "title": "Hoquei patins",
-        "subtitle": "CP Fraga - CP Vila-sana / OK Lliga / J1",
-        "description": "El campionat arrenca amb aquest gran partit. El CP Vila-sana Cooperativa d'Ivars, campió vigent, es va imposar al CP Esneca Fraga a la final de la temporada passada.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/5/1701373461655.jpg"
+        "start": "2026-10-31T19:30:42+01:00",
+        "stop": "2026-10-31T19:44:30+01:00",
+        "title": "Pitch&Cat",
+        "subtitle": "- Campionat de Catalunya de Dobles a Can Mascaró",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       },
       {
-        "start": "2026-10-31T15:55:00+01:00",
-        "stop": "2026-10-31T16:49:32+01:00",
-        "title": "Futbol",
-        "subtitle": "RCD Espanyol-Logronyo / Lliga F / J9",
-        "description": "Tots dos equips empaten a la classificació després de 2 victòries, 3 empats i 3 derrotes. Guanyar permetria a les blanc-i-blaves mirar cap a la part alta.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "start": "2026-10-31T19:44:30+01:00",
+        "stop": "2026-10-31T20:00:00+01:00",
+        "title": "Sala de Premsa",
+        "subtitle": "Hansi Flick / Prèvia Barça-Alabès / J11",
+        "description": "Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-31T14:45:56+01:00",
-        "stop": "2026-10-31T16:06:59+01:00",
-        "title": "Monster house",
-        "subtitle": "Monster house",
-        "description": "MONSTER HOUSE (Monster house)D.J. Walters, un noi de 12 anys, té massa temps lliure i ara s'ha entestat a saber què passa a casa de Nebbercracker, un vell que viu a l'altra banda del carrer. Un dia abans de Halloween, en D.J. i el seu amic Chowder es troben amb el senyor Nebbercracker perquè jugant han enviat la pilota al jardí del vell.Direcció: Gil KenanIdioma versió original: anglèsProducció: Columbia Pictures, 2006 (Estats Units)Durada: 86 minutsGuió: Dan Harmon, Rob Schrab i Pamela PettlerMúsica: Douglas PipesPel·lícula de dibuixos animats",
-        "genre": "PEL·LÍCULA DIBUIXOS ANIMATS",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/4/1791536080740.jpg"
+        "start": "2026-10-31T19:30:25+01:00",
+        "stop": "2026-10-31T19:36:25+01:00",
+        "title": "El xai Shaun",
+        "subtitle": "Els ànecs",
+        "description": "En Shaun i la resta d'ovelles s'acaben d'adonar que una parella d'ànecs els han pispat tot el jaç per fer-se un niu ben còmode damunt de la caseta d'en Bitzer. Si aquesta nit volen dormir calentons, ja es poden començar a espavilar! El que no saben és que aquests ànecs la saben molt llarga! I aquesta nit també volen dormir com reis!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
       },
       {
-        "start": "2026-10-31T16:06:59+01:00",
-        "stop": "2026-10-31T16:31:37+01:00",
-        "title": "Fuet",
-        "subtitle": "Barcelona és arrasada, i no és culpa del turisme.",
-        "description": "La Kiry i l'Eda intenten tornar a buscar el Fuet però, de sobte, una emissió externa interromp les comunicacions. El comandant Jau Coloma, un caçador excèntric del planeta Bup, té l'objectiu de capturar el Fuet abans que elles. Mentre intenten posar rumb a la Terra, visitaran la Barcelona del segle X, on descobreixen la brutal destrucció de la ciutat a mans d'Al-Mansur i seran testimonis de com el Comte Borrell trenca lligams amb el regne dels francs marcant l'inici de la independència de Catalunya.",
-        "genre": "ALTRES",
+        "start": "2026-10-31T19:36:25+01:00",
+        "stop": "2026-10-31T19:43:26+01:00",
+        "title": "El xai Shaun",
+        "subtitle": "A fer de Bitzer",
+        "description": "El granger ha volgut passar el dia a soles amb en Bitzer, per estrènyer una mica més la seva relació. Tampoc no és bo treballar tot el dia. En Shaun, en canvi, no deixarà escapar l'oportunitat que se li acaba de presentar de fer d'encarregat de la granja. I de manar com fa en Bitzer! Aviat, però, s'adonarà que això de fer tantes coses alhora no és tan fàcil com sembla.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-31T14:43:12+01:00",
-        "stop": "2026-10-31T15:11:13+01:00",
-        "title": "Quèquicom",
-        "subtitle": "Bacteris: de l'intestí a Mart",
-        "description": "'Quèquicom' mostrarà la importància que tenen els bacteris en l'alimentació dels humans. Amb el títol genèric 'Bacteris: de l'intestí, a Mart', el programa científic del 33 oferirà un repàs del paper que tenen aquests primers organismes vius que van aparèixer a la Terra.Els bacteris són organismes molt simples, però són capaços d'obtenir energia per moltes vies metabòliques diferents i sobreviure en ambients extrems. Tenen una gran capacitat de reciclatge. Per la qual cosa, són fonamentals per al manteniment de la vida a la Terra. El programa ha fet una recerca bacteriana, que es mostrarà a través d'un reportatge de Pere Renom, que ha començat la feina en un racó de la serra de Collserola, un racó secret i vermellós on emana l'àcid sulfúric. Ha seguit pel Delta de l'Ebre, on el microbiòleg Jordi Urmeneta ensenya els tapets microbians, anàlegs als primers ecosistemes que van aparèixer al planeta fa 3.700 milions d'anys. Però sembla que també hi hauria bacteris al planeta Mart, on arribar-hi serà una missió impossible si no s'aconsegueix domesticar els bacteris perquè fabriquin part de l'aliment que necessiten els astronautes i en reciclin els detritus. A més, cadascun dels astronautes s'endurà en el seu digestiu una dotació de 2 kg de bacteris, sense la qual no sobreviuria, com qualsevol humà que no tingui flora intestinal.La flora bacteriana i la malaltia de CrohnEl programa parlarà de la influència dels bacteris en les malalties. Al voltant del 98% del total de bacteris del cos viuen al tub digestiu, són la flora bacteriana. Conté uns mil tipus de bacteris diferents i pesa dos quilos, o sigui, més que el fetge o el cor. El Dr. Francisco Guarner fa notar que el sistema digestiu té una relació de simbiosi amb els bacteris intestinals. Ells hi troben aliment i a canvi ens faciliten l'absorció de nutrients. A més, són bàsics per a la maduració del sistema immune. Quan la flora no és estable es generen problemes digestius crònics com la mal",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-10-31T18:18:09+01:00",
+        "stop": "2026-10-31T19:45:49+01:00",
+        "title": "Pel·lícula",
+        "subtitle": "Bruc",
+        "description": "BRUC (bruc, 2011) Producció: Ikiru Films, Mesfilms inversions, Bruc-Laurion amb producció associada de Televisió de Catalunya, 2011Director: Daniel BenmayorGuió: Jordi Gasull i Patzi Amercua segons una història original de Jordi GasullDirector de fotografia: Juanmi AzpirozMúsica: Xavier CapellasIntèrprets: Juan José Ballesta (Bruc) Vicent Perez (Maraval), Santi Millán (De la Mata), Astrid Bergès-Frisbey (Glòria), Nicolas Giraud (Nouaille), Moussa Maaskri (Attab), Jérôme Le Banner (Baraton) i Francesc Albiol (Dr. Ballart)Quan la màquina de guerra més perfecta de tota la història descobreix que la seva primera derrota es deu a un jove rebel, Napoleó envia a sis mercenaris que han lluita en mil i unes batalles amb una sola missió: tallar-li el cap. Després d'assassinar als seus éssers estimats, el grup de mercenaris es disposa a buscar al jove en els indrets més màgics de la sagrada muntanya de Montserrat. El noi, al que anomenen Bruc pel lloc de la batalla, haurà de lluitar sol per sobreviure i venjar la seva família. Es converteix així en un símbol de llibertat i esperança per al seu país, el qual descobreix en ell a l'heroi que va aconseguir derrotar a l'exèrcit invencible de Napoleó Bonaparte.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/0/1757527635503.jpg"
       },
       {
-        "start": "2026-10-31T15:11:13+01:00",
-        "stop": "2026-10-31T15:55:35+01:00",
-        "title": "Ben Fogle: Retorn a la fi del món",
-        "subtitle": "Tailàndia",
-        "description": "En Ben viatja a Tailàndia per retrobar-se amb en Paul i en Sao, a qui va conèixer a Cambodja.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-10-31T19:45:49+01:00",
+        "stop": "2026-10-31T20:59:19+01:00",
+        "title": "Fauna",
+        "subtitle": "Fauna",
+        "description": "'Fauna' (2023), una producció de Nanouk Films en coproducció amb Televisió de Catalunya, la col·laboració del Departament de Cultura de la Generalitat de Catalunya i el suport del Instituto de Cinematografía de las Artes AudiovisualesEn un bosc, als afores de Barcelona, conviuen un vell pastor amb el seu ramat i un modern laboratori d'experimentació animal. El pastor, malalt, veu com la seva professió està en procés de desaparèixer. Els científics, que investiguen la vacuna de la Covid, tenen més feina que mai. EquipDirecció i realització: Pau FausGuió: Pau Faus, Sergi Cameron, Júlia R. AymarProductor: Sergi Cameron i Ventura DurallProductor executiu TVC: Jordi Ambros HortensiProductor delegat TVC: Daniel Barea DelgadoDirector fotografia: Carlota SerarolsMuntatge: Júlia R. AymarDirector de producció: Marina JoverMúsica: Israel MarcoLingüista: Eva ReyesGrafisme: Escola Studio",
+        "genre": "DOCUMENTAL DE CREACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1725961617675.jpg"
       }
     ],
     "oca1": [],
