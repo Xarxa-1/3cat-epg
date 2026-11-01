@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-01T00:38:02.769639+00:00",
+  "updated": "2026-11-01T06:50:52.169053+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,19 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-01T01:33:54+01:00",
-        "stop": "2026-11-01T03:07:42+01:00",
-        "title": "Pel.lícula",
-        "subtitle": "Gàbies d'or",
-        "description": "GÀBIES D'ORProducció: Televisió de Catalunya, La República Films, i Orsay Trouppe-Metrovisión, 2005Direcció: Antoni RibasGuió: Alícia Ninou basat en una idea original d'Antoni RibasProductora executiva TVC: Elisa PlazaDirector de fotografia: Pau MirabetMúsica:Jaume Escala Intèrprets: Josep Minguell (Ramon), Sílvia Tortosa (Trini), Daniel Grao (Fran), Carmela Poch (Laura), Oriol Pla ( Pol), Frank Dubé (George), Rosa Mañosa (Sílvia) Carles Francino (Toni) i Patricia Cancelo (Rosa)Als 50 anys, el Ramon es queda sense feina i li sembla impossible trobar-ne una de nova. El Fran, biòleg i nòvio de la Laura, la filla de Ramon, li proposa un negoci al seu sogre. L'empresa per la qual treballa busca una persona de confiança que munti una granja de pollastres. El Ramon demana un crèdit i munta la granja. Passat un temps, la companyia de què depèn l'obliga a realitzar manipulacions genètiques.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-11-01T01:00:00+01:00",
-        "stop": "2026-11-01T06:00:00+01:00",
+        "start": "2026-11-01T07:00:00+01:00",
+        "stop": "2026-11-01T08:54:52+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-01T06:00:00+01:00",
-        "stop": "2026-11-01T07:00:00+01:00",
+        "start": "2026-11-01T08:54:52+01:00",
+        "stop": "2026-11-01T09:59:59+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-11-01T07:00:00+01:00",
+        "stop": "2026-11-01T10:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-01T10:00:00+01:00",
+        "stop": "2026-11-01T12:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -74,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-01T00:59:53+01:00",
-        "stop": "2026-11-01T02:31:35+01:00",
+        "start": "2026-11-01T07:05:33+01:00",
+        "stop": "2026-11-01T08:37:04+01:00",
         "title": "Gol a gol",
         "subtitle": "Post Barça-Alabès / J11",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
@@ -83,53 +92,53 @@
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-11-01T02:31:35+01:00",
-        "stop": "2026-11-01T02:58:38+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-11-01T08:37:04+01:00",
+        "stop": "2026-11-01T10:14:07+01:00",
+        "title": "Billar a 3 bandes",
+        "subtitle": "Dani Sánchez-JS Ko / PBA Tour",
+        "description": "El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-01T01:25:34+01:00",
-        "stop": "2026-11-01T01:46:22+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Psiconductora",
-        "description": "Traumatitzada des que la van akumatitzar, l'Aglaé té fòbia a les papallones i fins i tot li fa por sortir de casa. A la Marinette li agradaria trobar una solució màgica per ajudar la seva amiga, però, com per desgràcia descobrirà, Ladybug no pot arreglar tots els problemes.",
+        "start": "2026-11-01T07:42:49+01:00",
+        "stop": "2026-11-01T07:52:59+01:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "El tutú del Mic",
+        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-01T01:46:22+01:00",
-        "stop": "2026-11-01T02:07:21+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Yaksi Gozen",
-        "description": "Mentre l'Adrien es pregunta com pot ser tan sorprenent com la Mariette, la Kagami i el Félix es pregunten com evitar les sorpreses desagradables. Però una supermalvada capgirarà els plans dels quatre adolescents.",
+        "start": "2026-11-01T07:52:59+01:00",
+        "stop": "2026-11-01T08:02:31+01:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "La maraca",
+        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-01T00:49:13+01:00",
-        "stop": "2026-11-01T01:53:40+01:00",
-        "title": "Bruixes, la gran mentida",
-        "subtitle": "Bruixes, la gran mentida",
-        "description": "'Bruixes, la gran mentida' és una producció de Televisió de Catalunya en coproducció amb Sàpiens ( Abacus, SCCL) amb el suport de la Diputació de Lleida.Entre els segles XV i XVII Catalunya va ser un dels focus mundials de caceres de bruixes. Per primer cop un documental aborda aquesta qüestió a partir d'una investigació recent i exclusiva sobre aquest horror, i que desmunta diversos tòpics que han perdurat fins ara. 'Bruixes, la gran mentida', dirigit per la premiada directora Joanna Pardos, és una docuficció que mescla la recreació al detall d'un dels judicis més sonats de Catalunya, amb entrevistes als principals especialistes en el tema. Alhora, ressegueix les conseqüències i herències actuals de les dinàmiques patriarcals que s'establiren aleshores amb testimonis únics i punyents. Fitxa TècnicaDirecció: Joanna Pardos Realització ficció: Roman Parrado Realització documental: Raul Cuevas Guió: Joanna Pardos, Margarida Olivé i Anna Alsina Guió ficció: Roger Danès i Alfred Pérez Producció: Sílvia Vinardell i Lola Pedrós So: Carnaby studio Edició: Jordi Gallofré i Gal·la de Yzaguirre Assessorament històric: Pau Castell i Agustí Alcoberro Producció executiva Sàpiens: Marc Roma i Oriol Cortacans Producció executiva TV3 Sílvia Pairó Vila Direcció executiva TV3: Montse Armengou Martín ",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/0/1668674169506.jpg"
+        "start": "2026-11-01T07:26:02+01:00",
+        "stop": "2026-11-01T07:49:01+01:00",
+        "title": "Quèquicom",
+        "subtitle": "Fumar, matar a distància",
+        "description": "Els efectes sobre la salut del fum del tabac seran analitzats demà a 'Quèquicom'. El fum del tabac conté més de vuit mil productes tòxics, entre els quals l'arsènic i la nicotina. I el programa científic del 33 descobrirà, a partir de les 21.30 i amb el títol genèric de 'Tabac: matar a distància', les amenaces per a la salut del tabaquisme, una addicció que causa prop de nou mil morts cada any a Catalunya. 'Quèquicom' es preocupa també pels fumadors passius, que són les persones que inhalen les substàncies tòxiques del fum del tabac generat per altres. És el cas de la Mari Luz Navarro, que només fa tres anys que treballa en un bar de Barcelona, on es passa tota la jornada laboral envoltada de fum. Ella es mostra optimista i no es vol preocupar per la manera com pot afectar la seva salut, però el reporter Miquel Piris es desplaça al bar amb un equip d'investigadors del CSIC per analitzar-ne l'aire i comparar-ne els nivells de contaminació amb els dels carrers de Barcelona. El resultat és que al bar hi ha deu vegades més pol·lució que a la ciutat.Un altre cas de fumadora passiva és el de l'Esther Roquer, que no ha fumat mai, però que va inhalar fum del tabac durant els 30 anys treballats en un bar. La conseqüència és que va agafar una malaltia pulmonar molt greu, que la va obligar a abandonar la feina. I ara, des de fa poc temps, es parla d'un nou grup, el dels 'fumadors de tercera mà'. El fum del tabac ho impregna tot i els tòxics que conté persisteixen en l'atmosfera, tot i haver apagat el cigarret. Aquestes substàncies nocives reaccionen amb els compostos nitrogenats de l'aire i produeixen un nou tipus de producte químic molt cancerigen, les nitrosamines.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       },
       {
-        "start": "2026-11-01T01:53:40+01:00",
-        "stop": "2026-11-01T02:38:17+01:00",
-        "title": "El Crac",
-        "subtitle": "La gran bogeria",
-        "description": "Al Joel li cau la bena dels ulls i comença a adonar-se que potser s'ha equivocat amb la Carla. Just quan està a punt de deixar-la, la Carla li diu que l'han agafat per fer un anunci amb el George Clooney i que l'actor vindrà a casa a sopar aquella mateixa nit. La possibilitat de conèixer el gran George fa que el Joel aplaci la seva ruptura i es comprometi a fons amb la Carla.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "start": "2026-11-01T07:49:01+01:00",
+        "stop": "2026-11-01T08:36:02+01:00",
+        "title": "La Renaixença",
+        "subtitle": "La uralita",
+        "description": "La uralita i el fibrociment són el mateix, literalment, però la uralita també és el nom que se li dona a un mineral preciós dels Urals. Òbviament, com que podem triar, hem decidit parlar de la uralita dolenta: del material que durant molts anys (i encara avui) trobem repartit per tot Catalunya. Ens visita en Mazoni, cantautor empordanès que també puja al nostre escenari per poder gaudir d'una de les seves cançons amb els arranjaments de 'La Renaixença'. I sortim a passejar la Tronca, un gos d'atura de Sabadell, per l'atac dels homes morts, a Polònia.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
