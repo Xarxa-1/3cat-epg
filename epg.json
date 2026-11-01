@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-31T21:52:08.266692+00:00",
+  "updated": "2026-11-01T00:38:02.769639+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-10-31T22:13:37+01:00",
-        "stop": "2026-11-01T01:14:47+01:00",
-        "title": "Col·lapse",
-        "subtitle": "",
-        "description": "L'escriptora de best-sellers Dolores Redondo ens parlarà de la seva última novel·la, que ja és un èxit de vendes ara mateix.  Mayka Navarro ens actualitza alguns dels casos més mediàtics amb què hem començat la temporada i que encara no s'han resolt o no estan tancats. Conversarem amb Quim Masferrer sobre teatre, sobre la vida, sobre futures estrenes i sobre tot el que pugui donar de si una trobada amb un dels millors presentadors de la cadena. Ara que tot just s'acaba de jubilar, ens visita un dels antropòlegs més estimats de Catalunya, Manuel Delgado. A més, presenta el seu últim llibre, 'Todas las ciudades están poseídas', on parla sense embuts d'urbanisme i excés d'activitats vinculades al turisme a les àrees metropolitanes.  Maria Fernández Vidal posa banda sonora a alguns dels moments que hem viscut aquesta setmana durant els guardons de la Pilota d'Or!  Farem experiments curiosos amb IA amb l'enginyer de software i emprenedor Aniol Vicens. Anna Callís s'enfronta a un nou repte televisiu com a reportera i Miriam Victoria ens porta un nou fenomen paranormal en clau catalana. ",
-        "genre": "TALK-SHOW",
-        "image": ""
-      },
-      {
-        "start": "2026-11-01T01:14:47+01:00",
-        "stop": "2026-11-01T01:35:35+01:00",
-        "title": "Marcians",
-        "subtitle": "Documentar-se abans de crear",
-        "description": "Documentar-se és fonamental en la creació de tot tipus d'obres artístiques. Fins que no se senten que han investigat i han fet prou recerca, hi ha moltes autores i autors que són incapaços d'iniciar un projecte nou. Cristina Masanés està enllestint un assaig al qual ha dedicat quatre anys d'estudis exhaustius. Es titula 'Les maletes de Portbou',', i segueix la pista dels intel·lectuals centreeuropeus perseguits pel nazisme, que van fugir durant la II Guerra Mundial per la nostra estació ferroviària fronterera. L'escriptora i periodista es fixa en què van rescatar d'Europa dins de les seves maletes, quines idees, quines obres van salvar de l'aniquilació en un exili cap als Estats Units que va passar per casa nostra. Una d'aquestes exiliades va ser Hannah Arendt, i les seves idees han inspirat el tàndem creatiu teatral que formen Maria Jover i Gerard Franch. La seva filosofia política els ressona en l'actual era de la intel·ligència artificial i d'aquí n'ha sortit el seu nou espectacle, 'Un mal normal', que estrenaran al Festival Temporada Alta. És una peça, en realitat, banyada d'humor i música, però que han creat després de llegir molta filosofia, teoria política i estudis sobre la IA, lectures que han contrastat amb converses amb especialistes com la professora de l'UPF Tatiana Llaguno i l'analista de dades Roger Sanjaume. Són dues maneres de documentar-se per a dues disciplines artístiques com són la literatura i el teatre en el context d'un nou auge de l'extrema dreta a Europa, ara, amb noves eines.",
-        "genre": "ALTRES",
+        "start": "2026-11-01T01:33:54+01:00",
+        "stop": "2026-11-01T03:07:42+01:00",
+        "title": "Pel.lícula",
+        "subtitle": "Gàbies d'or",
+        "description": "GÀBIES D'ORProducció: Televisió de Catalunya, La República Films, i Orsay Trouppe-Metrovisión, 2005Direcció: Antoni RibasGuió: Alícia Ninou basat en una idea original d'Antoni RibasProductora executiva TVC: Elisa PlazaDirector de fotografia: Pau MirabetMúsica:Jaume Escala Intèrprets: Josep Minguell (Ramon), Sílvia Tortosa (Trini), Daniel Grao (Fran), Carmela Poch (Laura), Oriol Pla ( Pol), Frank Dubé (George), Rosa Mañosa (Sílvia) Carles Francino (Toni) i Patricia Cancelo (Rosa)Als 50 anys, el Ramon es queda sense feina i li sembla impossible trobar-ne una de nova. El Fran, biòleg i nòvio de la Laura, la filla de Ramon, li proposa un negoci al seu sogre. L'empresa per la qual treballa busca una persona de confiança que munti una granja de pollastres. El Ramon demana un crèdit i munta la granja. Passat un temps, la companyia de què depèn l'obliga a realitzar manipulacions genètiques.",
+        "genre": "PEL·LÍCULA / TELEFILM",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-10-31T21:00:00+01:00",
-        "stop": "2026-10-31T23:00:00+01:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-11-01T01:00:00+01:00",
+        "stop": "2026-11-01T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-10-31T23:00:00+01:00",
-        "stop": "2026-11-01T00:30:00+01:00",
+        "start": "2026-11-01T06:00:00+01:00",
+        "stop": "2026-11-01T07:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +74,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-10-31T20:57:17+01:00",
-        "stop": "2026-10-31T22:55:00+01:00",
-        "title": "Un dia de partit",
-        "subtitle": "Barça-Alabès",
-        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
-      },
-      {
-        "start": "2026-10-31T22:55:00+01:00",
-        "stop": "2026-11-01T00:31:08+01:00",
+        "start": "2026-11-01T00:59:53+01:00",
+        "stop": "2026-11-01T02:31:35+01:00",
         "title": "Gol a gol",
         "subtitle": "Post Barça-Alabès / J11",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+      },
+      {
+        "start": "2026-11-01T02:31:35+01:00",
+        "stop": "2026-11-01T02:58:38+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-10-31T22:45:17+01:00",
-        "stop": "2026-10-31T22:55:51+01:00",
-        "title": "La tropa del corral",
-        "subtitle": "En Frankie a tota pastilla",
-        "description": "Diversos habitants de Vilanimal truquen la Tropa perquè en Frankie s'ha construït un vehicle propi, ha contractat l'Esther com a mecànica i està descontrolat. Tant, que desafien la Tropa a fer un salt temerari. Qui guanyi s'ho queda tot, corral inclòs.",
+        "start": "2026-11-01T01:25:34+01:00",
+        "stop": "2026-11-01T01:46:22+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Psiconductora",
+        "description": "Traumatitzada des que la van akumatitzar, l'Aglaé té fòbia a les papallones i fins i tot li fa por sortir de casa. A la Marinette li agradaria trobar una solució màgica per ajudar la seva amiga, però, com per desgràcia descobrirà, Ladybug no pot arreglar tots els problemes.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-10-31T22:55:51+01:00",
-        "stop": "2026-10-31T23:06:49+01:00",
-        "title": "La tropa del corral",
-        "subtitle": "Gallina per un dia",
-        "description": "La Tropa rep una trucada de l'Elvis, que els pregunta com és que el granger actua d'una manera tan estranya. Resulta que l'Esther l'ha hipnotitzat i ara es pensa que es una gallina. La Tropa del Corral haurà de trobar la manera de fer-lo tornar al seu estat original mentre ell cloqueja per tot el poble.",
+        "start": "2026-11-01T01:46:22+01:00",
+        "stop": "2026-11-01T02:07:21+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Yaksi Gozen",
+        "description": "Mentre l'Adrien es pregunta com pot ser tan sorprenent com la Mariette, la Kagami i el Félix es pregunten com evitar les sorpreses desagradables. Però una supermalvada capgirarà els plans dels quatre adolescents.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-10-31T22:20:35+01:00",
-        "stop": "2026-10-31T23:57:12+01:00",
-        "title": "El documental",
-        "subtitle": "Una canción para mi tierra",
-        "description": "En un poble rural de l'Argentina, Ramiro Lezcano, un professor de música, descobreix que les fumigacions properes a les escoles posen en risc la salut dels alumnes. Juntament amb ells, compon cançons per denunciar aquesta tragèdia, però s'enfronta a una resistència ferotge. Decidit a portar el seu missatge més enllà, intenta organitzar un 'Woodstock ambiental' enmig del camp, on la seva música i la seva lluita puguin ressonar amb força i arribar a tothom.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-11-01T00:49:13+01:00",
+        "stop": "2026-11-01T01:53:40+01:00",
+        "title": "Bruixes, la gran mentida",
+        "subtitle": "Bruixes, la gran mentida",
+        "description": "'Bruixes, la gran mentida' és una producció de Televisió de Catalunya en coproducció amb Sàpiens ( Abacus, SCCL) amb el suport de la Diputació de Lleida.Entre els segles XV i XVII Catalunya va ser un dels focus mundials de caceres de bruixes. Per primer cop un documental aborda aquesta qüestió a partir d'una investigació recent i exclusiva sobre aquest horror, i que desmunta diversos tòpics que han perdurat fins ara. 'Bruixes, la gran mentida', dirigit per la premiada directora Joanna Pardos, és una docuficció que mescla la recreació al detall d'un dels judicis més sonats de Catalunya, amb entrevistes als principals especialistes en el tema. Alhora, ressegueix les conseqüències i herències actuals de les dinàmiques patriarcals que s'establiren aleshores amb testimonis únics i punyents. Fitxa TècnicaDirecció: Joanna Pardos Realització ficció: Roman Parrado Realització documental: Raul Cuevas Guió: Joanna Pardos, Margarida Olivé i Anna Alsina Guió ficció: Roger Danès i Alfred Pérez Producció: Sílvia Vinardell i Lola Pedrós So: Carnaby studio Edició: Jordi Gallofré i Gal·la de Yzaguirre Assessorament històric: Pau Castell i Agustí Alcoberro Producció executiva Sàpiens: Marc Roma i Oriol Cortacans Producció executiva TV3 Sílvia Pairó Vila Direcció executiva TV3: Montse Armengou Martín ",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/0/1668674169506.jpg"
       },
       {
-        "start": "2026-10-31T23:57:12+01:00",
-        "stop": "2026-11-01T00:49:11+01:00",
-        "title": "60 minuts",
-        "subtitle": "Americonned: El gran engany americà",
-        "description": "Mentre als Estats Units la productivitat s'ha disparat en les darreres dècades, els salaris de la classe treballadora nord-americana s'han estancat. La classe política, a banda i banda de l'arc parlamentari, ha teixit una trama de protecció per a les grans fortunes que ha acabat rebentant el dret dels treballadors a sindicar-se. Contra tot pronòstic, dos empleats es posen al capdavant d'un moviment per fundar el primer sindicat en una de les multinacionals més potents del planeta i protagonitzen una autèntica lluita de David contra Goliat. La desigualtat radical porta a la radicalització, i aquest documental mostra què passa quan el país arriba al seu punt d'inflexió.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-01T01:53:40+01:00",
+        "stop": "2026-11-01T02:38:17+01:00",
+        "title": "El Crac",
+        "subtitle": "La gran bogeria",
+        "description": "Al Joel li cau la bena dels ulls i comença a adonar-se que potser s'ha equivocat amb la Carla. Just quan està a punt de deixar-la, la Carla li diu que l'han agafat per fer un anunci amb el George Clooney i que l'actor vindrà a casa a sopar aquella mateixa nit. La possibilitat de conèixer el gran George fa que el Joel aplaci la seva ruptura i es comprometi a fons amb la Carla.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
