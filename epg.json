@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-01T06:50:52.169053+00:00",
+  "updated": "2026-11-01T13:58:57.736251+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-01T07:00:00+01:00",
-        "stop": "2026-11-01T08:54:52+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-01T14:30:00+01:00",
+        "stop": "2026-11-01T15:37:40+01:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-11-01T08:54:52+01:00",
-        "stop": "2026-11-01T09:59:59+01:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-11-01T15:29:59+01:00",
+        "stop": "2026-11-01T17:01:34+01:00",
+        "title": "Pel·lícula",
+        "subtitle": "la forastera",
+        "description": "LA FORASTERA Producció: Televisió de Catalunya, Diagonal Televisió i Dune, 2007Direcció: José Pinheiro Guió: Olivier BalazucDirector fotografia: Jesús EscosaMúsica: Stéphane Le GouvelloIntèprets: Anne Caillon (Céline), Thomas Jouannet (Pierre), Gaëlle Bona (Mélaine), Marc Cartes (Manuel), Annie Gregorio (Simone) i Julien Cattin (Jêrome)Una dona d'uns 30 anys, la Céline Fraser, surt de la presó després d'haver complert una pena de deu anys pel suposat assassinat del seu amant. Durant la seva estada a la presó, ella ha reprès valentament els seus estudis i s'ha tret la diplomatura de periodisme, animada per les cartes d'un tal Daniel Morvan, director d'un diari local del sud de França. Aquest, a més, li ha fet arribar una carta de contractació. Però quan la Céline arriba a la petita illa on el seu contracte haurà de tenir efecte, es troba que en Morvan no hi és: l'equip de redacció del diari no sembla pas informat de la seva arribada i es mostra més aviat hostil. Obligada a ocultar el seu passat, la Céline prova d'integrar-se en la petita comunitat però els esdeveniments del passat semblen reproduir-se. Considerada a l'illa com 'la forastera', ella suscita la desconfiança i la sospita. És llavors quan en Pierre, redactor en cap, també desapareix i tots els indicis convergeixen cap a ella...",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-01T07:00:00+01:00",
-        "stop": "2026-11-01T10:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-01T14:30:00+01:00",
+        "stop": "2026-11-01T16:30:00+01:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-11-01T10:00:00+01:00",
-        "stop": "2026-11-01T12:00:00+01:00",
+        "start": "2026-11-01T16:30:00+01:00",
+        "stop": "2026-11-01T18:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,66 +83,76 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-01T07:05:33+01:00",
-        "stop": "2026-11-01T08:37:04+01:00",
-        "title": "Gol a gol",
-        "subtitle": "Post Barça-Alabès / J11",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-11-01T14:30:00+01:00",
+        "stop": "2026-11-01T16:55:00+01:00",
+        "title": "E3D",
+        "subtitle": "Marató de Nova York",
+        "description": "Una de les maratons més emblemàtiques del món. La cursa travessa els cinc districtes de la ciutat i s'acaba al Central Park.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/8/1769513581385.jpg"
       },
       {
-        "start": "2026-11-01T08:37:04+01:00",
-        "stop": "2026-11-01T10:14:07+01:00",
-        "title": "Billar a 3 bandes",
-        "subtitle": "Dani Sánchez-JS Ko / PBA Tour",
-        "description": "El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).",
+        "start": "2026-11-01T16:55:00+01:00",
+        "stop": "2026-11-01T17:50:32+01:00",
+        "title": "Futbol",
+        "subtitle": "UE Olot-CE Manresa / Segona Federació / J9",
+        "description": "Tots dos equips lluiten per ser a la zona capdavantera de la classificació gràcies a una trajectòria molt semblant. Els garrotxins sumen 15 punts i els bagencs, 14.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-01T07:42:49+01:00",
-        "stop": "2026-11-01T07:52:59+01:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "El tutú del Mic",
-        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
-        "image": ""
+        "start": "2026-11-01T14:32:56+01:00",
+        "stop": "2026-11-01T16:00:13+01:00",
+        "title": "Els herois inesperats",
+        "subtitle": "Els herois inesperats",
+        "description": "ELS HEROIS INESPERATS 'Die Wolf-Gäng'Direcció: Matthias TiefenbacherGuió: Tim TrageserProducció: Rat Pack Filmproduktion, Deutsche Columbia Pictures Film Production, Viva PicturesAny: 2020Durada: 97País: Alemanya Música: Andreas WeidingerFotografia: Felix PoplawskyIntèrprets: Aaron Kissiov, Johanna Schraml, Arsseni Bultmann, Rick Kavanian, Christian Berkel, Sonja Gerhardt, Axel Stein, Waldemar Kobus, Hilmi Sözer, Nicole Heesters, Arved Friese, Valentin Oppermann, Cassian-Bent Wegner, Hans-Jochen Wagner, Sanne Schnapp, Philipp Budweiser, Claudia Nierlich, Butz Ulrich Buse, Thorsten Kavur, Vivien Mertes, Greta Hubert, Aylin Can, Pauline Gremm, Naomi Dieme, Henrik Thiel, Nils Wolf, Miia Finnigan, Julia Koschitz, Sofie Pekar, Vivien Ruemer, Hossein Rahmani Manesh. ",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/6/1730101276464.jpg"
       },
       {
-        "start": "2026-11-01T07:52:59+01:00",
-        "stop": "2026-11-01T08:02:31+01:00",
-        "title": "El Mic i els seus amics",
-        "subtitle": "La maraca",
-        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-11-01T16:00:13+01:00",
+        "stop": "2026-11-01T16:24:38+01:00",
+        "title": "Fuet",
+        "subtitle": "Colom arriba després del creuer a Amèrica.",
+        "description": "Les nostres intrèpides exploradores s'aproximen a la Terra per completar la seva missió tot i que l'Eda troba a faltar a la família. Drames a banda, exploraran la controvertida descoberta d'Amèrica amb Cristòfor Colom i la seva expedició. Després d'arribar al continent, Colom presenta als Reis Catòlics les sorpreses que ha portat, incloent-hi exòtics productes com els xilis. Això desencadena un divertit 'challenge' de tast amb el fill Garcia, que posarà a prova la seva valentia davant les picants novetats.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-01T07:26:02+01:00",
-        "stop": "2026-11-01T07:49:01+01:00",
+        "start": "2026-11-01T14:45:12+01:00",
+        "stop": "2026-11-01T15:09:09+01:00",
         "title": "Quèquicom",
-        "subtitle": "Fumar, matar a distància",
-        "description": "Els efectes sobre la salut del fum del tabac seran analitzats demà a 'Quèquicom'. El fum del tabac conté més de vuit mil productes tòxics, entre els quals l'arsènic i la nicotina. I el programa científic del 33 descobrirà, a partir de les 21.30 i amb el títol genèric de 'Tabac: matar a distància', les amenaces per a la salut del tabaquisme, una addicció que causa prop de nou mil morts cada any a Catalunya. 'Quèquicom' es preocupa també pels fumadors passius, que són les persones que inhalen les substàncies tòxiques del fum del tabac generat per altres. És el cas de la Mari Luz Navarro, que només fa tres anys que treballa en un bar de Barcelona, on es passa tota la jornada laboral envoltada de fum. Ella es mostra optimista i no es vol preocupar per la manera com pot afectar la seva salut, però el reporter Miquel Piris es desplaça al bar amb un equip d'investigadors del CSIC per analitzar-ne l'aire i comparar-ne els nivells de contaminació amb els dels carrers de Barcelona. El resultat és que al bar hi ha deu vegades més pol·lució que a la ciutat.Un altre cas de fumadora passiva és el de l'Esther Roquer, que no ha fumat mai, però que va inhalar fum del tabac durant els 30 anys treballats en un bar. La conseqüència és que va agafar una malaltia pulmonar molt greu, que la va obligar a abandonar la feina. I ara, des de fa poc temps, es parla d'un nou grup, el dels 'fumadors de tercera mà'. El fum del tabac ho impregna tot i els tòxics que conté persisteixen en l'atmosfera, tot i haver apagat el cigarret. Aquestes substàncies nocives reaccionen amb els compostos nitrogenats de l'aire i produeixen un nou tipus de producte químic molt cancerigen, les nitrosamines.",
+        "subtitle": "Un menú nutrigenòmic",
+        "description": "'Quèquicom' explicarà què és un menú nutrigenòmic, una dieta específica per a cada persona, que li permet combatre amb els aliments els seus dèficits personals. El programa científic del 33 ho explicarà amb diversos exemples, com ara el reporter Miquel Piris, que es fa una anàlisi d'ADN per dissenyar una dieta que compensi nutritivament les carències dels seus gens. Un gen és un codificador de proteïnes i, si falla, pot ser que l'organisme no sintetitzi bé determinades substàncies. Ara la nutrigenòmica identifica els dèficits potencials de cada persona, fet que permet establir dietes específiques.",
         "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-11-01T07:49:01+01:00",
-        "stop": "2026-11-01T08:36:02+01:00",
-        "title": "La Renaixença",
-        "subtitle": "La uralita",
-        "description": "La uralita i el fibrociment són el mateix, literalment, però la uralita també és el nom que se li dona a un mineral preciós dels Urals. Òbviament, com que podem triar, hem decidit parlar de la uralita dolenta: del material que durant molts anys (i encara avui) trobem repartit per tot Catalunya. Ens visita en Mazoni, cantautor empordanès que també puja al nostre escenari per poder gaudir d'una de les seves cançons amb els arranjaments de 'La Renaixença'. I sortim a passejar la Tronca, un gos d'atura de Sabadell, per l'atac dels homes morts, a Polònia.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-11-01T15:09:09+01:00",
+        "stop": "2026-11-01T16:03:06+01:00",
+        "title": "Philippe Echaroux, il.luminar el món",
+        "subtitle": "Namíbia",
+        "description": "Philippe Echaroux és un fotògraf francès que es dedica a visitar poblacions remotes i amenaçades d'arreu del món per fer retrats i projectar-los en gran format sobre arbres o roques, a fi de donar a conèixer la lluita d'aquests pobles per sobreviure i per protegir el seu entorn. En aquesta ocasió viatja al nord de Namíbia per visitar els himbes, que viuen en unes condicions terribles, sobretot a causa d'una sequera que fa anys que dura.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/1/1784276124514.jpg"
       }
     ],
     "oca1": [],
-    "oca2": [],
+    "oca2": [
+      {
+        "start": "2026-11-01T14:27:26+01:00",
+        "stop": "2026-11-01T16:59:55+01:00",
+        "title": "Atletisme",
+        "subtitle": "- Marató de Nova York",
+        "description": "Una de les maratons més emblemàtiques del món. La cursa travessa els cinc districtes de la ciutat i s'acaba al Central Park.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/8/1769513581385.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
