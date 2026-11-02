@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02T01:48:59.560930+00:00",
+  "updated": "2026-11-02T08:46:07.635274+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-02T00:42:59+01:00",
-        "stop": "2026-11-02T04:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-02T08:00:09+01:00",
+        "stop": "2026-11-02T10:30:00+01:00",
+        "title": "Matins",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       },
       {
-        "start": "2026-11-02T04:00:00+01:00",
-        "stop": "2026-11-02T04:45:47+01:00",
-        "title": "Cava de Blues",
-        "subtitle": "Legacaster! The Hillbilly Trio",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+        "start": "2026-11-02T10:30:00+01:00",
+        "stop": "2026-11-02T13:55:00+01:00",
+        "title": "Tot es mou",
+        "subtitle": "",
+        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "genre": "MAGAZINE",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-02T01:00:00+01:00",
-        "stop": "2026-11-02T06:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-02T08:00:00+01:00",
+        "stop": "2026-11-02T10:30:00+01:00",
+        "title": "Matins",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       },
       {
-        "start": "2026-11-02T06:00:00+01:00",
-        "stop": "2026-11-02T08:00:00+01:00",
+        "start": "2026-11-02T10:30:00+01:00",
+        "stop": "2026-11-02T12:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-02T01:25:12+01:00",
-        "stop": "2026-11-02T03:00:26+01:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J11 / Diumenge",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
-      },
-      {
-        "start": "2026-11-02T03:00:26+01:00",
-        "stop": "2026-11-02T04:45:51+01:00",
+        "start": "2026-11-02T08:16:40+01:00",
+        "stop": "2026-11-02T10:01:51+01:00",
         "title": "Futbol",
         "subtitle": "FC Badalona Women-FC Barcelona / Lliga F / J9",
         "description": "El derbi arriba amb el Barça líder, 7 victòries i 1 derrota per a les blaugranes. Les badalonines només han guanyat 1 partit i volen sortir de la zona baixa.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+      },
+      {
+        "start": "2026-11-02T10:01:51+01:00",
+        "stop": "2026-11-02T10:52:30+01:00",
+        "title": "Arrelats",
+        "subtitle": "María José Varela",
+        "description": "",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-02T02:48:15+01:00",
-        "stop": "2026-11-02T02:58:14+01:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "El detectiu Plom",
-        "description": "A l'aventura poptàstica d'avui, el Plom té una disfressa nova de detectiu i moltes ganes de resoldre misteris. El detectiu Plom es disposa a investigar, però com que la Phoebe el necessita per arreglar l'hort de la Mae-Mae, el Plom decideix ajudar-la. Quan el Plom està a punt de començar a treballar a l'hort, es pregunta qui l'ha destrossat. Després de descobrir una gran pista, el detectiu Plom torna a reprendre el cas! Serà capaç, el Pop, de resoldre el misteri de l'hort i ajudar la Phoebe tal com li ha promès?",
+        "start": "2026-11-02T09:25:20+01:00",
+        "stop": "2026-11-02T09:48:55+01:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les tres bessones i el soldadet de plom",
+        "description": "L'Avorrida no ha dominat la seva màgia i no sap a quina història ha enviat les Bessones. Elles són amb el soldadet de plom, amb qui viatjaran al fons del mar i a l'estómac d'un gran peix! Allà hi coneixen una ballarina, el veritable amor del soldadet… Mentrestant, la Bruixa volta pels contes buscant les nenes.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-02T02:58:14+01:00",
-        "stop": "2026-11-02T03:08:14+01:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "Un dia de neu",
-        "description": "En l'aventura poptàstica d'avui, la Phoebe i els seus amics es diverteixen a la fira d'hivern que han muntat a Pop, la ciutat de paper. Encara els falta fer un ninot de neu i la Phoebe està decidida a fer que sigui el millor ninot de neu que han fet mai. La Phoebe i la Fly van a buscar una pastanaga per fer de nas del ninot, però han de vigilar perquè s'acosta una tempesta de neu. Aconseguran tornar a la fira d'hivern abans que arribi la tempesta, la Phoebe i la Fly?",
+        "start": "2026-11-02T09:48:55+01:00",
+        "stop": "2026-11-02T10:11:32+01:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les tres bessones i el taller de Gaudí",
+        "description": "L'Avorrida envia les nenes a la Barcelona de començaments del segle XX, on coneixeran Antoni Gaudí, un arquitecte que sempre s'imagina edificis estranys. A en Gaudí, però, no li fa cap gràcia que el distreguin, com fan les Bessones.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-02T02:18:47+01:00",
-        "stop": "2026-11-02T03:06:18+01:00",
-        "title": "El Crac",
-        "subtitle": "La gran família",
-        "description": "El Joel està totalment superat per la seva inesperada paternitat. No dóna a l'abast amb els seus cinc fills adoptius i es planteja tornar-los al seu país d'origen com més aviat millor. Per part seva, la Sandra comença a adonar-se que el Julio potser no és tan perfecte com semblava. Mentrestant, continuen els assajos de l'obra i el Lluís Soler es nega a plorar en escena. El Gnocchi farà tot el possible per emocionar-lo, costi el que costi.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-11-02T09:33:46+01:00",
+        "stop": "2026-11-02T10:03:09+01:00",
+        "title": "Marcians",
+        "subtitle": "Amants del teatre, teatre amateur",
+        "description": "En el seu darrer musical, 'L'amor venia en taxi', La Cubana fan un homenatge al teatre amateur. No deixa de ser un homenatge a la pròpia companyia, que té les seves arrels en aquesta activitat tan estesa per tot Catalunya.En aquest reportatge fem un recorregut pel país i per diferents grups del que els 'cubaneros' anomenen teatre d'aficionats.L'iniciem amb en Rubèn Montañá un dels intèrprets i coautor de 'L'amor venia en taxi', que es va iniciar en l'ofici a través del Círcol de Badalona, una de les institucions més antigues i amb la qual encara continua vinculat, combinant professionalitat i amateurisme.D'un grup històric passem al Teatre Jove Bellver que celebra el desè aniversari. El 2016 una colla de joves de la Cerdanya al voltant dels 14 anys, va crear el seu propi grup que continua en actiu i ja ha vist com ha inspirat a una segona generació que segueix els seus passos.Molts grups de teatre amateur estan vinculats a ateneus o institucions en què hi conviuen diferents activitats. Aquest és el cas d'un altre espai més que centenari, el Centre de Llorenç del Penedès. S'hi fan produccions en què hi arriben a participar més de cent persones i l'any que acabem de deixar enrere han arribat a estrenar quatre obres diferents.I acabem aquest circuit amb un grup amb més de trenta anys d'història i dels més singulars del país. Es tracta de Tràfec Teatre, una agrupació que s'ha especialitzat en el teatre de gest i visual. Una disciplina aquí sovint vinculada a la comèdia, tot i que elles mai han conreat l'humor, sinó el drama i la tragèdia, sense pronunciar una sola paraula. Aquesta característica també els ha convertit en un dels grups amb més projecció internacional en el circuit amateur europeu.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-11-02T03:06:18+01:00",
-        "stop": "2026-11-02T03:55:00+01:00",
-        "title": "Benvinguts a la família",
-        "subtitle": "La família",
-        "description": "Quan l'Àngela i la seva família es troben vivint sota mínims en un càmping, es veuen obligats a fer allò que menys s'esperen, aliar-se amb el Marcos per aconseguir fer fora la Victòria i l'Àlex de casa l'Eduardo.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-11-02T10:03:09+01:00",
+        "stop": "2026-11-02T10:26:59+01:00",
+        "title": "Marcians",
+        "subtitle": "Canta (de) gran",
+        "description": "Fa 25 anys es va posar en marxa el Canta Gran, una cantata participativa adreçada a corals de gent gran de Barcelona, que tenien així per primer cop l'oportunitat de pujar dalt d'un escenari professional com és L'Auditori de Barcelona. Des de llavors, hi han passat milers de cantaires, persones que tot sovint amb la jubilació han trobat en el cant coral una manera d'expressar-se, relacionar-se i gaudir d'una nova etapa de la vida. És el cas de la Núria Campmany i la Montse Reniu, dues cantaires de l'Eco de Catalunya, un orfeó de Sant Andreu amb 126 anys d'història que presideix la Rosa Maria Altayó, que hi porta 55 anys cantant. El Constantí Sotelo en té 86, d'anys, i en fa gairebé 50 que va fundar la Coral Canticòrum a Nou Barris. La seva història d'amor per la música va començar al seminari, i tot i que va penjar els hàbits, la música ha estat la seva professió i la seva passió. Enguany, tots han hagut d'assajar a fons 'A la ciutat', la cantata composta per Carles Prat Vives i amb lletra de l'escriptora Steffanie Kremser, que els ha suposat un gran repte. La directora musical des dels inicis del projecte, la Montse Meneses, en dona testimoni. 350 cantaires de 30 corals de Barcelona la van posar de llarg el passat desembre i aquest trimestre seran corals de Tarragona, Girona, Vic, Figueres, Manresa i l'àrea metropolitana de Barcelona les que la faran possible amb les seves veus.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
