@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-01T22:33:29.914608+00:00",
+  "updated": "2026-11-02T01:48:59.560930+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-01T22:55:44+01:00",
-        "stop": "2026-11-02T00:06:29+01:00",
-        "title": "Vèrtex",
-        "subtitle": "",
-        "description": "Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.",
-        "genre": "ENTREVISTES",
-        "image": ""
-      },
-      {
-        "start": "2026-11-02T00:06:29+01:00",
-        "stop": "2026-11-02T00:43:48+01:00",
-        "title": "Gent amb DO",
-        "subtitle": "DO Montsant. 'La comarca rosa'",
-        "description": "Jove, salvatge i elegant. Empar Moliner recorre la DO Montsant, un territori abraçat per muntanyes que, en poc més de dues dècades, s'ha fet un lloc entre els grans paisatges del vi. Però, entre una orografia abrupta i uns vins admirats arreu del món, s'amaga una pregunta: per què li diuen la DO rosa? Quin és el do del Montsant?",
-        "genre": "SÈRIE DOCUMENTAL",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-11-01T23:00:00+01:00",
-        "stop": "2026-11-02T00:30:00+01:00",
+        "start": "2026-11-02T00:42:59+01:00",
+        "stop": "2026-11-02T04:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-02T00:30:00+01:00",
-        "stop": "2026-11-02T01:00:00+01:00",
+        "start": "2026-11-02T04:00:00+01:00",
+        "stop": "2026-11-02T04:45:47+01:00",
+        "title": "Cava de Blues",
+        "subtitle": "Legacaster! The Hillbilly Trio",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-11-02T01:00:00+01:00",
+        "stop": "2026-11-02T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-02T06:00:00+01:00",
+        "stop": "2026-11-02T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-01T23:00:33+01:00",
-        "stop": "2026-11-02T00:31:41+01:00",
+        "start": "2026-11-02T01:25:12+01:00",
+        "stop": "2026-11-02T03:00:26+01:00",
         "title": "Gol a gol",
         "subtitle": "Anàlisi de la jornada / J11 / Diumenge",
         "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
@@ -92,52 +92,52 @@
         "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-11-02T00:31:41+01:00",
-        "stop": "2026-11-02T01:01:18+01:00",
-        "title": "Motor a fons",
-        "subtitle": "- GP de Malàisia",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
+        "start": "2026-11-02T03:00:26+01:00",
+        "stop": "2026-11-02T04:45:51+01:00",
+        "title": "Futbol",
+        "subtitle": "FC Badalona Women-FC Barcelona / Lliga F / J9",
+        "description": "El derbi arriba amb el Barça líder, 7 victòries i 1 derrota per a les blaugranes. Les badalonines només han guanyat 1 partit i volen sortir de la zona baixa.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-01T23:28:20+01:00",
-        "stop": "2026-11-01T23:39:22+01:00",
-        "title": "La tropa del corral",
-        "subtitle": "Un desastre somnàmbul",
-        "description": "Quan els habitants de Vilanimal es comencen a despertar a cases que no són les seves, truquen la Tropa perquè els ajudi a resoldre el misteri. Aviat descobreixen que el responsable de tot aquest desgavell és en Cornelius, que és somnàmbul! Ara el problema serà aturar-lo.",
+        "start": "2026-11-02T02:48:15+01:00",
+        "stop": "2026-11-02T02:58:14+01:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "El detectiu Plom",
+        "description": "A l'aventura poptàstica d'avui, el Plom té una disfressa nova de detectiu i moltes ganes de resoldre misteris. El detectiu Plom es disposa a investigar, però com que la Phoebe el necessita per arreglar l'hort de la Mae-Mae, el Plom decideix ajudar-la. Quan el Plom està a punt de començar a treballar a l'hort, es pregunta qui l'ha destrossat. Després de descobrir una gran pista, el detectiu Plom torna a reprendre el cas! Serà capaç, el Pop, de resoldre el misteri de l'hort i ajudar la Phoebe tal com li ha promès?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-01T23:39:22+01:00",
-        "stop": "2026-11-01T23:50:10+01:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "Bon Mitnadal (1ªpart)",
-        "description": "El Pare Osset no podrà repartir els regals de Mitnadal perquè li toca fer la hibernació, però tria un habitant de Mitelàndia perquè el substitueixi: la Felicity, que rep el nomenament amb alegria, però també amb nervis perquè és una gran responsabilitat.",
+        "start": "2026-11-02T02:58:14+01:00",
+        "stop": "2026-11-02T03:08:14+01:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "Un dia de neu",
+        "description": "En l'aventura poptàstica d'avui, la Phoebe i els seus amics es diverteixen a la fira d'hivern que han muntat a Pop, la ciutat de paper. Encara els falta fer un ninot de neu i la Phoebe està decidida a fer que sigui el millor ninot de neu que han fet mai. La Phoebe i la Fly van a buscar una pastanaga per fer de nas del ninot, però han de vigilar perquè s'acosta una tempesta de neu. Aconseguran tornar a la fira d'hivern abans que arribi la tempesta, la Phoebe i la Fly?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-01T22:57:51+01:00",
-        "stop": "2026-11-01T23:50:53+01:00",
-        "title": "Llocs recòndits",
-        "subtitle": "L'Egeu amagat de Turquia",
-        "description": "Acompanyeu en Peter Greenberg, el presentador, mentre viatja per tota la costa del mar Egeu i explora Bodrum, Esmirna i l'antiga ciutat de Troia.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-02T02:18:47+01:00",
+        "stop": "2026-11-02T03:06:18+01:00",
+        "title": "El Crac",
+        "subtitle": "La gran família",
+        "description": "El Joel està totalment superat per la seva inesperada paternitat. No dóna a l'abast amb els seus cinc fills adoptius i es planteja tornar-los al seu país d'origen com més aviat millor. Per part seva, la Sandra comença a adonar-se que el Julio potser no és tan perfecte com semblava. Mentrestant, continuen els assajos de l'obra i el Lluís Soler es nega a plorar en escena. El Gnocchi farà tot el possible per emocionar-lo, costi el que costi.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-11-01T23:50:53+01:00",
-        "stop": "2026-11-02T00:17:17+01:00",
-        "title": "Els hotels més remots del món",
-        "subtitle": "Briol",
-        "description": "L'única manera d'arribar a aquesta encantadora fonda és a peu. La Johanna Fink von Klebelsberg, l'excèntrica propietària de Briol, besneta de la fundadora, ha preservat intel·ligentment el caràcter antic de la fonda sense afegir-hi cap luxe modern...ni homes! La tradició demana que tot el personal familiar de l'hotel sigui exclusivament femení. La majoria dels menús estan elaborats amb ingredients locals produïts per la comunitat local, creant una atmosfera única entre les muntanyes tiroleses. Fis a 4 generacions de dones ha dirigit aquest hotel fins avui. ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-02T03:06:18+01:00",
+        "stop": "2026-11-02T03:55:00+01:00",
+        "title": "Benvinguts a la família",
+        "subtitle": "La família",
+        "description": "Quan l'Àngela i la seva família es troben vivint sota mínims en un càmping, es veuen obligats a fer allò que menys s'esperen, aliar-se amb el Marcos per aconseguir fer fora la Victòria i l'Àlex de casa l'Eduardo.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
