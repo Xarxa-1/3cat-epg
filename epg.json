@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02T19:03:58.122213+00:00",
+  "updated": "2026-11-03T01:33:50.917689+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-02T19:14:45+01:00",
-        "stop": "2026-11-02T20:15:00+01:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
-        "image": ""
-      },
-      {
-        "start": "2026-11-02T20:15:00+01:00",
-        "stop": "2026-11-02T21:00:00+01:00",
-        "title": "Està passant",
-        "subtitle": "",
-        "description": "L'Òscar Andreu i el Queco parlen de com avança la campanya electoral. L'Andrés Fajngold es converteix en mestre castanyer i la Judit Martín, en ravera.",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-11-02T20:00:00+01:00",
-        "stop": "2026-11-02T21:00:00+01:00",
+        "start": "2026-11-03T02:06:52+01:00",
+        "stop": "2026-11-03T04:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,88 +52,98 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-02T21:00:00+01:00",
-        "stop": "2026-11-02T22:05:00+01:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-11-03T04:00:00+01:00",
+        "stop": "2026-11-03T04:44:58+01:00",
+        "title": "Cava de Blues",
+        "subtitle": "Martini Surfers",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-11-03T01:00:00+01:00",
+        "stop": "2026-11-03T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-03T06:00:00+01:00",
+        "stop": "2026-11-03T08:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-02T19:00:00+01:00",
-        "stop": "2026-11-02T20:30:37+01:00",
+        "start": "2026-11-03T02:25:39+01:00",
+        "stop": "2026-11-03T02:45:54+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+      },
+      {
+        "start": "2026-11-03T02:45:54+01:00",
+        "stop": "2026-11-03T04:16:49+01:00",
         "title": "Tot Costa",
         "subtitle": "De Jong de central contra l'Aston Villa?",
         "description": "Hansi Flick va provar De Jong de central i Brian Fariñas de lateral. Repetiran a la Champions contra l'Aston Villa? En parlarem amb Dani Senabre, Marcos López i Anaïs Martí. Amb Roger Arbusà sentirem Unai Emery i entrevistarem el CEO de l'Aston Villa, Damià Vidagany. Al 'Torquelab' de Ricard Torquemada analitzarem De Jong i Fariñas i amb Ramon Salmurri sentirem Flick i Anthony Gordon. ",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
-      },
-      {
-        "start": "2026-11-02T20:30:37+01:00",
-        "stop": "2026-11-02T21:00:24+01:00",
-        "title": "Esport Club",
-        "subtitle": "Anthony Gordon, Hansi Flick i tertúlia",
-        "description": "Les rodes de premsa d'Anthony Gordon i Hansi Flick en la prèvia del Barça-Aston Villa de demà. I tertúlia amb Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-02T20:00:00+01:00",
-        "stop": "2026-11-02T20:17:25+01:00",
-        "title": "InfoK",
-        "subtitle": "",
-        "description": "En aquest InfoK us expliquem que diverses ciutats es van blindar aquest cap de setmana per por a les noves convocatòries de violència del grup Blocus. A alguns instituts s'ha treballat per explicar-vos com de perillós és caure en aquests paranys. Aguantar la pressió del grup no és gens fàcil.Aquest cap de setmana, les convocatòries no van tenir cap èxit.Avui també coneixerem nous habitants del fons marí.Tota mena de criatures fins ara mai vistes que viuen en una fossa a l'oceà Atlàntic. Una expedició científica s'ha submergit a fondàries màximes per investigar-les!I us presentem dues porteres, una del Barça i l'altra del Badalona. Aquest cap de setmana els seus equips s'han enfrontat en la màxima divisió i elles són germanes, la Gemma i la Txell Font. ",
-        "genre": "INFORMATIU DIÀRI",
+        "start": "2026-11-03T02:12:27+01:00",
+        "stop": "2026-11-03T02:34:55+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Lady Caos",
+        "description": "L'Adrien decideix fer un documental sobre el seu pare, Gabriel Agreste, i demana ajuda al Nino i la Marinette. L'objectiu és entrevistar les persones que el van conèixer bé, com la Nathalie o la senyora Tsurugi. La Marinette intenta protegir els seus secrets convençuda que, d'aquesta manera, protegeix els sentiments del seu amor.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-02T20:17:25+01:00",
-        "stop": "2026-11-02T20:38:08+01:00",
-        "title": "Henry Danger",
-        "subtitle": "Bonavista Té Talent",
-        "description": "Quan diversos participants d'un popular concurs de talents comencen a desmaiar-se misteriosament, en Henry i el Capità Man investiguen què s'amaga darrere l'espectacle.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-11-03T02:34:55+01:00",
+        "stop": "2026-11-03T02:56:44+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Tristanansi",
+        "description": "La Marinette està segura que la Nora i el seu company Brindille senten alguna cosa l'un per l'altre però no gosen dir-ho. Si amaguen els seus sentiments, hi ha el perill que girin l'esquena a l'amor. Per la Marinette és completament inconcebible i decideix intervenir-hi, per bé o per mal.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-02T19:23:35+01:00",
-        "stop": "2026-11-02T20:12:45+01:00",
-        "title": "Savis i sàvies",
-        "subtitle": "Josep Vallverdú",
-        "description": "Nascut a Lleida, el nostre convidat d'avui ha viscut al llarg de la seva vida a les quatre demarcacions catalanes, tot i que sempre ha estat de Ponent. Amb 103 anys de vida, ha escrit novel·les, dietaris, poesia i ha fet articles i traduccions. Tota una carrera al voltant de la paraula i de la cultura catalana, que no seria la mateixa sense la seva obra.",
-        "genre": "ENTREVISTES",
+        "start": "2026-11-03T02:22:38+01:00",
+        "stop": "2026-11-03T02:58:29+01:00",
+        "title": "Gran Reserva. Còmics",
+        "subtitle": "Lolita",
+        "description": "",
+        "genre": "GAGS. HUMOR",
         "image": ""
       },
       {
-        "start": "2026-11-02T20:12:45+01:00",
-        "stop": "2026-11-02T20:59:41+01:00",
-        "title": "País d'altura",
-        "subtitle": "Costa Brava",
-        "description": "La Costa Brava és molt més que cales de postal: és tramuntana, artistes, pirates, rucs catalans, Dalí i racons que et fan pensar que el paradís existeix.",
-        "genre": "",
+        "start": "2026-11-03T02:58:29+01:00",
+        "stop": "2026-11-03T03:33:20+01:00",
+        "title": "Gran Reserva. Còmics",
+        "subtitle": "Montserrat Martí Caballé",
+        "description": "",
+        "genre": "GAGS. HUMOR",
         "image": ""
       }
     ],
     "oca1": [],
     "oca2": [],
-    "oca3": [
-      {
-        "start": "2026-11-02T18:59:50+01:00",
-        "stop": "2026-11-02T20:29:45+01:00",
-        "title": "Tot Costa",
-        "subtitle": "",
-        "description": "Hansi Flick va provar De Jong de central i Brian Fariñas de lateral. Repetiran a la Champions contra l'Aston Villa? En parlarem amb Dani Senabre, Marcos López i Anaïs Martí. Amb Roger Arbusà sentirem Unai Emery i entrevistarem el CEO de l'Aston Villa, Damià Vidagany. Al 'Torquelab' de Ricard Torquemada analitzarem De Jong i Fariñas i amb Ramon Salmurri sentirem Flick i Anthony Gordon. ",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
-      }
-    ],
+    "oca3": [],
     "oca4": []
   }
 }
