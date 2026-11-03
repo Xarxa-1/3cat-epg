@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-03T08:33:20.613105+00:00",
+  "updated": "2026-11-03T16:33:16.519094+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-03T08:00:03+01:00",
-        "stop": "2026-11-03T10:30:00+01:00",
-        "title": "Matins",
+        "start": "2026-11-03T16:49:42+01:00",
+        "stop": "2026-11-03T19:14:59+01:00",
+        "title": "La Selva",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "description": "Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.",
+        "genre": "MAGAZINE",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
       },
       {
-        "start": "2026-11-03T10:30:00+01:00",
-        "stop": "2026-11-03T13:55:00+01:00",
-        "title": "Tot es mou",
+        "start": "2026-11-03T19:14:59+01:00",
+        "stop": "2026-11-03T20:15:00+01:00",
+        "title": "Atrapa'm si pots",
         "subtitle": "",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
-        "genre": "MAGAZINE",
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-03T08:00:00+01:00",
-        "stop": "2026-11-03T10:30:00+01:00",
-        "title": "Matins",
+        "start": "2026-11-03T17:00:00+01:00",
+        "stop": "2026-11-03T18:30:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-03T10:30:00+01:00",
-        "stop": "2026-11-03T12:30:00+01:00",
+        "start": "2026-11-03T18:30:00+01:00",
+        "stop": "2026-11-03T20:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,67 +83,77 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-03T09:29:34+01:00",
-        "stop": "2026-11-03T10:13:00+01:00",
-        "title": "Aire Lliure",
-        "subtitle": "Aigües gironines",
-        "description": "Aigües gironines La cantant Judit Neddermann i el director de cinema Albert Serra seran els dos convidats de Judit Mascó en el primer programa de la segona temporada d''Aire Lliure'. Al costat de Quim Fontané, campió del món d'estil lliure, la Judit practicarà les tres modalitats del piragüisme: aigües tranquil·les, aigües braves i a mar obert. Al final, n'haurà d'escollir una.  ",
-        "genre": "REPORTATGES",
-        "image": ""
+        "start": "2026-11-03T17:31:08+01:00",
+        "stop": "2026-11-03T17:58:49+01:00",
+        "title": "Top gols La Lliga",
+        "subtitle": "Jornada 11",
+        "description": "'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.",
+        "genre": "ESPECIALS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"
       },
       {
-        "start": "2026-11-03T10:13:00+01:00",
-        "stop": "2026-11-03T10:58:21+01:00",
-        "title": "Arrelats",
-        "subtitle": "Cristóbal Colón",
-        "description": "",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-11-03T17:58:49+01:00",
+        "stop": "2026-11-03T19:00:00+01:00",
+        "title": "Esport Club",
+        "subtitle": "Mor Jesús de Miguel, prèvia Barça-Aston Villa i tertúlia",
+        "description": "Consternació en el món del futbol per la mort del jugador del Tenerife Jesús de Miguel. El Barça es vol fer fort a la Champions. Última hora del partit contra l'Aston Villa amb Francesc Latorre i l'anàlisi de l'Àlex Delmàs. Joan Fàbregas ens fa el perfil de Davide Massa, l'àrbitre designat per avui al Camp Nou. A la tertúlia ens acompanyen Raúl Fuentes, Joan Poquí i Gemma Mallorca.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-03T09:17:27+01:00",
-        "stop": "2026-11-03T09:41:29+01:00",
-        "title": "Les Tres Bessones",
-        "subtitle": "Les tres bessones i Hansel i Gretel",
-        "description": "En Hansel, la Gretel i les tres bessones entren en una ciutat feta de caramel. De seguida s'adonen que és una trampa, però la bruixa Sacarina ja ha tancat en Hansel i la Gretel per engreixar-los a base de pastissos i menjar-se'ls.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-11-03T17:22:49+01:00",
+        "stop": "2026-11-03T17:33:48+01:00",
+        "title": "A jugar! Amb en Titó i els Fa la la",
+        "subtitle": "A jugar amb el gegant del bosc",
+        "description": "En Titó i els Fa La La dormen acampats al bosc quan, de sobte, un terrabastall els desperta en plena nit. El campament està tot de cap per avall... i hi ha una petjada enorme! Serà d'un gegant del bosc? ",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-11-03T09:41:29+01:00",
-        "stop": "2026-11-03T10:04:06+01:00",
-        "title": "Les Tres Bessones",
-        "subtitle": "Les tres bessones i Vincent Van Gogh",
-        "description": "Vincent van Gogh és un holandès eixelebrat que viu al sud de França, on pinta gira-sols. El dia que les Bessones el coneixen, està content perquè el visita un gran pintor i amic seu, Paul Gauguin. Mentre tots dos esperen que pari de ploure per sortir a pintar, retraten les Bessones i es pinten mútuament. Però acaben discutint-se i Gauguin se'n va molt enfadat.",
+        "start": "2026-11-03T17:33:48+01:00",
+        "stop": "2026-11-03T17:45:00+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla Marina: La Patrulla salva una campana de busseig que vola",
+        "description": "Un volcà submarí està a punt d'entrar en erupció i la Yumi i l'alcaldessa Goodway no ho saben i hi han anat a fer submarinisme a prop.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-03T09:28:05+01:00",
-        "stop": "2026-11-03T09:57:21+01:00",
-        "title": "Animals arquitectes",
-        "subtitle": "Ana & Eugeni Bach",
-        "description": "L'Anna i l'Eugeni són la fusió perfecta entre Finlàndia i Catalunya, una combinació de seny i rauxa que fa que del seu estudi surtin projectes atractius, molt ben pensats i amb un toc juganer i sorprenent. L'Anna és finlandesa, però ja fa molts anys que viu a Catalunya, i tot i que sent admiració per arquitectes finlandesos com Alvar i Aino Aalto és una enamorada de l'arquitectura mediterrània i dels seus espais exteriors: porxos, patis, terrasses… Espais que reivindica i que incorporen en molts dels seus projectes.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"
+        "start": "2026-11-03T16:42:13+01:00",
+        "stop": "2026-11-03T17:31:35+01:00",
+        "title": "No pot ser!",
+        "subtitle": "MIT: fabricant el futur",
+        "description": "El 'No pot ser!' s'endinsa a un dels epicentres de la innovació tecnològica mundial, el MIT a Boston, Massachussetts. Recorrerem els seus passadissos i laboratoris d'idees de la mà de catalans que viuen i treballen en aquest mític institut i que ens descobriran quins enginys i tecnologies preparen pel dia de demà. Drons de vol autònom, robots biomimètics, noves interfícies i nanotecnologia són alguns dels ingredients de la fàbrica que dissenya el futur. ",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       },
       {
-        "start": "2026-11-03T09:57:21+01:00",
-        "stop": "2026-11-03T10:19:24+01:00",
-        "title": "Marcians",
-        "subtitle": "Josep Colom, pianista lliure",
-        "description": "Daniel Barenboim el considera un mestre, i per a molts músics joves de clàssica és un referent indiscutible. Josep Colom ha dedicat la vida al piano, un instrument que sempre ha entès i ha tractat amb respecte però també amb molta llibertat. Fins i tot en els seus discs, Colom sovint improvisa interludis entre les obres dels grans mestres que interpreta (d'entre els quals Brahms n'és el preferit; fins i tot se li ha aparegut en somnis). Un altre dels seus referents és Pau Casals; aquest any es commemora el 150è aniversari del seu naixement i Colom l'homenatja tot sovint --en concerts que fa-- tocant el piano del mestre al Museu de la Fundació Pau Casals del Vendrell. El coneixem en la seva vida quotidiana --també al Baix Penedès--, en la seva tasca pedagògica i en conversa amb els amics Noelia Rodiles, pianista, i Joan Magrané, compositor.",
-        "genre": "ALTRES",
+        "start": "2026-11-03T17:31:35+01:00",
+        "stop": "2026-11-03T17:58:06+01:00",
+        "title": "Quèquicom",
+        "subtitle": "La bicicleta: una màquina perfecta",
+        "description": "Avui, mostrem la perfecció de la bicicleta com a màquina. Sota el títol general 'Bicicleta: la màquina perfecta', i amb la col·laboració del campió Melcior Mauri, el programa científic del 33 n'oferirà els detalls: consumeix 40 vegades menys que el cotxe i la seva fabricació estalvia 100 vegades més energia que l'automòbil. És també el mitjà de transport més ràpid en distàncies inferiors als 8 quilòmetres i, a més, el seu ús és saludable.Al llarg del programa, el reporter Pere Renom participarà en la classe de 'spinning' (bicicleta estàtica) més multitudinària del món per constatar els beneficis sobre el sistema cardiovascular d'aquest esport. Més tard s'iniciarà en la bicicleta de muntanya (BTT) amb Israel Núñez, 6 vegades campió d'Espanya i campió de la Titan Desert. La BTT és una modalitat molt explosiva i tècnica pel fet que es practica en terrenys molt irregulars. Israel Núñez dedica molt temps a la muntanya per conservar la tècnica, però la major part de l'entrenament el fa a la carretera, que és la disciplina reina del ciclisme esportiu. I un dels grans ciclistes dels últims temps és Melcior Mauri. Especialista en contrarellotge, Mauri va aconseguir 52 victòries com a professional. Sap què és posar el cos al límit. El premi a l'esforç és que, de vegades, s'aconsegueix ser l'esportista perfecte damunt la màquina perfecta.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
     "oca1": [],
     "oca2": [],
     "oca3": [],
-    "oca4": []
+    "oca4": [
+      {
+        "start": "2026-11-03T17:06:28+01:00",
+        "stop": "2026-11-03T20:06:23+01:00",
+        "title": "Compareixença al Congrés del ministre Puente",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/6/5/1793344419256.jpg"
+      }
+    ]
   }
 }
