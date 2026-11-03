@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-03T16:33:16.519094+00:00",
+  "updated": "2026-11-03T22:00:01.152148+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-03T16:49:42+01:00",
-        "stop": "2026-11-03T19:14:59+01:00",
-        "title": "La Selva",
-        "subtitle": "",
-        "description": "Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
+        "start": "2026-11-03T22:06:10+01:00",
+        "stop": "2026-11-03T23:11:49+01:00",
+        "title": "Nits Sense ficció",
+        "subtitle": "Amenaça totalitària",
+        "description": "El documental del 'Sense ficció' 'Amenaça totalitària' entra en el món de l'extrema dreta d'Espanya, Itàlia i Suècia, i analitza les causes del seu creixement: una globalització mal portada que ha anul·lat l'ascensor social i ha fet més grans les diferències de classe, uns partits polítics que no han sabut interpretar les necessitats dels més desfavorits i una extrema dreta demagògica que aprofita aquest buit, eleva a la categoria de problema la immigració i imposa una única identitat nacional, de la qual s'erigeix en salvadora.'Amenaça totalitària' viatja a Andalusia, on va emergir primer l'extrema dreta en unes eleccions, i visita ciutats com El Ejido, a Almeria, on, tot i tenir l'índex d'atur més baix d'Andalusia, el fantasma de la immigració que pren els llocs de treball i provoca delinqüència és el lema polític que ha fet guanyadora l'extrema dreta.El documental radiografia els militants, simpatitzants i quadres de Vox a Catalunya, formats per una amalgama d'exmilitants del PP i de forces d'extrema dreta de tota mena; des d'exnazis fins a feixistes i ultradretans. Assistim a mítings i reunions de Vox i entrevistem alguns dels seus intel·lectuals, com Fernando Sánchez Dragó, autor del llibre programàtic i patriòtic sobre Vox i el seu líder, Santiago Abascal.L'extrema dreta està instal·lada ja al poder en diversos països d'Europa, com ara Hongria, Polònia o Itàlia. Al país transalpí, 'Amenaça totalitària' entrevista alts dirigents de La Lliga, com el president del seu grup parlamentari, Ricardo Molinari. També viatgem a Suècia, l'únic país d'Europa on els partits polítics de centreesquerra han format un cordó sanitari per impedir l'accés de l'extrema dreta, representada per Demòcrates de Suècia, a les altes institucions de l'Estat.",
+        "genre": "DOCUMENTAL",
+        "image": ""
       },
       {
-        "start": "2026-11-03T19:14:59+01:00",
-        "stop": "2026-11-03T20:15:00+01:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "start": "2026-11-03T23:11:49+01:00",
+        "stop": "2026-11-04T00:15:56+01:00",
+        "title": "Documental",
+        "subtitle": "Laietana, 43. El cau de la bèstia.",
+        "description": "'Laietana,43. El cau de la bèstia' (2023) una producció de Balandra Films en coproducció amb 3Cat i la col·laboració de l'ICEC Memorial Democràtic.La 'Jefatura Superior de policía' de la Via Laietana, creada l'any 1929, ha sigut testimoni durant els quasi 100 anys que han passat des de la seva inauguració, de tota mena de tortures i vexacions a les persones detingudes que han passat per les seves dependències. Anarquistes, opositors franquistes, sindicalistes, moviments estudiantils, col·lectiu LGTBI i romaní, etc. Tot s'hi valia per aconseguir confessions.Direcció i realització: Jaume Domènech BarconsGuió: Clàudia Aranda RieraProductor: Jaume Domènech BarconsProductor executiu TVC: Cristina muñoz ClotetProductor delegat TVC: Daniel Barea DelgadoDirector fotografia: Eduard Vilà MoixMuntatge: Clàudia Aranda RieraDirector de producció: Clàudia Aranda RieraMúsica: Roger Gascon SalvadóLingüista: Carme Casals CampGrafisme: Hristina Braykova Braykova",
+        "genre": "DOCUMENTAL DE CREACIÓ",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-03T17:00:00+01:00",
-        "stop": "2026-11-03T18:30:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-03T22:05:00+01:00",
+        "stop": "2026-11-04T00:00:00+01:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       },
       {
-        "start": "2026-11-03T18:30:00+01:00",
-        "stop": "2026-11-03T20:00:00+01:00",
+        "start": "2026-11-04T00:00:00+01:00",
+        "stop": "2026-11-04T00:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,77 +83,67 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-03T17:31:08+01:00",
-        "stop": "2026-11-03T17:58:49+01:00",
-        "title": "Top gols La Lliga",
-        "subtitle": "Jornada 11",
-        "description": "'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.",
-        "genre": "ESPECIALS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"
+        "start": "2026-11-03T20:56:22+01:00",
+        "stop": "2026-11-03T23:01:34+01:00",
+        "title": "Un dia de partit",
+        "subtitle": "Barça-Aston Villa",
+        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
       },
       {
-        "start": "2026-11-03T17:58:49+01:00",
-        "stop": "2026-11-03T19:00:00+01:00",
-        "title": "Esport Club",
-        "subtitle": "Mor Jesús de Miguel, prèvia Barça-Aston Villa i tertúlia",
-        "description": "Consternació en el món del futbol per la mort del jugador del Tenerife Jesús de Miguel. El Barça es vol fer fort a la Champions. Última hora del partit contra l'Aston Villa amb Francesc Latorre i l'anàlisi de l'Àlex Delmàs. Joan Fàbregas ens fa el perfil de Davide Massa, l'àrbitre designat per avui al Camp Nou. A la tertúlia ens acompanyen Raúl Fuentes, Joan Poquí i Gemma Mallorca.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-11-03T23:01:34+01:00",
+        "stop": "2026-11-04T02:10:14+01:00",
+        "title": "Bàsquet",
+        "subtitle": "Porto-Asisa Joventut / Champions League / J3",
+        "description": "Els badalonins aspiren a la tercera victòria en tres jornades per mantenir-se al capdavant de la classificació al grup H.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-03T17:22:49+01:00",
-        "stop": "2026-11-03T17:33:48+01:00",
-        "title": "A jugar! Amb en Titó i els Fa la la",
-        "subtitle": "A jugar amb el gegant del bosc",
-        "description": "En Titó i els Fa La La dormen acampats al bosc quan, de sobte, un terrabastall els desperta en plena nit. El campament està tot de cap per avall... i hi ha una petjada enorme! Serà d'un gegant del bosc? ",
-        "genre": "ALTRES",
+        "start": "2026-11-03T22:46:15+01:00",
+        "stop": "2026-11-03T23:06:44+01:00",
+        "title": "El detectiu Conan",
+        "subtitle": "Persones dolentes",
+        "description": "La Lliga de Detectius Júnior es veu implicada en un cas on no tot és el que sembla. En Conan i els seus amics frustraran un intent d'assassinat. Més tard, descobriran que un membre de la família Hirasawa planeja apoderar-se de la fortuna familiar.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-03T17:33:48+01:00",
-        "stop": "2026-11-03T17:45:00+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla Marina: La Patrulla salva una campana de busseig que vola",
-        "description": "Un volcà submarí està a punt d'entrar en erupció i la Yumi i l'alcaldessa Goodway no ho saben i hi han anat a fer submarinisme a prop.",
+        "start": "2026-11-03T23:06:44+01:00",
+        "stop": "2026-11-03T23:28:44+01:00",
+        "title": "El detectiu Conan",
+        "subtitle": "L’home que es va instal·lar a la comissaria de policia",
+        "description": "L'inspector Megure deté en Yosuke Katsuki per l'assassinat d'en Shuhei Odawara, un antic company de classe que s'acabava de prometre amb l'exnòvia d'en Katsuki, la Tomoko Yaguchi. Tot i que en Katsuki confessa haver comès el crim, la seva declaració no encaixa amb les pistes trobades a casa de la víctima. Al cap d'un parell de dies, l'inspector Megure troba en Kogoro Mouri pel carrer i li explica el cas. En Mouri decideix resoldre'l.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-03T16:42:13+01:00",
-        "stop": "2026-11-03T17:31:35+01:00",
-        "title": "No pot ser!",
-        "subtitle": "MIT: fabricant el futur",
-        "description": "El 'No pot ser!' s'endinsa a un dels epicentres de la innovació tecnològica mundial, el MIT a Boston, Massachussetts. Recorrerem els seus passadissos i laboratoris d'idees de la mà de catalans que viuen i treballen en aquest mític institut i que ens descobriran quins enginys i tecnologies preparen pel dia de demà. Drons de vol autònom, robots biomimètics, noves interfícies i nanotecnologia són alguns dels ingredients de la fàbrica que dissenya el futur. ",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-11-03T22:57:38+01:00",
+        "stop": "2026-11-04T00:22:28+01:00",
+        "title": "Pel·lícula",
+        "subtitle": "Eternament enamorats",
+        "description": "ETERNAMENT ENAMORATS 'Ordinary Love'Direcció: Lisa Barros D'Sa, Glenn LeyburnGuió: Owen McCaffertyProducció: Out Of Orbit, Canderblinks Film and Music, Head Gear Films, Metrol Technology, Kreo Films FZ, Bleecker StreetAny: 2019Durada: 87País: Reino UnidoMúsica: David Holmes, Brian IrvineFotografia: Piers McGrailIntèrprets: Lesley Manville, Liam Neeson, Esh Alladi, Melanie Clark Pullen, Matthew Sharpe, Geraldine McAlinden, Mary Lindsay, Rosemary Henderson, Stella McCusker, Eoin McCafferty, Maggie Cronin, David Wilmot, Amit Shah, Vivien Monory, Olivia McDermott, Lalor Roddy, Fo Cullen, Chloë Ní Dhúada. Drama que mostra la vida de la Joan i el Tom, un matrimoni que s'enfronta a un gran impacte emocional quan li diagnostiquen un càncer de mama a la Joan. ",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/8/1745519270187.jpg"
       },
       {
-        "start": "2026-11-03T17:31:35+01:00",
-        "stop": "2026-11-03T17:58:06+01:00",
-        "title": "Quèquicom",
-        "subtitle": "La bicicleta: una màquina perfecta",
-        "description": "Avui, mostrem la perfecció de la bicicleta com a màquina. Sota el títol general 'Bicicleta: la màquina perfecta', i amb la col·laboració del campió Melcior Mauri, el programa científic del 33 n'oferirà els detalls: consumeix 40 vegades menys que el cotxe i la seva fabricació estalvia 100 vegades més energia que l'automòbil. És també el mitjà de transport més ràpid en distàncies inferiors als 8 quilòmetres i, a més, el seu ús és saludable.Al llarg del programa, el reporter Pere Renom participarà en la classe de 'spinning' (bicicleta estàtica) més multitudinària del món per constatar els beneficis sobre el sistema cardiovascular d'aquest esport. Més tard s'iniciarà en la bicicleta de muntanya (BTT) amb Israel Núñez, 6 vegades campió d'Espanya i campió de la Titan Desert. La BTT és una modalitat molt explosiva i tècnica pel fet que es practica en terrenys molt irregulars. Israel Núñez dedica molt temps a la muntanya per conservar la tècnica, però la major part de l'entrenament el fa a la carretera, que és la disciplina reina del ciclisme esportiu. I un dels grans ciclistes dels últims temps és Melcior Mauri. Especialista en contrarellotge, Mauri va aconseguir 52 victòries com a professional. Sap què és posar el cos al límit. El premi a l'esforç és que, de vegades, s'aconsegueix ser l'esportista perfecte damunt la màquina perfecta.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-11-04T00:22:28+01:00",
+        "stop": "2026-11-04T01:42:33+01:00",
+        "title": "Pel·lícula",
+        "subtitle": "L'últim autobús",
+        "description": "L'ÚLTIM AUTOBÚS 'The Last Bus'Direcció: Gillies MacKinnonGuió: Joe AinsworthProducció: Hurricane Films, Head Gear Films, Metrol Technology, Kreo Films FZAny: 2021Durada: 86País: Regne UnitMúsica: Alexandre LessertisseurFotografia: George GeddesIntèrprets: Timothy Spall, Phyllis Logan, Natalie Mitson, Ben Ewing, Patricia Panther, Steven Duffy, Saskia Ashdown, Scott Campbell, Anne Kidd, Aila Gavin, Matt Costello, Adam Mitchell, Helen Windsory Quinn, Finn Weatherstone, Colin McCredie, Ronan Doyle, Kirsty Eila McIntyre, Jack Brown, Dee Maxwell, Ayla Sherrif, Marnie Baxter, Sheila Grier, Lynn Kennedy, Patsy Blower, Manjot Sumal, Garry Sweeney, Farron McCormack, Aria McCormack, Joe Fagan. Tom Harper, un jubilat de noranta anys, decideix marxar del poble on ha viscut durant cinquanta anys, al nord de la Gran Bretanya, i viatjar fins a la seva ciutat natal, al sud del país. Durant el viatge, descobrirà el món modern i la diversitat cultural britànica que fins aleshores desconeixia.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/2/1738311006429.jpg"
       }
     ],
     "oca1": [],
     "oca2": [],
     "oca3": [],
-    "oca4": [
-      {
-        "start": "2026-11-03T17:06:28+01:00",
-        "stop": "2026-11-03T20:06:23+01:00",
-        "title": "Compareixença al Congrés del ministre Puente",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/5/1793344419256.jpg"
-      }
-    ]
+    "oca4": []
   }
 }
