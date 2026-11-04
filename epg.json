@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-04T02:06:18.037539+00:00",
+  "updated": "2026-11-04T09:08:00.240666+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-04T02:22:22+01:00",
-        "stop": "2026-11-04T05:55:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-04T08:00:29+01:00",
+        "stop": "2026-11-04T10:30:00+01:00",
+        "title": "Matins",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       },
       {
-        "start": "2026-11-04T05:55:00+01:00",
-        "stop": "2026-11-04T08:00:00+01:00",
-        "title": "Eleccions de mig mandat: examen a Trump",
-        "subtitle": "Eleccions de mig mandat: examen a Trump",
-        "description": "",
-        "genre": "ESPECIALS INFORMATIUS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1793623691452.jpg"
+        "start": "2026-11-04T10:30:00+01:00",
+        "stop": "2026-11-04T13:55:00+01:00",
+        "title": "Tot es mou",
+        "subtitle": "",
+        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "genre": "MAGAZINE",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-04T01:00:00+01:00",
-        "stop": "2026-11-04T06:00:00+01:00",
+        "start": "2026-11-04T09:00:00+01:00",
+        "stop": "2026-11-04T10:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,77 +72,87 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-04T06:00:00+01:00",
-        "stop": "2026-11-04T08:00:00+01:00",
-        "title": "Eleccions de mig mandat: examen a Trump",
-        "subtitle": "Eleccions de mig mandat: examen a Trump",
-        "description": "",
-        "genre": "ESPECIALS INFORMATIUS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1793623691452.jpg"
+        "start": "2026-11-04T10:30:00+01:00",
+        "stop": "2026-11-04T12:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-04T02:44:24+01:00",
-        "stop": "2026-11-04T04:22:19+01:00",
-        "title": "Bàsquet",
-        "subtitle": "Porto-Asisa Joventut / Champions League / J3",
-        "description": "Els badalonins aspiren a la tercera victòria en tres jornades per mantenir-se al capdavant de la classificació al grup H.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"
+        "start": "2026-11-04T10:06:08+01:00",
+        "stop": "2026-11-04T10:56:23+01:00",
+        "title": "Arrelats",
+        "subtitle": "Els orígens, la identitat.",
+        "description": "",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-11-04T04:22:19+01:00",
-        "stop": "2026-11-04T04:41:58+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-11-04T10:56:23+01:00",
+        "stop": "2026-11-04T11:24:49+01:00",
+        "title": "GR Barcelona",
+        "subtitle": "Barcelona és molt més",
+        "description": "En aquest últim programa farem un gran recorregut pels millors moments de la temporada. Passarem de la ciutat a la muntanya compartint les dues realitats, i recordarem algunes de les activitats i entrevistes que han omplert de vida els nostres viatges.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-04T02:59:26+01:00",
-        "stop": "2026-11-04T03:20:04+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Chronogirl",
-        "description": "És l'aniversari de l'Alix i el seu pare li regala un rellotge molt valuós. Durant una cursa contra el Kim, el deixa a l'Alya perquè l'hi guardi. Però el rellotge acaba per terra i es trenca, cosa que disgusta l'Alix. L'Esfinx aprofita per akumatitzar-la i pugui retrocedir en el temps per recuperar el rellotge abans no es trenqui.",
+        "start": "2026-11-04T10:04:12+01:00",
+        "stop": "2026-11-04T10:28:49+01:00",
+        "title": "Les Tres Bessones",
+        "subtitle": "Les tres bessones i els fantasmes de la Pedrera",
+        "description": "Les Bessones compartiran amb Antoni Gaudí un dels moments més importants de la seva vida: la construcció de la Pedrera! Però abans, tots quatre se les hauran de tenir amb uns éssers fantasmagòrics.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-04T03:20:04+01:00",
-        "stop": "2026-11-04T03:40:42+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "El Faraó",
-        "description": "El Jalil, germà de l'Alix, que va a la mateixa classe que la Marinette i l'Aya, és un expert en l'antic Egipte. Tan expert, que acaba obsessionat amb Tutankamon i amb un ritual per fer reviure la princesa Nefertiti. El resultat del ritual obligarà Ladybug i el Cat Noir a fer servir tots els seus poders per evitar que l'Alya sigui sacrificada.",
+        "start": "2026-11-04T10:28:49+01:00",
+        "stop": "2026-11-04T10:40:01+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla fa un rescat passat per aigua",
+        "description": "El barco del capità Turbot s'embarranca i en Ryder, en Zuma, la Skye i en Rocky han de buscar una solució plegats per rescatar-lo abans que s'enfonsi!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-04T03:01:13+01:00",
-        "stop": "2026-11-04T03:29:23+01:00",
-        "title": "Laberints",
-        "subtitle": "Laberints de llibertats",
-        "description": "'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.A 'Laberints de llibertats': Manu Chao contra el poder, Albert Pla donant l'esquena, Pavlovsky censurat, Carles Flavià al seu aire, Paco Ibáñez emocionat, Ovidi Montllor fent pintades, Rosa Regàs trencat barreres, David Bowie obrint camí, Palomino cantant la canya, Lluís Llach i la democràcia, Joan Baez plantant flors... 'Laberints de llibertats'.",
+        "start": "2026-11-04T10:00:38+01:00",
+        "stop": "2026-11-04T10:27:23+01:00",
+        "title": "Marcians",
+        "subtitle": "El tresor dels Pirates",
+        "description": "Es van conèixer de petits i la seva passió compartida pel teatre els ha dut, 25 anys després, a continuar-hi enganxats. Són Els Pirates Teatre, són Adrià Aubert, Laura Aubert, Laura Pau, Ricard Farré, Maria Albadalejo, Ariadna Cabiró, Ester Cánovas, Bernat Cot, Núria Cuyàs, Llorens González, Robert González, Marina Marcos, Anna Romaní i Enric Romaní. Van estudiar a l'Institut del Teatre, es van professionalitzar i des de llavors han creat muntatges exitosos, sempre combinant el teatre de text i el musical, i també han creat escola. Des del 2013 es van fer càrrec de la gestió del Teatre Maldà de Barcelona, l'han convertit en la seva seu i també han donat aixopluc a companyies com La Calòrica, Sixto Paz o Pàrquing Shakespeare. Aquest any Els Pirates celebren el quart de segle amb un nou muntatge, 'L'estiueig', una adaptació de l'obra 'La villeggiatura', de Carlo Goldoni, portada als nostres dies. Marcians ha estat testimoni de la manera de ser i de fer d'aquesta companyia singular, on tothom fa molts papers de l'auca, i els acompanyem en la posada en escena de la seva nova producció.",
         "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-11-04T03:29:23+01:00",
-        "stop": "2026-11-04T03:58:21+01:00",
-        "title": "Laberints",
-        "subtitle": "Laberints de vides",
-        "description": "'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.A 'Laberints de vides': La innocència de Montserrat Roig. La satisfacció de Quimi Portet. Les vides de Pilar Rahola. Pau Riba, a cor obert. Lluís Homar i l'art de viure. Un Quim Monzó ben assegurat. Un Manuel Vicent invisible. Pep Guardiola i la clau màgica. Punset, vivint el present. Pepe Rubianes, poca feina i molta vida... i encara més.La innocència de Montserrat Roig. La satisfacció de Quimi Portet. Les vides de Pilar Rahola. Pau Riba, a cor obert. Lluís Homar i l'art de viure. Un Quim Monzó ben assegurat. Un Manuel Vicent invisible. Pep Guardiola i la clau màgica. Punset, vivint el present. Pepe Rubianes, poca feina i molta vida... i encara més.'Laberints de vides', aquest dijous, 31 d'octubre, a les 22.40, pel canal 33.",
+        "start": "2026-11-04T10:27:23+01:00",
+        "stop": "2026-11-04T10:49:23+01:00",
+        "title": "Marcians",
+        "subtitle": "A cop de timbal: Núria Andorrà i Arnau Obiols",
+        "description": "Núria Andorrà i Arnau Obiols són dos músics que han trobat el seu llenguatge propi a través de la percussió.Ella va partir d'una llarga formació en la clàssica, ell en el jazz, i va ser a través de la improvisació que van trobar la seva personalíssima manera d'entendre la música en què la veu també hi té un pes fonamental. Alhora, coincideixen presentant-se en solitari en escena.Andorrà ha treballat molt l'aspecte performàtic dels seus espectacles. En el darrer, 'Reflectir', ha afegit, també, una especial cura del seu aspecte sonor en crear una experiència de so immersiu. L'ha aconseguit al costat del dissenyador de so Roc Mateu.Obiols, que té els seus orígens en la música tradicional, ja fa tres discos que explora el so genuí del Pirineu. L'últim capítol d'aquest fer-nos sentir el paisatge del seu Alt Urgell natal és l'àlbum 'Ocelltambor', que presentarà en concert el dia 20 de març a l'Auditori de Barcelona.",
         "genre": "ALTRES",
         "image": ""
       }
     ],
     "oca1": [],
-    "oca2": [],
+    "oca2": [
+      {
+        "start": "2026-11-04T09:42:53+01:00",
+        "stop": "2026-11-04T13:42:48+01:00",
+        "title": "Ple del Parlament",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/2/1723033059522.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
