@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-03T22:00:01.152148+00:00",
+  "updated": "2026-11-04T02:06:18.037539+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-03T22:06:10+01:00",
-        "stop": "2026-11-03T23:11:49+01:00",
-        "title": "Nits Sense ficció",
-        "subtitle": "Amenaça totalitària",
-        "description": "El documental del 'Sense ficció' 'Amenaça totalitària' entra en el món de l'extrema dreta d'Espanya, Itàlia i Suècia, i analitza les causes del seu creixement: una globalització mal portada que ha anul·lat l'ascensor social i ha fet més grans les diferències de classe, uns partits polítics que no han sabut interpretar les necessitats dels més desfavorits i una extrema dreta demagògica que aprofita aquest buit, eleva a la categoria de problema la immigració i imposa una única identitat nacional, de la qual s'erigeix en salvadora.'Amenaça totalitària' viatja a Andalusia, on va emergir primer l'extrema dreta en unes eleccions, i visita ciutats com El Ejido, a Almeria, on, tot i tenir l'índex d'atur més baix d'Andalusia, el fantasma de la immigració que pren els llocs de treball i provoca delinqüència és el lema polític que ha fet guanyadora l'extrema dreta.El documental radiografia els militants, simpatitzants i quadres de Vox a Catalunya, formats per una amalgama d'exmilitants del PP i de forces d'extrema dreta de tota mena; des d'exnazis fins a feixistes i ultradretans. Assistim a mítings i reunions de Vox i entrevistem alguns dels seus intel·lectuals, com Fernando Sánchez Dragó, autor del llibre programàtic i patriòtic sobre Vox i el seu líder, Santiago Abascal.L'extrema dreta està instal·lada ja al poder en diversos països d'Europa, com ara Hongria, Polònia o Itàlia. Al país transalpí, 'Amenaça totalitària' entrevista alts dirigents de La Lliga, com el president del seu grup parlamentari, Ricardo Molinari. També viatgem a Suècia, l'únic país d'Europa on els partits polítics de centreesquerra han format un cordó sanitari per impedir l'accés de l'extrema dreta, representada per Demòcrates de Suècia, a les altes institucions de l'Estat.",
-        "genre": "DOCUMENTAL",
-        "image": ""
-      },
-      {
-        "start": "2026-11-03T23:11:49+01:00",
-        "stop": "2026-11-04T00:15:56+01:00",
-        "title": "Documental",
-        "subtitle": "Laietana, 43. El cau de la bèstia.",
-        "description": "'Laietana,43. El cau de la bèstia' (2023) una producció de Balandra Films en coproducció amb 3Cat i la col·laboració de l'ICEC Memorial Democràtic.La 'Jefatura Superior de policía' de la Via Laietana, creada l'any 1929, ha sigut testimoni durant els quasi 100 anys que han passat des de la seva inauguració, de tota mena de tortures i vexacions a les persones detingudes que han passat per les seves dependències. Anarquistes, opositors franquistes, sindicalistes, moviments estudiantils, col·lectiu LGTBI i romaní, etc. Tot s'hi valia per aconseguir confessions.Direcció i realització: Jaume Domènech BarconsGuió: Clàudia Aranda RieraProductor: Jaume Domènech BarconsProductor executiu TVC: Cristina muñoz ClotetProductor delegat TVC: Daniel Barea DelgadoDirector fotografia: Eduard Vilà MoixMuntatge: Clàudia Aranda RieraDirector de producció: Clàudia Aranda RieraMúsica: Roger Gascon SalvadóLingüista: Carme Casals CampGrafisme: Hristina Braykova Braykova",
-        "genre": "DOCUMENTAL DE CREACIÓ",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-11-03T22:05:00+01:00",
-        "stop": "2026-11-04T00:00:00+01:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
-      },
-      {
-        "start": "2026-11-04T00:00:00+01:00",
-        "stop": "2026-11-04T00:30:00+01:00",
+        "start": "2026-11-04T02:22:22+01:00",
+        "stop": "2026-11-04T05:55:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-04T05:55:00+01:00",
+        "stop": "2026-11-04T08:00:00+01:00",
+        "title": "Eleccions de mig mandat: examen a Trump",
+        "subtitle": "Eleccions de mig mandat: examen a Trump",
+        "description": "",
+        "genre": "ESPECIALS INFORMATIUS",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1793623691452.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-11-04T01:00:00+01:00",
+        "stop": "2026-11-04T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-04T06:00:00+01:00",
+        "stop": "2026-11-04T08:00:00+01:00",
+        "title": "Eleccions de mig mandat: examen a Trump",
+        "subtitle": "Eleccions de mig mandat: examen a Trump",
+        "description": "",
+        "genre": "ESPECIALS INFORMATIUS",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1793623691452.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-03T20:56:22+01:00",
-        "stop": "2026-11-03T23:01:34+01:00",
-        "title": "Un dia de partit",
-        "subtitle": "Barça-Aston Villa",
-        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
-      },
-      {
-        "start": "2026-11-03T23:01:34+01:00",
-        "stop": "2026-11-04T02:10:14+01:00",
+        "start": "2026-11-04T02:44:24+01:00",
+        "stop": "2026-11-04T04:22:19+01:00",
         "title": "Bàsquet",
         "subtitle": "Porto-Asisa Joventut / Champions League / J3",
         "description": "Els badalonins aspiren a la tercera victòria en tres jornades per mantenir-se al capdavant de la classificació al grup H.",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"
+      },
+      {
+        "start": "2026-11-04T04:22:19+01:00",
+        "stop": "2026-11-04T04:41:58+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-03T22:46:15+01:00",
-        "stop": "2026-11-03T23:06:44+01:00",
-        "title": "El detectiu Conan",
-        "subtitle": "Persones dolentes",
-        "description": "La Lliga de Detectius Júnior es veu implicada en un cas on no tot és el que sembla. En Conan i els seus amics frustraran un intent d'assassinat. Més tard, descobriran que un membre de la família Hirasawa planeja apoderar-se de la fortuna familiar.",
+        "start": "2026-11-04T02:59:26+01:00",
+        "stop": "2026-11-04T03:20:04+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Chronogirl",
+        "description": "És l'aniversari de l'Alix i el seu pare li regala un rellotge molt valuós. Durant una cursa contra el Kim, el deixa a l'Alya perquè l'hi guardi. Però el rellotge acaba per terra i es trenca, cosa que disgusta l'Alix. L'Esfinx aprofita per akumatitzar-la i pugui retrocedir en el temps per recuperar el rellotge abans no es trenqui.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-03T23:06:44+01:00",
-        "stop": "2026-11-03T23:28:44+01:00",
-        "title": "El detectiu Conan",
-        "subtitle": "L’home que es va instal·lar a la comissaria de policia",
-        "description": "L'inspector Megure deté en Yosuke Katsuki per l'assassinat d'en Shuhei Odawara, un antic company de classe que s'acabava de prometre amb l'exnòvia d'en Katsuki, la Tomoko Yaguchi. Tot i que en Katsuki confessa haver comès el crim, la seva declaració no encaixa amb les pistes trobades a casa de la víctima. Al cap d'un parell de dies, l'inspector Megure troba en Kogoro Mouri pel carrer i li explica el cas. En Mouri decideix resoldre'l.",
+        "start": "2026-11-04T03:20:04+01:00",
+        "stop": "2026-11-04T03:40:42+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "El Faraó",
+        "description": "El Jalil, germà de l'Alix, que va a la mateixa classe que la Marinette i l'Aya, és un expert en l'antic Egipte. Tan expert, que acaba obsessionat amb Tutankamon i amb un ritual per fer reviure la princesa Nefertiti. El resultat del ritual obligarà Ladybug i el Cat Noir a fer servir tots els seus poders per evitar que l'Alya sigui sacrificada.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-03T22:57:38+01:00",
-        "stop": "2026-11-04T00:22:28+01:00",
-        "title": "Pel·lícula",
-        "subtitle": "Eternament enamorats",
-        "description": "ETERNAMENT ENAMORATS 'Ordinary Love'Direcció: Lisa Barros D'Sa, Glenn LeyburnGuió: Owen McCaffertyProducció: Out Of Orbit, Canderblinks Film and Music, Head Gear Films, Metrol Technology, Kreo Films FZ, Bleecker StreetAny: 2019Durada: 87País: Reino UnidoMúsica: David Holmes, Brian IrvineFotografia: Piers McGrailIntèrprets: Lesley Manville, Liam Neeson, Esh Alladi, Melanie Clark Pullen, Matthew Sharpe, Geraldine McAlinden, Mary Lindsay, Rosemary Henderson, Stella McCusker, Eoin McCafferty, Maggie Cronin, David Wilmot, Amit Shah, Vivien Monory, Olivia McDermott, Lalor Roddy, Fo Cullen, Chloë Ní Dhúada. Drama que mostra la vida de la Joan i el Tom, un matrimoni que s'enfronta a un gran impacte emocional quan li diagnostiquen un càncer de mama a la Joan. ",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/8/1745519270187.jpg"
+        "start": "2026-11-04T03:01:13+01:00",
+        "stop": "2026-11-04T03:29:23+01:00",
+        "title": "Laberints",
+        "subtitle": "Laberints de llibertats",
+        "description": "'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.A 'Laberints de llibertats': Manu Chao contra el poder, Albert Pla donant l'esquena, Pavlovsky censurat, Carles Flavià al seu aire, Paco Ibáñez emocionat, Ovidi Montllor fent pintades, Rosa Regàs trencat barreres, David Bowie obrint camí, Palomino cantant la canya, Lluís Llach i la democràcia, Joan Baez plantant flors... 'Laberints de llibertats'.",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-11-04T00:22:28+01:00",
-        "stop": "2026-11-04T01:42:33+01:00",
-        "title": "Pel·lícula",
-        "subtitle": "L'últim autobús",
-        "description": "L'ÚLTIM AUTOBÚS 'The Last Bus'Direcció: Gillies MacKinnonGuió: Joe AinsworthProducció: Hurricane Films, Head Gear Films, Metrol Technology, Kreo Films FZAny: 2021Durada: 86País: Regne UnitMúsica: Alexandre LessertisseurFotografia: George GeddesIntèrprets: Timothy Spall, Phyllis Logan, Natalie Mitson, Ben Ewing, Patricia Panther, Steven Duffy, Saskia Ashdown, Scott Campbell, Anne Kidd, Aila Gavin, Matt Costello, Adam Mitchell, Helen Windsory Quinn, Finn Weatherstone, Colin McCredie, Ronan Doyle, Kirsty Eila McIntyre, Jack Brown, Dee Maxwell, Ayla Sherrif, Marnie Baxter, Sheila Grier, Lynn Kennedy, Patsy Blower, Manjot Sumal, Garry Sweeney, Farron McCormack, Aria McCormack, Joe Fagan. Tom Harper, un jubilat de noranta anys, decideix marxar del poble on ha viscut durant cinquanta anys, al nord de la Gran Bretanya, i viatjar fins a la seva ciutat natal, al sud del país. Durant el viatge, descobrirà el món modern i la diversitat cultural britànica que fins aleshores desconeixia.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/2/1738311006429.jpg"
+        "start": "2026-11-04T03:29:23+01:00",
+        "stop": "2026-11-04T03:58:21+01:00",
+        "title": "Laberints",
+        "subtitle": "Laberints de vides",
+        "description": "'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.A 'Laberints de vides': La innocència de Montserrat Roig. La satisfacció de Quimi Portet. Les vides de Pilar Rahola. Pau Riba, a cor obert. Lluís Homar i l'art de viure. Un Quim Monzó ben assegurat. Un Manuel Vicent invisible. Pep Guardiola i la clau màgica. Punset, vivint el present. Pepe Rubianes, poca feina i molta vida... i encara més.La innocència de Montserrat Roig. La satisfacció de Quimi Portet. Les vides de Pilar Rahola. Pau Riba, a cor obert. Lluís Homar i l'art de viure. Un Quim Monzó ben assegurat. Un Manuel Vicent invisible. Pep Guardiola i la clau màgica. Punset, vivint el present. Pepe Rubianes, poca feina i molta vida... i encara més.'Laberints de vides', aquest dijous, 31 d'octubre, a les 22.40, pel canal 33.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "oca1": [],
