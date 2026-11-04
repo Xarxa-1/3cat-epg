@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-04T17:12:27.056507+00:00",
+  "updated": "2026-11-04T22:37:44.445464+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-04T17:24:53+01:00",
-        "stop": "2026-11-04T19:12:58+01:00",
-        "title": "La Selva",
-        "subtitle": "",
-        "description": "Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
+        "start": "2026-11-04T23:31:25+01:00",
+        "stop": "2026-11-05T00:23:59+01:00",
+        "title": "País d'altura",
+        "subtitle": "Paisatges de Barcelona",
+        "description": "La Catalunya interior guarda més secrets que un calaix de cuina. Muntanyes, pobles amb encant i tradicions que resisteixen en un territori que no necessita fer soroll per enamorar.",
+        "genre": "",
+        "image": ""
       },
       {
-        "start": "2026-11-04T19:12:58+01:00",
-        "stop": "2026-11-04T20:15:00+01:00",
-        "title": "Atrapa'm si pots",
+        "start": "2026-11-05T00:23:59+01:00",
+        "stop": "2026-11-05T03:26:34+01:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-04T17:00:00+01:00",
-        "stop": "2026-11-04T18:30:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-04T22:05:00+01:00",
+        "stop": "2026-11-05T00:00:00+01:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       },
       {
-        "start": "2026-11-04T18:30:00+01:00",
-        "stop": "2026-11-04T20:00:00+01:00",
+        "start": "2026-11-05T00:00:00+01:00",
+        "stop": "2026-11-05T00:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,76 +83,66 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-04T17:55:00+01:00",
-        "stop": "2026-11-04T19:03:12+01:00",
-        "title": "Bàsquet",
-        "subtitle": "Lietkabelis-Kids&Us Manresa / Eurocup / J6",
-        "description": "L'equip del Bages visita Lituània per enfrontar-se amb un rival directe en la lluita per passar a la següent ronda. Els dos conjunts sumen 3 victòries i 2 derrotes.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"
+        "start": "2026-11-04T23:00:00+01:00",
+        "stop": "2026-11-05T00:30:50+01:00",
+        "title": "Onze",
+        "subtitle": "Rendits a Raphinha; els gols de la Champions i 'El predicador'",
+        "description": "Lluís Carrasco, Joan Poquí, Gemma Mallorca i Sique Rodríguez comenten el partit del Barça contra l'Aston Villa i els gols de la jornada de la Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-11-04T19:03:12+01:00",
-        "stop": "2026-11-04T19:53:40+01:00",
-        "title": "Bàsquet",
-        "subtitle": "Lietkabelis-Kids&Us Manresa / Eurocup / J6",
-        "description": "L'equip del Bages visita Lituània per enfrontar-se amb un rival directe en la lluita per passar a la següent ronda. Els dos conjunts sumen 3 victòries i 2 derrotes.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"
+        "start": "2026-11-05T00:30:50+01:00",
+        "stop": "2026-11-05T00:51:38+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-04T18:05:43+01:00",
-        "stop": "2026-11-04T18:16:45+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla salva les papaies",
-        "description": "En Carlos i en Tracker fan suc de papaia amb la Patrulla Peluda, però llavors veuen que l'alcaldessa Goodway i la Chickaletta estan en perill.",
+        "start": "2026-11-04T23:27:02+01:00",
+        "stop": "2026-11-04T23:48:47+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "El vol dels pol·linitzadors",
+        "description": "En Chris ha fet servir el miniaturitzador per aconseguir unes imatges fantàstiques en primer pla del que fan les abelles a dins de les flors. La pega és que s'ha quedat enganxat amb una abella com si fos un gra de pol·len i ara no hi ha manera de trobar-lo! Benvingut al món de les plantes que fan servir els animals per pol·linitzar-se. Avui n'aprendrem un munt, de coses! I de ben a prop!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-04T18:16:45+01:00",
-        "stop": "2026-11-04T18:28:12+01:00",
-        "title": "Els barrufets (3D)",
-        "subtitle": "Un Pocatraça no tan pocatraça",
-        "description": "En una passejada pel bosc, un grup de barrufets té una topada amb el Gargamel, que captura el Pocatraça. El bruixot el convenç perquè dugui un amulet màgic que converteix a qui el porta en tot el contrari del que és. El que no li explica és que també conté un localitzador. El Pocatraça, convertit en el Barrufet Hàbil, torna al poble per demostrar que no és el sapastre de sempre.",
+        "start": "2026-11-04T23:48:47+01:00",
+        "stop": "2026-11-05T00:09:47+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Bandits emmascarats",
+        "description": "Mentre en Martin i en Chris estudien els llops per aconseguir-ne una bona disfressa per al ball d'aquesta nit, en Jimmy ha tingut una experiència molt estranya i ha quedat convençut que per la nau Tortuga hi volta un fantasma o un monstre de 8 ulls. Pot ser que hi tinguin alguna cosa a veure els óssos rentadors?! Avui la festa serà animada!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-04T17:53:32+01:00",
-        "stop": "2026-11-04T18:19:43+01:00",
-        "title": "Quèquicom",
-        "subtitle": "Montsec: un viatge de vertigen",
-        "description": "El Montsec és un dels millors llocs del món per fer parapent. La reportera Samantha Vall s'atreveix a sobrevolar una comarca en què es pot fer un prodigiós viatge en el temps: des dels fòssils fins a les estrelles que es van formar fa milions d'anys, justament quan aquells animals s'extingien. 'Quèquicom' visita el congost de Mont-rebei i també l'Observatori Astronòmic del Montsec.El riu Noguera Ribagorçana talla la serra del Montsec i a Mont-rebei ha format un congost que té parets verticals de més de 500 metres d'altura. Passar pel camí de ferradura excavat a la pedra és una experiència que requereix certa valentia, ja que no té baranes i molts metres per sota passa el riu. Però si, sobreposant-se al vertigen, l'excursionista mira les roques, hi pot distingir fòssils de fa 100 milions d'anys: conquilles de mol·luscs, coralls i altres animals marins de quan la Catalunya occidental i central estaven enfonsades sota el mar. Samantha Vall descobreix també plantes úniques d'aquell lloc amb Toni Nievas, educador ambiental de l'Obra Social Caixa Catalunya. I a la cova Colomera, la reportera hi troba restes arqueològiques de fa 7.000 anys. El programa explica amb maquetes la formació de la serra del Montsec i del prepirineu. La singular orografia i l'orientació cap al sud d'aquesta serra, què és com una gran paella, fa que s'hi formin corrents d'aire calent que pugen amb gran potència. Això ho aprofiten tant els voltors com els parapents.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-11-04T22:51:06+01:00",
+        "stop": "2026-11-04T23:42:55+01:00",
+        "title": "La veritat sobre la dictadura de Franco",
+        "subtitle": "L'hora zero",
+        "description": "La Segona Guerra Mundial ha acabat i els estats han de prendre partit entre els defensors i els detractors de la democràcia. La indefinició de Franco deixa Espanya en una posició de greu aïllament internacional. Però el 1953 el dictador firma un concordat amb la Santa Seu i uns acords amb els Estats Units pels quals accedeix a la instal·lació de bases militars nord-americanes al país a canvi d'ajuda econòmica i militar. Espanya posa un peu a l'escenari internacional. N'hi haurà prou per millorar les condicions de vida de milions de ciutadans que pateixen el seu règim opressor?",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-11-04T18:19:43+01:00",
-        "stop": "2026-11-04T18:46:35+01:00",
-        "title": "Quèquicom",
-        "subtitle": "Cabell estimat cabell enyorat",
-        "description": "'Quèquicom' parlarà del cabell i la seva salut, de com mantenir la cabellera i, si es perd, com substituir els cabells perduts amb trasplantaments i implants. Amb el títol genèric 'Cabell estimat, cabell enyorat', el programa científic del 33 oferirà diversos reportatges, entre els quals, una visita al dermatòleg del presentador de TV3 Xavier Coral, per saber si la calvície té remei, i els detalls d'una operació de trasplantament capil·lar. És bo rentar-se els cabells cada dia? Com s'han d'esbandir, eixugar i pentinar? Quan s'han de tallar? 'Quèquicom' en dóna resposta i, a més, descobreix què els passa als cabells quan s'arrissen o s'estiren. Els cabells estan fets de queratina, una proteïna. Aquesta substància conté fibres que s'uneixen entre si per dos tipus d'enllaços químics: febles i forts. Els febles es trenquen amb la humitat, però es reconstrueixen en eixugar-se.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-11-04T23:42:55+01:00",
+        "stop": "2026-11-05T00:36:22+01:00",
+        "title": "La veritat sobre la dictadura de Franco",
+        "subtitle": "L'època grisa",
+        "description": "A mitjan dels anys 50 els èxits de la política exterior de Franco obren noves perspectives per a Espanya. Després d'anys d'estancament el país comença a avançar i es legitima així el paper del dictador. Però amb l'arribada de nous amics, al país també entren noves influències. Espanya canvia i el règim ha de superar nous reptes. Fins quan s'aferrarà Franco al poder? Podrà el príncep Joan Carles donar un futur a la dictadura?",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "oca1": [],
-    "oca2": [
-      {
-        "start": "2026-11-04T17:10:06+01:00",
-        "stop": "2026-11-04T19:20:01+01:00",
-        "title": "Bàsquet",
-        "subtitle": "- Ostrava-Spar Girona / Eurocup / J4",
-        "description": "L'Uni juga a Txèquia amb la intenció de repetir la victòria que va aconseguir en el precedent de Fontajau (77-49).",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"
-      }
-    ],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
