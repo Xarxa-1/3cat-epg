@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-05T18:04:27.764308+00:00",
+  "updated": "2026-11-05T23:37:01.701769+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-05T17:34:02+01:00",
-        "stop": "2026-11-05T19:10:36+01:00",
-        "title": "La Selva",
-        "subtitle": "",
-        "description": "Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
+        "start": "2026-11-05T23:51:53+01:00",
+        "stop": "2026-11-06T00:40:25+01:00",
+        "title": "Nervi",
+        "subtitle": "Ningú està preparat per triomfar, amb Miguel Ángel Blanca i Berta Prieto ",
+        "description": "Voler agradar a tothom i acumular visualitzacions, seguidors i fama. El gest de l'influencer ho està contaminant tot? També la manera d'entendre la cultura? Parlem de l'èxit i el fracàs amb Miguel Ángel Blanca i Berta Prieto, que han estrenat la sèrie 'Segunda temporada'. Amb Jana Jubert analitzem la novel·la 'Famesick', de Lena Dunham, i amb el realitzador Albert Lloreta bussegem fins als orígens de la fama a internet. Fem safareig sobre les novetats culturals amb Oriol Puig Taulé i Begoña Gómez Urzaiz i ens acomiadem amb el directe d'una fera que ha sabut domesticar molt bé la fama i que celebra 20 anys de trajectòria: Maika Makovski. ",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-11-05T19:10:36+01:00",
-        "stop": "2026-11-05T20:15:00+01:00",
-        "title": "Atrapa'm si pots",
+        "start": "2026-11-06T00:40:25+01:00",
+        "stop": "2026-11-06T03:40:07+01:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-05T18:30:00+01:00",
-        "stop": "2026-11-05T20:00:00+01:00",
+        "start": "2026-11-06T00:30:00+01:00",
+        "stop": "2026-11-06T01:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-05T20:00:00+01:00",
-        "stop": "2026-11-05T21:00:00+01:00",
+        "start": "2026-11-06T01:00:00+01:00",
+        "stop": "2026-11-06T06:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,77 +83,67 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-05T19:00:00+01:00",
-        "stop": "2026-11-05T20:30:44+01:00",
-        "title": "Tot Costa",
-        "subtitle": "Raphinha, 2030",
-        "description": "El davanter del Barça es lliga més al club. No cal buscar un 9? Ho analitzem amb Santi Giménez, Mireia Vera i Ferran Martínez. També repassem la jornada de Champions; parlem amb el boig de la Castellana, David Sánchez; expliquem de què va el 'Barça reservat' i l''Espanyol reservat', i sentim els pilots de MotoGP des de Qatar. ",
+        "start": "2026-11-06T00:32:56+01:00",
+        "stop": "2026-11-06T00:59:41+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       },
       {
-        "start": "2026-11-05T20:30:44+01:00",
-        "stop": "2026-11-05T21:10:54+01:00",
-        "title": "Esport Club",
-        "subtitle": "Raphinha 2030, l'NBA, Gemma Romeu i tertúlia",
-        "description": "Raphinha renova fins l'any 2030. Repassem tota la jornada de la Lliga de Campions. L'NBA amb Jordi de Mas i entrevista a Gemma Romeu, presidenta de la Unió de Consells Esportius de Catalunya. A la tertúlia ens acompanyen Irati Vidal, Nacho Peña i Joanjo Pallàs.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-11-06T00:59:41+01:00",
+        "stop": "2026-11-06T02:35:22+01:00",
+        "title": "Onze",
+        "subtitle": "Raphinha 2030; l'hora de Frenkie i 'El consultori'",
+        "description": "Víctor Lozano, David Bernabeu, Irati Vidal i Juvenal Edjogo comenten la renovació de Raphinha i els dubtes de Flick al mig del camp per jugar al Metropolitano. En Sergi Ferrer respon les preguntes dels espectadors de l'Onze.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-05T19:04:37+01:00",
-        "stop": "2026-11-05T19:27:07+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Kung Food",
-        "description": "L'oncle de la Marinette, un cuiner molt famós a la Xina, arriba a París per participar en un concurs mundial de xefs. Però com sempre, l'enveja i la mala fet de la Chloé provocarà problemes que l'Esfinx sabrà aprofitar en benefici seu. ",
+        "start": "2026-11-06T00:31:59+01:00",
+        "stop": "2026-11-06T00:52:59+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "L'Ullassos, el rei de la nit",
+        "description": "En Chris i en Martin s'han emportat l'últim invent de l'Aviva, les Ulleres de Visió Nocturna de Gran Potència, però ho han fet sense demanar-li permís, perquè saben que encara no estan del tot acabades. Les necessiten per localitzar un tarser i aprendre'n els costums, però aviat es quedaran a les fosques... i hauran de salvar tota una família de tarsers!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-05T19:27:07+01:00",
-        "stop": "2026-11-05T19:49:16+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Gamer",
-        "description": "El Max és un gran jugador de vídeojocs, i està a punt de representar l'institut en una competició juvenil, al costat de l'Adrien. Però la Marinette, que vol formar equip amb l'Adrien, supera el Max i el deixa fora de la competició. La rancúnia que sentirà el pobre Max permetrà que l'Esfinx el converteixi en un personatge temible. ",
+        "start": "2026-11-06T00:52:59+01:00",
+        "stop": "2026-11-06T01:14:29+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Col·lecció de rapinyaires",
+        "description": "Mentre en Chris i en Martin estan intentant fer un inventari de tots els rapinyaires que coneixen, en Gormand, el xef més creatiu del món, segons ell, esclar, s'acaba d'inventar un nou plat: rapinyaire rostit. Primer capturarà totes les espècies del món per descobrir quin és el més deliciós i, tot seguit, es farà famós! Això si no l'hi impedeix l'Equip Kratt, evidentment!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-05T18:17:19+01:00",
-        "stop": "2026-11-05T19:12:53+01:00",
-        "title": "Savis i sàvies",
-        "subtitle": "Rosa Maria Malet",
-        "description": "Nascuda a Badalona, on encara viu. Tirava per a infermera, fins que l'art es va creuar en el seu camí. Amb discreció, rigor i constància, ha presidit durant trenta-set anys la Fundació Miró. Si Joan Miró va imaginar un món ple de poesia, colors i formes, ella s'ha encarregat d'acostar-lo al gran públic. ",
-        "genre": "ENTREVISTES",
+        "start": "2026-11-06T00:33:37+01:00",
+        "stop": "2026-11-06T01:27:22+01:00",
+        "title": "Dibuixar pel canvi",
+        "subtitle": "Russia. L'arbre de la violència",
+        "description": "Durant l'última dècada, l'artista gràfica Victoria Lomasko s'ha dedicat a documentar meticulosament la Rússia de Putin, infiltrant-se en tots els mítings i esdeveniments polítics crucials. Just un any abans de la invasió d'Ucraïna, intuint que la catàstrofe era imminent, comença a investigar a fons la relació entre la violència domèstica i la violència exercida per l'Estat, i plasma les seves conclusions en el seu mural més ambiciós, que narra els fets històrics compresos entre l'hivern del 2021, ple de protestes, i l'hivern tràgic del 2022. Mentre Putin llança una 'operació militar' a Ucraïna i titlla els dissidents russos de 'traïdors que cal escopir com mosques', Lomasko afronta la dura realitat i pren la valenta decisió de deixar-ho tot enrere i emprendre un nou camí.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-11-05T19:12:53+01:00",
-        "stop": "2026-11-05T20:08:27+01:00",
-        "title": "Savis i sàvies",
-        "subtitle": "Beth Galí",
-        "description": "Nascuda a Barcelona, d'avi pintor i pare dissenyador. El disseny i les arts han estat una part important de la seva vida, però es va enamorar de l'arquitectura, en què ha defensat sempre la importància de l'espai públic com a bé comú. Poques persones poden dir que han ajudat a redissenyar una ciutat. Ella n'és una.",
-        "genre": "ENTREVISTES",
+        "start": "2026-11-06T01:27:22+01:00",
+        "stop": "2026-11-06T01:53:09+01:00",
+        "title": "La pell dels murs",
+        "subtitle": "Rock Blackblock-Xavier Artigas",
+        "description": "Aquest episodi de La Pell dels Murs està centrat en un mural que l'artista Roc Blackblock va fer a l'Ateneu Popular de Nou Barris. El documental ha estat dirigit per Xavier Artigas.L'episodi arrenca amb una reunió entre el muralista i un grup de veïns de Nou Barris que intercanvien experiències i opinions sobre la importància de mantenir viva la memòria històrica del barri i dels seus pobladors. Després d'escoltar els seus comentaris, Roc Blackblock duu a terme un treball de recerca i documentació a l'Arxiu Històric de Roquetes per seleccionar tres imatges, de les quals, finalment, la gent va triar-ne la guanyadora: una fotografia de Kim Manresa realitzada a les antigues barraques de Santa Engràcia (actual Plaça Àngel Pestaña, de Barcelona). En aquesta imatge, s'hi pot veure un grup de veïnes i criatures davant les seves barraques poc després que un promotor fes una estafa immobiliària que va deixar diverses famílies sense els diners ni el pis que els havia promès.El documental segueix la feina de Blackblock amb una atenció especial al paper del mural com a mitjà per mantenir viu el record d'experiències socials traumàtiques i per transmetre missatges reivindicatius de caràcter polític. El mural es pot veure a la façana de la torre escènica, l'edifici més alt de l'Ateneu Popular de Nou Barris, i ha comptat amb la col·laboració del propi Ateneu i de Montana Colors.La sèrie documental sobre art urbà La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "oca1": [],
     "oca2": [],
-    "oca3": [
-      {
-        "start": "2026-11-05T19:00:00+01:00",
-        "stop": "2026-11-05T20:29:55+01:00",
-        "title": "Tot Costa",
-        "subtitle": "",
-        "description": "El davanter del Barça es lliga més al club. No cal buscar un 9? Ho analitzem amb Santi Giménez, Mireia Vera i Ferran Martínez. També repassem la jornada de Champions; parlem amb el boig de la Castellana, David Sánchez; expliquem de què va el 'Barça reservat' i l''Espanyol reservat', i sentim els pilots de MotoGP des de Qatar. ",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
-      }
-    ],
+    "oca3": [],
     "oca4": []
   }
 }
