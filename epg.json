@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-04T22:37:44.445464+00:00",
+  "updated": "2026-11-05T02:47:24.479169+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-04T23:31:25+01:00",
-        "stop": "2026-11-05T00:23:59+01:00",
-        "title": "País d'altura",
-        "subtitle": "Paisatges de Barcelona",
-        "description": "La Catalunya interior guarda més secrets que un calaix de cuina. Muntanyes, pobles amb encant i tradicions que resisteixen en un territori que no necessita fer soroll per enamorar.",
-        "genre": "",
-        "image": ""
+        "start": "2026-11-05T02:15:27+01:00",
+        "stop": "2026-11-05T04:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-05T00:23:59+01:00",
-        "stop": "2026-11-05T03:26:34+01:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "start": "2026-11-05T04:00:00+01:00",
+        "stop": "2026-11-05T04:45:11+01:00",
+        "title": "Cava de Blues",
+        "subtitle": "The Paparellos",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-04T22:05:00+01:00",
-        "stop": "2026-11-05T00:00:00+01:00",
-        "title": "Mésnit",
+        "start": "2026-11-05T01:00:00+01:00",
+        "stop": "2026-11-05T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-05T00:00:00+01:00",
-        "stop": "2026-11-05T00:30:00+01:00",
+        "start": "2026-11-05T06:00:00+01:00",
+        "stop": "2026-11-05T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-04T23:00:00+01:00",
-        "stop": "2026-11-05T00:30:50+01:00",
-        "title": "Onze",
-        "subtitle": "Rendits a Raphinha; els gols de la Champions i 'El predicador'",
-        "description": "Lluís Carrasco, Joan Poquí, Gemma Mallorca i Sique Rodríguez comenten el partit del Barça contra l'Aston Villa i els gols de la jornada de la Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-11-05T02:29:21+01:00",
+        "stop": "2026-11-05T04:15:51+01:00",
+        "title": "Bàsquet",
+        "subtitle": "Lietkabelis-Kids&Us Manresa / Eurocup / J6",
+        "description": "L'equip del Bages visita Lituània per enfrontar-se amb un rival directe en la lluita per passar a la següent ronda. Els dos conjunts sumen 3 victòries i 2 derrotes.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"
       },
       {
-        "start": "2026-11-05T00:30:50+01:00",
-        "stop": "2026-11-05T00:51:38+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-11-05T04:15:51+01:00",
+        "stop": "2026-11-05T05:55:05+01:00",
+        "title": "Bàsquet",
+        "subtitle": "Ostrava-Spar Girona / Eurocup / J4",
+        "description": "L'Uni juga a Txèquia amb la intenció de repetir la victòria que va aconseguir en el precedent de Fontajau (77-49).",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-04T23:27:02+01:00",
-        "stop": "2026-11-04T23:48:47+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El vol dels pol·linitzadors",
-        "description": "En Chris ha fet servir el miniaturitzador per aconseguir unes imatges fantàstiques en primer pla del que fan les abelles a dins de les flors. La pega és que s'ha quedat enganxat amb una abella com si fos un gra de pol·len i ara no hi ha manera de trobar-lo! Benvingut al món de les plantes que fan servir els animals per pol·linitzar-se. Avui n'aprendrem un munt, de coses! I de ben a prop!",
+        "start": "2026-11-05T03:34:57+01:00",
+        "stop": "2026-11-05T03:55:35+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Els orígens (1a part)",
+        "description": "Després d'uns quants episodis, per fi coneixerem els orígens dels superpoders de Ladybug i el Gat Noir. Sabrem d'on procedeixen aquests poders i qui va triar la Marinette i l'Adrien com a candidats a superherois. Aquest episodi i el següent ens desvelen tots els dubtes i totes les incògnites que puguem tenir sobre aquests adolescents que salven sempre els ciutadans de París.  ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-04T23:48:47+01:00",
-        "stop": "2026-11-05T00:09:47+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Bandits emmascarats",
-        "description": "Mentre en Martin i en Chris estudien els llops per aconseguir-ne una bona disfressa per al ball d'aquesta nit, en Jimmy ha tingut una experiència molt estranya i ha quedat convençut que per la nau Tortuga hi volta un fantasma o un monstre de 8 ulls. Pot ser que hi tinguin alguna cosa a veure els óssos rentadors?! Avui la festa serà animada!",
+        "start": "2026-11-05T03:55:35+01:00",
+        "stop": "2026-11-05T04:16:41+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Els orígens (2a part)",
+        "description": "Com a continuació de l'episodi anterior, en aquest acabarem d'aclarir tots els dubtes que teníem sobre l'origen dels superpoders de Ladybug i el Gat Noir. Descobrirem un personatge nou, el mestre Fu, que va ser l'encarregat de triar dos adolescents capaços de gestionar els poders dels akumes i sortir en defensa dels ciutadans de París contra les forces obscures del malvat Esfinx. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-04T22:51:06+01:00",
-        "stop": "2026-11-04T23:42:55+01:00",
-        "title": "La veritat sobre la dictadura de Franco",
-        "subtitle": "L'hora zero",
-        "description": "La Segona Guerra Mundial ha acabat i els estats han de prendre partit entre els defensors i els detractors de la democràcia. La indefinició de Franco deixa Espanya en una posició de greu aïllament internacional. Però el 1953 el dictador firma un concordat amb la Santa Seu i uns acords amb els Estats Units pels quals accedeix a la instal·lació de bases militars nord-americanes al país a canvi d'ajuda econòmica i militar. Espanya posa un peu a l'escenari internacional. N'hi haurà prou per millorar les condicions de vida de milions de ciutadans que pateixen el seu règim opressor?",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-05T03:41:30+01:00",
+        "stop": "2026-11-05T04:11:45+01:00",
+        "title": "Laberints",
+        "subtitle": "Laberints de passions",
+        "description": "'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.A 'Laberints de passions': Echanove era un nen molt rar. Manolo García, l'últim de la fila, no havia tingut mai tocadiscos. Juan José Millàs vivia a costat del no-res. Tàpies pintava a prop d'un mirall. Miquel Barceló somiava amb el Bronx. A Pau Riba, l'àvia li cantava cançons. Ferran Torrent ho deixava tot per al setembre. Ferran Adrià volia ser futbolista. A Albert Pla li agradava taral·lejar... i encara més.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-11-04T23:42:55+01:00",
-        "stop": "2026-11-05T00:36:22+01:00",
-        "title": "La veritat sobre la dictadura de Franco",
-        "subtitle": "L'època grisa",
-        "description": "A mitjan dels anys 50 els èxits de la política exterior de Franco obren noves perspectives per a Espanya. Després d'anys d'estancament el país comença a avançar i es legitima així el paper del dictador. Però amb l'arribada de nous amics, al país també entren noves influències. Espanya canvia i el règim ha de superar nous reptes. Fins quan s'aferrarà Franco al poder? Podrà el príncep Joan Carles donar un futur a la dictadura?",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-05T04:11:45+01:00",
+        "stop": "2026-11-05T04:41:19+01:00",
+        "title": "Laberints",
+        "subtitle": "Laberints de fama",
+        "description": "'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.A 'Laberints de fama': Jimmy Giménez-Arnau i els ximples de Madrid. La Pantoja ho te molt clar. Alaska, s'ho mira amb discreció. Pavlovsky, va de trampós i decadent, i Lola Flores, de Lola autonòmica. Boris Izaguirre, construeix un personatge, i Imanol Arias juga a ser 'El hombre del año'. Aquí, Joel Joan i l''star System'. Lluís Gavaldà, que no ho vol ser. Una sensació estranya per a Ariadna Gil. Més lluny, Keith Richards, una llegenda... i encara més.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
