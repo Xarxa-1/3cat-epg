@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-05T02:47:24.479169+00:00",
+  "updated": "2026-11-05T10:14:21.683149+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-05T02:15:27+01:00",
-        "stop": "2026-11-05T04:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-05T10:29:52+01:00",
+        "stop": "2026-11-05T13:54:58+01:00",
+        "title": "Tot es mou",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "genre": "MAGAZINE",
+        "image": ""
       },
       {
-        "start": "2026-11-05T04:00:00+01:00",
-        "stop": "2026-11-05T04:45:11+01:00",
-        "title": "Cava de Blues",
-        "subtitle": "The Paparellos",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+        "start": "2026-11-05T13:54:58+01:00",
+        "stop": "2026-11-05T14:30:00+01:00",
+        "title": "Telenotícies comarques",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-05T01:00:00+01:00",
-        "stop": "2026-11-05T06:00:00+01:00",
+        "start": "2026-11-05T10:30:00+01:00",
+        "stop": "2026-11-05T12:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-05T06:00:00+01:00",
-        "stop": "2026-11-05T08:00:00+01:00",
+        "start": "2026-11-05T12:00:00+01:00",
+        "stop": "2026-11-05T13:55:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,65 +83,75 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-05T02:29:21+01:00",
-        "stop": "2026-11-05T04:15:51+01:00",
-        "title": "Bàsquet",
-        "subtitle": "Lietkabelis-Kids&Us Manresa / Eurocup / J6",
-        "description": "L'equip del Bages visita Lituània per enfrontar-se amb un rival directe en la lluita per passar a la següent ronda. Els dos conjunts sumen 3 victòries i 2 derrotes.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"
+        "start": "2026-11-05T10:57:11+01:00",
+        "stop": "2026-11-05T11:27:12+01:00",
+        "title": "GR Pirineus",
+        "subtitle": "Comença un dolç viatge",
+        "description": "'GR Pirineus' va fer la temporada passada un recorregut pel Camí de Sant Jaume. Ara, aquest programa de descoberta de la Catalunya rural i més desconeguda, iniciarà un segon viatge cap als orígens del país, a través dels Pirineus i amb 26 capítols, per mostrar els valors esportius, històrics i espirituals del territori. Amb la presentació de Marc de las Heras, el programa farà camí, amb una primera ruta amb sortida de Girona, i, després de diversos recorreguts per la Costa Brava, el Pirineu i el Prepirineu, i un últim itinerari amb arribada a Sant Feliu de Guíxols.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
       },
       {
-        "start": "2026-11-05T04:15:51+01:00",
-        "stop": "2026-11-05T05:55:05+01:00",
-        "title": "Bàsquet",
-        "subtitle": "Ostrava-Spar Girona / Eurocup / J4",
-        "description": "L'Uni juga a Txèquia amb la intenció de repetir la victòria que va aconseguir en el precedent de Fontajau (77-49).",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"
+        "start": "2026-11-05T11:27:12+01:00",
+        "stop": "2026-11-05T13:00:00+01:00",
+        "title": "Onze",
+        "subtitle": "Rendits a Raphinha; els gols de la Champions i 'El predicador'",
+        "description": "Lluís Carrasco, Joan Poquí, Gemma Mallorca i Sique Rodríguez comenten el partit del Barça contra l'Aston Villa i els gols de la jornada de la Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-05T03:34:57+01:00",
-        "stop": "2026-11-05T03:55:35+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Els orígens (1a part)",
-        "description": "Després d'uns quants episodis, per fi coneixerem els orígens dels superpoders de Ladybug i el Gat Noir. Sabrem d'on procedeixen aquests poders i qui va triar la Marinette i l'Adrien com a candidats a superherois. Aquest episodi i el següent ens desvelen tots els dubtes i totes les incògnites que puguem tenir sobre aquests adolescents que salven sempre els ciutadans de París.  ",
+        "start": "2026-11-05T11:12:11+01:00",
+        "stop": "2026-11-05T11:23:14+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La cursa de globus",
+        "description": "L'alcaldessa de Badia Aventures s'enlaira sense voler amb un globus i en Ryder i els cadells han de fer un rescat espectacular per salvar-la i guanyar una cursa.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-05T03:55:35+01:00",
-        "stop": "2026-11-05T04:16:41+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Els orígens (2a part)",
-        "description": "Com a continuació de l'episodi anterior, en aquest acabarem d'aclarir tots els dubtes que teníem sobre l'origen dels superpoders de Ladybug i el Gat Noir. Descobrirem un personatge nou, el mestre Fu, que va ser l'encarregat de triar dos adolescents capaços de gestionar els poders dels akumes i sortir en defensa dels ciutadans de París contra les forces obscures del malvat Esfinx. ",
+        "start": "2026-11-05T11:23:14+01:00",
+        "stop": "2026-11-05T11:34:41+01:00",
+        "title": "Els barrufets (3D)",
+        "subtitle": "Un somriure imbarrufible",
+        "description": "La Barrufeta està llegint un llibre que parla del poder dels somriures per canviar el món. Ella i la Flor es proposen fer somriure el Barrufet Rondinaire. Per aconseguir-ho, el conviden a anar d'acampada amb elles, el Gran Barrufet, el Forçut i l'Inventor. Però, per molt que ho intenten, no hi ha manera d'arrencar-li un somriure. L'excursió es complica molt quan el Rondinaire es trenca una cama sortint d'una tirolina.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-05T03:41:30+01:00",
-        "stop": "2026-11-05T04:11:45+01:00",
-        "title": "Laberints",
-        "subtitle": "Laberints de passions",
-        "description": "'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.A 'Laberints de passions': Echanove era un nen molt rar. Manolo García, l'últim de la fila, no havia tingut mai tocadiscos. Juan José Millàs vivia a costat del no-res. Tàpies pintava a prop d'un mirall. Miquel Barceló somiava amb el Bronx. A Pau Riba, l'àvia li cantava cançons. Ferran Torrent ho deixava tot per al setembre. Ferran Adrià volia ser futbolista. A Albert Pla li agradava taral·lejar... i encara més.",
-        "genre": "ALTRES",
+        "start": "2026-11-05T11:08:29+01:00",
+        "stop": "2026-11-05T11:47:24+01:00",
+        "title": "Tot el temps del món",
+        "subtitle": "Blanca Llum Vidal",
+        "description": "Blanca Llum Vidal té dues novetats a les llibreries que, aparentment, no tenen gaire a veure, però que estan plenes de connexions (la primera: la seva passió per la lectura). D'una banda, ha publicat l'assaig 'Llegir petit i escriure sobre literatura i amor', en què defensa una determinada manera de llegir, antiga, 'una manera d'acostar-me a la lletra, en comptes de la totalitat, triar minúscul, voler menut'. Comença com un llibre d'absències, les de tots els llibres i autors que no hi poden ser, no fa una enciclopèdia!, i de seguida entra amb autors que són importants per a ella: Marguerite Duras, Martin Buber, Emmanuel Lévinas, Maria Antònia Capmany, Maurice Blanchot, Clarice Lispector, Marina Tsvetàieva... i la seva estimada Víctor Català, és clar. Alguns d'aquests noms també travessen i són presents a 'No cometràs adulteri', l'assaig que publica amb Fragmenta, d'una col·lecció, 'Els deu manaments', que 'vol repensar els grans temes de la contemporaneïtat seguint el fil conductor del decàleg'. 'Amb una mirada fonda i actual, responent a problemàtiques d'avui, lluny de qualsevol confessionalisme', explica. Vidal es passeja per aquest sisè manament de la tradició catòlica a vegades amb imatges (una teranyina, un embut, un arnès), a vegades amb un conte (de Víctor Català), i reflexiona sobre les ferides, la llibertat, el cos i el sexe, el desig per la paraula, o sobre l'altre: aquesta alteritat, que també lliga amb 'Llegir petit i escriure sobre literatura i amor', i que és un dels temes de la conversa amb l'autora.",
+        "genre": "ENTREVISTES",
         "image": ""
       },
       {
-        "start": "2026-11-05T04:11:45+01:00",
-        "stop": "2026-11-05T04:41:19+01:00",
-        "title": "Laberints",
-        "subtitle": "Laberints de fama",
-        "description": "'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.A 'Laberints de fama': Jimmy Giménez-Arnau i els ximples de Madrid. La Pantoja ho te molt clar. Alaska, s'ho mira amb discreció. Pavlovsky, va de trampós i decadent, i Lola Flores, de Lola autonòmica. Boris Izaguirre, construeix un personatge, i Imanol Arias juga a ser 'El hombre del año'. Aquí, Joel Joan i l''star System'. Lluís Gavaldà, que no ho vol ser. Una sensació estranya per a Ariadna Gil. Més lluny, Keith Richards, una llegenda... i encara més.",
-        "genre": "ALTRES",
+        "start": "2026-11-05T11:47:24+01:00",
+        "stop": "2026-11-05T11:54:34+01:00",
+        "title": "Cuines",
+        "subtitle": "Vichyssoise de pera amb llissa",
+        "description": "",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
-    "oca1": [],
+    "oca1": [
+      {
+        "start": "2026-11-05T08:59:30+01:00",
+        "stop": "2026-11-05T13:09:25+01:00",
+        "title": "Ple del Parlament",
+        "subtitle": "",
+        "description": "",
+        "genre": "RETRANSMISSIONS ACTUALITAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/2/1723033059522.jpg"
+      }
+    ],
     "oca2": [],
     "oca3": [],
     "oca4": []
