@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-06T03:39:31.604056+00:00",
+  "updated": "2026-11-06T11:29:52.494026+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-06T04:30:00+01:00",
-        "stop": "2026-11-06T05:14:19+01:00",
-        "title": "Cava de Blues",
-        "subtitle": "Pere Foved & Friends",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+        "start": "2026-11-06T10:30:51+01:00",
+        "stop": "2026-11-06T13:55:00+01:00",
+        "title": "Tot es mou",
+        "subtitle": "",
+        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "genre": "MAGAZINE",
+        "image": ""
       },
       {
-        "start": "2026-11-06T05:14:19+01:00",
-        "stop": "2026-11-06T06:00:00+01:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Jaume Vilaseca Trio",
-        "description": "Jaume Vilaseca ens mostrarà la seva passió per la bossa, la rumba i l'afro. Les seves influències van del jazz clàssic, al bop, o al post bop. Tot sota la mirada dels grans noms de la fusió com Herbie Hankock o Chick Corea. Avui ens presenten composicions de cada un dels membres del seu trio, on podrem veure la singular i elaborada manera de treballar un so de grup. Dick Them, al contrabaix, Ramón Díaz a la bateria i Jaume Vilaseca al piano.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-11-06T13:55:00+01:00",
+        "stop": "2026-11-06T14:30:00+01:00",
+        "title": "Telenotícies comarques",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-06T01:00:00+01:00",
-        "stop": "2026-11-06T06:00:00+01:00",
+        "start": "2026-11-06T12:00:00+01:00",
+        "stop": "2026-11-06T13:55:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,72 +72,72 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-06T06:00:00+01:00",
-        "stop": "2026-11-06T08:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-06T13:55:00+01:00",
+        "stop": "2026-11-06T14:30:00+01:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-06T04:15:56+01:00",
-        "stop": "2026-11-06T06:02:02+01:00",
-        "title": "Billar a 3 bandes",
-        "subtitle": "Dani Sánchez-JS Ko / PBA Tour",
-        "description": "El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"
+        "start": "2026-11-06T11:27:08+01:00",
+        "stop": "2026-11-06T13:00:00+01:00",
+        "title": "Onze",
+        "subtitle": "Raphinha 2030; l'hora de Frenkie i 'El consultori'",
+        "description": "Víctor Lozano, David Bernabeu, Irati Vidal i Juvenal Edjogo comenten la renovació de Raphinha i els dubtes de Flick al mig del camp per jugar al Metropolitano. En Sergi Ferrer respon les preguntes dels espectadors de l'Onze.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-11-06T06:02:02+01:00",
-        "stop": "2026-11-06T06:15:16+01:00",
-        "title": "Zona UFEC",
+        "start": "2026-11-06T13:00:00+01:00",
+        "stop": "2026-11-06T14:01:28+01:00",
+        "title": "Esport Club",
         "subtitle": "",
-        "description": "'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.",
-        "genre": "REPORTATGES",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"
+        "description": "En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-06T04:29:27+01:00",
-        "stop": "2026-11-06T04:40:56+01:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "Els amics secrets",
-        "description": "En Pinxo s'empipa amb en Martís, perquè el troba jugant a cartes amb en Lludó, i no suporta els jocs de cartes. A més considera que en Martís, com que és el seu millor amic, ha de jugar amb ell i no amb en Lludó. Però no tothom està d'acord amb ell.",
+        "start": "2026-11-06T12:17:10+01:00",
+        "stop": "2026-11-06T12:38:09+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "El vol del dragó",
+        "description": "En Chris i en Martin, que han sortit d'excursió a buscar dragons voladors, han acabat descobrint el pla malèfic de l'encara més malèfica Donita Donata. Té intenció de fer servir dragons voladors per crear la nova col·lecció de tardor de les joies vivents! Per aturar-la, hauran d'incorporar el poder del dragó al Vestit de Poder Animal! T'ho perdràs?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-06T04:40:56+01:00",
-        "stop": "2026-11-06T04:52:26+01:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "La medalla",
-        "description": "En Lludó no pot jugar a bitlles amb els bessons fins que acabi de reparar uns cistells per al seu pare. En Timbal s'ofereix a ajudar-lo, mentre que en Pinxo només vol jugar. Quan en Timbal torna al cau i explica que ha ajudat en Lludó, l'Edmond, orgullós del seu fill, li dona una medalla a la generositat. Però en Pinxo també vol una medalla, i es posa mans a l'obra per aconseguir-la. ",
+        "start": "2026-11-06T12:38:09+01:00",
+        "stop": "2026-11-06T13:00:43+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "El misteri dels cucs",
+        "description": "En Chris i en Martin faran servir el nou miniaturitzador de l'Aviva per resoldre un misteri que fa temps que els volta pel cap. Com és que els cucs surten a fora quan plou?! La resposta la trobaran sota terra, en el món dels cucs, un lloc ple de sorpreses... i de dilemes! Ben aviat en Chris haurà de decidir si vol resoldre el misteri, o si vol salvar el seu germà!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-06T04:15:25+01:00",
-        "stop": "2026-11-06T04:41:32+01:00",
-        "title": "El retorn de les lluernes",
-        "subtitle": "Roger i 'La mà esquerra de la foscor'",
-        "description": "Aquest capítol del programa parteix de la novel·la 'La mà esquerra de la foscor' (Raig Verd), d'Úrsula K. Le GuinL'Ai arriba al planeta Hivern amb la intenció que aquest s'aliï a la Federació Galàctica de mons habitats per éssers humans, l'Ekumen. L'habiten dues civilitzacions enfrontades i l'Ai haurà de trobar quina pot ser l'adequada per a l'aliança. A més, es troba una singularitat entre els éssers que hi viuen, no són ni homes ni dones, són hermafrodites que adopten un sexe o l'altre. El Roger Manau és el lector que s'endinsa en la novel·la i ens descobreix personatges paral·lels ubicats a Lleida, Tàrrega i Montserrat.",
-        "genre": "ALTRES",
+        "start": "2026-11-06T11:49:43+01:00",
+        "stop": "2026-11-06T12:28:09+01:00",
+        "title": "Tot el temps del món",
+        "subtitle": "Jordi Puntí",
+        "description": "Feia tants anys que investigava i convivia amb la figura de Xavier Cugat, que, quan Jordi Puntí va rebre el Premi Sant Jordi per 'Confeti' (Proa), va fer riure tothom dient que més d'un cop havia estat a punt de posar-se perruca i adoptar un chihuahua. I és que Puntí hi ha estat gairebé una dècada abans de tenir enllestida aquesta novel·la, que recupera la figura de Xavier Cugat i en fa un recorregut biogràfic, però que va molt més enllà d'això. Puntí inventa un narrador, un periodista d'espectacles que segueix la trajectòria del músic, que de seguida ens parla de ficció, de tota aquella que posem en el nostre dia a dia, i que en el cas de Cugat, gran fabulador, era especialment 'abundant'. Puntí ens passeja al llarg de gairebé un segle sobretot per Nova York, però també per Califòrnia, l'Havana o el Ritz de Barcelona. Parlem amb Jordi Puntí sobre l'abordatge del personatge, la seva relació amb les dones o la seva visió de la realitat, però també sobre la seva escriptura i el poder de la ficció. LLIBRE DE L'ENTREVISTA: CONFETIJordi PuntíEd. ProaA LES TRIES, PARLEM DE:GUERRA I PAULev TolstoiTrad. Judit Díaz BarnedaEdicions de 1984ELS WATSONJane AustenTrad. Núria SalesEd. Cal CarréLA DONA DE MARTIN GUERREJanet LewisTrad. Marta Pera CucurellEd. Viena",
+        "genre": "ENTREVISTES",
         "image": ""
       },
       {
-        "start": "2026-11-06T04:41:32+01:00",
-        "stop": "2026-11-06T05:08:53+01:00",
-        "title": "El retorn de les lluernes",
-        "subtitle": "Èlia i 'Ignot'",
-        "description": "Aquest capítol del programa parteix de la novel·la 'Ignot' (Edicions del Periscopi), de Manuel Baixauli.Quan Mateu, un pintor en hores baixes, rep l'encàrrec d'il·lustrar els textos d'un escriptor anomenat Crisòstom, accepta sense pensar-s'ho dues vegades. Però qui és, realment, Crisòstom? Per què no ha transcendit, la seva obra? Mateu descobrirà un personatge humil però fascinant, un geni desconegut, i se submergirà en un món insòlit, ple de miralls i poblat per individus solitaris i esquius.L'Èlia mateu és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels a Barcelona.",
-        "genre": "ALTRES",
+        "start": "2026-11-06T12:28:09+01:00",
+        "stop": "2026-11-06T12:34:53+01:00",
+        "title": "Cuines",
+        "subtitle": "Amanida de quinoa i pernil cuit amb vinagreta d'avellanes",
+        "description": "CUINA DE LA SELVAGuanyadora del CONCURS - LAURA ALMENDROS - TERRASSADificultat: baixaTemps d'elaboració: 30'Producte principal: quinoa i pernil cuitTemporada: tot l'any",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
