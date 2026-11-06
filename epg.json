@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-06T11:29:52.494026+00:00",
+  "updated": "2026-11-06T18:18:58.765091+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-06T10:30:51+01:00",
-        "stop": "2026-11-06T13:55:00+01:00",
-        "title": "Tot es mou",
+        "start": "2026-11-06T19:09:57+01:00",
+        "stop": "2026-11-06T20:13:38+01:00",
+        "title": "Atrapa'm si pots",
         "subtitle": "",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
-        "genre": "MAGAZINE",
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
         "image": ""
       },
       {
-        "start": "2026-11-06T13:55:00+01:00",
-        "stop": "2026-11-06T14:30:00+01:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-11-06T20:13:38+01:00",
+        "stop": "2026-11-06T21:00:01+01:00",
+        "title": "Està passant",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "description": "Els millors moments de la setmana",
+        "genre": "GAGS. HUMOR",
+        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
       }
     ],
     "324": [
       {
-        "start": "2026-11-06T12:00:00+01:00",
-        "stop": "2026-11-06T13:55:00+01:00",
+        "start": "2026-11-06T18:30:00+01:00",
+        "stop": "2026-11-06T20:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,78 +72,88 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-06T13:55:00+01:00",
-        "stop": "2026-11-06T14:30:00+01:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-11-06T20:00:00+01:00",
+        "stop": "2026-11-06T21:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-06T11:27:08+01:00",
-        "stop": "2026-11-06T13:00:00+01:00",
-        "title": "Onze",
-        "subtitle": "Raphinha 2030; l'hora de Frenkie i 'El consultori'",
-        "description": "Víctor Lozano, David Bernabeu, Irati Vidal i Juvenal Edjogo comenten la renovació de Raphinha i els dubtes de Flick al mig del camp per jugar al Metropolitano. En Sergi Ferrer respon les preguntes dels espectadors de l'Onze.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-11-06T18:59:56+01:00",
+        "stop": "2026-11-06T20:30:43+01:00",
+        "title": "Tot Costa",
+        "subtitle": "Contra l'Atlètic de Madrid, sense Rodri",
+        "description": "El Barça visita el Metropolitano aquest diumenge a la Lliga. Un duel de nivell encara amb moltes baixes blaugrana. Ho analitzem amb Oriol Domènech, Gemma Herrero i Gerard Autet. També explicarem si Flick pot recuperar Eric i quines alternatives té al mig del camp per suplir la baixa de Rodri.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       },
       {
-        "start": "2026-11-06T13:00:00+01:00",
-        "stop": "2026-11-06T14:01:28+01:00",
+        "start": "2026-11-06T20:30:43+01:00",
+        "stop": "2026-11-06T20:55:00+01:00",
         "title": "Esport Club",
-        "subtitle": "",
-        "description": "En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.",
+        "subtitle": "Atlètic de Madrid-Barça, Piolets d'Or 2026 i tertúlia",
+        "description": "El Barça a l'assalt del Metropolitano. Diumenge hi haurà el liderat en joc. Ens ho explica Francesc Latorre. Entrevistem Marc Torralles i Bru Bosom, Piolets d'Or 2026. Històries del Futbol amb Marc Mayola i tertúlia. Ens acompanyen Laia Cervelló, Edgar Fornós i David Sánchez. ",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-06T12:17:10+01:00",
-        "stop": "2026-11-06T12:38:09+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El vol del dragó",
-        "description": "En Chris i en Martin, que han sortit d'excursió a buscar dragons voladors, han acabat descobrint el pla malèfic de l'encara més malèfica Donita Donata. Té intenció de fer servir dragons voladors per crear la nova col·lecció de tardor de les joies vivents! Per aturar-la, hauran d'incorporar el poder del dragó al Vestit de Poder Animal! T'ho perdràs?!",
+        "start": "2026-11-06T19:15:19+01:00",
+        "stop": "2026-11-06T19:37:30+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "La Titellaire",
+        "description": "Quan fa de cangur de la Manon, la Marinette la deixa jugar amb uns ninos de Ladybug i del Gat Noir que s'ha fet ella mateixa amb roba. Són les joguines preferides de la nena, i se les vol endur a casa. Però quan la seva mare li diu que no, la Manon s'enrabia i obre les portes a la invasió d'un akuma malèfic enviat per l'Esfinx. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-06T12:38:09+01:00",
-        "stop": "2026-11-06T13:00:43+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El misteri dels cucs",
-        "description": "En Chris i en Martin faran servir el nou miniaturitzador de l'Aviva per resoldre un misteri que fa temps que els volta pel cap. Com és que els cucs surten a fora quan plou?! La resposta la trobaran sota terra, en el món dels cucs, un lloc ple de sorpreses... i de dilemes! Ben aviat en Chris haurà de decidir si vol resoldre el misteri, o si vol salvar el seu germà!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-11-06T19:37:30+01:00",
+        "stop": "2026-11-06T19:49:31+01:00",
+        "title": "Betapodcast",
+        "subtitle": "Fem mímica i ens vestim de personatges de pel·lícula",
+        "description": "El Jan ha fet un vídeo imitant les formes de vestir d'alguns personatges de pel·lícula i s'ha ficat tant en el paper que, mentre s'imaginava que era un detectiu, s'ha cremat la llengua amb un cafè molt calent. Com que no pot parlar, juguem a un joc de mímica i endevinem sèries i programes del SX3.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-06T11:49:43+01:00",
-        "stop": "2026-11-06T12:28:09+01:00",
-        "title": "Tot el temps del món",
-        "subtitle": "Jordi Puntí",
-        "description": "Feia tants anys que investigava i convivia amb la figura de Xavier Cugat, que, quan Jordi Puntí va rebre el Premi Sant Jordi per 'Confeti' (Proa), va fer riure tothom dient que més d'un cop havia estat a punt de posar-se perruca i adoptar un chihuahua. I és que Puntí hi ha estat gairebé una dècada abans de tenir enllestida aquesta novel·la, que recupera la figura de Xavier Cugat i en fa un recorregut biogràfic, però que va molt més enllà d'això. Puntí inventa un narrador, un periodista d'espectacles que segueix la trajectòria del músic, que de seguida ens parla de ficció, de tota aquella que posem en el nostre dia a dia, i que en el cas de Cugat, gran fabulador, era especialment 'abundant'. Puntí ens passeja al llarg de gairebé un segle sobretot per Nova York, però també per Califòrnia, l'Havana o el Ritz de Barcelona. Parlem amb Jordi Puntí sobre l'abordatge del personatge, la seva relació amb les dones o la seva visió de la realitat, però també sobre la seva escriptura i el poder de la ficció. LLIBRE DE L'ENTREVISTA: CONFETIJordi PuntíEd. ProaA LES TRIES, PARLEM DE:GUERRA I PAULev TolstoiTrad. Judit Díaz BarnedaEdicions de 1984ELS WATSONJane AustenTrad. Núria SalesEd. Cal CarréLA DONA DE MARTIN GUERREJanet LewisTrad. Marta Pera CucurellEd. Viena",
+        "start": "2026-11-06T19:11:06+01:00",
+        "stop": "2026-11-06T20:05:45+01:00",
+        "title": "Savis i sàvies",
+        "subtitle": "Elena Barraquer",
+        "description": "Nascuda a Barcelona. Filla, neta i besneta de cèlebres oftalmòlegs, no va sorprendre ningú que triés el mateix camí. Des de fa anys, combina la pràctica clínica amb expedicions al continent africà, on ajuda persones sense accés a la cirurgia ocular a recuperar la visió. Ha operat desenes de milers de pacients de cataractes. La seva missió és lluitar contra la ceguesa evitable.",
         "genre": "ENTREVISTES",
         "image": ""
       },
       {
-        "start": "2026-11-06T12:28:09+01:00",
-        "stop": "2026-11-06T12:34:53+01:00",
-        "title": "Cuines",
-        "subtitle": "Amanida de quinoa i pernil cuit amb vinagreta d'avellanes",
-        "description": "CUINA DE LA SELVAGuanyadora del CONCURS - LAURA ALMENDROS - TERRASSADificultat: baixaTemps d'elaboració: 30'Producte principal: quinoa i pernil cuitTemporada: tot l'any",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-11-06T20:05:45+01:00",
+        "stop": "2026-11-06T20:59:46+01:00",
+        "title": "Dibuixar pel canvi",
+        "subtitle": "Russia. L'arbre de la violència",
+        "description": "Durant l'última dècada, l'artista gràfica Victoria Lomasko s'ha dedicat a documentar meticulosament la Rússia de Putin, infiltrant-se en tots els mítings i esdeveniments polítics crucials. Just un any abans de la invasió d'Ucraïna, intuint que la catàstrofe era imminent, comença a investigar a fons la relació entre la violència domèstica i la violència exercida per l'Estat, i plasma les seves conclusions en el seu mural més ambiciós, que narra els fets històrics compresos entre l'hivern del 2021, ple de protestes, i l'hivern tràgic del 2022. Mentre Putin llança una 'operació militar' a Ucraïna i titlla els dissidents russos de 'traïdors que cal escopir com mosques', Lomasko afronta la dura realitat i pren la valenta decisió de deixar-ho tot enrere i emprendre un nou camí.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "oca1": [],
     "oca2": [],
-    "oca3": [],
+    "oca3": [
+      {
+        "start": "2026-11-06T18:59:00+01:00",
+        "stop": "2026-11-06T20:30:00+01:00",
+        "title": "Tot Costa",
+        "subtitle": "",
+        "description": "El Barça visita el Metropolitano aquest diumenge a la Lliga. Un duel de nivell encara amb moltes baixes blaugrana. Ho analitzem amb Oriol Domènech, Gemma Herrero i Gerard Autet. També explicarem si Flick pot recuperar Eric i quines alternatives té al mig del camp per suplir la baixa de Rodri.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+      }
+    ],
     "oca4": []
   }
 }
