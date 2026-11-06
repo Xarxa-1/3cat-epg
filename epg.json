@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-06T18:18:58.765091+00:00",
+  "updated": "2026-11-06T23:22:09.023697+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-06T19:09:57+01:00",
-        "stop": "2026-11-06T20:13:38+01:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "start": "2026-11-07T00:03:59+01:00",
+        "stop": "2026-11-07T00:54:01+01:00",
+        "title": "Pel·lícula",
+        "subtitle": "'Abans era abans' Urko",
+        "description": "7 dels 8 joves encausats seran conduïts a la presó, adduint risc de fuga. Ells, les seves famílies i tot el seu entorn passaran moments difícils en una llarga espera fins a la data del judici, mentre veuen com els seus somnis, les seves relacions i en definitiva el seu futur, fan un gir de 180º tancats a la presó.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-11-06T20:13:38+01:00",
-        "stop": "2026-11-06T21:00:01+01:00",
-        "title": "Està passant",
-        "subtitle": "",
-        "description": "Els millors moments de la setmana",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
+        "start": "2026-11-07T00:54:01+01:00",
+        "stop": "2026-11-07T01:45:36+01:00",
+        "title": "Pel·lícula",
+        "subtitle": "'Els detalls són més importants que la veritat' Leire",
+        "description": "El judici comença el 16 d'abril del 2018 i s'allargarà durant 3 setmanes. Una muntanya russa d'emocions sacseja els encausats, famílies, testimonis i en definitiva, a tots els implicats, fins que la sentència es fa pública.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-06T18:30:00+01:00",
-        "stop": "2026-11-06T20:00:00+01:00",
+        "start": "2026-11-06T23:30:00+01:00",
+        "stop": "2026-11-07T00:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-06T20:00:00+01:00",
-        "stop": "2026-11-06T21:00:00+01:00",
+        "start": "2026-11-07T00:30:00+01:00",
+        "stop": "2026-11-07T01:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,77 +83,67 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-06T18:59:56+01:00",
-        "stop": "2026-11-06T20:30:43+01:00",
-        "title": "Tot Costa",
-        "subtitle": "Contra l'Atlètic de Madrid, sense Rodri",
-        "description": "El Barça visita el Metropolitano aquest diumenge a la Lliga. Un duel de nivell encara amb moltes baixes blaugrana. Ho analitzem amb Oriol Domènech, Gemma Herrero i Gerard Autet. També explicarem si Flick pot recuperar Eric i quines alternatives té al mig del camp per suplir la baixa de Rodri.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+        "start": "2026-11-06T23:00:23+01:00",
+        "stop": "2026-11-07T00:31:13+01:00",
+        "title": "Onze",
+        "subtitle": "Atlètic-Barça: el liderat en joc; La clau Delmàs; Fàbregas i Nin",
+        "description": "Míriam Riau condueix la tertúlia amb Santi Ovalle, Carme Lluveras, Fernando Polo i Juli Garcia. Analitzem l'Atlètic de Madrid-Barça de diumenge, amb el liderat en joc. Àlex Delmàs ens explica la clau del partit al Metropolitano, Joan Fàbregas repassa les polèmiques arbitrals dels enfrontaments amb l'Atlètic de l'any passat i acabem amb Les golfes de l'Onze, amb Òscar Nin.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-11-06T20:30:43+01:00",
-        "stop": "2026-11-06T20:55:00+01:00",
-        "title": "Esport Club",
-        "subtitle": "Atlètic de Madrid-Barça, Piolets d'Or 2026 i tertúlia",
-        "description": "El Barça a l'assalt del Metropolitano. Diumenge hi haurà el liderat en joc. Ens ho explica Francesc Latorre. Entrevistem Marc Torralles i Bru Bosom, Piolets d'Or 2026. Històries del Futbol amb Marc Mayola i tertúlia. Ens acompanyen Laia Cervelló, Edgar Fornós i David Sánchez. ",
+        "start": "2026-11-07T00:31:13+01:00",
+        "stop": "2026-11-07T00:51:56+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-06T19:15:19+01:00",
-        "stop": "2026-11-06T19:37:30+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "La Titellaire",
-        "description": "Quan fa de cangur de la Manon, la Marinette la deixa jugar amb uns ninos de Ladybug i del Gat Noir que s'ha fet ella mateixa amb roba. Són les joguines preferides de la nena, i se les vol endur a casa. Però quan la seva mare li diu que no, la Manon s'enrabia i obre les portes a la invasió d'un akuma malèfic enviat per l'Esfinx. ",
+        "start": "2026-11-07T00:12:54+01:00",
+        "stop": "2026-11-07T00:33:55+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Els tèrmits contra les llengües",
+        "description": "L'Aviva i la Koki, que avui no tenen el dia, han tingut un petit problema amb el miniaturitzador i ara una colla de tèrmits se'ls emporten cap al seu cau convençuts que són brins d'herba. Ara els germans Kratt les hauran de buscar, però a la sabana africana hi ha milions de tèrmits, més que tots els mamífers junts! Com s'ho faran?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-06T19:37:30+01:00",
-        "stop": "2026-11-06T19:49:31+01:00",
-        "title": "Betapodcast",
-        "subtitle": "Fem mímica i ens vestim de personatges de pel·lícula",
-        "description": "El Jan ha fet un vídeo imitant les formes de vestir d'alguns personatges de pel·lícula i s'ha ficat tant en el paper que, mentre s'imaginava que era un detectiu, s'ha cremat la llengua amb un cafè molt calent. Com que no pot parlar, juguem a un joc de mímica i endevinem sèries i programes del SX3.",
-        "genre": "ALTRES",
+        "start": "2026-11-07T00:33:55+01:00",
+        "stop": "2026-11-07T00:55:25+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Visca el gall dindi",
+        "description": "Avui en Chris i en Martin s'han posat com a missió defensar l'honor del gall dindi. Estan decidits a demostrar que quan dius 'gall' a algú hauria de ser un elogi, en comptes d'un insult. I és que els galls dindi són uns animals genials! Tant, que en Gormand també ha sortit a buscar el gall dindi salvatge més gras de tot el bosc... Però per cruspir-se'l!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-06T19:11:06+01:00",
-        "stop": "2026-11-06T20:05:45+01:00",
-        "title": "Savis i sàvies",
-        "subtitle": "Elena Barraquer",
-        "description": "Nascuda a Barcelona. Filla, neta i besneta de cèlebres oftalmòlegs, no va sorprendre ningú que triés el mateix camí. Des de fa anys, combina la pràctica clínica amb expedicions al continent africà, on ajuda persones sense accés a la cirurgia ocular a recuperar la visió. Ha operat desenes de milers de pacients de cataractes. La seva missió és lluitar contra la ceguesa evitable.",
-        "genre": "ENTREVISTES",
+        "start": "2026-11-07T00:08:46+01:00",
+        "stop": "2026-11-07T00:33:55+01:00",
+        "title": "Volcans i homes",
+        "subtitle": "Etna, la muntanya de les muntanyes",
+        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Sicília, per conèixer persones que viuen a tocar de l'Etna. Ens mostrarà, entre d'altres coses, les tradicions populars i religioses que ha originat el perill constant de l'Etna, la gran fertilitat de les terres agrícoles del peu del volcà i les dificultats quotidianes de les persones que viuen a la zona de les salinelle, els volcans de fang. A part d'anar fins a un cràter actiu amb un vulcanòleg per oferir-nos, també, el punt de vista científic sobre els fenòmens volcànics. ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-11-06T20:05:45+01:00",
-        "stop": "2026-11-06T20:59:46+01:00",
-        "title": "Dibuixar pel canvi",
-        "subtitle": "Russia. L'arbre de la violència",
-        "description": "Durant l'última dècada, l'artista gràfica Victoria Lomasko s'ha dedicat a documentar meticulosament la Rússia de Putin, infiltrant-se en tots els mítings i esdeveniments polítics crucials. Just un any abans de la invasió d'Ucraïna, intuint que la catàstrofe era imminent, comença a investigar a fons la relació entre la violència domèstica i la violència exercida per l'Estat, i plasma les seves conclusions en el seu mural més ambiciós, que narra els fets històrics compresos entre l'hivern del 2021, ple de protestes, i l'hivern tràgic del 2022. Mentre Putin llança una 'operació militar' a Ucraïna i titlla els dissidents russos de 'traïdors que cal escopir com mosques', Lomasko afronta la dura realitat i pren la valenta decisió de deixar-ho tot enrere i emprendre un nou camí.",
+        "start": "2026-11-07T00:33:55+01:00",
+        "stop": "2026-11-07T01:26:27+01:00",
+        "title": "Philippe Echaroux, il.luminar el món",
+        "subtitle": "Laponie",
+        "description": "Philippe Echaroux viatja al nord d'Escandinàvia per conèixer Sapmi i els samis, que en català s'anomenen tradicionalment 'Lapònia' i 'lapons'. Actualment, els samis rebutgen aquestes denominacions perquè les perceben com a pejoratives i consideren que són un poble minoritzat i sotmès a les lleis dels estats que s'han repartit els seus territoris. Amb els seus retrats projectats a la natura, Philippe Echaroux vol ajudar a fer visible la situació d'aquest poble.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/4/1/1784276124514.jpg"
       }
     ],
     "oca1": [],
     "oca2": [],
-    "oca3": [
-      {
-        "start": "2026-11-06T18:59:00+01:00",
-        "stop": "2026-11-06T20:30:00+01:00",
-        "title": "Tot Costa",
-        "subtitle": "",
-        "description": "El Barça visita el Metropolitano aquest diumenge a la Lliga. Un duel de nivell encara amb moltes baixes blaugrana. Ho analitzem amb Oriol Domènech, Gemma Herrero i Gerard Autet. També explicarem si Flick pot recuperar Eric i quines alternatives té al mig del camp per suplir la baixa de Rodri.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
-      }
-    ],
+    "oca3": [],
     "oca4": []
   }
 }
