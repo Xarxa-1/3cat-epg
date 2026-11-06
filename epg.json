@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-05T23:37:01.701769+00:00",
+  "updated": "2026-11-06T03:39:31.604056+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-05T23:51:53+01:00",
-        "stop": "2026-11-06T00:40:25+01:00",
-        "title": "Nervi",
-        "subtitle": "Ningú està preparat per triomfar, amb Miguel Ángel Blanca i Berta Prieto ",
-        "description": "Voler agradar a tothom i acumular visualitzacions, seguidors i fama. El gest de l'influencer ho està contaminant tot? També la manera d'entendre la cultura? Parlem de l'èxit i el fracàs amb Miguel Ángel Blanca i Berta Prieto, que han estrenat la sèrie 'Segunda temporada'. Amb Jana Jubert analitzem la novel·la 'Famesick', de Lena Dunham, i amb el realitzador Albert Lloreta bussegem fins als orígens de la fama a internet. Fem safareig sobre les novetats culturals amb Oriol Puig Taulé i Begoña Gómez Urzaiz i ens acomiadem amb el directe d'una fera que ha sabut domesticar molt bé la fama i que celebra 20 anys de trajectòria: Maika Makovski. ",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-11-06T04:30:00+01:00",
+        "stop": "2026-11-06T05:14:19+01:00",
+        "title": "Cava de Blues",
+        "subtitle": "Pere Foved & Friends",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
       },
       {
-        "start": "2026-11-06T00:40:25+01:00",
-        "stop": "2026-11-06T03:40:07+01:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
+        "start": "2026-11-06T05:14:19+01:00",
+        "stop": "2026-11-06T06:00:00+01:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Jaume Vilaseca Trio",
+        "description": "Jaume Vilaseca ens mostrarà la seva passió per la bossa, la rumba i l'afro. Les seves influències van del jazz clàssic, al bop, o al post bop. Tot sota la mirada dels grans noms de la fusió com Herbie Hankock o Chick Corea. Avui ens presenten composicions de cada un dels membres del seu trio, on podrem veure la singular i elaborada manera de treballar un so de grup. Dick Them, al contrabaix, Ramón Díaz a la bateria i Jaume Vilaseca al piano.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-06T00:30:00+01:00",
-        "stop": "2026-11-06T01:00:00+01:00",
+        "start": "2026-11-06T01:00:00+01:00",
+        "stop": "2026-11-06T06:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-06T01:00:00+01:00",
-        "stop": "2026-11-06T06:00:00+01:00",
+        "start": "2026-11-06T06:00:00+01:00",
+        "stop": "2026-11-06T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,60 +83,60 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-06T00:32:56+01:00",
-        "stop": "2026-11-06T00:59:41+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-11-06T04:15:56+01:00",
+        "stop": "2026-11-06T06:02:02+01:00",
+        "title": "Billar a 3 bandes",
+        "subtitle": "Dani Sánchez-JS Ko / PBA Tour",
+        "description": "El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"
       },
       {
-        "start": "2026-11-06T00:59:41+01:00",
-        "stop": "2026-11-06T02:35:22+01:00",
-        "title": "Onze",
-        "subtitle": "Raphinha 2030; l'hora de Frenkie i 'El consultori'",
-        "description": "Víctor Lozano, David Bernabeu, Irati Vidal i Juvenal Edjogo comenten la renovació de Raphinha i els dubtes de Flick al mig del camp per jugar al Metropolitano. En Sergi Ferrer respon les preguntes dels espectadors de l'Onze.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-11-06T06:02:02+01:00",
+        "stop": "2026-11-06T06:15:16+01:00",
+        "title": "Zona UFEC",
+        "subtitle": "",
+        "description": "'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-06T00:31:59+01:00",
-        "stop": "2026-11-06T00:52:59+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "L'Ullassos, el rei de la nit",
-        "description": "En Chris i en Martin s'han emportat l'últim invent de l'Aviva, les Ulleres de Visió Nocturna de Gran Potència, però ho han fet sense demanar-li permís, perquè saben que encara no estan del tot acabades. Les necessiten per localitzar un tarser i aprendre'n els costums, però aviat es quedaran a les fosques... i hauran de salvar tota una família de tarsers!",
+        "start": "2026-11-06T04:29:27+01:00",
+        "stop": "2026-11-06T04:40:56+01:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "Els amics secrets",
+        "description": "En Pinxo s'empipa amb en Martís, perquè el troba jugant a cartes amb en Lludó, i no suporta els jocs de cartes. A més considera que en Martís, com que és el seu millor amic, ha de jugar amb ell i no amb en Lludó. Però no tothom està d'acord amb ell.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-06T00:52:59+01:00",
-        "stop": "2026-11-06T01:14:29+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Col·lecció de rapinyaires",
-        "description": "Mentre en Chris i en Martin estan intentant fer un inventari de tots els rapinyaires que coneixen, en Gormand, el xef més creatiu del món, segons ell, esclar, s'acaba d'inventar un nou plat: rapinyaire rostit. Primer capturarà totes les espècies del món per descobrir quin és el més deliciós i, tot seguit, es farà famós! Això si no l'hi impedeix l'Equip Kratt, evidentment!",
+        "start": "2026-11-06T04:40:56+01:00",
+        "stop": "2026-11-06T04:52:26+01:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "La medalla",
+        "description": "En Lludó no pot jugar a bitlles amb els bessons fins que acabi de reparar uns cistells per al seu pare. En Timbal s'ofereix a ajudar-lo, mentre que en Pinxo només vol jugar. Quan en Timbal torna al cau i explica que ha ajudat en Lludó, l'Edmond, orgullós del seu fill, li dona una medalla a la generositat. Però en Pinxo també vol una medalla, i es posa mans a l'obra per aconseguir-la. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-06T00:33:37+01:00",
-        "stop": "2026-11-06T01:27:22+01:00",
-        "title": "Dibuixar pel canvi",
-        "subtitle": "Russia. L'arbre de la violència",
-        "description": "Durant l'última dècada, l'artista gràfica Victoria Lomasko s'ha dedicat a documentar meticulosament la Rússia de Putin, infiltrant-se en tots els mítings i esdeveniments polítics crucials. Just un any abans de la invasió d'Ucraïna, intuint que la catàstrofe era imminent, comença a investigar a fons la relació entre la violència domèstica i la violència exercida per l'Estat, i plasma les seves conclusions en el seu mural més ambiciós, que narra els fets històrics compresos entre l'hivern del 2021, ple de protestes, i l'hivern tràgic del 2022. Mentre Putin llança una 'operació militar' a Ucraïna i titlla els dissidents russos de 'traïdors que cal escopir com mosques', Lomasko afronta la dura realitat i pren la valenta decisió de deixar-ho tot enrere i emprendre un nou camí.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-06T04:15:25+01:00",
+        "stop": "2026-11-06T04:41:32+01:00",
+        "title": "El retorn de les lluernes",
+        "subtitle": "Roger i 'La mà esquerra de la foscor'",
+        "description": "Aquest capítol del programa parteix de la novel·la 'La mà esquerra de la foscor' (Raig Verd), d'Úrsula K. Le GuinL'Ai arriba al planeta Hivern amb la intenció que aquest s'aliï a la Federació Galàctica de mons habitats per éssers humans, l'Ekumen. L'habiten dues civilitzacions enfrontades i l'Ai haurà de trobar quina pot ser l'adequada per a l'aliança. A més, es troba una singularitat entre els éssers que hi viuen, no són ni homes ni dones, són hermafrodites que adopten un sexe o l'altre. El Roger Manau és el lector que s'endinsa en la novel·la i ens descobreix personatges paral·lels ubicats a Lleida, Tàrrega i Montserrat.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-11-06T01:27:22+01:00",
-        "stop": "2026-11-06T01:53:09+01:00",
-        "title": "La pell dels murs",
-        "subtitle": "Rock Blackblock-Xavier Artigas",
-        "description": "Aquest episodi de La Pell dels Murs està centrat en un mural que l'artista Roc Blackblock va fer a l'Ateneu Popular de Nou Barris. El documental ha estat dirigit per Xavier Artigas.L'episodi arrenca amb una reunió entre el muralista i un grup de veïns de Nou Barris que intercanvien experiències i opinions sobre la importància de mantenir viva la memòria històrica del barri i dels seus pobladors. Després d'escoltar els seus comentaris, Roc Blackblock duu a terme un treball de recerca i documentació a l'Arxiu Històric de Roquetes per seleccionar tres imatges, de les quals, finalment, la gent va triar-ne la guanyadora: una fotografia de Kim Manresa realitzada a les antigues barraques de Santa Engràcia (actual Plaça Àngel Pestaña, de Barcelona). En aquesta imatge, s'hi pot veure un grup de veïnes i criatures davant les seves barraques poc després que un promotor fes una estafa immobiliària que va deixar diverses famílies sense els diners ni el pis que els havia promès.El documental segueix la feina de Blackblock amb una atenció especial al paper del mural com a mitjà per mantenir viu el record d'experiències socials traumàtiques i per transmetre missatges reivindicatius de caràcter polític. El mural es pot veure a la façana de la torre escènica, l'edifici més alt de l'Ateneu Popular de Nou Barris, i ha comptat amb la col·laboració del propi Ateneu i de Montana Colors.La sèrie documental sobre art urbà La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.",
+        "start": "2026-11-06T04:41:32+01:00",
+        "stop": "2026-11-06T05:08:53+01:00",
+        "title": "El retorn de les lluernes",
+        "subtitle": "Èlia i 'Ignot'",
+        "description": "Aquest capítol del programa parteix de la novel·la 'Ignot' (Edicions del Periscopi), de Manuel Baixauli.Quan Mateu, un pintor en hores baixes, rep l'encàrrec d'il·lustrar els textos d'un escriptor anomenat Crisòstom, accepta sense pensar-s'ho dues vegades. Però qui és, realment, Crisòstom? Per què no ha transcendit, la seva obra? Mateu descobrirà un personatge humil però fascinant, un geni desconegut, i se submergirà en un món insòlit, ple de miralls i poblat per individus solitaris i esquius.L'Èlia mateu és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels a Barcelona.",
         "genre": "ALTRES",
         "image": ""
       }
