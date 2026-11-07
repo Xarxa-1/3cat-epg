@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-06T23:22:09.023697+00:00",
+  "updated": "2026-11-07T02:59:14.139002+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-07T00:03:59+01:00",
-        "stop": "2026-11-07T00:54:01+01:00",
-        "title": "Pel·lícula",
-        "subtitle": "'Abans era abans' Urko",
-        "description": "7 dels 8 joves encausats seran conduïts a la presó, adduint risc de fuga. Ells, les seves famílies i tot el seu entorn passaran moments difícils en una llarga espera fins a la data del judici, mentre veuen com els seus somnis, les seves relacions i en definitiva el seu futur, fan un gir de 180º tancats a la presó.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
-      },
-      {
-        "start": "2026-11-07T00:54:01+01:00",
-        "stop": "2026-11-07T01:45:36+01:00",
-        "title": "Pel·lícula",
-        "subtitle": "'Els detalls són més importants que la veritat' Leire",
-        "description": "El judici comença el 16 d'abril del 2018 i s'allargarà durant 3 setmanes. Una muntanya russa d'emocions sacseja els encausats, famílies, testimonis i en definitiva, a tots els implicats, fins que la sentència es fa pública.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-11-06T23:30:00+01:00",
-        "stop": "2026-11-07T00:30:00+01:00",
+        "start": "2026-11-07T03:16:10+01:00",
+        "stop": "2026-11-07T04:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-07T00:30:00+01:00",
-        "stop": "2026-11-07T01:00:00+01:00",
+        "start": "2026-11-07T04:30:00+01:00",
+        "stop": "2026-11-07T05:14:41+01:00",
+        "title": "Cava de Blues",
+        "subtitle": "Big Hollers",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-11-07T01:00:00+01:00",
+        "stop": "2026-11-07T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-07T06:00:00+01:00",
+        "stop": "2026-11-07T07:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-06T23:00:23+01:00",
-        "stop": "2026-11-07T00:31:13+01:00",
-        "title": "Onze",
-        "subtitle": "Atlètic-Barça: el liderat en joc; La clau Delmàs; Fàbregas i Nin",
-        "description": "Míriam Riau condueix la tertúlia amb Santi Ovalle, Carme Lluveras, Fernando Polo i Juli Garcia. Analitzem l'Atlètic de Madrid-Barça de diumenge, amb el liderat en joc. Àlex Delmàs ens explica la clau del partit al Metropolitano, Joan Fàbregas repassa les polèmiques arbitrals dels enfrontaments amb l'Atlètic de l'any passat i acabem amb Les golfes de l'Onze, amb Òscar Nin.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-11-07T02:39:59+01:00",
+        "stop": "2026-11-07T04:15:22+01:00",
+        "title": "Bàsquet",
+        "subtitle": "Cadí La Seu-Jairis / Lliga / J7",
+        "description": "El conjunt urgellenc, 4 victòries i 2 derrotes, pot millorar la posició a la zona alta de la taula classificatòria. Les murcianes han guanyat un partit més que les de la Seu.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/6/1769506919869.jpg"
       },
       {
-        "start": "2026-11-07T00:31:13+01:00",
-        "stop": "2026-11-07T00:51:56+01:00",
+        "start": "2026-11-07T04:15:22+01:00",
+        "stop": "2026-11-07T04:31:38+01:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-11-07T00:12:54+01:00",
-        "stop": "2026-11-07T00:33:55+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Els tèrmits contra les llengües",
-        "description": "L'Aviva i la Koki, que avui no tenen el dia, han tingut un petit problema amb el miniaturitzador i ara una colla de tèrmits se'ls emporten cap al seu cau convençuts que són brins d'herba. Ara els germans Kratt les hauran de buscar, però a la sabana africana hi ha milions de tèrmits, més que tots els mamífers junts! Com s'ho faran?!",
+        "start": "2026-11-07T03:38:25+01:00",
+        "stop": "2026-11-07T03:59:22+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Antibug",
+        "description": "Després d'haver salvat la Sabrina, que s'havia convertit en la Invisible, Ladybug tracta la Chloé de mentidera, una crítica que la filla de l'alcalde encaixa molt malament. L'Esfinx aprofita el disgust i la ràbia de la Chloé per akumatizar-la i convertir-la en l'Antibug. Ladybug s'haurà d'enfrontar a una adversària que té els mateixos poders que ella. Se'n sortirà?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-07T00:33:55+01:00",
-        "stop": "2026-11-07T00:55:25+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Visca el gall dindi",
-        "description": "Avui en Chris i en Martin s'han posat com a missió defensar l'honor del gall dindi. Estan decidits a demostrar que quan dius 'gall' a algú hauria de ser un elogi, en comptes d'un insult. I és que els galls dindi són uns animals genials! Tant, que en Gormand també ha sortit a buscar el gall dindi salvatge més gras de tot el bosc... Però per cruspir-se'l!",
+        "start": "2026-11-07T03:59:22+01:00",
+        "stop": "2026-11-07T04:11:16+01:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "Els trastos d'en Timbal",
+        "description": "En Timbal té una col·lecció de pinyes amagada a l'habitació de convidats, però l'Edmond la descobreix i li demana que es busqui un altre lloc per guardar-la. Després d'unes quantes temptatives infructuoses, aconsegueix desar-la al cau d'en Lludó, però al final les pinyes li serviran per a una cosa inesperada.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-07T00:08:46+01:00",
-        "stop": "2026-11-07T00:33:55+01:00",
-        "title": "Volcans i homes",
-        "subtitle": "Etna, la muntanya de les muntanyes",
-        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Sicília, per conèixer persones que viuen a tocar de l'Etna. Ens mostrarà, entre d'altres coses, les tradicions populars i religioses que ha originat el perill constant de l'Etna, la gran fertilitat de les terres agrícoles del peu del volcà i les dificultats quotidianes de les persones que viuen a la zona de les salinelle, els volcans de fang. A part d'anar fins a un cràter actiu amb un vulcanòleg per oferir-nos, també, el punt de vista científic sobre els fenòmens volcànics. ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-07T03:47:36+01:00",
+        "stop": "2026-11-07T04:12:37+01:00",
+        "title": "El retorn de les lluernes",
+        "subtitle": "Gemma i 'La trena'",
+        "description": "Aquest capítol del programa parteix de la novel·la 'La trena' (Salamandra), de Laetitia Colombani.Tres dones que, nascudes en continents diferents, comparteixen unes idees i uns sentiments que les uneixen en un poderós anhel de llibertat. A Badlapur, la intocable Smita està decidida en canvi a lluitar perquè la seva filla no segueixi els seus passos. A la Giulia li encanta treballar al taller familiar, l'últim de Palerm que confecciona perruques amb cabells autèntics. Quan descobreix que el negoci està a punt de fer fallida, afronta l'adversitat amb valentia i determinació. La Sarah és una advocada d'èxit a Montreal que ho ha sacrificat tot per la seva carrera: dos matrimonis fallits i tres fills a qui no ha vist créixer.La Gemma Prat és la lectora que s'endinsa en la novel·la i ens descobreix els personatges paral·lels a Manresa.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-11-07T00:33:55+01:00",
-        "stop": "2026-11-07T01:26:27+01:00",
-        "title": "Philippe Echaroux, il.luminar el món",
-        "subtitle": "Laponie",
-        "description": "Philippe Echaroux viatja al nord d'Escandinàvia per conèixer Sapmi i els samis, que en català s'anomenen tradicionalment 'Lapònia' i 'lapons'. Actualment, els samis rebutgen aquestes denominacions perquè les perceben com a pejoratives i consideren que són un poble minoritzat i sotmès a les lleis dels estats que s'han repartit els seus territoris. Amb els seus retrats projectats a la natura, Philippe Echaroux vol ajudar a fer visible la situació d'aquest poble.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/1/1784276124514.jpg"
+        "start": "2026-11-07T04:12:37+01:00",
+        "stop": "2026-11-07T04:38:28+01:00",
+        "title": "El retorn de les lluernes",
+        "subtitle": "Cristina i 'El sentit d'un final'",
+        "description": "Aquest capítol del programa parteix de la novel·la 'El sentit d'un final' (Angle Editorial), de Julian BarnesTony Webster és ara un jubilat de vida tranquil·la, aparentment en pau amb la seva vida. Però es veurà abocat a revisar el seu passat, especialment els seus anys adolescents. Ara, passats més de quaranta anys, Tony Webster s'adona que molts fets potser no van passar com els havia recordat. Perquè la memòria és imperfecta i pot fer aflorar sorpreses. I, fins i tot, obligar-te a reinterpretar tota una vida.Cristina Fort és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels ubicats al Pallars Sobirà.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "oca1": [],
