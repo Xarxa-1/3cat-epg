@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-07T09:50:41.589870+00:00",
+  "updated": "2026-11-07T16:02:48.774660+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-07T10:00:01+01:00",
-        "stop": "2026-11-07T12:17:24+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-07T16:57:42+01:00",
+        "stop": "2026-11-07T17:57:44+01:00",
+        "title": "Infidels",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "L'Arlet diu a la Dani que ha tornat a tenir el mateix somni: ella persegueix el Marc, però no aconsegueix atrapar-lo. La Lídia li explica que potser el seu somni es deu a la por a la pèrdua. La Paula està feta pols. La Cruz i el Marc, el seu exmarit, li fan costat, però ella no reacciona. Les amigues també ho intenten, però el Toni és l'únic capaç de treure-li un somriure. El Peter i la Joana fan l'amor sense que els nens els sentin, però l'endemà al matí la Marina els enxampa. La Cecília i la Joana queden per veure's. Entre les dues dones es crea una certa complicitat. El Toni confessa a la Lídia que es va embolicar amb una altra dona. La Cruz surt d'una entrevista de feina quan li roben la bossa. La noia s'adona que es tracta del Nico, un amic de la infància.",
+        "genre": "TELESÈRIE",
+        "image": ""
       },
       {
-        "start": "2026-11-07T12:17:24+01:00",
-        "stop": "2026-11-07T13:08:11+01:00",
-        "title": "País d'altura",
-        "subtitle": "Paisatges de Barcelona",
-        "description": "La Catalunya interior guarda més secrets que un calaix de cuina. Muntanyes, pobles amb encant i tradicions que resisteixen en un territori que no necessita fer soroll per enamorar.",
-        "genre": "",
+        "start": "2026-11-07T17:57:44+01:00",
+        "stop": "2026-11-07T18:20:04+01:00",
+        "title": "Jet lag",
+        "subtitle": "EN CASEM",
+        "description": "L'Esther li fa un ultimàtum a l'Andreu: o es casen, o tallen. La raó? S'ha quedat embarassada. Sembla que tot hagi de ser molt fàcil, però no ho serà gens. La Diana decideix reclamar els diners d'una factura de telèfon que no és seva. . Ben aviat es veurà inmersa en una aventura impensable.",
+        "genre": "TELESÈRIE",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-07T10:00:00+01:00",
-        "stop": "2026-11-07T12:00:00+01:00",
+        "start": "2026-11-07T16:30:00+01:00",
+        "stop": "2026-11-07T18:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-07T12:00:00+01:00",
-        "stop": "2026-11-07T14:30:00+01:00",
+        "start": "2026-11-07T18:30:00+01:00",
+        "stop": "2026-11-07T20:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-07T10:21:00+01:00",
-        "stop": "2026-11-07T11:55:00+01:00",
-        "title": "Onze",
-        "subtitle": "Atlètic-Barça: el liderat en joc; La clau Delmàs; Fàbregas i Nin",
-        "description": "Míriam Riau condueix la tertúlia amb Santi Ovalle, Carme Lluveras, Fernando Polo i Juli Garcia. Analitzem l'Atlètic de Madrid-Barça de diumenge, amb el liderat en joc. Àlex Delmàs ens explica la clau del partit al Metropolitano, Joan Fàbregas repassa les polèmiques arbitrals dels enfrontaments amb l'Atlètic de l'any passat i acabem amb Les golfes de l'Onze, amb Òscar Nin.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-11-07T16:10:08+01:00",
+        "stop": "2026-11-07T18:40:00+01:00",
+        "title": "Esport Club Cap de Setmana",
+        "subtitle": "Minut a minut / Espanyol-Depor",
+        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       },
       {
-        "start": "2026-11-07T11:55:00+01:00",
-        "stop": "2026-11-07T13:52:31+01:00",
+        "start": "2026-11-07T18:40:00+01:00",
+        "stop": "2026-11-07T19:31:21+01:00",
         "title": "Futbol",
-        "subtitle": "Granada CF-RCD Espanyol / Lliga F / J10",
-        "description": "Si aconsegueixen la victòria, les blanc-i-blaves se situarien provisionalment a la cinquena posició. Les granadines tenen un punt menys que les barcelonines.",
+        "subtitle": "FC Cartagena-UE Sant Andreu / Primera Federació / J11",
+        "description": "Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-07T10:45:18+01:00",
-        "stop": "2026-11-07T11:11:50+01:00",
-        "title": "Fang",
-        "subtitle": "Els Súpers del futur!",
-        "description": "Futbolistes, metgesses, astronautes o professors. Els concursants apunten alt i tenen molt clar que el seu futur és prometedor. Arriben preparadíssims per demostrar el seu domini de la llengua i de l'equilibri. Aquest últim el necessitaran per evitar alguna relliscada. Els nens i nenes d'aquest capítol tenen molt clar què volen ser de grans, tot i que ara i aquí el que volen tots és guanyar FANG!.",
+        "start": "2026-11-07T16:57:06+01:00",
+        "stop": "2026-11-07T17:08:14+01:00",
+        "title": "Els secrets de Gaudí",
+        "subtitle": "Els secrets de Gaudí: La vida d'un geni",
+        "description": "Vols saber quines són les obres més emblemàtiques d'Antoni Gaudí? O com el va influenciar la naturalesa a l'hora d'inventar-se totes les seves creacions? Cada un dels seus edificis crea un món únic i singular. T'expliquem per què Gaudí és considerat un dels arquitectes més importants del món i com va crear diverses obres mestres, set d'elles considerades patrimoni de la humanitat. Amb aquest capítol us donem la benvinguda a 'Els secrets de Gaudí'.",
         "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-11-07T11:11:50+01:00",
-        "stop": "2026-11-07T11:33:50+01:00",
-        "title": "El carreró del misteri",
-        "subtitle": "El lladre invisible",
-        "description": "Durant un viatge diplomàtic a Londres, el rei de les mascotes de la ciutat del Caire és víctima d'un robatori inexplicable just en el moment que visita el palau de Buckingham.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-11-07T17:08:14+01:00",
+        "stop": "2026-11-07T17:20:23+01:00",
+        "title": "Els secrets de Gaudí",
+        "subtitle": "Els secrets de l'aigua: El Park Güell",
+        "description": "L'aigua és un element clau en l'arquitectura de Gaudí i el Park Güell n'és un molt bon exemple. Vols saber d'on ve l'aigua que surt de la salamandra de colors més famosa del món? O on s'amaga la cantimplora del parc?T'acompanyem a resseguir el banc de trencadís i la gran plaça, i et portem de visita dins d'un dels secrets més grans que amaga el Park Güell. ",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-07T10:28:57+01:00",
-        "stop": "2026-11-07T10:58:49+01:00",
-        "title": "GR Pirineus",
-        "subtitle": "El pla del monstre",
-        "description": "En aquesta ruta el Marc es mou pel Pla de l'Estany, concretament des de Crespià fins a Sant Miquel de Campmajor. En total, uns 45 Km repartits en dues jornades, fets en cotxe, en bicicleta i amb un monstre de fons...De Crespià anirà a Esponellà i després a Serinyà, on viurà en pròpia pell com és la vida d'un arqueòleg. A continuació, agafarà la bici per anar fins a Banyoles. Allà rodejarà l'estany i intentarà descobrir si existeix o no el monstre de Banyoles!L'endemà anirà fins a Cornellà de Terri, on aprendrà a enforcar alls i després a cuinar-los. Continuarà fent via direcció Porqueres, on es perdrà en un bosc que amaga alguns secrets molt picants. Finalment, acabarà la ruta a Sant Miquel de Campmajor, amb les seves caramelles!",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "start": "2026-11-07T16:55:35+01:00",
+        "stop": "2026-11-07T17:56:39+01:00",
+        "title": "Revolució 304",
+        "subtitle": "Revolució 304",
+        "description": "Als 17 anys, Lamine Yamal s'ha convertit en un dels millors futbolistes del món. En cada celebració de gol dibuixa amb les seves mans el 304, els tres darrers dígits de Rocafonda, el barri de Mataró on encara hi viu la seva àvia Fàtima i on va viure bona part de la seva infantesa. 'Només demano que la gent de Rocafonda tingui les mateixes oportunitats que vaig tenir jo', diu Lamine Yamal en el documental.Racisme, immigració, igualtat d'oportunitats i futur, aquests són els temes que tracta aquest documental on cinc catalans, fills d'immigrants africans, es reivindiquen per demanar les mateixes oportunitats per a tothom. Lamine Yamal, l'astre del futbol del Barça; Yolanda Sey, cantant i actriu; Tamara Ndong, actriu; Amine Toumi, mestre, i Mohamed Lamine, Wiz, humorista i creador de contingut, són els protagonistes d'aquest documental amb una manifesta mirada social. Coneixerem els seus orígens i la seva lluita diària per reclamar la normalitat en la nova societat catalana, cada cop més multicultural i diversa. Un documental de servei públic que porta el segell de 3Cat, fet des del Departament d'Esports i elaborat per Xavi Torres, Jesús Muñoz, Santi Padró, Àngel Rufí, Carles Comajuncosas, Maria Colomer i Marta Colàs, l'equip premiat amb un Ondas per 'Unzué. L'últim equip del Juancar'. ",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/8/1744270867483.jpg "
       },
       {
-        "start": "2026-11-07T10:58:49+01:00",
-        "stop": "2026-11-07T11:28:00+01:00",
-        "title": "GR Pirineus",
-        "subtitle": "Somnis de volcans",
-        "description": "En el vuitè gran recorregut, el Marc anirà de Besalú a Santa Pau, creuant la zona volcànica de la Garrotxa. En total uns 40 quilòmetres, repartits en dues jornades, fets a peu, en bici i en globus. Desprès de passejar pel magnífic casc antic de Besalú, el Marc aprendrà a fer forja artística. Tot seguit, enfilarà camí passant per Argelaguer, un poble que amaga el laberint de l'home de les cabanes, i seguirà per Tortellà, Montagut, Begudà i finalment la capital, Olot, on descobrirà el museu dels volcans. L'endemà, el Marc farà un vol en globus sobre la zona volcànica: colades de lava, una fageda espectacular i molts volcans... Un bon menú, que completarà collint fesols, un dels productes autòctons més representatius de la comarca, per després cuinar-los... A on? Doncs a dins d'un volcà... On podria ser si no... Finalment visitarà un poble meravellós, Santa Pau, i acabarà a la fageda més famosa de Catalunya.",
+        "start": "2026-11-07T17:56:39+01:00",
+        "stop": "2026-11-07T18:50:40+01:00",
+        "title": "Dibuixar pel canvi",
+        "subtitle": "Russia. L'arbre de la violència",
+        "description": "Durant l'última dècada, l'artista gràfica Victoria Lomasko s'ha dedicat a documentar meticulosament la Rússia de Putin, infiltrant-se en tots els mítings i esdeveniments polítics crucials. Just un any abans de la invasió d'Ucraïna, intuint que la catàstrofe era imminent, comença a investigar a fons la relació entre la violència domèstica i la violència exercida per l'Estat, i plasma les seves conclusions en el seu mural més ambiciós, que narra els fets històrics compresos entre l'hivern del 2021, ple de protestes, i l'hivern tràgic del 2022. Mentre Putin llança una 'operació militar' a Ucraïna i titlla els dissidents russos de 'traïdors que cal escopir com mosques', Lomasko afronta la dura realitat i pren la valenta decisió de deixar-ho tot enrere i emprendre un nou camí.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "image": ""
       }
     ],
     "oca1": [],
