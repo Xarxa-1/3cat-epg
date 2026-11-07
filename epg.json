@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-07T16:02:48.774660+00:00",
+  "updated": "2026-11-07T20:13:06.529230+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-07T16:57:42+01:00",
-        "stop": "2026-11-07T17:57:44+01:00",
-        "title": "Infidels",
+        "start": "2026-11-07T21:00:00+01:00",
+        "stop": "2026-11-07T22:05:30+01:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "L'Arlet diu a la Dani que ha tornat a tenir el mateix somni: ella persegueix el Marc, però no aconsegueix atrapar-lo. La Lídia li explica que potser el seu somni es deu a la por a la pèrdua. La Paula està feta pols. La Cruz i el Marc, el seu exmarit, li fan costat, però ella no reacciona. Les amigues també ho intenten, però el Toni és l'únic capaç de treure-li un somriure. El Peter i la Joana fan l'amor sense que els nens els sentin, però l'endemà al matí la Marina els enxampa. La Cecília i la Joana queden per veure's. Entre les dues dones es crea una certa complicitat. El Toni confessa a la Lídia que es va embolicar amb una altra dona. La Cruz surt d'una entrevista de feina quan li roben la bossa. La noia s'adona que es tracta del Nico, un amic de la infància.",
-        "genre": "TELESÈRIE",
-        "image": ""
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-11-07T17:57:44+01:00",
-        "stop": "2026-11-07T18:20:04+01:00",
-        "title": "Jet lag",
-        "subtitle": "EN CASEM",
-        "description": "L'Esther li fa un ultimàtum a l'Andreu: o es casen, o tallen. La raó? S'ha quedat embarassada. Sembla que tot hagi de ser molt fàcil, però no ho serà gens. La Diana decideix reclamar els diners d'una factura de telèfon que no és seva. . Ben aviat es veurà inmersa en una aventura impensable.",
-        "genre": "TELESÈRIE",
+        "start": "2026-11-07T22:05:30+01:00",
+        "stop": "2026-11-08T00:40:24+01:00",
+        "title": "Col·lapse",
+        "subtitle": "",
+        "description": "Entrevistem Alberto Muñagorri, una de les víctimes més joves d'ETA. El 1982, quan només tenia 10 anys, una bomba amagada dins d'una motxilla va esclatar i el va deixar sense cama, cec d'un ull i amb seqüeles per tota la vida. Ens explica el seu testimoni de superació de por i dolor. L'atenció capil·lar representa un 38% de tots els diagnòstics de les clíniques de dermatologia. Debatrem a la taula d'actualitat els motius que cada vegada porten més joves a assistir a la consulta del metge per posar remei a la incipient alopècia amb un dels rostres més populars i calbs de la tele catalana, Llucià Ferrer, la periodista i col·laboradora Ana Boadas, la tricòloga i nutricionista Dra. Montse Folch i el testimoni en primera persona de dos joves a qui els cauen els cabells des de fa anys. Després de tota una vida dedicada a analitzar el comportament dels altres, el consultor i assessor empresarial Emilio Duró ens explica la clau de l'èxit i del lideratge en les societats contemporànies. La periodista Pilar Eyre ens posa al dia dels assumptes reials que ocupen més portades. Carlos Latre es posa a la pell de molts personatges populars en el seu particular resum de l'actualitat. L'Anna Callís s'enfronta al repte d'aprendre a fer lluita lliure mexicana. El superarà?Com sempre, periodisme sense filtres sobre les midterm amb Albert Montagut, llibres recomanats amb Sergi Pàmies i anàlisi de dades amb el professor Frederic Vincent. Col·lapse, dissabte a les 22:10 a TV3, amb Jordi González. ",
+        "genre": "TALK-SHOW",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-07T16:30:00+01:00",
-        "stop": "2026-11-07T18:30:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-07T21:00:00+01:00",
+        "stop": "2026-11-07T23:00:00+01:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-11-07T18:30:00+01:00",
-        "stop": "2026-11-07T20:00:00+01:00",
+        "start": "2026-11-07T23:00:00+01:00",
+        "stop": "2026-11-08T00:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-07T16:10:08+01:00",
-        "stop": "2026-11-07T18:40:00+01:00",
-        "title": "Esport Club Cap de Setmana",
-        "subtitle": "Minut a minut / Espanyol-Depor",
-        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-11-07T21:05:27+01:00",
+        "stop": "2026-11-07T21:39:20+01:00",
+        "title": "Zona zàping",
+        "subtitle": "El Barça torna a golejar",
+        "description": "Després de les derrotes de la setmana passada, el Barça ha tornat a guanyar i golejar, tant en Lliga com en Champions. L'Alabès i l'Aston Villa han estat les víctimes.Els sabadellencs Flashy Ice Cream acomiaden el programa amb el seu nou tema 'No ho sé'.",
+        "genre": "ALTRES",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"
       },
       {
-        "start": "2026-11-07T18:40:00+01:00",
-        "stop": "2026-11-07T19:31:21+01:00",
-        "title": "Futbol",
-        "subtitle": "FC Cartagena-UE Sant Andreu / Primera Federació / J11",
-        "description": "Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.",
+        "start": "2026-11-07T21:39:20+01:00",
+        "stop": "2026-11-07T22:55:00+01:00",
+        "title": "Billar a 3 bandes",
+        "subtitle": "Dani Sánchez-JS Ko / PBA Tour",
+        "description": "El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-07T16:57:06+01:00",
-        "stop": "2026-11-07T17:08:14+01:00",
-        "title": "Els secrets de Gaudí",
-        "subtitle": "Els secrets de Gaudí: La vida d'un geni",
-        "description": "Vols saber quines són les obres més emblemàtiques d'Antoni Gaudí? O com el va influenciar la naturalesa a l'hora d'inventar-se totes les seves creacions? Cada un dels seus edificis crea un món únic i singular. T'expliquem per què Gaudí és considerat un dels arquitectes més importants del món i com va crear diverses obres mestres, set d'elles considerades patrimoni de la humanitat. Amb aquest capítol us donem la benvinguda a 'Els secrets de Gaudí'.",
-        "genre": "ALTRES",
+        "start": "2026-11-07T20:59:58+01:00",
+        "stop": "2026-11-07T21:20:51+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "El rescat del pangolí",
+        "description": "L'Aviva descobreix els pangolins i renya els germans Kratt perquè no li havien parlat mai d'aquest animal tan especial. Aleshores l'equip rep un avís de la Yi i el Duyi, uns companys de la Xina que els expliquen que algú està parant trampes per capturar pangolins. És el Gormand, que vol utilitzar les escates de l'animal per vendre-les com a aliment beneficiós per a la salut. La missió de l'equip consistirà a rescatar-los i també a impedir que el malvat enredi la gent amb un producte saludable fals.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-07T17:08:14+01:00",
-        "stop": "2026-11-07T17:20:23+01:00",
-        "title": "Els secrets de Gaudí",
-        "subtitle": "Els secrets de l'aigua: El Park Güell",
-        "description": "L'aigua és un element clau en l'arquitectura de Gaudí i el Park Güell n'és un molt bon exemple. Vols saber d'on ve l'aigua que surt de la salamandra de colors més famosa del món? O on s'amaga la cantimplora del parc?T'acompanyem a resseguir el banc de trencadís i la gran plaça, i et portem de visita dins d'un dels secrets més grans que amaga el Park Güell. ",
-        "genre": "ALTRES",
+        "start": "2026-11-07T21:20:51+01:00",
+        "stop": "2026-11-07T21:41:00+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Un Nadal animal (1a part)",
+        "description": "Són les vacances de Nadal i, per celebrar-lo, l'equip dels germans Kratt s'agafa un descans de les seves aventures, però, quan estan a punt d'obrir els regals, sona l'alarma. Resulta que els malvats, el Zach, el Gormand i la Donita, estan capturant les cries de tots els animals que coneixen per convertir-les en adorns de Nadal. La festa l'hauran de deixar per més endavant, perquè ara el que han de fer és entrar en acció per salvar els seus amics i tornar-los a casa per Nadal.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-07T16:55:35+01:00",
-        "stop": "2026-11-07T17:56:39+01:00",
-        "title": "Revolució 304",
-        "subtitle": "Revolució 304",
-        "description": "Als 17 anys, Lamine Yamal s'ha convertit en un dels millors futbolistes del món. En cada celebració de gol dibuixa amb les seves mans el 304, els tres darrers dígits de Rocafonda, el barri de Mataró on encara hi viu la seva àvia Fàtima i on va viure bona part de la seva infantesa. 'Només demano que la gent de Rocafonda tingui les mateixes oportunitats que vaig tenir jo', diu Lamine Yamal en el documental.Racisme, immigració, igualtat d'oportunitats i futur, aquests són els temes que tracta aquest documental on cinc catalans, fills d'immigrants africans, es reivindiquen per demanar les mateixes oportunitats per a tothom. Lamine Yamal, l'astre del futbol del Barça; Yolanda Sey, cantant i actriu; Tamara Ndong, actriu; Amine Toumi, mestre, i Mohamed Lamine, Wiz, humorista i creador de contingut, són els protagonistes d'aquest documental amb una manifesta mirada social. Coneixerem els seus orígens i la seva lluita diària per reclamar la normalitat en la nova societat catalana, cada cop més multicultural i diversa. Un documental de servei públic que porta el segell de 3Cat, fet des del Departament d'Esports i elaborat per Xavi Torres, Jesús Muñoz, Santi Padró, Àngel Rufí, Carles Comajuncosas, Maria Colomer i Marta Colàs, l'equip premiat amb un Ondas per 'Unzué. L'últim equip del Juancar'. ",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/8/1744270867483.jpg "
+        "start": "2026-11-07T21:09:49+01:00",
+        "stop": "2026-11-07T21:39:20+01:00",
+        "title": "Caçadors de bolets",
+        "subtitle": "Nandu Jubany",
+        "description": "TV3 estrena una nova edició de 'Caçadors de bolets', que comptarà amb la col·laboració d'alguns dels millors cuiners actuals. En Nandu Jubany és el protagonista d'aquest primer capítol. Jubany té molt sentir de l'humor, un restaurant amb una estrella Michelin a Calldetenes i uns companys de cuina que surten a caçar bolets tot demostrant que es pot respectar el teu cap, tot i fer-li bromes de boletaire.",
+        "genre": "DOCUMENTAL DOCUDRAMA",
+        "image": ""
       },
       {
-        "start": "2026-11-07T17:56:39+01:00",
-        "stop": "2026-11-07T18:50:40+01:00",
-        "title": "Dibuixar pel canvi",
-        "subtitle": "Russia. L'arbre de la violència",
-        "description": "Durant l'última dècada, l'artista gràfica Victoria Lomasko s'ha dedicat a documentar meticulosament la Rússia de Putin, infiltrant-se en tots els mítings i esdeveniments polítics crucials. Just un any abans de la invasió d'Ucraïna, intuint que la catàstrofe era imminent, comença a investigar a fons la relació entre la violència domèstica i la violència exercida per l'Estat, i plasma les seves conclusions en el seu mural més ambiciós, que narra els fets històrics compresos entre l'hivern del 2021, ple de protestes, i l'hivern tràgic del 2022. Mentre Putin llança una 'operació militar' a Ucraïna i titlla els dissidents russos de 'traïdors que cal escopir com mosques', Lomasko afronta la dura realitat i pren la valenta decisió de deixar-ho tot enrere i emprendre un nou camí.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-07T21:39:20+01:00",
+        "stop": "2026-11-07T22:08:11+01:00",
+        "title": "Caçadors de bolets",
+        "subtitle": "Joan Roca",
+        "description": "Joan Roca és un dels millors cuiners del món, tot un mestre dels fogons reconegut pels especialistes de tot el planeta. Però, es clar, una cosa es cuinar bolets i una altra molt diferent es collir-los. Fent acopi de determinació, Joan i el seu fill Marc, juntament amb l'Alfons i en David, treballadors del Celler de Can Roca, el restaurant dels germans Roca a Girona, van sortir per la Selva a provar fortuna com a boletaires. La jornada no anava pas malament, però l'aparició d'un personatge que semblava formar part de la natura va canviar el destí de l'excursió. Un petit misteri que quedarà desvelat al capítol de 'Caçadors de bolets' on, entre altres coses, Joan, tot un 3 estrelles Michelin, escolta una recepta com si fos un aprenent de cuina. Coses que només passen a 'Caçadors de bolets'.",
+        "genre": "DOCUMENTAL DOCUDRAMA",
         "image": ""
       }
     ],
