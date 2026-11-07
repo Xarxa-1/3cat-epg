@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-07T20:13:06.529230+00:00",
+  "updated": "2026-11-07T23:38:36.384558+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-07T21:00:00+01:00",
-        "stop": "2026-11-07T22:05:30+01:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
-        "start": "2026-11-07T22:05:30+01:00",
-        "stop": "2026-11-08T00:40:24+01:00",
+        "start": "2026-11-07T22:06:43+01:00",
+        "stop": "2026-11-08T00:42:20+01:00",
         "title": "Col·lapse",
         "subtitle": "",
         "description": "Entrevistem Alberto Muñagorri, una de les víctimes més joves d'ETA. El 1982, quan només tenia 10 anys, una bomba amagada dins d'una motxilla va esclatar i el va deixar sense cama, cec d'un ull i amb seqüeles per tota la vida. Ens explica el seu testimoni de superació de por i dolor. L'atenció capil·lar representa un 38% de tots els diagnòstics de les clíniques de dermatologia. Debatrem a la taula d'actualitat els motius que cada vegada porten més joves a assistir a la consulta del metge per posar remei a la incipient alopècia amb un dels rostres més populars i calbs de la tele catalana, Llucià Ferrer, la periodista i col·laboradora Ana Boadas, la tricòloga i nutricionista Dra. Montse Folch i el testimoni en primera persona de dos joves a qui els cauen els cabells des de fa anys. Després de tota una vida dedicada a analitzar el comportament dels altres, el consultor i assessor empresarial Emilio Duró ens explica la clau de l'èxit i del lideratge en les societats contemporànies. La periodista Pilar Eyre ens posa al dia dels assumptes reials que ocupen més portades. Carlos Latre es posa a la pell de molts personatges populars en el seu particular resum de l'actualitat. L'Anna Callís s'enfronta al repte d'aprendre a fer lluita lliure mexicana. El superarà?Com sempre, periodisme sense filtres sobre les midterm amb Albert Montagut, llibres recomanats amb Sergi Pàmies i anàlisi de dades amb el professor Frederic Vincent. Col·lapse, dissabte a les 22:10 a TV3, amb Jordi González. ",
         "genre": "TALK-SHOW",
         "image": ""
+      },
+      {
+        "start": "2026-11-08T00:42:20+01:00",
+        "stop": "2026-11-08T01:01:58+01:00",
+        "title": "Marcians",
+        "subtitle": "Oriol Genís, sense edat de jubilació",
+        "description": "Oriol Genís, un actor conegut sobretot per papers secundaris en múltiples produccions de teatre, cinema, televisió i sèries. Genís celebra que, amb 76 anys, lluny de jubilar-se, té més ofertes de feina que mai. La Sala Beckett de Barcelona li dedica un cicle en què es podran veure obres com 'Compto cada passa meva sobre la terra', un text de Lluïsa Cunillé dirigit per Xavier Albertí, o 'Verbagàlia', una adaptació d'Albert Arribas d'una obra de Víctor Català. En la temporada 26-27 Oriol Genís protagonitzarà un total de set projectes escènics. Repassem els inicis de l'actor en el cabaret i els antres canalla de Barcelona, una època i una contracultura que Oriol Genís reivindica i defensa com a part imprescindible del seu aprenentatge a l'hora de posar-se davant del públic. Un ofici que, segons ell, és sempre com estar en una corda fluixa que en qualsevol moment es pot trencar. I que precisament per això es converteix en fascinant. Veurem l'Oriol a casa seva passant text amb la seva filla Júlia, també actriu; el veurem en una trobada informal amb els seus directors i amics, Marc Rosich, Albert Arribas i Mia Parcerisa; en un assaig a la Sala Beckett dirigit per Xavier Albertí, i actuant com a Andrés Villarrosa, el seu alter ego de qui no es pot separar mai. El va crear als anys 80, de retalls de persones que havia conegut en escenaris diversos, i des d'aleshores, de tant en tant, reapareix a escena. Un personatge que diu que no deixarà mai d'interpretar.",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-07T21:00:00+01:00",
-        "stop": "2026-11-07T23:00:00+01:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-11-08T00:30:00+01:00",
+        "stop": "2026-11-08T01:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-07T23:00:00+01:00",
-        "stop": "2026-11-08T00:30:00+01:00",
+        "start": "2026-11-08T01:00:00+01:00",
+        "stop": "2026-11-08T06:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-07T21:05:27+01:00",
-        "stop": "2026-11-07T21:39:20+01:00",
-        "title": "Zona zàping",
-        "subtitle": "El Barça torna a golejar",
-        "description": "Després de les derrotes de la setmana passada, el Barça ha tornat a guanyar i golejar, tant en Lliga com en Champions. L'Alabès i l'Aston Villa han estat les víctimes.Els sabadellencs Flashy Ice Cream acomiaden el programa amb el seu nou tema 'No ho sé'.",
-        "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"
+        "start": "2026-11-08T00:33:38+01:00",
+        "stop": "2026-11-08T00:54:46+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       },
       {
-        "start": "2026-11-07T21:39:20+01:00",
-        "stop": "2026-11-07T22:55:00+01:00",
-        "title": "Billar a 3 bandes",
-        "subtitle": "Dani Sánchez-JS Ko / PBA Tour",
-        "description": "El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"
+        "start": "2026-11-08T00:54:46+01:00",
+        "stop": "2026-11-08T03:26:13+01:00",
+        "title": "Gol a gol",
+        "subtitle": "Anàlisi de la jornada / J12 / Dissabte",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-07T20:59:58+01:00",
-        "stop": "2026-11-07T21:20:51+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El rescat del pangolí",
-        "description": "L'Aviva descobreix els pangolins i renya els germans Kratt perquè no li havien parlat mai d'aquest animal tan especial. Aleshores l'equip rep un avís de la Yi i el Duyi, uns companys de la Xina que els expliquen que algú està parant trampes per capturar pangolins. És el Gormand, que vol utilitzar les escates de l'animal per vendre-les com a aliment beneficiós per a la salut. La missió de l'equip consistirà a rescatar-los i també a impedir que el malvat enredi la gent amb un producte saludable fals.",
+        "start": "2026-11-08T00:30:04+01:00",
+        "stop": "2026-11-08T00:40:23+01:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "La capsa sorpresa",
+        "description": "La Felicity penja a internet un vídeo obrint un paquet. Es fa tan viral que comença a rebre paquets gratis d'empreses que volen vídeos de promoció. El Rudy, mort d'enveja, li envia la temible capsa de Pandora perquè l'obri.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-07T21:20:51+01:00",
-        "stop": "2026-11-07T21:41:00+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Un Nadal animal (1a part)",
-        "description": "Són les vacances de Nadal i, per celebrar-lo, l'equip dels germans Kratt s'agafa un descans de les seves aventures, però, quan estan a punt d'obrir els regals, sona l'alarma. Resulta que els malvats, el Zach, el Gormand i la Donita, estan capturant les cries de tots els animals que coneixen per convertir-les en adorns de Nadal. La festa l'hauran de deixar per més endavant, perquè ara el que han de fer és entrar en acció per salvar els seus amics i tornar-los a casa per Nadal.",
+        "start": "2026-11-08T00:40:23+01:00",
+        "stop": "2026-11-08T01:01:30+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Volpina",
+        "description": "La Lila és una alumna nova que desperta una gran admiració entre els seus companys pel seu trepidant ritme de vida. Tothom parla d'ella amb entusiasme, excepte la Marinette, que no veu amb bons ulls que la Lila vulgui lligar-se l'Adrien i a més a més vagi dient que és íntima amiga de Ladybug.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-07T21:09:49+01:00",
-        "stop": "2026-11-07T21:39:20+01:00",
-        "title": "Caçadors de bolets",
-        "subtitle": "Nandu Jubany",
-        "description": "TV3 estrena una nova edició de 'Caçadors de bolets', que comptarà amb la col·laboració d'alguns dels millors cuiners actuals. En Nandu Jubany és el protagonista d'aquest primer capítol. Jubany té molt sentir de l'humor, un restaurant amb una estrella Michelin a Calldetenes i uns companys de cuina que surten a caçar bolets tot demostrant que es pot respectar el teu cap, tot i fer-li bromes de boletaire.",
-        "genre": "DOCUMENTAL DOCUDRAMA",
+        "start": "2026-11-08T00:24:10+01:00",
+        "stop": "2026-11-08T00:45:54+01:00",
+        "title": "Inèdits",
+        "subtitle": "Leonard Cohen",
+        "description": "LEONARD COHENL'entrevista a Leonard Cohen, que 'Inèdits' recupera íntegrament, es va fer el 1999 amb motiu del concert que feia a Barcelona per presentar el seu últim disc, 'The futur'. Després d'una llarga gira mundial, Cohen es va retirar a un monestir budista i no va reaparèixer fins al 2008, quan va tornar, amb 75 anys, als escenaris per raons econòmiques.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-11-07T21:39:20+01:00",
-        "stop": "2026-11-07T22:08:11+01:00",
-        "title": "Caçadors de bolets",
-        "subtitle": "Joan Roca",
-        "description": "Joan Roca és un dels millors cuiners del món, tot un mestre dels fogons reconegut pels especialistes de tot el planeta. Però, es clar, una cosa es cuinar bolets i una altra molt diferent es collir-los. Fent acopi de determinació, Joan i el seu fill Marc, juntament amb l'Alfons i en David, treballadors del Celler de Can Roca, el restaurant dels germans Roca a Girona, van sortir per la Selva a provar fortuna com a boletaires. La jornada no anava pas malament, però l'aparició d'un personatge que semblava formar part de la natura va canviar el destí de l'excursió. Un petit misteri que quedarà desvelat al capítol de 'Caçadors de bolets' on, entre altres coses, Joan, tot un 3 estrelles Michelin, escolta una recepta com si fos un aprenent de cuina. Coses que només passen a 'Caçadors de bolets'.",
-        "genre": "DOCUMENTAL DOCUDRAMA",
+        "start": "2026-11-08T00:45:54+01:00",
+        "stop": "2026-11-08T01:43:44+01:00",
+        "title": "Rick Stein: De Venècia a Istanbul",
+        "subtitle": "Venècia",
+        "description": "El nou viatge culinari d'en Rick Stein comença a Venècia, una ciutat que coneix bé i adora per la seva senzilla i fabulosa gastronomia, que va incorporar les espècies gràcies al comerç amb Bizanci. En Rick recorrerà tot Venècia per terra i per la llacuna, visitarà el mercat de Rialto, el Lido o la Giudecca, i degustarà moltíssims menjars, com els 'cicchetti' -tapes venecianes-, els espaguetis 'alle vongole' o el fetge a la veneciana. I cuinarà nyoquis amb cranc, un tiramisú i un 'risotto' de marisc.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
