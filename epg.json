@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-07T02:59:14.139002+00:00",
+  "updated": "2026-11-07T09:50:41.589870+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-07T03:16:10+01:00",
-        "stop": "2026-11-07T04:30:00+01:00",
+        "start": "2026-11-07T10:00:01+01:00",
+        "stop": "2026-11-07T12:17:24+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-07T04:30:00+01:00",
-        "stop": "2026-11-07T05:14:41+01:00",
-        "title": "Cava de Blues",
-        "subtitle": "Big Hollers",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+        "start": "2026-11-07T12:17:24+01:00",
+        "stop": "2026-11-07T13:08:11+01:00",
+        "title": "País d'altura",
+        "subtitle": "Paisatges de Barcelona",
+        "description": "La Catalunya interior guarda més secrets que un calaix de cuina. Muntanyes, pobles amb encant i tradicions que resisteixen en un territori que no necessita fer soroll per enamorar.",
+        "genre": "",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-07T01:00:00+01:00",
-        "stop": "2026-11-07T06:00:00+01:00",
+        "start": "2026-11-07T10:00:00+01:00",
+        "stop": "2026-11-07T12:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-07T06:00:00+01:00",
-        "stop": "2026-11-07T07:00:00+01:00",
+        "start": "2026-11-07T12:00:00+01:00",
+        "stop": "2026-11-07T14:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-07T02:39:59+01:00",
-        "stop": "2026-11-07T04:15:22+01:00",
-        "title": "Bàsquet",
-        "subtitle": "Cadí La Seu-Jairis / Lliga / J7",
-        "description": "El conjunt urgellenc, 4 victòries i 2 derrotes, pot millorar la posició a la zona alta de la taula classificatòria. Les murcianes han guanyat un partit més que les de la Seu.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/6/1769506919869.jpg"
+        "start": "2026-11-07T10:21:00+01:00",
+        "stop": "2026-11-07T11:55:00+01:00",
+        "title": "Onze",
+        "subtitle": "Atlètic-Barça: el liderat en joc; La clau Delmàs; Fàbregas i Nin",
+        "description": "Míriam Riau condueix la tertúlia amb Santi Ovalle, Carme Lluveras, Fernando Polo i Juli Garcia. Analitzem l'Atlètic de Madrid-Barça de diumenge, amb el liderat en joc. Àlex Delmàs ens explica la clau del partit al Metropolitano, Joan Fàbregas repassa les polèmiques arbitrals dels enfrontaments amb l'Atlètic de l'any passat i acabem amb Les golfes de l'Onze, amb Òscar Nin.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-11-07T04:15:22+01:00",
-        "stop": "2026-11-07T04:31:38+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-11-07T11:55:00+01:00",
+        "stop": "2026-11-07T13:52:31+01:00",
+        "title": "Futbol",
+        "subtitle": "Granada CF-RCD Espanyol / Lliga F / J10",
+        "description": "Si aconsegueixen la victòria, les blanc-i-blaves se situarien provisionalment a la cinquena posició. Les granadines tenen un punt menys que les barcelonines.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-07T03:38:25+01:00",
-        "stop": "2026-11-07T03:59:22+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Antibug",
-        "description": "Després d'haver salvat la Sabrina, que s'havia convertit en la Invisible, Ladybug tracta la Chloé de mentidera, una crítica que la filla de l'alcalde encaixa molt malament. L'Esfinx aprofita el disgust i la ràbia de la Chloé per akumatizar-la i convertir-la en l'Antibug. Ladybug s'haurà d'enfrontar a una adversària que té els mateixos poders que ella. Se'n sortirà?",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-11-07T10:45:18+01:00",
+        "stop": "2026-11-07T11:11:50+01:00",
+        "title": "Fang",
+        "subtitle": "Els Súpers del futur!",
+        "description": "Futbolistes, metgesses, astronautes o professors. Els concursants apunten alt i tenen molt clar que el seu futur és prometedor. Arriben preparadíssims per demostrar el seu domini de la llengua i de l'equilibri. Aquest últim el necessitaran per evitar alguna relliscada. Els nens i nenes d'aquest capítol tenen molt clar què volen ser de grans, tot i que ara i aquí el que volen tots és guanyar FANG!.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-11-07T03:59:22+01:00",
-        "stop": "2026-11-07T04:11:16+01:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "Els trastos d'en Timbal",
-        "description": "En Timbal té una col·lecció de pinyes amagada a l'habitació de convidats, però l'Edmond la descobreix i li demana que es busqui un altre lloc per guardar-la. Després d'unes quantes temptatives infructuoses, aconsegueix desar-la al cau d'en Lludó, però al final les pinyes li serviran per a una cosa inesperada.",
+        "start": "2026-11-07T11:11:50+01:00",
+        "stop": "2026-11-07T11:33:50+01:00",
+        "title": "El carreró del misteri",
+        "subtitle": "El lladre invisible",
+        "description": "Durant un viatge diplomàtic a Londres, el rei de les mascotes de la ciutat del Caire és víctima d'un robatori inexplicable just en el moment que visita el palau de Buckingham.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-07T03:47:36+01:00",
-        "stop": "2026-11-07T04:12:37+01:00",
-        "title": "El retorn de les lluernes",
-        "subtitle": "Gemma i 'La trena'",
-        "description": "Aquest capítol del programa parteix de la novel·la 'La trena' (Salamandra), de Laetitia Colombani.Tres dones que, nascudes en continents diferents, comparteixen unes idees i uns sentiments que les uneixen en un poderós anhel de llibertat. A Badlapur, la intocable Smita està decidida en canvi a lluitar perquè la seva filla no segueixi els seus passos. A la Giulia li encanta treballar al taller familiar, l'últim de Palerm que confecciona perruques amb cabells autèntics. Quan descobreix que el negoci està a punt de fer fallida, afronta l'adversitat amb valentia i determinació. La Sarah és una advocada d'èxit a Montreal que ho ha sacrificat tot per la seva carrera: dos matrimonis fallits i tres fills a qui no ha vist créixer.La Gemma Prat és la lectora que s'endinsa en la novel·la i ens descobreix els personatges paral·lels a Manresa.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-11-07T10:28:57+01:00",
+        "stop": "2026-11-07T10:58:49+01:00",
+        "title": "GR Pirineus",
+        "subtitle": "El pla del monstre",
+        "description": "En aquesta ruta el Marc es mou pel Pla de l'Estany, concretament des de Crespià fins a Sant Miquel de Campmajor. En total, uns 45 Km repartits en dues jornades, fets en cotxe, en bicicleta i amb un monstre de fons...De Crespià anirà a Esponellà i després a Serinyà, on viurà en pròpia pell com és la vida d'un arqueòleg. A continuació, agafarà la bici per anar fins a Banyoles. Allà rodejarà l'estany i intentarà descobrir si existeix o no el monstre de Banyoles!L'endemà anirà fins a Cornellà de Terri, on aprendrà a enforcar alls i després a cuinar-los. Continuarà fent via direcció Porqueres, on es perdrà en un bosc que amaga alguns secrets molt picants. Finalment, acabarà la ruta a Sant Miquel de Campmajor, amb les seves caramelles!",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
       },
       {
-        "start": "2026-11-07T04:12:37+01:00",
-        "stop": "2026-11-07T04:38:28+01:00",
-        "title": "El retorn de les lluernes",
-        "subtitle": "Cristina i 'El sentit d'un final'",
-        "description": "Aquest capítol del programa parteix de la novel·la 'El sentit d'un final' (Angle Editorial), de Julian BarnesTony Webster és ara un jubilat de vida tranquil·la, aparentment en pau amb la seva vida. Però es veurà abocat a revisar el seu passat, especialment els seus anys adolescents. Ara, passats més de quaranta anys, Tony Webster s'adona que molts fets potser no van passar com els havia recordat. Perquè la memòria és imperfecta i pot fer aflorar sorpreses. I, fins i tot, obligar-te a reinterpretar tota una vida.Cristina Fort és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels ubicats al Pallars Sobirà.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-11-07T10:58:49+01:00",
+        "stop": "2026-11-07T11:28:00+01:00",
+        "title": "GR Pirineus",
+        "subtitle": "Somnis de volcans",
+        "description": "En el vuitè gran recorregut, el Marc anirà de Besalú a Santa Pau, creuant la zona volcànica de la Garrotxa. En total uns 40 quilòmetres, repartits en dues jornades, fets a peu, en bici i en globus. Desprès de passejar pel magnífic casc antic de Besalú, el Marc aprendrà a fer forja artística. Tot seguit, enfilarà camí passant per Argelaguer, un poble que amaga el laberint de l'home de les cabanes, i seguirà per Tortellà, Montagut, Begudà i finalment la capital, Olot, on descobrirà el museu dels volcans. L'endemà, el Marc farà un vol en globus sobre la zona volcànica: colades de lava, una fageda espectacular i molts volcans... Un bon menú, que completarà collint fesols, un dels productes autòctons més representatius de la comarca, per després cuinar-los... A on? Doncs a dins d'un volcà... On podria ser si no... Finalment visitarà un poble meravellós, Santa Pau, i acabarà a la fageda més famosa de Catalunya.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
       }
     ],
     "oca1": [],
