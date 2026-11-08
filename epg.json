@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-08T09:29:30.167176+00:00",
+  "updated": "2026-11-08T16:13:56.605996+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-08T10:18:18+01:00",
-        "stop": "2026-11-08T11:38:46+01:00",
-        "title": "Diumenge Concert",
-        "subtitle": "Homenatge a Montserrat Torrent. Centenari del seu naixement (1a part)",
-        "description": "Montserrat Torrent i Bajarias (Barcelona, 1926) és una organista, clavecinista i musicòloga catalana de reconegut prestigi internacional. Pionera en la recuperació i la difusió de la música antiga a Catalunya, ha dedicat la seva vida a l'estudi, la interpretació i l'ensenyament de la música d'orgue i clavecí. La seva contribució al patrimoni musical català i universal és immensa i les seves interpretacions han estat un referent del més alt nivell, i ho continuen sent, tant pel seu rigor acadèmic com per la seva calidesa i musicalitat. Als anys seixanta, va ser pionera de la renovació d'un món de l'orgue entrat en decadència a conseqüència de la postguerra, en un moment en què ser organista, i especialment si s'era una dona, significava nedar contra corrent. Tot i això, anys més tard el seu llegat és enorme, i són innombrables els orgues que ha tocat i els deixebles que ha tingut. Coincidint amb el seu centenari, els seus deixebles i destacats organistes internacionals s'apleguen en una marató organística, presentada per Albert Galceran i Pedro Pardo, i que culmina a l'orgue del Palau amb la seva pròpia actuació, just l'endemà del seu 100 aniversari, que va ser el 17 d'abril del 2026.",
-        "genre": "CLÀSSICA",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/1/1730826356312.jpg"
+        "start": "2026-11-08T15:54:37+01:00",
+        "stop": "2026-11-08T17:24:03+01:00",
+        "title": "Pel·lícula",
+        "subtitle": "El silenci del pantà",
+        "description": "EL SILENCI DEL PANTÀProducció: El Silencio Prod. Cinematograficas, AIE, 2019Director: Marc VigilGuionistes: Carlos de Panda i Sara Antuña basada en la novel·la 'El silencio del pantano' de Juanjo BraulioDirector de fotografia: Isaac VilaMúsica: Zeltia MontesIntèrprets: Pedro Alonso (Q), Nacho Fresneda (Falconetti), Carmina Barrios (La Puri), Raúl Prieto (Nacho), José Àngel Egido (Carretero), Àlex Monner (Fran), Zaida Romero (Sara), Maite Sandoval (Isabel) i Javier Godino (Vicent)Q és un periodista reconvertit en escriptor de novel·la negra. En dos de seus llibres publicats, ambientats sempre a la seva València natal, Q explica assassinats sagnants fent servir com a teló de fons la corrupció política i les misèries de l'ànima humana. L'únic problema és que els crims que tenen lloc en les seves novel·les no són tan ficticis com semblen.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       },
       {
-        "start": "2026-11-08T11:38:46+01:00",
-        "stop": "2026-11-08T12:00:00+01:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-11-08T17:24:03+01:00",
+        "stop": "2026-11-08T18:24:45+01:00",
+        "title": "Temps de silenci",
+        "subtitle": "CRUÏLLES",
+        "description": "Pares i fills, davant del moment crucial: Ramon, Isabel, Antonio, Núria... La Victòria ja no controla gairebé res...",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-08T10:00:00+01:00",
-        "stop": "2026-11-08T12:00:00+01:00",
+        "start": "2026-11-08T16:30:00+01:00",
+        "stop": "2026-11-08T18:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-08T12:00:00+01:00",
-        "stop": "2026-11-08T14:30:00+01:00",
+        "start": "2026-11-08T18:30:00+01:00",
+        "stop": "2026-11-08T20:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-08T09:02:22+01:00",
-        "stop": "2026-11-08T10:49:58+01:00",
-        "title": "Futbol",
-        "subtitle": "FC Cartagena-UE Sant Andreu / Primera Federació / J11",
-        "description": "Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+        "start": "2026-11-08T16:57:41+01:00",
+        "stop": "2026-11-08T17:30:57+01:00",
+        "title": "Zona zàping",
+        "subtitle": "El Barça torna a golejar",
+        "description": "Després de les derrotes de la setmana passada, el Barça ha tornat a guanyar i golejar, tant en Lliga com en Champions. L'Alabès i l'Aston Villa han estat les víctimes.Els sabadellencs Flashy Ice Cream acomiaden el programa amb el seu nou tema 'No ho sé'.",
+        "genre": "ALTRES",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"
       },
       {
-        "start": "2026-11-08T10:49:58+01:00",
-        "stop": "2026-11-08T12:25:00+01:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J12 / Dissabte",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-11-08T17:30:57+01:00",
+        "stop": "2026-11-08T17:39:57+01:00",
+        "title": "E3",
+        "subtitle": "Cursa de Bombers",
+        "description": "27a edició de la cursa popular que es fa pels carrers de Barcelona. Els participants recorren 10 quilòmetres per la capital catalana acompanyats dels bombers de la ciutat.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/0/1793804820509.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-08T10:13:50+01:00",
-        "stop": "2026-11-08T10:36:10+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "Rescats extrems: La Patrulla salva un monstre de pel·lícula",
-        "description": "A Badia Aventures, es roda una pel·lícula amb un monstre molt gros i l'alcalde Humdinger vol que es rodi a Fons Boirós.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-11-08T17:06:24+01:00",
+        "stop": "2026-11-08T17:22:16+01:00",
+        "title": "Els secrets de Gaudí",
+        "subtitle": "Els secrets de la casa: Casa Vicens i Palau Güell",
+        "description": "Sabies que Antoni Gaudí també va dissenyar cases particulars i no només edificis públics? La Casa Vicens i el Palau Güell en són un bon exemple.Gaudí deia que una bona casa ha de tenir dues qualitats alhora. Primer, ha de ser sana: llum, aire, natura, que qui hi visqui creixi fort. Segon, ha de ser bella: plena de records i de llegendes del lloc. Una casa que tingui significat.No hi ha dubte que, amb la Casa Vicens i el Palau Güell, Gaudí ho va aconseguir! T'ho demostrem en aquest capítol. ",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-11-08T10:36:10+01:00",
-        "stop": "2026-11-08T10:58:10+01:00",
-        "title": "El carreró del misteri",
-        "subtitle": "El secret dels templers",
-        "description": "La Flocdeneu i el Carbó, veïns de l'Espavilada a la botiga de mascotes, són segrestats durant la nit. L'Espavilada rep una tauleta on es veu que els tenen reclosos en un lloc que ella reconeix immediatament: la sala del tresor dels Templers.",
+        "start": "2026-11-08T17:22:16+01:00",
+        "stop": "2026-11-08T17:44:36+01:00",
+        "title": "Capità Tsubasa. Campions",
+        "subtitle": "De camí al torneig interescolar",
+        "description": "El Nankatsu visita un partit amistós del Shutetsu i descobreixen jugadors amb un nivell molt alt com l'Izawa, el Kisugi, el Taki o el Takasugi. En lloc de sentir-se intimidat, el Tsubasa es motiva i contagia el seu entusiasme als seus companys.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-08T10:13:05+01:00",
-        "stop": "2026-11-08T10:42:50+01:00",
-        "title": "GR Pirineus",
-        "subtitle": "Terra de comtes i abats",
-        "description": "En aquesta ruta, Marc de las Heras anirà de Sant Joan de les Abadesses, al castell de Mataplana, després de recórrer el cor del Ripollès. En total, uns 77 km, repartits en dues jornades, fets a peu, en bicicleta i en cremallera, descobrint una terra d'autèntica llegenda.Des de Sant Joan de les Abadesses, el Marc agafarà la bici per fer la ruta del ferro fins a Ripoll, on assistirà a un dels enllaços més tradicionals que existeixen: el casament a pagès. I des d'aquí, cap a Campdevànol i Ribes de Freser, on farà nit.L'endemà, de bon matí, el Marc pujarà al cremallera de Núria, passant per Queralbs i acompanyat dels Randellaires; per visitar la Vall de Núria, un lloc espectacular, ideal per afinar la punteria... Al baixar, seguirà camins ramaders des de Campdevànol passant per Gombrèn, el Santuari de Montgrony i arribant al Castell de Mataplana, un lloc llegendari on el Comte Arnau, l'obligarà a fer-li un bon sopar... Pobret, esperem que li agradi!... Que si no... ",
+        "start": "2026-11-08T16:39:25+01:00",
+        "stop": "2026-11-08T17:33:26+01:00",
+        "title": "Dibuixar pel canvi",
+        "subtitle": "Russia. L'arbre de la violència",
+        "description": "Durant l'última dècada, l'artista gràfica Victoria Lomasko s'ha dedicat a documentar meticulosament la Rússia de Putin, infiltrant-se en tots els mítings i esdeveniments polítics crucials. Just un any abans de la invasió d'Ucraïna, intuint que la catàstrofe era imminent, comença a investigar a fons la relació entre la violència domèstica i la violència exercida per l'Estat, i plasma les seves conclusions en el seu mural més ambiciós, que narra els fets històrics compresos entre l'hivern del 2021, ple de protestes, i l'hivern tràgic del 2022. Mentre Putin llança una 'operació militar' a Ucraïna i titlla els dissidents russos de 'traïdors que cal escopir com mosques', Lomasko afronta la dura realitat i pren la valenta decisió de deixar-ho tot enrere i emprendre un nou camí.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "image": ""
       },
       {
-        "start": "2026-11-08T10:42:50+01:00",
-        "stop": "2026-11-08T11:13:56+01:00",
-        "title": "GR Pirineus",
-        "subtitle": "Trens, mines i monestirs",
-        "description": "En aquesta nova ruta, Marc de las Heras anirà de Castellar de n'Hug fins a Sant Jaume de Frontanyà, a través d'un viatge per les entranyes del Berguedà. En total, uns 70 quilòmetres, repartits en dues jornades, fets a peu, en cotxe i en tren... Una recerca del tresor en tota regla!! En Marc encetarà la ruta aprenent a fer el dolç típic de Castellar de n'Hug: els croissants gegants. A partir d'aquí començarà un repte singular buscant tresors passant per la fàbrica Asland, el tren del ciment, els Jardins Artigas, la Pobla de Lillet, la mina de petroli de Riutort i el monestir de Guardiola de Berguedà... A continuació, a Sant Corneli, s'endinsarà en una mina per entendre com era la vida d'un miner. I acabarà la primera jornada passant per Cercs, el Pantà de la Baells i el Pont de Pedret... L'endemà, en Marc passejarà per Berga, la ciutat de la Patum, on va viure el polèmic trobador Guillem de Berguedà, que coneixerem de la mà d'un altre trobador, el Titot. Després, en Marc anirà a menjar bolets, però no com a plat principal..., sinó de postres! I finalment passarà per Vilada, Borredà i posarà fi a la ruta a Sant Jaume de Frontanyà.",
+        "start": "2026-11-08T17:33:26+01:00",
+        "stop": "2026-11-08T18:52:22+01:00",
+        "title": "L'home orquestra",
+        "subtitle": "L'home orquestra",
+        "description": "'L'home orquestra' (2017), una producció d'Àlex Gómez-Font (Swing Produccions) en coproducció amb Televisió de Catalunya i TVE, amb la col·laboració de l'ICEC i el suport d'AIE, VOTV, ADAG i Nova Jazz Cava.Aquest treball evoca tota una generació de músics, la major part catalans, que durant la dècada dels anys 40 i 50 van deixar enrere la dictadura franquista i van decidir embarcar-se i anar a fer les Amèriques.El relat pren com a protagonista i fil conductor la figura d'un dels darrers supervivents d'aquella aventura: el multiinstrumentista Jesús Peyrón (Barcelona, 1930), que va adoptar el nom artístic de Jesús Moreno. Peyrón va ser un dels protagonistes destacats de l?edat daurada de les grans orquestres de ball. És l'únic que va saber construir-se una carrera excepcional, actuant als millors escenaris del món i acompanyant artistes d'alçada com Frank Sinatra, Nat 'King' Cole, Édith Piaf, Judy Garland, Benny Goodman, Benny Moré, Xavier Cugat i molts altres.Direcció i guió: Àlex Gómez-Font i Carles RiobóRealització: Carles RiobóProductor: Àlex Gómez-FontProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavónDirector fotografia: Toni TarifaMuntatge: Carles RiobóDirector de producció: Pau GuixàGrafisme: Mateu Marcet",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "image": "https://img.3cat.cat/multimedia/jpg/8/2/1530615235228.jpg"
       }
     ],
     "oca1": [],
