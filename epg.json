@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-07T23:38:36.384558+00:00",
+  "updated": "2026-11-08T02:42:21.489530+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-07T22:06:43+01:00",
-        "stop": "2026-11-08T00:42:20+01:00",
-        "title": "Col·lapse",
-        "subtitle": "",
-        "description": "Entrevistem Alberto Muñagorri, una de les víctimes més joves d'ETA. El 1982, quan només tenia 10 anys, una bomba amagada dins d'una motxilla va esclatar i el va deixar sense cama, cec d'un ull i amb seqüeles per tota la vida. Ens explica el seu testimoni de superació de por i dolor. L'atenció capil·lar representa un 38% de tots els diagnòstics de les clíniques de dermatologia. Debatrem a la taula d'actualitat els motius que cada vegada porten més joves a assistir a la consulta del metge per posar remei a la incipient alopècia amb un dels rostres més populars i calbs de la tele catalana, Llucià Ferrer, la periodista i col·laboradora Ana Boadas, la tricòloga i nutricionista Dra. Montse Folch i el testimoni en primera persona de dos joves a qui els cauen els cabells des de fa anys. Després de tota una vida dedicada a analitzar el comportament dels altres, el consultor i assessor empresarial Emilio Duró ens explica la clau de l'èxit i del lideratge en les societats contemporànies. La periodista Pilar Eyre ens posa al dia dels assumptes reials que ocupen més portades. Carlos Latre es posa a la pell de molts personatges populars en el seu particular resum de l'actualitat. L'Anna Callís s'enfronta al repte d'aprendre a fer lluita lliure mexicana. El superarà?Com sempre, periodisme sense filtres sobre les midterm amb Albert Montagut, llibres recomanats amb Sergi Pàmies i anàlisi de dades amb el professor Frederic Vincent. Col·lapse, dissabte a les 22:10 a TV3, amb Jordi González. ",
-        "genre": "TALK-SHOW",
-        "image": ""
-      },
-      {
-        "start": "2026-11-08T00:42:20+01:00",
-        "stop": "2026-11-08T01:01:58+01:00",
-        "title": "Marcians",
-        "subtitle": "Oriol Genís, sense edat de jubilació",
-        "description": "Oriol Genís, un actor conegut sobretot per papers secundaris en múltiples produccions de teatre, cinema, televisió i sèries. Genís celebra que, amb 76 anys, lluny de jubilar-se, té més ofertes de feina que mai. La Sala Beckett de Barcelona li dedica un cicle en què es podran veure obres com 'Compto cada passa meva sobre la terra', un text de Lluïsa Cunillé dirigit per Xavier Albertí, o 'Verbagàlia', una adaptació d'Albert Arribas d'una obra de Víctor Català. En la temporada 26-27 Oriol Genís protagonitzarà un total de set projectes escènics. Repassem els inicis de l'actor en el cabaret i els antres canalla de Barcelona, una època i una contracultura que Oriol Genís reivindica i defensa com a part imprescindible del seu aprenentatge a l'hora de posar-se davant del públic. Un ofici que, segons ell, és sempre com estar en una corda fluixa que en qualsevol moment es pot trencar. I que precisament per això es converteix en fascinant. Veurem l'Oriol a casa seva passant text amb la seva filla Júlia, també actriu; el veurem en una trobada informal amb els seus directors i amics, Marc Rosich, Albert Arribas i Mia Parcerisa; en un assaig a la Sala Beckett dirigit per Xavier Albertí, i actuant com a Andrés Villarrosa, el seu alter ego de qui no es pot separar mai. El va crear als anys 80, de retalls de persones que havia conegut en escenaris diversos, i des d'aleshores, de tant en tant, reapareix a escena. Un personatge que diu que no deixarà mai d'interpretar.",
-        "genre": "ALTRES",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-11-08T00:30:00+01:00",
-        "stop": "2026-11-08T01:00:00+01:00",
+        "start": "2026-11-08T02:33:02+01:00",
+        "stop": "2026-11-08T04:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
+        "start": "2026-11-08T04:30:00+01:00",
+        "stop": "2026-11-08T05:15:20+01:00",
+        "title": "Cava de Blues",
+        "subtitle": "Big Mama Montse & Riqui Sabatés",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+      }
+    ],
+    "324": [
+      {
         "start": "2026-11-08T01:00:00+01:00",
         "stop": "2026-11-08T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-08T06:00:00+01:00",
+        "stop": "2026-11-08T07:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-08T00:33:38+01:00",
-        "stop": "2026-11-08T00:54:46+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-11-08T02:34:04+01:00",
+        "stop": "2026-11-08T04:23:31+01:00",
+        "title": "Futbol",
+        "subtitle": "FC Cartagena-UE Sant Andreu / Primera Federació / J11",
+        "description": "Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-11-08T00:54:46+01:00",
-        "stop": "2026-11-08T03:26:13+01:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J12 / Dissabte",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-11-08T04:23:31+01:00",
+        "stop": "2026-11-08T06:13:23+01:00",
+        "title": "Futbol",
+        "subtitle": "Granada CF-RCD Espanyol / Lliga F / J10",
+        "description": "Si aconsegueixen la victòria, les blanc-i-blaves se situarien provisionalment a la cinquena posició. Les granadines tenen un punt menys que les barcelonines.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-08T00:30:04+01:00",
-        "stop": "2026-11-08T00:40:23+01:00",
-        "title": "La gateta Arc iris papallona unicorn",
-        "subtitle": "La capsa sorpresa",
-        "description": "La Felicity penja a internet un vídeo obrint un paquet. Es fa tan viral que comença a rebre paquets gratis d'empreses que volen vídeos de promoció. El Rudy, mort d'enveja, li envia la temible capsa de Pandora perquè l'obri.",
+        "start": "2026-11-08T03:35:39+01:00",
+        "stop": "2026-11-08T03:45:39+01:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "El planeta Pop-pim",
+        "description": "En l'aventura poptàstica d'avui, la colla d'amics viatgen a l'espai per anar al planeta Pop-pim. A la Mae-Mae li sembla que potser està fet de formatge, però la Phoebe creu que és de roca. Per comprovar qui té raó, la Phoebe s'emporta els seus amics a l'espai amb un coet. Però què trobaran quan arribin al planeta Pop-pim?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-08T00:40:23+01:00",
-        "stop": "2026-11-08T01:01:30+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Volpina",
-        "description": "La Lila és una alumna nova que desperta una gran admiració entre els seus companys pel seu trepidant ritme de vida. Tothom parla d'ella amb entusiasme, excepte la Marinette, que no veu amb bons ulls que la Lila vulgui lligar-se l'Adrien i a més a més vagi dient que és íntima amiga de Ladybug.",
+        "start": "2026-11-08T03:45:39+01:00",
+        "stop": "2026-11-08T03:55:39+01:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "L'espia Fly",
+        "description": "A l'aventura poptàstica d'avui, els amics preparen una sorpresa per la Fly. Però, quan en Hooper veu que parlen en secret, envia la Fly a espiar-los per descobrir de què es tracta.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-08T00:24:10+01:00",
-        "stop": "2026-11-08T00:45:54+01:00",
-        "title": "Inèdits",
-        "subtitle": "Leonard Cohen",
-        "description": "LEONARD COHENL'entrevista a Leonard Cohen, que 'Inèdits' recupera íntegrament, es va fer el 1999 amb motiu del concert que feia a Barcelona per presentar el seu últim disc, 'The futur'. Després d'una llarga gira mundial, Cohen es va retirar a un monestir budista i no va reaparèixer fins al 2008, quan va tornar, amb 75 anys, als escenaris per raons econòmiques.",
-        "genre": "ALTRES",
+        "start": "2026-11-08T03:31:29+01:00",
+        "stop": "2026-11-08T04:19:51+01:00",
+        "title": "Benvinguts a la família",
+        "subtitle": "L'intercanvi",
+        "description": "Per tal de recuperar el Blue Dream, un anell molt valuós, la família decideix fer xantatge al germà de la Teresa, el Nil. Si vol tornar a veure la seva germana amb vida, haurà d'entregar l'anell a canvi. Fins on serà capaç d'arribar el Manu per no confessar?",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-11-08T00:45:54+01:00",
-        "stop": "2026-11-08T01:43:44+01:00",
-        "title": "Rick Stein: De Venècia a Istanbul",
-        "subtitle": "Venècia",
-        "description": "El nou viatge culinari d'en Rick Stein comença a Venècia, una ciutat que coneix bé i adora per la seva senzilla i fabulosa gastronomia, que va incorporar les espècies gràcies al comerç amb Bizanci. En Rick recorrerà tot Venècia per terra i per la llacuna, visitarà el mercat de Rialto, el Lido o la Giudecca, i degustarà moltíssims menjars, com els 'cicchetti' -tapes venecianes-, els espaguetis 'alle vongole' o el fetge a la veneciana. I cuinarà nyoquis amb cranc, un tiramisú i un 'risotto' de marisc.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-11-08T04:19:51+01:00",
+        "stop": "2026-11-08T05:05:52+01:00",
+        "title": "La Renaixença",
+        "subtitle": "Les espardenyes",
+        "description": "No ets bon català si no has portat unes espardenyes en algun moment de la teva vida. Pot ser que sigui el millor calçat que podem portar? Avui els hi dediquem el capítol. Ens visita un advocat a qui totes les grans empreses deuen tenir por: l'Albert Poch, expert en dret de la competència (i que va marxar sense pagar a la cafeteria del Congrés dels Diputats). I a les 'Històries per passejar el gos' anem fins al primer incendi del Liceu amb en Salsi, un gos que encara no sabem com encara és viu.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
