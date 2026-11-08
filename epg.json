@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-08T02:42:21.489530+00:00",
+  "updated": "2026-11-08T09:29:30.167176+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-08T02:33:02+01:00",
-        "stop": "2026-11-08T04:30:00+01:00",
+        "start": "2026-11-08T10:18:18+01:00",
+        "stop": "2026-11-08T11:38:46+01:00",
+        "title": "Diumenge Concert",
+        "subtitle": "Homenatge a Montserrat Torrent. Centenari del seu naixement (1a part)",
+        "description": "Montserrat Torrent i Bajarias (Barcelona, 1926) és una organista, clavecinista i musicòloga catalana de reconegut prestigi internacional. Pionera en la recuperació i la difusió de la música antiga a Catalunya, ha dedicat la seva vida a l'estudi, la interpretació i l'ensenyament de la música d'orgue i clavecí. La seva contribució al patrimoni musical català i universal és immensa i les seves interpretacions han estat un referent del més alt nivell, i ho continuen sent, tant pel seu rigor acadèmic com per la seva calidesa i musicalitat. Als anys seixanta, va ser pionera de la renovació d'un món de l'orgue entrat en decadència a conseqüència de la postguerra, en un moment en què ser organista, i especialment si s'era una dona, significava nedar contra corrent. Tot i això, anys més tard el seu llegat és enorme, i són innombrables els orgues que ha tocat i els deixebles que ha tingut. Coincidint amb el seu centenari, els seus deixebles i destacats organistes internacionals s'apleguen en una marató organística, presentada per Albert Galceran i Pedro Pardo, i que culmina a l'orgue del Palau amb la seva pròpia actuació, just l'endemà del seu 100 aniversari, que va ser el 17 d'abril del 2026.",
+        "genre": "CLÀSSICA",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/1/1730826356312.jpg"
+      },
+      {
+        "start": "2026-11-08T11:38:46+01:00",
+        "stop": "2026-11-08T12:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
-      },
-      {
-        "start": "2026-11-08T04:30:00+01:00",
-        "stop": "2026-11-08T05:15:20+01:00",
-        "title": "Cava de Blues",
-        "subtitle": "Big Mama Montse & Riqui Sabatés",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-08T01:00:00+01:00",
-        "stop": "2026-11-08T06:00:00+01:00",
+        "start": "2026-11-08T10:00:00+01:00",
+        "stop": "2026-11-08T12:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-08T06:00:00+01:00",
-        "stop": "2026-11-08T07:00:00+01:00",
+        "start": "2026-11-08T12:00:00+01:00",
+        "stop": "2026-11-08T14:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-08T02:34:04+01:00",
-        "stop": "2026-11-08T04:23:31+01:00",
+        "start": "2026-11-08T09:02:22+01:00",
+        "stop": "2026-11-08T10:49:58+01:00",
         "title": "Futbol",
         "subtitle": "FC Cartagena-UE Sant Andreu / Primera Federació / J11",
         "description": "Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.",
@@ -92,53 +92,53 @@
         "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-11-08T04:23:31+01:00",
-        "stop": "2026-11-08T06:13:23+01:00",
-        "title": "Futbol",
-        "subtitle": "Granada CF-RCD Espanyol / Lliga F / J10",
-        "description": "Si aconsegueixen la victòria, les blanc-i-blaves se situarien provisionalment a la cinquena posició. Les granadines tenen un punt menys que les barcelonines.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "start": "2026-11-08T10:49:58+01:00",
+        "stop": "2026-11-08T12:25:00+01:00",
+        "title": "Gol a gol",
+        "subtitle": "Anàlisi de la jornada / J12 / Dissabte",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-08T03:35:39+01:00",
-        "stop": "2026-11-08T03:45:39+01:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "El planeta Pop-pim",
-        "description": "En l'aventura poptàstica d'avui, la colla d'amics viatgen a l'espai per anar al planeta Pop-pim. A la Mae-Mae li sembla que potser està fet de formatge, però la Phoebe creu que és de roca. Per comprovar qui té raó, la Phoebe s'emporta els seus amics a l'espai amb un coet. Però què trobaran quan arribin al planeta Pop-pim?",
+        "start": "2026-11-08T10:13:50+01:00",
+        "stop": "2026-11-08T10:36:10+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "Rescats extrems: La Patrulla salva un monstre de pel·lícula",
+        "description": "A Badia Aventures, es roda una pel·lícula amb un monstre molt gros i l'alcalde Humdinger vol que es rodi a Fons Boirós.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-08T03:45:39+01:00",
-        "stop": "2026-11-08T03:55:39+01:00",
-        "title": "Pop, la ciutat de paper",
-        "subtitle": "L'espia Fly",
-        "description": "A l'aventura poptàstica d'avui, els amics preparen una sorpresa per la Fly. Però, quan en Hooper veu que parlen en secret, envia la Fly a espiar-los per descobrir de què es tracta.",
+        "start": "2026-11-08T10:36:10+01:00",
+        "stop": "2026-11-08T10:58:10+01:00",
+        "title": "El carreró del misteri",
+        "subtitle": "El secret dels templers",
+        "description": "La Flocdeneu i el Carbó, veïns de l'Espavilada a la botiga de mascotes, són segrestats durant la nit. L'Espavilada rep una tauleta on es veu que els tenen reclosos en un lloc que ella reconeix immediatament: la sala del tresor dels Templers.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-08T03:31:29+01:00",
-        "stop": "2026-11-08T04:19:51+01:00",
-        "title": "Benvinguts a la família",
-        "subtitle": "L'intercanvi",
-        "description": "Per tal de recuperar el Blue Dream, un anell molt valuós, la família decideix fer xantatge al germà de la Teresa, el Nil. Si vol tornar a veure la seva germana amb vida, haurà d'entregar l'anell a canvi. Fins on serà capaç d'arribar el Manu per no confessar?",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "start": "2026-11-08T10:13:05+01:00",
+        "stop": "2026-11-08T10:42:50+01:00",
+        "title": "GR Pirineus",
+        "subtitle": "Terra de comtes i abats",
+        "description": "En aquesta ruta, Marc de las Heras anirà de Sant Joan de les Abadesses, al castell de Mataplana, després de recórrer el cor del Ripollès. En total, uns 77 km, repartits en dues jornades, fets a peu, en bicicleta i en cremallera, descobrint una terra d'autèntica llegenda.Des de Sant Joan de les Abadesses, el Marc agafarà la bici per fer la ruta del ferro fins a Ripoll, on assistirà a un dels enllaços més tradicionals que existeixen: el casament a pagès. I des d'aquí, cap a Campdevànol i Ribes de Freser, on farà nit.L'endemà, de bon matí, el Marc pujarà al cremallera de Núria, passant per Queralbs i acompanyat dels Randellaires; per visitar la Vall de Núria, un lloc espectacular, ideal per afinar la punteria... Al baixar, seguirà camins ramaders des de Campdevànol passant per Gombrèn, el Santuari de Montgrony i arribant al Castell de Mataplana, un lloc llegendari on el Comte Arnau, l'obligarà a fer-li un bon sopar... Pobret, esperem que li agradi!... Que si no... ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
       },
       {
-        "start": "2026-11-08T04:19:51+01:00",
-        "stop": "2026-11-08T05:05:52+01:00",
-        "title": "La Renaixença",
-        "subtitle": "Les espardenyes",
-        "description": "No ets bon català si no has portat unes espardenyes en algun moment de la teva vida. Pot ser que sigui el millor calçat que podem portar? Avui els hi dediquem el capítol. Ens visita un advocat a qui totes les grans empreses deuen tenir por: l'Albert Poch, expert en dret de la competència (i que va marxar sense pagar a la cafeteria del Congrés dels Diputats). I a les 'Històries per passejar el gos' anem fins al primer incendi del Liceu amb en Salsi, un gos que encara no sabem com encara és viu.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-11-08T10:42:50+01:00",
+        "stop": "2026-11-08T11:13:56+01:00",
+        "title": "GR Pirineus",
+        "subtitle": "Trens, mines i monestirs",
+        "description": "En aquesta nova ruta, Marc de las Heras anirà de Castellar de n'Hug fins a Sant Jaume de Frontanyà, a través d'un viatge per les entranyes del Berguedà. En total, uns 70 quilòmetres, repartits en dues jornades, fets a peu, en cotxe i en tren... Una recerca del tresor en tota regla!! En Marc encetarà la ruta aprenent a fer el dolç típic de Castellar de n'Hug: els croissants gegants. A partir d'aquí començarà un repte singular buscant tresors passant per la fàbrica Asland, el tren del ciment, els Jardins Artigas, la Pobla de Lillet, la mina de petroli de Riutort i el monestir de Guardiola de Berguedà... A continuació, a Sant Corneli, s'endinsarà en una mina per entendre com era la vida d'un miner. I acabarà la primera jornada passant per Cercs, el Pantà de la Baells i el Pont de Pedret... L'endemà, en Marc passejarà per Berga, la ciutat de la Patum, on va viure el polèmic trobador Guillem de Berguedà, que coneixerem de la mà d'un altre trobador, el Titot. Després, en Marc anirà a menjar bolets, però no com a plat principal..., sinó de postres! I finalment passarà per Vilada, Borredà i posarà fi a la ruta a Sant Jaume de Frontanyà.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
       }
     ],
     "oca1": [],
