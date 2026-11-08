@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-08T20:29:36.596876+00:00",
+  "updated": "2026-11-08T23:56:17.475032+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-08T21:00:00+01:00",
-        "stop": "2026-11-08T22:12:07+01:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-11-09T00:24:09+01:00",
+        "stop": "2026-11-09T04:30:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       },
       {
-        "start": "2026-11-08T22:05:57+01:00",
-        "stop": "2026-11-08T22:38:05+01:00",
-        "title": "30 minuts",
-        "subtitle": "Ceuta, ciutat ostatge",
-        "description": "Ceuta s'ha convertit en ostatge d'una guerra híbrida, on els migrants són utilitzats com a peons d'un tauler global. La crisi humanitària, social i política continua sacsejant la ciutat autònoma.",
-        "genre": "REPORTATGES",
-        "image": "https://statics.ccma.cat/multimedia/jpg/7/3/1571603193237.jpg"
+        "start": "2026-11-09T04:30:00+01:00",
+        "stop": "2026-11-09T05:15:53+01:00",
+        "title": "Cava de Blues",
+        "subtitle": "- 13th Magic Skull",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-08T21:00:00+01:00",
-        "stop": "2026-11-08T23:00:00+01:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-11-09T00:30:00+01:00",
+        "stop": "2026-11-09T01:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-08T23:00:00+01:00",
-        "stop": "2026-11-09T00:30:00+01:00",
+        "start": "2026-11-09T01:00:00+01:00",
+        "stop": "2026-11-09T06:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-08T20:56:16+01:00",
-        "stop": "2026-11-08T22:55:00+01:00",
-        "title": "Un dia de partit",
-        "subtitle": "At. Madrid-Barça",
-        "description": "A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"
+        "start": "2026-11-09T00:33:30+01:00",
+        "stop": "2026-11-09T01:11:35+01:00",
+        "title": "Motor a fons",
+        "subtitle": "GP de Qatar",
+        "description": "Antepenúltima prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"
       },
       {
-        "start": "2026-11-08T22:55:00+01:00",
-        "stop": "2026-11-09T00:31:17+01:00",
-        "title": "Gol a gol",
-        "subtitle": "Post At. Madrid-Barça / J12",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-11-09T01:11:35+01:00",
+        "stop": "2026-11-09T01:42:57+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-08T21:20:38+01:00",
-        "stop": "2026-11-08T21:40:47+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El rei de les marees",
-        "description": "El Martin i el Chris fan una competició per veure qui se'n surt més bé vivint unes hores a la zona intermareal, un dels hàbitats més durs del món, on la pujada i baixada de les marees fa la vida molt difícil a les bestioles que hi viuen. Mentre avancen fins a la meta, coneixeran les característiques i estratègies de supervivència dels diversos animals d'aquest hàbitat, i ells n'adoptaran algunes per continuar endavant. Però la cursa està molt igualada...",
+        "start": "2026-11-09T00:41:20+01:00",
+        "stop": "2026-11-09T01:02:27+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "El gegantitan",
+        "description": "La Marinette i l'Alya preparen un pla perquè la Marinette pugui fer una passejada romàntica amb l'Adrien per la vora del Sena, i demanen ajuda a les seves amigues. El problema és que apareix un nen petit amb ganes de menjar llaminadures que es converteix en el nou monstre a les ordre de l'Esfinx. Per descomptat, la passejada s'haurà d'esperar.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-08T21:40:47+01:00",
-        "stop": "2026-11-08T22:01:26+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "L'últim gran llamàntol",
-        "description": "Un dia que els germans Kratt són a la vora del mar, al Martin li cau un disc de poder animal a l'aigua. Quan ell i el Chris se submergeixen per buscar-lo, veuen un llamàntol enorme, com els que hi havia abans. Per allà volta el cuiner Gormand, que justament vol cuinar un gran llamàntol. Això provocarà un conflicte entre ell i els Kratt i, mentrestant, el llamàntol s'anirà fent cada vegada més gros. ",
+        "start": "2026-11-09T01:02:27+01:00",
+        "stop": "2026-11-09T01:23:05+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "La resposta",
+        "description": "Durant la jornada de portes obertes de l'escola d'esgrima de l'Armand d'Argencourt, es fan les proves d'ingrés als aspirants, entre els que hi ha la Marinette. Però aquest any només hi ha una sola plaça, que serà molt disputada. Fins que apareix una misteriosa tiradora, experta en aquest esport, que està decidida a quedar-se l'única plaça lliure.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-08T21:09:25+01:00",
-        "stop": "2026-11-08T21:37:13+01:00",
-        "title": "Caçadors de bolets",
-        "subtitle": "Xavier Pellicer",
-        "description": "Es poden trobar bolets a principis del mes de setembre més calorós i sec dels últims 100 anys? Xavier Pellicer, cuiner que manté encesa la flama del restaurant Can Fabes, va arrufar el nas i ens va respondre que de cap manera, que els bolets encara no han sortit i que la temporada pinta molt malament.Sense deixar-se influir per la seva resposta, l'equip de 'Caçadors de bolets' li va proposar anar a 1.800 metres d'alçada, a la zona de Saltegat, on va comparèixer amb tres amics més, com ell mateix restauradors, i també escèptics davant les possibilitats de trobar-ne.",
-        "genre": "DOCUMENTAL DOCUDRAMA",
+        "start": "2026-11-09T00:40:28+01:00",
+        "stop": "2026-11-09T01:07:39+01:00",
+        "title": "Els hotels més remots del món",
+        "subtitle": "Hoshi Onsen",
+        "description": "És un dels més antics del món i la mateixa família gestiona aquest ryokan tradicional des de 1875 anys. A la vall verge del parc nacional de Joshintetsu, l'hostal atrau escriptors, pintors, a la recerca de la increïble serenitat d'aquest lloc. Els banys històrics de les fonts termals naturals del riu Hoshi, construïts al voltant d'una antiga estructura de fusta, són molt coneguts al Japó i completen la sensació d'haver estat enviat en un segle més. Tot el personal és de la regió de Gunma i viu amb la família dins de l'hostal, compartint la increïble tradició d'hospitalitat amb els hostes. Apassionat per les espases, el fill del propietari és artesà en un taller ancestral del poble veí, i a l'hotel se'n conserven alguns exemples rars i originals.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-11-08T21:37:13+01:00",
-        "stop": "2026-11-08T22:01:56+01:00",
-        "title": "Caçadors de bolets",
-        "subtitle": "Fina Puigdevall",
-        "description": "Hi ha alguna cosa més difícil que aconseguir una estrella Michelin? A 'Caçadors de bolets', tot i reconèixer la dificultat d'aconseguir el reconeixement de la guia de cuina més prestigiosa del món, creuen que sí, que hi ha coses més difícils. Sense anar més lluny, sortir a collir bolets en temporada de sequera, amb temperatures estivals i amb una humitat pròpia dels Monegres. Però la Fina Puigdevall no és una dona que s'espanta davant les dificultats, i amb ella vam anar a la Garrotxa, a un vessant obac que a priori oferia possibilitats de trobar els nostres estimats bolets. L'hi van acompanyar el seu cap de cuina, Pere Planagumá, i Domènec Moli, un especialista en cuina volcànica de la Garrotxa i autor d'un parell de receptaris.",
-        "genre": "DOCUMENTAL DOCUDRAMA",
-        "image": ""
+        "start": "2026-11-09T01:07:39+01:00",
+        "stop": "2026-11-09T01:57:37+01:00",
+        "title": "El triunfante",
+        "subtitle": "El triunfante",
+        "description": "El Triunfante era un navili de guerra de 70 canons, enfonsat al golf de Roses durant la defensa de Ciutadella de Roses contra el setge francès el 1795. Es tracta d'un dels derelictes més grans, mai excavat, de tot el patrimoni subaquàtic català. Seguint els testimonis d'historiadors, arqueòlegs i alguns dels protagonistes del seu descobriment, coneixerem les innovacions tecnològiques que l'enginyer i matemàtic Jorge Juan i Santacilia va introduir en la construcció naval espanyola del segle XVIII. Des de la seva troballa als anys 70 del segle XX, ha representat el paradigma de l'espoli que ha patit el patrimoni subaquàtic català durant dècades. Tanmateix, la informació de les seves restes servirà perquè l'equip d'arqueòlegs del Centre d'Arqueologia Subaquàtica de Catalunya (CASC), després de tres campanyes d'excavació subaquàtica, desvelin els seus secrets.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/0/1749140405006.jpg"
       }
     ],
     "oca1": [],
