@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-09T13:24:10.388496+00:00",
+  "updated": "2026-11-09T23:04:23.137371+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-09T13:54:56+01:00",
-        "stop": "2026-11-09T14:30:00+01:00",
-        "title": "Telenotícies comarques",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "start": "2026-11-09T23:24:56+01:00",
+        "stop": "2026-11-10T00:32:12+01:00",
+        "title": "El Foraster",
+        "subtitle": "Barceloneta",
+        "description": "Un programa d'humor en què un monologuista ambulant recorre Catalunya a la recerca del paisatge humà dels pobles de menys de mil habitants. Cada capítol, un poble diferent. I a cada poble, un repte: fer un monòleg a mida dels seus habitants.Quim Masferrer arriba a cada poble atent a les sorpreses, sense xarxa, amb la vista i l'oïda a punt per detectar moments irrepetibles, disposat a deixar-se portar pels veïns i descobrir els racons inèdits, els costums locals, els somnis particulars i sobretot el seu sentit de l'humor. Per fer-ho, disposa només de 48 hores.I després reuneix tots els veïns al teatre del poble i exposa la seva visió particular del que ha descobert. Tots hi són presents i tots poden aparèixer en qualsevol moment al monòleg. Durant uns quants segons poden ser el centre d'atenció. El resultat: un programa d'humor on els veïns són, al mateix temps, públic i protagonistes, i amb un format que combina els moments de monòleg amb les entrevistes i recerca dels personatges més entranyables, curiosos, savis, divertits o peculiars.El programa és una oportunitat per conèixer el territori i els costums de la Catalunya rural. Cada poble és una reproducció a escala del país.Una producció de TV3 amb la col·laboració de Brutal Media.'El Foraster' és l'adaptació per a TV3 del format danès 'Comedy on the edge', que des de fa dues temporades triomfa al canal DR1 de Dinamarca.",
+        "genre": "VARIETATS",
+        "image": ""
       },
       {
-        "start": "2026-11-09T14:30:00+01:00",
-        "stop": "2026-11-09T15:30:11+01:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "start": "2026-11-10T00:32:12+01:00",
+        "stop": "2026-11-10T01:30:22+01:00",
+        "title": "El Foraster",
+        "subtitle": "Especial La Mina",
+        "description": "Un itinerari que no ha deixat indiferent en Quim Masferrer, que el va començar sentint-se més foraster que mai i l'acaba sentint-se un més del barri. Per iniciar questa sisena temporada, en Quim s'endinsa en una de les zones amb més caràcter i personalitat de Sant Adrià de Besòs: la Mina. Un barri desconegut, marginal, misteriós, ple de tòpics, però també ple de vida, somnis i esperances com les de qualsevol altre barri o població de Catalunya. Un lloc on ens podrem identificar amb els seus habitants més del que creiem.Allà coneixerà un seguit de personatges que el conduiran en el seu periple homèric, i que duran en Quim a la convicció que tots som més semblants del que realment pensem: el Tío Lele, un dels patriarques més carismàtics del barri, que li donarà uns quants consells de supervivència. I també la Loli i la Maria, unes gitanes d'allò més simpàtiques, que no només li explicaran per què la vida és més senzilla del que sembla, sinó que li prepararan una de les seves especialitats culinàries, l'arròs amb mongetes.En aquest recorregut per un barri tan singular com fascinant, ens retrobarem amb el campió olímpic Gervasio Deferr, que va decidir retirar-se de l'esport professional i establir-se a la Mina. Coneixerem també a 'El Jamonero', l'home que més en sap d'ocells de Catalunya, i l'Antònia i l'Angelita, de Vic i Màlaga, respectivament, que es van conèixer de ben petites a les barraques del Camp de la Bota i segueixen la seva amistat seixanta anys després.Després de visitar la Mina, el nostre concepte d'aquest mític barri ja mai més serà el mateix d'abans.",
+        "genre": "VARIETATS",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-09T13:55:00+01:00",
-        "stop": "2026-11-09T14:30:00+01:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-11-10T00:00:00+01:00",
+        "stop": "2026-11-10T00:30:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-09T14:30:00+01:00",
-        "stop": "2026-11-09T16:30:00+01:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-11-10T00:30:00+01:00",
+        "stop": "2026-11-10T01:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-09T14:03:40+01:00",
-        "stop": "2026-11-09T16:06:40+01:00",
-        "title": "Esport Club",
-        "subtitle": "Atlètic de Madrid-Barça, la concentració de l'Espanyol i tertúlia",
-        "description": "El Barça assalta el Metropolitano amb un gran Fermín. Ho analitzem amb la lupa de l'Albert Blaya. Eder Sarabia concentrarà l'Espanyol a la Garrotxa. Avui, Sabadell-Reial Societat B a la Nova Creu Alta. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-11-09T22:59:57+01:00",
+        "stop": "2026-11-10T00:31:40+01:00",
+        "title": "Onze",
+        "subtitle": "Ferminator; Mayola Academy i 'El colegiado'",
+        "description": "Xavi Torres, Carles Fité, Aina Cerdà i Jordi Martí comenten el gran partit de Fermín al Metropolitano. En Marc Mayola analitza alguns aspectes tàctics del partit i en Joan Fàbregas repassa les jugades polèmiques de la jornada.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-11-09T16:06:40+01:00",
-        "stop": "2026-11-09T17:03:31+01:00",
-        "title": "La travessa",
-        "subtitle": "La crida",
-        "description": "La primera regla de tota aventura és estar preparat per a qualsevol imprevist. I, si és al mig del mar, encara més. De seguida descobriran que el fred pot ser el seu pitjor rival, perquè només els més valents s'atreveixen a nedar i remar en ple hivern. Ells i elles són els escollits per protagonitzar una contrarellotge que els portarà al límit de les seves forces. I, a 'La travessa', qualsevol dubte, qualsevol error, els pot deixar enrere. Deu parelles han començat aquest viatge, però quantes en quedaran, quan acabi el dia?",
-        "genre": "CONCURS",
-        "image": ""
+        "start": "2026-11-10T00:31:40+01:00",
+        "stop": "2026-11-10T00:53:01+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-09T14:03:08+01:00",
-        "stop": "2026-11-09T14:25:55+01:00",
-        "title": "One piece",
-        "subtitle": "És colpidor! Les notícies fan trontollar el Nou Món!",
-        "description": "El món reacciona davant la notícia de l'anunci impactant d'en Doflamingo, en Law i la tripulació del Barret de Palla planegen el pas següent de la seva aliança, i reapareix una cara coneguda del passat!",
+        "start": "2026-11-10T00:02:42+01:00",
+        "stop": "2026-11-10T00:23:43+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "L'Ombra, el jaguar negre",
+        "description": "Mentre intenten decidir quin serà el pròxim gran felí que estudiaran, els germans Kratt i companyia descobreixen que el símbol de la nova col·lecció de roboespies d'en Zach Virusmàtic serà un jaguar negre. En concret, un que han batejat amb el nom d'Ombra. Avui, en lloc d'estudiar un gran felí, els tocarà rescatar-lo de les urpes dels Zachbots!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-09T14:25:55+01:00",
-        "stop": "2026-11-09T14:45:10+01:00",
-        "title": "One piece",
-        "subtitle": "Anem a explorar! Dressrosa, l'illa de l'amor i la passió!",
-        "description": "La tripulació del Barret de Palla i companyia s'endinsen a explorar Dressrosa, una terra plena de dones boniques, menjar deliciós i joguines vivents que conviuen amb les persones.",
+        "start": "2026-11-10T00:23:43+01:00",
+        "stop": "2026-11-10T00:44:43+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Tocar un colibrí",
+        "description": "Avui els germans Kratt han descobert que el colibrí és l'ocell que bat les ales més de pressa de tot el món animal. Fins a 100 vegades per segon! L'Aviva està convençuda que serà el vestit de poder més al·lucinant que haurà fet mai, però primer en Martin i en Chris hauran de ser capaços de tocar un colibrí. I ho hauran de fer abans que l'Aviva n'acabi els discos de poder!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-09T14:08:47+01:00",
-        "stop": "2026-11-09T14:56:01+01:00",
-        "title": "La Renaixença",
-        "subtitle": "El pijama",
-        "description": "Si sou dels que podeu passar-vos el diumenge sencer en pijama, aquest és el vostre programa. Estem davant de la peça de roba més còmoda? Quan deixarà de ser mal vist anar a treballar amb el pijama posat? També hi ha qui el fa servir per baixar les escombraries. Tot glamur. Dediquem el capítol al pijama. Parlem amb Jordi Alcover, un exsoldador submarí que ens ha confessat quin és l'únic aliment que es pot menjar sota l'aigua. I sortim a passejar amb en Cobi per la matança de Sant Valentí del 1929 a Chicago.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-11-10T00:03:13+01:00",
+        "stop": "2026-11-10T00:28:01+01:00",
+        "title": "Patrimonis",
+        "subtitle": "La genialitat (univers Dalí)",
+        "description": "El relat d'un país també el conformen aquelles persones que esdevenen genis, personatges diferents que dimensionen els orígens en àmbit universal i que concreten una part de l'essència del paisatge que els ha construït. Ens endinsem en l'extens univers de Dalí des de la seva casa-museu de Portlligat i des de la barraca, el teatre-museu de Figueres. Parlem del concepte de genialitat amb la neurobiòloga Mara Dierssen, i el pianista i compositor Xavi Lloses musica el capítol des del castell de Púbol.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-11-09T14:56:01+01:00",
-        "stop": "2026-11-09T15:43:37+01:00",
-        "title": "La Renaixença",
-        "subtitle": "L'estetoscopi",
-        "description": "L'estetoscopi té dos punts de vista: l'estri que porten els metges penjats al coll com qui porta un collaret o aquell aparell que et posen a l'esquena o a la panxa que et fa fotre un salt de tan fred que està. Ens visita Ypnosi, un grup que a les xarxes es descriu com a post eroski psycho funk. No sabem què és, però semblen simpàtics. Interpreten 'La història', amb Arnau Tordera i Laia Glück. A 'Històries per passejar el gos', portem la Lluna a l'incendi del circ de Niterói (el Brasil), el 1961.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-11-10T00:28:01+01:00",
+        "stop": "2026-11-10T00:41:26+01:00",
+        "title": "Programa sindical CC.OO.",
+        "subtitle": "Capítol 330",
+        "description": "En aquest programa –que és un monogràfic de la vaga general de l'11 de novembre– coneixerem com Comissions Obreres organitza aquesta gran aturada. A més, explicarem quines són les propostes del sindicat en matèria d'habitatge, que és el focus de la vaga. I, finalment, repassarem les diferents vagues generals que, des del 1976, han aturat el nostre país. ",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       }
     ],
     "oca1": [],
