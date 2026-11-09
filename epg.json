@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-09T04:42:53.499467+00:00",
+  "updated": "2026-11-09T13:24:10.388496+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-09T05:15:53+01:00",
-        "stop": "2026-11-09T05:57:33+01:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "- MAR SERRA GRUP",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
+        "start": "2026-11-09T13:54:56+01:00",
+        "stop": "2026-11-09T14:30:00+01:00",
+        "title": "Telenotícies comarques",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       },
       {
-        "start": "2026-11-09T05:57:33+01:00",
-        "stop": "2026-11-09T06:00:00+01:00",
-        "title": "Videoclips catalans",
-        "subtitle": "- Quimo - Em vas fer mal",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
+        "start": "2026-11-09T14:30:00+01:00",
+        "stop": "2026-11-09T15:30:11+01:00",
+        "title": "Telenotícies migdia",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-09T01:00:00+01:00",
-        "stop": "2026-11-09T06:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-09T13:55:00+01:00",
+        "stop": "2026-11-09T14:30:00+01:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       },
       {
-        "start": "2026-11-09T06:00:00+01:00",
-        "stop": "2026-11-09T08:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-09T14:30:00+01:00",
+        "stop": "2026-11-09T16:30:00+01:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-09T05:33:12+01:00",
-        "stop": "2026-11-09T06:08:46+01:00",
-        "title": "E3",
-        "subtitle": "Eivissa Sprint Triatló",
-        "description": "Tercera edició de la prova amb la participació destacada dels campions d'Europa de duatló Arcadi Sala i Lucía Gracia.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/0/1779099341309.jpg"
+        "start": "2026-11-09T14:03:40+01:00",
+        "stop": "2026-11-09T16:06:40+01:00",
+        "title": "Esport Club",
+        "subtitle": "Atlètic de Madrid-Barça, la concentració de l'Espanyol i tertúlia",
+        "description": "El Barça assalta el Metropolitano amb un gran Fermín. Ho analitzem amb la lupa de l'Albert Blaya. Eder Sarabia concentrarà l'Espanyol a la Garrotxa. Avui, Sabadell-Reial Societat B a la Nova Creu Alta. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       },
       {
-        "start": "2026-11-09T06:08:46+01:00",
-        "stop": "2026-11-09T06:17:18+01:00",
-        "title": "E3D",
-        "subtitle": "Cursa de Bombers",
-        "description": "27a edició de la cursa popular que es fa pels carrers de Barcelona. Els participants recorren 10 quilòmetres per la capital catalana acompanyats dels bombers de la ciutat.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/0/1793804820509.jpg"
+        "start": "2026-11-09T16:06:40+01:00",
+        "stop": "2026-11-09T17:03:31+01:00",
+        "title": "La travessa",
+        "subtitle": "La crida",
+        "description": "La primera regla de tota aventura és estar preparat per a qualsevol imprevist. I, si és al mig del mar, encara més. De seguida descobriran que el fred pot ser el seu pitjor rival, perquè només els més valents s'atreveixen a nedar i remar en ple hivern. Ells i elles són els escollits per protagonitzar una contrarellotge que els portarà al límit de les seves forces. I, a 'La travessa', qualsevol dubte, qualsevol error, els pot deixar enrere. Deu parelles han començat aquest viatge, però quantes en quedaran, quan acabi el dia?",
+        "genre": "CONCURS",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-09T05:39:02+01:00",
-        "stop": "2026-11-09T05:45:01+01:00",
-        "title": "El xai Shaun",
-        "subtitle": "El zoo infantil",
-        "description": "Com que s'adona que els animals de la granja susciten més interès que no pas els productes que vol vendre, el granger decideix obrir un zoo infantil. Però quan perd el control de la situació per culpa dels eufòrics visitants, el Shaun ha d'entrar en acció per tornar a posar les coses al seu lloc.",
+        "start": "2026-11-09T14:03:08+01:00",
+        "stop": "2026-11-09T14:25:55+01:00",
+        "title": "One piece",
+        "subtitle": "És colpidor! Les notícies fan trontollar el Nou Món!",
+        "description": "El món reacciona davant la notícia de l'anunci impactant d'en Doflamingo, en Law i la tripulació del Barret de Palla planegen el pas següent de la seva aliança, i reapareix una cara coneguda del passat!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-09T05:45:01+01:00",
-        "stop": "2026-11-09T05:51:21+01:00",
-        "title": "El xai Shaun",
-        "subtitle": "Carbasses en perill",
-        "description": "Som a la vigília de Halloween i el Bitzer té la missió de vigilar les tres carbasses premiades del granger. A pesar que ell, el Shaun i el ramat fan tot el que poden, les carbasses desapareixen una rere l'altra i només deixen un rastre llefiscós i misteriós. És que potser hi ha un monstre de les carbasses que campa lliurement enmig de la tenebrosa nit?",
+        "start": "2026-11-09T14:25:55+01:00",
+        "stop": "2026-11-09T14:45:10+01:00",
+        "title": "One piece",
+        "subtitle": "Anem a explorar! Dressrosa, l'illa de l'amor i la passió!",
+        "description": "La tripulació del Barret de Palla i companyia s'endinsen a explorar Dressrosa, una terra plena de dones boniques, menjar deliciós i joguines vivents que conviuen amb les persones.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-09T05:16:28+01:00",
-        "stop": "2026-11-09T05:43:13+01:00",
-        "title": "Les Feres",
-        "subtitle": "Veus Flamenques",
-        "description": "Programa especial de Les Feres en què es presenten cinc veus emergents del flamenc que es fa ara mateix a Catalunya: Lidia Mora, Irene Ribas, Paula Domínguez, Ana Brenes i Cristina López ens mostren diferents maneres d'acostar-se a una música i un art que batega des del classicisme, la fusió o, fins i tot, les digressions lliures. Cinc 'cantaoras' que han modelat el seu talent a les aules del Taller de Músics, un dels dinamitzadors més presents del flamenc català.  'Guajira' Lidia Mora -veu Víctor Rosell, Ruselito – guitarra Andy Oh! -percussió 'Zambra' Irene Ribas -veuÓscar Soriano -guitarra 'Cada mes de abril' Paula Domínguez- piano i veu 'La del barquito en la mano (soleá)' Ana Brenes -veu Toni Abellán - guitarra 'Electrotonás' Cristina López -veu i electrònica Marc López - guitarra Localització: enregistrat al Taller de Músics, Barcelona Dia: 19 de desembre del 2024  ",
+        "start": "2026-11-09T14:08:47+01:00",
+        "stop": "2026-11-09T14:56:01+01:00",
+        "title": "La Renaixença",
+        "subtitle": "El pijama",
+        "description": "Si sou dels que podeu passar-vos el diumenge sencer en pijama, aquest és el vostre programa. Estem davant de la peça de roba més còmoda? Quan deixarà de ser mal vist anar a treballar amb el pijama posat? També hi ha qui el fa servir per baixar les escombraries. Tot glamur. Dediquem el capítol al pijama. Parlem amb Jordi Alcover, un exsoldador submarí que ens ha confessat quin és l'únic aliment que es pot menjar sota l'aigua. I sortim a passejar amb en Cobi per la matança de Sant Valentí del 1929 a Chicago.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-11-09T05:43:13+01:00",
-        "stop": "2026-11-09T05:48:25+01:00",
-        "title": "Xarxa Natura",
-        "subtitle": "Gavarres",
-        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
+        "start": "2026-11-09T14:56:01+01:00",
+        "stop": "2026-11-09T15:43:37+01:00",
+        "title": "La Renaixença",
+        "subtitle": "L'estetoscopi",
+        "description": "L'estetoscopi té dos punts de vista: l'estri que porten els metges penjats al coll com qui porta un collaret o aquell aparell que et posen a l'esquena o a la panxa que et fa fotre un salt de tan fred que està. Ens visita Ypnosi, un grup que a les xarxes es descriu com a post eroski psycho funk. No sabem què és, però semblen simpàtics. Interpreten 'La història', amb Arnau Tordera i Laia Glück. A 'Històries per passejar el gos', portem la Lluna a l'incendi del circ de Niterói (el Brasil), el 1961.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
