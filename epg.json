@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-10T12:59:05.303052+00:00",
+  "updated": "2026-11-10T20:22:57.021274+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,116 +43,106 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-10T13:55:02+01:00",
-        "stop": "2026-11-10T14:30:00+01:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-11-10T21:00:00+01:00",
+        "stop": "2026-11-10T21:58:40+01:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
         "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-11-10T14:30:00+01:00",
-        "stop": "2026-11-10T15:30:11+01:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "start": "2026-11-10T21:58:40+01:00",
+        "stop": "2026-11-10T22:06:41+01:00",
+        "title": "De primera!",
+        "subtitle": "- Una dolçor amenaçada",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-10T13:55:00+01:00",
-        "stop": "2026-11-10T14:30:00+01:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-11-10T21:00:00+01:00",
+        "stop": "2026-11-10T22:05:00+01:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
         "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-11-10T14:30:00+01:00",
-        "stop": "2026-11-10T16:30:00+01:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-11-10T22:05:00+01:00",
+        "stop": "2026-11-11T00:00:00+01:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-10T13:00:09+01:00",
-        "stop": "2026-11-10T14:01:50+01:00",
-        "title": "Esport Club",
-        "subtitle": "",
-        "description": "En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-11-10T20:25:00+01:00",
+        "stop": "2026-11-10T21:31:20+01:00",
+        "title": "Bàsquet",
+        "subtitle": "Kids&Us Manresa-Bosna Sarajevo / Eurocup / J7",
+        "description": "El conjunt del Bages aspira a la cinquena victòria en set partits per seguir a la part alta de la classificació.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"
       },
       {
-        "start": "2026-11-10T14:01:50+01:00",
-        "stop": "2026-11-10T16:04:34+01:00",
-        "title": "Esport Club",
-        "subtitle": "",
-        "description": "En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-11-10T21:31:20+01:00",
+        "stop": "2026-11-10T22:25:34+01:00",
+        "title": "Bàsquet",
+        "subtitle": "Kids&Us Manresa-Bosna Sarajevo / Eurocup / J7",
+        "description": "El conjunt del Bages aspira a la cinquena victòria en set partits per seguir a la part alta de la classificació.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-10T13:46:53+01:00",
-        "stop": "2026-11-10T14:08:30+01:00",
-        "title": "El detectiu Conan",
-        "subtitle": "El número del ventríloc (2a part)",
-        "description": "La policia dona per fet que l'assassí és en Haruomi Togawa, però en Conan no les té totes i decideix anar a inspeccionar un cop més l'escenari del crim amb l'inspector Takagi. Allà descobreix que algú va canviar de lloc els trofeus d'en Riichi Tengan per posar el que va servir d'arma homicida al davant i deixar al darrere el guardó més preuat de l'artista. A més, en Takagi li revela que l'homicidi s'ha comès amb guants, perquè s'ha trobat una fibra tèxtil a les ulleres que hi havia a la bossa d'en Togawa. Mentre en Conan passeja pel carrer mirant de lligar caps, veu unes imatges d'en Tengan a la televisió que li donen la pista final que buscava per resoldre el cas.",
+        "start": "2026-11-10T21:00:14+01:00",
+        "stop": "2026-11-10T21:23:02+01:00",
+        "title": "One piece",
+        "subtitle": "Un amor perillós! La Violet, la ballarina!",
+        "description": "En Zoro continua buscant la fada que li ha robat la catana, en Sanji s'enamora d'una ballarina preciosa i en Ruffy es prepara per lluitar per la fruita del diable que pertanyia al seu germà Ace!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-10T14:08:30+01:00",
-        "stop": "2026-11-10T14:31:17+01:00",
+        "start": "2026-11-10T21:23:02+01:00",
+        "stop": "2026-11-10T21:41:04+01:00",
         "title": "One piece",
-        "subtitle": "Un amor perillós! La Violet, la ballarina!",
-        "description": "En Zoro continua buscant la fada que li ha robat la catana, en Sanji s'enamora d'una ballarina preciosa i en Ruffy es prepara per lluitar per la fruita del diable que pertanyia al seu germà Ace!",
+        "subtitle": "Un guerrer desconegut però formidable! Ha aparegut en Lucy!",
+        "description": "En Sanji s'enamora cada cop més de la Viola i en Ruffy causa una gran impressió entre els lluitadors que competeixen també per la fruita flama-flama de l'Ace.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-10T13:11:10+01:00",
-        "stop": "2026-11-10T14:05:28+01:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "start": "2026-11-10T21:15:29+01:00",
+        "stop": "2026-11-10T21:39:54+01:00",
+        "title": "Jet lag",
+        "subtitle": "BIBIANA",
+        "description": "La Raquel, la mare de la Diana, es presenta per sorpresa i s'instal·la a casa seva. Per altra banda, totes volen anar de viatge i no saben a on. Finalment, les cinc, amb mare inclosa, marxaran a Cuba.",
+        "genre": "TELESÈRIE",
         "image": ""
       },
       {
-        "start": "2026-11-10T14:05:28+01:00",
-        "stop": "2026-11-10T14:52:36+01:00",
-        "title": "La Renaixença",
-        "subtitle": "La lligacama",
-        "description": "Sabeu que la lligacama servia per aguantar les mitges i mitjons de tothom durant l'edat mitjana? Fins al segle XX no eren elàstics i queien. Tot tan sensual com la imatge que en tenim avui dia. Dediquem el capítol a la lligacama. Ve a veure'ns Litus Ballbé, un exjugador professional d'hoquei herba que va decidir deixar-ho tot per ordenar-se capellà. Dels Jocs Olímpics de Londres 2012 a l'església. Sortim a passejar la Guspi fins al sisme de la Candelera. No anem gaire lluny, perquè va passar a Queralbs... però l'any 1428.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-11-10T21:39:54+01:00",
+        "stop": "2026-11-10T22:00:22+01:00",
+        "title": "Jet lag",
+        "subtitle": "CRISI",
+        "description": "Un director de televisió ha triat el bar del Mario per rodar-hi l'anunci publicitari d'una nova marca de cerveses. Ja està tot preparat, només falta triar la noia que protagonitzarà l'anunci. A cap de les nostres protagonistes els hi fa gràcia aparèixer per la televisió fins que s'assabenten que el noi de l'anunci serà... el Javier Bardem. A partir d'aquest moment començarà una guerra entre totes elles per ser la protagonista de l'anunci i poder estar ben a prop del seu ídol.",
+        "genre": "TELESÈRIE",
+        "image": ""
       }
     ],
     "oca1": [],
-    "oca2": [
-      {
-        "start": "2026-11-10T13:15:55+01:00",
-        "stop": "2026-11-10T14:45:50+01:00",
-        "title": "Roda de premsa posterior al Consell de Ministres",
-        "subtitle": "",
-        "description": "",
-        "genre": "RETRANSMISSIONS ACTUALITAT",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/1/1698683988613.jpg"
-      }
-    ],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
