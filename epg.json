@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-11T00:45:19.982450+00:00",
+  "updated": "2026-11-11T07:27:04.600523+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-10T23:59:26+01:00",
-        "stop": "2026-11-11T06:00:00+01:00",
+        "start": "2026-11-11T08:00:00+01:00",
+        "stop": "2026-11-11T10:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,8 +52,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-11T06:00:00+01:00",
-        "stop": "2026-11-11T08:00:00+01:00",
+        "start": "2026-11-11T10:30:00+01:00",
+        "stop": "2026-11-11T12:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -63,8 +63,8 @@
     ],
     "324": [
       {
-        "start": "2026-11-11T01:00:00+01:00",
-        "stop": "2026-11-11T06:00:00+01:00",
+        "start": "2026-11-11T08:00:00+01:00",
+        "stop": "2026-11-11T10:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-11T06:00:00+01:00",
-        "stop": "2026-11-11T08:00:00+01:00",
+        "start": "2026-11-11T10:30:00+01:00",
+        "stop": "2026-11-11T12:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-10T23:59:54+01:00",
-        "stop": "2026-11-11T06:00:00+01:00",
+        "start": "2026-11-11T06:00:00+01:00",
+        "stop": "2026-11-12T00:00:00+01:00",
         "title": "Emissió de TV3 per ES3",
         "subtitle": "",
         "description": "Sense Descripció",
@@ -92,52 +92,52 @@
         "image": ""
       },
       {
-        "start": "2026-11-11T06:00:00+01:00",
-        "stop": "2026-11-12T00:30:00+01:00",
-        "title": "Emissió de TV3 per ES3",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
+        "start": "2026-11-12T00:00:00+01:00",
+        "stop": "2026-11-12T00:55:41+01:00",
+        "title": "Toni Bou",
+        "subtitle": " Els 40 de Toni Bou",
+        "description": "Toni Bou és l'esportista que acumula més títols mundials al seu palmarès. El pilot de Piera va iniciar el seu domini del trial l'any 2007 i, des d'aleshores ja fa 20 anys que no coneix la derrota. El documental 'Els 40 de Toni Bou' repassa la vida del personatge a través del testimoni dels que l'han acompanyat en aquest exitós camí: companys d'equip, família, i grans referents de l'esport mundial com Pep Guardiola, Marc Gasol, Alèxia Putellas o Rafa Nadal. Especialment interessant és la conversa íntima que manté amb Marc Márquez, on el pilot de Cervera ens ajudarà a desvelar si el Toni ja en té prou amb 40 títols, o seguirà pilotant tot i que ja ha fet els 40 anys.",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/6/1794307781366.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-11T01:37:09+01:00",
-        "stop": "2026-11-11T01:56:18+01:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Batallant cada dia, avui i demà!",
-        "description": "El Darmanitan del Goh desafia l'Scorbunny perquè utilitzi un moviment de Tipus Foc. L'Scorbunny s'hi esforça tant com pot, però com que no se'n surt, comença a entrenar-se fort per dominar el moviment de les Brases. El Goh, però, no ho veu bé perquè creu que l'Scorbunny s'hauria de concentrar en els moviments que ja domina, i això posa trist i fa enfadar l'Scorbunny. Després, en una batussa amb el Team Rocket, el Goh s'empesca una manera perquè l'Scorbunny pugui fer servir la seva pròpia versió de les Brases. El moviment funciona i l'Scorbunny derrota el Team Rocket, havent evolucionat en Raboot. El Goh està molt content i emocionat, però el Raboot està distant i se'n va sense dir res al seu entrenador. Què li deu passar?",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-11-11T08:26:25+01:00",
+        "stop": "2026-11-11T08:37:27+01:00",
+        "title": "A jugar! Amb en Titó i els Fa la la",
+        "subtitle": "A jugar amb el gegant del bosc",
+        "description": "En Titó i els Fa La La dormen acampats al bosc quan, de sobte, un terrabastall els desperta en plena nit. El campament està tot de cap per avall... i hi ha una petjada enorme! Serà d'un gegant del bosc? ",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-11-11T01:56:18+01:00",
-        "stop": "2026-11-11T02:15:57+01:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Destinació: Coronació!",
-        "description": "L'Ash s'ha inscrit a la Sèrie Mundial de Coronació per poder tornar a combatre contra el Lionel! Però primer ha de desafiar un entrenador fort i ben classificat per poder pujar de classe a la competició. Per sort per ell, la líder en funcions del Gimnàs Carmí, la Visquez, també té ganes de desafiar algú. Cada entrenador pot fer servir dos Pokémon; l'Ash tria el Pikachu i el Gengar, i la Visquez fa equip amb el Raichu i l'Electrode. La Visquez té unes habilitats de combat excel·lents, però quan es tracta d'estratègies, l'Ash sempre pensa de manera creativa. Guanya el combat i puja immediatament al lloc 3.763 de la classificació! I a buscar el repte següent!",
+        "start": "2026-11-11T08:37:27+01:00",
+        "stop": "2026-11-11T08:47:41+01:00",
+        "title": "El Mic i els seus amics",
+        "subtitle": "Jugar amb triangles",
+        "description": "'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-10T23:59:54+01:00",
-        "stop": "2026-11-11T06:00:00+01:00",
-        "title": "Emissió de TV3 per C33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
+        "start": "2026-11-11T08:22:12+01:00",
+        "stop": "2026-11-11T08:47:48+01:00",
+        "title": "Salpem!",
+        "subtitle": "L'estartit",
+        "description": "'Salpem!' proposa un passeig en vaixell des de diferents bases nàutiques, de Sant Carles de la Ràpita a Roses, sempre amb el mar com a escenari i amb l'objectiu de conèixer millor el litoral català.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/5/1720171610057.jpg"
       },
       {
-        "start": "2026-11-11T06:00:00+01:00",
-        "stop": "2026-11-11T06:03:45+01:00",
-        "title": "Videoclips",
-        "subtitle": "Intana - Què vols de mi",
-        "description": "",
-        "genre": "ALTRES",
+        "start": "2026-11-11T08:47:48+01:00",
+        "stop": "2026-11-11T09:19:38+01:00",
+        "title": "Tocats de l'ala",
+        "subtitle": "Ocellots i ocellets",
+        "description": "Heu vist mai un necròfag? També se'ls diu carronyaires, pobres...Són els ocells que s'alimenten d'animals morts: el voltor comú, el voltor negre, l'aufrany i el trencalòs. Són les quatre espècies de voltor europeu, i només es poden trobar juntes al Prepirineu català. Hem anat a conèixer-les a la muntanya d'Alinyà, a un dels canyets on s'alimenten, amb un grup d'estudiants universitaris bojos pels ocells, i amb un guia, l'Aleix Millet, que és una autoritat en rapinyaires. I, ja que erem allà dalt, hem aprofitat per conèixer també alguns ocellets de muntanya, com les llucaretes, el còlit gris o el trencapinyes.El reportatge el dediquem a Ornitho.cat, un dels projectes de ciència ciutadana més interessants i amb més prestigi internacional en el camp dels ocells. Ornitho és el nom d'un lloc web on podem escriure tots els ocells que haguem trobat en les nostres sortides d'observació, a fi que altres observadors puguin consultar aquestes dades ...i, sobretot, que l'institut Català d'Ornitologia les pugui fer servir per a estudis científics. Anirem a un jardí, observarem ocells i els anotarem a Ornitho.cat i veurem, desprès, què en fan allà d'aquestes anotacions.A 'El consell', diferents estris per camuflar-se o improvisar un 'hide' si volem fotografiar ocells sense ser vistos. ",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
