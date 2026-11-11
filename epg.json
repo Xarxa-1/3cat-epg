@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-10T20:22:57.021274+00:00",
+  "updated": "2026-11-11T00:45:19.982450+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,101 +43,101 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-10T21:00:00+01:00",
-        "stop": "2026-11-10T21:58:40+01:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-11-10T23:59:26+01:00",
+        "stop": "2026-11-11T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-10T21:58:40+01:00",
-        "stop": "2026-11-10T22:06:41+01:00",
-        "title": "De primera!",
-        "subtitle": "- Una dolçor amenaçada",
+        "start": "2026-11-11T06:00:00+01:00",
+        "stop": "2026-11-11T08:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-11-11T01:00:00+01:00",
+        "stop": "2026-11-11T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-11T06:00:00+01:00",
+        "stop": "2026-11-11T08:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "esport3": [
+      {
+        "start": "2026-11-10T23:59:54+01:00",
+        "stop": "2026-11-11T06:00:00+01:00",
+        "title": "Emissió de TV3 per ES3",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
+      },
+      {
+        "start": "2026-11-11T06:00:00+01:00",
+        "stop": "2026-11-12T00:30:00+01:00",
+        "title": "Emissió de TV3 per ES3",
+        "subtitle": "",
         "description": "Sense Descripció",
         "genre": "",
         "image": ""
       }
     ],
-    "324": [
-      {
-        "start": "2026-11-10T21:00:00+01:00",
-        "stop": "2026-11-10T22:05:00+01:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      },
-      {
-        "start": "2026-11-10T22:05:00+01:00",
-        "stop": "2026-11-11T00:00:00+01:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
-      }
-    ],
-    "esport3": [
-      {
-        "start": "2026-11-10T20:25:00+01:00",
-        "stop": "2026-11-10T21:31:20+01:00",
-        "title": "Bàsquet",
-        "subtitle": "Kids&Us Manresa-Bosna Sarajevo / Eurocup / J7",
-        "description": "El conjunt del Bages aspira a la cinquena victòria en set partits per seguir a la part alta de la classificació.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"
-      },
-      {
-        "start": "2026-11-10T21:31:20+01:00",
-        "stop": "2026-11-10T22:25:34+01:00",
-        "title": "Bàsquet",
-        "subtitle": "Kids&Us Manresa-Bosna Sarajevo / Eurocup / J7",
-        "description": "El conjunt del Bages aspira a la cinquena victòria en set partits per seguir a la part alta de la classificació.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"
-      }
-    ],
     "sx3": [
       {
-        "start": "2026-11-10T21:00:14+01:00",
-        "stop": "2026-11-10T21:23:02+01:00",
-        "title": "One piece",
-        "subtitle": "Un amor perillós! La Violet, la ballarina!",
-        "description": "En Zoro continua buscant la fada que li ha robat la catana, en Sanji s'enamora d'una ballarina preciosa i en Ruffy es prepara per lluitar per la fruita del diable que pertanyia al seu germà Ace!",
+        "start": "2026-11-11T01:37:09+01:00",
+        "stop": "2026-11-11T01:56:18+01:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Batallant cada dia, avui i demà!",
+        "description": "El Darmanitan del Goh desafia l'Scorbunny perquè utilitzi un moviment de Tipus Foc. L'Scorbunny s'hi esforça tant com pot, però com que no se'n surt, comença a entrenar-se fort per dominar el moviment de les Brases. El Goh, però, no ho veu bé perquè creu que l'Scorbunny s'hauria de concentrar en els moviments que ja domina, i això posa trist i fa enfadar l'Scorbunny. Després, en una batussa amb el Team Rocket, el Goh s'empesca una manera perquè l'Scorbunny pugui fer servir la seva pròpia versió de les Brases. El moviment funciona i l'Scorbunny derrota el Team Rocket, havent evolucionat en Raboot. El Goh està molt content i emocionat, però el Raboot està distant i se'n va sense dir res al seu entrenador. Què li deu passar?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-10T21:23:02+01:00",
-        "stop": "2026-11-10T21:41:04+01:00",
-        "title": "One piece",
-        "subtitle": "Un guerrer desconegut però formidable! Ha aparegut en Lucy!",
-        "description": "En Sanji s'enamora cada cop més de la Viola i en Ruffy causa una gran impressió entre els lluitadors que competeixen també per la fruita flama-flama de l'Ace.",
+        "start": "2026-11-11T01:56:18+01:00",
+        "stop": "2026-11-11T02:15:57+01:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Destinació: Coronació!",
+        "description": "L'Ash s'ha inscrit a la Sèrie Mundial de Coronació per poder tornar a combatre contra el Lionel! Però primer ha de desafiar un entrenador fort i ben classificat per poder pujar de classe a la competició. Per sort per ell, la líder en funcions del Gimnàs Carmí, la Visquez, també té ganes de desafiar algú. Cada entrenador pot fer servir dos Pokémon; l'Ash tria el Pikachu i el Gengar, i la Visquez fa equip amb el Raichu i l'Electrode. La Visquez té unes habilitats de combat excel·lents, però quan es tracta d'estratègies, l'Ash sempre pensa de manera creativa. Guanya el combat i puja immediatament al lloc 3.763 de la classificació! I a buscar el repte següent!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-10T21:15:29+01:00",
-        "stop": "2026-11-10T21:39:54+01:00",
-        "title": "Jet lag",
-        "subtitle": "BIBIANA",
-        "description": "La Raquel, la mare de la Diana, es presenta per sorpresa i s'instal·la a casa seva. Per altra banda, totes volen anar de viatge i no saben a on. Finalment, les cinc, amb mare inclosa, marxaran a Cuba.",
-        "genre": "TELESÈRIE",
+        "start": "2026-11-10T23:59:54+01:00",
+        "stop": "2026-11-11T06:00:00+01:00",
+        "title": "Emissió de TV3 per C33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       },
       {
-        "start": "2026-11-10T21:39:54+01:00",
-        "stop": "2026-11-10T22:00:22+01:00",
-        "title": "Jet lag",
-        "subtitle": "CRISI",
-        "description": "Un director de televisió ha triat el bar del Mario per rodar-hi l'anunci publicitari d'una nova marca de cerveses. Ja està tot preparat, només falta triar la noia que protagonitzarà l'anunci. A cap de les nostres protagonistes els hi fa gràcia aparèixer per la televisió fins que s'assabenten que el noi de l'anunci serà... el Javier Bardem. A partir d'aquest moment començarà una guerra entre totes elles per ser la protagonista de l'anunci i poder estar ben a prop del seu ídol.",
-        "genre": "TELESÈRIE",
+        "start": "2026-11-11T06:00:00+01:00",
+        "stop": "2026-11-11T06:03:45+01:00",
+        "title": "Videoclips",
+        "subtitle": "Intana - Què vols de mi",
+        "description": "",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
