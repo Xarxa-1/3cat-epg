@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-12T18:54:58.573165+00:00",
+  "updated": "2026-11-12T23:56:40.957950+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-12T19:35:35+01:00",
-        "stop": "2026-11-12T20:30:57+01:00",
-        "title": "Documental",
-        "subtitle": "Calidoscopi Montalbán",
-        "description": "'CALIDOSCOPI MONTALBÁN' (2012), un documental de BATABAT en coproducció amb TELEVISIÓ DE CATALUNYA i TELEVISIÓN ESPAÑOLA i amb el suport de l'ICIC.Montalbano és un personatge fictici, un comissari italià que arriba a Barcelona per descobrir qui va ser l'home en què es van inspirar per posar-li el seu nom. A partir d'aquesta recerca de la seva identitat, anem recorrent els diversos aspectes de la vida de Montalbán, especialment centrats a Barcelona, ja sigui a través de declaracions a càmera de les persones que van conèixer Manuel Vázquez Montalbán i de les reflexions en off del personatge Montalbano. Cada testimoni fa avançar la investigació de Montalbano cap al testimoni següent. Veurem la seva infantesa al Raval i el seu vincle amb Barcelona, la seva militància política, els seu periodisme, la seva poesia, les seves novel·les, la seva passió per la gastronomia i pel Barça, la seva personalitat, i les seves connexions internacionals. Anirem avançant a través de tots aquests aspectes com si d'una investigació es tractés, que el mateix personatge de Montalbano anirà entrellaçant. Direcció: Jordi SegúGuió: Oriol Cortacans i Jordi Segú Producció executiva: Oriol Cortacans Producció executiva TVE: Andrés LuqueProducció executiva TVC: Jordi AmbròsProducció delegada TVC: Ruth LlòriaDirectores de producció: Marta Canals i Norma MarcosDirecció de fotografia: Pep SanchoMúsica original: Trébol RojoVeu en off: Enrico Lanniello",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
-        "start": "2026-11-12T20:30:57+01:00",
-        "stop": "2026-11-12T20:54:05+01:00",
-        "title": "Nervi",
-        "subtitle": "Txema Salvans – fotògraf",
-        "description": "Fotodocumentalista de prestigi internacional, el barceloní Txema Salvans ha col·laborat amb publicacions amb el relleu de 'Le Monde', 'The New York Times' o 'The Guardian', entre altres. Guanyador de premis com el FotoPress i el PhotoEspaña, Salvans s'ha caracteritzat per combinar a les seves fotos un càlid sentit de l'humor amb una visió artística i documental. La seva obra mostra les inquietuds d'un artista que posa el seu objectiu al servei d'extreure bellesa i realitat des d'entorns i relats molt diversos. ",
-        "genre": "ALTRES",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-11-12T18:30:00+01:00",
-        "stop": "2026-11-12T20:00:00+01:00",
+        "start": "2026-11-13T00:30:07+01:00",
+        "stop": "2026-11-13T00:59:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-12T20:00:00+01:00",
-        "stop": "2026-11-12T20:30:00+01:00",
+        "start": "2026-11-13T00:59:00+01:00",
+        "stop": "2026-11-13T04:30:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-11-13T00:30:00+01:00",
+        "stop": "2026-11-13T01:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-13T01:00:00+01:00",
+        "stop": "2026-11-13T06:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-12T19:35:04+01:00",
-        "stop": "2026-11-12T20:29:41+01:00",
-        "title": "Toni Bou",
-        "subtitle": " Els 40 de Toni Bou",
-        "description": "Toni Bou és l'esportista que acumula més títols mundials al seu palmarès. El pilot de Piera va iniciar el seu domini del trial l'any 2007 i, des d'aleshores ja fa 20 anys que no coneix la derrota. El documental 'Els 40 de Toni Bou' repassa la vida del personatge a través del testimoni dels que l'han acompanyat en aquest exitós camí: companys d'equip, família, i grans referents de l'esport mundial com Pep Guardiola, Marc Gasol, Alèxia Putellas o Rafa Nadal. Especialment interessant és la conversa íntima que manté amb Marc Márquez, on el pilot de Cervera ens ajudarà a desvelar si el Toni ja en té prou amb 40 títols, o seguirà pilotant tot i que ja ha fet els 40 anys.",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/6/1794307781366.jpg"
+        "start": "2026-11-13T00:48:42+01:00",
+        "stop": "2026-11-13T02:18:02+01:00",
+        "title": "Onze",
+        "subtitle": "De la Fuente defensa Lamine; Post Barça-Arsenal i 'El predicador'",
+        "description": "Víctor Lozano, David Bernabeu, Paula Reverter i Juvenal Edjogo comenten les paraules del seleccionador espanyol sobre l'absència de Lamine Yamal en el partit contra Txèquia. L'Òscar Pérez-Dolz predica els manaments del bon culer.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-11-12T20:29:41+01:00",
-        "stop": "2026-11-12T20:52:54+01:00",
-        "title": "Toni Bou",
-        "subtitle": "Márquez i Bou, a la taula dels campions",
-        "description": "Poder seure a la taula dels campions és un mèrit que només els escollits tenen a l'abast. Veure asseguts a la taula els, segurament, millors pilots de la història del motociclisme és un regal, una delícia, i sentir-los parlar en una conversa plena de complicitat i rialles esdevé un privilegi únic. 'Márquez i Bou a la taula dels campions' és el fruit d'un matí calorós d'estiu, en què TV3 va reunir el millor pilot de la història del trial, Toni Bou, amb el gran campió de MotoGP de tots els temps, Marc Márquez. L'objectiu era completar i engrandir el documental 'Els 40 de Toni Bou', però la trobada va ser tan màgica que mereixia un capítol a banda. En aquesta peça de poc més de 20 minuts, el Toni i el Marc ens permetran accedir a una conversa íntima i rica en sinceritat, coneixements, afecte i moltíssimes rialles. Parlen per als espectadors, però s'obliden de les càmeres. Per arrodonir la festa, Márquez i Bou es desafien en una cursa de motocròs amistosa... si és que dos pilots d'aquesta talla són capaços de pujar a una moto sense competir al màxim. Aniran gas a fons, però ni així pararan de riure.",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/9/1794308012294.jpg"
+        "start": "2026-11-13T02:18:02+01:00",
+        "stop": "2026-11-13T03:19:05+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-12T19:50:39+01:00",
-        "stop": "2026-11-12T20:00:00+01:00",
-        "title": "Betapodcast",
-        "subtitle": "Ens preparem per a la gran caça de bolets",
-        "description": "En Jan es prepara per tornar a caçar bolets després de la mala experiència de l'any passat. S'ho ha estudiat molt bé i ens ensenya algunes de les varietats que podem trobar a Catalunya. El Grau ens posa a prova i juguem a caçar i identificar bolets.",
-        "genre": "ALTRES",
+        "start": "2026-11-13T00:46:14+01:00",
+        "stop": "2026-11-13T01:06:53+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "La llúdria Llisca",
+        "description": "Els germans Kratt descobreixen un cadell de llúdria. Pensen que s'ha perdut i intenten trobar la seva família mentre l'ensenyen a sobreviure al pantà dels xiprers de Florida. ",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-12T20:00:00+01:00",
-        "stop": "2026-11-12T20:18:05+01:00",
-        "title": "InfoK",
-        "subtitle": "",
-        "description": "Milers de persones van sortir ahir al carrer per reivindicar el dret a l'habitatge. Es van demanar preus i lloguers més baixos, i que les coses més essencials per viure no siguin tan cares.Dissabte és el Dia Mundial de la Diabetis. En parlarem.L'Alice i l'Eduard són dos nens que tenen diabetis. Ens han explicat com els afecta en el seu dia a dia.Dos inforeporters han interrogat Juli César sobre el nou 'Fuet'. El programa que ens explica la història amb humor estrena nova temporada, i nosaltres ens hem infiltrat en un rodatge.  ",
-        "genre": "INFORMATIU DIÀRI",
+        "start": "2026-11-13T01:06:53+01:00",
+        "stop": "2026-11-13T01:26:48+01:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Adeu, amic!",
+        "description": "Els nostres herois han anat a Hoenn per investigar la migració dels Beautifly, i han d'aprofitar el moment just i estar preparats per quan s'alci el vent del nord. Mentrestant, el Raboot s'escapa a les nits i al Goh li sap greu la seva actitud. Buscant una resposta, el Goh i l'Ash segueixen el Raboot i descobreixen que està ajudant els Pokémon locals a defensar el seu territori competint en un combat de ball. El Goh decideix que el Raboot serà més feliç sense ell, però quan està a punt d'anar-se'n, entra en pànic. Però just a temps, apareix el Raboot. Tot i que encara està una mica distant, el Goh li agrada que tornin a estar junts.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-12T19:25:41+01:00",
-        "stop": "2026-11-12T20:59:46+01:00",
-        "title": "Revolutionary Quartet: L'enigma Gerhard",
-        "subtitle": "Revolutionary Quartet: L'enigma Gerhard",
-        "description": "Revolutionary Quartet: L'enigma Gerhard (2023), una producció de Trementina Produccions en coproducció amb Televisió de Catalunya i Xavier Bosch, la participació de Policlínica comarcal del Vendrell i la col·laboració de la Diputació de Tarragona, la Fundació 'La Caixa', el Departament de Cultura de la Generalitat de Catalunya i l' ICEC.A través del Quartet Gerhard ens endinsem en la vida i l'obra de Robert Gerhard, un dels compositors més importants del segle XX i pare de la música electrònica europea que, inexplicablement, ha quedat en l'oblit durant dècades. Quin deu ser l'enigma que envolta la seva figura?Direcció: Xavier Bosch i Josep BadellGuió: Carles Caparrós, Xavier Bosch i Josep BadellRealització: Josep BadellProductor: Sacha SolimanProductor executiu TVC: Jordi Ambròs HortensiProductor delegat TVC: Daniel Barea DelgadoDirector fotografia: Josep BadellMuntatge: Josep BadellDirector de producció: Sacha SolimanMúsica: Robert Gerhard",
-        "genre": "DOCUMENTAL DE CREACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/4/1700213986340.jpg"
+        "start": "2026-11-13T00:35:20+01:00",
+        "stop": "2026-11-13T00:59:41+01:00",
+        "title": "La pell dels murs",
+        "subtitle": "Lilly Brick-Ariadna Relea",
+        "description": "La protagonista d'aquest episodi de La Pell dels Murs és la muralista Lily Brik, pseudònim artístic de la lleidatana Mireia Serra. El documental, dirigit per Ariadna Relea, relata la història de com la pintura ha ajudat a una dona amb la personalitat trencada a reconstruir el seu jo, a empoderar-se i a convertir-se en una artista que, avui, és contractada arreu del món per fer-hi els seus murals.El resultat és un episodi delicat i molt sincer sobre una pintora que, després de gairebé 400 murals, reflexiona sobre quin és el camí que ha de prendre la seva trajectòria professional en el futur: 'Tinc una certa frustració i estic en un moment en que m'he arribat a plantejar deixar de pintar. Per això, no tinc ganes de limitar-me. Vull fer el que vulgui i estic provant coses: noves tècniques, noves textures, murals amb volum… el que em roti'. Durant el capítol, veiem la Lily duent a terme diverses obres: en espais més íntims, envoltada dels seus amics; una obra molt especial a La Manreana, una granja escola de Les Garrigues on, entre altres serveis, ofereixen teràpies mitjançant la interacció amb els cavalls, i una obra més experimental a la façana de l'Escola d'Art i Superior de Disseny Ondara, a Tàrrega.L'execució dels murals ha comptat amb la col·laboració de Montana Colors.La sèrie sobre art urbà La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-11-12T20:59:46+01:00",
-        "stop": "2026-11-12T21:02:11+01:00",
-        "title": "SENSE FI CANAL 33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-11-13T00:59:41+01:00",
+        "stop": "2026-11-13T01:26:12+01:00",
+        "title": "La pell dels murs",
+        "subtitle": "Anna Taratiel-Laura Àlvarez",
+        "description": "La Pell dels Murs dedica aquest episodi a l'artista barcelonina resident a Terrassa Anna Taratiel. La directora i guionista d'aquest capítol, Laura Álvarez, s'endinsa a la vida privada d'aquesta muralista, mostrant-nos no només com és el seu procés creatiu, sinó també com és el dia a dia d'una mare que es dedica a l'art.Sens dubte, aquesta és la proposta més agosarada i experimental de totes les de la sèrie. En estreta col·laboració amb Taratiel, Álvarez combina de diversos formats d'enregistrament per crear un còctel d'imatges sorprenents i inusualment íntimes. Mentre seguim l'execució d'un mural, també assistim a escenes quotidianes de la relació entre l'Anna Taratiel i la seva filla, enregistrades per elles mateixes. Així, el resultat final aconsegueix anar més enllà del retrat d'una artista: és tota una reflexió sobre el repte que suposa per a una dona sola compaginar la criança d'una filla preadolescent amb el ritme frenètic de creació d'una professional de l'art de categoria internacional.El mural forma part d'un projecte artístic de l'Institut La Plana de Vic. És el resultat d'un treball col·laboratiu entre l'alumnat de 1er i 2n d'ESO, que van dissenyar figures geomètriques a partir d'uns geoplans, i l'alumnat de visual i plàstica de 4rt, que hi van donar forma juntament amb l'Anna Taratiel. El resultat final és una façana plena de colors vius que absorbeix la mirada del vianant i adquireix un sentit completament nou del que tenia abans de la intervenció, quan només era una paret de ciment gris.La sèrie sobre art mural La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
