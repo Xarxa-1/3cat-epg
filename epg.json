@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-12T03:12:17.270596+00:00",
+  "updated": "2026-11-12T11:11:17.214545+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-12T00:30:00+01:00",
-        "stop": "2026-11-12T04:30:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-12T10:30:45+01:00",
+        "stop": "2026-11-12T13:55:00+01:00",
+        "title": "Tot es mou",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
+        "genre": "MAGAZINE",
+        "image": ""
       },
       {
-        "start": "2026-11-12T04:30:00+01:00",
-        "stop": "2026-11-12T05:18:34+01:00",
-        "title": "Cava de Blues",
-        "subtitle": "The Big Jamboree",
-        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+        "start": "2026-11-12T13:55:00+01:00",
+        "stop": "2026-11-12T14:29:59+01:00",
+        "title": "Telenotícies comarques",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-12T01:00:00+01:00",
-        "stop": "2026-11-12T06:00:00+01:00",
+        "start": "2026-11-12T12:00:00+01:00",
+        "stop": "2026-11-12T13:55:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,73 +72,73 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-12T06:00:00+01:00",
-        "stop": "2026-11-12T08:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-12T13:55:00+01:00",
+        "stop": "2026-11-12T14:30:00+01:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-12T02:42:47+01:00",
-        "stop": "2026-11-12T04:41:56+01:00",
-        "title": "Bàsquet",
-        "subtitle": "Kids&Us Manresa-Bosna Sarajevo / Eurocup / J7",
-        "description": "El conjunt del Bages aspira a la cinquena victòria en set partits per seguir a la part alta de la classificació.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"
+        "start": "2026-11-12T12:05:02+01:00",
+        "stop": "2026-11-12T13:00:00+01:00",
+        "title": "Toni Bou",
+        "subtitle": " Els 40 de Toni Bou",
+        "description": "Toni Bou és l'esportista que acumula més títols mundials al seu palmarès. El pilot de Piera va iniciar el seu domini del trial l'any 2007 i, des d'aleshores ja fa 20 anys que no coneix la derrota. El documental 'Els 40 de Toni Bou' repassa la vida del personatge a través del testimoni dels que l'han acompanyat en aquest exitós camí: companys d'equip, família, i grans referents de l'esport mundial com Pep Guardiola, Marc Gasol, Alèxia Putellas o Rafa Nadal. Especialment interessant és la conversa íntima que manté amb Marc Márquez, on el pilot de Cervera ens ajudarà a desvelar si el Toni ja en té prou amb 40 títols, o seguirà pilotant tot i que ja ha fet els 40 anys.",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/6/1794307781366.jpg"
       },
       {
-        "start": "2026-11-12T04:41:56+01:00",
-        "stop": "2026-11-12T04:52:12+01:00",
-        "title": "E3",
-        "subtitle": "Eivissa Sprint Triatló",
-        "description": "Tercera edició de la prova amb la participació destacada dels campions d'Europa de duatló Arcadi Sala i Lucía Gracia.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/0/1779099341309.jpg"
+        "start": "2026-11-12T13:00:00+01:00",
+        "stop": "2026-11-12T14:01:03+01:00",
+        "title": "Esport Club",
+        "subtitle": "",
+        "description": "En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-12T03:53:06+01:00",
-        "stop": "2026-11-12T04:14:11+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Fornèrix",
-        "description": "Avui, el pare de la Marinette celebra els quaranta anys, però el Roland, el seu avi, no hi serà present. Com que ningú li explica què passa amb el seu avi, la Marinette decideix anar a parlar amb ell. Però l'Esfinx aprofitarà la ràbia del vell forner per convertir-lo en un supermalvat ancorat en el passat.",
+        "start": "2026-11-12T11:58:22+01:00",
+        "stop": "2026-11-12T12:20:07+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Octopus Kratticus",
+        "description": "L'Aviva ha enviat en Chris i en Martin a recuperar el Vestit de Poders Animals que han perdut en una fossa de l'Àrtic amb el Robopop, un supersubmarí inspirat en el món animal. Allà es trobaran amb el Set, un animal que d'entrada sembla una espècie de pop nova, però que ben aviat s'adonaran que té molts cops amagats. Què deu ser?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-12T04:14:11+01:00",
-        "stop": "2026-11-12T04:26:06+01:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "La castanya màgica",
-        "description": "La Trufa troba una pedra molt brillant a la vora del riu. Quan l'ensenya a en Pinxo, ell es queda fascinat i la vol costi el que costi. Al final aconsegueix enredar la seva germana petita i l'hi canvia per una 'castanya màgica', que, segons ell, li concedirà tots els desitjos. Però la Trufa de seguida s'adona que la castanya no en té res, de màgica. ",
+        "start": "2026-11-12T12:20:07+01:00",
+        "stop": "2026-11-12T12:41:07+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Caminem per sobre l'aigua",
+        "description": "En Chris i en Martin són a Costa Rica intentant trobar un basilisc, un llangardaix capaç de caminar per sobre l'aigua, per incorporar aquest superpoder als seus vestits. De fet, els anirà molt bé per aturar la Donita Donata, que té intenció de guanyar el premi al millor dissenyador de barrets de París amb un barret de basilisc! Avui, les curses són a l'aigua!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-12T04:04:46+01:00",
-        "stop": "2026-11-12T04:52:54+01:00",
-        "title": "This Is Art",
-        "subtitle": "Inspiració",
-        "description": "Hi ha qui s'inspira mirant a través d'una finestra, hi ha qui s'inspira en un paisatge o en un color; d'altres en la llum, com els impressionistes. N'hi ha, però, que s'inspiren en el rostre de la persona estimada.La inspiració sempre et pot arribar en el moment més inesperat i de la manera més insospitada. Sempre ha estat una font de problemes per als artistes, però també la més gran de les satisfaccions. I, per descomptat, la base de tota creació artística. Per parlar de tot això, viatjarem des d'Atenes fins a París. Pujarem al Mont Parnàs, la pàtria simbòlica dels artistes, on rebrem la visita de les nou muses de la inspiració, i on, a més, xerrarem amb en Teodorus Terzopoulus, prestigiós director teatral, sobre l'essència del teatre com a mirall de la condició humana.A París, visitarem un estudi d'artistes, recorrerem els carrers practicant l''art-crossing' i ens emocionarem amb els infortunats amors de Modigliani i la seva musa, Jeanne Hebutterne.Per acabar, l'Orquestra Simfònica del Vallès ens delectarà amb una magistral peça d'Héctor Berlioz, inspirada en la dona que més va estimar, la Harriet Smithson. Es tracta de 'La simfonia fantàstica', una de les obres musicals més brillants mai compostes.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-12T12:01:53+01:00",
+        "stop": "2026-11-12T12:09:28+01:00",
+        "title": "Cuines",
+        "subtitle": "Melós de vedella amb rossinyols i cervesa artesana",
+        "description": "Restaurant Gastonomic LLEIDACuiner Daniel CatalaDificultat: mitjanaTemps d'elaboració: 5 horesProducte principal: galtes de vedellaTemporada: tardor",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-11-12T04:52:54+01:00",
-        "stop": "2026-11-12T05:40:05+01:00",
-        "title": "La Renaixença",
-        "subtitle": "El transceptor",
-        "description": "Hi ha dies que ens llevem amb ganes de tornar a ser canalla, per això hem decidit dedicar un capítol al transceptor, per recordar aquells dies que no existia el telèfon i parlàvem amb els amics a través d'aquest aparell. Ens visita en Francesc Ferrer, un actor que diu que encara no ho ha petat, però tots estem d'acord que això no es pot dir si has fet 'Pop ràpid'. A 'Històries per passejar el gos' sortim amb la Nala pel Circ dels Horrors d'Erwin, Tennessee, on va morir l'elefanta Mary el 1916.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-11-12T12:09:28+01:00",
+        "stop": "2026-11-12T12:17:02+01:00",
+        "title": "Cuines",
+        "subtitle": "Meló a la planxa amb amanida de truita de riu i vinagreta de fonoll",
+        "description": "Restaurant Gastronimic LleidaDaniel CatalàDificultat: mitjanaTemps d'elaboració: 3 hores +12 hores de marinat Producte principal: meló/truita de riuTemporada: tardor",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       }
     ],
     "oca1": [],
