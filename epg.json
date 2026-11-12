@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-11T22:16:09.558338+00:00",
+  "updated": "2026-11-12T03:12:17.270596+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-11T21:57:35+01:00",
-        "stop": "2026-11-11T23:36:38+01:00",
-        "title": "Pel·lícula",
-        "subtitle": "Casa en flames",
-        "description": "La Montse està molt emocionada perquè passarà un cap de setmana amb tota la seva família a la seva casa de Cadaqués, a la Costa Brava. Fa temps que està divorciada, el seu ex té una nova parella, els seus fills han crescut i ja fa temps que cadascú fa la seva vida sense fer-li cas, però a la Montse res ni ningú aconseguirà fotre-li els ànims. Fa massa temps que espera aquest moment, fa massa temps que somia amb ell: aquest cap de setmana serà si o si un cap de setmana ideal... encara que per això hagi de cremar-ho tot.Direcció: Dani de la OrdenIntèrprets: Emma Vilarasau, Enric Auquer, Maria Rodriguez Soto, Alberto San Juan, Clara Segura, José Pérez-Ocaña, Macarena GarcíaGuió: Eduard SolaFotografia: Pep Gay de LiébanaMúsica: Maria Chiara CasàProducció: producció de Sábado Películas i Playtime Movies en coproducció amb 3Cat, Atresmedia Cine i ElioFilm amb la col·laboració de l'ICAA i ICEC i la participació de NETFLIX, Atresmedia.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
-      },
-      {
-        "start": "2026-11-11T23:36:38+01:00",
-        "stop": "2026-11-12T00:37:23+01:00",
+        "start": "2026-11-12T00:30:00+01:00",
+        "stop": "2026-11-12T04:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-12T04:30:00+01:00",
+        "stop": "2026-11-12T05:18:34+01:00",
+        "title": "Cava de Blues",
+        "subtitle": "The Big Jamboree",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-11T21:50:00+01:00",
-        "stop": "2026-11-11T23:30:00+01:00",
-        "title": "Pel·lícula",
-        "subtitle": "Casa en flames",
-        "description": "La Montse està molt emocionada perquè passarà un cap de setmana amb tota la seva família a la seva casa de Cadaqués, a la Costa Brava. Fa temps que està divorciada, el seu ex té una nova parella, els seus fills han crescut i ja fa temps que cadascú fa la seva vida sense fer-li cas, però a la Montse res ni ningú aconseguirà fotre-li els ànims. Fa massa temps que espera aquest moment, fa massa temps que somia amb ell: aquest cap de setmana serà si o si un cap de setmana ideal... encara que per això hagi de cremar-ho tot.Direcció: Dani de la OrdenIntèrprets: Emma Vilarasau, Enric Auquer, Maria Rodriguez Soto, Alberto San Juan, Clara Segura, José Pérez-Ocaña, Macarena GarcíaGuió: Eduard SolaFotografia: Pep Gay de LiébanaMúsica: Maria Chiara CasàProducció: producció de Sábado Películas i Playtime Movies en coproducció amb 3Cat, Atresmedia Cine i ElioFilm amb la col·laboració de l'ICAA i ICEC i la participació de NETFLIX, Atresmedia.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
+        "start": "2026-11-12T01:00:00+01:00",
+        "stop": "2026-11-12T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-11T23:30:00+01:00",
-        "stop": "2026-11-12T00:30:00+01:00",
+        "start": "2026-11-12T06:00:00+01:00",
+        "stop": "2026-11-12T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-11T06:00:00+01:00",
-        "stop": "2026-11-12T00:00:00+01:00",
-        "title": "Emissió de TV3 per ES3",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
+        "start": "2026-11-12T02:42:47+01:00",
+        "stop": "2026-11-12T04:41:56+01:00",
+        "title": "Bàsquet",
+        "subtitle": "Kids&Us Manresa-Bosna Sarajevo / Eurocup / J7",
+        "description": "El conjunt del Bages aspira a la cinquena victòria en set partits per seguir a la part alta de la classificació.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"
       },
       {
-        "start": "2026-11-12T00:00:00+01:00",
-        "stop": "2026-11-12T00:55:41+01:00",
-        "title": "Toni Bou",
-        "subtitle": " Els 40 de Toni Bou",
-        "description": "Toni Bou és l'esportista que acumula més títols mundials al seu palmarès. El pilot de Piera va iniciar el seu domini del trial l'any 2007 i, des d'aleshores ja fa 20 anys que no coneix la derrota. El documental 'Els 40 de Toni Bou' repassa la vida del personatge a través del testimoni dels que l'han acompanyat en aquest exitós camí: companys d'equip, família, i grans referents de l'esport mundial com Pep Guardiola, Marc Gasol, Alèxia Putellas o Rafa Nadal. Especialment interessant és la conversa íntima que manté amb Marc Márquez, on el pilot de Cervera ens ajudarà a desvelar si el Toni ja en té prou amb 40 títols, o seguirà pilotant tot i que ja ha fet els 40 anys.",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/6/1794307781366.jpg"
+        "start": "2026-11-12T04:41:56+01:00",
+        "stop": "2026-11-12T04:52:12+01:00",
+        "title": "E3",
+        "subtitle": "Eivissa Sprint Triatló",
+        "description": "Tercera edició de la prova amb la participació destacada dels campions d'Europa de duatló Arcadi Sala i Lucía Gracia.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/9/0/1779099341309.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-11T23:00:54+01:00",
-        "stop": "2026-11-11T23:22:40+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El Bocabala, el salvador de l'escull",
-        "description": "En Chris i en Martin són a les profunditats de l'oceà estudiant com uns animals marins molt estranys construeixen els esculls de corall, l'estructura vivent més gran del món. Aviat s'hi trobaran els peixos robot d'en Zach i la Donita, que tenen intenció d'endur-se tot el corall per fer-ne joies. El salvador d'avui és el Bocabala, l'animal que fa l'atac més ràpid del món!",
+        "start": "2026-11-12T03:53:06+01:00",
+        "stop": "2026-11-12T04:14:11+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Fornèrix",
+        "description": "Avui, el pare de la Marinette celebra els quaranta anys, però el Roland, el seu avi, no hi serà present. Com que ningú li explica què passa amb el seu avi, la Marinette decideix anar a parlar amb ell. Però l'Esfinx aprofitarà la ràbia del vell forner per convertir-lo en un supermalvat ancorat en el passat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-11T23:22:40+01:00",
-        "stop": "2026-11-11T23:43:40+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Aventures a la neu",
-        "description": "Després d'haver curat uns conills d'Assam, els germans Kratt posen rumb cap als turons càlids i assolellats de l'Àsia per deixar-los en llibertat. El que no saben és que pel camí els perdran pels boscos glaçats de l'Amèrica del Nord i que els caldran els poders dels basiliscs, de les llebres i dels linxs per localitzar-los abans que sigui massa tard.",
+        "start": "2026-11-12T04:14:11+01:00",
+        "stop": "2026-11-12T04:26:06+01:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "La castanya màgica",
+        "description": "La Trufa troba una pedra molt brillant a la vora del riu. Quan l'ensenya a en Pinxo, ell es queda fascinat i la vol costi el que costi. Al final aconsegueix enredar la seva germana petita i l'hi canvia per una 'castanya màgica', que, segons ell, li concedirà tots els desitjos. Però la Trufa de seguida s'adona que la castanya no en té res, de màgica. ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-11T20:59:29+01:00",
-        "stop": "2026-11-11T23:59:48+01:00",
-        "title": "Emissió de TV3 per C33",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
+        "start": "2026-11-12T04:04:46+01:00",
+        "stop": "2026-11-12T04:52:54+01:00",
+        "title": "This Is Art",
+        "subtitle": "Inspiració",
+        "description": "Hi ha qui s'inspira mirant a través d'una finestra, hi ha qui s'inspira en un paisatge o en un color; d'altres en la llum, com els impressionistes. N'hi ha, però, que s'inspiren en el rostre de la persona estimada.La inspiració sempre et pot arribar en el moment més inesperat i de la manera més insospitada. Sempre ha estat una font de problemes per als artistes, però també la més gran de les satisfaccions. I, per descomptat, la base de tota creació artística. Per parlar de tot això, viatjarem des d'Atenes fins a París. Pujarem al Mont Parnàs, la pàtria simbòlica dels artistes, on rebrem la visita de les nou muses de la inspiració, i on, a més, xerrarem amb en Teodorus Terzopoulus, prestigiós director teatral, sobre l'essència del teatre com a mirall de la condició humana.A París, visitarem un estudi d'artistes, recorrerem els carrers practicant l''art-crossing' i ens emocionarem amb els infortunats amors de Modigliani i la seva musa, Jeanne Hebutterne.Per acabar, l'Orquestra Simfònica del Vallès ens delectarà amb una magistral peça d'Héctor Berlioz, inspirada en la dona que més va estimar, la Harriet Smithson. Es tracta de 'La simfonia fantàstica', una de les obres musicals més brillants mai compostes.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-11-11T23:59:48+01:00",
-        "stop": "2026-11-12T00:54:09+01:00",
-        "title": "1942",
-        "subtitle": "Si cal triar",
-        "description": "A la primavera del 1942, les forces de l'Eix avancen en tots els fronts. Llavors tothom ha de triar quin paper vol tenir a la història. Com l'André, que amb quinze anys s'apunta a la Resistència francesa. O en Ladislav, que s'arrisca per ajudar dos paracaigudistes que han vingut a fer una alta missió a Txecoslovàquia. O la Mary, una americana d'origen japonès obligada a confinar-se en un camp de concentració...",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"
+        "start": "2026-11-12T04:52:54+01:00",
+        "stop": "2026-11-12T05:40:05+01:00",
+        "title": "La Renaixença",
+        "subtitle": "El transceptor",
+        "description": "Hi ha dies que ens llevem amb ganes de tornar a ser canalla, per això hem decidit dedicar un capítol al transceptor, per recordar aquells dies que no existia el telèfon i parlàvem amb els amics a través d'aquest aparell. Ens visita en Francesc Ferrer, un actor que diu que encara no ho ha petat, però tots estem d'acord que això no es pot dir si has fet 'Pop ràpid'. A 'Històries per passejar el gos' sortim amb la Nala pel Circ dels Horrors d'Erwin, Tennessee, on va morir l'elefanta Mary el 1916.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
