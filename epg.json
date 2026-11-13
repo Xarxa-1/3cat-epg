@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-12T23:56:40.957950+00:00",
+  "updated": "2026-11-13T05:16:55.446316+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,8 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-13T00:30:07+01:00",
-        "stop": "2026-11-13T00:59:00+01:00",
+        "start": "2026-11-13T06:00:00+01:00",
+        "stop": "2026-11-13T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -52,19 +52,19 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-13T00:59:00+01:00",
-        "stop": "2026-11-13T04:30:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-13T08:00:00+01:00",
+        "stop": "2026-11-13T10:30:00+01:00",
+        "title": "Matins",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-13T00:30:00+01:00",
-        "stop": "2026-11-13T01:00:00+01:00",
+        "start": "2026-11-13T06:00:00+01:00",
+        "stop": "2026-11-13T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,28 +72,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-13T01:00:00+01:00",
-        "stop": "2026-11-13T06:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-13T08:00:00+01:00",
+        "stop": "2026-11-13T10:30:00+01:00",
+        "title": "Matins",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-13T00:48:42+01:00",
-        "stop": "2026-11-13T02:18:02+01:00",
-        "title": "Onze",
-        "subtitle": "De la Fuente defensa Lamine; Post Barça-Arsenal i 'El predicador'",
-        "description": "Víctor Lozano, David Bernabeu, Paula Reverter i Juvenal Edjogo comenten les paraules del seleccionador espanyol sobre l'absència de Lamine Yamal en el partit contra Txèquia. L'Òscar Pérez-Dolz predica els manaments del bon culer.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-11-13T06:20:53+01:00",
+        "stop": "2026-11-13T06:39:18+01:00",
+        "title": "Top gols La Lliga",
+        "subtitle": "Jornada 12",
+        "description": "'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.",
+        "genre": "ESPECIALS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"
       },
       {
-        "start": "2026-11-13T02:18:02+01:00",
-        "stop": "2026-11-13T03:19:05+01:00",
+        "start": "2026-11-13T06:39:18+01:00",
+        "stop": "2026-11-13T06:53:59+01:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,41 +103,41 @@
     ],
     "sx3": [
       {
-        "start": "2026-11-13T00:46:14+01:00",
-        "stop": "2026-11-13T01:06:53+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "La llúdria Llisca",
-        "description": "Els germans Kratt descobreixen un cadell de llúdria. Pensen que s'ha perdut i intenten trobar la seva família mentre l'ensenyen a sobreviure al pantà dels xiprers de Florida. ",
+        "start": "2026-11-13T06:11:58+01:00",
+        "stop": "2026-11-13T06:23:16+01:00",
+        "title": "L'abella Maia",
+        "subtitle": "El tastador de pol·len",
+        "description": "La Maia ha tastat un pol·len d'una flor amb forma de campaneta que tenia un gust molt estrany i ara no es troba gaire bé. Tots els amics li busquen remeis d'allò més estrambòtics, però l'únic que fa pinta de funcionar és el del Ben, una bola de pol·len amb fems que resulta que ha desaparegut... i que està a punt de cruspir-se-la la reina! Ho podran evitar a temps?!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-13T01:06:53+01:00",
-        "stop": "2026-11-13T01:26:48+01:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "Adeu, amic!",
-        "description": "Els nostres herois han anat a Hoenn per investigar la migració dels Beautifly, i han d'aprofitar el moment just i estar preparats per quan s'alci el vent del nord. Mentrestant, el Raboot s'escapa a les nits i al Goh li sap greu la seva actitud. Buscant una resposta, el Goh i l'Ash segueixen el Raboot i descobreixen que està ajudant els Pokémon locals a defensar el seu territori competint en un combat de ball. El Goh decideix que el Raboot serà més feliç sense ell, però quan està a punt d'anar-se'n, entra en pànic. Però just a temps, apareix el Raboot. Tot i que encara està una mica distant, el Goh li agrada que tornin a estar junts.",
+        "start": "2026-11-13T06:23:16+01:00",
+        "stop": "2026-11-13T06:34:31+01:00",
+        "title": "L'abella Maia",
+        "subtitle": "Una sorpresa per a la Maia",
+        "description": "Els animalons del prat estan contents perquè la Maia sempre els ajuda molt i han decidit preparar-li una festa sorpresa. En Willi, que és el seu millor amic, vol fer un regal súper, súper xulo, per això ha decidit que li buscarà un estel fugaç, perquè pugui pensar un desig per tenir qualsevol cosa. Ell n'hi vol regalar un de veritat, però primer l'haurà de trobar!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-13T00:35:20+01:00",
-        "stop": "2026-11-13T00:59:41+01:00",
-        "title": "La pell dels murs",
-        "subtitle": "Lilly Brick-Ariadna Relea",
-        "description": "La protagonista d'aquest episodi de La Pell dels Murs és la muralista Lily Brik, pseudònim artístic de la lleidatana Mireia Serra. El documental, dirigit per Ariadna Relea, relata la història de com la pintura ha ajudat a una dona amb la personalitat trencada a reconstruir el seu jo, a empoderar-se i a convertir-se en una artista que, avui, és contractada arreu del món per fer-hi els seus murals.El resultat és un episodi delicat i molt sincer sobre una pintora que, després de gairebé 400 murals, reflexiona sobre quin és el camí que ha de prendre la seva trajectòria professional en el futur: 'Tinc una certa frustració i estic en un moment en que m'he arribat a plantejar deixar de pintar. Per això, no tinc ganes de limitar-me. Vull fer el que vulgui i estic provant coses: noves tècniques, noves textures, murals amb volum… el que em roti'. Durant el capítol, veiem la Lily duent a terme diverses obres: en espais més íntims, envoltada dels seus amics; una obra molt especial a La Manreana, una granja escola de Les Garrigues on, entre altres serveis, ofereixen teràpies mitjançant la interacció amb els cavalls, i una obra més experimental a la façana de l'Escola d'Art i Superior de Disseny Ondara, a Tàrrega.L'execució dels murals ha comptat amb la col·laboració de Montana Colors.La sèrie sobre art urbà La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.",
+        "start": "2026-11-13T06:09:00+01:00",
+        "stop": "2026-11-13T06:22:24+01:00",
+        "title": "Les Feres",
+        "subtitle": "Lluc",
+        "description": "Des de Santa Maria de Palautordera, Lluc ha anat donant forma a un repertori que ajunta trames pròpies de les sonoritats urbanes amb fiblades de pop. El músic, que es va iniciar com a lletrista als setze anys, va debutar amb 18 amb el disc 'De x vida' (2020). Altres treballs, com 'Benvolguda nostàlgia' (2022), 'Peixcru's Shisha Lounge' (2023) o 'Vam néixer per fer això' (2024) han personalitzat una manera de dir i de fer reflexiva, sincera i sempre en recerca constant.  Lluc Planas - veu Guillem Lloret - teclat Jaume Güibass - guitarra Joan Buquet - percussió Oriol Darnés - veu  '#VamNeixerPerFerAixo' 'Real' 'Família' '2002' 'No som res'  Localització: enregistrat a l'església vella de Sant Andreu de Vallgorguina Data: 8 de març del 2025  ",
         "genre": "ALTRES",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
       },
       {
-        "start": "2026-11-13T00:59:41+01:00",
-        "stop": "2026-11-13T01:26:12+01:00",
-        "title": "La pell dels murs",
-        "subtitle": "Anna Taratiel-Laura Àlvarez",
-        "description": "La Pell dels Murs dedica aquest episodi a l'artista barcelonina resident a Terrassa Anna Taratiel. La directora i guionista d'aquest capítol, Laura Álvarez, s'endinsa a la vida privada d'aquesta muralista, mostrant-nos no només com és el seu procés creatiu, sinó també com és el dia a dia d'una mare que es dedica a l'art.Sens dubte, aquesta és la proposta més agosarada i experimental de totes les de la sèrie. En estreta col·laboració amb Taratiel, Álvarez combina de diversos formats d'enregistrament per crear un còctel d'imatges sorprenents i inusualment íntimes. Mentre seguim l'execució d'un mural, també assistim a escenes quotidianes de la relació entre l'Anna Taratiel i la seva filla, enregistrades per elles mateixes. Així, el resultat final aconsegueix anar més enllà del retrat d'una artista: és tota una reflexió sobre el repte que suposa per a una dona sola compaginar la criança d'una filla preadolescent amb el ritme frenètic de creació d'una professional de l'art de categoria internacional.El mural forma part d'un projecte artístic de l'Institut La Plana de Vic. És el resultat d'un treball col·laboratiu entre l'alumnat de 1er i 2n d'ESO, que van dissenyar figures geomètriques a partir d'uns geoplans, i l'alumnat de visual i plàstica de 4rt, que hi van donar forma juntament amb l'Anna Taratiel. El resultat final és una façana plena de colors vius que absorbeix la mirada del vianant i adquireix un sentit completament nou del que tenia abans de la intervenció, quan només era una paret de ciment gris.La sèrie sobre art mural La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.",
-        "genre": "ALTRES",
+        "start": "2026-11-13T06:22:24+01:00",
+        "stop": "2026-11-13T06:42:54+01:00",
+        "title": "Quèquicom",
+        "subtitle": "Montserrat s'enfonsa?",
+        "description": "Per què cau Montserrat? La reportera Anna Lasaga hi puja per entendre per què es desprenen blocs de roques de milers de tones.Enginyers de Geocat li ensenyen totes les mesures que es prenen per evitar danys a les persones, des de clavar les roques amb claus fins a instal·lar malles que suporten pesos de deu tones. Però el futur de la muntanya està escrit: el seu desmembrament és inevitable. Això ho expliquen el monjo escalador Ramon Oraníes i el geòleg Isaac Camps, els quals aclareixen també per què Montserrat té aquest relleu tan especial. Tot comença quan a Catalunya hi havia un mar interior i no existia el Mediterrani. El final de la història, a 'Quèquicom'.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       }
     ],
