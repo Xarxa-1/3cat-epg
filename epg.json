@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-13T13:18:30.440433+00:00",
+  "updated": "2026-11-13T20:34:30.208136+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-13T13:55:01+01:00",
-        "stop": "2026-11-13T14:30:00+01:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-11-13T21:00:00+01:00",
+        "stop": "2026-11-13T22:07:17+01:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
         "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-11-13T14:30:00+01:00",
-        "stop": "2026-11-13T15:30:12+01:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "start": "2026-11-13T22:00:02+01:00",
+        "stop": "2026-11-13T22:23:59+01:00",
+        "title": "Després de tu",
+        "subtitle": "El perdó",
+        "description": "En Pau no pot passar per alt el descobriment del secret amagat de la Raquel. Necessita respostes i les busca en l'Enric, company de feina de la Raquel. En Pau descobreix la veritat i li resulta dura la sensació de no haver conegut de veritat la seva dona. L'Alba viu una epifania sobre el perdó amb la Fàtima, després d'una forta discussió amb ella que li recorda l'última conversa amb la mare. ",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-13T13:55:00+01:00",
-        "stop": "2026-11-13T14:30:00+01:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-11-13T21:00:00+01:00",
+        "stop": "2026-11-13T22:05:00+01:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
         "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-11-13T14:30:00+01:00",
-        "stop": "2026-11-13T16:30:00+01:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-11-13T22:05:00+01:00",
+        "stop": "2026-11-13T23:30:00+01:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-13T14:02:59+01:00",
-        "stop": "2026-11-13T15:10:13+01:00",
-        "title": "Esport Club",
-        "subtitle": "Barça-Arsenal, 'Històries del futbol', Joan Salarich i tertúlia",
-        "description": "El Barça no pot passar de l'empat contra l'Arsenal. En parlem amb Mireia Vera. Joaquín Seys i Ibrahim Maza a 'Històries del futbol', amb Marc Mayola. Entrevistem Joan Salarich, director del Festival de Cinema de Muntanya de Torelló. A la tertúlia ens acompanyen David Sánchez, Raúl Fuentes i Nacho Peña.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-11-13T21:32:13+01:00",
+        "stop": "2026-11-13T21:59:45+01:00",
+        "title": "E3",
+        "subtitle": "Matchday Champions Women J4",
+        "description": "Les escenes més destacades a la 4a jornada de la fase de lliga d'aquesta Champions 2026-2027.",
+        "genre": "REPORTATGES",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"
       },
       {
-        "start": "2026-11-13T15:10:13+01:00",
-        "stop": "2026-11-13T16:07:31+01:00",
-        "title": "La travessa",
-        "subtitle": "L'impossible",
-        "description": "La ruta s'endinsa ja en els Pirineus, i ho fa per la porta gran, amb l'etapa més llarga de la història de 'La travessa'. Suposarà un esforç titànic per a uns aventurers que arrosseguen lesions des de fa dies. Els moments difícils són una bona oportunitat per saber com funciona el cervell de cadascú, tant si es coneixen des de fa dies com des de fa anys. Fins on arriba la seva ambició? I sobretot, què estarien disposats a fer per acostar-se a la gran final? Quan el premi és a tocar, no hi ha amics que valguin... O potser sí.",
-        "genre": "CONCURS",
-        "image": ""
+        "start": "2026-11-13T21:59:45+01:00",
+        "stop": "2026-11-13T23:00:00+01:00",
+        "title": "Tot Costa",
+        "subtitle": "Empat amb regust amarg",
+        "description": "El Barça va empatar a un amb l'Arsenal al Camp Nou amb xiulada per a Ona Batlle. En parlem amb Bernat Soler, Gemma Herrero i Ferran Correas. També analitzem el partit amb Mireia Vera. Sentirem les explicacions de Raphinha al Brasil i les declaracions de Koeman sobre Frenkie de Jong. Entrevistarem el capità de l'Espanyol, Javi Puado, i farem la prèvia del derbi barceloní Europa-Sant Andreu",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-13T14:04:08+01:00",
-        "stop": "2026-11-13T14:26:55+01:00",
+        "start": "2026-11-13T21:22:55+01:00",
+        "stop": "2026-11-13T21:40:13+01:00",
         "title": "One piece",
-        "subtitle": "Un món desconegut! El regne Tontatta!",
-        "description": "En Sanji rep informació inquietant que podria suposar un problema per als seus amics, en Ruffy es prepara per lluitar i un poble de nans captura la Nico Robin!",
+        "subtitle": "L'estratègia del segle! En Doflamingo mou fitxa!",
+        "description": "Malgrat de l'intent d'en Sanji per advertir-lo, en Law es troba en perill de mort per l'emboscada d'en Doflamingo. Mentrestant, en Ruffy no pot ocultar la seva veritable identitat quan comença la batalla al coliseu!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-13T14:26:55+01:00",
-        "stop": "2026-11-13T14:44:13+01:00",
+        "start": "2026-11-13T21:40:13+01:00",
+        "stop": "2026-11-13T21:59:41+01:00",
         "title": "One piece",
-        "subtitle": "L'estratègia del segle! En Doflamingo mou fitxa!",
-        "description": "Malgrat de l'intent d'en Sanji per advertir-lo, en Law es troba en perill de mort per l'emboscada d'en Doflamingo. Mentrestant, en Ruffy no pot ocultar la seva veritable identitat quan comença la batalla al coliseu!",
+        "subtitle": "Fa tremolar cel i terra! El poder de l'almirall Fujitora!",
+        "description": "Quan el seu pla fracassa, en Law ha de lluitar contra dos adversaris poderosos per sobreviure. A la ciutat, en Sanji s'acomiada de la seva estimada nova amiga, i en Ruffy s'enfronta al Brau Despietat!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-13T13:57:59+01:00",
-        "stop": "2026-11-13T14:44:47+01:00",
-        "title": "La Renaixença",
-        "subtitle": "Millors moments - setmana 18",
-        "description": "Hem parlat del flotador, de la clau, del pal de golf i de la paella. Quatre objectes que aparentment no tenen cap relació, i és que no la tenen. Per això són 4 capítols separats que us hem deixat aquí juntets perquè els pugueu recordar. També hi trobareu les xerrades amb els qui han vingut a seure al nostre escó: en Dídac Costa, la Maria Jesús Puerta, la Mar Pujol i en David Repullés.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-11-13T21:11:37+01:00",
+        "stop": "2026-11-13T21:39:13+01:00",
+        "title": "Jet lag",
+        "subtitle": "MENTIDES",
+        "description": "La Mariona rep la visita del seu ex nòvio que està molt content i a punt de casar-se amb una noia catalana. La Mariona li diu que ella també està molt contenta amb el seu nòvio actual... el Mario. Però el Mario no serà la única persona a qui la Mariona involucri amb les seves mentides. La Sílvia, per la seva part, serà víctima d'un enquestador sense escrúpols.",
+        "genre": "TELESÈRIE",
+        "image": ""
       },
       {
-        "start": "2026-11-13T14:44:47+01:00",
-        "stop": "2026-11-13T15:31:24+01:00",
-        "title": "La Renaixença",
-        "subtitle": "La guardiola",
-        "description": "Tots hem tingut una guardiola amb forma de porquet i heu de saber que té aquesta forma per una confusió lingüística: a Anglaterra s'anomenava 'pygg' un tipus d'argila i algú va entendre 'pig' (porc en anglès). 'Apreneu idiomes', deien. I així es va confondre tota la humanitat. Ens visita la Maria Nicolau, que esmorza tres tasses de cafè. Potser això té molt a veure amb l'energia que porta a sobre sempre la que veiem. Sortim a passejar en Winter, un gos d'Irlanda, per l'accident de la plataforma Byford Dolphin, el novembre del 1983.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-11-13T21:39:13+01:00",
+        "stop": "2026-11-13T22:01:18+01:00",
+        "title": "Jet lag",
+        "subtitle": "CLAUSURA",
+        "description": "La Mariona rep la visita del seu exnòvio, que està molt content i a punt de casar-se amb una noia. La Mariona li diu que ella també està molt contenta amb el seu nòvio actual... el Mario. Però el Mario no serà l'única persona que la Mariona involucrarà amb les seves mentides. La Sílvia, per la seva banda, serà víctima d'un enquestador sense escrúpols. Actors convidats: Eduard Farelo, Cati Solivellas i Carles Martínez.",
+        "genre": "TELESÈRIE",
+        "image": ""
       }
     ],
     "oca1": [],
