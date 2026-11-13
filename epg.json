@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-13T05:16:55.446316+00:00",
+  "updated": "2026-11-13T13:18:30.440433+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-13T06:00:00+01:00",
-        "stop": "2026-11-13T08:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-13T13:55:01+01:00",
+        "stop": "2026-11-13T14:30:00+01:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       },
       {
-        "start": "2026-11-13T08:00:00+01:00",
-        "stop": "2026-11-13T10:30:00+01:00",
-        "title": "Matins",
+        "start": "2026-11-13T14:30:00+01:00",
+        "stop": "2026-11-13T15:30:12+01:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-13T06:00:00+01:00",
-        "stop": "2026-11-13T08:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-13T13:55:00+01:00",
+        "stop": "2026-11-13T14:30:00+01:00",
+        "title": "Telenotícies comarques",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
       },
       {
-        "start": "2026-11-13T08:00:00+01:00",
-        "stop": "2026-11-13T10:30:00+01:00",
-        "title": "Matins",
+        "start": "2026-11-13T14:30:00+01:00",
+        "stop": "2026-11-13T16:30:00+01:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-13T06:20:53+01:00",
-        "stop": "2026-11-13T06:39:18+01:00",
-        "title": "Top gols La Lliga",
-        "subtitle": "Jornada 12",
-        "description": "'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.",
-        "genre": "ESPECIALS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"
+        "start": "2026-11-13T14:02:59+01:00",
+        "stop": "2026-11-13T15:10:13+01:00",
+        "title": "Esport Club",
+        "subtitle": "Barça-Arsenal, 'Històries del futbol', Joan Salarich i tertúlia",
+        "description": "El Barça no pot passar de l'empat contra l'Arsenal. En parlem amb Mireia Vera. Joaquín Seys i Ibrahim Maza a 'Històries del futbol', amb Marc Mayola. Entrevistem Joan Salarich, director del Festival de Cinema de Muntanya de Torelló. A la tertúlia ens acompanyen David Sánchez, Raúl Fuentes i Nacho Peña.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       },
       {
-        "start": "2026-11-13T06:39:18+01:00",
-        "stop": "2026-11-13T06:53:59+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-11-13T15:10:13+01:00",
+        "stop": "2026-11-13T16:07:31+01:00",
+        "title": "La travessa",
+        "subtitle": "L'impossible",
+        "description": "La ruta s'endinsa ja en els Pirineus, i ho fa per la porta gran, amb l'etapa més llarga de la història de 'La travessa'. Suposarà un esforç titànic per a uns aventurers que arrosseguen lesions des de fa dies. Els moments difícils són una bona oportunitat per saber com funciona el cervell de cadascú, tant si es coneixen des de fa dies com des de fa anys. Fins on arriba la seva ambició? I sobretot, què estarien disposats a fer per acostar-se a la gran final? Quan el premi és a tocar, no hi ha amics que valguin... O potser sí.",
+        "genre": "CONCURS",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-13T06:11:58+01:00",
-        "stop": "2026-11-13T06:23:16+01:00",
-        "title": "L'abella Maia",
-        "subtitle": "El tastador de pol·len",
-        "description": "La Maia ha tastat un pol·len d'una flor amb forma de campaneta que tenia un gust molt estrany i ara no es troba gaire bé. Tots els amics li busquen remeis d'allò més estrambòtics, però l'únic que fa pinta de funcionar és el del Ben, una bola de pol·len amb fems que resulta que ha desaparegut... i que està a punt de cruspir-se-la la reina! Ho podran evitar a temps?!",
+        "start": "2026-11-13T14:04:08+01:00",
+        "stop": "2026-11-13T14:26:55+01:00",
+        "title": "One piece",
+        "subtitle": "Un món desconegut! El regne Tontatta!",
+        "description": "En Sanji rep informació inquietant que podria suposar un problema per als seus amics, en Ruffy es prepara per lluitar i un poble de nans captura la Nico Robin!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-13T06:23:16+01:00",
-        "stop": "2026-11-13T06:34:31+01:00",
-        "title": "L'abella Maia",
-        "subtitle": "Una sorpresa per a la Maia",
-        "description": "Els animalons del prat estan contents perquè la Maia sempre els ajuda molt i han decidit preparar-li una festa sorpresa. En Willi, que és el seu millor amic, vol fer un regal súper, súper xulo, per això ha decidit que li buscarà un estel fugaç, perquè pugui pensar un desig per tenir qualsevol cosa. Ell n'hi vol regalar un de veritat, però primer l'haurà de trobar!",
+        "start": "2026-11-13T14:26:55+01:00",
+        "stop": "2026-11-13T14:44:13+01:00",
+        "title": "One piece",
+        "subtitle": "L'estratègia del segle! En Doflamingo mou fitxa!",
+        "description": "Malgrat de l'intent d'en Sanji per advertir-lo, en Law es troba en perill de mort per l'emboscada d'en Doflamingo. Mentrestant, en Ruffy no pot ocultar la seva veritable identitat quan comença la batalla al coliseu!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-13T06:09:00+01:00",
-        "stop": "2026-11-13T06:22:24+01:00",
-        "title": "Les Feres",
-        "subtitle": "Lluc",
-        "description": "Des de Santa Maria de Palautordera, Lluc ha anat donant forma a un repertori que ajunta trames pròpies de les sonoritats urbanes amb fiblades de pop. El músic, que es va iniciar com a lletrista als setze anys, va debutar amb 18 amb el disc 'De x vida' (2020). Altres treballs, com 'Benvolguda nostàlgia' (2022), 'Peixcru's Shisha Lounge' (2023) o 'Vam néixer per fer això' (2024) han personalitzat una manera de dir i de fer reflexiva, sincera i sempre en recerca constant.  Lluc Planas - veu Guillem Lloret - teclat Jaume Güibass - guitarra Joan Buquet - percussió Oriol Darnés - veu  '#VamNeixerPerFerAixo' 'Real' 'Família' '2002' 'No som res'  Localització: enregistrat a l'església vella de Sant Andreu de Vallgorguina Data: 8 de març del 2025  ",
+        "start": "2026-11-13T13:57:59+01:00",
+        "stop": "2026-11-13T14:44:47+01:00",
+        "title": "La Renaixença",
+        "subtitle": "Millors moments - setmana 18",
+        "description": "Hem parlat del flotador, de la clau, del pal de golf i de la paella. Quatre objectes que aparentment no tenen cap relació, i és que no la tenen. Per això són 4 capítols separats que us hem deixat aquí juntets perquè els pugueu recordar. També hi trobareu les xerrades amb els qui han vingut a seure al nostre escó: en Dídac Costa, la Maria Jesús Puerta, la Mar Pujol i en David Repullés.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-11-13T06:22:24+01:00",
-        "stop": "2026-11-13T06:42:54+01:00",
-        "title": "Quèquicom",
-        "subtitle": "Montserrat s'enfonsa?",
-        "description": "Per què cau Montserrat? La reportera Anna Lasaga hi puja per entendre per què es desprenen blocs de roques de milers de tones.Enginyers de Geocat li ensenyen totes les mesures que es prenen per evitar danys a les persones, des de clavar les roques amb claus fins a instal·lar malles que suporten pesos de deu tones. Però el futur de la muntanya està escrit: el seu desmembrament és inevitable. Això ho expliquen el monjo escalador Ramon Oraníes i el geòleg Isaac Camps, els quals aclareixen també per què Montserrat té aquest relleu tan especial. Tot comença quan a Catalunya hi havia un mar interior i no existia el Mediterrani. El final de la història, a 'Quèquicom'.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-11-13T14:44:47+01:00",
+        "stop": "2026-11-13T15:31:24+01:00",
+        "title": "La Renaixença",
+        "subtitle": "La guardiola",
+        "description": "Tots hem tingut una guardiola amb forma de porquet i heu de saber que té aquesta forma per una confusió lingüística: a Anglaterra s'anomenava 'pygg' un tipus d'argila i algú va entendre 'pig' (porc en anglès). 'Apreneu idiomes', deien. I així es va confondre tota la humanitat. Ens visita la Maria Nicolau, que esmorza tres tasses de cafè. Potser això té molt a veure amb l'energia que porta a sobre sempre la que veiem. Sortim a passejar en Winter, un gos d'Irlanda, per l'accident de la plataforma Byford Dolphin, el novembre del 1983.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
