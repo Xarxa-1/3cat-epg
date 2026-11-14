@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-14T07:35:34.321647+00:00",
+  "updated": "2026-11-14T14:30:45.921503+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-14T07:00:01+01:00",
-        "stop": "2026-11-14T10:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-14T14:30:00+01:00",
+        "stop": "2026-11-14T15:38:12+01:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-11-14T10:00:00+01:00",
-        "stop": "2026-11-14T11:46:48+01:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-11-14T15:30:33+01:00",
+        "stop": "2026-11-14T16:58:18+01:00",
+        "title": "Pel·lícula",
+        "subtitle": "Morir en 3 actes",
+        "description": "MORIR EN 3 ACTESProducció: Televisió de Catalunya, Estrategia Audiovisual i La Nutria Produccions, 2011Direcció: David PujolGuió: David Pujol, Laia Tomàs i Anna EspinachFotografia: Roman Martinez de BujoIntèrprets: Albel Folk (Alfons), Anna Viçens (Anna), Enric Matarrodona (Ricard), Aida Folch (Sandra), Marc Rodriguez (Xavi) i Ignasi Tomàs (Ignasi)L'Alfons i l'Anna fa temps que han perdut la passió en el seu matrimoni. Ella es veu amb un amant, amb qui també interpreta el paper protagonista de l'obra de teatre del poble. L'Alfons, per accident, enverina els amants i els seus fantasmes se li apareixen després de la mort. Junts aconseguiran que l'obra de teatre s'estreni i l'Alfons pugui ser-ne l'actor protagonista. I a propòsit de l'estrena de l'obra de teatre, i de l'ajuda que li proporciona l'Anna, l'Alfons aprendrà a mirar-se la vida des d'un punt de vista més relaxat. Podrà viure de veritat la vida, encara que quan ho aconsegueixi hagi de fer-ho sense l'Anna.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-14T07:00:00+01:00",
-        "stop": "2026-11-14T10:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-14T14:30:00+01:00",
+        "stop": "2026-11-14T16:30:00+01:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-11-14T10:00:00+01:00",
-        "stop": "2026-11-14T12:00:00+01:00",
+        "start": "2026-11-14T16:30:00+01:00",
+        "stop": "2026-11-14T18:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-14T07:55:11+01:00",
-        "stop": "2026-11-14T09:19:30+01:00",
-        "title": "Handbol",
-        "subtitle": "Barça-Sevilla / Lliga Asobal / J9",
-        "description": "Els blaugranes han guanyat els 8 partits que han disputat i encapçalen la classificació amb el Bidasoa. El conjunt andalús, que suma 3 victòries i 5 derrotes, és el primer equip sevillà d'handbol que juga a la màxima lliga estatal en tota la història.",
+        "start": "2026-11-14T14:35:28+01:00",
+        "stop": "2026-11-14T15:55:00+01:00",
+        "title": "Futbol",
+        "subtitle": "RCD Espanyol-CD Tenerife / Lliga F / J11",
+        "description": "Les blanc-i-blaves s'han situat sisenes amb 15 punts. El conjunt tinerfeny té només 1 punt menys i és un rival directe en la lluita per seguir a la part alta de la classificació.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       },
       {
-        "start": "2026-11-14T09:19:30+01:00",
-        "stop": "2026-11-14T10:55:00+01:00",
-        "title": "Onze",
-        "subtitle": " Tothom estira Raphinha; Lamine Yamal, a punt, Delmàs, Fàbregas i Cazorla",
-        "description": "Míriam Riau condueix la tertúlia amb Laia Bonals, Ivan San Antonio, Anaïs Martí i Edgar Fornós. Parlem de la pressió que hi ha sobre Raphinha a la selecció del Brasil i de la incorporació de Lamine Yamal a la concentració d'Espanya. Àlex Delmàs ens parla del creixement de Fermín, Joan Fàbregas ens parla de les mancances de l'arbitratge femení i acabem amb el 'Que n'aprenguin' de Xavi Cazorla.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-11-14T15:55:00+01:00",
+        "stop": "2026-11-14T17:49:28+01:00",
+        "title": "Hoquei patins",
+        "subtitle": "Pons Lleida-Barça / Continental Cup Men / 1a semifinal",
+        "description": "El Pons CE Lleida Llista Blava, campió vigent de la Copa WSE, juga contra el Barça, el subcampió de la Champions. Els blaugranes són els que més títols tenen d'aquesta competició, 18, però no la guanyen des del 2019. El Lleida va disputar una final, el 2021, i la va perdre contra l'Sporting de Portugal.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-14T08:28:50+01:00",
-        "stop": "2026-11-14T08:42:00+01:00",
-        "title": "Titó",
-        "subtitle": "Excursió a Tàrraco",
-        "description": "Avui anem d'excursió a Tàrraco amb la Tat! Fa molts anys a Tarragona hi vivien els romans i avui descobrirem l'aqüeducte, la muralla, l'amfiteatre, el circ... i en John C ens portarà una nina! La Nina d'Ivori.",
-        "genre": "ALTRES",
+        "start": "2026-11-14T15:25:59+01:00",
+        "stop": "2026-11-14T15:37:21+01:00",
+        "title": "Les Sisters",
+        "subtitle": "De colònies sense el corcó",
+        "description": "La Marine descobreix que la Wendy anirà de colònies a la muntanya amb la seva amiga Sammie. Hi farà caiac, natació, equitació... La Marine es mor de ganes d'anar-hi, també. Els pares hi estan d'acord: ja es veuen quinze dies a casa sense les trapelles de les seves filles! Però la Wendy no hi vol anar per res del món amb la paparra de la seva germana. I decideix muntar-li unes colònies a casa per convèncer-la que les colònies no fan per ella...",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-14T08:42:00+01:00",
-        "stop": "2026-11-14T08:53:12+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "El Can-curs",
-        "description": "La Katie té moltes ganes de participar, amb un cadell de la Patrulla Peluda, en un concurs de bellesa per a gossos que es diu Can-curs.",
+        "start": "2026-11-14T15:37:21+01:00",
+        "stop": "2026-11-14T15:48:43+01:00",
+        "title": "Les Sisters",
+        "subtitle": "SOS diari 'presonal'",
+        "description": "Per impedir que la seva germana el llegeixi, la Wendy amaga el seu diari personal en un gerro vell que guarden al garatge. Però sense saber que a dins hi ha el diari, la Marine li ven el gerro al Maxence. Quin desastre! La Wendy no vol per res del món que el Maxence llegeixi el que hi ha escrit. Les germanes han de treballar en equip per recuperar-lo abans no sigui massa tard...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-14T07:58:17+01:00",
-        "stop": "2026-11-14T08:45:08+01:00",
-        "title": "La Renaixença",
-        "subtitle": "Les manuelles",
-        "description": "Pocs saben què són unes manuelles, però tothom n'ha fet servir. Normalment al gimnàs, però també pujant les bosses de la compra, carregant canalla a coll (si és que un en té) o pujant i baixant mobles durant una mudança. Sí, parlem dels pesos, però que en català correcte es diuen manuelles. Ens visita un campió de raids: Nani Roma. S'ha compromès a tornar-nos a visitar si compleix un repte que li hem proposat. L'esperem! I sortim a passejar en Marvin pel primer casino del món, que va obrir les portes el 1638, a Venècia.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-11-14T15:12:32+01:00",
+        "stop": "2026-11-14T16:05:49+01:00",
+        "title": "Llocs recòndits",
+        "subtitle": "Polònia",
+        "description": "'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-11-14T08:45:08+01:00",
-        "stop": "2026-11-14T09:32:28+01:00",
-        "title": "Globus Sonda",
-        "subtitle": "Xantal Llavina - Vall d'Àneu",
-        "description": "En el nostre viatge en globus d'avui, parlarem amb una periodista que va un pas endavant en temes d'innovació i tecnologia, i de les xarxes socials en general. Fa ràdio, televisió i premsa i, abans d'especialitzar-se en aquests camps, va fer quasi tots els papers de l'auca periodística. Parlem de la Xantal Llavina, presentadora a Catalunya Ràdio i a TV3 del programa 'Revolució 4.0'. Abans, però, pararem un moment per carregar el cotxe, que encara ens queden uns quants quilòmetres abans d'arribar al destí...",
-        "genre": "ALTRES",
+        "start": "2026-11-14T16:05:49+01:00",
+        "stop": "2026-11-14T16:59:03+01:00",
+        "title": "Llocs recòndits",
+        "subtitle": "Irlanda",
+        "description": "Acompanyeu en Peter Greenberg, el presentador, mentre viatja per la República d'Irlanda i Irlanda del Nord, tot explorant Dublín, Belfast, Cape Clear, els penya-segats de Moher, el castell d'Ashford i molt més.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
