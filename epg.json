@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-14T14:30:45.921503+00:00",
+  "updated": "2026-11-14T19:28:40.092646+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,106 +43,126 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-14T14:30:00+01:00",
-        "stop": "2026-11-14T15:38:12+01:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-11-14T20:20:23+01:00",
+        "stop": "2026-11-14T21:00:00+01:00",
+        "title": "Al cotxe",
+        "subtitle": "Victoria Luengo: 'No m'havia atrevit a imaginar l'èxit que he tingut'",
+        "description": "La carrera de Victoria Luengo va com un coet. Aquest any s'ha passejat dues vegades per la catifa vermella del Festival de Canes i tres per la del Festival de Sant Sebastià, per presentar, entre d'altres, l'última pel·lícula de Rodrigo Sorogoyen, 'El ser querido'. Durant el trajecte 'Al cotxe!', Luengo reconeix que no s'hauria atrevit mai a imaginar l'èxit que ha tingut. ",
+        "genre": "Docu-Entreteniment",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1679654708580.jpg"
+      },
+      {
+        "start": "2026-11-14T21:00:00+01:00",
+        "stop": "2026-11-14T22:06:13+01:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
         "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
-      },
-      {
-        "start": "2026-11-14T15:30:33+01:00",
-        "stop": "2026-11-14T16:58:18+01:00",
-        "title": "Pel·lícula",
-        "subtitle": "Morir en 3 actes",
-        "description": "MORIR EN 3 ACTESProducció: Televisió de Catalunya, Estrategia Audiovisual i La Nutria Produccions, 2011Direcció: David PujolGuió: David Pujol, Laia Tomàs i Anna EspinachFotografia: Roman Martinez de BujoIntèrprets: Albel Folk (Alfons), Anna Viçens (Anna), Enric Matarrodona (Ricard), Aida Folch (Sandra), Marc Rodriguez (Xavi) i Ignasi Tomàs (Ignasi)L'Alfons i l'Anna fa temps que han perdut la passió en el seu matrimoni. Ella es veu amb un amant, amb qui també interpreta el paper protagonista de l'obra de teatre del poble. L'Alfons, per accident, enverina els amants i els seus fantasmes se li apareixen després de la mort. Junts aconseguiran que l'obra de teatre s'estreni i l'Alfons pugui ser-ne l'actor protagonista. I a propòsit de l'estrena de l'obra de teatre, i de l'ajuda que li proporciona l'Anna, l'Alfons aprendrà a mirar-se la vida des d'un punt de vista més relaxat. Podrà viure de veritat la vida, encara que quan ho aconsegueixi hagi de fer-ho sense l'Anna.",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-14T14:30:00+01:00",
-        "stop": "2026-11-14T16:30:00+01:00",
-        "title": "Telenotícies migdia",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
-      },
-      {
-        "start": "2026-11-14T16:30:00+01:00",
-        "stop": "2026-11-14T18:30:00+01:00",
+        "start": "2026-11-14T20:00:00+01:00",
+        "stop": "2026-11-14T21:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-14T21:00:00+01:00",
+        "stop": "2026-11-14T23:00:00+01:00",
+        "title": "Telenotícies vespre",
+        "subtitle": "",
+        "description": "",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-14T14:35:28+01:00",
-        "stop": "2026-11-14T15:55:00+01:00",
+        "start": "2026-11-14T19:53:39+01:00",
+        "stop": "2026-11-14T20:25:00+01:00",
         "title": "Futbol",
-        "subtitle": "RCD Espanyol-CD Tenerife / Lliga F / J11",
-        "description": "Les blanc-i-blaves s'han situat sisenes amb 15 punts. El conjunt tinerfeny té només 1 punt menys i és un rival directe en la lluita per seguir a la part alta de la classificació.",
+        "subtitle": "CE Europa-UE Sant Andreu / Primera Federació / J12",
+        "description": "L'RCDE Stadium acull el derbi barceloní de màxima rivalitat. L'objectiu dels dos equips és sortir de la part baixa de la taula. El conjunt de Gràcia suma 10 punts, i els quadribarrats en tenen 13.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-11-14T15:55:00+01:00",
-        "stop": "2026-11-14T17:49:28+01:00",
-        "title": "Hoquei patins",
-        "subtitle": "Pons Lleida-Barça / Continental Cup Men / 1a semifinal",
-        "description": "El Pons CE Lleida Llista Blava, campió vigent de la Copa WSE, juga contra el Barça, el subcampió de la Champions. Els blaugranes són els que més títols tenen d'aquesta competició, 18, però no la guanyen des del 2019. El Lleida va disputar una final, el 2021, i la va perdre contra l'Sporting de Portugal.",
+        "start": "2026-11-14T20:25:00+01:00",
+        "stop": "2026-11-14T21:22:23+01:00",
+        "title": "Futbol",
+        "subtitle": "Reial Madrid-FC Badalona Women / Lliga F / J11",
+        "description": "Les badalonines, penúltimes a la taula, tenen una sortida complicada al camp de les segones classificades.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-14T15:25:59+01:00",
-        "stop": "2026-11-14T15:37:21+01:00",
-        "title": "Les Sisters",
-        "subtitle": "De colònies sense el corcó",
-        "description": "La Marine descobreix que la Wendy anirà de colònies a la muntanya amb la seva amiga Sammie. Hi farà caiac, natació, equitació... La Marine es mor de ganes d'anar-hi, també. Els pares hi estan d'acord: ja es veuen quinze dies a casa sense les trapelles de les seves filles! Però la Wendy no hi vol anar per res del món amb la paparra de la seva germana. I decideix muntar-li unes colònies a casa per convèncer-la que les colònies no fan per ella...",
+        "start": "2026-11-14T20:16:00+01:00",
+        "stop": "2026-11-14T20:38:15+01:00",
+        "title": "El detectiu Conan",
+        "subtitle": "La contrasenya del formulari de matrimoni (1a part)",
+        "description": "La Yumi ha anat a un restaurant italià amb la Miwako Sato. Allà li ha comentat que fa temps en Shukichi li va donar un sobre i li va demanar que el guardés. Mentre passegen, la Yumi descobreix per casualitat que en Shukichi és en realitat un gran mestre de shogi. Quan busca el sobre no el troba, i el conserge de l'edifici on viu no li posarà les coses gens fàcils.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-14T15:37:21+01:00",
-        "stop": "2026-11-14T15:48:43+01:00",
-        "title": "Les Sisters",
-        "subtitle": "SOS diari 'presonal'",
-        "description": "Per impedir que la seva germana el llegeixi, la Wendy amaga el seu diari personal en un gerro vell que guarden al garatge. Però sense saber que a dins hi ha el diari, la Marine li ven el gerro al Maxence. Quin desastre! La Wendy no vol per res del món que el Maxence llegeixi el que hi ha escrit. Les germanes han de treballar en equip per recuperar-lo abans no sigui massa tard...",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-11-14T20:38:15+01:00",
+        "stop": "2026-11-14T20:59:50+01:00",
+        "title": "Henry Danger",
+        "subtitle": "Més perill, més problemes",
+        "description": "En Henry intenta compaginar l'escola, la família i la seva vida secreta com a Kid Danger, però el cansament el fa suspendre un examen important.Amb l'ajuda d'un invent del Capità Man, aconsegueix aprovar, tot i patir efectes secundaris divertits que li compliquen encara més la vida.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-14T15:12:32+01:00",
-        "stop": "2026-11-14T16:05:49+01:00",
-        "title": "Llocs recòndits",
-        "subtitle": "Polònia",
-        "description": "'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.",
+        "start": "2026-11-14T20:07:46+01:00",
+        "stop": "2026-11-14T20:59:37+01:00",
+        "title": "El triunfante",
+        "subtitle": "El triunfante",
+        "description": "El Triunfante era un navili de guerra de 70 canons, enfonsat al golf de Roses durant la defensa de Ciutadella de Roses contra el setge francès el 1795. Es tracta d'un dels derelictes més grans, mai excavat, de tot el patrimoni subaquàtic català. Seguint els testimonis d'historiadors, arqueòlegs i alguns dels protagonistes del seu descobriment, coneixerem les innovacions tecnològiques que l'enginyer i matemàtic Jorge Juan i Santacilia va introduir en la construcció naval espanyola del segle XVIII. Des de la seva troballa als anys 70 del segle XX, ha representat el paradigma de l'espoli que ha patit el patrimoni subaquàtic català durant dècades. Tanmateix, la informació de les seves restes servirà perquè l'equip d'arqueòlegs del Centre d'Arqueologia Subaquàtica de Catalunya (CASC), després de tres campanyes d'excavació subaquàtica, desvelin els seus secrets.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/6/0/1749140405006.jpg"
       },
       {
-        "start": "2026-11-14T16:05:49+01:00",
-        "stop": "2026-11-14T16:59:03+01:00",
-        "title": "Llocs recòndits",
-        "subtitle": "Irlanda",
-        "description": "Acompanyeu en Peter Greenberg, el presentador, mentre viatja per la República d'Irlanda i Irlanda del Nord, tot explorant Dublín, Belfast, Cape Clear, els penya-segats de Moher, el castell d'Ashford i molt més.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-14T20:59:37+01:00",
+        "stop": "2026-11-14T21:03:56+01:00",
+        "title": "SENSE FI CANAL 33",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
-    "oca1": [],
-    "oca2": [],
+    "oca1": [
+      {
+        "start": "2026-11-14T18:25:00+01:00",
+        "stop": "2026-11-14T20:09:55+01:00",
+        "title": "Hoquei patins",
+        "subtitle": "- Porto-CP Calafell / Continental Cup Men / 2a semifinal",
+        "description": "El conjunt portuguès, últim guanyador de la Champions, s'enfronta amb l'amfitrió d'aquesta Continental Cup. El CP Calafell La Menorquina la disputa com a subcampió de la Copa WSE.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
+      }
+    ],
+    "oca2": [
+      {
+        "start": "2026-11-14T20:25:00+01:00",
+        "stop": "2026-11-14T22:24:55+01:00",
+        "title": "Futbol",
+        "subtitle": "- Reial Madrid-FC Badalona Women / Lliga F / J11",
+        "description": "Les badalonines, penúltimes a la taula, tenen una sortida complicada al camp de les segones classificades.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+      }
+    ],
     "oca3": [],
     "oca4": []
   }
