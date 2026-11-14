@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-13T20:34:30.208136+00:00",
+  "updated": "2026-11-14T01:02:16.940568+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-13T21:00:00+01:00",
-        "stop": "2026-11-13T22:07:17+01:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-11-14T02:01:32+01:00",
+        "stop": "2026-11-14T03:17:41+01:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       },
       {
-        "start": "2026-11-13T22:00:02+01:00",
-        "stop": "2026-11-13T22:23:59+01:00",
-        "title": "Després de tu",
-        "subtitle": "El perdó",
-        "description": "En Pau no pot passar per alt el descobriment del secret amagat de la Raquel. Necessita respostes i les busca en l'Enric, company de feina de la Raquel. En Pau descobreix la veritat i li resulta dura la sensació de no haver conegut de veritat la seva dona. L'Alba viu una epifania sobre el perdó amb la Fàtima, després d'una forta discussió amb ella que li recorda l'última conversa amb la mare. ",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-11-14T03:17:41+01:00",
+        "stop": "2026-11-14T04:30:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-13T21:00:00+01:00",
-        "stop": "2026-11-13T22:05:00+01:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-11-14T01:00:00+01:00",
+        "stop": "2026-11-14T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-13T22:05:00+01:00",
-        "stop": "2026-11-13T23:30:00+01:00",
-        "title": "Mésnit",
+        "start": "2026-11-14T06:00:00+01:00",
+        "stop": "2026-11-14T07:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-13T21:32:13+01:00",
-        "stop": "2026-11-13T21:59:45+01:00",
-        "title": "E3",
-        "subtitle": "Matchday Champions Women J4",
-        "description": "Les escenes més destacades a la 4a jornada de la fase de lliga d'aquesta Champions 2026-2027.",
-        "genre": "REPORTATGES",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"
+        "start": "2026-11-14T00:54:10+01:00",
+        "stop": "2026-11-14T02:28:46+01:00",
+        "title": "Onze",
+        "subtitle": " Tothom estira Raphinha; Lamine Yamal, a punt, Delmàs, Fàbregas i Cazorla",
+        "description": "Míriam Riau condueix la tertúlia amb Laia Bonals, Ivan San Antonio, Anaïs Martí i Edgar Fornós. Parlem de la pressió que hi ha sobre Raphinha a la selecció del Brasil i de la incorporació de Lamine Yamal a la concentració d'Espanya. Àlex Delmàs ens parla del creixement de Fermín, Joan Fàbregas ens parla de les mancances de l'arbitratge femení i acabem amb el 'Que n'aprenguin' de Xavi Cazorla.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-11-13T21:59:45+01:00",
-        "stop": "2026-11-13T23:00:00+01:00",
-        "title": "Tot Costa",
-        "subtitle": "Empat amb regust amarg",
-        "description": "El Barça va empatar a un amb l'Arsenal al Camp Nou amb xiulada per a Ona Batlle. En parlem amb Bernat Soler, Gemma Herrero i Ferran Correas. També analitzem el partit amb Mireia Vera. Sentirem les explicacions de Raphinha al Brasil i les declaracions de Koeman sobre Frenkie de Jong. Entrevistarem el capità de l'Espanyol, Javi Puado, i farem la prèvia del derbi barceloní Europa-Sant Andreu",
+        "start": "2026-11-14T02:28:46+01:00",
+        "stop": "2026-11-14T02:49:04+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-13T21:22:55+01:00",
-        "stop": "2026-11-13T21:40:13+01:00",
-        "title": "One piece",
-        "subtitle": "L'estratègia del segle! En Doflamingo mou fitxa!",
-        "description": "Malgrat de l'intent d'en Sanji per advertir-lo, en Law es troba en perill de mort per l'emboscada d'en Doflamingo. Mentrestant, en Ruffy no pot ocultar la seva veritable identitat quan comença la batalla al coliseu!",
+        "start": "2026-11-14T02:00:38+01:00",
+        "stop": "2026-11-14T02:21:45+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Oblivio",
+        "description": "Ladybug i el Gat Noir es destransformen junts per primera vegada i es converteixen en la Marinette i l'Adrien. L'únic és que han perdut la memòria i no recorden res de res, ni com es diuen ni que són superherois. A poc a poc, aniran trobant pistes que els ajudaran a tornar a la realitat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-13T21:40:13+01:00",
-        "stop": "2026-11-13T21:59:41+01:00",
-        "title": "One piece",
-        "subtitle": "Fa tremolar cel i terra! El poder de l'almirall Fujitora!",
-        "description": "Quan el seu pla fracassa, en Law ha de lluitar contra dos adversaris poderosos per sobreviure. A la ciutat, en Sanji s'acomiada de la seva estimada nova amiga, i en Ruffy s'enfronta al Brau Despietat!",
+        "start": "2026-11-14T02:21:45+01:00",
+        "stop": "2026-11-14T02:42:24+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Desperada",
+        "description": "El Jagged Stone ha fet fora de la banda la seva guitarrista, la Vivica, i l'Esfinx aprofita la ràbia de la noia per convertir-la en la temible Desperada, una supermalvada amb uns poders difícils de derrotar. Ladybug i el Gat Noir necessitaran l'ajuda de l'Escurçó per derrotar-la.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-13T21:11:37+01:00",
-        "stop": "2026-11-13T21:39:13+01:00",
-        "title": "Jet lag",
-        "subtitle": "MENTIDES",
-        "description": "La Mariona rep la visita del seu ex nòvio que està molt content i a punt de casar-se amb una noia catalana. La Mariona li diu que ella també està molt contenta amb el seu nòvio actual... el Mario. Però el Mario no serà la única persona a qui la Mariona involucri amb les seves mentides. La Sílvia, per la seva part, serà víctima d'un enquestador sense escrúpols.",
-        "genre": "TELESÈRIE",
-        "image": ""
+        "start": "2026-11-14T01:22:16+01:00",
+        "stop": "2026-11-14T02:14:51+01:00",
+        "title": "Invasors de l'Everest",
+        "subtitle": "Invasors de l'Everest",
+        "description": "Des de fa un temps, el mític Everest, que va ser coronat per primera vegada ara fa 70 anys, s'ha convertit en un objectiu a l'abast dels neoalpinistes, milionaris que estan prou en forma per afegir l'ascensió al cim del món a la llista dels desitjos que han pogut complir. Els residus són la part més visible dels problemes que provoca la massificació de l'alpinisme, però la qüestió de fons és l'apropiació i l'explotació d'un espai que abans era lliure i que ara pateix una invasió.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/7/0/1737383470507.jpg"
       },
       {
-        "start": "2026-11-13T21:39:13+01:00",
-        "stop": "2026-11-13T22:01:18+01:00",
-        "title": "Jet lag",
-        "subtitle": "CLAUSURA",
-        "description": "La Mariona rep la visita del seu exnòvio, que està molt content i a punt de casar-se amb una noia. La Mariona li diu que ella també està molt contenta amb el seu nòvio actual... el Mario. Però el Mario no serà l'única persona que la Mariona involucrarà amb les seves mentides. La Sílvia, per la seva banda, serà víctima d'un enquestador sense escrúpols. Actors convidats: Eduard Farelo, Cati Solivellas i Carles Martínez.",
-        "genre": "TELESÈRIE",
-        "image": ""
+        "start": "2026-11-14T02:14:51+01:00",
+        "stop": "2026-11-14T03:07:19+01:00",
+        "title": "Everest Green",
+        "subtitle": "Everest Green",
+        "description": "",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/0/1730214758902.jpg"
       }
     ],
     "oca1": [],
