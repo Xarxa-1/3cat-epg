@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-14T01:02:16.940568+00:00",
+  "updated": "2026-11-14T07:35:34.321647+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-14T02:01:32+01:00",
-        "stop": "2026-11-14T03:17:41+01:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
-      },
-      {
-        "start": "2026-11-14T03:17:41+01:00",
-        "stop": "2026-11-14T04:30:00+01:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-11-14T01:00:00+01:00",
-        "stop": "2026-11-14T06:00:00+01:00",
+        "start": "2026-11-14T07:00:01+01:00",
+        "stop": "2026-11-14T10:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-14T06:00:00+01:00",
-        "stop": "2026-11-14T07:00:00+01:00",
+        "start": "2026-11-14T10:00:00+01:00",
+        "stop": "2026-11-14T11:46:48+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-11-14T07:00:00+01:00",
+        "stop": "2026-11-14T10:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-14T10:00:00+01:00",
+        "stop": "2026-11-14T12:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-14T00:54:10+01:00",
-        "stop": "2026-11-14T02:28:46+01:00",
+        "start": "2026-11-14T07:55:11+01:00",
+        "stop": "2026-11-14T09:19:30+01:00",
+        "title": "Handbol",
+        "subtitle": "Barça-Sevilla / Lliga Asobal / J9",
+        "description": "Els blaugranes han guanyat els 8 partits que han disputat i encapçalen la classificació amb el Bidasoa. El conjunt andalús, que suma 3 victòries i 5 derrotes, és el primer equip sevillà d'handbol que juga a la màxima lliga estatal en tota la història.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"
+      },
+      {
+        "start": "2026-11-14T09:19:30+01:00",
+        "stop": "2026-11-14T10:55:00+01:00",
         "title": "Onze",
         "subtitle": " Tothom estira Raphinha; Lamine Yamal, a punt, Delmàs, Fàbregas i Cazorla",
         "description": "Míriam Riau condueix la tertúlia amb Laia Bonals, Ivan San Antonio, Anaïs Martí i Edgar Fornós. Parlem de la pressió que hi ha sobre Raphinha a la selecció del Brasil i de la incorporació de Lamine Yamal a la concentració d'Espanya. Àlex Delmàs ens parla del creixement de Fermín, Joan Fàbregas ens parla de les mancances de l'arbitratge femení i acabem amb el 'Que n'aprenguin' de Xavi Cazorla.",
         "genre": "MAGAZINE",
         "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
-      },
-      {
-        "start": "2026-11-14T02:28:46+01:00",
-        "stop": "2026-11-14T02:49:04+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-14T02:00:38+01:00",
-        "stop": "2026-11-14T02:21:45+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Oblivio",
-        "description": "Ladybug i el Gat Noir es destransformen junts per primera vegada i es converteixen en la Marinette i l'Adrien. L'únic és que han perdut la memòria i no recorden res de res, ni com es diuen ni que són superherois. A poc a poc, aniran trobant pistes que els ajudaran a tornar a la realitat.",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-11-14T08:28:50+01:00",
+        "stop": "2026-11-14T08:42:00+01:00",
+        "title": "Titó",
+        "subtitle": "Excursió a Tàrraco",
+        "description": "Avui anem d'excursió a Tàrraco amb la Tat! Fa molts anys a Tarragona hi vivien els romans i avui descobrirem l'aqüeducte, la muralla, l'amfiteatre, el circ... i en John C ens portarà una nina! La Nina d'Ivori.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-11-14T02:21:45+01:00",
-        "stop": "2026-11-14T02:42:24+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Desperada",
-        "description": "El Jagged Stone ha fet fora de la banda la seva guitarrista, la Vivica, i l'Esfinx aprofita la ràbia de la noia per convertir-la en la temible Desperada, una supermalvada amb uns poders difícils de derrotar. Ladybug i el Gat Noir necessitaran l'ajuda de l'Escurçó per derrotar-la.",
+        "start": "2026-11-14T08:42:00+01:00",
+        "stop": "2026-11-14T08:53:12+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "El Can-curs",
+        "description": "La Katie té moltes ganes de participar, amb un cadell de la Patrulla Peluda, en un concurs de bellesa per a gossos que es diu Can-curs.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-14T01:22:16+01:00",
-        "stop": "2026-11-14T02:14:51+01:00",
-        "title": "Invasors de l'Everest",
-        "subtitle": "Invasors de l'Everest",
-        "description": "Des de fa un temps, el mític Everest, que va ser coronat per primera vegada ara fa 70 anys, s'ha convertit en un objectiu a l'abast dels neoalpinistes, milionaris que estan prou en forma per afegir l'ascensió al cim del món a la llista dels desitjos que han pogut complir. Els residus són la part més visible dels problemes que provoca la massificació de l'alpinisme, però la qüestió de fons és l'apropiació i l'explotació d'un espai que abans era lliure i que ara pateix una invasió.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/7/0/1737383470507.jpg"
+        "start": "2026-11-14T07:58:17+01:00",
+        "stop": "2026-11-14T08:45:08+01:00",
+        "title": "La Renaixença",
+        "subtitle": "Les manuelles",
+        "description": "Pocs saben què són unes manuelles, però tothom n'ha fet servir. Normalment al gimnàs, però també pujant les bosses de la compra, carregant canalla a coll (si és que un en té) o pujant i baixant mobles durant una mudança. Sí, parlem dels pesos, però que en català correcte es diuen manuelles. Ens visita un campió de raids: Nani Roma. S'ha compromès a tornar-nos a visitar si compleix un repte que li hem proposat. L'esperem! I sortim a passejar en Marvin pel primer casino del món, que va obrir les portes el 1638, a Venècia.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-11-14T02:14:51+01:00",
-        "stop": "2026-11-14T03:07:19+01:00",
-        "title": "Everest Green",
-        "subtitle": "Everest Green",
-        "description": "",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/0/1730214758902.jpg"
+        "start": "2026-11-14T08:45:08+01:00",
+        "stop": "2026-11-14T09:32:28+01:00",
+        "title": "Globus Sonda",
+        "subtitle": "Xantal Llavina - Vall d'Àneu",
+        "description": "En el nostre viatge en globus d'avui, parlarem amb una periodista que va un pas endavant en temes d'innovació i tecnologia, i de les xarxes socials en general. Fa ràdio, televisió i premsa i, abans d'especialitzar-se en aquests camps, va fer quasi tots els papers de l'auca periodística. Parlem de la Xantal Llavina, presentadora a Catalunya Ràdio i a TV3 del programa 'Revolució 4.0'. Abans, però, pararem un moment per carregar el cotxe, que encara ens queden uns quants quilòmetres abans d'arribar al destí...",
+        "genre": "ALTRES",
+        "image": ""
       }
     ],
     "oca1": [],
