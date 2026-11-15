@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-15T10:21:52.084642+00:00",
+  "updated": "2026-11-15T17:19:26.618366+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-15T10:52:53+01:00",
-        "stop": "2026-11-15T11:39:24+01:00",
-        "title": "Diumenge Concert",
-        "subtitle": "Homenatge a Montserrat Torrent. Centenari del seu naixement (2a part)",
-        "description": "Montserrat Torrent i Bajarias (Barcelona, 1926) és una organista, clavecinista i musicòloga catalana de reconegut prestigi internacional. Pionera en la recuperació i la difusió de la música antiga a Catalunya, ha dedicat la seva vida a l'estudi, la interpretació i l'ensenyament de la música d'orgue i clavecí. La seva contribució al patrimoni musical català i universal és immensa i les seves interpretacions han estat un referent del més alt nivell, i ho continuen sent, tant pel seu rigor acadèmic com per la seva calidesa i musicalitat. Als anys seixanta, va ser pionera de la renovació d'un món de l'orgue entrat en decadència a conseqüència de la postguerra, en un moment en què ser organista, i especialment si s'era una dona, significava nedar contra corrent. Tot i això, anys més tard el seu llegat és enorme, i són innombrables els orgues que ha tocat i els deixebles que ha tingut. Coincidint amb el seu centenari, els seus deixebles i destacats organistes internacionals s'apleguen en una marató organística, presentada per Albert Galceran i Pedro Pardo, i que culmina a l'orgue del Palau amb la seva pròpia actuació, just l'endemà del seu 100 aniversari, que va ser el 17 d'abril del 2026.",
-        "genre": "CLÀSSICA",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/1/1730826356312.jpg"
+        "start": "2026-11-15T17:19:29+01:00",
+        "stop": "2026-11-15T18:25:02+01:00",
+        "title": "Temps de silenci",
+        "subtitle": "ELS QUI SE'N VAN",
+        "description": "La malaltia d'en Frederic. Els problemes d'en Llorenç. En Ramon i la Isabel poden demostrar a tothom com són. L'allunyament forçat de la Núria i l'Antonio.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       },
       {
-        "start": "2026-11-15T11:39:24+01:00",
-        "stop": "2026-11-15T12:00:00+01:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-11-15T18:25:02+01:00",
+        "stop": "2026-11-15T19:19:26+01:00",
+        "title": "Temps de silenci",
+        "subtitle": "Pel·lícules",
+        "description": "1975. El fracàs d'en Llorenç i l'ascensió d'en Xavier.Damunt la felicitat d'en Ramon i la Isabel, hi pesa encara la presència de la Victòria, de la mateixa manera que damunt la llibertat hi pesa el règim moribund...",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-15T10:00:00+01:00",
-        "stop": "2026-11-15T12:00:00+01:00",
+        "start": "2026-11-15T16:30:00+01:00",
+        "stop": "2026-11-15T18:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-15T12:00:00+01:00",
-        "stop": "2026-11-15T14:30:00+01:00",
+        "start": "2026-11-15T18:30:00+01:00",
+        "stop": "2026-11-15T20:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-15T10:32:48+01:00",
-        "stop": "2026-11-15T11:55:00+01:00",
-        "title": "Futbol sala",
-        "subtitle": "ElPozo Múrcia-Barça / Primera divisió / J8",
-        "description": "Els blaugranes, que estan invictes i només han cedit 2 punts dels 18 que han disputat, tenen un sortida exigent a la pista de la capital murciana. El Pozo, però, està per sota a la classificació. Ha jugat un partit més i suma 13 punts (4 victòries, 1 empat i 2 derrotes).",
+        "start": "2026-11-15T17:53:44+01:00",
+        "stop": "2026-11-15T18:49:31+01:00",
+        "title": "Futbol",
+        "subtitle": "UE Olot-RCD Espanyol B / Segona Federació / J11",
+        "description": "Duel entre dos equips que lluiten per l'ascens. Els garrotxins han sumat 18 punts de 30, i els blanc-i-blaus milloren el percentatge. El filial perico té 20 punts tot i haver jugat un partit menys.",
         "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-11-15T11:55:00+01:00",
-        "stop": "2026-11-15T12:50:55+01:00",
-        "title": "Futbol",
-        "subtitle": "Reial Societat-Athletic Club / Lliga F / J11",
-        "description": "Màxima rivalitat basca en aquest enfrontament entre els equips de Sant Sebastià i Bilbao a l'onzena jornada de la Lliga F.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "start": "2026-11-15T18:49:31+01:00",
+        "stop": "2026-11-15T18:57:41+01:00",
+        "title": "Esport Club Cap de Setmana",
+        "subtitle": "Esport Club",
+        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-15T11:12:08+01:00",
-        "stop": "2026-11-15T11:33:38+01:00",
-        "title": "El carreró del misteri",
-        "subtitle": "Projecte hipocamp",
-        "description": "Un gat que es diu Gominola va a veure l'Espavilada perquè el seu amo, un gran violinista, ha perdut el seny. El músic, que de sobte es comporta com si fos un nadó, ha trencat el seu violí en un atac de ràbia.",
+        "start": "2026-11-15T18:08:52+01:00",
+        "stop": "2026-11-15T18:28:12+01:00",
+        "title": "Capità Tsubasa. Campions",
+        "subtitle": "No perdré perquè aquest és el meu somni!",
+        "description": "El Morisaki rep una pilotada, però el Tsubasa li torna la confiança i li demostra que la pilota és amiga seva. El partit es converteix en un intercanvi de gols en què la victòria esdevé una qüestió de voluntat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-15T11:33:38+01:00",
-        "stop": "2026-11-15T11:55:41+01:00",
-        "title": "El carreró del misteri",
-        "subtitle": "El vampir de Lexington",
-        "description": "Mentre el Vermell, un gat de carrer, i el seu amic Tommy sopen al parc una nit, surt del no-res un ratpenat estrany i mossega el Tommy. El Vermell no s'ho pot acabar de creure: el seu amic s'ha convertit en... un vampir!",
+        "start": "2026-11-15T18:28:12+01:00",
+        "stop": "2026-11-15T18:49:48+01:00",
+        "title": "Capità Tsubasa. Campions",
+        "subtitle": "Això és futbol acrobàtic!",
+        "description": "Després de la derrota contra el Meiwa, el Nankatsu necessita vèncer el Hanawa per classificar-se. La clau del partit és que la Parella d'Or, el Tsubasa i el Misaki, aconsegueixi frenar el futbol acrobàtic combinat dels bessons Tachibana.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-15T10:43:28+01:00",
-        "stop": "2026-11-15T11:26:17+01:00",
-        "title": "Batalla monumental",
-        "subtitle": "Batalla de modernisme: La Pedrera-Recinte Modernista de Sant Pau",
-        "description": "Aquesta nova 'Batalla monumental' confronta dos dels edificis modernistes més fotografiats del món i més imponents de Barcelona: la Pedrera, un exemple d'arquitectura orgànica i la joia més preuada d'Antoni Gaudí, i el Recinte Modernista de Sant Pau, la petita ciutat que Domènech i Montaner va dissenyar per curar els barcelonins. Com cada setmana, la Candela Figueras i l'Ivan Medina són els encarregats de conèixer testimonis i exposar arguments per fer decantar el públic a favor del seu monument. Tots dos viatjaran en el temps per aconseguir que el seu sigui el monument modernista guanyador. L'Ivan es posarà en la pell d'un veí de la casa Milà de l'època, i la Candela es convertirà en una infermera dels anys 30 de l'hospital de la ciutat. En aquesta batalla modernista els ajudaran a convèncer l'audiència personatges de renom com la reconeguda arquitecta Benedetta Tagliabue o el dissenyador Javier Mariscal. Roger de Gràcia és el mestre de cerimònies d'una nova batalla singular on, com sempre, serà l'audiència qui prendrà la decisió de quin monument passa a la final del programa en aquest duel votant a les xarxes socials del programa, a @BatallaTV3.",
-        "genre": "ALTRES",
+        "start": "2026-11-15T18:13:47+01:00",
+        "stop": "2026-11-15T19:13:09+01:00",
+        "title": "Pau Casals, l'home que va fer sentir el silenci",
+        "subtitle": "Pau Casals, l'home que va fer sentir el silenci",
+        "description": "'Pau Casals, l'home que va fer sentir el silenci' (2011), un documental de RBA Audiovisuales en coproducció amb TELEVISIÓ DE CATALUNYA i amb la col·laboració de Fundació Pau Casals, Memorial Democràtic i l'ICEC. Va fer sonar la música més sublim i la va fer callar allà on la pau, la justícia i la llibertat no eren respectades. La música no podia elevar els esperits mentre la gent patia, era humiliada o moria. Però, ¿podia potser donar una llum d'esperança, l'esperança que un món millor és possible?Pau Casals va ser un músic importantíssim, que ocupa un lloc molt destacat a la història de la música. Però també va ser un símbol perquè va encarnar com ningú i abans que tots la figura de l'artista compromès. Ho va fer fins al punt de sacrificar el seu art, de fer callar la música durant anys i fer sentir un silenci que va ser eloqüent com un clam de llibertat.Pau Casals va viure convençut que la música podia portar a un món millor, més fraternal i just. Un món nou que la realitat del segle més violent de la història va negar-li un cop i un altre. La lluita entre aquest ideal esperançat i aquesta realitat dolorosa va ser la vida de Pau Casals. En ella se centra aquest documental, fet amb la col·laboració de la Fundació Pau Casals, la participació directa de la viuda del mestre, Marta Casals Istomin, testimonis de grans músics i una detallada documentació que presenta materials poc coneguts dels arxius personals, alguns fins ara inèdits.Producció executiva: Jordi Sellas i Francisco Vargas EcheverríaProducció executiva TVC: Jordi Ambròs Producció: Susanna AlcorizaProducció delegada TVC: Ruth Llòria Direcció i guió: Jaume BoixAssessorament històric: Núria BallesterRealització: Miguel E. LópezDirecció de producció: Cristina BoschDirecció de fotografia: Raül FabregatMúsics: Eulàlia Subirà, Marina González, Bruna González, Minerva Comerma, Helena Castells, Gemma Dalmau, Clara Dalmau, Pere Puertas, Quim Puertas, Pau Codina, Jordi Claret i Fe",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-11-15T11:26:17+01:00",
-        "stop": "2026-11-15T11:59:13+01:00",
-        "title": "GR Pirineus",
-        "subtitle": "Una llengua molt viva",
-        "description": "La Vall d'Aran ens obrirà les portes per mostrar-nos tota la seva impressionant bellesa, i ho farà en aranès, perquè en aquesta ruta volem descobrir aquesta llengua autòctona i demostrar que està molt més viva del que sembla.La ruta que seguirem començarà a Bagergue i passarà per Unha, Salardú, Escunhau, Betren, Vielha, Arròs, Es Bordes, Bossost, Lles i acabarà a Bausén.Durant el trajecte aprendrem a cuinar olla aranesa, anirem a classe d'aranès, ens endinsarem en l'impressionant patrimoni natural de la vall visitant dos salts d'aigua: eths Ulhs deth Jueus i eth Saut deth Pish; coneixerem per què els esturions de la Vall d'Aran estan considerats els que donen millor caviar, i el tastarem; i acabarem amb el grup Bramatopin, cantant cançons tradicionals araneses i coneixent una romàntica però tràgica història d'amor.",
+        "start": "2026-11-15T19:13:09+01:00",
+        "stop": "2026-11-15T20:06:26+01:00",
+        "title": "Llocs recòndits",
+        "subtitle": "Polònia",
+        "description": "'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "image": ""
       }
     ],
     "oca1": [],
