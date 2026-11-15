@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-15T17:19:26.618366+00:00",
+  "updated": "2026-11-15T21:57:05.330741+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-15T17:19:29+01:00",
-        "stop": "2026-11-15T18:25:02+01:00",
-        "title": "Temps de silenci",
-        "subtitle": "ELS QUI SE'N VAN",
-        "description": "La malaltia d'en Frederic. Els problemes d'en Llorenç. En Ramon i la Isabel poden demostrar a tothom com són. L'allunyament forçat de la Núria i l'Antonio.",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-11-15T22:53:17+01:00",
+        "stop": "2026-11-15T23:59:13+01:00",
+        "title": "Vèrtex",
+        "subtitle": "",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       },
       {
-        "start": "2026-11-15T18:25:02+01:00",
-        "stop": "2026-11-15T19:19:26+01:00",
-        "title": "Temps de silenci",
-        "subtitle": "Pel·lícules",
-        "description": "1975. El fracàs d'en Llorenç i l'ascensió d'en Xavier.Damunt la felicitat d'en Ramon i la Isabel, hi pesa encara la presència de la Victòria, de la mateixa manera que damunt la llibertat hi pesa el règim moribund...",
-        "genre": "SÈRIE DRAMÀTICA",
+        "start": "2026-11-15T23:59:13+01:00",
+        "stop": "2026-11-16T00:38:24+01:00",
+        "title": "Gent amb DO",
+        "subtitle": "- DO Pla de Bages. 'Tota pedra fa paret':",
+        "description": "Sense Descripció",
+        "genre": "",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-15T16:30:00+01:00",
-        "stop": "2026-11-15T18:30:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-15T21:00:00+01:00",
+        "stop": "2026-11-15T23:00:00+01:00",
+        "title": "Telenotícies vespre",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
       },
       {
-        "start": "2026-11-15T18:30:00+01:00",
-        "stop": "2026-11-15T20:00:00+01:00",
+        "start": "2026-11-15T23:00:00+01:00",
+        "stop": "2026-11-16T00:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,17 +83,17 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-15T17:53:44+01:00",
-        "stop": "2026-11-15T18:49:31+01:00",
-        "title": "Futbol",
-        "subtitle": "UE Olot-RCD Espanyol B / Segona Federació / J11",
-        "description": "Duel entre dos equips que lluiten per l'ascens. Els garrotxins han sumat 18 punts de 30, i els blanc-i-blaus milloren el percentatge. El filial perico té 20 punts tot i haver jugat un partit menys.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
+        "start": "2026-11-15T22:38:54+01:00",
+        "stop": "2026-11-15T23:00:00+01:00",
+        "title": "Zona zàping",
+        "subtitle": "Fermí manté el liderat",
+        "description": "Fermín López, el davanter del Barça, va aconseguir amb els seus dos gols a l'Atlètico de Madrid, que el club blaugrana conservés el liderat de Primera Divisió.Lau Gibert, exconcursant d'Eufòria, acomiada el programa amb el seu nou tema 'BBY'.",
+        "genre": "ALTRES",
+        "image": "https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"
       },
       {
-        "start": "2026-11-15T18:49:31+01:00",
-        "stop": "2026-11-15T18:57:41+01:00",
+        "start": "2026-11-15T23:00:00+01:00",
+        "stop": "2026-11-16T00:00:57+01:00",
         "title": "Esport Club Cap de Setmana",
         "subtitle": "Esport Club",
         "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
@@ -103,40 +103,40 @@
     ],
     "sx3": [
       {
-        "start": "2026-11-15T18:08:52+01:00",
-        "stop": "2026-11-15T18:28:12+01:00",
-        "title": "Capità Tsubasa. Campions",
-        "subtitle": "No perdré perquè aquest és el meu somni!",
-        "description": "El Morisaki rep una pilotada, però el Tsubasa li torna la confiança i li demostra que la pilota és amiga seva. El partit es converteix en un intercanvi de gols en què la victòria esdevé una qüestió de voluntat.",
+        "start": "2026-11-15T22:55:51+01:00",
+        "stop": "2026-11-15T23:06:50+01:00",
+        "title": "La tropa del corral",
+        "subtitle": "Fins el fons",
+        "description": "En Cornelius truca la Tropa del Corral: té una llavor de rosella entre les dents que li fa molta nosa. Hi van de seguida, li treuen la llavor i tornen cap a la granja, i al cap d'una estona s'adonen que en Jo ha desaparegut. Que potser se l'ha empassat en Cornelius? Per no preocupar la Flo, en Billy l'intenta distreure mentre en Clive i la Maggie tornen a Vilanimal a rescatar en Jo.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-15T18:28:12+01:00",
-        "stop": "2026-11-15T18:49:48+01:00",
-        "title": "Capità Tsubasa. Campions",
-        "subtitle": "Això és futbol acrobàtic!",
-        "description": "Després de la derrota contra el Meiwa, el Nankatsu necessita vèncer el Hanawa per classificar-se. La clau del partit és que la Parella d'Or, el Tsubasa i el Misaki, aconsegueixi frenar el futbol acrobàtic combinat dels bessons Tachibana.",
+        "start": "2026-11-15T23:06:50+01:00",
+        "stop": "2026-11-15T23:17:41+01:00",
+        "title": "La tropa del corral",
+        "subtitle": "Fa massa calor",
+        "description": "En Prince truca la Tropa perquè té fred. Els seus amos han marxat de cap de setmana i han apagat la calefacció. La Flo hi instal·la un dels seus invents per escalfar la casa, però funciona tan bé que l'aigua de la peixera d'en Fred i la Frida es comença a evaporar. El problema? Que el granger no deixa sortir la Tropa de la granja perquè es pensa que tenen gana i no els para de posar menjar.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-15T18:13:47+01:00",
-        "stop": "2026-11-15T19:13:09+01:00",
-        "title": "Pau Casals, l'home que va fer sentir el silenci",
-        "subtitle": "Pau Casals, l'home que va fer sentir el silenci",
-        "description": "'Pau Casals, l'home que va fer sentir el silenci' (2011), un documental de RBA Audiovisuales en coproducció amb TELEVISIÓ DE CATALUNYA i amb la col·laboració de Fundació Pau Casals, Memorial Democràtic i l'ICEC. Va fer sonar la música més sublim i la va fer callar allà on la pau, la justícia i la llibertat no eren respectades. La música no podia elevar els esperits mentre la gent patia, era humiliada o moria. Però, ¿podia potser donar una llum d'esperança, l'esperança que un món millor és possible?Pau Casals va ser un músic importantíssim, que ocupa un lloc molt destacat a la història de la música. Però també va ser un símbol perquè va encarnar com ningú i abans que tots la figura de l'artista compromès. Ho va fer fins al punt de sacrificar el seu art, de fer callar la música durant anys i fer sentir un silenci que va ser eloqüent com un clam de llibertat.Pau Casals va viure convençut que la música podia portar a un món millor, més fraternal i just. Un món nou que la realitat del segle més violent de la història va negar-li un cop i un altre. La lluita entre aquest ideal esperançat i aquesta realitat dolorosa va ser la vida de Pau Casals. En ella se centra aquest documental, fet amb la col·laboració de la Fundació Pau Casals, la participació directa de la viuda del mestre, Marta Casals Istomin, testimonis de grans músics i una detallada documentació que presenta materials poc coneguts dels arxius personals, alguns fins ara inèdits.Producció executiva: Jordi Sellas i Francisco Vargas EcheverríaProducció executiva TVC: Jordi Ambròs Producció: Susanna AlcorizaProducció delegada TVC: Ruth Llòria Direcció i guió: Jaume BoixAssessorament històric: Núria BallesterRealització: Miguel E. LópezDirecció de producció: Cristina BoschDirecció de fotografia: Raül FabregatMúsics: Eulàlia Subirà, Marina González, Bruna González, Minerva Comerma, Helena Castells, Gemma Dalmau, Clara Dalmau, Pere Puertas, Quim Puertas, Pau Codina, Jordi Claret i Fe",
+        "start": "2026-11-15T22:10:47+01:00",
+        "stop": "2026-11-15T23:03:14+01:00",
+        "title": "Llocs recòndits",
+        "subtitle": "L'Aràbia Saudita",
+        "description": "Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-11-15T19:13:09+01:00",
-        "stop": "2026-11-15T20:06:26+01:00",
+        "start": "2026-11-15T23:03:14+01:00",
+        "stop": "2026-11-15T23:56:03+01:00",
         "title": "Llocs recòndits",
-        "subtitle": "Polònia",
-        "description": "'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.",
+        "subtitle": "Turquia",
+        "description": "'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
