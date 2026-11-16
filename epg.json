@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-15T21:57:05.330741+00:00",
+  "updated": "2026-11-16T01:35:44.606004+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,19 +43,19 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-15T22:53:17+01:00",
-        "stop": "2026-11-15T23:59:13+01:00",
-        "title": "Vèrtex",
+        "start": "2026-11-16T00:38:12+01:00",
+        "stop": "2026-11-16T04:30:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Sense Descripció",
         "genre": "",
         "image": ""
       },
       {
-        "start": "2026-11-15T23:59:13+01:00",
-        "stop": "2026-11-16T00:38:24+01:00",
-        "title": "Gent amb DO",
-        "subtitle": "- DO Pla de Bages. 'Tota pedra fa paret':",
+        "start": "2026-11-16T04:30:00+01:00",
+        "stop": "2026-11-16T05:15:06+01:00",
+        "title": "Cava de Blues",
+        "subtitle": "- Riqui Sabatés y Los Obstinados",
         "description": "Sense Descripció",
         "genre": "",
         "image": ""
@@ -63,17 +63,17 @@
     ],
     "324": [
       {
-        "start": "2026-11-15T21:00:00+01:00",
-        "stop": "2026-11-15T23:00:00+01:00",
-        "title": "Telenotícies vespre",
+        "start": "2026-11-16T01:00:00+01:00",
+        "stop": "2026-11-16T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-15T23:00:00+01:00",
-        "stop": "2026-11-16T00:30:00+01:00",
+        "start": "2026-11-16T06:00:00+01:00",
+        "stop": "2026-11-16T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-15T22:38:54+01:00",
-        "stop": "2026-11-15T23:00:00+01:00",
-        "title": "Zona zàping",
-        "subtitle": "Fermí manté el liderat",
-        "description": "Fermín López, el davanter del Barça, va aconseguir amb els seus dos gols a l'Atlètico de Madrid, que el club blaugrana conservés el liderat de Primera Divisió.Lau Gibert, exconcursant d'Eufòria, acomiada el programa amb el seu nou tema 'BBY'.",
-        "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"
+        "start": "2026-11-16T01:47:13+01:00",
+        "stop": "2026-11-16T03:26:42+01:00",
+        "title": "Futbol",
+        "subtitle": "UE Olot-RCD Espanyol B / Segona Federació / J11",
+        "description": "Duel entre dos equips que lluiten per l'ascens. Els garrotxins han sumat 18 punts de 30, i els blanc-i-blaus milloren el percentatge. El filial perico té 20 punts tot i haver jugat un partit menys.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-11-15T23:00:00+01:00",
-        "stop": "2026-11-16T00:00:57+01:00",
-        "title": "Esport Club Cap de Setmana",
-        "subtitle": "Esport Club",
-        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
+        "start": "2026-11-16T03:26:42+01:00",
+        "stop": "2026-11-16T03:49:48+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-15T22:55:51+01:00",
-        "stop": "2026-11-15T23:06:50+01:00",
-        "title": "La tropa del corral",
-        "subtitle": "Fins el fons",
-        "description": "En Cornelius truca la Tropa del Corral: té una llavor de rosella entre les dents que li fa molta nosa. Hi van de seguida, li treuen la llavor i tornen cap a la granja, i al cap d'una estona s'adonen que en Jo ha desaparegut. Que potser se l'ha empassat en Cornelius? Per no preocupar la Flo, en Billy l'intenta distreure mentre en Clive i la Maggie tornen a Vilanimal a rescatar en Jo.",
+        "start": "2026-11-16T02:26:08+01:00",
+        "stop": "2026-11-16T02:47:05+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Veritat",
+        "description": "Des que es va convertir en la nova guardiana de la Capsa dels Prodigis, la Marinette està desbordada. Ja no queda amb els seus amics, deixa plantat el Gat Noir i falla a totes les cites amb el Luka. Ell està convençut que la Marinette té un secret, però ella no l'hi pot dir que quan desapareix és perquè es transforma en Ladybug i salva París. El Luka està molt dolgut perquè la Marinette no confia prou en ell per explicar-li el seu secret, i l'Esfinx se n'aprofita per transformar-lo en Veritat. Ara té el poder d'obligar la gent a dir la veritat i vol descobrir el secret de la Marinette... i el de Ladybug i el Gat Negre també!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-15T23:06:50+01:00",
-        "stop": "2026-11-15T23:17:41+01:00",
-        "title": "La tropa del corral",
-        "subtitle": "Fa massa calor",
-        "description": "En Prince truca la Tropa perquè té fred. Els seus amos han marxat de cap de setmana i han apagat la calefacció. La Flo hi instal·la un dels seus invents per escalfar la casa, però funciona tan bé que l'aigua de la peixera d'en Fred i la Frida es comença a evaporar. El problema? Que el granger no deixa sortir la Tropa de la granja perquè es pensa que tenen gana i no els para de posar menjar.",
+        "start": "2026-11-16T02:47:05+01:00",
+        "stop": "2026-11-16T02:57:35+01:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "Ei, què hi ha, Hooper?",
+        "description": "A l'aventura d'avui, el Hooper explica un conte de cowboys als amics! Ells, llavors, volen que el Hooper sigui el xèrif de Pop, la ciutat de paper, i fan una manualitat d'un cavall i l'hi regalen. El Hooper es posa molt content, però quan comença a fer de xèrif, espatlla el cavall sense voler i, llavors, li fa por explicar el que ha passat. Mentre la resta de la colla li prepara un gran ball a l'estil cowboy, el Hooper haurà de pensar si explica la veritat.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-15T22:10:47+01:00",
-        "stop": "2026-11-15T23:03:14+01:00",
-        "title": "Llocs recòndits",
-        "subtitle": "L'Aràbia Saudita",
-        "description": "Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-16T01:58:17+01:00",
+        "stop": "2026-11-16T02:42:26+01:00",
+        "title": "El Crac",
+        "subtitle": "La gran gira",
+        "description": "La companyia se'n va de gira per Catalunya abans de la gran estrena a Barcelona. Durant la seva convivència s'estretaran els llaços que els uneixen i descobriran alguns secrets molt amagats...",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-11-15T23:03:14+01:00",
-        "stop": "2026-11-15T23:56:03+01:00",
-        "title": "Llocs recòndits",
-        "subtitle": "Turquia",
-        "description": "'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-16T02:42:26+01:00",
+        "stop": "2026-11-16T03:29:12+01:00",
+        "title": "El Crac",
+        "subtitle": "El gran duel",
+        "description": "Ha arribat el gran dia. El Joel i el Julio s'enfronten damunt l'escenari per demostrar qui és el millor. Un duel que arribarà molt més lluny del que ningú es podia imaginar...",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
