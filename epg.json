@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-16T18:55:03.769045+00:00",
+  "updated": "2026-11-17T02:14:54.527707+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-16T19:12:37+01:00",
-        "stop": "2026-11-16T20:15:01+01:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
-        "image": ""
-      },
-      {
-        "start": "2026-11-16T20:15:01+01:00",
-        "stop": "2026-11-16T21:00:00+01:00",
-        "title": "Està passant",
-        "subtitle": "",
-        "description": "L'Òscar Andreu i la Núria Marín ens parlen de l'acampada per l'habitatge de Plaça Catalunya. L'Andrés Fajngold es fa lutier i la Judit Martín es converteix en el perfil més indecís en les pròximes eleccions: una dona, d'entre 50 i 64 anys.",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-11-16T18:30:00+01:00",
-        "stop": "2026-11-16T20:00:00+01:00",
+        "start": "2026-11-17T03:03:44+01:00",
+        "stop": "2026-11-17T04:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-16T20:00:00+01:00",
-        "stop": "2026-11-16T21:00:00+01:00",
+        "start": "2026-11-17T04:30:00+01:00",
+        "stop": "2026-11-17T05:14:48+01:00",
+        "title": "Cava de Blues",
+        "subtitle": "Víctor Bocanegra",
+        "description": "Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón & The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés & The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo & Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone & The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos & The Papa's Red Band-The Paparellos",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-11-17T01:00:00+01:00",
+        "stop": "2026-11-17T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-17T06:00:00+01:00",
+        "stop": "2026-11-17T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-16T19:00:00+01:00",
-        "stop": "2026-11-16T20:30:57+01:00",
+        "start": "2026-11-17T02:32:14+01:00",
+        "stop": "2026-11-17T04:02:58+01:00",
         "title": "Tot Costa",
         "subtitle": "Pendents de Cubarsí i De Jong",
         "description": "Com estan Cubarsí i De Jong? Ens ho explica Ramon Salmurri i ho analitzem amb Marcos López, Anaïs Martí i Dani Senabre. També parlarem d'Olmo, Kounde i Raphinha. Amb Laia Tudel seguirem la Gala de l'Esport. Analitzarem la grada del Barça amb Albert Om i entrevistarem Antonio Hidalgo, entrenador del Deportivo de la Corunya.",
@@ -92,68 +92,58 @@
         "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       },
       {
-        "start": "2026-11-16T20:30:57+01:00",
-        "stop": "2026-11-16T21:07:12+01:00",
-        "title": "Esport Club",
-        "subtitle": "Les molèsties de Cubarsí i De Jong, Pau Darbra i tertúlia",
-        "description": "Pau Cubarsí i Frenkie de Jong han tornat amb molèsties. En parlem amb Albert Blaya. Entrevistem Pau Darbra, jugador del Sant Andreu. Més de setze mil persones van veure el partit contra l'Europa a l'RCDE Stadium. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso.",
+        "start": "2026-11-17T04:02:58+01:00",
+        "stop": "2026-11-17T04:13:32+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-16T19:44:50+01:00",
-        "stop": "2026-11-16T20:00:00+01:00",
-        "title": "Projecte Beta",
-        "subtitle": "La polèmica més gran",
-        "description": "Un munt de periodistes envolten el magatzem a causa d'una gran polèmica que enfronta el Jan amb l'Aina da Silva, que visita els Beta disposada a resoldre el problema. Atrapats al magatzem, els Beta han de solucionar la polèmica amb l'ajuda d'un robot que s'assembla al Grau.",
-        "genre": "ALTRES",
+        "start": "2026-11-17T03:05:34+01:00",
+        "stop": "2026-11-17T03:26:44+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Psicoactor",
+        "description": "Per un malentès, la Marinette es pensa que a l'Adrien li agrada el famós còmic Harry Clown i es posa d'acord amb l'actor per intentar seduir l'Adrien fent-lo riure. Però la Marinette no és humorista i torna a fracassar. Quan busca consol en el Harry, no sap que ell també acaba de patir una decepció, però en el seu cas professional. Akumatitzat en Psicoactor, imposa als altres les emocions que li venen de gust a ell. I té intenció de fer passar les ganes de riure a tothom, començant per Ladybug i el Gat Noir!",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-16T20:00:00+01:00",
-        "stop": "2026-11-16T20:19:43+01:00",
-        "title": "InfoK",
-        "subtitle": "20N: el teu dia. Dia Mundial dels drets dels nens i nenes",
-        "description": "L'Imran i el dret a tenir l'oportunitat de tenir una vida millor.És un nen de 12 anys que va conèixer l'Alaaddine a Ceuta fa unes setmanes, quan intentava arribar a Espanya buscant una vida millor. Hem volgut saber com estava i l'Alaaddine hi ha pogut parlar.En Noa i el dret a la salut i a l'esport.Té espina bífida. Durant l'embaràs, la seva columna vertebral no es va acabar de formar bé i de cintura cap avall no pot moure el cos. Però, sabeu què? És un crac de l'slalom!La Shalana i la Farners Pei Hong i el dret a la identitat.Són dues noies que tenen una edat similar i que fan contingut a xarxes. Totes dues han nascut a la Xina, i totes dues han estat adoptades per famílies catalanes i tot això fa que sovint les confonguin. Això que pot semblar una anècdota, no ho és.Abril: Perquè, si ens hi fixem, no s'assemblen tant. I darrere d'aquesta confusió, hi ha el fet que agrupem les persones en funció del seu aspecte i origen i ens oblidem que totes les persones del món, siguem d'on siguem, som diferents...I l'Asra i el dret a viure en pau i a estudiar.Ella té 14 anys. I en fa 5 que amb la seva família va fugir de l'Afganistan. Els talibans van prendre el poder per la força i van imposat les seves lleis, que són molt dures per a les dones i les nenes, ja que limiten molts els seus drets, per exemple, poder anar a escola. L'Asra i la seva família van venir a viure a Barcelona, fugint de tot això.",
-        "genre": "INFORMATIU DIÀRI",
+        "start": "2026-11-17T03:26:44+01:00",
+        "stop": "2026-11-17T03:47:22+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Fu Furiós",
+        "description": "La Marinette coneix Su-Han, el guardià celestial dels prodigis. Sap que ella és Ladybug i vol que li torni la capsa dels prodigis, convençut que l'ha robada. Quan Su-Han s'assabenta que l'hi va donar el mestre Fu, decideix castigar-lo i li pren el seu bastó de guardià. Amnèsic, Fu no reconeix el guardià celestial i el pren per un lladre. Quan se sent atacat s'enfada molt i és akumatitzat. Es tranforma en Fu Furiós i vol que Su-Han li torni el bastó i que li demani perdó. Ladybug aconseguirà salvar el mestre Fu i demostrar que és digna de ser la guardiana dels prodigis?",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-16T19:12:57+01:00",
-        "stop": "2026-11-16T20:06:23+01:00",
-        "title": "Llocs recòndits",
-        "subtitle": "L'Aràbia Saudita",
-        "description": "Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-17T03:08:44+01:00",
+        "stop": "2026-11-17T03:35:16+01:00",
+        "title": "Òpera en texans",
+        "subtitle": "Tosca",
+        "description": "Estrenada a Roma el 1900, 'Tosca' és un dels grans èxits de Puccini i un títol imprescindible. Si el personatge de Tosca és únic, no us perdeu el personatge de Scarpia, segurament el malvat més fascinant de la història de l'òpera. Com diu un anunci, com més bo és el dolent, més bona és la pel·lícula, i aquí el dolent és immillorable. I a més, a 'Tosca', Puccini no escriu una gran ària: n'escriu dues. Us encantarà.'Tosca', de Giacomo Puccini (1900).",
+        "genre": "ÒPERA",
         "image": ""
       },
       {
-        "start": "2026-11-16T20:06:23+01:00",
-        "stop": "2026-11-16T20:59:44+01:00",
-        "title": "Llocs recòndits",
-        "subtitle": "Turquia",
-        "description": "'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-17T03:35:16+01:00",
+        "stop": "2026-11-17T04:02:23+01:00",
+        "title": "Òpera en texans",
+        "subtitle": "El barber de Sevilla",
+        "description": "Fet al 100% a Sabadell i amb la col·laboració d'Els Amics de les Arts. Rossini és el compositor del bon humor, de les òperes més entretingudes del repertori, el mestre de la diversió. I amb 'El barber de Sevilla', la diversió està garantida. Seguirem de prop la producció d''El barber' de la temporada 2010-2011 d'Els Amics de l'Òpera de Sabadell. I no us perdeu el Dani Alegret d'Els Amics de les Arts fent de director d'orquestra per un dia. I com a artista invitat, el perruquer més famós. Bon humor i bona música. Així és Rossini.'Il barbiere di Siviglia', de Gioacchino Rossini (1816).",
+        "genre": "ÒPERA",
         "image": ""
       }
     ],
     "oca1": [],
     "oca2": [],
-    "oca3": [
-      {
-        "start": "2026-11-16T18:59:41+01:00",
-        "stop": "2026-11-16T20:29:36+01:00",
-        "title": "Tot Costa",
-        "subtitle": "",
-        "description": "Com estan Cubarsí i De Jong? Ens ho explica Ramon Salmurri i ho analitzem amb Marcos López, Anaïs Martí i Dani Senabre. També parlarem d'Olmo, Kounde i Raphinha. Amb Laia Tudel seguirem la Gala de l'Esport. Analitzarem la grada del Barça amb Albert Om i entrevistarem Antonio Hidalgo, entrenador del Deportivo de la Corunya.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
-      }
-    ],
+    "oca3": [],
     "oca4": []
   }
 }
