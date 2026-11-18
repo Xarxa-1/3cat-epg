@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-18T09:39:32.286840+00:00",
+  "updated": "2026-11-18T18:23:43.287012+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-18T10:29:59+01:00",
-        "stop": "2026-11-18T13:54:57+01:00",
-        "title": "Tot es mou",
+        "start": "2026-11-18T19:08:56+01:00",
+        "stop": "2026-11-18T20:15:00+01:00",
+        "title": "Atrapa'm si pots",
         "subtitle": "",
-        "description": "El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.",
-        "genre": "MAGAZINE",
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
         "image": ""
       },
       {
-        "start": "2026-11-18T13:54:57+01:00",
-        "stop": "2026-11-18T14:29:57+01:00",
-        "title": "Telenotícies comarques",
+        "start": "2026-11-18T20:15:00+01:00",
+        "stop": "2026-11-18T21:00:00+01:00",
+        "title": "Està passant",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"
+        "description": "El Jair i la Natza ens parlen de la campanya electoral. L'Elisenda Carod pregunta als veïns si llegeixen els programes electorals i l'Ignasi Taltavull ens proposa noves lleis.",
+        "genre": "GAGS. HUMOR",
+        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
       }
     ],
     "324": [
       {
-        "start": "2026-11-18T10:30:00+01:00",
-        "stop": "2026-11-18T12:00:00+01:00",
+        "start": "2026-11-18T18:30:00+01:00",
+        "stop": "2026-11-18T20:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-18T12:00:00+01:00",
-        "stop": "2026-11-18T13:55:00+01:00",
+        "start": "2026-11-18T20:00:00+01:00",
+        "stop": "2026-11-18T21:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,65 +83,75 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-18T10:00:10+01:00",
-        "stop": "2026-11-18T10:52:53+01:00",
-        "title": "Experiència Catalana",
-        "subtitle": "Meruschka",
-        "description": "La Ivana Miño acompanya la jove sud-africana Meruschka Govender, més coneguda com a Mzansi Girl, a la neu. Visitem amb ella la Vall d'Aran en ple hivern i, a Barcelona, l'acompanyem a conèixer les nostres tradicions de Nadal.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-11-18T18:40:00+01:00",
+        "stop": "2026-11-18T19:48:33+01:00",
+        "title": "Futbol",
+        "subtitle": "Reial Madrid CF-Inter de Milà / Champions League / J5",
+        "description": "Les blanques necessiten la victòria per intentar situar-se entre les quatre primeres, les places que donen accés directe als quarts de final.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"
       },
       {
-        "start": "2026-11-18T10:52:53+01:00",
-        "stop": "2026-11-18T11:22:38+01:00",
-        "title": "GR Pirineus",
-        "subtitle": "Terra de comtes i abats",
-        "description": "En aquesta ruta, Marc de las Heras anirà de Sant Joan de les Abadesses, al castell de Mataplana, després de recórrer el cor del Ripollès. En total, uns 77 km, repartits en dues jornades, fets a peu, en bicicleta i en cremallera, descobrint una terra d'autèntica llegenda.Des de Sant Joan de les Abadesses, el Marc agafarà la bici per fer la ruta del ferro fins a Ripoll, on assistirà a un dels enllaços més tradicionals que existeixen: el casament a pagès. I des d'aquí, cap a Campdevànol i Ribes de Freser, on farà nit.L'endemà, de bon matí, el Marc pujarà al cremallera de Núria, passant per Queralbs i acompanyat dels Randellaires; per visitar la Vall de Núria, un lloc espectacular, ideal per afinar la punteria... Al baixar, seguirà camins ramaders des de Campdevànol passant per Gombrèn, el Santuari de Montgrony i arribant al Castell de Mataplana, un lloc llegendari on el Comte Arnau, l'obligarà a fer-li un bon sopar... Pobret, esperem que li agradi!... Que si no... ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "start": "2026-11-18T19:48:33+01:00",
+        "stop": "2026-11-18T20:40:00+01:00",
+        "title": "Futbol",
+        "subtitle": "Reial Madrid CF-Inter de Milà / Champions League / J5",
+        "description": "Les blanques necessiten la victòria per intentar situar-se entre les quatre primeres, les places que donen accés directe als quarts de final.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-18T10:30:37+01:00",
-        "stop": "2026-11-18T10:41:10+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "El concurs de pastissos",
-        "description": "El senyor Porter vol participar al concurs de pastissos d'enguany, però no sap si podrà perquè se li ha cremat. Per poder-lo acabar necessitarà l'ajuda d'en Ryder i la Patrulla!",
+        "start": "2026-11-18T19:18:14+01:00",
+        "stop": "2026-11-18T19:39:50+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Sirena",
+        "description": "L'Ondine està molt enamorada del Kim i intenta fer-li saber a través d'un joc que juguen a la piscina. Però el Kim no se n'adona, i l'Esfinx aprofita el despit de l'Ondine per convertir-la en una supermalvada que deixarà París inundada sota les aigües.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-18T10:41:10+01:00",
-        "stop": "2026-11-18T11:02:16+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla i el tresor pirata",
-        "description": "El capità Turbot cau per accident a una cova secreta que havia estat l'amagatall d'un pirata. Quan els membres de la Patrulla Peluda rescaten el capità, troben un mapa del tresor incomplet. Ara l'aventura consisteix a trobar el tresor pirata!",
-        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "start": "2026-11-18T19:39:50+01:00",
+        "stop": "2026-11-18T20:00:00+01:00",
+        "title": "Betapodcast",
+        "subtitle": "Parlem de teatre amb Júlia Bonjoch",
+        "description": "Ens visita l'actriu Júlia Bonjoch amb motiu de la iniciativa 'Porta'm al teatre', que se celebra aquest diumenge. Aprofitem per preguntar-li com es va enamorar del teatre i què és el que li agrada més de fer-ne. També li demanem que ens ajudi a millorar les nostres habilitats interpretatives i juguem amb ella al joc de les estàtues.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-18T10:04:31+01:00",
-        "stop": "2026-11-18T10:43:29+01:00",
-        "title": "La Mar de Bé",
-        "subtitle": "Cala Galladera II",
-        "description": "La nansa és una tècnica de pesca artesanal, selectiva i molt sostenible, que s'utilitza per capturar pops i altres espècies similars. En aquest capítol, en Quim Casellas aprendrà aquesta tècnica a bord de la Cala Galladera II, amb en Guillermo Cornejo, el patró major del Port de la Selva. També parlarà amb la biòloga Marina Biel per conèixer de primera mà les gorgònies. I acabarà cuinant una recepta que tindrà el pop com ingredient principal: pop a la brasa amb cremós de patata, xips d'all i pebre dolç. ",
-        "genre": "ALTRES",
+        "start": "2026-11-18T19:15:52+01:00",
+        "stop": "2026-11-18T19:41:38+01:00",
+        "title": "Volcans i homes",
+        "subtitle": "Els llacs volcànics en terra maori",
+        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Nova Zelanda, amb l'interès específic de visitar els àcids llacs de cràter. L'acompanyarem en la seva visita al llac volcànic de l'illa de White Island, el llac Taupo de l'illa del Nord i el llac del volcà Ruapehu, que els maoris consideren una muntanya sagrada.Això ens permetrà veure alhora el punt de vista dels científics que analitzen l'aigua i els gasos dels llacs, i també els estrats del terreny que mostren les diferents erupcions, i el punt de vista tradicional i religiós dels maoris.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-11-18T10:43:29+01:00",
-        "stop": "2026-11-18T11:30:29+01:00",
-        "title": "Bogeria a la pastisseria",
-        "subtitle": "",
-        "description": "En el tercer capítol de 'Bogeria a la pastisseria', visitarem el restaurant xinès més antic i prestigiós de Barcelona. El Christian farà una 'dolça' interpretació de la típica cuina cantonesa…Darth Vader aterra a Can Escribà per fer un encàrrec interestel·lar. Christian 'Skywalker' serà temptat pel costat fosc de la força…",
-        "genre": "ALTRES",
+        "start": "2026-11-18T19:41:38+01:00",
+        "stop": "2026-11-18T20:07:29+01:00",
+        "title": "Volcans i homes",
+        "subtitle": "Tresors per als homes",
+        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, ens porta a Nova Zelanda. Visitarem amb ell l'illa de Mayor Island, un santuari natural ofert pels maoris a l'obsidiana, i veurem, per mitjà d'entrevistes a persones molt diverses, la gran importància que té a l'illa del Nord la geotèrmia, tant per als usos industrials i agrícoles, com per a la vida quotidiana de les persones que viuen a tocar dels guèisers i les fonts termals. A part dels estudis dels biòlegs i els microbiòlegs sobre les curioses formacions microbianes que es generen en aquests entorns extrems i que ofereixen noves interpretacions sobre l'origen de la vida a la Terra. ",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
-    "oca1": [],
+    "oca1": [
+      {
+        "start": "2026-11-18T18:24:09+01:00",
+        "stop": "2026-11-18T19:44:04+01:00",
+        "title": "Waterpolo",
+        "subtitle": "- CN Sabadell-Jadran Herceg Novi / Champions League / J4",
+        "description": "Els vallesans volen la tercera victòria en tres jornades a la fase de grups de la gran competició europea. En el partit disputat a Montenegro, es van imposar al Jadran per 16 a 17.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/1/1713441319517.jpg"
+      }
+    ],
     "oca2": [],
     "oca3": [],
     "oca4": []
