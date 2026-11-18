@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-17T19:31:34.090283+00:00",
+  "updated": "2026-11-18T01:51:41.547842+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-17T20:15:06+01:00",
-        "stop": "2026-11-17T21:00:00+01:00",
-        "title": "Està passant",
-        "subtitle": "",
-        "description": "El Jair i el Queco parlen dels serveis mínims de Rodalies. En Magí ens explica les novetats del món de l'esport i l'Alba Segarra ens explica si s'hi posa de cap o de cul en tot de situacions estrambòtiques.",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
-      },
-      {
-        "start": "2026-11-17T21:00:00+01:00",
-        "stop": "2026-11-17T21:59:57+01:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-11-17T20:00:00+01:00",
-        "stop": "2026-11-17T21:00:00+01:00",
+        "start": "2026-11-18T02:16:00+01:00",
+        "stop": "2026-11-18T04:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,97 +52,97 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-17T21:00:00+01:00",
-        "stop": "2026-11-17T22:05:00+01:00",
-        "title": "Telenotícies vespre",
-        "subtitle": "",
+        "start": "2026-11-18T04:30:00+01:00",
+        "stop": "2026-11-18T05:00:00+01:00",
+        "title": "Ritmes a l'aula",
+        "subtitle": "Doubts",
         "description": "",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-11-18T01:00:00+01:00",
+        "stop": "2026-11-18T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-18T06:00:00+01:00",
+        "stop": "2026-11-18T08:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-17T19:40:00+01:00",
-        "stop": "2026-11-17T21:31:48+01:00",
-        "title": "Bàsquet",
-        "subtitle": "FIATC Girona-Oostende / Fiba Europe Cup / J7",
-        "description": "Els gironins, líders del grup amb 5 victòries, reben els flamencs a la 7a jornada de la FIBA Europe Cup. En el precedent, a Oostende, els catalans van guanyar per 15 punts (76-91).",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"
-      },
-      {
-        "start": "2026-11-17T21:31:48+01:00",
-        "stop": "2026-11-17T22:17:54+01:00",
+        "start": "2026-11-18T02:47:38+01:00",
+        "stop": "2026-11-18T04:19:44+01:00",
         "title": "Bàsquet",
         "subtitle": "Asisa Joventut-Porto / Champions League / J4",
         "description": "Els badalonins volen la quarta victòria per seguir al capdavant del grup. En el precedent de Portugal, la Penya va guanyar 64-81. ",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"
-      }
-    ],
-    "sx3": [
-      {
-        "start": "2026-11-17T20:16:43+01:00",
-        "stop": "2026-11-17T20:38:55+01:00",
-        "title": "Henry Danger",
-        "subtitle": "Els globus maleïts",
-        "description": "El doctor Minyak segresta la reunió dels Man Fans amb un nou pla que obliga el Capità Man i en Kid Danger a intervenir.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
       },
       {
-        "start": "2026-11-17T20:38:55+01:00",
-        "stop": "2026-11-17T20:59:47+01:00",
-        "title": "Henry Danger",
-        "subtitle": "Un directe perillós, primera part",
-        "description": "Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
-      }
-    ],
-    "c33": [
-      {
-        "start": "2026-11-17T20:05:21+01:00",
-        "stop": "2026-11-17T20:32:03+01:00",
-        "title": "Els hotels més remots del món",
-        "subtitle": "Casa de Sao Lourenco -Portugal",
-        "description": "La Casa de São Lourenço, situada al cim de la vall glacial de Zêzere, és un refugi de muntanya serè, dissenyat al voltant de la històrica Pousada de São Lourenço a Manteigas. Originari de la dècada de 1940, aquest establiment s'erigeix com un dels hotels pioners de Portugal. Després d'arribar a estar en un estat ruïnós, aquesta bella dorment va romandre abandonada durant anys, fins que el 2018, la Isabel Costa i el seu marit, el João Tomás, la van trobar i van decidir rescatar-la i fer-la ressorgir de les seves cendres.L'objectiu principal de la parella va ser preservar la rica història de l'estructura original i la seva perfecta integració amb el paisatge de l'entorn: un punt de vista únic situat al cor de la Reserva Natural de la Serra da Estrela, que compta amb alguns dels cims més alts del país, coberts per les nevades hivernals.Combinant un disseny contemporani i els interiors decorats per la Maria Keil, la Casa de São Lourenço ret homenatge a la llana de burell, un teixit local elaborat en una activa fàbrica propera, també recuperada per la Isabel i el João.En els darrers anys, la Isabel i el João han dedicat de tot cor tots els seus esforços al rescat i la preservació d'aquesta regió, amb una determinació decidida, un sentit de missió clarament definit i, sobretot, un profund compromís amb les estimades comunitats locals.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      },
-      {
-        "start": "2026-11-17T20:32:03+01:00",
-        "stop": "2026-11-17T20:59:29+01:00",
-        "title": "Els hotels més remots del món",
-        "subtitle": "El Torridon - Escòcia",
-        "description": "Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
-      }
-    ],
-    "oca1": [
-      {
-        "start": "2026-11-17T20:25:00+01:00",
-        "stop": "2026-11-17T22:29:55+01:00",
-        "title": "Bàsquet",
-        "subtitle": "- Asisa Joventut-Porto / Champions League / J4",
-        "description": "Els badalonins volen la quarta victòria per seguir al capdavant del grup. En el precedent de Portugal, la Penya va guanyar 64-81. ",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"
-      }
-    ],
-    "oca2": [
-      {
-        "start": "2026-11-17T20:30:00+01:00",
-        "stop": "2026-11-17T21:09:55+01:00",
+        "start": "2026-11-18T04:19:44+01:00",
+        "stop": "2026-11-18T05:45:47+01:00",
         "title": "Handbol",
-        "subtitle": "- BM Granollers-Aguas Santas / EHF European League / J4",
+        "subtitle": "BM Granollers-Aguas Santas / EHF European League / J4",
         "description": "El Fraikin suma dues victòries en tres jornades. Un dels partits guanyats va ser a la pista dels portuguesos, de manera molt ajustada (31-32).",
         "genre": "RETRANSMISSIONS ESPORTS",
         "image": "https://img.ccma.cat/multimedia/jpg/2/7/1729614341772.jpg"
       }
     ],
+    "sx3": [
+      {
+        "start": "2026-11-18T02:42:34+01:00",
+        "stop": "2026-11-18T03:03:05+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Sangsura",
+        "description": "Absorta en la seva doble vida, la Marinette no s'ha adonat de la importància del compromís de la seva amiga Mylène amb la causa ecologista. Li farà obrir els ulls un projecte de reforma de la plaça dels Vosges que impulsa l'alcalde Bourgeois i en contra del qual es manifesta la Mylène. La Marinette i els seus amics decideixen fer costat a la Mylène per salvar els arbres de la plaça, però l'Esfinx Fosc reacciona i reakumatitza l'alcalde i el transforma en Maledíctor. Davant d'això, Ladybug i el Gat Noir també s'hauran d'implicar en la lluita per salvar la plaça dels Vosges i tot París.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
+      },
+      {
+        "start": "2026-11-18T03:03:05+01:00",
+        "stop": "2026-11-18T03:23:43+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Culpabisme",
+        "description": "La Marinette descobreix que la Juleka amaga un secret de la Rose des de fa molt de temps. Pensant que ajudarà la Juleka, la Marinette la convenç perquè l'hi expliqui i li promet que no li dirà mai a la Rose que ho sap. Però malgrat la seva promesa, la Marinette i els companys ja no es poden comportar de manera normal amb la Rose, que de seguida s'adona que la Juleka ha xerrat més del compte. Això fa que la Juleka s'enfonsi en un abisme de culpabilitat tan profund que l'Esfinx Fosc intentarà aprofitar-ho per mirar de capturar Ladybug i el Gat Noir.",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
+        "image": ""
+      }
+    ],
+    "c33": [
+      {
+        "start": "2026-11-18T02:15:23+01:00",
+        "stop": "2026-11-18T02:57:02+01:00",
+        "title": "Jo mai mai",
+        "subtitle": "Cavalls",
+        "description": "La Mai té un dia difícil a Les Guilles i ha de remar contra corrent. La Noor, sense el seu mòbil, pateix atacs d'angoixa. La Rita es venja de la Sofia i es posa tot el grup en contra. El David li diu a la Mai que vol una relació més seriosa, però ella no vol.",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
+      },
+      {
+        "start": "2026-11-18T02:57:02+01:00",
+        "stop": "2026-11-18T03:22:04+01:00",
+        "title": "Òpera en texans",
+        "subtitle": "Porgy and Bess",
+        "description": "Si us agrada el jazz, els musicals de Broadway o les pel·lícules de Hollywood us agradarà 'Porgy and Bess'. Perquè aquesta és una òpera diferent, una òpera que sembla un musical i que porta els ritmes afroamericans a la sang. Escrita el 1935 per un dels genis de la música del segle XX, George Gershwin, i estrenada només una sola vegada a Barcelona, el 1955. Si Mozart fos viu, possiblement escriuria 'Porgy and Bess'.",
+        "genre": "ÒPERA",
+        "image": ""
+      }
+    ],
+    "oca1": [],
+    "oca2": [],
     "oca3": [],
     "oca4": []
   }
