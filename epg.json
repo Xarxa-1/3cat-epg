@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-18T18:23:43.287012+00:00",
+  "updated": "2026-11-19T00:38:11.461981+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-18T19:08:56+01:00",
-        "stop": "2026-11-18T20:15:00+01:00",
-        "title": "Atrapa'm si pots",
+        "start": "2026-11-19T00:35:08+01:00",
+        "stop": "2026-11-19T02:22:48+01:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
         "image": ""
       },
       {
-        "start": "2026-11-18T20:15:00+01:00",
-        "stop": "2026-11-18T21:00:00+01:00",
-        "title": "Està passant",
+        "start": "2026-11-19T02:22:48+01:00",
+        "stop": "2026-11-19T04:30:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El Jair i la Natza ens parlen de la campanya electoral. L'Elisenda Carod pregunta als veïns si llegeixen els programes electorals i l'Ignasi Taltavull ens proposa noves lleis.",
-        "genre": "GAGS. HUMOR",
-        "image": "https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-18T18:30:00+01:00",
-        "stop": "2026-11-18T20:00:00+01:00",
+        "start": "2026-11-19T01:00:00+01:00",
+        "stop": "2026-11-19T06:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-18T20:00:00+01:00",
-        "stop": "2026-11-18T21:00:00+01:00",
+        "start": "2026-11-19T06:00:00+01:00",
+        "stop": "2026-11-19T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,75 +83,65 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-18T18:40:00+01:00",
-        "stop": "2026-11-18T19:48:33+01:00",
-        "title": "Futbol",
-        "subtitle": "Reial Madrid CF-Inter de Milà / Champions League / J5",
-        "description": "Les blanques necessiten la victòria per intentar situar-se entre les quatre primeres, les places que donen accés directe als quarts de final.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"
+        "start": "2026-11-19T00:54:30+01:00",
+        "stop": "2026-11-19T02:24:36+01:00",
+        "title": "Onze",
+        "subtitle": "",
+        "description": "Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-11-18T19:48:33+01:00",
-        "stop": "2026-11-18T20:40:00+01:00",
-        "title": "Futbol",
-        "subtitle": "Reial Madrid CF-Inter de Milà / Champions League / J5",
-        "description": "Les blanques necessiten la victòria per intentar situar-se entre les quatre primeres, les places que donen accés directe als quarts de final.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"
+        "start": "2026-11-19T02:24:36+01:00",
+        "stop": "2026-11-19T02:47:03+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-18T19:18:14+01:00",
-        "stop": "2026-11-18T19:39:50+01:00",
-        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
-        "subtitle": "Sirena",
-        "description": "L'Ondine està molt enamorada del Kim i intenta fer-li saber a través d'un joc que juguen a la piscina. Però el Kim no se n'adona, i l'Esfinx aprofita el despit de l'Ondine per convertir-la en una supermalvada que deixarà París inundada sota les aigües.",
+        "start": "2026-11-19T01:25:16+01:00",
+        "stop": "2026-11-19T01:44:25+01:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "He de capturar… un què?!",
+        "description": "El Goh ha capturat molts Pokémon fins ara, però quin serà el següent? Veient que l'Ash i el Pikachu són tan amics, decideix que també capturarà un Pikachu per ell. Precisament, el professor Cirerer vol que els nostres herois investiguin una aparició massiva de Pikachu i es posen en marxa. Quan arriben, el Goh captura una femella Pikachu, que s'ha aplegat amb els seus amics Pikachu per buscar pedres tro. Però llavors arriba el Team Rocket, que dedica a atrapar massivament els Pikachu salvatges, i també el Pikachu de l'Ash. La Pikachu del Goh decideix utilitzar una pedra tro per evolucionar en Raichu amb l'objectiu de rescatar els amics Pikachu, i tots junts ataquen amb un llampec immens que envia el Team Rocket a pastar fang.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-18T19:39:50+01:00",
-        "stop": "2026-11-18T20:00:00+01:00",
-        "title": "Betapodcast",
-        "subtitle": "Parlem de teatre amb Júlia Bonjoch",
-        "description": "Ens visita l'actriu Júlia Bonjoch amb motiu de la iniciativa 'Porta'm al teatre', que se celebra aquest diumenge. Aprofitem per preguntar-li com es va enamorar del teatre i què és el que li agrada més de fer-ne. També li demanem que ens ajudi a millorar les nostres habilitats interpretatives i juguem amb ella al joc de les estàtues.",
-        "genre": "ALTRES",
+        "start": "2026-11-19T01:44:25+01:00",
+        "stop": "2026-11-19T02:03:34+01:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Fent combats a la sorra!",
+        "description": "L'Ash està deprimit: després de tres derrotes consecutives ha baixat de classe en la Sèrie Mundial de Coronació. Mentrestant, a Ciutat Malvalona hi ha aparegut una misteriosa tempesta de sorra en forma de remolí que atreu la gent amb el so d'un cant estrany, i l'Ash i el Goh se n'hi van a investigar-ho. Dins del remolí descobreixen un desert extens, on el Goh captura un Trapinch i un Vibrava. A més, descobreixen l'origen del cant: un poderós Flygon! Mentre l'Ash queda absorbit en els seus pensaments, el Goh, segur d'ell mateix, derrota el Flygon i, a més, el captura! Quan el Goh revela que la seva estratègia tan poc convencional l'hi ha inspirat l'Ash, l'Ash es comença a sentir millor i promet que es tornarà a entrenar intensament per poder combatre contra el Lionel! ",
+        "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-18T19:15:52+01:00",
-        "stop": "2026-11-18T19:41:38+01:00",
-        "title": "Volcans i homes",
-        "subtitle": "Els llacs volcànics en terra maori",
-        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Nova Zelanda, amb l'interès específic de visitar els àcids llacs de cràter. L'acompanyarem en la seva visita al llac volcànic de l'illa de White Island, el llac Taupo de l'illa del Nord i el llac del volcà Ruapehu, que els maoris consideren una muntanya sagrada.Això ens permetrà veure alhora el punt de vista dels científics que analitzen l'aigua i els gasos dels llacs, i també els estrats del terreny que mostren les diferents erupcions, i el punt de vista tradicional i religiós dels maoris.",
+        "start": "2026-11-19T01:11:40+01:00",
+        "stop": "2026-11-19T02:03:51+01:00",
+        "title": "1942",
+        "subtitle": "Si cal matar",
+        "description": "SINOPSI: De què val, la prohibició de matar durant una guerra? L'any 1942, la guerra continua estenent-se arreu del planeta i implica cada vegada més països de tots els continents. De manera que persones com en George, un nadiu de les Illes Salomó, es veuen obligades a participar en un conflicte que no té res a veure amb ells. O una nena com la Walderez, del Brasil, en patirà les conseqüències.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"
       },
       {
-        "start": "2026-11-18T19:41:38+01:00",
-        "stop": "2026-11-18T20:07:29+01:00",
-        "title": "Volcans i homes",
-        "subtitle": "Tresors per als homes",
-        "description": "En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, ens porta a Nova Zelanda. Visitarem amb ell l'illa de Mayor Island, un santuari natural ofert pels maoris a l'obsidiana, i veurem, per mitjà d'entrevistes a persones molt diverses, la gran importància que té a l'illa del Nord la geotèrmia, tant per als usos industrials i agrícoles, com per a la vida quotidiana de les persones que viuen a tocar dels guèisers i les fonts termals. A part dels estudis dels biòlegs i els microbiòlegs sobre les curioses formacions microbianes que es generen en aquests entorns extrems i que ofereixen noves interpretacions sobre l'origen de la vida a la Terra. ",
+        "start": "2026-11-19T02:03:51+01:00",
+        "stop": "2026-11-19T02:53:56+01:00",
+        "title": "1942",
+        "subtitle": "1942: Si cal vèncer",
+        "description": "SINOPSI: Novembre del 1942. S'acaba l'any amb una alenada d'esperança. La relació de forces sembla que s'inverteix. La maquinària alemanya ha sortit malparada al desert d'Egipte, les tropes de la Wehrmacht estan enfangades al front rus i l'exèrcit japonès mostra els primers senyals de debilitat al Pacífic. Però tot això, la població civil en general no ho sap. Una cosa és segura: el patiment no s'ha acabat ni de bon tros per a homes, dones i criatures.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"
       }
     ],
-    "oca1": [
-      {
-        "start": "2026-11-18T18:24:09+01:00",
-        "stop": "2026-11-18T19:44:04+01:00",
-        "title": "Waterpolo",
-        "subtitle": "- CN Sabadell-Jadran Herceg Novi / Champions League / J4",
-        "description": "Els vallesans volen la tercera victòria en tres jornades a la fase de grups de la gran competició europea. En el partit disputat a Montenegro, es van imposar al Jadran per 16 a 17.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/1/1713441319517.jpg"
-      }
-    ],
+    "oca1": [],
     "oca2": [],
     "oca3": [],
     "oca4": []
