@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-19T17:02:24.632724+00:00",
+  "updated": "2026-11-19T23:33:41.203638+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-19T17:35:56+01:00",
-        "stop": "2026-11-19T19:11:40+01:00",
-        "title": "La Selva",
-        "subtitle": "",
-        "description": "Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
+        "start": "2026-11-19T23:51:47+01:00",
+        "stop": "2026-11-20T00:41:02+01:00",
+        "title": "Nervi",
+        "subtitle": "Una història queer catalana amb Fades",
+        "description": "Qui escriu la nostra història? Quins referents obertament LGTBI tenim a Catalunya? Tenim una escena queer que reivindica els seus drets i cerca uns orígens propis, una història queer catalana. Un dels seus màxims exponents, el trio de pop catalanomallorquí Fades, té clar que s'ha de fer ballant. Hi parlem amb motiu de la publicació d''Iconique', el seu primer disc d'estudi. L'humorista Maria Rovira va a l'arrel de paraules combatives i amb glamur. Més enllà de Maria Mercè Marçal i Terenci Moix, quina és la genealogia de les dissidències sexuals en català? S'ho pregunten l'Oriol Puig Taulé i l'Emma Zafón mentre fan safareig cultural. Tanquem amb 'Les feres' de Sandra Monfort, un directe carregat de tradició i avantguarda.",
+        "genre": "ALTRES",
+        "image": ""
       },
       {
-        "start": "2026-11-19T19:11:40+01:00",
-        "stop": "2026-11-19T20:15:00+01:00",
-        "title": "Atrapa'm si pots",
+        "start": "2026-11-20T00:41:02+01:00",
+        "stop": "2026-11-20T02:14:20+01:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-19T17:00:00+01:00",
-        "stop": "2026-11-19T18:30:00+01:00",
+        "start": "2026-11-20T00:30:00+01:00",
+        "stop": "2026-11-20T01:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-19T18:30:00+01:00",
-        "stop": "2026-11-19T20:00:00+01:00",
+        "start": "2026-11-20T01:00:00+01:00",
+        "stop": "2026-11-20T06:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-19T17:29:04+01:00",
-        "stop": "2026-11-19T18:30:00+01:00",
-        "title": "Esport Club",
-        "subtitle": "Deco, prèvia Barça-Servette, Ludovic Fàbregas i Joan Salarich",
-        "description": "Deco diu que Balde no està en venda. Última hora del Barça-Servette, amb Francesc Latorre. Entrevistem Ludovic Fàbregas abans del Kielce-Barça de la Champions d'handbol. L'NBA amb Jordi de Mas i Joan Salarich, director del Festival de Cinema de Muntanya de Torelló. A la tertúlia ens acompanyen Martí Molina, Joan Prats i Joanjo Pallàs.",
+        "start": "2026-11-20T00:33:15+01:00",
+        "stop": "2026-11-20T01:00:45+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       },
       {
-        "start": "2026-11-19T18:30:00+01:00",
-        "stop": "2026-11-19T20:27:06+01:00",
-        "title": "Handbol",
-        "subtitle": "Kielce-Barça / EHF Champions / Main Round J1",
-        "description": "Els blaugranes, que han passat amb dues victòries a la fase principal de la competició, defensen el liderat del grup. El conjunt polonès necessita els dos punts per estrenar el seu marcador.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"
+        "start": "2026-11-20T01:00:45+01:00",
+        "stop": "2026-11-20T02:36:39+01:00",
+        "title": "Onze",
+        "subtitle": "Els deures de Deco; post Barça-Servette i 'El consultori'",
+        "description": "Víctor Lozano, David Bernabeu, Gemma Mallorca i Jordi Costa comenten les carpetes pendents de Deco per aquest mercat d'hivern i el partit de la Champions femenina del Barça. En Sergi Ferrer respon a els dubtes dels espectadors de l'Onze.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-19T17:56:47+01:00",
-        "stop": "2026-11-19T18:07:21+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla salva un gat que roba",
-        "description": "A Badia Aventures fan un intercanvi de pastissos i l'alcalde Humdinger envia un gatet a pispar-li un pastís al senyor Porter per poder-hi participar.",
+        "start": "2026-11-20T00:22:32+01:00",
+        "stop": "2026-11-20T00:42:41+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "Un Nadal animal (2a part)",
+        "description": "Els germans Kratt i tot l'equip han ajornat la festa de Nadal i persegueixen els malvats Gormand, Donita i Zach per rescatar els seus amics animals. Quan sembla que ho han aconseguit, els dolents fan servir les seves males arts per enganyar-los, els prenen tots els aparells i els abandonen al mig de l'oceà Àrtic. Ara només tenen un regalet que el Martin guarda a la butxaca i els animals de l'Àrtic per intentar salvar els seus amics.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-19T18:07:21+01:00",
-        "stop": "2026-11-19T18:18:23+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla Marina: La Patrulla salva una campana de busseig que vola",
-        "description": "Un volcà submarí està a punt d'entrar en erupció i la Yumi i l'alcaldessa Goodway no ho saben i hi han anat a fer submarinisme a prop.",
+        "start": "2026-11-20T00:42:41+01:00",
+        "stop": "2026-11-20T01:03:20+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "El fraret rescatador",
+        "description": "Els Kratt estan sobrevolant el mar i, de sobte, se'ls tira a sobre una onada gegant que toca la nau Tortuga. Els tripulants surten disparats cap aquí i cap allà i van a parar tots a llocs diferents. Per sort, el Martin va a parar a una illa on viuen uns frarets, uns ocells marins petits que tenen uns poders que li anirien molt bé per salvar tots els membres de l'equip. Però com s'ho farà, ell sol en una illa deserta?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-19T17:35:21+01:00",
-        "stop": "2026-11-19T18:00:46+01:00",
-        "title": "Quèquicom",
-        "subtitle": "Piscines, clor i salut",
-        "description": "'Quèquicom' detallarà demà les normes que s'han de seguir per fer un bon ús de les piscines. Les piscines són adequades tant per practicar-hi la natació com per fer-hi rehabilitació, però convé respectar les normes d'higiene per evitar reaccions adverses. D'això en parlarà el programa científic del 33, amb el reportatge de Pere Renom i Dani Vallvé titulat 'Piscines, clor i salut'.Una de les més importants reaccions adverses pot ser motivada pel clor. El clor de desinfecció, combinat amb matèria orgànica, com el pèl o l'orina, genera uns gasos que podrien afectar l'ADN de les cèl·lules. Per aquest motiu les piscines han d'estar ben ventilades, ja que una piscina pública és un gran recipient ple d'aigua calenta on es banyen centenars de persones cada dia. Sota els nostres peus s'amaguen les instal·lacions que garanteixen la higiene de l'aigua. Esquemàticament, en destaca la bomba hidràulica, els filtres, un panell de control i un sistema d'escalfament. La bomba xucla l'aigua de la piscina i la introdueix en un laberint de tubs. La primera parada són els filtres. Aquí s'eliminen les partícules més grosses, com cabells, borrissol, fulles o insectes. A continuació, l'aigua és desinfectada, habitualment per mitjà de clor. Una vegada desinfectada, l'aigua es condueix fins a uns intercanviadors de calor que l'escalfaran a uns 26º C abans de retornar-la a la piscina. Si no es fes així, l'elevada temperatura i l'entrada contínua de matèria orgànica a través dels banyistes convertiria la piscina en un perillós caldo de cultiu. El poder desinfectant del clorUn estudi ha detectat que quan afegim clor a l'aigua reacciona amb compostos orgànics i genera subproductes de la desinfecció com els trialomentans, el cloroform, bromoform, o els àcids cloroacètics, entre molts altres. Aquests productes són mutagènics, per tant, poden alterar el nostre DNA. Entren al cos per tres vies. Per ingesta, si ens empassem aigua, pel contacte amb la pell i per inhalació, ",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-11-19T23:37:15+01:00",
+        "stop": "2026-11-20T01:18:17+01:00",
+        "title": "Pel·lícula",
+        "subtitle": "Libertad",
+        "description": "LIBERTADProductores: Lastor Media, Avalon PC i Bulletproof Cupid, 2021Direcció i guió: Clara RoquetDirecció de fotografia: Gris JordanaMúsica: Paul TyanIntèrprets: María Morera (Nora), Nicolle García (Libertad), Vicky Peña (Ángela), Nora Navas (Teresa) i Carol Hurtado (Rosana)La vida de la Nora canviarà quan la Libertad, la filla de la cuidadora colombiana que es fa càrrec de la seva àvia, arriba a la casa d'estiueig de la família. La nova i intensa amistat entre les dues joves, de procedència diferent, marcarà el seu despertar adolescent. ",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/8/1/1719562392718.jpg"
       },
       {
-        "start": "2026-11-19T18:00:46+01:00",
-        "stop": "2026-11-19T18:27:14+01:00",
-        "title": "Quèquicom",
-        "subtitle": "QQC respon 1",
-        "description": "'Quèquicom' dedicarà dos programes a respondre preguntes que la gent es fa sobre les qüestions més habituals i quotidianes. Amb el títol genèric 'Quèquicom respon' el programa oferirà aquestes respostes en un reportatge de Míriam Martí, Cari Pardo i Dani Vallvé. En el capítol 1 responem als temes següents:Quina és la raça de gos més intel·ligent? Posar pasta de dents a les cremades va bé? Quèquicom respon de forma clara i breu aquestes i altres preguntes que els espectadors han fet arribar al programa. Hi ha qüestions tan curioses com 'Quina mena de menjar fa fer pets?' o 'Què és un ull de poll?' i totes tenen una explicació científica ben interessant.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-11-20T01:18:17+01:00",
+        "stop": "2026-11-20T01:42:05+01:00",
+        "title": "La pell dels murs",
+        "subtitle": "Núria Toll-Patricia Sánchez",
+        "description": "Aquest episodi de La Pell dels Murs està dedicat a la Núria Toll, dissenyadora gràfica i muralista igualadina. Toll és una de les veus més sòlides i significades a l'hora de reivindicar el paper de la dona en l'art urbà. El seu estil, clarament reconeixible, combina formes geomètriques, colors plans i línies simples per el·laborar missatges que busquen incitar a la reflexió sobre problemes socials relacionats amb el feminisme, la injustícia i l'estigma.Durant diverses jornades, la realitzadora Patricia Sánchez va seguir el procés d'execució d'un mural als Jardins de Maria Baldó, de Barcelona. L'obra va ser creada conjuntament entre Núria Toll i un grup de dones vinculades al Grup ATRA, una entitat sense ànim de lucre que ofereix atenció i tractament a persones en situació de vulnerabilitat i risc d'exclusió social. El resultat és una història molt coral, tendra i, alhora, punyent sobre l'estigma que pateixen les dones amb problemes de salut mental. 'Tothom té les seves potencialitats, però quan alguna persona té un desequilibri, es considera que és diferent. Justament, volem trencar amb l'exclusió social que aquesta diferència genera', comenta una de les participants en el documental. El mural forma part del projecte 'Parets amb ànima' que impulsa el Grup ATRA i que es duu a terme a diferents espais públics del barri de Gràcia de Barcelona, amb l'objectiu d'educar i sensibilitzar en matèria d'igualtat, inclusió social, feminismes i sostenibilitat, i ha comptat amb la col·laboració de Pintures Montó i de Montana Colors.La sèrie documental La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
