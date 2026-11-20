@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-19T23:33:41.203638+00:00",
+  "updated": "2026-11-20T04:17:44.376471+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-19T23:51:47+01:00",
-        "stop": "2026-11-20T00:41:02+01:00",
-        "title": "Nervi",
-        "subtitle": "Una història queer catalana amb Fades",
-        "description": "Qui escriu la nostra història? Quins referents obertament LGTBI tenim a Catalunya? Tenim una escena queer que reivindica els seus drets i cerca uns orígens propis, una història queer catalana. Un dels seus màxims exponents, el trio de pop catalanomallorquí Fades, té clar que s'ha de fer ballant. Hi parlem amb motiu de la publicació d''Iconique', el seu primer disc d'estudi. L'humorista Maria Rovira va a l'arrel de paraules combatives i amb glamur. Més enllà de Maria Mercè Marçal i Terenci Moix, quina és la genealogia de les dissidències sexuals en català? S'ho pregunten l'Oriol Puig Taulé i l'Emma Zafón mentre fan safareig cultural. Tanquem amb 'Les feres' de Sandra Monfort, un directe carregat de tradició i avantguarda.",
+        "start": "2026-11-20T05:00:00+01:00",
+        "stop": "2026-11-20T05:45:44+01:00",
+        "title": "Fusió i swing a l'estudi",
+        "subtitle": "Gemini",
+        "description": "Gemini són tres grans intèrprets a la recerca de l'evocació i el color a través de la seva música. Podríem dir que practiquen un estil influenciat per la musica laietana dels 70 i el jazz que es feia a Barcelona durant els 80. Jordi Gaspar, al baix acústic; Jordi Bonell, a la guitarra, i Roger Blavia, a la percussió.",
         "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-11-20T00:41:02+01:00",
-        "stop": "2026-11-20T02:14:20+01:00",
-        "title": "Mésnit",
-        "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
+        "start": "2026-11-20T05:45:44+01:00",
+        "stop": "2026-11-20T05:48:52+01:00",
+        "title": "Videoclips catalans",
+        "subtitle": "Arc de Triomf - De què vas",
+        "description": "",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-20T00:30:00+01:00",
-        "stop": "2026-11-20T01:00:00+01:00",
+        "start": "2026-11-20T01:00:00+01:00",
+        "stop": "2026-11-20T06:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-20T01:00:00+01:00",
-        "stop": "2026-11-20T06:00:00+01:00",
+        "start": "2026-11-20T06:00:00+01:00",
+        "stop": "2026-11-20T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-20T00:33:15+01:00",
-        "stop": "2026-11-20T01:00:45+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "start": "2026-11-20T04:27:23+01:00",
+        "stop": "2026-11-20T06:00:42+01:00",
+        "title": "Tot Costa",
+        "subtitle": "Deco diu que Balde no sortirà al gener",
+        "description": "Analitzem l'entrevista a Deco i Bojan amb Santi Giménez, Jordi Grau i Laia Tudel. També expliquem com han tornat els blaugranes a la feina. Anem a Madrid amb el 'Boig de la Castellana', David Sánchez, i analitzem com pinta el Gran Premi de motociclisme de Portugal amb Damià Aguilar. ",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
       },
       {
-        "start": "2026-11-20T01:00:45+01:00",
-        "stop": "2026-11-20T02:36:39+01:00",
-        "title": "Onze",
-        "subtitle": "Els deures de Deco; post Barça-Servette i 'El consultori'",
-        "description": "Víctor Lozano, David Bernabeu, Gemma Mallorca i Jordi Costa comenten les carpetes pendents de Deco per aquest mercat d'hivern i el partit de la Champions femenina del Barça. En Sergi Ferrer respon a els dubtes dels espectadors de l'Onze.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-11-20T06:00:42+01:00",
+        "stop": "2026-11-20T06:13:51+01:00",
+        "title": "Pitch&Cat",
+        "subtitle": "La targeta virtual",
+        "description": "Aprenem com funciona la nova aplicació de la Targeta Virtual de la Federació Catalana de Pitch & Putt (FCPP), que substitueix la tradicional targeta física. A més, ens desplacem fins al Garraf per reviure els millors moments de la Copa Catalunya de Parelles Mixtes, disputada al Pitch & Putt Portal del Roc, a Vilanova i la Geltrú.",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/6/8/1727969229786.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-20T00:22:32+01:00",
-        "stop": "2026-11-20T00:42:41+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "Un Nadal animal (2a part)",
-        "description": "Els germans Kratt i tot l'equip han ajornat la festa de Nadal i persegueixen els malvats Gormand, Donita i Zach per rescatar els seus amics animals. Quan sembla que ho han aconseguit, els dolents fan servir les seves males arts per enganyar-los, els prenen tots els aparells i els abandonen al mig de l'oceà Àrtic. Ara només tenen un regalet que el Martin guarda a la butxaca i els animals de l'Àrtic per intentar salvar els seus amics.",
+        "start": "2026-11-20T05:07:33+01:00",
+        "stop": "2026-11-20T05:19:02+01:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "En Martís mana",
+        "description": "En Pinxo cedeix el seu lloc de cap de la colla a en Martís per anar a buscar nous a una noguera que n'és plena a vessar i evitar que els gats del poble se les quedin totes. Pel camí, en Martís s'haurà de guanyar el respecte de la Guineta i en Timbal, que en un principi se'l prenen a broma.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-20T00:42:41+01:00",
-        "stop": "2026-11-20T01:03:20+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El fraret rescatador",
-        "description": "Els Kratt estan sobrevolant el mar i, de sobte, se'ls tira a sobre una onada gegant que toca la nau Tortuga. Els tripulants surten disparats cap aquí i cap allà i van a parar tots a llocs diferents. Per sort, el Martin va a parar a una illa on viuen uns frarets, uns ocells marins petits que tenen uns poders que li anirien molt bé per salvar tots els membres de l'equip. Però com s'ho farà, ell sol en una illa deserta?",
+        "start": "2026-11-20T05:19:02+01:00",
+        "stop": "2026-11-20T05:30:37+01:00",
+        "title": "La família Teixó-Guineu",
+        "subtitle": "Malalt de mentida",
+        "description": "La família Teixó-Guineu està recollint les provisions per a l'hivern i ha de carretejar un munt de caixes. En Pinxo, quan veu que la Trufa agafa tos i l'Edmond l'envia al llit, decideix fer-se passar per malalt per ficar-se al llit i no haver de treballar. En vista de l'èxit que té, tots els seus germans intenten fer el mateix.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-19T23:37:15+01:00",
-        "stop": "2026-11-20T01:18:17+01:00",
-        "title": "Pel·lícula",
-        "subtitle": "Libertad",
-        "description": "LIBERTADProductores: Lastor Media, Avalon PC i Bulletproof Cupid, 2021Direcció i guió: Clara RoquetDirecció de fotografia: Gris JordanaMúsica: Paul TyanIntèrprets: María Morera (Nora), Nicolle García (Libertad), Vicky Peña (Ángela), Nora Navas (Teresa) i Carol Hurtado (Rosana)La vida de la Nora canviarà quan la Libertad, la filla de la cuidadora colombiana que es fa càrrec de la seva àvia, arriba a la casa d'estiueig de la família. La nova i intensa amistat entre les dues joves, de procedència diferent, marcarà el seu despertar adolescent. ",
-        "genre": "PEL·LÍCULA / TELEFILM",
-        "image": "https://img.3cat.cat/multimedia/jpg/8/1/1719562392718.jpg"
+        "start": "2026-11-20T04:53:05+01:00",
+        "stop": "2026-11-20T05:40:07+01:00",
+        "title": "La Renaixença",
+        "subtitle": "La claqueta",
+        "description": "Tot i que a 'La Renaixença' no fem servir la claqueta, n'hem de parlar per guanyar-nos una mica el sector. Fa ràbia quan no lliga la imatge i la veu, eh? Amb la claqueta això queda solucionat. Tenim una visita d'aquelles que fan il·lusió: la Mercè Framis i en Ferran Albiol. Els titellaires d'en Mic i en Tomàtic. No havien compartit mai espai-temps, i ens fa il·lusió que això passi a casa nostra. Trobada de referents de generacions de canalla catalana. I sortim a passejar en Sugus per la guerra de la Galleda, el 1325.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-11-20T01:18:17+01:00",
-        "stop": "2026-11-20T01:42:05+01:00",
-        "title": "La pell dels murs",
-        "subtitle": "Núria Toll-Patricia Sánchez",
-        "description": "Aquest episodi de La Pell dels Murs està dedicat a la Núria Toll, dissenyadora gràfica i muralista igualadina. Toll és una de les veus més sòlides i significades a l'hora de reivindicar el paper de la dona en l'art urbà. El seu estil, clarament reconeixible, combina formes geomètriques, colors plans i línies simples per el·laborar missatges que busquen incitar a la reflexió sobre problemes socials relacionats amb el feminisme, la injustícia i l'estigma.Durant diverses jornades, la realitzadora Patricia Sánchez va seguir el procés d'execució d'un mural als Jardins de Maria Baldó, de Barcelona. L'obra va ser creada conjuntament entre Núria Toll i un grup de dones vinculades al Grup ATRA, una entitat sense ànim de lucre que ofereix atenció i tractament a persones en situació de vulnerabilitat i risc d'exclusió social. El resultat és una història molt coral, tendra i, alhora, punyent sobre l'estigma que pateixen les dones amb problemes de salut mental. 'Tothom té les seves potencialitats, però quan alguna persona té un desequilibri, es considera que és diferent. Justament, volem trencar amb l'exclusió social que aquesta diferència genera', comenta una de les participants en el documental. El mural forma part del projecte 'Parets amb ànima' que impulsa el Grup ATRA i que es duu a terme a diferents espais públics del barri de Gràcia de Barcelona, amb l'objectiu d'educar i sensibilitzar en matèria d'igualtat, inclusió social, feminismes i sostenibilitat, i ha comptat amb la col·laboració de Pintures Montó i de Montana Colors.La sèrie documental La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.",
+        "start": "2026-11-20T05:40:07+01:00",
+        "stop": "2026-11-20T05:44:50+01:00",
+        "title": "Gran!",
+        "subtitle": "Mary Shelley: 'Frankenstein'",
+        "description": "Mary Wollstonecraft Godwin, més coneguda com Mary Shelley, va escriure, amb només divuit anys, un autèntic clàssic de la literatura fantàstica: 'Frankenstein o el Prometeu modern'. Va ser publicada l'any 1818 i la novel·la va projectar una ombra tan llarga que ha arribat fins als nostres dies. Personalitats de l'alçada artística de Guillermo del Toro, James Whale, Kenneth Branagh o el mateix Tim Burton amb el seu 'Frankenweenie' s'han aproximat d'una manera més fidel, lliure o trencadora al mite creat per l'escriptora britànica. ",
         "genre": "ALTRES",
-        "image": ""
+        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
       }
     ],
     "oca1": [],
