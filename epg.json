@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-20T04:17:44.376471+00:00",
+  "updated": "2026-11-20T21:24:09.468312+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-20T05:00:00+01:00",
-        "stop": "2026-11-20T05:45:44+01:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Gemini",
-        "description": "Gemini són tres grans intèrprets a la recerca de l'evocació i el color a través de la seva música. Podríem dir que practiquen un estil influenciat per la musica laietana dels 70 i el jazz que es feia a Barcelona durant els 80. Jordi Gaspar, al baix acústic; Jordi Bonell, a la guitarra, i Roger Blavia, a la percussió.",
-        "genre": "ALTRES",
+        "start": "2026-11-20T22:03:50+01:00",
+        "stop": "2026-11-20T22:30:34+01:00",
+        "title": "Després de tu",
+        "subtitle": "Indeleble",
+        "description": "L'Alba es prepara per als exàmens i pren d'amagat unes pastilles del seu pare per rendir més. Les pastilles li provoquen una mala reacció i la família l'ha de dur a l'hospital. Aquest ensurt farà que la Raquel i en Pau es reconciliïn i que ell prengui una gran decisió: deixar les pastilles.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-11-20T05:45:44+01:00",
-        "stop": "2026-11-20T05:48:52+01:00",
-        "title": "Videoclips catalans",
-        "subtitle": "Arc de Triomf - De què vas",
-        "description": "",
-        "genre": "ALTRES",
+        "start": "2026-11-20T22:30:34+01:00",
+        "stop": "2026-11-20T22:59:40+01:00",
+        "title": "L'un per l'altre",
+        "subtitle": "El Travolta d'Horta",
+        "description": "El Calafell està anant amb la Susanna i la Joana se sent fatal, no sap què li passa. De cop es desmaia i en un 'flash-back' veiem l'adolescència de la Joana, el Calafell, el Toni i la Maria. Són els anys vuitanta i s'està preparant una gran festa a l'hostal Lisboa. El Toni i la Maria encara no surten junt i la Joana està enamorada del Calafell però ell és un guaperes que la troba nena.",
+        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-20T01:00:00+01:00",
-        "stop": "2026-11-20T06:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-20T22:05:00+01:00",
+        "stop": "2026-11-20T23:30:00+01:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       },
       {
-        "start": "2026-11-20T06:00:00+01:00",
-        "stop": "2026-11-20T08:00:00+01:00",
+        "start": "2026-11-20T23:30:00+01:00",
+        "stop": "2026-11-21T00:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-20T04:27:23+01:00",
-        "stop": "2026-11-20T06:00:42+01:00",
-        "title": "Tot Costa",
-        "subtitle": "Deco diu que Balde no sortirà al gener",
-        "description": "Analitzem l'entrevista a Deco i Bojan amb Santi Giménez, Jordi Grau i Laia Tudel. També expliquem com han tornat els blaugranes a la feina. Anem a Madrid amb el 'Boig de la Castellana', David Sánchez, i analitzem com pinta el Gran Premi de motociclisme de Portugal amb Damià Aguilar. ",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"
+        "start": "2026-11-20T20:53:30+01:00",
+        "stop": "2026-11-20T23:00:00+01:00",
+        "title": "Futbol",
+        "subtitle": "Vila-real B - Gimnàstic de Tarragona / Primera Federació / J13",
+        "description": "Els tarragonins, que ocupen la 13a posició (4 victòries, 3 empats i 5 derrotes), visiten el camp del 2n classificat.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-11-20T06:00:42+01:00",
-        "stop": "2026-11-20T06:13:51+01:00",
-        "title": "Pitch&Cat",
-        "subtitle": "La targeta virtual",
-        "description": "Aprenem com funciona la nova aplicació de la Targeta Virtual de la Federació Catalana de Pitch & Putt (FCPP), que substitueix la tradicional targeta física. A més, ens desplacem fins al Garraf per reviure els millors moments de la Copa Catalunya de Parelles Mixtes, disputada al Pitch & Putt Portal del Roc, a Vilanova i la Geltrú.",
-        "genre": "REPORTATGES",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/8/1727969229786.jpg"
+        "start": "2026-11-20T23:00:00+01:00",
+        "stop": "2026-11-21T00:30:54+01:00",
+        "title": "Onze",
+        "subtitle": "Xavi Espart 2030 + Post Athletic Club - Espanyol",
+        "description": "A l'Onze valorem la renovació del polivalent jugador del planter del Barça i amb l'ajuda de Lluís Carrasco, Carles Fité, Laia Tudel i Irati Vidal juguem a endevinar si tindrà un pes específic en el futur immediat de l'equip de Flick. També connectem amb l'Imma Casares des de San Mamés per analitzar el postpartit entre l'Athletic Club i el RCD Espanyol. Ens visiten al plató l'Àlex Delmàs i el Xavi Cazorla. Tot plegat presentat per la Míriam Riau. Qui deia que els divendres no hi havia res interessant de l'àmbit esportiu.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-20T05:07:33+01:00",
-        "stop": "2026-11-20T05:19:02+01:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "En Martís mana",
-        "description": "En Pinxo cedeix el seu lloc de cap de la colla a en Martís per anar a buscar nous a una noguera que n'és plena a vessar i evitar que els gats del poble se les quedin totes. Pel camí, en Martís s'haurà de guanyar el respecte de la Guineta i en Timbal, que en un principi se'l prenen a broma.",
+        "start": "2026-11-20T22:22:11+01:00",
+        "stop": "2026-11-20T22:41:47+01:00",
+        "title": "El detectiu Conan",
+        "subtitle": "Una mansió envoltada de zombis (1a part)",
+        "description": "En Conan, en Kogoro i la Ran veuen una pel·lícula de zombis on hi surt la Yoko Okino. L'endemà en Kogoro porta els nois a la mansió on es va rodar la pel·lícula. Allà troben en Heiji i la Kazuha. Al cap de poc arriba un equip de rodatge per filmar el tràiler de la seqüela. Quan un dels membres de l'equip apareix mort, s'assabenten que allà hi havia tingut lloc un crim.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-20T05:19:02+01:00",
-        "stop": "2026-11-20T05:30:37+01:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "Malalt de mentida",
-        "description": "La família Teixó-Guineu està recollint les provisions per a l'hivern i ha de carretejar un munt de caixes. En Pinxo, quan veu que la Trufa agafa tos i l'Edmond l'envia al llit, decideix fer-se passar per malalt per ficar-se al llit i no haver de treballar. En vista de l'èxit que té, tots els seus germans intenten fer el mateix.",
+        "start": "2026-11-20T22:41:47+01:00",
+        "stop": "2026-11-20T23:02:39+01:00",
+        "title": "El detectiu Conan",
+        "subtitle": "Una mansió envoltada de zombis (2a part)",
+        "description": "Els misteris se succeeixen a la mansió on un equip de rodatge d'un club de cinema de terror s'havia reunit per gravar la seqüela d'una pel·lícula. Després de comprovar que la mansió sí que està envoltada de zombis, apareix un segon cadàver que encara afegeix més enigmes a tota la situació. Algú està gravant els assassinats amb un mòbil per deixar pistes, però també pot ser que ho faci per afegir-hi més suspens!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-20T04:53:05+01:00",
-        "stop": "2026-11-20T05:40:07+01:00",
+        "start": "2026-11-20T22:00:38+01:00",
+        "stop": "2026-11-20T22:51:35+01:00",
         "title": "La Renaixença",
-        "subtitle": "La claqueta",
-        "description": "Tot i que a 'La Renaixença' no fem servir la claqueta, n'hem de parlar per guanyar-nos una mica el sector. Fa ràbia quan no lliga la imatge i la veu, eh? Amb la claqueta això queda solucionat. Tenim una visita d'aquelles que fan il·lusió: la Mercè Framis i en Ferran Albiol. Els titellaires d'en Mic i en Tomàtic. No havien compartit mai espai-temps, i ens fa il·lusió que això passi a casa nostra. Trobada de referents de generacions de canalla catalana. I sortim a passejar en Sugus per la guerra de la Galleda, el 1325.",
+        "subtitle": "Millors moments - setmana 12",
+        "description": "Amb una teula, un desodorant, un ventall i un flexòmetre pots fer… no ho sé, prendre mides, acabar la teulada, i… no fer pudor… per partida doble! Mira, sempre ens agrada trobar relació entre tots els objectes, i aquesta vegada, per difícil que fos, també ho hem aconseguit. Som els millors, les nostres famílies deuen estar orgulloses de nosaltres. Els convidats d'aquesta setmana també són els millors: són la Fàtima Llambrich, en Bernat Bardagil, en Sergi Cebriàn i Doctor Prats, que pugen al nostre escenari.",
         "genre": "ALTRES",
         "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-11-20T05:40:07+01:00",
-        "stop": "2026-11-20T05:44:50+01:00",
-        "title": "Gran!",
-        "subtitle": "Mary Shelley: 'Frankenstein'",
-        "description": "Mary Wollstonecraft Godwin, més coneguda com Mary Shelley, va escriure, amb només divuit anys, un autèntic clàssic de la literatura fantàstica: 'Frankenstein o el Prometeu modern'. Va ser publicada l'any 1818 i la novel·la va projectar una ombra tan llarga que ha arribat fins als nostres dies. Personalitats de l'alçada artística de Guillermo del Toro, James Whale, Kenneth Branagh o el mateix Tim Burton amb el seu 'Frankenweenie' s'han aproximat d'una manera més fidel, lliure o trencadora al mite creat per l'escriptora britànica. ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
+        "start": "2026-11-20T22:51:35+01:00",
+        "stop": "2026-11-20T23:17:02+01:00",
+        "title": "Volcans i homes",
+        "subtitle": "Xile. Els tresors del desert d'Atacama",
+        "description": "El desert d'Atacama és una de les regions més àrides del planeta, però la combinació d'aigua i volcans ha proporcionat a la gent els recursos necessaris per viure i prosperar en aquest territori inhòspit des de fa milers d'anys. Els habitants de la regió viuen en harmonia amb aquesta terra viva i demostren un respecte profund per l'entorn. D'altra banda, també exploten els tresors que s'amaguen al subsol d'aquest desert volcànic.Página 1 de 1",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
