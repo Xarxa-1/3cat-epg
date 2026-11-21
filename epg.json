@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-21T10:12:59.786709+00:00",
+  "updated": "2026-11-21T17:34:30.933785+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-21T10:00:00+01:00",
-        "stop": "2026-11-21T12:00:00+01:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-11-21T18:18:01+01:00",
+        "stop": "2026-11-21T18:43:32+01:00",
+        "title": "Jet lag",
+        "subtitle": "Qui té por de Totó Tomàs",
+        "description": "La Diana decideix llogar una habitació del seu pis perquè va curta d'euros i agafa el primer llogater que passa: un home jove, que no parla i du una bossa d'esport plena de ganivets. Per la seva banda, l'Esther i l'Andreu ja tenen el seu pis arreglat... o això és el que ells creien. Tots junts viuran una veritable nit de terror.",
+        "genre": "TELESÈRIE",
+        "image": ""
       },
       {
-        "start": "2026-11-21T12:00:00+01:00",
-        "stop": "2026-11-21T13:00:22+01:00",
-        "title": "El Foraster",
-        "subtitle": "Tossa de mar",
-        "description": "Tossa de Mar (Selva) és el bressol del turisme de la Costa Brava. Cada any hi arriben milers de forasters atrets per les cales i la muralla medieval, però en Quim hi arriba amb la intenció de descobrir la Tossa dels que hi viuen tot l'any.Només de començar, coneixerà en Victorino, un personatge que té anècdotes si més no curioses amb mites esportius de la talla de Maradona i Kubala. Tot seguit, la Maria l'acollirà amb una abraçada que resumeix a la perfecció l'hospitalitat tossenca. I a la carnisseria d'en Pivi descobrirà que hi ha sobrassades... i sobrassades.Passejant pels carrers de la vila, en Quim es trobarà amb en Vicenç, un lampista que viu convençut que més val prevenir que curar. A continuació, navegarà amb la Gemma fins a algunes de les coves més espectaculars del litoral i, de tornada a terra, l'Esteve i la Susanna li deixaran ben clar que la temporada alta no vol dir el mateix per a tothom.L'endemà al matí, en Seth li ensenyarà alguns dels racons més genuïns de Tossa. La Maria li regalarà un dels moments més emotius del viatge compartint-hi un desig molt personal. I, finalment, en Carmelo i en Miquel el convidaran a compartir un instant molt especial que li farà entendre que l'autèntica essència de Tossa es manté viva gràcies a persones com ells.",
-        "genre": "VARIETATS",
+        "start": "2026-11-21T18:43:32+01:00",
+        "stop": "2026-11-21T19:33:30+01:00",
+        "title": "Sota terra",
+        "subtitle": "Cabrera, retorn a la ciutat romana",
+        "description": "L'equip d'arqueòlegs del programa investiga què va destruir la ciutat romana d'Ilturo tot just 70 anys després de la seva fundació?La primera temporada de 'Sota terra' vam marxar de Cabrera després de comprovar que efectivament Ilturo havia estat una ciutat romana, però sense saber per què la van abandonar. Tornem a Cabrera per saber per què s'abandona la ciutat: és certa la hipòtesi del gran incendi que planteja l'Eudald en acabar l'excavació? I qui el va provocar i per què? També vam veure com dins de la ciutat romana persisteixen els ritus ibers, això ens parla de la relació de la població autòctona amb els romans, com continua aqueta relació? Segueix habitat el poblat iber després de l'abandonament de la ciutat romana?Tres dies intensos per desvelar aquestes incògnites i per aclarir les dimensions d'un temple dedicat al Mitraisme de què només es coneixen quatre a la península Ibèrica. I d'una sitja, aparentment força habitual, en sortiran increïbles sorpreses...",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-21T10:00:00+01:00",
-        "stop": "2026-11-21T12:00:00+01:00",
+        "start": "2026-11-21T18:30:00+01:00",
+        "stop": "2026-11-21T20:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-21T12:00:00+01:00",
-        "stop": "2026-11-21T14:30:00+01:00",
+        "start": "2026-11-21T20:00:00+01:00",
+        "stop": "2026-11-21T21:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-21T10:19:49+01:00",
-        "stop": "2026-11-21T11:55:00+01:00",
-        "title": "Onze",
-        "subtitle": "Xavi Espart 2030 + Post Athletic Club - Espanyol",
-        "description": "A l'Onze valorem la renovació del polivalent jugador del planter del Barça i amb l'ajuda de Lluís Carrasco, Carles Fité, Laia Tudel i Irati Vidal juguem a endevinar si tindrà un pes específic en el futur immediat de l'equip de Flick. També connectem amb l'Imma Casares des de San Mamés per analitzar el postpartit entre l'Athletic Club i el RCD Espanyol. Ens visiten al plató l'Àlex Delmàs i el Xavi Cazorla. Tot plegat presentat per la Míriam Riau. Qui deia que els divendres no hi havia res interessant de l'àmbit esportiu.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-11-21T17:50:42+01:00",
+        "stop": "2026-11-21T18:46:42+01:00",
+        "title": "Futbol",
+        "subtitle": "RCD Espanyol B-Barça Atlètic / Segona Federació / J12",
+        "description": "Els dos filials afronten aquest derbi lluitant per les primeres posicions. Els blaugranes lideren la classificació amb 25 punts, 4 més que els blanc-i-blaus.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-11-21T11:55:00+01:00",
-        "stop": "2026-11-21T13:55:39+01:00",
-        "title": "Futbol",
-        "subtitle": "FC Badalona Women-Deportivo / Lliga F / J12",
-        "description": "Tots dos equips afronten el matx carregats de moral després de l'última jornada. Les badalonines van empatar contra el Reial Madrid, i les gallegues també van aconseguir un empat contra el Barça. L'equip de Marc Ballester suma 8 jornades consecutives sense guanyar, i l'objectiu és la 3a victòria en el campionat.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "start": "2026-11-21T18:46:42+01:00",
+        "stop": "2026-11-21T18:58:51+01:00",
+        "title": "Esport Club Cap de Setmana",
+        "subtitle": "Esport Club",
+        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-21T10:59:54+01:00",
-        "stop": "2026-11-21T11:21:54+01:00",
-        "title": "El carreró del misteri",
-        "subtitle": "El parany del pop",
-        "description": "Un caniche que participa en concursos de bellesa és atacat una nit a casa seva per una bèstia amb tentacles.",
+        "start": "2026-11-21T18:28:23+01:00",
+        "stop": "2026-11-21T18:50:42+01:00",
+        "title": "Capità Tsubasa. Campions",
+        "subtitle": "El pla secret del Musashi",
+        "description": "Considerant el domini del Musashi, el Tsubasa decideix anar a buscar la pilota i desafiar el Misugi en un u contra u. Quan xoquen, el Tsubasa dona un cop al Misugi sense voler i el Misugi es posa la mà al pit amb un gest de dolor...",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-21T11:21:54+01:00",
-        "stop": "2026-11-21T11:43:24+01:00",
-        "title": "El carreró del misteri",
-        "subtitle": "L'adversari invencible",
-        "description": "L'agent Paxton, el colom de Scotland Yard, està a punt de compartir una informació important amb el seu cap, l'inspector McFlaire. Just en aquell moment, però, els ataca un adversari petit, esmunyedís i misteriós, que fa servir tècniques de combat ninja.",
+        "start": "2026-11-21T18:50:42+01:00",
+        "stop": "2026-11-21T18:59:08+01:00",
+        "title": "El xai Shaun",
+        "subtitle": "Porquets balladors",
+        "description": "Els animals de la granja celebren la seva competició anual de ball. Com sempre, els porcs no tenen gaire bones intencions i intenten fer trampes per aconseguir la victòria. Ja veurem si el Bitzer i el Shaun poden superar les seves diferències creatives i fer que prevalgui la justícia en el ball.1",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-21T10:51:48+01:00",
-        "stop": "2026-11-21T11:35:06+01:00",
-        "title": "Batalla monumental",
-        "subtitle": "Batalla de catedrals: Catedral de Girona-Seu Vella de Lleida",
-        "description": "L'última Batalla Monumental de la temporada abans de la gran final es lliura entre les dues catedrals més 'dives' de Catalunya: la catedral de Girona, icona de la ciutat i protagonista a la sèrie 'Joc de trons', i la Seu Vella de Lleida, 'lo castell' dels lleidatans i orgull català pel seu claustre, un dels més grans d'Europa.La Candela Figueras i l'Ivan Medina buscaran els millors arguments i els millors testimonis per aconseguir que el monument guanyador sigui el seu. En aquest últim capítol, esmolaran les ungles per donar-ho tot: ella liderarà la defensa de 'lo Castell' a la festa de Moros i Cristians, i ell aprendrà a lluitar com un autèntic guerrer de 'Joc de trons'. En aquesta batalla ferotge, els ajudaran a convèncer l'audiència personatges populars com el cuiner amb estrelles Michelin Joan Roca o el dissenyador de moda Custo Dalmau.Roger de Gràcia és el mestre de cerimònies d'una nova batalla, on serà l'audiència qui decidirà el guanyador d'aquest duel medieval.Roger de Gràcia és el mestre de cerimònies d'una nova Batalla Monumental a TV3. La Candela Figueras viatja fins a Lleida i l'Ivan Medina fins a Girona per posar cara a cara les dues catedrals més espectaculars de Catalunya. L'audiència haurà de decidir quin dels dos monuments passa a la gran final. ",
-        "genre": "ALTRES",
+        "start": "2026-11-21T18:12:53+01:00",
+        "stop": "2026-11-21T18:38:38+01:00",
+        "title": "Volcans i homes",
+        "subtitle": "Islàndia. Els senyors de foc",
+        "description": "En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al rift de Thingvellir, enmig de les dues plaques tectòniques, a la fractura d'Eldja, el congost de foc, i al centre de control de trànsit aeri de l'aeroport de Reykjavík, que va haver de gestionar les conseqüències en el trànsit aeri de l'erupció del volcà Eyjafjallajökull el 2010.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-11-21T11:35:06+01:00",
-        "stop": "2026-11-21T12:04:31+01:00",
-        "title": "GR Pirineus",
-        "subtitle": "El mont més sec",
-        "description": "Avui la nostra ruta creuarà d'extrem a extrem la serra del Montsec.Començarem a Vilanova de Meià on coneixerem una raça de cabra catalana en perill d'extinció. Després enfilarem camí fins a Sant Martí de Barcedana, on visitarem una casa rural, on fan unes confitures per llepar-se'n els dits! Passarem per Sant Cristòfol de la Vall, Llimiana i arribarem a l'embassament de Terradets, on farem nit i tastarem la cuina de la terra amb un toc molt innovador.L'endemà començarem la jornada a sobre d'un caiac remant pel pantà. Anirem a Guàrdia de Noguera, el castell de Mur i ens endinsarem a la Vall d'Àger, on gaudirem, primer, del cel des de la terra, observant l'univers amb un telescopi; i, posteriorment, de la terra des del cel, practicant el parapent. I acabarem al congost de Mont-rebei, l'anomenat Gran Canó català. En total 65 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb parapent. Un mont molt sec, però amb molta vida.",
+        "start": "2026-11-21T18:38:38+01:00",
+        "stop": "2026-11-21T19:04:45+01:00",
+        "title": "Volcans i homes",
+        "subtitle": "El Bromo, el volcà sagrat de Java",
+        "description": "En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Indonèsia, a l'illa de Java. Entre d'altres coses, l'acompanyarem en la seva visita al volcà Bromo, aprofitant que és l'època de la festa de Kesodo, en què es fan ofrenes al volcà, un costum que es manté desde l'antiguitat. Astoko, un agricultor de les fèrtils terres que envolten el volcà i que ha viscut sempre aquí, li explicarà costums locals i li farà de guia en la cerimònia i els rituals.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "image": ""
       }
     ],
     "oca1": [],
