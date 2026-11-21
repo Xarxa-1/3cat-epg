@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-20T21:24:09.468312+00:00",
+  "updated": "2026-11-21T02:39:41.187996+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,37 +43,37 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-20T22:03:50+01:00",
-        "stop": "2026-11-20T22:30:34+01:00",
-        "title": "Després de tu",
-        "subtitle": "Indeleble",
-        "description": "L'Alba es prepara per als exàmens i pren d'amagat unes pastilles del seu pare per rendir més. Les pastilles li provoquen una mala reacció i la família l'ha de dur a l'hospital. Aquest ensurt farà que la Raquel i en Pau es reconciliïn i que ell prengui una gran decisió: deixar les pastilles.",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "start": "2026-11-21T03:06:03+01:00",
+        "stop": "2026-11-21T04:30:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-20T22:30:34+01:00",
-        "stop": "2026-11-20T22:59:40+01:00",
-        "title": "L'un per l'altre",
-        "subtitle": "El Travolta d'Horta",
-        "description": "El Calafell està anant amb la Susanna i la Joana se sent fatal, no sap què li passa. De cop es desmaia i en un 'flash-back' veiem l'adolescència de la Joana, el Calafell, el Toni i la Maria. Són els anys vuitanta i s'està preparant una gran festa a l'hostal Lisboa. El Toni i la Maria encara no surten junt i la Joana està enamorada del Calafell però ell és un guaperes que la troba nena.",
-        "genre": "SITCOM (COMÈDIA DE SITUACIÓ)",
-        "image": ""
+        "start": "2026-11-21T04:30:00+01:00",
+        "stop": "2026-11-21T05:00:00+01:00",
+        "title": "Ritmes a l'aula",
+        "subtitle": "Sergio Belloso and Friends",
+        "description": "",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-20T22:05:00+01:00",
-        "stop": "2026-11-20T23:30:00+01:00",
-        "title": "Mésnit",
+        "start": "2026-11-21T01:00:00+01:00",
+        "stop": "2026-11-21T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
-        "genre": "DEBAT",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-20T23:30:00+01:00",
-        "stop": "2026-11-21T00:30:00+01:00",
+        "start": "2026-11-21T06:00:00+01:00",
+        "stop": "2026-11-21T07:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,8 +83,8 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-20T20:53:30+01:00",
-        "stop": "2026-11-20T23:00:00+01:00",
+        "start": "2026-11-21T02:49:21+01:00",
+        "stop": "2026-11-21T04:37:41+01:00",
         "title": "Futbol",
         "subtitle": "Vila-real B - Gimnàstic de Tarragona / Primera Federació / J13",
         "description": "Els tarragonins, que ocupen la 13a posició (4 victòries, 3 empats i 5 derrotes), visiten el camp del 2n classificat.",
@@ -92,51 +92,51 @@
         "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-11-20T23:00:00+01:00",
-        "stop": "2026-11-21T00:30:54+01:00",
-        "title": "Onze",
-        "subtitle": "Xavi Espart 2030 + Post Athletic Club - Espanyol",
-        "description": "A l'Onze valorem la renovació del polivalent jugador del planter del Barça i amb l'ajuda de Lluís Carrasco, Carles Fité, Laia Tudel i Irati Vidal juguem a endevinar si tindrà un pes específic en el futur immediat de l'equip de Flick. També connectem amb l'Imma Casares des de San Mamés per analitzar el postpartit entre l'Athletic Club i el RCD Espanyol. Ens visiten al plató l'Àlex Delmàs i el Xavi Cazorla. Tot plegat presentat per la Míriam Riau. Qui deia que els divendres no hi havia res interessant de l'àmbit esportiu.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-11-21T04:37:41+01:00",
+        "stop": "2026-11-21T04:57:09+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-20T22:22:11+01:00",
-        "stop": "2026-11-20T22:41:47+01:00",
-        "title": "El detectiu Conan",
-        "subtitle": "Una mansió envoltada de zombis (1a part)",
-        "description": "En Conan, en Kogoro i la Ran veuen una pel·lícula de zombis on hi surt la Yoko Okino. L'endemà en Kogoro porta els nois a la mansió on es va rodar la pel·lícula. Allà troben en Heiji i la Kazuha. Al cap de poc arriba un equip de rodatge per filmar el tràiler de la seqüela. Quan un dels membres de l'equip apareix mort, s'assabenten que allà hi havia tingut lloc un crim.",
+        "start": "2026-11-21T03:27:52+01:00",
+        "stop": "2026-11-21T03:48:48+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Joia",
+        "description": "La Marinette descobreix sorpresa que una excompanya d'escola que es diu Socqueline es fa passar per Ladybug. Intenta dissuadir-la de posar-se en perill d'aquesta manera, però el Monarca la persegueix, convençut que és l'autèntica Ladybug. El Monarca confia a un malvat akumatitzat el poder del prodigi de la joia, que revela els secrets més amagats de la gent. Podran l'autèntica Ladybug i el Gat Noir esquivar aquest poder?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-20T22:41:47+01:00",
-        "stop": "2026-11-20T23:02:39+01:00",
-        "title": "El detectiu Conan",
-        "subtitle": "Una mansió envoltada de zombis (2a part)",
-        "description": "Els misteris se succeeixen a la mansió on un equip de rodatge d'un club de cinema de terror s'havia reunit per gravar la seqüela d'una pel·lícula. Després de comprovar que la mansió sí que està envoltada de zombis, apareix un segon cadàver que encara afegeix més enigmes a tota la situació. Algú està gravant els assassinats amb un mòbil per deixar pistes, però també pot ser que ho faci per afegir-hi més suspens!",
+        "start": "2026-11-21T03:48:48+01:00",
+        "stop": "2026-11-21T04:11:02+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Il·lusió",
+        "description": "Tot i que Ladybug ja no li pot confiar cap prodigi, el Nino vol continuar ajudant la superheroïna i el Gat Noir. Decideix crear un grup de resistència a l'institut. La primera missió de l'organització secreta és esbrinar com funciona el poder del Monarca provocant deliberadament una akumatització. Però els primers membres de la resistència, la Marinette, l'Adrien i l'Alya, no ho veuen clar. Estarien d'acord amb el pla, Ladybug i el Gat Noir?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-20T22:00:38+01:00",
-        "stop": "2026-11-20T22:51:35+01:00",
-        "title": "La Renaixença",
-        "subtitle": "Millors moments - setmana 12",
-        "description": "Amb una teula, un desodorant, un ventall i un flexòmetre pots fer… no ho sé, prendre mides, acabar la teulada, i… no fer pudor… per partida doble! Mira, sempre ens agrada trobar relació entre tots els objectes, i aquesta vegada, per difícil que fos, també ho hem aconseguit. Som els millors, les nostres famílies deuen estar orgulloses de nosaltres. Els convidats d'aquesta setmana també són els millors: són la Fàtima Llambrich, en Bernat Bardagil, en Sergi Cebriàn i Doctor Prats, que pugen al nostre escenari.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-11-21T02:54:24+01:00",
+        "stop": "2026-11-21T04:06:41+01:00",
+        "title": "Com va la vida",
+        "subtitle": "",
+        "description": "",
+        "genre": "TALK-SHOW",
+        "image": ""
       },
       {
-        "start": "2026-11-20T22:51:35+01:00",
-        "stop": "2026-11-20T23:17:02+01:00",
-        "title": "Volcans i homes",
-        "subtitle": "Xile. Els tresors del desert d'Atacama",
-        "description": "El desert d'Atacama és una de les regions més àrides del planeta, però la combinació d'aigua i volcans ha proporcionat a la gent els recursos necessaris per viure i prosperar en aquest territori inhòspit des de fa milers d'anys. Els habitants de la regió viuen en harmonia amb aquesta terra viva i demostren un respecte profund per l'entorn. D'altra banda, també exploten els tresors que s'amaguen al subsol d'aquest desert volcànic.Página 1 de 1",
+        "start": "2026-11-21T04:06:41+01:00",
+        "stop": "2026-11-21T04:54:17+01:00",
+        "title": "This Is Art",
+        "subtitle": "Desig",
+        "description": "El desig és el motor que mou les nostres vides i en aquest capítol demostrarem com ho fa a través de l'art. Entre tots els tipus de desig, l'eròtic és el rei indiscutible. El veurem representat a la platja, a través d'unes Venus i Afrodita molt reals, i en algunes de les obres més famoses de Leonardo da Vinci, Vermeer, Fragonard, El Bosco, Gustav Klimt, Courbet o Bernini.Però aquest tipus de desig no és exclusiu de la pintura o de l'escultura. Passejant pels jardins i les estances rococós del Palau de Nymphenburg, comprovarem que la sensualitat i l'erotisme també poden ser presents en l'arquitectura i en el mobiliari.La meravellosa òpera 'Don Carlos' de Giuseppe Verdi ens portarà cap a un altre tipus de desig, el romàntic; i a través d'un quadre molt viu de Richard Hamilton, ens endinsarem en el desig de consumir, el tipus de desig que va motivar gran part de l'obra del pop art. Per què el consum s'ha convertit en un dels nostres principals desitjos? Un expert en màrqueting ens ajudarà a respondre aquesta i altres preguntes. I com que no podem parlar de pop art sense parlar d'Andy Warhol, també visitarem una escola de primària per aprendre junts serigrafia, una tècnica que l'artista utilitzava per retratar al seu ídols. Finalment, assistirem a un dels concerts de Lady Gaga per parlar amb els seus admiradors i entendre què té d'especial aquesta artista que la converteix en un objecte de desig.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       }
