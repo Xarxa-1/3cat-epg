@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-22T10:05:57.522619+00:00",
+  "updated": "2026-11-22T17:48:03.565803+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-22T10:44:43+01:00",
-        "stop": "2026-11-22T11:46:25+01:00",
-        "title": "Diumenge Concert",
-        "subtitle": "Concert del 140è Aniversari de la Banda Municipal de Barcelona",
-        "description": "La Banda Municipal de Barcelona és una institució indispensable per entendre la història de la música a Catalunya. El seu paper ha anat més enllà de la programació de concerts i de la participació en actes oficials: ha estat garant de la divulgació musical posant als seus faristols les millors obres de la història. El gran artífex de l'èxit de la banda va ser Joan Lamote de Grignon, qui la va dotar d'una personalitat artística i la va convertir en un conjunt de referència internacional. Fins i tot Richard Strauss la va dirigir fa gairebé un segle. Complir 140 anys d'història és molt més que un simple aniversari. En el cas de les bandes de música, esdevé tota una fita de supervivència i reivindicació. La Banda Municipal de Barcelona (BMB) va néixer un 2 de març de 1886 amb un objectiu primari: dotar la ciutat de Barcelona d'una formació musical professional i estable. Avui és una realitat artística amb identitat pròpia, amb una proposta diferenciadora que vol evidenciar la idiosincràsia d'una orquestra de vents i percussió en la cultura musical contemporània. Per primera vegada, la Banda col·labora amb l'Escolania de Montserrat en aquest concert d'aniversari, on s'hi suma la participació de la mezzosoprano Gemma Coma-Alabert, amb la direcció de José R. Pascual-Vilaplana, titular de la formació ; un concert enregistrat a L'Auditori (Barcelona), l'1 de març de 2026",
-        "genre": "CLÀSSICA",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/1/1730826356312.jpg"
+        "start": "2026-11-22T18:34:46+01:00",
+        "stop": "2026-11-22T19:51:25+01:00",
+        "title": "Pel·lícula",
+        "subtitle": "Sprint especial",
+        "description": "SPRINT ESPECIALProducció: Televisió de Catalunya, S.A., In Vitro Films, S.A., Trivision, Ràdio Televisió Valenciana (RTVV) amb la col·laboració de l'Institut Català de les Indústries Culturals (ICIC) i la Generalitat Valenciana, 2005Direcció: Juan Carlos Claver/ Durada: 90 minutsGuió: Pepe Tienda, Miquel PeidróFotografia: Javier QuintanillaMúsica: Pep LlopisIntèrprets: Beatriz Carvajal (Mercè); Ismael Martínez (Xavier); Israel Rodríguez (Robert); Juli Mira (Eduard); Aina Clotet (Edurne)Sinopsi:Al Xavier Etxániz la vida li somriu. Després de molts esforços ha aconseguit una estabilitat com a ciclista professional i, a més a més, ha fet realitat un dels seus somnis: compartir equip amb el seu germà Robert, a qui es troba molt unit. El seu major èxit arriba ben aviat: guanya de forma heròica una de les etapes més dures del Tour de França. Però la seva existència fa un tomb inesperat quan, mentre realitzen un entrenament per carretera, el Xavier i el Robert són atropellats en un estúpid accident. El Robert mor a l'acte. Les possibilitats de salvar la vida del Xavier són poques, però l'esperança de la seva família evita que se li retiri la respiració assistida. Miraculosament, el Xavier es recupera. Des d'aquest instant, en Xavier afronta l'etapa més dura de la seva vida. La rehabilitació és lenta i la possibilitat de reprendre la seva carrera ciclista, nul·la. És difícil suportar tot el drama, però amb el recolzament d'un entorn familiar abocat a la causa, a poc a poc ho va aconseguint. Poc més d'un any després, en el que s'han succeït els homenatges dels seus companys de professió, els quals en tot moment han manifestat la seva solidaritat i la seva admiració, el Xavier puja de bell nou (tot i que sigui de manera simbòlica) a una bicicleta. Malgrat que les seqüeles físiques i psíquiques són inesborrables, el Xavier es planteja un nou repte: desitja tornar a competir. I ho aconsegueix en una sèrie de proves especials en les que, a més a m",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": ""
       },
       {
-        "start": "2026-11-22T11:46:25+01:00",
-        "stop": "2026-11-22T11:59:46+01:00",
-        "title": "Notícies 3CatInfo",
-        "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "start": "2026-11-22T19:51:25+01:00",
+        "stop": "2026-11-22T21:00:00+01:00",
+        "title": "Temps de silenci",
+        "subtitle": "REPRESA",
+        "description": "La mort de Franco i l'arribada de la democràcia. És el temps de les noves generacions. S'ha acabat l'era de la Victòria. Ni el seu secret ha resistit els canvis...",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-22T10:00:00+01:00",
-        "stop": "2026-11-22T12:00:00+01:00",
+        "start": "2026-11-22T18:30:00+01:00",
+        "stop": "2026-11-22T20:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-22T12:00:00+01:00",
-        "stop": "2026-11-22T14:30:00+01:00",
+        "start": "2026-11-22T20:00:00+01:00",
+        "stop": "2026-11-22T21:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-22T09:44:20+01:00",
-        "stop": "2026-11-22T11:20:00+01:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J13 / Dissabte",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-11-22T18:20:00+01:00",
+        "stop": "2026-11-22T19:17:15+01:00",
+        "title": "Futbol",
+        "subtitle": "Girona FC-SD Eibar / Lliga Hypermotion / J15",
+        "description": "Cara a cara entre dos aspirants a l'ascens que sumen els mateixos punts a la classificació, 24. Catalans i bascos han guanyat 7 partits i n'han empatat 3. Això sí, els gironins han disputat 1 jornada més que els guipuscoans.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.3cat.cat/multimedia/jpg/8/3/1791458637038.jpg"
       },
       {
-        "start": "2026-11-22T11:20:00+01:00",
-        "stop": "2026-11-22T13:13:41+01:00",
-        "title": "Hoquei patins",
-        "subtitle": "Igualada HC-Reus Deportiu / OK Lliga / J4",
-        "description": "L'Igualada Rigat HC, campió la temporada passada, ha començat el curs amb 1 victòria, 1 empat i 1 derrota. Per contra, el Reus Deportiu Brasilia es manté invicte gràcies a 2 victòries i 1 empat.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"
+        "start": "2026-11-22T19:17:15+01:00",
+        "stop": "2026-11-22T19:29:24+01:00",
+        "title": "Esport Club Cap de Setmana",
+        "subtitle": "Esport Club",
+        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-22T10:55:16+01:00",
-        "stop": "2026-11-22T11:16:46+01:00",
-        "title": "El carreró del misteri",
-        "subtitle": "El creador d'endevinalles",
-        "description": "Un misteriós pirata informàtic que es diu Enginyós decideix fer 'justícia' pel seu compte: es proposa atacar tota la població de mascotes d'elit de Londres controlant de forma remota aparells electrònics interconnectats.",
+        "start": "2026-11-22T18:28:10+01:00",
+        "stop": "2026-11-22T18:49:19+01:00",
+        "title": "Capità Tsubasa. Campions",
+        "subtitle": "Perseverança... Pura perseverança!",
+        "description": "Després d'escoltar el Takeshi, el Hyuga abandona l'individualisme i lidera el futbol col·lectiu ferotge del Meiwa. El Hyuga, que està disposat a guanyar tant sí com no, es disposa a xutar des de l'interior de l'àrea, però el Wakabayashi surt a trobar-lo.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-22T11:16:46+01:00",
-        "stop": "2026-11-22T11:38:16+01:00",
-        "title": "El carreró del misteri",
-        "subtitle": "El misteri del passatge Lexington",
-        "description": "Corre el rumor que a Lexington Park hi ha un lloc amagat sota el pont on els gossos desapareixen de cop i sense deixar cap rastre. Quan el gos d'un inspector de Scotland Yard desapareix, el McFlaire demana a l'Espavilada que l'ajudi a resoldre aquest fenomen inexplicable.",
+        "start": "2026-11-22T18:49:19+01:00",
+        "stop": "2026-11-22T18:55:59+01:00",
+        "title": "El xai Shaun",
+        "subtitle": "Carbasses en perill",
+        "description": "Som a la vigília de Halloween i el Bitzer té la missió de vigilar les tres carbasses premiades del granger. A pesar que ell, el Shaun i el ramat fan tot el que poden, les carbasses desapareixen una rere l'altra i només deixen un rastre llefiscós i misteriós. És que potser hi ha un monstre de les carbasses que campa lliurement enmig de la tenebrosa nit?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-22T10:29:49+01:00",
-        "stop": "2026-11-22T11:16:49+01:00",
-        "title": "Batalla monumental",
-        "subtitle": "Batalla de muralles: Cervera-Montblanc",
-        "description": "La batalla d'aquest capítol es lliura entre dos dels recintes emmurallats més significatius del nostre territori: les muralles de Montblanc i les muralles de Cervera.Candela Figueras i Laia Fontàn entrevistaran experts i exposaran arguments que facin decantar el públic a favor del seu monument respectiu. Les dues reporteres de 'Batalla monumental' faran el que calgui per aconseguir que el seu sigui el monument guanyador del duel: la Candela, montblanquina de raça, vol tornar a casa seva amb la victòria a la mà. Per això, competirà en unes justes medievals molt especials i es posarà a la pell del drac de Sant Jordi. Per la seva part, la Laia no està disposada a quedar enrere i participarà, com una diablessa més, en una recreació de la Festa de l'Aquelarre de Cervera.En aquesta batalla, les ajudaran a convèncer l'audiència personatges populars com els campions cerverins de motociclisme Marc Márquez i Àlex Márquez o el bateria d'Els Pets, Joan Reig, que defensarà les muralles de Montblanc. Roger de Gràcia és el presentador i el narrador d'una nova batalla on, com sempre, serà l'audiència la que decidirà el guanyador d'aquest duel entre muralles votant a través de les xarxes socials del programa a @BatallaTV3.",
-        "genre": "ALTRES",
+        "start": "2026-11-22T18:37:37+01:00",
+        "stop": "2026-11-22T19:05:03+01:00",
+        "title": "Els hotels més remots del món",
+        "subtitle": "El Torridon - Escòcia",
+        "description": "Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-11-22T11:16:49+01:00",
-        "stop": "2026-11-22T11:49:35+01:00",
-        "title": "GR Pirineus",
-        "subtitle": "Viatge al centre de la nostra terra",
-        "description": "Avui la ruta ens portarà des del Solsonès fins al Bages.El punt de sortida el marcarem al centre geogràfic de Catalunya, el santuari de Pinós. I des d'aquí anirem fins a Ardèvol, on se celebra cada any una de les tradicions nadalenques més conegudes de la zona: el pessebre vivent... A veure si endevineu quin paper li tocarà fer al Marc... L'endemà, ben d'hora, ben d'hora, ben d'hora, començarem a Su, fent un bon esmorzar i anirem primer al Miracle i després a Freixenet per conèixer com s'estudia en una escola rural. Seguirem per Cardona, la ciutat de la sal, on aprendrem a treballar-la des d'un punt de vista molt artístic. I, finalment, arribarem al nostre últim destí, Valls de Torroella, on farem cervesa artesana. En total, uns 50 quilòmetres repartits en dues jornades, fets a peu i en cotxe. Passejant-nos per la frontera que forma l'imponent Prepirineu! ",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"
+        "start": "2026-11-22T19:05:03+01:00",
+        "stop": "2026-11-22T19:12:57+01:00",
+        "title": "Gran!",
+        "subtitle": "'Umpah-pah'",
+        "description": "Liderats pel cantant, lletrista i compositor principal Adrià Puntí, els Umpah-pah van assumir amb inventiva i carisma propi unes influències musicals clàssiques (Bob Dylan, The Waterboys, Van Morrison, Bob Marley, Tom Waits, Janis Joplin, U2...). La banda gironina, dissolta l'any 1996, segueix gaudint avui dia d'un culte merescut gràcies al llegat que van deixar en discos com 'Raons de pes', 'Bamboo Avenue' o la dupla formada per 'Bordell' i 'Triquiñuelas al óleo', un autèntic abordatge creatiu que els va portar a enregistrar l'any 1994 dos treballs al mateix temps: l'un cantat en català i l'altre en castellà.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
       }
     ],
     "oca1": [],
