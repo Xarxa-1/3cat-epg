@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-22T17:48:03.565803+00:00",
+  "updated": "2026-11-22T23:07:50.635491+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-22T18:34:46+01:00",
-        "stop": "2026-11-22T19:51:25+01:00",
-        "title": "Pel·lícula",
-        "subtitle": "Sprint especial",
-        "description": "SPRINT ESPECIALProducció: Televisió de Catalunya, S.A., In Vitro Films, S.A., Trivision, Ràdio Televisió Valenciana (RTVV) amb la col·laboració de l'Institut Català de les Indústries Culturals (ICIC) i la Generalitat Valenciana, 2005Direcció: Juan Carlos Claver/ Durada: 90 minutsGuió: Pepe Tienda, Miquel PeidróFotografia: Javier QuintanillaMúsica: Pep LlopisIntèrprets: Beatriz Carvajal (Mercè); Ismael Martínez (Xavier); Israel Rodríguez (Robert); Juli Mira (Eduard); Aina Clotet (Edurne)Sinopsi:Al Xavier Etxániz la vida li somriu. Després de molts esforços ha aconseguit una estabilitat com a ciclista professional i, a més a més, ha fet realitat un dels seus somnis: compartir equip amb el seu germà Robert, a qui es troba molt unit. El seu major èxit arriba ben aviat: guanya de forma heròica una de les etapes més dures del Tour de França. Però la seva existència fa un tomb inesperat quan, mentre realitzen un entrenament per carretera, el Xavier i el Robert són atropellats en un estúpid accident. El Robert mor a l'acte. Les possibilitats de salvar la vida del Xavier són poques, però l'esperança de la seva família evita que se li retiri la respiració assistida. Miraculosament, el Xavier es recupera. Des d'aquest instant, en Xavier afronta l'etapa més dura de la seva vida. La rehabilitació és lenta i la possibilitat de reprendre la seva carrera ciclista, nul·la. És difícil suportar tot el drama, però amb el recolzament d'un entorn familiar abocat a la causa, a poc a poc ho va aconseguint. Poc més d'un any després, en el que s'han succeït els homenatges dels seus companys de professió, els quals en tot moment han manifestat la seva solidaritat i la seva admiració, el Xavier puja de bell nou (tot i que sigui de manera simbòlica) a una bicicleta. Malgrat que les seqüeles físiques i psíquiques són inesborrables, el Xavier es planteja un nou repte: desitja tornar a competir. I ho aconsegueix en una sèrie de proves especials en les que, a més a m",
-        "genre": "PEL·LÍCULA / TELEFILM",
+        "start": "2026-11-22T23:57:06+01:00",
+        "stop": "2026-11-23T00:50:52+01:00",
+        "title": "Diades castelleres especials",
+        "subtitle": "Diada castellera dels Minyons de Terrassa",
+        "description": "La plaça Vella de Terrassa acull aquest diumenge la 48a diada dels Minyons de Terrassa, que posa punt final a la temporada. Els Minyons compartiran plaça amb els Castellers de Sants i els Castellers de Sant Cugat. La colla malva afronta la jornada amb un programa de màxims, que inclou el 3 de 10 amb folre i manilles, el 5 de 9 amb folre i el 2 de 9 amb folre i manilles. La diada arriba després d'un any de grans reptes i d'una intensa feina als assajos. Més enllà dels castells que s'hi puguin veure, la cita representa el gran aparador del treball col·lectiu de les colles. La jornada, un any més, convertirà Terrassa en el centre del món casteller i abaixarà el teló de la temporada.",
+        "genre": "MAGAZINE ESPECIALITZAT",
         "image": ""
       },
       {
-        "start": "2026-11-22T19:51:25+01:00",
-        "stop": "2026-11-22T21:00:00+01:00",
-        "title": "Temps de silenci",
-        "subtitle": "REPRESA",
-        "description": "La mort de Franco i l'arribada de la democràcia. És el temps de les noves generacions. S'ha acabat l'era de la Victòria. Ni el seu secret ha resistit els canvis...",
-        "genre": "SÈRIE DRAMÀTICA",
-        "image": ""
+        "start": "2026-11-23T00:50:52+01:00",
+        "stop": "2026-11-23T04:30:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-22T18:30:00+01:00",
-        "stop": "2026-11-22T20:00:00+01:00",
+        "start": "2026-11-22T23:00:00+01:00",
+        "stop": "2026-11-23T00:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-22T20:00:00+01:00",
-        "stop": "2026-11-22T21:00:00+01:00",
+        "start": "2026-11-23T00:30:00+01:00",
+        "stop": "2026-11-23T01:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-22T18:20:00+01:00",
-        "stop": "2026-11-22T19:17:15+01:00",
-        "title": "Futbol",
-        "subtitle": "Girona FC-SD Eibar / Lliga Hypermotion / J15",
-        "description": "Cara a cara entre dos aspirants a l'ascens que sumen els mateixos punts a la classificació, 24. Catalans i bascos han guanyat 7 partits i n'han empatat 3. Això sí, els gironins han disputat 1 jornada més que els guipuscoans.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.3cat.cat/multimedia/jpg/8/3/1791458637038.jpg"
+        "start": "2026-11-22T23:00:59+01:00",
+        "stop": "2026-11-23T00:32:11+01:00",
+        "title": "Gol a gol",
+        "subtitle": "Anàlisi de la jornada / J13 / Diumenge",
+        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
       },
       {
-        "start": "2026-11-22T19:17:15+01:00",
-        "stop": "2026-11-22T19:29:24+01:00",
-        "title": "Esport Club Cap de Setmana",
-        "subtitle": "Esport Club",
-        "description": "Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.",
+        "start": "2026-11-23T00:32:11+01:00",
+        "stop": "2026-11-23T00:49:08+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-22T18:28:10+01:00",
-        "stop": "2026-11-22T18:49:19+01:00",
-        "title": "Capità Tsubasa. Campions",
-        "subtitle": "Perseverança... Pura perseverança!",
-        "description": "Després d'escoltar el Takeshi, el Hyuga abandona l'individualisme i lidera el futbol col·lectiu ferotge del Meiwa. El Hyuga, que està disposat a guanyar tant sí com no, es disposa a xutar des de l'interior de l'àrea, però el Wakabayashi surt a trobar-lo.",
+        "start": "2026-11-22T23:59:19+01:00",
+        "stop": "2026-11-23T00:09:38+01:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "La festa purrfecta",
+        "description": "La Felicity se sent molt insegura a l'hora de fer servir els seus poders i, tot i que el seu amic Miguel li fa uns ninots perquè hi practiqui, la gateta no té clar que es mereixi assistir a la festa que celebren al Palau del Perfecte, on estan convidats tots els habitants de Mitelàndia que tenen poders.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-22T18:49:19+01:00",
-        "stop": "2026-11-22T18:55:59+01:00",
-        "title": "El xai Shaun",
-        "subtitle": "Carbasses en perill",
-        "description": "Som a la vigília de Halloween i el Bitzer té la missió de vigilar les tres carbasses premiades del granger. A pesar que ell, el Shaun i el ramat fan tot el que poden, les carbasses desapareixen una rere l'altra i només deixen un rastre llefiscós i misteriós. És que potser hi ha un monstre de les carbasses que campa lliurement enmig de la tenebrosa nit?",
+        "start": "2026-11-23T00:09:38+01:00",
+        "stop": "2026-11-23T00:19:57+01:00",
+        "title": "La gateta Arc iris papallona unicorn",
+        "subtitle": "L'aprenent d'Anubis",
+        "description": "El Miguel aconsegueix entrar a l'inframon dels egipcis, on haurà de passar unes proves molt exigents per convertir-se en governant Anubis. La Felicity vol ajudar sigui com sigui el seu amic a fer realitat aquest somni, però acaba fent més nosa que servei.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-22T18:37:37+01:00",
-        "stop": "2026-11-22T19:05:03+01:00",
-        "title": "Els hotels més remots del món",
-        "subtitle": "El Torridon - Escòcia",
-        "description": "Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.",
+        "start": "2026-11-23T00:05:28+01:00",
+        "stop": "2026-11-23T00:56:08+01:00",
+        "title": "El gran camí",
+        "subtitle": "El Camí de Carena del Pacífic",
+        "description": "Ens desplacem fins a Califòrnia per començar una de les travessies més llargues i impressionants del món: el Camí de Carena del Pacífic. Una ruta que travessa els Estats Units pels cims de la costa occidental, des del Canadà fins a Mèxic. Un repte en majúscules, només apte per a caminants experts.",
         "genre": "DOCUMENTAL DE DIVULGACIÓ",
         "image": ""
       },
       {
-        "start": "2026-11-22T19:05:03+01:00",
-        "stop": "2026-11-22T19:12:57+01:00",
-        "title": "Gran!",
-        "subtitle": "'Umpah-pah'",
-        "description": "Liderats pel cantant, lletrista i compositor principal Adrià Puntí, els Umpah-pah van assumir amb inventiva i carisma propi unes influències musicals clàssiques (Bob Dylan, The Waterboys, Van Morrison, Bob Marley, Tom Waits, Janis Joplin, U2...). La banda gironina, dissolta l'any 1996, segueix gaudint avui dia d'un culte merescut gràcies al llegat que van deixar en discos com 'Raons de pes', 'Bamboo Avenue' o la dupla formada per 'Bordell' i 'Triquiñuelas al óleo', un autèntic abordatge creatiu que els va portar a enregistrar l'any 1994 dos treballs al mateix temps: l'un cantat en català i l'altre en castellà.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"
+        "start": "2026-11-23T00:56:08+01:00",
+        "stop": "2026-11-23T01:16:26+01:00",
+        "title": "Nens de la ruta de la seda",
+        "subtitle": "Una nena contra la gravetat",
+        "description": "L'Erchendimeg, d'onze anys, té molt clar que vol arribar a ser una contorsionista professional. Conviden el seu equip a participar en un gran espectacle a la plaça del Parlament, però li costa aprendre els exercicis perquè té una mica de complex perquè el seu pare és a la presó, la seva mare és exalcohòlica i la van admetre a l'escola de circ amb una beca. No només hi ha en joc els seus somnis, sinó també la dignitat de la seva família. Però gràcies a la seva força de voluntat, aconsegueix superar-se.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
