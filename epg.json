@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-21T22:23:26.237630+00:00",
+  "updated": "2026-11-22T02:27:19.024899+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-21T22:08:50+01:00",
-        "stop": "2026-11-22T00:50:07+01:00",
-        "title": "Col·lapse",
-        "subtitle": "",
-        "description": "Entrevistem Jordi Évole , un dels periodistes i comunicadors més influents del panorama televisiu. Amb ell, que té molta experiència entrevistant líders polítics, repassem l'actualitat social política una setmana abans de les eleccions generals.Compartim amb l'actor Pedro Alonso, especialment conegut pel seu paper de Berlín a La casa de papel, una conversa on parla obertament sobre la seva intensitat, que el va portar a explorar el costat fosc de la vida. També ens explica els seus nous reptes laborals en ficció. L'egiptòloga catalana Irene Cordón que tot just acaba de publicar el llibre 'Quan els Déus caminaven pel Nil' descobrirem algunes de les coses més sorprenents i meravelloses de la civilització de l'antic Egipte. Carlos Latre i Àngel Llàcer tornen un altre cop al programa per fer de les seves. Quins intercanvis haurà fet Anna Callís amb el bolígraf que li va donar la setmana passada Jordi González? També Sergi Pàmies, Albert Montagut i les dades amb Frederic Vincent. 'Col·lapse', dissabte a les 22.05 a TV3 i 3Cat, amb Jordi González.",
-        "genre": "TALK-SHOW",
-        "image": ""
-      },
-      {
-        "start": "2026-11-22T00:50:07+01:00",
-        "stop": "2026-11-22T01:15:31+01:00",
-        "title": "Marcians",
-        "subtitle": "Viatjar a una altra llengua",
-        "description": "Amb motiu de la celebració a Barcelona la setmana vinent del Primer Fòrum de Traductors de Literatura Catalana, organitzat per l'Institut Ramon Llull, ens hem endinsat en la vida, la feina, els problemes i la passió d'algunes traductores de novel·les catalanes a d'altres llengües.Marina Ketlerova és la traductora de literatura catalana més jove. Fa set anys es va instal·lar a Barcelona i va aconseguir el que semblava un somni: traduir al rus un best-seller com 'Canto jo i la muntanya balla', d'Irene Solà. Però la traducció fa dos anys que viu en un calaix. L'editorial russa que l'havia de publicar no s'ha atrevit a fer-ho per por de la censura. A Rússia, no es poden presentar en la literatura personatges del col·lectiu LGTBIQ+ sense afegir-hi una mirada crítica i reprovadora.I Nina Avrova Raaben ha pogut esquivar la censura russa en les traduccions de les novel·les d'Albert Sánchez-Piñol, però no ha pogut evitar que hagin estat catalogades 'per a majors de 18 anys'. I tot i això són un gran èxit. 'La pell freda' s'ha convertit en un best-seller a Rússia, amb més de 200.000 exemplars venuts. Stefania Maria Ciminelli, nascuda a Roma, va descobrir el català quan estiuejava de petita a l'Alguer. I des d'aleshores, aquella llengua estranya que parlaven els nens de la ciutat l'ha acompanyat tota la vida. Viu a Barcelona des de 1991. Ha traduït Pla, Rodoreda, Porcel. I ha portat a l'italià amb passió les grans novel·les de Jaume Cabré.Annie Bats fa més de quaranta anys que es va instal·lar a Barcelona. I des d'aleshores no ha parat de traduir. Experta en poesia, ha sabut trobar i traduir els versos alexandrins amagats en les novel·les d'Eva Baltasar. Les hem reunides totes dues per parlar-ne, uns dies abans que se sabés que 'Ocàs i fascinació' ha guanyat el premi Médicis Étranger a la millor novel·la traduïda a França aquest any.",
-        "genre": "ALTRES",
-        "image": ""
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-11-21T23:00:00+01:00",
-        "stop": "2026-11-22T00:30:00+01:00",
+        "start": "2026-11-22T03:14:52+01:00",
+        "stop": "2026-11-22T04:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-22T00:30:00+01:00",
-        "stop": "2026-11-22T01:00:00+01:00",
+        "start": "2026-11-22T04:30:00+01:00",
+        "stop": "2026-11-22T05:00:00+01:00",
+        "title": "Ritmes a l'aula",
+        "subtitle": "Dácil",
+        "description": "",
+        "genre": "JAZZ",
+        "image": "https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-11-22T01:00:00+01:00",
+        "stop": "2026-11-22T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-22T06:00:00+01:00",
+        "stop": "2026-11-22T07:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-21T23:00:12+01:00",
-        "stop": "2026-11-22T00:36:31+01:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J13 / Dissabte",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-11-22T03:04:19+01:00",
+        "stop": "2026-11-22T04:51:52+01:00",
+        "title": "Futbol",
+        "subtitle": "RCD Espanyol B-Barça Atlètic / Segona Federació / J12",
+        "description": "Els dos filials afronten aquest derbi lluitant per les primeres posicions. Els blaugranes lideren la classificació amb 25 punts, 4 més que els blanc-i-blaus.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"
       },
       {
-        "start": "2026-11-22T00:36:31+01:00",
-        "stop": "2026-11-22T00:57:14+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-11-22T04:51:52+01:00",
+        "stop": "2026-11-22T06:19:49+01:00",
+        "title": "Handbol",
+        "subtitle": "Bidasoa-Barça / Lliga Asobal / J10",
+        "description": "Duel decisiu, a Irun, amb el liderat en joc. Els dos conjunts estan empatats al capdavant de la classificació després d'haver guanyat els 9 partits disputats.",
+        "genre": "RETRANSMISSIONS ESPORTS",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-21T23:17:44+01:00",
-        "stop": "2026-11-21T23:28:20+01:00",
-        "title": "La tropa del corral",
-        "subtitle": "Pell de gallina",
-        "description": "Després de veure una pel·lícula sobre ocells que la deixa aterrida, la Bertha fa fora les cacatues de casa. Quan la Tropa hi arriba per solucionar les coses, la Bertha no deixa passar la Flo i en Jo, així que haurà de ser la resta del grup qui s'encarregui de la missió.",
+        "start": "2026-11-22T03:21:45+01:00",
+        "stop": "2026-11-22T03:31:45+01:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "Al cim de la muntanya",
+        "description": "En l'aventura poptàstica d'avui, els amics fan una cursa d'orientació per la muntanya! Qui arribi abans al cim de la Muntanya del Pic Pop guanyarà un premi especial. La Mae-Mae està decidida a guanyar, però, com que no mira el mapa, la ruta fins al cim se li complica. Podrà dur el seu equip fins al capdamunt de la muntanya?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-21T23:28:20+01:00",
-        "stop": "2026-11-21T23:39:17+01:00",
-        "title": "La tropa del corral",
-        "subtitle": "En Prince i l'ocupant",
-        "description": "Un gat de carrer ocupa el lloc d'en Prince a casa i el fa fora. Ara, la Tropa haurà d'endevinar qui és en Prince de veritat i qui és el farsant, que ha fet un tracte amb en Frankie perquè l'ajudi a canvi de bon menjar.",
+        "start": "2026-11-22T03:31:45+01:00",
+        "stop": "2026-11-22T03:41:44+01:00",
+        "title": "Pop, la ciutat de paper",
+        "subtitle": "El detectiu Plom",
+        "description": "A l'aventura poptàstica d'avui, el Plom té una disfressa nova de detectiu i moltes ganes de resoldre misteris. El detectiu Plom es disposa a investigar, però com que la Phoebe el necessita per arreglar l'hort de la Mae-Mae, el Plom decideix ajudar-la. Quan el Plom està a punt de començar a treballar a l'hort, es pregunta qui l'ha destrossat. Després de descobrir una gran pista, el detectiu Plom torna a reprendre el cas! Serà capaç, el Pop, de resoldre el misteri de l'hort i ajudar la Phoebe tal com li ha promès?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-21T22:27:08+01:00",
-        "stop": "2026-11-21T23:55:01+01:00",
-        "title": "El documental",
-        "subtitle": "Diari d'un pacifista",
-        "description": "",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-22T03:22:06+01:00",
+        "stop": "2026-11-22T04:08:25+01:00",
+        "title": "Benvinguts a la família",
+        "subtitle": "En busca del Leo",
+        "description": "Quan l'Àngela i els seus arriben a casa, es troben amb el Marcos esperant-los juntament amb l'Ayla. Ell i la mossa d'esquadra han descobert que el DNI amb què van canviar el testament de l'Eduardo a la primera temporada era fals. La família haurà de trobar llavors el Leo, únic testimoni del que va passar, abans que ho faci la policia.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       },
       {
-        "start": "2026-11-21T23:55:01+01:00",
-        "stop": "2026-11-22T00:50:21+01:00",
-        "title": "60 minuts",
-        "subtitle": "El rei del Sudan del Nord",
-        "description": "Quan la seva filla li diu que voldria ser princesa, Jeremiah Heaton, un granger dels Estats Units, busca un territori que no formi part de cap estat per instaurar-hi un regne del qual ell serà el rei i la seva filla, la princesa. Navegant per internet troba Bir Tawil, una petita franja de terreny entre Egipte i el Sudan que, per un embolic de la descolonització, no volen ni un estat ni l'altre. El Jeremiah planta la bandera del seu regne en ple desert, però amb això no en té prou i comença a buscar la manera de treure partit de l'estat que acaba de crear. Així és com entra en contacte amb tota mena d'espavilats que veuen en el regne del Sudan del Nord una oportunitat d'enriquir-se.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-22T04:08:25+01:00",
+        "stop": "2026-11-22T04:55:08+01:00",
+        "title": "Benvinguts a la família",
+        "subtitle": "El nou testament",
+        "description": "Amb l'ajuda del Nil, la família aconsegueix robar al notari l'autèntic testament de l'Eduardo abans de la lectura. El que descobriran, però, és que en el nou testament hi diu que tots els diners seran per a l'Àngela si es compleixen una sèrie de condicions... entre les quals hi ha la de casar-se amb el Manu.",
+        "genre": "SÈRIE DRAMÀTICA",
         "image": ""
       }
     ],
