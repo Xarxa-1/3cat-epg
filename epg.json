@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-23T03:42:17.478629+00:00",
+  "updated": "2026-11-23T13:41:11.666512+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-23T04:30:00+01:00",
-        "stop": "2026-11-23T05:00:00+01:00",
-        "title": "Ritmes a l'aula",
-        "subtitle": "Catroi Quartet",
+        "start": "2026-11-23T14:30:00+01:00",
+        "stop": "2026-11-23T15:30:10+01:00",
+        "title": "Telenotícies migdia",
+        "subtitle": "",
         "description": "",
-        "genre": "JAZZ",
-        "image": "https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-11-23T05:00:00+01:00",
-        "stop": "2026-11-23T05:44:55+01:00",
-        "title": "Fusió i swing a l'estudi",
-        "subtitle": "Òscar Font & The Swingones",
-        "description": "Entren a l'estudi Òscar Font & The Swingones amb un repertori compost per l'històric i polifacètic Font i que sona a cavall del jazz i el rock-and-roll. L'estil, segons ells, pot recordar els temes més 'jazzy' de Loquillo o Rebeldes, sense moure's de l'ortodòxia del swing. Òscar Font a la veu, al trombó i al clarinet, Juli Aymí, al saxo i al clarinet, Josep Traver, a la guitarra, i Artur Regada, al contrabaix.",
-        "genre": "ALTRES",
-        "image": ""
+        "start": "2026-11-23T15:30:10+01:00",
+        "stop": "2026-11-23T15:54:31+01:00",
+        "title": "Cuines",
+        "subtitle": "Ostrons en tempura amb botifarra d'arròs",
+        "description": "Les combinacions possibles de mar i muntanya són inabastables. En proposem una de deliciosa i original: ostres del Delta amb botifarra d'arròs.  ",
+        "genre": "CUINA",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-23T01:00:00+01:00",
-        "stop": "2026-11-23T06:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-23T14:30:00+01:00",
+        "stop": "2026-11-23T15:30:00+01:00",
+        "title": "Telenotícies migdia",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
       },
       {
-        "start": "2026-11-23T06:00:00+01:00",
-        "stop": "2026-11-23T08:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-23T15:30:00+01:00",
+        "stop": "2026-11-23T16:00:00+01:00",
+        "title": "3CatInfo en aranès",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "description": "Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "image": "https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-23T04:16:01+01:00",
-        "stop": "2026-11-23T06:20:44+01:00",
-        "title": "Futbol",
-        "subtitle": "FC Barcelona-Athletic Club / Lliga F / J12",
-        "description": "Les blaugranes lideren la classificació amb 9 victòries, 1 empat i 1 derrota. El conjunt de Bilbao també vol seguir a la zona alta. El balanç de les basques és de 5 victòries, 4 empats i 2 derrotes.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"
+        "start": "2026-11-23T14:00:59+01:00",
+        "stop": "2026-11-23T16:03:22+01:00",
+        "title": "Esport Club",
+        "subtitle": "La baixa de Lamine, sorteig de Copa i Marc Márquez",
+        "description": "Lamine, baixa per a la Champions. Remuntada de líder. En parlem amb l'Albert Blaya. Sorteig de la segona eliminatòria de la Copa del Rei. Històric Marc Márquez. Ja acumula deu Mundials. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       },
       {
-        "start": "2026-11-23T06:20:44+01:00",
-        "stop": "2026-11-23T07:50:59+01:00",
-        "title": "Gol a gol",
-        "subtitle": "Anàlisi de la jornada / J13 / Diumenge",
-        "description": "'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"
+        "start": "2026-11-23T16:03:22+01:00",
+        "stop": "2026-11-23T16:30:09+01:00",
+        "title": "Catalunya des de l'aire",
+        "subtitle": "Solsonès, Segarra, Anoia",
+        "description": "Catalunya és màgica. Conté mar i terra, rius i muntanyes. En els seus milers de quilòmetres quadrats hi ha esglésies, castells, parcs... 'Catalunya des de l'aire' és un viatge per indrets que formen el passat, el present i el futur del país i dels seus habitants.'Catalunya des de l'aire' ofereix una visió bella i espectacular de les terres catalanes i dels seus habitants. Es tracta d'una sèrie divulgativa que vol mostrar als telespectadors el patrimoni cultural català. La sèrie, de 18 capítols, parteix del concepte de patrimoni integral, és a dir, de la suma dels vessants artístic, natural i antropològic, amb les corresponents indicacions històriques i literàries.La imatge del país, presa des de l'aire, projecta el conjunt i ofereix la successió de paisatges, monuments de diferents períodes i, com trobades a l'atzar del recorregut, celebracions i tradicions significatives dels diferents indrets. La música i la veu en off, amb pinzellades de l'àmbit històric i literari, acompanyen unes imatges que parlen per si soles.En conjunt, 'Catalunya des de l'aire' mostra la pluralitat d'elements i paisatges que formen la unitat del país, amb tota la riquesa de continguts, a vegades fins i tot contradictoris. Per aconseguir-ho, la sèrie parteix d'un guió elaborat per quatre professors d'universitat especialistes en el patrimoni històric i antropològic. A partir d'aquest guió s'elabora un complet joc d'imatges.'Catalunya des de l'aire' es va gravar durant gairebé un any, des del setembre del 97 fins a l'agost del 98, de manera que les diferents comarques mostren també com hi canvia el paisatge amb el pas de les estacions.El recorregut de 'Catalunya des de l'aire' comença al Barcelonès i, després de sobrevolar tot el país, es tanca amb un resum del més destacat del viatge.Fitxa tècnicaDirecció i realització: Xavier ManichIdea i direcció executiva: Germán RubiesProducció: Elena AlgarHistoriador: Salvador ClaramuntAdministrador gerent: Joan Cruel",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-23T04:32:50+01:00",
-        "stop": "2026-11-23T04:44:25+01:00",
-        "title": "La família Teixó-Guineu",
-        "subtitle": "En Timbal, el campió",
-        "description": "Per primera vegada la Guineta li guanya una cursa al seu pare. I ell li regala un collaret de campiona, del qual n'està molt orgullosa. Per posar-se a prova contra en Pinxo, deixa el collaret sota la vigilància d'en Timbal. Però mentre en Timbal fa una becaina, els gats del poble li roben el preuat collaret.",
+        "start": "2026-11-23T14:25:00+01:00",
+        "stop": "2026-11-23T14:42:44+01:00",
+        "title": "One piece",
+        "subtitle": "Un gran malson! La nit tràgica de Dressrosa!",
+        "description": "La Rebecca continua lluitant amb valentia al coliseu, en Ruffy es retroba amb en Zoro i continua la història esquinçadora de com en Doflamingo va conquistar Dressrosa!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-23T04:44:25+01:00",
-        "stop": "2026-11-23T04:51:05+01:00",
-        "title": "El xai Shaun",
-        "subtitle": "Va, Bitzer, va!",
-        "description": "El Bitzer ha estat vençut i humiliat pel gos del Ben, el Lexie, en la cursa del Gran Premi de karts. En veure aquest escarni que ha patit el seu amic, el Shaun decideix fer alguna cosa perquè la pròxima vegada les coses siguin una mica diferents.1",
+        "start": "2026-11-23T14:42:44+01:00",
+        "stop": "2026-11-23T15:01:46+01:00",
+        "title": "One piece",
+        "subtitle": "El combat entre dos Grans guerrers del mar! En Law contra en Doflamingo!",
+        "description": "El poder d'en Law comença a minvar, cosa que el converteix en un blanc fàcil pels atacs despietats d'en Doflamingo. Mentrestant, en Franky li demana a en Ruffy que el deixi lluitar juntament amb el soldadet i els tontattes!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-23T04:30:32+01:00",
-        "stop": "2026-11-23T05:18:00+01:00",
+        "start": "2026-11-23T14:01:27+01:00",
+        "stop": "2026-11-23T14:48:20+01:00",
         "title": "La Renaixença",
-        "subtitle": "La pua de guitarra",
-        "description": "A 'La Renaixença' estem envoltats de músics, per això dediquem un capítol a la pua de guitarra. Sabeu que se n'havien fet amb closques de tortuga careta? També hi ha músics que en fan amb les cendres de familiars morts. Hi ha gent per a tot… Ens visita en Manel Castellà, cap de Cirurgia Cardiovascular de l'Hospital Clínic. És el millor dia per si algú de nosaltres decideix tenir un atac de cor i un altre és donant d'òrgans. I sortim a passejar el Senyor Mel fins al 1992 durant la massacre de Carandiru, al Brasil.",
+        "subtitle": "La cinta de casset",
+        "description": "Avui, en una nova entrega de nostàlgia, dediquem el capítol a la cinta de casset. Estem segurs que en algun calaix de casa vostra en continueu guardant. Quantes hores heu passat rebobinant cintes amb un boli? Quantes hores heu passat dient que no hi ha millor so que el d'una cinta de casset? Ens visita Jaume Campistol, exjutge de cadira de tenis. Ha arbitrat jugadors com Federer, Djokovic, Nadal... No creiem que es posi nerviós per venir aquí. Sortim a passejar en Max pel tornado interestatal que es va viure als Estats Units el 1925.",
         "genre": "ALTRES",
         "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       },
       {
-        "start": "2026-11-23T05:18:00+01:00",
-        "stop": "2026-11-23T05:37:43+01:00",
-        "title": "Les Feres",
-        "subtitle": "Gossos",
-        "description": "Amb la gira 'A reviure', la formació manresana va cloure amb una desena de concerts especials una trajectòria de 30 anys. El quintet català ha destacat al llarg de la seva carrera per conrear un pop-rock basat en les harmonies vocals dels seus components, amb un repertori en què aborden les relacions sentimentals, les reflexions personals i, també, la crítica social. I amb cançons tan emblemàtiques com el senzill 'Corren', enregistrada originalment amb la col·laboració del músic barceloní Dani Macaco.  Juanjo Muñoz, guitarra i cors Roger Farré, baix i cors Santi Serratosa, bateria Natxo Tarrés, veu i guitarra Oriol Farré, guitarra i cors  'Tot és foc' 'Deixa't portar' 'Corren' 'Zenit'  Localització: Enregistrat a Manresa Dia: Dimecres, 15 de maig del 2024  ",
+        "start": "2026-11-23T14:48:20+01:00",
+        "stop": "2026-11-23T15:35:18+01:00",
+        "title": "La Renaixença",
+        "subtitle": "El braser",
+        "description": "Si pensem en hivern, ràpidament pensem en manta, sofà, infusió, te... Alguns també pensen en llar de foc, però fa anys també es pensava en el braser. Invent perillós: tapat amb mantes, llençols, mala combustió... però feia companyia, escalfava i també era el lloc on es reunien les famílies i amics. Dediquem el capítol al braser. Ens ve a veure Eduard Gener, músic i gentleman solsoní. Ve acompanyat del piano, i això només pot tenir coses bones. A 'Històries per passejar el gos' anem amb en Terry fins a un dia que tots recordem: l'assassinat de John Lennon.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
       }
     ],
     "oca1": [],
