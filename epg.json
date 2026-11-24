@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-23T13:41:11.666512+00:00",
+  "updated": "2026-11-24T01:13:28.399374+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,102 +43,102 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-23T14:30:00+01:00",
-        "stop": "2026-11-23T15:30:10+01:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-11-24T01:14:51+01:00",
+        "stop": "2026-11-24T03:05:42+01:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
+        "image": ""
       },
       {
-        "start": "2026-11-23T15:30:10+01:00",
-        "stop": "2026-11-23T15:54:31+01:00",
-        "title": "Cuines",
-        "subtitle": "Ostrons en tempura amb botifarra d'arròs",
-        "description": "Les combinacions possibles de mar i muntanya són inabastables. En proposem una de deliciosa i original: ostres del Delta amb botifarra d'arròs.  ",
-        "genre": "CUINA",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"
+        "start": "2026-11-24T03:05:42+01:00",
+        "stop": "2026-11-24T04:30:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-23T14:30:00+01:00",
-        "stop": "2026-11-23T15:30:00+01:00",
-        "title": "Telenotícies migdia",
+        "start": "2026-11-24T01:00:00+01:00",
+        "stop": "2026-11-24T06:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-23T15:30:00+01:00",
-        "stop": "2026-11-23T16:00:00+01:00",
-        "title": "3CatInfo en aranès",
+        "start": "2026-11-24T06:00:00+01:00",
+        "stop": "2026-11-24T08:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-23T14:00:59+01:00",
-        "stop": "2026-11-23T16:03:22+01:00",
-        "title": "Esport Club",
-        "subtitle": "La baixa de Lamine, sorteig de Copa i Marc Márquez",
-        "description": "Lamine, baixa per a la Champions. Remuntada de líder. En parlem amb l'Albert Blaya. Sorteig de la segona eliminatòria de la Copa del Rei. Històric Marc Márquez. Ja acumula deu Mundials. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "start": "2026-11-24T00:58:10+01:00",
+        "stop": "2026-11-24T02:34:19+01:00",
+        "title": "Onze",
+        "subtitle": "Remun-team; Mayola Academy i 'El Colegiado'",
+        "description": "Lluís Carrasco, Carles Fité, Aina Cerdà i Xavi Torres comenten l'enèsima remuntada del Barça de Flick. En Marc Mayola posa la lupa en el partit de Perdi. En Joan Fàbregas analitza les jugades polèmiques de la jornada.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-11-23T16:03:22+01:00",
-        "stop": "2026-11-23T16:30:09+01:00",
-        "title": "Catalunya des de l'aire",
-        "subtitle": "Solsonès, Segarra, Anoia",
-        "description": "Catalunya és màgica. Conté mar i terra, rius i muntanyes. En els seus milers de quilòmetres quadrats hi ha esglésies, castells, parcs... 'Catalunya des de l'aire' és un viatge per indrets que formen el passat, el present i el futur del país i dels seus habitants.'Catalunya des de l'aire' ofereix una visió bella i espectacular de les terres catalanes i dels seus habitants. Es tracta d'una sèrie divulgativa que vol mostrar als telespectadors el patrimoni cultural català. La sèrie, de 18 capítols, parteix del concepte de patrimoni integral, és a dir, de la suma dels vessants artístic, natural i antropològic, amb les corresponents indicacions històriques i literàries.La imatge del país, presa des de l'aire, projecta el conjunt i ofereix la successió de paisatges, monuments de diferents períodes i, com trobades a l'atzar del recorregut, celebracions i tradicions significatives dels diferents indrets. La música i la veu en off, amb pinzellades de l'àmbit històric i literari, acompanyen unes imatges que parlen per si soles.En conjunt, 'Catalunya des de l'aire' mostra la pluralitat d'elements i paisatges que formen la unitat del país, amb tota la riquesa de continguts, a vegades fins i tot contradictoris. Per aconseguir-ho, la sèrie parteix d'un guió elaborat per quatre professors d'universitat especialistes en el patrimoni històric i antropològic. A partir d'aquest guió s'elabora un complet joc d'imatges.'Catalunya des de l'aire' es va gravar durant gairebé un any, des del setembre del 97 fins a l'agost del 98, de manera que les diferents comarques mostren també com hi canvia el paisatge amb el pas de les estacions.El recorregut de 'Catalunya des de l'aire' comença al Barcelonès i, després de sobrevolar tot el país, es tanca amb un resum del més destacat del viatge.Fitxa tècnicaDirecció i realització: Xavier ManichIdea i direcció executiva: Germán RubiesProducció: Elena AlgarHistoriador: Salvador ClaramuntAdministrador gerent: Joan Cruel",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-11-24T02:34:19+01:00",
+        "stop": "2026-11-24T02:56:32+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-23T14:25:00+01:00",
-        "stop": "2026-11-23T14:42:44+01:00",
-        "title": "One piece",
-        "subtitle": "Un gran malson! La nit tràgica de Dressrosa!",
-        "description": "La Rebecca continua lluitant amb valentia al coliseu, en Ruffy es retroba amb en Zoro i continua la història esquinçadora de com en Doflamingo va conquistar Dressrosa!",
+        "start": "2026-11-24T02:02:10+01:00",
+        "stop": "2026-11-24T02:24:31+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Emoció",
+        "description": "L'Adrien ha d'assistir al Ball de Diamants que organitzen el seu pare i la senyora Tsurugi. Serà el Rei del Ball i farà parella amb la Kagami, que ha estat escollida per ser la reina d'aquest any. Ni l'Adrien ni la Kagami hi volen anar, però es veuen obligats a respectar la voluntat dels pares. Quan la Marinette descobreix que l'Adrien no s'ha atrevit a dir-li res del ball, decideix anar-hi, també. Però com podrà entrar en una festa privada on sembla que no l'hi volen?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-23T14:42:44+01:00",
-        "stop": "2026-11-23T15:01:46+01:00",
-        "title": "One piece",
-        "subtitle": "El combat entre dos Grans guerrers del mar! En Law contra en Doflamingo!",
-        "description": "El poder d'en Law comença a minvar, cosa que el converteix en un blanc fàcil pels atacs despietats d'en Doflamingo. Mentrestant, en Franky li demana a en Ruffy que el deixi lluitar juntament amb el soldadet i els tontattes!",
+        "start": "2026-11-24T02:24:31+01:00",
+        "stop": "2026-11-24T02:46:40+01:00",
+        "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+        "subtitle": "Pretensió",
+        "description": "Convençuda que el Gabriel la tracta amb fredor per culpa d'un malentès, la Marinette decideix anar a parlar cara a cara amb el pare del noi de qui està enamorada. I el seu extraordinari coratge inspira la seva amiga Kagami. A ella també li agradaria sincerar-se amb la seva mare, que sempre li dona ordres. Però la conversa s'interromp quan un desconegut segresta la Kagami. Qui és aquest segrestador misteriós? Aconseguiran Ladybug i el Gat Noir salvar la Kagami? I la Marinette i l'Adrien, es podran estimar mai lliurement?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-23T14:01:27+01:00",
-        "stop": "2026-11-23T14:48:20+01:00",
-        "title": "La Renaixença",
-        "subtitle": "La cinta de casset",
-        "description": "Avui, en una nova entrega de nostàlgia, dediquem el capítol a la cinta de casset. Estem segurs que en algun calaix de casa vostra en continueu guardant. Quantes hores heu passat rebobinant cintes amb un boli? Quantes hores heu passat dient que no hi ha millor so que el d'una cinta de casset? Ens visita Jaume Campistol, exjutge de cadira de tenis. Ha arbitrat jugadors com Federer, Djokovic, Nadal... No creiem que es posi nerviós per venir aquí. Sortim a passejar en Max pel tornado interestatal que es va viure als Estats Units el 1925.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "start": "2026-11-24T01:34:36+01:00",
+        "stop": "2026-11-24T02:28:20+01:00",
+        "title": "Montserrat Figueras, la veu de l'emoció",
+        "subtitle": "Montserrat Figueras, la veu de l'emoció",
+        "description": "Documental sobre la figura de la soprano Montserrat Figueras, que va ser la inseparable parella personal i professional de Jordi Savall, amb el qual va formar un tàndem creatiu enormement prolífic. Tots dos han estat els recuperadors de la música medieval, renaixentista i barroca, que ha estat fonamental pel patrimoni musical de Catalunya i d'Europa.Montserat Figueras va morir el 23 de novembre del 2011 víctima d'un càncer. Companys de professió (músics i cantants), crítics musicals, amics personals i el cercle familiar més íntim de la soprano ens desvelen una personalitat d'una enorme sensibilitat, que situava la música al centre de la seva activitat vital per projectar-la cap a la comunicació dels valors de la diversitat cultural, el diàleg i la pau.El documental recupera imatges de Montserrat Figueras a l'inici de la seva carrera, quan la va orientar cap a la música antiga, aixó com d'algunes actuacions destacades, sense oblidar moments de la seva vida familiar.Montserrat Figueras, la veu de l'emoció s'ha gravat a Catalunya, França i Suïssa, els llocs més importants en la vida i la carrera de la soprano. A més, fotografies del seu àlbum i alguns enregistraments familiars ajuden a conèixer molt millor la persona que Jordi Savall defineix com el meu amor, la meva amiga, la mare dels meus fills i la musa que m'ha inspirat i m'ha empès al llarg de tots aquests anys.",
+        "genre": "CLÀSSICA",
+        "image": "https://img.3cat.cat/multimedia/jpg/5/1/1755505509015.jpg"
       },
       {
-        "start": "2026-11-23T14:48:20+01:00",
-        "stop": "2026-11-23T15:35:18+01:00",
-        "title": "La Renaixença",
-        "subtitle": "El braser",
-        "description": "Si pensem en hivern, ràpidament pensem en manta, sofà, infusió, te... Alguns també pensen en llar de foc, però fa anys també es pensava en el braser. Invent perillós: tapat amb mantes, llençols, mala combustió... però feia companyia, escalfava i també era el lloc on es reunien les famílies i amics. Dediquem el capítol al braser. Ens ve a veure Eduard Gener, músic i gentleman solsoní. Ve acompanyat del piano, i això només pot tenir coses bones. A 'Històries per passejar el gos' anem amb en Terry fins a un dia que tots recordem: l'assassinat de John Lennon.",
+        "start": "2026-11-24T02:28:20+01:00",
+        "stop": "2026-11-24T03:20:34+01:00",
+        "title": "Experiència Catalana",
+        "subtitle": "Yannick et Catherine",
+        "description": "La Ivana Miño acompanya en Yannick i la Catherine, dos amics francesos, en un viatge que comença i acaba al Carnaval de Solsona. Entremig, però, coneixen els llocs més espectaculars de la comarca i els indrets més turístics de Cardona.",
         "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"
+        "image": ""
       }
     ],
     "oca1": [],
