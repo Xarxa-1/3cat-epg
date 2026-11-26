@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-26T15:09:54.455202+00:00",
+  "updated": "2026-11-26T23:49:44.270024+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-26T16:07:19+01:00",
-        "stop": "2026-11-26T16:50:35+01:00",
-        "title": "Com si fos ahir",
+        "start": "2026-11-27T00:44:09+01:00",
+        "stop": "2026-11-27T02:17:48+01:00",
+        "title": "Mésnit",
         "subtitle": "",
-        "description": "Els intents de l'Andreu per acostar-se a la Ruth acaben provocant que la Neus trenqui la relació. La Marga castiga durament la Lena per estar amb en Valeri i la deixa sense casa, feina ni diners. La Itziar accepta les disculpes de l'Iker, però aquella mateixa nit algú intenta entrar al seu pis. ",
-        "genre": "SÈRIE DRAMÀTICA",
+        "description": "El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.",
+        "genre": "DEBAT",
         "image": ""
       },
       {
-        "start": "2026-11-26T16:46:56+01:00",
-        "stop": "2026-11-26T17:24:14+01:00",
-        "title": "La Riera",
+        "start": "2026-11-27T02:17:48+01:00",
+        "stop": "2026-11-27T04:30:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "En Lluís creu que hi ha una manera de fer reaccionar l'Ernest i convoca els germans. Reapareix en Guillem Almeda i torna a assetjar l'Estel. En Balló és conscient de les sospites de l'Albert i avisa l'Oriol. Finalment, tothom, a la cuina, s'assabenta de les mentides de la Nora. I l'Ona no està disposada a afluixar amb la Marina.",
-        "genre": "TELENOVEL·LA",
-        "image": ""
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-26T16:00:00+01:00",
-        "stop": "2026-11-26T17:00:00+01:00",
+        "start": "2026-11-27T00:30:00+01:00",
+        "stop": "2026-11-27T01:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-26T17:00:00+01:00",
-        "stop": "2026-11-26T18:30:00+01:00",
+        "start": "2026-11-27T01:00:00+01:00",
+        "stop": "2026-11-27T06:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-26T15:30:05+01:00",
-        "stop": "2026-11-26T16:28:46+01:00",
-        "title": "Rick Stein: De Venècia a Istanbul",
-        "subtitle": "Grècia",
-        "description": "El penúltim capítol del viatge es divideix entre Grècia i Turquia. A Grècia, en Rick pescarà molls a Gerakas i visitarà l'antic poble de Monemvasia, i un celler on una parella treballa per recuperar un vi deliciós de fa 500 anys, fet amb raïm malvasia. A Turquia, en Rick menja un esmorzar tradicional turc, visita una granja de cabres, i un jardiner reconvertit en viticultor. A Simi prepara pop a la graella, un pa pla amb fetge especiat i molls fregits amb un toc de taronja.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-11-27T00:47:48+01:00",
+        "stop": "2026-11-27T02:20:07+01:00",
+        "title": "Onze",
+        "subtitle": "Quo vadis, Balde? La querella contra el Madrid i 'El consultori'",
+        "description": "David Bernabeu, Víctor Lozano, Paula Reverter i Jordi Martí comenten la situació de Balde i la querella del Barça contra el Madrid per les paraules de Florentino. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-11-26T16:28:46+01:00",
-        "stop": "2026-11-26T17:20:37+01:00",
-        "title": "Els quaderns de cuina de la Julie",
-        "subtitle": "L'Alta Viena",
-        "description": "En aquest episodi, la Julie visita Llemotges i l'Alta Viena, on visita un antic molí paperer, una fàbrica de porcellana i un taller de guanteria. Amb en Jean-Marie, que és mestre tripaire, prepara un tradicional cap de vedella. Després, amb en Frédéric, prepara uns massapans. Finalment, la Cécile, que és criadora de porcs de la raça de cul negre llemosina, li ensenya una recepta de rostit d'aquesta carn molt apreciada.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
-        "image": ""
+        "start": "2026-11-27T02:20:07+01:00",
+        "stop": "2026-11-27T02:35:42+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-26T16:09:30+01:00",
-        "stop": "2026-11-26T16:16:25+01:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "La calavera de la discòrdia",
-        "description": "Després de prendre-li el pot de crema de xocolata a en Grizzy, els Lèmmings llancen l'os lluny de la cabana. En Grizzy cau a un temple on troba una calavera que té el poder de sembrar la discòrdia a aquells a qui assenyali. En Grizzy la utilitza per enfrontar els Lèmmings entre ells i aprofita la baralla general per recuperar la crema de xocolata. Però els efectes de la calavera màgica no duren per sempre i la ràbia acaba desapareixent. Llavors els Lèmmings uneixen forces per pagar l'os amb la mateixa moneda!",
+        "start": "2026-11-27T00:42:33+01:00",
+        "stop": "2026-11-27T01:03:12+01:00",
+        "title": "Els germans Kratt",
+        "subtitle": "El Bernat Americà",
+        "description": "Explorant uns pantans, els germans Kratt troben un bernat americà i, com que és de color blau, el Martin està molt content. Tots plegats queden bocabadats amb les característiques i les habilitats d'aquest ocell; tots menys el Chris, que voldria un ocell verd per ell. L'equip Kratt es posa a estudiar a fons el bernat americà per fer-ne un disc de poder animal, però alhora també s'haurà d'enfrontar amb el Zach, que miniaturitza la nau Tortuga per quedar-se tots els invents de l'equip.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-26T16:16:25+01:00",
-        "stop": "2026-11-26T16:22:55+01:00",
-        "title": "En Grizzy i els Lèmmings",
-        "subtitle": "Una superestrella polar",
-        "description": "Els Lèmmings fan una competició de salts acrobàtics davant d'un públic de pingüins i morses. Dos equips de Lèmmings competeixen per proclamar-se vencedors. Quan en Grizzy salta per accident, es veu enganxat al joc i acaba fent embogir el públic! Content per la seva victòria, l'os s'ho passa pipa amb totes les atencions que rep. Però els Lèmmings també volen el seu moment de glòria.",
+        "start": "2026-11-27T01:03:12+01:00",
+        "stop": "2026-11-27T01:23:08+01:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "Com t’ho faràs, perquè se’n vagin de la granja?",
+        "description": "El Laxton, un exalumne del professor Cirerer, ara té una granja. Quan demana ajuda al professor per plantar cara a uns Giglett i un Dugtrio que li han envaït les terres, els nostres herois van corrents a ajudar-lo. Després d'investigar una mica, descobreixen que aquests Pokémon havien viscut en un turó d'allà a prop fins que el Team Rocket s'hi va aturar un dia i va posar la música tan alta que els Pokémon van fugir cap a la granja del Laxton.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-26T15:50:24+01:00",
-        "stop": "2026-11-26T16:20:44+01:00",
-        "title": "Quèquicom",
-        "subtitle": "QQC i La Masia  2",
-        "description": "'Quèquicom' emet el segon capítol del programa monogràfic dedicat a la masia, amb el títol 'Quèquicom i la masia 2', que continuarà amb l'explicació sobre la vida i la convivència entre persones i animals, iniciada amb el primer capítol, emès el passat 7 de març. Tots dos capítols volen explicar i mostrar com, amb la domesticació dels animals, l'home ha creat un ecosistema únic que permet que hi convisquin espècies antagòniques com el gat, el gos i les gallines.En aquest segon capítol el reporter Cristian Ruiz i Altaba descriu la ciència que envolta una casa de pagès catalana. Les seqüències a l'exterior es combinen amb diferents platós on s'amplien coneixements. S'explica, per exemple, com és que les plantes saben que han de florir a la primavera; com funcionen els tres estómacs dels remugants; la domesticació d'animals fers com el toro; per què els ous són ovalats; com és què els cadells de totes les espècies desperten sentit de protecció, per a què serveixen les diferents plomes dels ocells o en què s'assemblen la fotosíntesi i una placa solar.Amb aquest primer monogràfic sobre la masia, emès en dos capítols, 'Quèquicom' ha iniciat un nou format de programes monogràfics que, amb el títol 'Quèquicom i....' i amb periodicitat mensual, permetran aprofundir més en els temes de què tracta el programa. Al llarg de sis temporades i 170 capítols, el programa ha acumulat una gran quantitat de saviesa proporcionada per les aportacions de centenars d'experts. Després d'aquest primer programa monogràfic sobre la convivència entre espècies, a partir de l'experiència en una casa rural catalana, seguiran altres 'Quèquicom i...' sobre temes tan diversos com els descobriments, la visió, la geologia, l'espai o l'aigua. El format gràfic està inspirat en una pàgina web. A la pantalla inicial hi apareix un índex a partir del qual es van obrint una sèrie de finestres, des d'on es dóna pas a reportatges o a un plató.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-11-26T23:38:12+01:00",
+        "stop": "2026-11-27T00:54:20+01:00",
+        "title": "Pel·lícula",
+        "subtitle": "El cim",
+        "description": "LA CIMACoproducció d'Arcadia Motion Pictures, Aixerrota Films, LAZONA Producciones, Dorothy Films AIE en coproducció amb Noodles Production (França) i la participació d'EITB, Televisió de Catalunya y Movistar Plus+ i el suport del Govern Basc.Director: Ibon CormenzanaGuionista: Nerea CastroDirector fotografia: Albert PascualIntèrprets: Javier Rey, Patricia López Arnaiz, Kishan Adhikari, Blanca Apilanez, Kandido UrangaSINOPSI:El Mateo s'enfronta per primera vegada a la muntanya més perillosa del planeta, l'Annapurna, amb el repte d'arribar fins al cim i així complir una antiga promesa. En el seu ascens té un accident que el deixa inconscient i greument ferit. Hores més tard, és rescatat per l'Ione, una alpinista experimentada que està passant l'hivern en un refugi, sola i allunyada del món. Malgrat no entendre les raons que han portat al Mateo fins allà, l'Ione intentarà ajudar-lo a aconseguir la seva meta.LA CIMA narra el viatge emocional de l'Ione i el Mateo, una aventura que els ajudarà a reconnectar-se amb la vida i amb la naturalesa per a encarar el seu camí.",
+        "genre": "PEL·LÍCULA / TELEFILM",
+        "image": "https://img.3cat.cat/multimedia/jpg/8/5/1711642334258.jpg"
       },
       {
-        "start": "2026-11-26T16:20:44+01:00",
-        "stop": "2026-11-26T16:45:58+01:00",
-        "title": "Quèquicom",
-        "subtitle": "qqc i ... Descobriments (1)",
-        "description": "'Quèquicom' tornarà dimecres amb un segon monogràfic del nou format titulat 'Quèquicom i...', que en dos capítols, emesos el primer dimecres de mes, permet als espectadors aprofundir en un tema específic a partir dels fragments de programes anteriors que s'hi refereixin. Si el primer monogràfic va ser sobre la masia, aquest es referirà als descobriments que han fet més còmoda la vida de les persones. Seran, en total, 25 descobriments.En aquest primer capítol del monogràfic 'Quèquicom i els descobriments' s'explica: que la idea del velcro neix imitant unes llavors; que del mata-rates se'n va fer anticoagulant d'ús medicinal gràcies a una història d'amor frustrat; que la comunitat científica va fer impossible la vida al doctor Semmelweiss, descobridor de l'asèpsia; la singular i tràgica història de Thomas Midgley, inventor de dues coses devastadores per al medi ambient (la gasolina amb plom, que és tòxic, i els gasos CFC, que provoquen efecte hivernacle); i el descobriment de la radiació atòmica.",
-        "genre": "MAGAZINE ESPECIALITZAT",
+        "start": "2026-11-27T00:54:20+01:00",
+        "stop": "2026-11-27T01:17:59+01:00",
+        "title": "La pell dels murs",
+        "subtitle": "Juanjo Surace-Manel Serrat",
+        "description": "Aquest episodi de La Pell dels Murs té un to de denúncia. El protagonista és l'il·lustrador, muralista i animador d'origen argentí Juanjo Surace, resident a Barcelona des de 1998. Surace és un artista que té obra a murs d'arreu del món i que es caracteritza per un estil provocatiu, crític i molt imaginatiu, sovint poblat d'éssers monstruosos en situacions que, fins i tot, poden provocar horror.El capítol, dirigit per Manel Serrat, segueix Surace en la confecció d'un mural de denúncia sobre les condicions d'explotació i les dificultats econòmiques en què massa sovint es troben els artistes dedicats a aquests tipus de disciplina. Combinant la imatge fotogràfica i el vídeo, Serrat mostra el treball de Surace en un dels espais artístics més populars de Barcelona: els murs lliures de les Tres Xemeneies, a l'Avinguda del Paral·lel. Aquests murs, de propietat pública però gestionats a través d'una fundació privada, esdevenen ells mateixos objecte de crítica de l'artista. Surace utilitza la imatge d'una macabra carnisseria en què s'esquartera el cos d'un artista: una metàfora de la voracitat d'algunes institucions i entitats privades, però també d'alguns ciutadans que s'aprofiten del talent de molts muralistes sense compensar-lo.. El propi Surace conclou que, en aquest ofici, 'l'èxit és la tranquil·litat econòmica'. El conjunt és, doncs, un retrat amarg del muralisme, molt allunyat de l'espectacularitat i la complaença que envolten aquest art urbà.El mural de Juanjo Surace ha estat possible gràcies a la col·laboració de Montana Colors.La sèrie documental La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
