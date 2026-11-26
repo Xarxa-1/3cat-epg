@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-25T23:11:33.959123+00:00",
+  "updated": "2026-11-26T05:03:16.121935+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,57 +43,57 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-25T23:54:45+01:00",
-        "stop": "2026-11-26T01:35:07+01:00",
-        "title": "Eleccions Generals 2026 29N",
-        "subtitle": "29N: L'anàlisi del Debat",
-        "description": "",
-        "genre": "ESPECIALS INFORMATIUS",
-        "image": ""
-      },
-      {
-        "start": "2026-11-26T01:35:07+01:00",
-        "stop": "2026-11-26T04:30:00+01:00",
+        "start": "2026-11-26T06:00:00+01:00",
+        "stop": "2026-11-26T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-26T08:00:00+01:00",
+        "stop": "2026-11-26T10:29:57+01:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-25T23:35:00+01:00",
-        "stop": "2026-11-26T00:30:00+01:00",
-        "title": "Eleccions Generals 2026 29N",
-        "subtitle": "29N: L'anàlisi del Debat",
-        "description": "",
-        "genre": "ESPECIALS INFORMATIUS",
-        "image": ""
-      },
-      {
-        "start": "2026-11-26T00:30:00+01:00",
-        "stop": "2026-11-26T01:00:00+01:00",
+        "start": "2026-11-26T06:00:00+01:00",
+        "stop": "2026-11-26T08:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-26T08:00:00+01:00",
+        "stop": "2026-11-26T10:30:00+01:00",
+        "title": "Matins",
+        "subtitle": "",
+        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-25T23:00:15+01:00",
-        "stop": "2026-11-26T00:31:00+01:00",
-        "title": "Zona Champions",
-        "subtitle": "Anàlisi de la jornada / J5",
-        "description": "El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/5/1793734126552.jpg"
+        "start": "2026-11-26T05:59:09+01:00",
+        "stop": "2026-11-26T06:19:36+01:00",
+        "title": "Espòiler",
+        "subtitle": "El Ford Mustang Dark Horse, l'Skoda Epiq, la gamma Mercedes-AMG i les novetats de Leapmotor",
+        "description": "En aquest capítol ens posem al volant de l'impressionant Ford Mustang Dark Horse, un dels darrers esportius autèntics del mercat. A més, assistim a la presentació del nou Skoda Epiq, un SUV elèctric de poc més de quatre metres, posem a prova la gamma esportiva de Mercedes-AMG al circuit de Castellolí i coneixem les darreres novetats de Leapmotor.",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"
       },
       {
-        "start": "2026-11-26T00:31:00+01:00",
-        "stop": "2026-11-26T00:52:07+01:00",
+        "start": "2026-11-26T06:19:36+01:00",
+        "stop": "2026-11-26T06:43:26+01:00",
         "title": "3CatInfo Esports",
         "subtitle": "",
         "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
@@ -103,42 +103,42 @@
     ],
     "sx3": [
       {
-        "start": "2026-11-26T00:09:54+01:00",
-        "stop": "2026-11-26T00:30:03+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El duplicador de gossos salvatges",
-        "description": "El Martin, el Chris i la resta de l'Equip Kratt, són a l'Índia i es posen a buscar i a estudiar un animal molt escàs i desconegut: el gos salvatge asiàtic. Mentrestant, l'Aviva fa un experiment en secret: un duplicador d'objectes que potser els serà molt útil. El gos salvatge és un animal misteriós, perquè tot i que és molt petit, té fama de ser molt ferotge i de plantar cara als grans felins. Com que es mou en grans manades, basa la força en el grup. Els germans hauran d'aprofitar el que han après d'aquest animal per enfrontar-se amb els perills que els vindran.",
+        "start": "2026-11-26T06:00:00+01:00",
+        "stop": "2026-11-26T06:11:52+01:00",
+        "title": "L'abella Maia",
+        "subtitle": "L'endevina",
+        "description": "En Shelby arriba tard al partit de rúgblat. Explica als seus amics que ha estat perquè la Lara li ha predit el futur i la predicció s'ha complert. Tots volen anar a veure la Lara perquè els predigui el futur, menys la Maia, que desconfia d'aquestes coses. Això provoca un enfrontament entre ella i els seus amics. Com s'ho farà, la Maia, per reconciliar-se amb els companys sense trair les seves conviccions?",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-26T00:30:03+01:00",
-        "stop": "2026-11-26T00:50:12+01:00",
-        "title": "Els germans Kratt",
-        "subtitle": "El rei de les cobres",
-        "description": "El Martin perd l'animalpod i el Chris l'ajuda a buscar-lo. Quan el troben, hi ha una cobra índia cargolada al voltant. Per aprendre més coses d'aquest animal es miniaturitzen i s'enfilen dalt d'una mangosta, un animal immune al verí de les cobres. Però quan volen recuperar la mida normal s'adonen que han perdut el miniaturitzador! Mentrestant, la Koki i l'Aviva descobreixen un niu de cobra reial.",
+        "start": "2026-11-26T06:11:52+01:00",
+        "stop": "2026-11-26T06:23:26+01:00",
+        "title": "L'abella Maia",
+        "subtitle": "Bon profit, menuts!",
+        "description": "Al prat tothom està encantat amb el nou restaurant que ha obert la Tecla, el Filet Suculent, i amb els plats deliciosos i abundants que hi cuina. És molt amable amb tots els habitants del prat, sobretot amb els menuts, als quals els serveix racions ben generoses. Però la Maia no ho veu clar, hi ha alguna cosa que la fa desconfiar de l'aranya. Decideix vigilar-la de prop i descobrir si en porta alguna de cap.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-25T22:54:05+01:00",
-        "stop": "2026-11-26T00:47:31+01:00",
-        "title": "Premis ARC",
-        "subtitle": "Premis ARC 2026",
-        "description": "Els Premis ARC 2026 celebren els 50 anys de l'associació amb una nit especial des del Palau Firal i de Congressos de Tarragona. Amb les actuacions de Northern Cellos, Roger Mas, Svetlana i Siderland, la gala reconeix els artistes i professionals que fan vibrar els escenaris del país. Una celebració del talent, les emocions i la força de la música en viu. ",
+        "start": "2026-11-26T06:01:38+01:00",
+        "stop": "2026-11-26T06:19:23+01:00",
+        "title": "Les Feres",
+        "subtitle": "Mazoni",
+        "description": "Excomponent de bandes com Holland Park, Jaume Pla porta més de 20 anys utilitzant el sobrenom artístic de Mazoni -extret d'una popular sèrie d'animació japonesa, 'Capità Harlock'- per reflectir un cançoner que mostra les seves reflexions, inquietuds i sentiments. Discos com 'Esgarrapada', 'Si els dits fossin xilòfons', 'Eufòria 5 - Esperança 0' o 'Banderes per daltònics' acompanyen una llarga col·lecció de gravacions amarades de pop i de rock. Però en la llarga trajectòria de Mazoni també hi ha hagut espai per vestir, també, les seves composicions amb arranjaments electrònics o orientats cap a la música clàssica. Jaume Pla – veu i guitarra Aleix Bou – bateria i veus Natan Arbó – baix i veus Emili Bosch – guitarra i veus -La cuina està tancada -Ja no em lliguen les cadenes -Purgatori -Fe dins la tristesa -Un petit racó de pau per cadascú Localització: Enregistrat als estudis Rus Sònic de la Bisbal d'Empordà Data: 13 de gener del 2026  ",
         "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/5/0/1795174745405.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
       },
       {
-        "start": "2026-11-26T00:47:31+01:00",
-        "stop": "2026-11-26T02:34:48+01:00",
-        "title": "Concerts 3CAT",
-        "subtitle": "Roba Estesa: 'L'última estesa'",
-        "description": "Roba Estesa ofereix un concert molt especial dins la gira de comiat 'L'última estesa', per celebrar més d'una dècada de música i complicitat amb el públic.Enregistrat a Paral·lel 62, el directe recull l'energia, l'emoció i els himnes que han marcat la trajectòria del grup. Una actuació intensa i festiva que repassa les cançons més emblemàtiques de la banda.Un concert de comiat que posa punt final a una de les formacions més estimades del panorama musical català.",
+        "start": "2026-11-26T06:19:23+01:00",
+        "stop": "2026-11-26T06:24:54+01:00",
+        "title": "Xarxa Natura",
+        "subtitle": "Baix Ter",
+        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
         "genre": "ALTRES",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/9/1780379320892.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
       }
     ],
     "oca1": [],
