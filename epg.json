@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-26T05:03:16.121935+00:00",
+  "updated": "2026-11-26T15:09:54.455202+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-26T06:00:00+01:00",
-        "stop": "2026-11-26T08:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-26T16:07:19+01:00",
+        "stop": "2026-11-26T16:50:35+01:00",
+        "title": "Com si fos ahir",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "Els intents de l'Andreu per acostar-se a la Ruth acaben provocant que la Neus trenqui la relació. La Marga castiga durament la Lena per estar amb en Valeri i la deixa sense casa, feina ni diners. La Itziar accepta les disculpes de l'Iker, però aquella mateixa nit algú intenta entrar al seu pis. ",
+        "genre": "SÈRIE DRAMÀTICA",
+        "image": ""
       },
       {
-        "start": "2026-11-26T08:00:00+01:00",
-        "stop": "2026-11-26T10:29:57+01:00",
-        "title": "Matins",
+        "start": "2026-11-26T16:46:56+01:00",
+        "stop": "2026-11-26T17:24:14+01:00",
+        "title": "La Riera",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "description": "En Lluís creu que hi ha una manera de fer reaccionar l'Ernest i convoca els germans. Reapareix en Guillem Almeda i torna a assetjar l'Estel. En Balló és conscient de les sospites de l'Albert i avisa l'Oriol. Finalment, tothom, a la cuina, s'assabenta de les mentides de la Nora. I l'Ona no està disposada a afluixar amb la Marina.",
+        "genre": "TELENOVEL·LA",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-26T06:00:00+01:00",
-        "stop": "2026-11-26T08:00:00+01:00",
+        "start": "2026-11-26T16:00:00+01:00",
+        "stop": "2026-11-26T17:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,73 +72,73 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-26T08:00:00+01:00",
-        "stop": "2026-11-26T10:30:00+01:00",
-        "title": "Matins",
+        "start": "2026-11-26T17:00:00+01:00",
+        "stop": "2026-11-26T18:30:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-26T05:59:09+01:00",
-        "stop": "2026-11-26T06:19:36+01:00",
-        "title": "Espòiler",
-        "subtitle": "El Ford Mustang Dark Horse, l'Skoda Epiq, la gamma Mercedes-AMG i les novetats de Leapmotor",
-        "description": "En aquest capítol ens posem al volant de l'impressionant Ford Mustang Dark Horse, un dels darrers esportius autèntics del mercat. A més, assistim a la presentació del nou Skoda Epiq, un SUV elèctric de poc més de quatre metres, posem a prova la gamma esportiva de Mercedes-AMG al circuit de Castellolí i coneixem les darreres novetats de Leapmotor.",
-        "genre": "REPORTATGES",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"
+        "start": "2026-11-26T15:30:05+01:00",
+        "stop": "2026-11-26T16:28:46+01:00",
+        "title": "Rick Stein: De Venècia a Istanbul",
+        "subtitle": "Grècia",
+        "description": "El penúltim capítol del viatge es divideix entre Grècia i Turquia. A Grècia, en Rick pescarà molls a Gerakas i visitarà l'antic poble de Monemvasia, i un celler on una parella treballa per recuperar un vi deliciós de fa 500 anys, fet amb raïm malvasia. A Turquia, en Rick menja un esmorzar tradicional turc, visita una granja de cabres, i un jardiner reconvertit en viticultor. A Simi prepara pop a la graella, un pa pla amb fetge especiat i molls fregits amb un toc de taronja.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-11-26T06:19:36+01:00",
-        "stop": "2026-11-26T06:43:26+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-11-26T16:28:46+01:00",
+        "stop": "2026-11-26T17:20:37+01:00",
+        "title": "Els quaderns de cuina de la Julie",
+        "subtitle": "L'Alta Viena",
+        "description": "En aquest episodi, la Julie visita Llemotges i l'Alta Viena, on visita un antic molí paperer, una fàbrica de porcellana i un taller de guanteria. Amb en Jean-Marie, que és mestre tripaire, prepara un tradicional cap de vedella. Després, amb en Frédéric, prepara uns massapans. Finalment, la Cécile, que és criadora de porcs de la raça de cul negre llemosina, li ensenya una recepta de rostit d'aquesta carn molt apreciada.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-26T06:00:00+01:00",
-        "stop": "2026-11-26T06:11:52+01:00",
-        "title": "L'abella Maia",
-        "subtitle": "L'endevina",
-        "description": "En Shelby arriba tard al partit de rúgblat. Explica als seus amics que ha estat perquè la Lara li ha predit el futur i la predicció s'ha complert. Tots volen anar a veure la Lara perquè els predigui el futur, menys la Maia, que desconfia d'aquestes coses. Això provoca un enfrontament entre ella i els seus amics. Com s'ho farà, la Maia, per reconciliar-se amb els companys sense trair les seves conviccions?",
+        "start": "2026-11-26T16:09:30+01:00",
+        "stop": "2026-11-26T16:16:25+01:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "La calavera de la discòrdia",
+        "description": "Després de prendre-li el pot de crema de xocolata a en Grizzy, els Lèmmings llancen l'os lluny de la cabana. En Grizzy cau a un temple on troba una calavera que té el poder de sembrar la discòrdia a aquells a qui assenyali. En Grizzy la utilitza per enfrontar els Lèmmings entre ells i aprofita la baralla general per recuperar la crema de xocolata. Però els efectes de la calavera màgica no duren per sempre i la ràbia acaba desapareixent. Llavors els Lèmmings uneixen forces per pagar l'os amb la mateixa moneda!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-26T06:11:52+01:00",
-        "stop": "2026-11-26T06:23:26+01:00",
-        "title": "L'abella Maia",
-        "subtitle": "Bon profit, menuts!",
-        "description": "Al prat tothom està encantat amb el nou restaurant que ha obert la Tecla, el Filet Suculent, i amb els plats deliciosos i abundants que hi cuina. És molt amable amb tots els habitants del prat, sobretot amb els menuts, als quals els serveix racions ben generoses. Però la Maia no ho veu clar, hi ha alguna cosa que la fa desconfiar de l'aranya. Decideix vigilar-la de prop i descobrir si en porta alguna de cap.",
+        "start": "2026-11-26T16:16:25+01:00",
+        "stop": "2026-11-26T16:22:55+01:00",
+        "title": "En Grizzy i els Lèmmings",
+        "subtitle": "Una superestrella polar",
+        "description": "Els Lèmmings fan una competició de salts acrobàtics davant d'un públic de pingüins i morses. Dos equips de Lèmmings competeixen per proclamar-se vencedors. Quan en Grizzy salta per accident, es veu enganxat al joc i acaba fent embogir el públic! Content per la seva victòria, l'os s'ho passa pipa amb totes les atencions que rep. Però els Lèmmings també volen el seu moment de glòria.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-26T06:01:38+01:00",
-        "stop": "2026-11-26T06:19:23+01:00",
-        "title": "Les Feres",
-        "subtitle": "Mazoni",
-        "description": "Excomponent de bandes com Holland Park, Jaume Pla porta més de 20 anys utilitzant el sobrenom artístic de Mazoni -extret d'una popular sèrie d'animació japonesa, 'Capità Harlock'- per reflectir un cançoner que mostra les seves reflexions, inquietuds i sentiments. Discos com 'Esgarrapada', 'Si els dits fossin xilòfons', 'Eufòria 5 - Esperança 0' o 'Banderes per daltònics' acompanyen una llarga col·lecció de gravacions amarades de pop i de rock. Però en la llarga trajectòria de Mazoni també hi ha hagut espai per vestir, també, les seves composicions amb arranjaments electrònics o orientats cap a la música clàssica. Jaume Pla – veu i guitarra Aleix Bou – bateria i veus Natan Arbó – baix i veus Emili Bosch – guitarra i veus -La cuina està tancada -Ja no em lliguen les cadenes -Purgatori -Fe dins la tristesa -Un petit racó de pau per cadascú Localització: Enregistrat als estudis Rus Sònic de la Bisbal d'Empordà Data: 13 de gener del 2026  ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
+        "start": "2026-11-26T15:50:24+01:00",
+        "stop": "2026-11-26T16:20:44+01:00",
+        "title": "Quèquicom",
+        "subtitle": "QQC i La Masia  2",
+        "description": "'Quèquicom' emet el segon capítol del programa monogràfic dedicat a la masia, amb el títol 'Quèquicom i la masia 2', que continuarà amb l'explicació sobre la vida i la convivència entre persones i animals, iniciada amb el primer capítol, emès el passat 7 de març. Tots dos capítols volen explicar i mostrar com, amb la domesticació dels animals, l'home ha creat un ecosistema únic que permet que hi convisquin espècies antagòniques com el gat, el gos i les gallines.En aquest segon capítol el reporter Cristian Ruiz i Altaba descriu la ciència que envolta una casa de pagès catalana. Les seqüències a l'exterior es combinen amb diferents platós on s'amplien coneixements. S'explica, per exemple, com és que les plantes saben que han de florir a la primavera; com funcionen els tres estómacs dels remugants; la domesticació d'animals fers com el toro; per què els ous són ovalats; com és què els cadells de totes les espècies desperten sentit de protecció, per a què serveixen les diferents plomes dels ocells o en què s'assemblen la fotosíntesi i una placa solar.Amb aquest primer monogràfic sobre la masia, emès en dos capítols, 'Quèquicom' ha iniciat un nou format de programes monogràfics que, amb el títol 'Quèquicom i....' i amb periodicitat mensual, permetran aprofundir més en els temes de què tracta el programa. Al llarg de sis temporades i 170 capítols, el programa ha acumulat una gran quantitat de saviesa proporcionada per les aportacions de centenars d'experts. Després d'aquest primer programa monogràfic sobre la convivència entre espècies, a partir de l'experiència en una casa rural catalana, seguiran altres 'Quèquicom i...' sobre temes tan diversos com els descobriments, la visió, la geologia, l'espai o l'aigua. El format gràfic està inspirat en una pàgina web. A la pantalla inicial hi apareix un índex a partir del qual es van obrint una sèrie de finestres, des d'on es dóna pas a reportatges o a un plató.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       },
       {
-        "start": "2026-11-26T06:19:23+01:00",
-        "stop": "2026-11-26T06:24:54+01:00",
-        "title": "Xarxa Natura",
-        "subtitle": "Baix Ter",
-        "description": "En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"
+        "start": "2026-11-26T16:20:44+01:00",
+        "stop": "2026-11-26T16:45:58+01:00",
+        "title": "Quèquicom",
+        "subtitle": "qqc i ... Descobriments (1)",
+        "description": "'Quèquicom' tornarà dimecres amb un segon monogràfic del nou format titulat 'Quèquicom i...', que en dos capítols, emesos el primer dimecres de mes, permet als espectadors aprofundir en un tema específic a partir dels fragments de programes anteriors que s'hi refereixin. Si el primer monogràfic va ser sobre la masia, aquest es referirà als descobriments que han fet més còmoda la vida de les persones. Seran, en total, 25 descobriments.En aquest primer capítol del monogràfic 'Quèquicom i els descobriments' s'explica: que la idea del velcro neix imitant unes llavors; que del mata-rates se'n va fer anticoagulant d'ús medicinal gràcies a una història d'amor frustrat; que la comunitat científica va fer impossible la vida al doctor Semmelweiss, descobridor de l'asèpsia; la singular i tràgica història de Thomas Midgley, inventor de dues coses devastadores per al medi ambient (la gasolina amb plom, que és tòxic, i els gasos CFC, que provoquen efecte hivernacle); i el descobriment de la radiació atòmica.",
+        "genre": "MAGAZINE ESPECIALITZAT",
+        "image": ""
       }
     ],
     "oca1": [],
