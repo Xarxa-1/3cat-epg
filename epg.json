@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-27T06:22:28.101398+00:00",
+  "updated": "2026-11-27T16:53:09.126539+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-27T06:00:00+01:00",
-        "stop": "2026-11-27T08:00:00+01:00",
-        "title": "Notícies 3CatInfo",
+        "start": "2026-11-27T17:40:47+01:00",
+        "stop": "2026-11-27T19:07:56+01:00",
+        "title": "La Selva",
         "subtitle": "",
-        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+        "description": "Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.",
+        "genre": "MAGAZINE",
+        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
       },
       {
-        "start": "2026-11-27T08:00:00+01:00",
-        "stop": "2026-11-27T10:29:58+01:00",
-        "title": "Matins",
+        "start": "2026-11-27T19:07:56+01:00",
+        "stop": "2026-11-27T20:12:38+01:00",
+        "title": "Atrapa'm si pots",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
+        "genre": "CONCURS",
+        "image": ""
       }
     ],
     "324": [
       {
-        "start": "2026-11-27T06:00:00+01:00",
-        "stop": "2026-11-27T08:00:00+01:00",
+        "start": "2026-11-27T17:00:00+01:00",
+        "stop": "2026-11-27T18:30:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,73 +72,73 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-27T08:00:00+01:00",
-        "stop": "2026-11-27T10:30:00+01:00",
-        "title": "Matins",
+        "start": "2026-11-27T18:30:00+01:00",
+        "stop": "2026-11-27T20:00:00+01:00",
+        "title": "Notícies 3CatInfo",
         "subtitle": "",
-        "description": "'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       }
     ],
     "esport3": [
       {
-        "start": "2026-11-27T07:15:09+01:00",
-        "stop": "2026-11-27T08:47:17+01:00",
-        "title": "Onze",
-        "subtitle": "Quo vadis, Balde? La querella contra el Madrid i 'El consultori'",
-        "description": "David Bernabeu, Víctor Lozano, Paula Reverter i Jordi Martí comenten la situació de Balde i la querella del Barça contra el Madrid per les paraules de Florentino. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-11-27T17:12:39+01:00",
+        "stop": "2026-11-27T18:03:00+01:00",
+        "title": "SALA DE PREMSA",
+        "subtitle": "- COMIAT MARC MÁRQUEZ",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       },
       {
-        "start": "2026-11-27T08:47:17+01:00",
-        "stop": "2026-11-27T10:02:05+01:00",
-        "title": "Handbol",
-        "subtitle": "Barça-GOG / EHF Champions / Main Round J2",
-        "description": "Els blaugranes tenen 6 punts i necessiten la victòria per seguir al capdavant del grup. Empatarien amb el Magdeburg que ja en té 8. Per contra, els danesos encara no han puntuat en aquesta ronda principal.",
-        "genre": "RETRANSMISSIONS ESPORTS",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"
+        "start": "2026-11-27T18:03:00+01:00",
+        "stop": "2026-11-27T19:00:00+01:00",
+        "title": "Esport Club",
+        "subtitle": "La retirada de Marc Márquez, i tertúlia",
+        "description": "Marc Márquez ha anunciat per sorpresa que es retira aquest cap de setmana. Ho ha fet a Xest, on correrà la seva última cursa, el Gran Premi de València. N'hem parlat amb Xavi Guillén i Montse Sogues, cap de Comunicació del Circuit de Barcelona-Catalunya. A la tertúlia ens han acompanyat Gemma Mallorca, Frederic Porta i David Sánchez",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-27T07:20:30+01:00",
-        "stop": "2026-11-27T07:31:03+01:00",
+        "start": "2026-11-27T17:35:04+01:00",
+        "stop": "2026-11-27T17:56:49+01:00",
         "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla salva una aventura",
-        "description": "En Marshall i la Patrulla Peluda ensenyen a l'Alex a prevenir incendis al bosc!",
+        "subtitle": "Rescats extrems: La Patrulla salva un monstre de pel·lícula",
+        "description": "A Badia Aventures, es roda una pel·lícula amb un monstre molt gros i l'alcalde Humdinger vol que es rodi a Fons Boirós.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-27T07:31:03+01:00",
-        "stop": "2026-11-27T07:41:36+01:00",
+        "start": "2026-11-27T17:56:49+01:00",
+        "stop": "2026-11-27T18:07:51+01:00",
         "title": "La Patrulla Peluda",
-        "subtitle": "La Patrulla salva una sorpresa",
-        "description": "Avui sembla un dia normal a Badia Aventures, ple d'emergències per als cadells. El que no saben és que els espera una sorpresa: és el Dia d'Homenatge a la Patrulla Peluda!",
+        "subtitle": "Missió Peluda: La Patrulla salva el concert reial",
+        "description": "En Luke Stars ha desaparegut abans del seu concert reial de Bordaburg, i la Sweetie vol prendre-li el lloc!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-27T07:14:38+01:00",
-        "stop": "2026-11-27T07:41:32+01:00",
-        "title": "Quèquicom",
-        "subtitle": "Redibuixant la Memòria Històrica",
-        "description": "La Història es torna a escriure gràcies a la tecnologia. Marc Boada pilota un caça republicà en una batalla aèria contra caces feixistes sobre Els Monjos, al Penedès. Samantha Vall desenterra les bales i entra en un refugi subterrani construït sota les vinyes durant la Guerra Civil. Detectors de metalls, georadars, cartografia per satèl·lit i recreació d'imatges en 3D són les noves eines que usen els historiadors. Francesc Xavier Hernández, catedràtic de la UB, explica que avui en dia la geolocalització permet relacionar amb precisió un tros de metralla amb la resta d'elements o persones que van intervenir en una batalla. Per això, cada cop que un aficionat treu un objecte històric del seu lloc és com si arrenqués, sense saber-ho, un pàgina de la Història. Es perd una informació que mai més es podrà recuperar.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-11-27T17:25:21+01:00",
+        "stop": "2026-11-27T18:26:00+01:00",
+        "title": "Gàdor i els taurons",
+        "subtitle": "Gàdor i els taurons",
+        "description": "En la seva croada personal en defensa dels taurons, la científica marina Gàdor Muntaner s'embarca en un viatge a la recerca de l'animal que troba tan fascinant. El viatge de la Gàdor ens porta a un mar i dos oceans. Acompanyada per l'instructor de busseig i càmera submarí Jordi Atienza, el periple de la Gàdor comença a la Mediterrània, a Mallorca, on fa immersió a la reserva marina de l'Illa del Toro. Aquí, el tauró blau, o tintorera, està en perill d'extinció. Després visita la Baixa Califòrnia, a Mèxic, on va escriure la seva tesi sobre els contaminants que afecten el gran tauró blanc i va fundar una ONG. Aquí, a l'oceà Pacífic, encara es pesquen taurons. La Gàdor treballa amb els pescadors locals perquè canviïn el model de negoci, per convèncer-los que val més un tauró viu que un tauró mort. La Gàdor acaba el seu viatge a les Maldives, a l'oceà Índic, on va veure el seu primer tauró, un moment que li va canviar la vida. I a la seva mare, que l'acompanyava, també. Allà es retroba amb el seu amic Mohamed i té l'objectiu final de comprovar com ha augmentat la població de taurons tigre a causa de la protecció que n'han fet. Seria el lloc on les coses es fan millor, si no fos que en altres zones dels atols hi ha illes flotants de plàstics. ",
+        "genre": "DOCUMENTAL",
+        "image": "https://img.3cat.cat/multimedia/jpg/2/6/1732658813162.jpg"
       },
       {
-        "start": "2026-11-27T07:41:32+01:00",
-        "stop": "2026-11-27T08:09:00+01:00",
-        "title": "Quèquicom",
-        "subtitle": "Despullant la bugada",
-        "description": "La bugada perfecta és un repte per a la física, la química i per als reporters de Quèquicom, que aprenen els millors trucs per aconseguir una roba immaculada. Com és possible que el sabó, que s'usa per netejar greixos, es fabriqui precisament amb greixos? Quina diferència hi ha entre el sabó i el detergent? Com usar el lleixiu? Si algú en sap, de rentar la roba a mà, són les senyores que de tota la vida van al safareig de Caldes de Montbui i que es fan el seu propi sabó amb les restes de l'oli de fregir i sosa càustica. Pere Renom aprèn com rentar a mà i fer el sabó.Marc Boada explica des de plató que el sabó és una molècula molt particular, perquè és capaç de lligar-se amb una mà als greixos i amb l'altra, a l'aigua. D'aquesta manera, l'aigua pot arrossegar els olis.",
-        "genre": "MAGAZINE ESPECIALITZAT",
-        "image": ""
+        "start": "2026-11-27T18:26:00+01:00",
+        "stop": "2026-11-27T19:30:59+01:00",
+        "title": "Sol a Groenlàndia",
+        "subtitle": "Sol a Groenlàndia",
+        "description": "'Sol a Groenlàndia' (2025) una producció de OHM Proyectos de Implantación en coproducció amb Wanda Films i 3Cat, i la col·laboració de Rumbak. L'Unai, un jove estudiant d'antropologia, viatja en solitari a Groenlàndia a la recerca d'ossos polars i bous mesquers. Travessa la tundra i passa més de cent nits acampant entre glaceres i llacs mentre filma els bous i descobreix la vida salvatge de l'Àrtic. A l'hivern, l'Unai es trasllada a l'oceà glaçat per intentar trobar l'os polar. Passa diverses setmanes tot sol en un poblat abandonat, però no aconsegueix veure'n cap. El seu pare, un experimentat fotògraf de natura, arriba per ajudar-lo. Finalment, junts, aconsegueixen observar i filmar els ossos polars. Equip:Direcció i guió: Unai Canela Realització: Unai Canela i Andoni Canela Productor: José María Morales Productor executiu 3Cat: David Bassa Cabanas i Sílvia Pairó Vila Coordinació de continguts 3Cat: Ricard Belis Garcia Productor delegat 3Cat: Daniel Barea Delgado Director fotografia: Andoni Canela Muntatge: Unai CanelaDirector de producció: Miguel Morales Música: Kirill Valeev, Marina Iñesta, Biel Pons, Damià Lingüista: Anna Sadurní Grafisme: Adrià Rodríguez Veu en off: Unai Canela  ",
+        "genre": "DOCUMENTAL DE CREACIÓ",
+        "image": "https://img.3cat.cat/multimedia/jpg/3/5/1751879429353.jpg"
       }
     ],
     "oca1": [],
