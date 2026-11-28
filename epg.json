@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-28T00:20:06.939055+00:00",
+  "updated": "2026-11-28T08:14:06.918617+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,8 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-28T00:41:13+01:00",
-        "stop": "2026-11-28T01:24:11+01:00",
-        "title": "Replicants",
-        "subtitle": "'Fallout'. El món s'acaba",
-        "description": "José Luis de Vicente, director creatiu del Museu del Disseny – Dhub de Barcelona; Marta Ferrer, guionista especialista en sèries d''El suplement' de Catalunya Ràdio, i el presentador del videopòdcast de videojocs 'Tres vides', Patrick Urbano, dialoguen sobre com ens imaginem la fi del món, si realment l'apocalipsi ha de ser necessàriament negativa i com literatura, cinema, sèries i videojocs ens fan veure que el món s'acaba.",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/6/4/1714457843346.jpg"
-      },
-      {
-        "start": "2026-11-28T01:24:11+01:00",
-        "stop": "2026-11-28T01:40:11+01:00",
-        "title": "Les Feres",
-        "subtitle": "Roger Mas i la Cobla Sant Jordi",
-        "description": "La fusió de Roger Mas amb La Cobla Sant Jordi ha generat ja dues aplaudides aventures musicals, amb dotze anys de diferència entre elles, que parteixen de la idea de jugar i crear des de l'arrel i anar més enllà. Així, a més de recuperar alguna peça dels discos del cantautor solsoní, els músics fan incursions amb el cançoner de llengües com el francès o l'italià. Tradició i aventura.  Roger Mas -veu i guitarra Xavier Guitó - piano Arcadi Marcet - contrabaix Josep 'Pinyu' Martí - bateria  La Cobla Sant Jordi Ciutat de Barcelona  Xavier Torrent - flabiol i tamborí Ivan Alcazo i Oriol Gibert - tibles Enric Ortí i Conrad Dalmau- tenores Sergi Marquillas i Biel Pelfort - trompetes Martí Badia - trombó Pep Moliner i Jordi Montasell - fiscorns Joan Druguet - contrabaix  'Aqueres montanhes' 'Quan tothom viurà d'amor' 'Tres branques' 'Sota una fina capa de cendra'  Localització: Enregistrat a Solsona Dia: dissabte, 14 de setembre del 2024  ",
-        "genre": "ALTRES",
-        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
-      }
-    ],
-    "324": [
-      {
-        "start": "2026-11-28T01:00:00+01:00",
-        "stop": "2026-11-28T06:00:00+01:00",
+        "start": "2026-11-28T07:00:00+01:00",
+        "stop": "2026-11-28T10:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +52,28 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-28T06:00:00+01:00",
-        "stop": "2026-11-28T07:00:00+01:00",
+        "start": "2026-11-28T10:00:00+01:00",
+        "stop": "2026-11-28T11:45:27+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      }
+    ],
+    "324": [
+      {
+        "start": "2026-11-28T07:00:00+01:00",
+        "stop": "2026-11-28T10:00:00+01:00",
+        "title": "Notícies 3CatInfo",
+        "subtitle": "",
+        "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
+        "genre": "INFORMATIU DIÀRI",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
+      },
+      {
+        "start": "2026-11-28T10:00:00+01:00",
+        "stop": "2026-11-28T12:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,61 +83,61 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-28T00:57:29+01:00",
-        "stop": "2026-11-28T02:29:57+01:00",
-        "title": "Onze",
-        "subtitle": "Marc Márquez, el comiat del G.O.A.T.; Delmàs i Nin",
-        "description": "Viatgem fins a Xest per a repassar amb Xavi Guillén l'històric comiat de Marc Márquez de MotoGP. Repassem la seva trajectòria i escoltem protagonistes. A la segona part del programa fem tertúlia amb Santi Ovalle, Carme Lluveras, Juli Garcia i Francesc Garriga. Àlex Delmàs ens porta la clau del Depor-Barça i acabem amb les golfes d'Òscar Nin.   ",
-        "genre": "MAGAZINE",
-        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
+        "start": "2026-11-28T09:12:04+01:00",
+        "stop": "2026-11-28T09:19:57+01:00",
+        "title": "Capacitats",
+        "subtitle": "- Els jocs més 'special' del món",
+        "description": "Sense Descripció",
+        "genre": "",
+        "image": ""
       },
       {
-        "start": "2026-11-28T02:29:57+01:00",
-        "stop": "2026-11-28T02:55:36+01:00",
-        "title": "3CatInfo Esports",
-        "subtitle": "",
-        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
-        "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
+        "start": "2026-11-28T09:19:57+01:00",
+        "stop": "2026-11-28T09:41:13+01:00",
+        "title": "Espòiler",
+        "subtitle": "El Ford Mustang Dark Horse, l'Skoda Epiq, la gamma Mercedes-AMG i les novetats de Leapmotor",
+        "description": "En aquest capítol ens posem al volant de l'impressionant Ford Mustang Dark Horse, un dels darrers esportius autèntics del mercat. A més, assistim a la presentació del nou Skoda Epiq, un SUV elèctric de poc més de quatre metres, posem a prova la gamma esportiva de Mercedes-AMG al circuit de Castellolí i coneixem les darreres novetats de Leapmotor.",
+        "genre": "REPORTATGES",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-28T01:03:37+01:00",
-        "stop": "2026-11-28T01:23:33+01:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "El conte de tu i el Bosc Llumirint!",
-        "description": "La Chloe llegeix un llibre sobre les formes de Galar del Ponyta i el Rapidash, i després el professor Cirerer proposa que ella, l'Ash i el Goh viatgin al Bosc Llumirint per veure'ls de primera mà. Un cop allà, la Chloe descobreix que una visió que va tenir llegint el llibre era de debò: el Rapidash està ferit i el Ponyta està preocupat. Però la Chloe també llegeix que hi ha un tipus de nèctar de flor amb propietats curatives, i decideix buscar la flor. De camí, es topa amb un trio d'Impidimp juganers que al final l'ajuden a aconseguir el nèctar, i ella el porta al Rapidash. El Rapidash recupera la salut, i la Chloe i l'Eevee tornen amb els amics muntant el Rapidash i el Ponyta.",
+        "start": "2026-11-28T09:08:04+01:00",
+        "stop": "2026-11-28T09:18:37+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Patrulla salva en Ryder",
+        "description": "En Ryder troba la cabra Garbie atrapada en una cornisa de la muntanya i prova de rescatar-la, però ara l'hauran de rescatar a ell!",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-28T01:23:33+01:00",
-        "stop": "2026-11-28T01:42:42+01:00",
-        "title": "Viatges Pokémon",
-        "subtitle": "A la recerca de la cavalleria!",
-        "description": "El Farfetch'd de l'Ash està decidit a convertir-se en un Mestre Porro, i l'Ash farà tot el possible per ajudar-lo! Els nostres herois, després de descobrir el Castell de la Cavalleria, un centre d'entrenament dirigit pel Til·leu, el membre dels Quatre Suprems de Kalos, decideixen anar-hi a entrenar-se! El Til·leu els té preparat un repte intensiu, i l'armadura que han de portar n'augmenta encara més la dificultat. L'Ash, el Go, el Farfetch'd i el Scyter superen tres proves, enfrontant-se a contrincants molt forts. Al final es guanyen l'admiració del Til·leu, que no només els atorga la Medalla del Cavaller, sinó que també ajuda el Goh a fer que el Scyter evolucioni a Scizor! ",
+        "start": "2026-11-28T09:18:37+01:00",
+        "stop": "2026-11-28T09:30:53+01:00",
+        "title": "La Patrulla Peluda",
+        "subtitle": "La Gran Cursa de la Patrulla Peluda",
+        "description": "Avui és el dia de la Gran Cursa, i la Patrulla travessarà tota la ciutat per veure qui és el més ràpid.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-28T01:01:15+01:00",
-        "stop": "2026-11-28T01:52:16+01:00",
-        "title": "Viure amb els volcans",
-        "subtitle": "Volcans sagrats",
-        "description": "En aquest primer episodi, dedicat als volcans sagrats, coneixerem les divinitats que des de fa mil·lennis s'han associat als fenòmens volcànics, en un intent de la humanitat de comprendre l'activitat d'aquests gegants de foc i d'evitar-ne les pitjors conseqüències, sempre des del respecte i el sentiment de pertinença a una mateixa realitat natural. La ciència i la fe col·laboren per entendre i apreciar els volcans des d'una perspectiva més completa.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-28T08:53:59+01:00",
+        "stop": "2026-11-28T09:41:59+01:00",
+        "title": "Batalla monumental",
+        "subtitle": "Batalla modernista: Palau de la Música Catalana-Cripta i Colònia Güell",
+        "description": "A 'Batalla monumental' confrontem dos dels recintes modernistes més màgics del món: el Palau de la Música Catalana, l'espectacular auditori de Domènech i Montaner per a l'Orfeó Català, i la Cripta i la Colònia Güell, la colònia industrial més elegant del món que amaga la joia secreta d'Antoni Gaudí.Laia Fontàn i Candela Figueras són les encarregades de conèixer testimonis i exposar arguments per fer decantar el públic a favor del seu monument. Totes dues viatjaran en el temps per aconseguir que el seu sigui el monument modernista guanyador. La Candela es posarà en la pell d'una treballadora de la colònia de l'època, i la Laia s'endinsarà en els racons més desconeguts del Palau de la Música Catalana.En aquesta batalla modernista, les ajudaran a convèncer l'audiència el líder del grup Love of Lesbian, Santi Balmes, que revelarà la història del seu avi, antic treballador de la colònia Güell, i per defensar l'auditori de Domènech i Montaner, la Laia comptarà amb l'ajuda d'Els Amics de les Arts, uns autèntics enamorats del Palau.Roger de Gràcia és el mestre de cerimònies d'una batalla singular on, com sempre, serà l'audiència la que prendrà la decisió final en aquest duel modernista amb el seu vot a les xarxes socials del programa, a @BatallaTV3.",
+        "genre": "ALTRES",
         "image": ""
       },
       {
-        "start": "2026-11-28T01:52:16+01:00",
-        "stop": "2026-11-28T02:44:32+01:00",
-        "title": "Viure amb els volcans",
-        "subtitle": "Volcans beneficiosos",
-        "description": "Els volcans tenen la imatge de muntanyes de foc que amenacen l'entorn i que periòdicament causen una enorme destrucció. Tot i així, atreuen moltes persones que s'instal·len al seu voltant perquè els donen molt més del que els prenen. Emeten minerals molt importants per a l'agricultura, atreuen les pluges i també són una font d'energia que cada cop s'aprofita més arreu del món. En aquest episodi s'exploren els diversos factors beneficiosos dels volcans.",
-        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "start": "2026-11-28T09:41:59+01:00",
+        "stop": "2026-11-28T10:28:27+01:00",
+        "title": "Batalla monumental",
+        "subtitle": "Batalla de la fe: Santa Maria de Ripoll-Cartoixa d'Escaladei",
+        "description": "Aquesta 'Batalla monumental' es lliura entre dos dels monestirs més emblemàtics i bells de Catalunya: el de Santa Maria de Ripoll, bressol de Catalunya, i la cartoixa d'Escaladei, una joia amagada al mig del Priorat. Estem parlant d'una autèntica 'batalla de la fe'!Com a cada programa, Laia Fontàn i Candela Figueras buscaran els millors arguments i els testimonis més convincents per aconseguir que el seu sigui el monument guanyador del capítol. Totes dues estan disposades a donar-ho tot per decantar la balança a favor del seu monument. Aquesta vegada, la Laia buscarà respostes al mite de Guifré el Pilós i la Candela aprendrà a viure com un autèntic monjo cartoixà de l'època.En aquesta batalla medieval, les ajudaran a convèncer a l'audiència l'actor Lluís Soler, que ha interpretat centenars de vegades el comte Arnau, i la popular cuinera Gessamí Caramés, que podem veure cada setmana al programa 'Cuines' de TV3, que ensenyarà a la Candela una de les receptes més preuades dels monjos cartoixans: el menjar blanc.Roger de Gràcia és el mestre de cerimònies d'una nova batalla singular de monuments on, com sempre, serà l'audiència la que decidirà el guanyador d'aquest duel entre monestirs votant a les xarxes socials del programa, a @BatallaTV3.",
+        "genre": "ALTRES",
         "image": ""
       }
     ],
