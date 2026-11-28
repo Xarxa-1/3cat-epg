@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-27T16:53:09.126539+00:00",
+  "updated": "2026-11-28T00:20:06.939055+00:00",
   "source": "https://dinamics.3cat.cat/wsarafem/arafem/tv/profile/noimage/geo/cat",
   "channels": [
     {
@@ -43,28 +43,28 @@
   "epg": {
     "tv3": [
       {
-        "start": "2026-11-27T17:40:47+01:00",
-        "stop": "2026-11-27T19:07:56+01:00",
-        "title": "La Selva",
-        "subtitle": "",
-        "description": "Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.",
-        "genre": "MAGAZINE",
-        "image": "https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"
+        "start": "2026-11-28T00:41:13+01:00",
+        "stop": "2026-11-28T01:24:11+01:00",
+        "title": "Replicants",
+        "subtitle": "'Fallout'. El món s'acaba",
+        "description": "José Luis de Vicente, director creatiu del Museu del Disseny – Dhub de Barcelona; Marta Ferrer, guionista especialista en sèries d''El suplement' de Catalunya Ràdio, i el presentador del videopòdcast de videojocs 'Tres vides', Patrick Urbano, dialoguen sobre com ens imaginem la fi del món, si realment l'apocalipsi ha de ser necessàriament negativa i com literatura, cinema, sèries i videojocs ens fan veure que el món s'acaba.",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/6/4/1714457843346.jpg"
       },
       {
-        "start": "2026-11-27T19:07:56+01:00",
-        "stop": "2026-11-27T20:12:38+01:00",
-        "title": "Atrapa'm si pots",
-        "subtitle": "",
-        "description": "'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.",
-        "genre": "CONCURS",
-        "image": ""
+        "start": "2026-11-28T01:24:11+01:00",
+        "stop": "2026-11-28T01:40:11+01:00",
+        "title": "Les Feres",
+        "subtitle": "Roger Mas i la Cobla Sant Jordi",
+        "description": "La fusió de Roger Mas amb La Cobla Sant Jordi ha generat ja dues aplaudides aventures musicals, amb dotze anys de diferència entre elles, que parteixen de la idea de jugar i crear des de l'arrel i anar més enllà. Així, a més de recuperar alguna peça dels discos del cantautor solsoní, els músics fan incursions amb el cançoner de llengües com el francès o l'italià. Tradició i aventura.  Roger Mas -veu i guitarra Xavier Guitó - piano Arcadi Marcet - contrabaix Josep 'Pinyu' Martí - bateria  La Cobla Sant Jordi Ciutat de Barcelona  Xavier Torrent - flabiol i tamborí Ivan Alcazo i Oriol Gibert - tibles Enric Ortí i Conrad Dalmau- tenores Sergi Marquillas i Biel Pelfort - trompetes Martí Badia - trombó Pep Moliner i Jordi Montasell - fiscorns Joan Druguet - contrabaix  'Aqueres montanhes' 'Quan tothom viurà d'amor' 'Tres branques' 'Sota una fina capa de cendra'  Localització: Enregistrat a Solsona Dia: dissabte, 14 de setembre del 2024  ",
+        "genre": "ALTRES",
+        "image": "https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"
       }
     ],
     "324": [
       {
-        "start": "2026-11-27T17:00:00+01:00",
-        "stop": "2026-11-27T18:30:00+01:00",
+        "start": "2026-11-28T01:00:00+01:00",
+        "stop": "2026-11-28T06:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -72,8 +72,8 @@
         "image": "https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"
       },
       {
-        "start": "2026-11-27T18:30:00+01:00",
-        "stop": "2026-11-27T20:00:00+01:00",
+        "start": "2026-11-28T06:00:00+01:00",
+        "stop": "2026-11-28T07:00:00+01:00",
         "title": "Notícies 3CatInfo",
         "subtitle": "",
         "description": "Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.",
@@ -83,62 +83,62 @@
     ],
     "esport3": [
       {
-        "start": "2026-11-27T17:12:39+01:00",
-        "stop": "2026-11-27T18:03:00+01:00",
-        "title": "SALA DE PREMSA",
-        "subtitle": "- COMIAT MARC MÁRQUEZ",
-        "description": "Sense Descripció",
-        "genre": "",
-        "image": ""
+        "start": "2026-11-28T00:57:29+01:00",
+        "stop": "2026-11-28T02:29:57+01:00",
+        "title": "Onze",
+        "subtitle": "Marc Márquez, el comiat del G.O.A.T.; Delmàs i Nin",
+        "description": "Viatgem fins a Xest per a repassar amb Xavi Guillén l'històric comiat de Marc Márquez de MotoGP. Repassem la seva trajectòria i escoltem protagonistes. A la segona part del programa fem tertúlia amb Santi Ovalle, Carme Lluveras, Juli Garcia i Francesc Garriga. Àlex Delmàs ens porta la clau del Depor-Barça i acabem amb les golfes d'Òscar Nin.   ",
+        "genre": "MAGAZINE",
+        "image": "https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"
       },
       {
-        "start": "2026-11-27T18:03:00+01:00",
-        "stop": "2026-11-27T19:00:00+01:00",
-        "title": "Esport Club",
-        "subtitle": "La retirada de Marc Márquez, i tertúlia",
-        "description": "Marc Márquez ha anunciat per sorpresa que es retira aquest cap de setmana. Ho ha fet a Xest, on correrà la seva última cursa, el Gran Premi de València. N'hem parlat amb Xavi Guillén i Montse Sogues, cap de Comunicació del Circuit de Barcelona-Catalunya. A la tertúlia ens han acompanyat Gemma Mallorca, Frederic Porta i David Sánchez",
+        "start": "2026-11-28T02:29:57+01:00",
+        "stop": "2026-11-28T02:55:36+01:00",
+        "title": "3CatInfo Esports",
+        "subtitle": "",
+        "description": "Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.",
         "genre": "INFORMATIU DIÀRI",
-        "image": "https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"
+        "image": "https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"
       }
     ],
     "sx3": [
       {
-        "start": "2026-11-27T17:35:04+01:00",
-        "stop": "2026-11-27T17:56:49+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "Rescats extrems: La Patrulla salva un monstre de pel·lícula",
-        "description": "A Badia Aventures, es roda una pel·lícula amb un monstre molt gros i l'alcalde Humdinger vol que es rodi a Fons Boirós.",
+        "start": "2026-11-28T01:03:37+01:00",
+        "stop": "2026-11-28T01:23:33+01:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "El conte de tu i el Bosc Llumirint!",
+        "description": "La Chloe llegeix un llibre sobre les formes de Galar del Ponyta i el Rapidash, i després el professor Cirerer proposa que ella, l'Ash i el Goh viatgin al Bosc Llumirint per veure'ls de primera mà. Un cop allà, la Chloe descobreix que una visió que va tenir llegint el llibre era de debò: el Rapidash està ferit i el Ponyta està preocupat. Però la Chloe també llegeix que hi ha un tipus de nèctar de flor amb propietats curatives, i decideix buscar la flor. De camí, es topa amb un trio d'Impidimp juganers que al final l'ajuden a aconseguir el nèctar, i ella el porta al Rapidash. El Rapidash recupera la salut, i la Chloe i l'Eevee tornen amb els amics muntant el Rapidash i el Ponyta.",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       },
       {
-        "start": "2026-11-27T17:56:49+01:00",
-        "stop": "2026-11-27T18:07:51+01:00",
-        "title": "La Patrulla Peluda",
-        "subtitle": "Missió Peluda: La Patrulla salva el concert reial",
-        "description": "En Luke Stars ha desaparegut abans del seu concert reial de Bordaburg, i la Sweetie vol prendre-li el lloc!",
+        "start": "2026-11-28T01:23:33+01:00",
+        "stop": "2026-11-28T01:42:42+01:00",
+        "title": "Viatges Pokémon",
+        "subtitle": "A la recerca de la cavalleria!",
+        "description": "El Farfetch'd de l'Ash està decidit a convertir-se en un Mestre Porro, i l'Ash farà tot el possible per ajudar-lo! Els nostres herois, després de descobrir el Castell de la Cavalleria, un centre d'entrenament dirigit pel Til·leu, el membre dels Quatre Suprems de Kalos, decideixen anar-hi a entrenar-se! El Til·leu els té preparat un repte intensiu, i l'armadura que han de portar n'augmenta encara més la dificultat. L'Ash, el Go, el Farfetch'd i el Scyter superen tres proves, enfrontant-se a contrincants molt forts. Al final es guanyen l'admiració del Til·leu, que no només els atorga la Medalla del Cavaller, sinó que també ajuda el Goh a fer que el Scyter evolucioni a Scizor! ",
         "genre": "SÈRIE DIBUIXOS ANIMATS",
         "image": ""
       }
     ],
     "c33": [
       {
-        "start": "2026-11-27T17:25:21+01:00",
-        "stop": "2026-11-27T18:26:00+01:00",
-        "title": "Gàdor i els taurons",
-        "subtitle": "Gàdor i els taurons",
-        "description": "En la seva croada personal en defensa dels taurons, la científica marina Gàdor Muntaner s'embarca en un viatge a la recerca de l'animal que troba tan fascinant. El viatge de la Gàdor ens porta a un mar i dos oceans. Acompanyada per l'instructor de busseig i càmera submarí Jordi Atienza, el periple de la Gàdor comença a la Mediterrània, a Mallorca, on fa immersió a la reserva marina de l'Illa del Toro. Aquí, el tauró blau, o tintorera, està en perill d'extinció. Després visita la Baixa Califòrnia, a Mèxic, on va escriure la seva tesi sobre els contaminants que afecten el gran tauró blanc i va fundar una ONG. Aquí, a l'oceà Pacífic, encara es pesquen taurons. La Gàdor treballa amb els pescadors locals perquè canviïn el model de negoci, per convèncer-los que val més un tauró viu que un tauró mort. La Gàdor acaba el seu viatge a les Maldives, a l'oceà Índic, on va veure el seu primer tauró, un moment que li va canviar la vida. I a la seva mare, que l'acompanyava, també. Allà es retroba amb el seu amic Mohamed i té l'objectiu final de comprovar com ha augmentat la població de taurons tigre a causa de la protecció que n'han fet. Seria el lloc on les coses es fan millor, si no fos que en altres zones dels atols hi ha illes flotants de plàstics. ",
-        "genre": "DOCUMENTAL",
-        "image": "https://img.3cat.cat/multimedia/jpg/2/6/1732658813162.jpg"
+        "start": "2026-11-28T01:01:15+01:00",
+        "stop": "2026-11-28T01:52:16+01:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Volcans sagrats",
+        "description": "En aquest primer episodi, dedicat als volcans sagrats, coneixerem les divinitats que des de fa mil·lennis s'han associat als fenòmens volcànics, en un intent de la humanitat de comprendre l'activitat d'aquests gegants de foc i d'evitar-ne les pitjors conseqüències, sempre des del respecte i el sentiment de pertinença a una mateixa realitat natural. La ciència i la fe col·laboren per entendre i apreciar els volcans des d'una perspectiva més completa.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       },
       {
-        "start": "2026-11-27T18:26:00+01:00",
-        "stop": "2026-11-27T19:30:59+01:00",
-        "title": "Sol a Groenlàndia",
-        "subtitle": "Sol a Groenlàndia",
-        "description": "'Sol a Groenlàndia' (2025) una producció de OHM Proyectos de Implantación en coproducció amb Wanda Films i 3Cat, i la col·laboració de Rumbak. L'Unai, un jove estudiant d'antropologia, viatja en solitari a Groenlàndia a la recerca d'ossos polars i bous mesquers. Travessa la tundra i passa més de cent nits acampant entre glaceres i llacs mentre filma els bous i descobreix la vida salvatge de l'Àrtic. A l'hivern, l'Unai es trasllada a l'oceà glaçat per intentar trobar l'os polar. Passa diverses setmanes tot sol en un poblat abandonat, però no aconsegueix veure'n cap. El seu pare, un experimentat fotògraf de natura, arriba per ajudar-lo. Finalment, junts, aconsegueixen observar i filmar els ossos polars. Equip:Direcció i guió: Unai Canela Realització: Unai Canela i Andoni Canela Productor: José María Morales Productor executiu 3Cat: David Bassa Cabanas i Sílvia Pairó Vila Coordinació de continguts 3Cat: Ricard Belis Garcia Productor delegat 3Cat: Daniel Barea Delgado Director fotografia: Andoni Canela Muntatge: Unai CanelaDirector de producció: Miguel Morales Música: Kirill Valeev, Marina Iñesta, Biel Pons, Damià Lingüista: Anna Sadurní Grafisme: Adrià Rodríguez Veu en off: Unai Canela  ",
-        "genre": "DOCUMENTAL DE CREACIÓ",
-        "image": "https://img.3cat.cat/multimedia/jpg/3/5/1751879429353.jpg"
+        "start": "2026-11-28T01:52:16+01:00",
+        "stop": "2026-11-28T02:44:32+01:00",
+        "title": "Viure amb els volcans",
+        "subtitle": "Volcans beneficiosos",
+        "description": "Els volcans tenen la imatge de muntanyes de foc que amenacen l'entorn i que periòdicament causen una enorme destrucció. Tot i així, atreuen moltes persones que s'instal·len al seu voltant perquè els donen molt més del que els prenen. Emeten minerals molt importants per a l'agricultura, atreuen les pluges i també són una font d'energia que cada cop s'aprofita més arreu del món. En aquest episodi s'exploren els diversos factors beneficiosos dels volcans.",
+        "genre": "DOCUMENTAL DE DIVULGACIÓ",
+        "image": ""
       }
     ],
     "oca1": [],
